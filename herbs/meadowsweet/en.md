@@ -39,7 +39,7 @@ Use smaller doses for children under 12, due to salicylate content. Meadowsweet 
 
 Avoid meadowsweet during pregnancy, as it may stimulate uterine activity.
 
-## Contra-indications, Warnings
+## Contraindications and warnings
 
 Salicylate constituents have been documented and therefore the usual precautions recommended for salicylates are relevant for meadowsweet (see [Willow]). Meadowsweet is stated to be used for the treatment of diarrhoea in children, but in view of the salicylate constituents, this is not advisable. Bronchospastic activity has been documented in preclinical studies and, therefore, it is prudent to advise that meadowsweet should be used with caution by asthmatics. Aqueous extracts have been reported to contain high tannin concentrations and excessive consumption should therefore be avoided.
 
