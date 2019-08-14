@@ -80,7 +80,7 @@ The anti-inflammatory and pain-relieving (analgesic) actions of meadowsweet flow
 
 <!-- TODO image: tube -->
 
-## Cultural History of Meadowsweet
+## Cultural history of meadowsweet
 
 In Russian folklore the heroic knight Kudryash became terrified at the prospect of his own death and refused to fight. In shame, Kudryash planned to drown himself, a fair maiden emerged from the water giving him a garland of meadowsweet flowers, they told him that "no harm would befall of him if he wore it in battle". Kudryash remained unscathed and undefeated.
 
