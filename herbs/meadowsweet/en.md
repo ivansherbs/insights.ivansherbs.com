@@ -2,51 +2,59 @@
 
 ## Treat these health issues with flowers of meadowsweet
 
-- Inflammation and pain affecting the joints and connective tissue (rheumatism).
-- Calmative that reduces anxiety or nervousness.
-- Heartburn. Stomach and duodenal ulcers.
-- Natural pain reliever. Effective for menstrual pain.
+- **Inflammation** and **pain affecting the joints** and connective tissue (rheumatism).
+- Calmative that **reduces anxiety or nervousness**.
+- **Heartburn**. Stomach and duodenal **ulcers**.
+- Natural **pain reliever**. Effective for **menstrual pain**.
 
-<!-- TODO button: Jump to read why it works safely -->
+[Read why it works safely](#todo-add-section-link)
 
 ## Preparation
 
-To prepare a meadowsweet infusion, steep 2 g of meadowsweet flowers (1 teaspoon) in 1 cup (250 mL) of boiling water (100°C) for 10-15 minutes and then strain.
+To prepare a meadowsweet infusion, steep **2 g** (1 teaspoon) of meadowsweet flowers in **1 cup** (250 mL) of boiling water (**100°C**) for **10-15 minutes** and then strain.
 
 A meadowsweet infusion can be taken anytime for pure enjoyment of its floral notes with a sweet aftertaste.
 
 ## Dosage and course of treatment
 
-For acute, serious, and immediately present symptoms of the health issues described above, drink 1 cup during waking hours every one to two (1-2) hours. As symptoms subside, gradually space out the dose to one to two (1-2) cups daily.
+For acute, serious, and immediately present symptoms of the health issues described above, drink **1 cup** during waking hours **every 1-2 hours**. As symptoms subside, gradually space out the dose to **1-2 cups daily**.
 
-For a chronic health issue drink 1 cup before meals three (3) times daily.
+For a chronic health issue drink **1 cup** before meals **3 times daily**.
 
-When using meadowsweet to treat or prevent a health issue, or relieve the symptoms, take the appropriate dose for at least 8 days. If your health issues has been remedied, you can stop taking doses on a regular basis.
+When using meadowsweet to treat or prevent a health issue, or relieve the symptoms, take the appropriate dose for **at least 8 days**. If your health issues has been remedied, you can stop taking doses on a regular basis.
 
-If a regular basis is needed, drink 1 cup before meals three (3) times daily for eight (8) days. Let the body acclimate and stop taking doses for three (3) days before starting another 8 day treatment. Meadowsweet can be taken in this 8-days-on-3-days-off cycle continuously.
+If a regular basis is needed, drink **1 cup** before meals **3 times daily** for **8 days**. Let the body acclimate and **stop taking doses for 3 days** before starting another **8 day treatment**. Meadowsweet can be taken in this 8-days-on-3-days-off cycle continuously.
 
-<!-- TODO button: Start your trial now -->
+[Start your trial now](#todo-add-page-link)
 
 ## Precautions
 
-It’s always advised to consult your health professional and do your own research before starting any treatment to avoid interactions.
+It's always advised to consult your health professional and do your own research before starting any treatment to avoid interactions.
 
-It’s best to avoid mixing medication and herbs within three (3) hours of each other, as many combinations have not been tried or tested. Meadowsweet is known to interact with aspirin, as both have similar effects.
+It's best to **avoid mixing** medication and herbs within **3 hours of each other**, as many combinations have not been tried or tested. Meadowsweet is known to interact with aspirin, as both have similar effects.
 
-If you’re on any medication, stay on it unless otherwise prescribed by your doctor.
+If you're on any medication, stay on it unless otherwise prescribed by your doctor.
 
 Use smaller doses for children under 12, due to salicylate content. Meadowsweet should be avoided by those with a sensitivity to aspirin or salicylates.
 
 Avoid meadowsweet during pregnancy, as it may stimulate uterine activity.
 
+## Contra-indications, Warnings
+
+Salicylate constituents have been documented and therefore the usual precautions recommended for salicylates are relevant for meadowsweet (see [Willow]). Meadowsweet is stated to be used for the treatment of diarrhoea in children, but in view of the salicylate constituents, this is not advisable. Bronchospastic activity has been documented in preclinical studies and, therefore, it is prudent to advise that meadowsweet should be used with caution by asthmatics. Aqueous extracts have been reported to contain high tannin concentrations and excessive consumption should therefore be avoided.
+
+## Pregnancy and lactation
+
+In vitro utero-activity has beendocumented for meadowsweet. In view of the salicylate constituents and the lack of toxicity data, the use of meadowsweet during pregnancy and lactation should be avoided.
+
 ## Proven safety and effectiveness of meadowsweet
 
-- Inflammatory joint pain as well as non-inflammatory joint pain.
-- Soft tissue pain (fibromylagia).
-- Fever.
-- Calmative that reduces anxiety or nervousness.
-- Heartburn. Stomach and duodenal ulcers.
-- Natural reliever for general pain and aches. Effective for menstrual pain.
+- **Inflammatory joint pain** as well as **non-inflammatory joint pain**.
+- **Soft tissue pain** (fibromylagia).
+- **Fever**.
+- Calmative that **reduces anxiety or nervousness**.
+- **Heartburn**. Stomach and duodenal **ulcers**.
+- Natural reliever for **general pain** and aches. Effective for **menstrual pain**.
 
 ---
 
@@ -54,7 +62,7 @@ Meadowsweet flowers, like many natural products, contain pro-drugs. Pro-drugs ar
 
 Meadowsweet flowers naturally contain a group of compounds called salicylates. The primary ingredient in aspirin (acetyl-salicylic acid) is a salicylate and a pro-drug. Aspirin becomes the active compound salicylic acid inside the body.
 
-A standard dose of aspirin contains approximately 325 mg of acetylsalicylic acid (99% pure) and is taken every 4-6 hours for general pain relief, inflammation, and swelling [Adult NSAID ref]. A dose of 2 g of meadowsweet flowers prepared in an infusion has less than 3 mg of methyl salicylate, the primary salicylate naturally present[ref Ollenikov].
+A standard dose of aspirin contains approximately 325 mg of acetylsalicylic acid (99% pure) and is taken every 4-6 hours for general pain relief, inflammation, and swelling [Adult NSAID ref]. A dose of 2 g of meadowsweet flowers prepared in an infusion has less than 3 mg of methyl salicylate, the primary salicylate naturally present [ref Ollenikov].
 
 Clearly, just the 3 mg of methyl salicylate present in a 2 g dose of meadowsweet flowers would give a lower level of pain relief than a dose of 325mg concentrated pharmaceutical strength aspirin.
 
@@ -68,16 +76,32 @@ An infusion from meadowsweet protects the body from ulcers forming in the first 
 
 The anti-inflammatory and pain-relieving (analgesic) actions of meadowsweet flowers have been well studied and confirmed [Hoffmann, Lewis, Bone].
 
-<!-- TODO button: Start your trial now -->
+[Start your trial now](#todo-add-page-link)
 
 <!-- TODO image: tube -->
 
 ## Cultural History of Meadowsweet
 
-TODO
+In Russian folklore the heroic knight Kudryash became terrified at the prospect of his own death and refused to fight. In shame, Kudryash planned to drown himself, a fair maiden emerged from the water giving him a garland of meadowsweet flowers, they told him that "no harm would befall of him if he wore it in battle". Kudryash remained unscathed and undefeated.
 
-<!-- TODO button: Start your trial now -->
+Fresh meadowsweet is placed on the altar for love spells, or dried is used in various love mixtures. It is also strewn about the house to keep peace and the scent of Meadowsweet is said to cheer the heart. If gathered on midsummer, Meadowsweet will give you information regarding thieves: if you have been robbed, place Meadowsweet on water. If it sinks, the thief is a man. If it floats, a woman.
+
+Meadowsweet is used for love, peace and happiness. The fresh plant is used as an altar decoration or in a bridal bouquet. The scent of meadow sweet is said to cheer the heart.
+
+[Start your trial now](#todo-add-page-link)
 
 ## References
 
-TODO
+- "Adult NSAID Dosage Chart." Get Relief Responsibly®, www.getreliefresponsibly.com/use-pain-medicine-safely/adult-nsaid-dosage-chart.
+- "Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulmaria (L.) Maxim. and Filipendula Vulgaris Moench." Journal of Ethnopharmacology, Elsevier, 11 Nov. 2017, www.sciencedirect.com/science/article/pii/S0378874117332749.
+- Barnaulov, O D, and P P Denisenko. "Anti-Ulcer Action of a Decoction of the Flowers of the Dropwort, Filipendula Ulmaria (L.) Maxim." Farmakologiia i Toksikologiia, U.S. National Library of Medicine, 1980, www.ncbi.nlm.nih.gov/pubmed/7450008.
+- Bijttebier, Sebastiaan, et al. "A First Step in the Quest for the Active Constituents in Filipendula Ulmaria (Meadowsweet): Comprehensive Phytochemical Identification by Liquid Chromatography Coupled to Quadrupole-Orbitrap Mass Spectrometry." Planta Medica, vol. 82, no. 06, 2016, pp. 559–572., doi:10.1055/s-0042-101943.
+- Bone, Kerry. "A Clinical Guide to Blending Liquid Herbs E-Book: Herbal Formulations for the Individual Patient." Churchill Livingstone, 2003.
+- Bone, Kerry. "The Ultimate Herbal Compendium: a Desktop Guide for Herbal Prescribers." Phytotherapy Press, 2007.
+- Braun, Lesley, and Marc Cohen. "Herbs and Natural Supplements: an Evidence-Based Guide." Churchill Livingstone, 2015.
+- Cryer, Byron, and Kenneth W Mahaffey. "Gastrointestinal Ulcers, Role of Aspirin, and Clinical Outcomes: Pathobiology, Diagnosis, and Treatment." Journal of Multidisciplinary Healthcare, Dove Medical Press, 3 Mar. 2014, www.ncbi.nlm.nih.gov/pmc/articles/PMC3970722/.
+- Elsevier. “Home.” 2nd Edition, Churchill Livingstone, 31 Dec. 2012, www.elsevier.com/books/principles-and-practice-of-phytotherapy/9780443069925.
+- Hoffmann, David. "Medical Herbalism: the Science and Practice of Herbal Medicine." Healing Arts Press, 2003.
+- Lewis, Walter H. "Medical Botany: Plants Affecting Human Health, 2nd Edition." John Wiley & Sons, 2003.
+- Olennikov, Daniil N, et al. "Meadowsweet Teas as New Functional Beverages: Comparative Analysis of Nutrients, Phytochemicals and Biological Effects of Four Filipendula Species." Molecules (Basel, Switzerland), MDPI, 26 Dec. 2016, www.ncbi.nlm.nih.gov/pmc/articles/PMC6155584/.
+- "What Is the Mortality Rate for Peptic Ulcer Disease (PUD)?" Latest Medical News, Clinical Trials, Guidelines - Today on Medscape, 21 Dec. 2018, www.medscape.com/answers/181753-13872/what-is-the-mortality-rate-for-peptic-ulcer-disease-pud.
