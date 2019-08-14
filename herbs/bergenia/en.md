@@ -1,3 +1,0 @@
-# Bergenia (*Latin Name*)
-
-TODO
