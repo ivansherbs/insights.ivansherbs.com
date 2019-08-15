@@ -41,7 +41,7 @@ Avoid meadowsweet during pregnancy, as it may stimulate uterine activity.
 
 ## Contraindications and warnings
 
-Salicylate constituents have been documented and therefore the usual precautions recommended for salicylates are relevant for meadowsweet (see [Willow]). Meadowsweet is stated to be used for the treatment of diarrhoea in children, but in view of the salicylate constituents, this is not advisable. Bronchospastic activity has been documented in preclinical studies and, therefore, it is prudent to advise that meadowsweet should be used with caution by asthmatics. Aqueous extracts have been reported to contain high tannin concentrations and excessive consumption should therefore be avoided.
+Salicylate constituents have been documented and therefore the usual precautions recommended for salicylates are relevant for meadowsweet ([??? Willow](Willow)). Meadowsweet is stated to be used for the treatment of diarrhoea in children, but in view of the salicylate constituents, this is not advisable. Bronchospastic activity has been documented in preclinical studies and, therefore, it is prudent to advise that meadowsweet should be used with caution by asthmatics. Aqueous extracts have been reported to contain high tannin concentrations and excessive consumption should therefore be avoided.
 
 ## Pregnancy and lactation
 
@@ -92,6 +92,7 @@ Meadowsweet is used for love, peace and happiness. The fresh plant is used as an
 
 ## References
 
+- [This is the Willow reference](willow)
 - "Adult NSAID Dosage Chart." Get Relief Responsibly®, www.getreliefresponsibly.com/use-pain-medicine-safely/adult-nsaid-dosage-chart.
 - "Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulmaria (L.) Maxim. and Filipendula Vulgaris Moench." Journal of Ethnopharmacology, Elsevier, 11 Nov. 2017, www.sciencedirect.com/science/article/pii/S0378874117332749.
 - Barnaulov, O D, and P P Denisenko. "Anti-Ulcer Action of a Decoction of the Flowers of the Dropwort, Filipendula Ulmaria (L.) Maxim." Farmakologiia i Toksikologiia, U.S. National Library of Medicine, 1980, www.ncbi.nlm.nih.gov/pubmed/7450008.
@@ -105,3 +106,5 @@ Meadowsweet is used for love, peace and happiness. The fresh plant is used as an
 - Lewis, Walter H. "Medical Botany: Plants Affecting Human Health, 2nd Edition." John Wiley & Sons, 2003.
 - Olennikov, Daniil N, et al. "Meadowsweet Teas as New Functional Beverages: Comparative Analysis of Nutrients, Phytochemicals and Biological Effects of Four Filipendula Species." Molecules (Basel, Switzerland), MDPI, 26 Dec. 2016, www.ncbi.nlm.nih.gov/pmc/articles/PMC6155584/.
 - "What Is the Mortality Rate for Peptic Ulcer Disease (PUD)?" Latest Medical News, Clinical Trials, Guidelines - Today on Medscape, 21 Dec. 2018, www.medscape.com/answers/181753-13872/what-is-the-mortality-rate-for-peptic-ulcer-disease-pud.
+
+[willow]: https://example.com/willow
