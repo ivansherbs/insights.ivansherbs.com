@@ -15,3 +15,4 @@ The infusion can be taken anytime for pure enjoyment.
 ## Dosage and course of treatment
 
 Begin 2-3 days before menstruation starts. Drink **1 cup** before meals **2 times daily**. End when menstruation is over.
+The effect is most noticeable after 2 menstruation cycles
