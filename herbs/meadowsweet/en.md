@@ -62,19 +62,19 @@ Meadowsweet flowers, like many natural products, contain pro-drugs. Pro-drugs ar
 
 Meadowsweet flowers naturally contain a group of compounds called salicylates. The primary ingredient in aspirin (acetyl-salicylic acid) is a salicylate and a pro-drug. Aspirin becomes the active compound salicylic acid inside the body.
 
-A standard dose of aspirin contains approximately 325 mg of acetylsalicylic acid (99% pure) and is taken every 4-6 hours for general pain relief, inflammation, and swelling [Adult NSAID ref]. A dose of 2 g of meadowsweet flowers prepared in an infusion has less than 3 mg of methyl salicylate, the primary salicylate naturally present [ref Ollenikov].
+A standard dose of aspirin contains approximately 325 mg of acetylsalicylic acid (99% pure) and is taken every 4-6 hours for general pain relief, inflammation, and swelling ([Johnson & Johnson Consumer Inc., n.d.]). A dose of 2 g of meadowsweet flowers prepared in an infusion has less than 3 mg of methyl salicylate, the primary salicylate naturally present [ref Ollenikov].
 
 Clearly, just the 3 mg of methyl salicylate present in a 2 g dose of meadowsweet flowers would give a lower level of pain relief than a dose of 325mg concentrated pharmaceutical strength aspirin.
 
-However, 2 g of meadowsweet flowers contains about 270 mg of 119 different compounds [ref Olennikov, ref Bijttebier]. The major active compounds are salicylates, tannins, and phenolic compounds. The mixture of these compounds creates an overall effect that is safer than aspirin as will be explained below.
+However, 2 g of meadowsweet flowers contains about 270 mg of 119 different compounds ([ref Olennikov], [Bijttebier, 2016]). The major active compounds are salicylates, tannins, and phenolic compounds. The mixture of these compounds creates an overall effect that is safer than aspirin as will be explained below.
 
-Firstly, it has been confirmed that that the tannins and phenolic compounds found in meadowsweet are partially responsible for the anti-ulcer, anti-fever (antipyretic), and anti-inflammatory properties. [ref Antioxidant, Anti-Inflammatory and Gastroprotective]
+Firstly, it has been confirmed that that the tannins and phenolic compounds found in meadowsweet are partially responsible for the anti-ulcer, anti-fever (antipyretic), and anti-inflammatory properties ([Samardžića, 2018]).
 
-Aspirin, and other nonsteroidal anti-inflammatory drugs (NSAIDS), have been proven to provoke ulcers. [ref Cryer]  The probability of a person dying from a stomach (peptic) ulcer is low today, at 1 in 100,000. For a duodenal ulcer, the probability is much higher at 5 in 100 [ref what is the mortality rate].
+Aspirin, and other nonsteroidal anti-inflammatory drugs ([Johnson & Johnson Consumer Inc., n.d.]), have been proven to provoke ulcers. [ref Cryer]  The probability of a person dying from a stomach (peptic) ulcer is low today, at 1 in 100,000. For a duodenal ulcer, the probability is much higher at 5 in 100 [ref what is the mortality rate].
 
-An infusion from meadowsweet protects the body from ulcers forming in the first place (anti-ulcerogenic) [ref A Clinical Guide to, ref Braun,Lesley]. In an in vivo study done on rats, ulcers were induced using high doses of aspirin. Rats that were given meadowsweet infusions before the high dose of aspirin did not form ulcers. Furthermore, rats that already had stomach ulcers experienced higher healing when given meadowsweet infusions as treatment. [ref Barnaulov]
+An infusion from meadowsweet protects the body from ulcers forming in the first place (anti-ulcerogenic) [ref A Clinical Guide to, ref Braun, Lesley]. In an in vivo study done on rats, ulcers were induced using high doses of aspirin. Rats that were given meadowsweet infusions before the high dose of aspirin did not form ulcers. Furthermore, rats that already had stomach ulcers experienced higher healing when given meadowsweet infusions as treatment ([Barnaulov, 1980]).
 
-The anti-inflammatory and pain-relieving (analgesic) actions of meadowsweet flowers have been well studied and confirmed [Hoffmann, Lewis, Bone].
+The anti-inflammatory and pain-relieving (analgesic) actions of meadowsweet flowers have been well studied and confirmed [ref Hoffmann, Lewis, Bone].
 
 [Start your trial now](#todo-add-page-link)
 
