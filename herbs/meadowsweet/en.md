@@ -92,11 +92,18 @@ Meadowsweet is used for love, peace and happiness. The fresh plant is used as an
 
 ## References
 
-- [This is the Willow reference](willow)
-- "Adult NSAID Dosage Chart." Get Relief Responsibly®, www.getreliefresponsibly.com/use-pain-medicine-safely/adult-nsaid-dosage-chart.
-- "Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulmaria (L.) Maxim. and Filipendula Vulgaris Moench." Journal of Ethnopharmacology, Elsevier, 11 Nov. 2017, www.sciencedirect.com/science/article/pii/S0378874117332749.
-- Barnaulov, O D, and P P Denisenko. "Anti-Ulcer Action of a Decoction of the Flowers of the Dropwort, Filipendula Ulmaria (L.) Maxim." Farmakologiia i Toksikologiia, U.S. National Library of Medicine, 1980, www.ncbi.nlm.nih.gov/pubmed/7450008.
-- Bijttebier, Sebastiaan, et al. "A First Step in the Quest for the Active Constituents in Filipendula Ulmaria (Meadowsweet): Comprehensive Phytochemical Identification by Liquid Chromatography Coupled to Quadrupole-Orbitrap Mass Spectrometry." Planta Medica, vol. 82, no. 06, 2016, pp. 559–572., doi:10.1055/s-0042-101943.
+- [Johnson & Johnson Consumer Inc., n.d.]: https://www.getreliefresponsibly.com/use-pain-medicine-safely/adult-nsaid-dosage-chart 'Adult NSAID Dosage Chart'
+  Johnson & Johnson Consumer Inc. (n.d.). *Adult NSAID Dosage Chart*. Retrieved August 17, 2019, from https://www.getreliefresponsibly.com/use-pain-medicine-safely/adult-nsaid-dosage-chart
+- [Samardžića, 2018]: https://www.sciencedirect.com/science/article/pii/S0378874117332749 'Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulmaria (L.) Maxim. and Filipendula Vulgaris Moench'
+  Samardžića S., Arsenijević J., Božić D., Milenković M., Tešević V. & Maksimović Z. (2018).
+Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulmaria (L.) Maxim. and Filipendula Vulgaris Moench. *Journal of Ethnopharmacology*, 213, 132-137. https://www.sciencedirect.com/science/article/pii/S0378874117332749
+- [Barnaulov, 1980]: https://www.ncbi.nlm.nih.gov/pubmed/7450008 'Anti-Ulcer Action of a Decoction of the Flowers of the Dropwort, Filipendula Ulmaria (L.) Maxim'
+  Barnaulov, O.D. & Denisenko P.P. (1980). Anti-Ulcer Action of a Decoction of the Flowers of the Dropwort, Filipendula Ulmaria (L.) Maxim. *Farmakologiya i Toksikologiya*, 43(6), 700-5. https://www.ncbi.nlm.nih.gov/pubmed/7450008
+- [Bijttebier, 2016]: https://www.ncbi.nlm.nih.gov/pubmed/26845709 'A First Step in the Quest for the Active Constituents in Filipendula Ulmaria (Meadowsweet)'
+  Bijttebier S., Van der Auwera A., Voorspoels S., Noten B., Hermans N., Pieters L., Apers S. (2016). A First Step in the Quest for the Active Constituents in Filipendula Ulmaria (Meadowsweet): Comprehensive Phytochemical Identification by Liquid Chromatography Coupled to Quadrupole-Orbitrap Mass Spectrometry. *Planta Medica*, 82(6), 559–572. https://www.ncbi.nlm.nih.gov/pubmed/26845709
+
+TODO reference formatting:
+
 - Bone, Kerry. "A Clinical Guide to Blending Liquid Herbs E-Book: Herbal Formulations for the Individual Patient." Churchill Livingstone, 2003.
 - Bone, Kerry. "The Ultimate Herbal Compendium: a Desktop Guide for Herbal Prescribers." Phytotherapy Press, 2007.
 - Braun, Lesley, and Marc Cohen. "Herbs and Natural Supplements: an Evidence-Based Guide." Churchill Livingstone, 2015.
