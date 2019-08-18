@@ -62,7 +62,7 @@ Meadowsweet flowers, like many natural products, contain pro-drugs. Pro-drugs ar
 
 Meadowsweet flowers naturally contain a group of compounds called salicylates. The primary ingredient in aspirin (acetyl-salicylic acid) is a salicylate and a pro-drug. Aspirin becomes the active compound salicylic acid inside the body.
 
-A standard dose of aspirin contains approximately 325 mg of acetylsalicylic acid (99% pure) and is taken every 4-6 hours for general pain relief, inflammation, and swelling ([J&J C. Inc., n.d.]). A dose of 2 g of meadowsweet flowers prepared in an infusion has less than 3 mg of methyl salicylate, the primary salicylate naturally present [ref Ollenikov].
+A standard dose of aspirin contains approximately 325 mg of acetylsalicylic acid (99% pure) and is taken every 4-6 hours for general pain relief, inflammation, and swelling ([J&J C. Inc., n.d.]). A dose of 2 g of meadowsweet flowers prepared in an infusion has less than 3 mg of methyl salicylate, the primary salicylate naturally present (Olennikov, 2017).
 
 Clearly, just the 3 mg of methyl salicylate present in a 2 g dose of meadowsweet flowers would give a lower level of pain relief than a dose of 325 mg concentrated pharmaceutical strength aspirin.
 
