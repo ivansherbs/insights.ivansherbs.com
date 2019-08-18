@@ -64,7 +64,7 @@ Meadowsweet flowers naturally contain a group of compounds called salicylates. T
 
 A standard dose of aspirin contains approximately 325 mg of acetylsalicylic acid (99% pure) and is taken every 4-6 hours for general pain relief, inflammation, and swelling ([J&J C. Inc., n.d.]). A dose of 2 g of meadowsweet flowers prepared in an infusion has less than 3 mg of methyl salicylate, the primary salicylate naturally present [ref Ollenikov].
 
-Clearly, just the 3 mg of methyl salicylate present in a 2 g dose of meadowsweet flowers would give a lower level of pain relief than a dose of 325mg concentrated pharmaceutical strength aspirin.
+Clearly, just the 3 mg of methyl salicylate present in a 2 g dose of meadowsweet flowers would give a lower level of pain relief than a dose of 325 mg concentrated pharmaceutical strength aspirin.
 
 However, 2 g of meadowsweet flowers contains about 270 mg of 119 different compounds ([ref Olennikov]; [Bijttebier, 2016]). The major active compounds are salicylates, tannins, and phenolic compounds. The mixture of these compounds creates an overall effect that is safer than aspirin as will be explained below.
 
