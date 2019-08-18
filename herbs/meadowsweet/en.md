@@ -1,4 +1,4 @@
-# Meadowsweet (*Filipendula Ulmaria*)
+# Meadowsweet (*Filipendula Ulmaria*) 1
 
 ## Treat these health issues with flowers of meadowsweet
 
@@ -102,7 +102,6 @@ Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulma
 [Samardžića, 2018]: https://www.sciencedirect.com/science/article/pii/S0378874117332749 'Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulmaria (L.) Maxim. and Filipendula Vulgaris Moench'
 [Barnaulov, 1980]: https://www.ncbi.nlm.nih.gov/pubmed/7450008 'Anti-Ulcer Action of a Decoction of the Flowers of the Dropwort, Filipendula Ulmaria (L.) Maxim'
 [Bijttebier, 2016]: https://www.ncbi.nlm.nih.gov/pubmed/26845709 'A First Step in the Quest for the Active Constituents in Filipendula Ulmaria (Meadowsweet)'
-
 
 TODO reference formatting:
 
