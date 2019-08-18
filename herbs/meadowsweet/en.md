@@ -74,7 +74,7 @@ Aspirin, and other nonsteroidal anti-inflammatory drugs ([J&J C. Inc., n.d.]), h
 
 An infusion from meadowsweet protects the body from ulcers forming in the first place (anti-ulcerogenic) [ref A Clinical Guide to, ref Braun, Lesley]. In an in vivo study done on rats, ulcers were induced using high doses of aspirin. Rats that were given meadowsweet infusions before the high dose of aspirin did not form ulcers. Furthermore, rats that already had stomach ulcers experienced higher healing when given meadowsweet infusions as treatment ([Barnaulov, 1980]).
 
-The anti-inflammatory and pain-relieving (analgesic) actions of meadowsweet flowers have been well studied and confirmed [ref Hoffmann, Lewis, Bone].
+The anti-inflammatory and pain-relieving (analgesic) actions of meadowsweet flowers have been well studied and confirmed ([Bone, 2003]; [Bone, 2007]; [ref Hoffmann, Lewis]).
 
 [Start your trial now](#todo-add-page-link)
 
@@ -82,7 +82,7 @@ The anti-inflammatory and pain-relieving (analgesic) actions of meadowsweet flow
 
 ## Cultural history of meadowsweet
 
-In Russian folklore the heroic knight Kudryash became terrified at the prospect of his own death and refused to fight. In shame, Kudryash planned to drown himself, a fair maiden emerged from the water giving him a garland of meadowsweet flowers, they told him that "no harm would befall of him if he wore it in battle". Kudryash remained unscathed and undefeated.
+In Russian folklore the heroic knight Kudryash became terrified at the prospect of his own death and refused to fight. In shame, Kudryash planned to drown himself, a fair maiden emerged from the water giving him a garland of meadowsweet flowers, then told him that "no harm would befall of him if he wore it in battle". Kudryash remained unscathed and undefeated.
 
 Fresh meadowsweet is placed on the altar for love spells, or dried is used in various love mixtures. It is also strewn about the house to keep peace and the scent of Meadowsweet is said to cheer the heart. If gathered on midsummer, Meadowsweet will give you information regarding thieves: if you have been robbed, place Meadowsweet on water. If it sinks, the thief is a man. If it floats, a woman.
 
@@ -97,17 +97,18 @@ Meadowsweet is used for love, peace and happiness. The fresh plant is used as an
 Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulmaria (L.) Maxim. and Filipendula Vulgaris Moench. *Journal of Ethnopharmacology*, 213, 132-137. https://www.sciencedirect.com/science/article/pii/S0378874117332749
 - Barnaulov, O.D. & Denisenko P.P. (1980). Anti-Ulcer Action of a Decoction of the Flowers of the Dropwort, Filipendula Ulmaria (L.) Maxim. *Farmakologiya i Toksikologiya*, 43(6), 700-5. https://www.ncbi.nlm.nih.gov/pubmed/7450008
 - Bijttebier S., Van der Auwera A., Voorspoels S., Noten B., Hermans N., Pieters L., Apers S. (2016). A First Step in the Quest for the Active Constituents in Filipendula Ulmaria (Meadowsweet): Comprehensive Phytochemical Identification by Liquid Chromatography Coupled to Quadrupole-Orbitrap Mass Spectrometry. *Planta Medica*, 82(6), 559–572. https://www.ncbi.nlm.nih.gov/pubmed/26845709
+- Bone, K. (2003). *A Clinical Guide to Blending Liquid Herbs: Herbal Formulations for the Individual Patient* (1st Edition). London, England: Churchill Livingstone.
+- Bone, K. (2007) *The Ultimate Herbal Compendium: a Desktop Guide for Herbal Prescribers*. Phytotherapy Press.
 
 [J&J C. Inc., n.d.]: https://www.getreliefresponsibly.com/use-pain-medicine-safely/adult-nsaid-dosage-chart 'Adult NSAID Dosage Chart'
 [Samardžića, 2018]: https://www.sciencedirect.com/science/article/pii/S0378874117332749 'Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulmaria (L.) Maxim. and Filipendula Vulgaris Moench'
 [Barnaulov, 1980]: https://www.ncbi.nlm.nih.gov/pubmed/7450008 'Anti-Ulcer Action of a Decoction of the Flowers of the Dropwort, Filipendula Ulmaria (L.) Maxim'
 [Bijttebier, 2016]: https://www.ncbi.nlm.nih.gov/pubmed/26845709 'A First Step in the Quest for the Active Constituents in Filipendula Ulmaria (Meadowsweet)'
-
+[Bone, 2003]: https://www.elsevier.com/books/a-clinical-guide-to-blending-liquid-herbs/bone/978-1-4557-3400-9 'A Clinical Guide to Blending Liquid Herbs'
+[Bone, 2007]: https://books.google.ch/books/about/The_Ultimate_Herbal_Compendium.html?id=8JyIGAAACAAJ 'The Ultimate Herbal Compendium: a Desktop Guide for Herbal Prescribers'
 
 TODO reference formatting:
 
-- Bone, Kerry. "A Clinical Guide to Blending Liquid Herbs E-Book: Herbal Formulations for the Individual Patient." Churchill Livingstone, 2003.
-- Bone, Kerry. "The Ultimate Herbal Compendium: a Desktop Guide for Herbal Prescribers." Phytotherapy Press, 2007.
 - Braun, Lesley, and Marc Cohen. "Herbs and Natural Supplements: an Evidence-Based Guide." Churchill Livingstone, 2015.
 - Cryer, Byron, and Kenneth W Mahaffey. "Gastrointestinal Ulcers, Role of Aspirin, and Clinical Outcomes: Pathobiology, Diagnosis, and Treatment." Journal of Multidisciplinary Healthcare, Dove Medical Press, 3 Mar. 2014, www.ncbi.nlm.nih.gov/pmc/articles/PMC3970722/.
 - Elsevier. “Home.” 2nd Edition, Churchill Livingstone, 31 Dec. 2012, www.elsevier.com/books/principles-and-practice-of-phytotherapy/9780443069925.
