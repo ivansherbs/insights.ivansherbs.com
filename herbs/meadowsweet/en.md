@@ -1,4 +1,4 @@
-# Meadowsweet (*Filipendula Ulmaria*) 1
+# Meadowsweet (*Filipendula Ulmaria*)
 
 ## Treat these health issues with flowers of meadowsweet
 
