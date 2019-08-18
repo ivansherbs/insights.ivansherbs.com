@@ -66,11 +66,11 @@ A standard dose of aspirin contains approximately 325 mg of acetylsalicylic acid
 
 Clearly, just the 3 mg of methyl salicylate present in a 2 g dose of meadowsweet flowers would give a lower level of pain relief than a dose of 325 mg concentrated pharmaceutical strength aspirin.
 
-However, 2 g of meadowsweet flowers contains about 270 mg of 119 different compounds ([ref Olennikov]; [Bijttebier, 2016]). The major active compounds are salicylates, tannins, and phenolic compounds. The mixture of these compounds creates an overall effect that is safer than aspirin as will be explained below.
+However, 2 g of meadowsweet flowers contains about 270 mg of 119 different compounds ([Olennikov, 2017]; [Bijttebier, 2016]). The major active compounds are salicylates, tannins, and phenolic compounds. The mixture of these compounds creates an overall effect that is safer than aspirin as will be explained below.
 
 Firstly, it has been confirmed that that the tannins and phenolic compounds found in meadowsweet are partially responsible for the anti-ulcer, anti-fever (antipyretic), and anti-inflammatory properties ([Samardžića, 2018]).
 
-Aspirin, and other nonsteroidal anti-inflammatory drugs ([J&J C. Inc., n.d.]), have been proven to provoke ulcers. [ref Cryer]  The probability of a person dying from a stomach (peptic) ulcer is low today, at 1 in 100,000. For a duodenal ulcer, the probability is much higher at 5 in 100 [ref what is the mortality rate].
+Aspirin, and other nonsteroidal anti-inflammatory drugs ([J&J C. Inc., n.d.]), have been proven to provoke ulcers. [ref Cryer]  The probability of a person dying from a stomach (peptic) ulcer is low today, at 1 in 100,000. For a duodenal ulcer, the probability is much higher at 5 in 100 ([Anand, 2018]).
 
 An infusion from meadowsweet protects the body from ulcers forming in the first place (anti-ulcerogenic) [ref A Clinical Guide to, ref Braun, Lesley]. In an in vivo study done on rats, ulcers were induced using high doses of aspirin. Rats that were given meadowsweet infusions before the high dose of aspirin did not form ulcers. Furthermore, rats that already had stomach ulcers experienced higher healing when given meadowsweet infusions as treatment ([Barnaulov, 1980]).
 
@@ -99,6 +99,8 @@ Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulma
 - Bijttebier S., Van der Auwera A., Voorspoels S., Noten B., Hermans N., Pieters L., Apers S. (2016). A First Step in the Quest for the Active Constituents in Filipendula Ulmaria (Meadowsweet): Comprehensive Phytochemical Identification by Liquid Chromatography Coupled to Quadrupole-Orbitrap Mass Spectrometry. *Planta Medica*, 82(6), 559–572. https://www.ncbi.nlm.nih.gov/pubmed/26845709
 - Bone, K. (2003). *A Clinical Guide to Blending Liquid Herbs: Herbal Formulations for the Individual Patient* (1st Edition). London, England: Churchill Livingstone.
 - Bone, K. (2007) *The Ultimate Herbal Compendium: a Desktop Guide for Herbal Prescribers*. Phytotherapy Press.
+- Olennikov, D.N., Kashchenko N.I. & Chirikova N.K. (2017) Meadowsweet Teas as New Functional Beverages: Comparative Analysis of Nutrients, Phytochemicals and Biological Effects of Four Filipendula Species. *Molecules*, 22(1), 16 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6155584
+- Anand B.S. (2018). *What Is the Mortality Rate for Peptic Ulcer Disease (PUD)?* Retrieved August 19, 2019, from  https://www.medscape.com/answers/181753-13872/what-is-the-mortality-rate-for-peptic-ulcer-disease-pud
 
 [J&J C. Inc., n.d.]: https://www.getreliefresponsibly.com/use-pain-medicine-safely/adult-nsaid-dosage-chart 'Adult NSAID Dosage Chart'
 [Samardžića, 2018]: https://www.sciencedirect.com/science/article/pii/S0378874117332749 'Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulmaria (L.) Maxim. and Filipendula Vulgaris Moench'
@@ -106,6 +108,8 @@ Antioxidant, Anti-Inflammatory and Gastroprotective Activity of Filipendula Ulma
 [Bijttebier, 2016]: https://www.ncbi.nlm.nih.gov/pubmed/26845709 'A First Step in the Quest for the Active Constituents in Filipendula Ulmaria (Meadowsweet)'
 [Bone, 2003]: https://www.elsevier.com/books/a-clinical-guide-to-blending-liquid-herbs/bone/978-1-4557-3400-9 'A Clinical Guide to Blending Liquid Herbs'
 [Bone, 2007]: https://books.google.ch/books/about/The_Ultimate_Herbal_Compendium.html?id=8JyIGAAACAAJ 'The Ultimate Herbal Compendium: a Desktop Guide for Herbal Prescribers'
+[Olennikov, 2017]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6155584 'Meadowsweet Teas as New Functional Beverages'
+[Anand, 2018]: https://www.medscape.com/answers/181753-13872/what-is-the-mortality-rate-for-peptic-ulcer-disease-pud 'What is the mortality rate for peptic ulcer disease (PUD)?'
 
 TODO reference formatting:
 
@@ -114,7 +118,5 @@ TODO reference formatting:
 - Elsevier. “Home.” 2nd Edition, Churchill Livingstone, 31 Dec. 2012, www.elsevier.com/books/principles-and-practice-of-phytotherapy/9780443069925.
 - Hoffmann, David. "Medical Herbalism: the Science and Practice of Herbal Medicine." Healing Arts Press, 2003.
 - Lewis, Walter H. "Medical Botany: Plants Affecting Human Health, 2nd Edition." John Wiley & Sons, 2003.
-- Olennikov, Daniil N, et al. "Meadowsweet Teas as New Functional Beverages: Comparative Analysis of Nutrients, Phytochemicals and Biological Effects of Four Filipendula Species." Molecules (Basel, Switzerland), MDPI, 26 Dec. 2016, www.ncbi.nlm.nih.gov/pmc/articles/PMC6155584/.
-- "What Is the Mortality Rate for Peptic Ulcer Disease (PUD)?" Latest Medical News, Clinical Trials, Guidelines - Today on Medscape, 21 Dec. 2018, www.medscape.com/answers/181753-13872/what-is-the-mortality-rate-for-peptic-ulcer-disease-pud.
 
 [willow]: https://example.com/willow
