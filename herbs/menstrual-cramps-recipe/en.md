@@ -1,3 +1,11 @@
+(#todo-add-metatags-of-title-description-keywords)
+(#Title: Dysmenorrhea treatment with lemon balm and chamomile.
+
+Meta description: Treat dysmenorrhea with lemon balm and chamomile. Proven safety and effectiveness for menstruation cramps. Love yourself and start a trial.
+
+Keywords: lemon balm, chamomile, calendula, dysmenorrhea, menstrual cramps, treatment
+)
+
 # Menstrual cramps recipe 
 
 ## Address painful cramps during menstruation (dysmenorrhea).
