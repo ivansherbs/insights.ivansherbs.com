@@ -24,7 +24,8 @@ The infusion can be taken anytime for pure enjoyment.
 ## Dosage and course of treatment
 
 Begin 2-3 days before menstruation starts. Drink **1 cup** before meals **2 times daily**. End when menstruation is over.
-The severity of pain can be expected to be reduced after 2 treatment cycles. 
+
+The best results are obtained after two cycles of treatment.
 
 [Start your trial now](#todo-add-page-link)
 
