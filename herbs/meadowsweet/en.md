@@ -41,7 +41,7 @@ Avoid meadowsweet during pregnancy, as it may stimulate uterine activity.
 
 ## Contraindications and warnings
 
-Salicylate constituents have been documented and therefore the usual precautions recommended for salicylates are relevant for meadowsweet ([??? Willow](Willow)). Meadowsweet is stated to be used for the treatment of diarrhoea in children, but in view of the salicylate constituents, this is not advisable. Bronchospastic activity has been documented in preclinical studies and, therefore, it is prudent to advise that meadowsweet should be used with caution by asthmatics. Aqueous extracts have been reported to contain high tannin concentrations and excessive consumption should therefore be avoided.
+Salicylate constituents have been documented and therefore the usual precautions recommended for salicylates are relevant for meadowsweet (TODO [Willow]). Meadowsweet is stated to be used for the treatment of diarrhoea in children, but in view of the salicylate constituents, this is not advisable. Bronchospastic activity has been documented in preclinical studies and, therefore, it is prudent to advise that meadowsweet should be used with caution by asthmatics. Aqueous extracts have been reported to contain high tannin concentrations and excessive consumption should therefore be avoided.
 
 ## Pregnancy and lactation
 
@@ -118,5 +118,3 @@ TODO reference formatting:
 - Elsevier. “Home.” 2nd Edition, Churchill Livingstone, 31 Dec. 2012, www.elsevier.com/books/principles-and-practice-of-phytotherapy/9780443069925.
 - Hoffmann, David. "Medical Herbalism: the Science and Practice of Herbal Medicine." Healing Arts Press, 2003.
 - Lewis, Walter H. "Medical Botany: Plants Affecting Human Health, 2nd Edition." John Wiley & Sons, 2003.
-
-[willow]: https://example.com/willow
