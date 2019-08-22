@@ -43,20 +43,18 @@ Chamomile and mefenamic acid was tested in 80 women over 6 period cycles in a pl
 
 Lemon balm was tested in 100 women over 4 period cycles in a placebo-controlled double-blind **clinical trial**. The results clearly showed that after 2 cycles of treatment, lemon balm was effective at reducing the intensity of pain associated with dysmenorrhea ([Mirabi, 2017]).
 
-To date (2019) no controlled trials have been done with calendula to measure its effectiveness against dysmenorrhea. However, just like chamomile and lemon balm, there is a long history of traditional use of calendula to treat menstrual pain and cramps ([Arora, 2013]; [Medcrave, 2018]). 
+To date (2019) no controlled trials have been done with calendula to measure its effectiveness against dysmenorrhea. However, just like chamomile and lemon balm, there is a long history of traditional use of calendula to treat menstrual pain and cramps ([Arora, 2013]; [Ashwlayan, 2018]). 
 
 [Start your trial now](#todo-add-page-link)
 
 ## References
 
 - Arora D., Rani A. & Sharma A. (2013). A review on phytochemistry and ethnopharmacological aspects of genus Calendula. *Pharmacognosy Reviews*, 7(14), 179–187. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841996
-- MedCrave. “Therapeutic Potential of Calendula Officinalis.” Pharmacy &amp; Pharmacology International Journal, MedCrave Publishing, 20 Apr. 2018, https://hmedcraveonline.com/PPIJ/PPIJ-06-00171.php.
+- Ashwlayan V.D., Kumar A., Verma M., Garg V.K. & Gupta S.K. (2018) Therapeutic Potential of Calendula Officinalis. *Pharmacy & Pharmacology International Journal*, 6(2), 149-155. https://medcraveonline.com/PPIJ/PPIJ-06-00171.php
 - Mirabi, Parvaneh, et al. “The Effect of Melissa Officinalis Extract on the Severity of Primary Dysmenorrha.” Iranian Journal of Pharmaceutical Research: IJPR, Shaheed Beheshti University of Medical Sciences, 2017, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963658/.
 - Modarres, et al. “Comparison of the Effect of Mefenamic Acid and Matricaria Camomilla Capsules on Primary Dysmenorrhea.” Journal of Babol University of Medical Sciences, Journal of Babol University of Medical Sciences, 10 May 2011, https://www.jbums.org/article-1-3803-en.html.
 
 [Arora, 2013]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841996 'A review on phytochemistry and ethnopharmacological aspects of genus Calendula'
+[Ashwlayan, 2018]: https://medcraveonline.com/PPIJ/PPIJ-06-00171.php 'Therapeutic Potential of Calendula Officinalis'
 [Modarres, 2011]: https://www.jbums.org/article-1-3803-en.html
 [Mirabi, 2017]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963658
-[Medcrave, 2018]: https://hmedcraveonline.com/PPIJ/PPIJ-06-00171.php
-
-
