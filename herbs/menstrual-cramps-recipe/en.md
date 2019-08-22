@@ -49,12 +49,12 @@ To date (2019) no controlled trials have been done with calendula to measure its
 
 ## References
 
-- Arora D., Rani A. & Sharma A. (2013). A review on phytochemistry and ethnopharmacological aspects of genus Calendula. *Pharmacognosy Reviews*, 7(14), 179–187. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841996/
+- Arora D., Rani A. & Sharma A. (2013). A review on phytochemistry and ethnopharmacological aspects of genus Calendula. *Pharmacognosy Reviews*, 7(14), 179–187. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841996
 - MedCrave. “Therapeutic Potential of Calendula Officinalis.” Pharmacy &amp; Pharmacology International Journal, MedCrave Publishing, 20 Apr. 2018, https://hmedcraveonline.com/PPIJ/PPIJ-06-00171.php.
 - Mirabi, Parvaneh, et al. “The Effect of Melissa Officinalis Extract on the Severity of Primary Dysmenorrha.” Iranian Journal of Pharmaceutical Research: IJPR, Shaheed Beheshti University of Medical Sciences, 2017, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963658/.
 - Modarres, et al. “Comparison of the Effect of Mefenamic Acid and Matricaria Camomilla Capsules on Primary Dysmenorrhea.” Journal of Babol University of Medical Sciences, Journal of Babol University of Medical Sciences, 10 May 2011, https://www.jbums.org/article-1-3803-en.html.
 
-[Arora, 2013]: https://www.hncbi.nlm.nih.gov/pmc/articles/PMC3841996
+[Arora, 2013]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841996 'A review on phytochemistry and ethnopharmacological aspects of genus Calendula'
 [Modarres, 2011]: https://www.jbums.org/article-1-3803-en.html
 [Mirabi, 2017]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5963658
 [Medcrave, 2018]: https://hmedcraveonline.com/PPIJ/PPIJ-06-00171.php
