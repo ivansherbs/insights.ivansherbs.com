@@ -19,11 +19,11 @@ Calendula flowers will make you less likely to get inflammation and spasms.
 ## Your benefits with Happy Moon
 What are your best advantages of Happy Moon versus a painkiller or another pharmaceutical drug? 
 
-You can **stay productive and pain-free** during your period to do what you love everyday.
+You get a **full refund if it doesn't work for you.**
 
-You get **no negative side effects** on your body. 
+You can **stay productive and pain-free** during your period to do what you love everyday with **no negative side effects**.
 
-**You don't need to go to the post office.** It's sent with a climate-neutral delivery service straight to your letterbox. 
+**You don't need to go to the post office.** It's sent with a climate-neutral delivery service in 100% natural and bio-based packaging straight to your letterbox. 
 
 [Get your trial]  
 
