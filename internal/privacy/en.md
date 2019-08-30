@@ -1,5 +1,5 @@
-#Global Privacy Policy
-##Last Updated August 30, 2019
+# Global Privacy Policy
+## Last Updated August 30, 2019
 Ivan’s Herbs respects your right to privacy. This Privacy Notice explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Privacy Notice only applies to personal information that we collect through our website at www.ivansherbs.nl and www.ivansherbs.com (collectively, the “Site”). This Privacy Notice applies to you if you use our Site in the European Economic Area or UK.
 If you have any questions or concerns about our use of your personal information, then please contact us using the contact details provided at the bottom of this Privacy Notice.
 ### 1. What Does Ivan’s Herbs Do?
@@ -59,9 +59,9 @@ You may contact us as explained in the “How to contact us” heading below. We
 Our Site may contain links to third-party websites or mobile apps, including social sharing features and other related tools. Please be aware that Ivan’s Herbs does not control these linked websites or apps and that this Privacy Notice does not apply to any information you give to the owner of these websites or apps. We encourage you to read the privacy policy of any third-party website or app that you visit before you provide them with any information.
 ### 11. Updates to this Privacy Notice
 We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws. You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice.
-###12. How to contact us
+### 12. How to contact us
 If you have any questions or concerns about our use of your personal information, please contact Ivan’s Herbs VOF here.
-##Cookie Notice
+## Cookie Notice
 Last updated: August 30, 2019
 This Cookie Notice explains how Ivan’s Herbs and its subsidiaries (collectively “Ivan’s Herbs”, “we”, “us”, and “ours” use cookies and similar technologies to recognise you when you visit our websites (“Site”). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 ### What are cookies?
