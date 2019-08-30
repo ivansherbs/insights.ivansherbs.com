@@ -8,7 +8,7 @@ Ivan’s Herbs enables consumers to find, purchase, and use a wide range of herb
 We collect or receive personal information in a few different ways via the Site. Often, you choose what information to provide, but sometimes we require certain information in order for you to use, and for us to provide you with, the Site and the experiences you reserve or access through the Site.
 **Data You Provide To Us.**
 There are a variety of different ways you will provide data to us, such as:
-	-	Account Creation. To create an account, you need to provide data including information such as your name, email address, phone number and a password. If you make a purchase or sign up for a subscription, you will need to provide payment and billing information.
+	- Account Creation. To create an account, you need to provide data including information such as your name, email address, phone number and a password. If you make a purchase or sign up for a subscription, you will need to provide payment and billing information.
 	-	Profile. To complete your profile, you may provide other information, such as a photo or birthdate.
 	-	Posting and Uploading. We collect personal information from you when you provide, post or upload it to our Site, such as when you respond to a health survey.
 	-	Third Party Data. You may not provide information to us about someone else unless you have obtained the prior consent of the other person for us to receive and use their information, such as for emergency contact or referral purposes.
