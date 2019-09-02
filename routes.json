@@ -1,23 +1,32 @@
 {
     "en": {
-        "meadowsweet-benefits-for-pain-relief-as-an-aspirin-subsititute-to-prevent-ulcers": {
-            "file": "herbs/meadowsweet/en.html",
-            "title": "Meadowsweet benefits for pain relief as an aspirin subsititute to prevent ulcers",
-            "description": "TODO",
-            "keywords": ["meadowsweet", "pain relief", "ulcer", "TODO"]
-        },
-        "fermented-fireweed-ivan-chai-lowers-psa-and-treats-bph-and-prostatitis": "herbs/ivanchai/en.html",
-        "lemon-balm-and-chamomile-reduce-dysmenorrhea-menstruation-cramps-and-pain": {
-            "file": "herbs/menstrual-cramps-recipe/en.html",
-            "title": "Dysmenorrhea treatment with lemon balm and chamomile",
-            "description": "Treat dysmenorrhea with lemon balm and chamomile. Proven safety and effectiveness for menstruation cramps. Love yourself and start a trial.",
-            "keywords": ["lemon balm", "chamomile", "calendula", "dysmenorrhea", "menstrual cramps", "treatment"]
-         },
-         "lemon-balm-and-chamomile-reduce-dysmenorrhea-menstruation-cramps-and-pain2": {
-            "file": "herbs/menstrual-cramps-recipe/en-version2.html",
-            "title": "Dysmenorrhea treatment with lemon balm and chamomile2",
-            "description": "Treat dysmenorrhea with lemon balm and chamomile. Proven safety and effectiveness for menstruation cramps. Love yourself and start a trial.",
-            "keywords": ["lemon balm", "chamomile", "calendula", "dysmenorrhea", "menstrual cramps", "treatment"]
-        }
+            "meadowsweet-benefits-for-pain-relief-as-an-aspirin-subsititute-to-prevent-ulcers": 
+            {
+                "file": "herbs/meadowsweet/en.html",
+                "title": "Meadowsweet benefits for pain relief as an aspirin subsititute to prevent ulcers",
+                "description": "TODO",
+                "keywords": ["meadowsweet", "pain relief", "ulcer", "TODO"]
+            },
+        
+            "fermented-fireweed-ivan-chai-lowers-psa-and-treats-bph-and-prostatitis": "herbs/ivanchai/en.html",
+        
+            "lemon-balm-and-chamomile-reduce-dysmenorrhea-menstruation-cramps-and-pain": 
+            {
+                "file": "herbs/menstrual-cramps-recipe/en.html",
+                "title": "Dysmenorrhea treatment with lemon balm and chamomile",
+                "description": "Treat dysmenorrhea with lemon balm and chamomile. Proven safety and effectiveness for menstruation cramps. Love yourself and start a trial.",
+                "keywords": ["lemon balm", "chamomile", "calendula", "dysmenorrhea", "menstrual cramps", "treatment"]
+             },
+        
+            "lemon-balm-and-chamomile-reduce-dysmenorrhea-menstruation-cramps-and-pain-version-b": 
+            {
+                "file": "herbs/menstrual-cramps-recipe-version-b/en.html",
+                "title": "Dysmenorrhea treatment with lemon balm and chamomile",
+                "description": "Treat dysmenorrhea with lemon balm and chamomile. Proven safety and effectiveness for menstruation cramps. Love yourself and start a trial.",
+                "keywords": ["lemon balm", "chamomile", "calendula", "dysmenorrhea", "menstrual cramps", "treatment"]
+            },
+        
+            "terms": "internal/terms/en.html",
+            "privacy": "internal/privacy/en.html"
     }
 }
