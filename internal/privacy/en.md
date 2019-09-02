@@ -6,12 +6,15 @@ If you have any questions or concerns about our use of your personal information
 Ivan’s Herbs enables consumers to find, purchase, and use a wide range of herbal products that are beneficial to human health.
 ### 2. What Personal Information Does Ivan’s Herbs Collect?
 We collect or receive personal information in a few different ways via the Site. Often, you choose what information to provide, but sometimes we require certain information in order for you to use, and for us to provide you with, the Site and the experiences you reserve or access through the Site.
+
 **Data You Provide To Us.**
-There are a variety of different ways you will provide data to us, such as
+There are a variety of different ways you will provide data to us, such as:
+
 - Account Creation. To create an account, you need to provide data including information such as your name, email address, phone number and a password. If you make a purchase or sign up for a subscription, you will need to provide payment and billing information.
 - Profile. To complete your profile, you may provide other information, such as a photo or birthdate.
-	-	Posting and Uploading. We collect personal information from you when you provide, post or upload it to our Site, such as when you respond to a health survey.
-	-	Third Party Data. You may not provide information to us about someone else unless you have obtained the prior consent of the other person for us to receive and use their information, such as for emergency contact or referral purposes.
+- Posting and Uploading. We collect personal information from you when you provide, post or upload it to our Site, such as when you respond to a health survey.
+- Third Party Data. You may not provide information to us about someone else unless you have obtained the prior consent of the other person for us to receive and use their information, such as for emergency contact or referral purposes.
+
 **Data Collected Automatically Through Your Use of the Site.**
 	-    We log usage data when you visit or otherwise use our Site, such as when you view or click on content or ads, perform a search, or browse. Specifically, the information we collect automatically may include information like internet protocol (“IP”) address, device type, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location) and other technical information. We may also collect the information if you view or click on our content or ads displayed on third party websites or apps.We may also collect information about how your device has interacted with our Site, including the pages accessed and links clicked.
 	-	We may also collect precise geolocation data pertaining to your mobile device, if you have consented to this. We may use this information to provide, promote, and improve our services and for related reasons, such as fraud prevention and security purposes. The information we collect automatically enables us to better understand the visitors who come to our Site, where they come from, and what content on our Site is of interest to them. This enables us to improve the quality and relevance of our Site to our visitors.
