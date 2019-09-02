@@ -1,3 +1,0 @@
-# Fireweed (*Epilobium angustifolium*)
-
-TODO
