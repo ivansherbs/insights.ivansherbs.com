@@ -15,7 +15,7 @@
 
             "fermented-fireweed-ivan-chai-lowers-psa-and-treats-bph-and-prostatitis":
             {
-                "file": "herbs/ivanchai/en.html",
+                "file": "details/ivanchai/en.html",
                 "product": {
                     "coverImage": "/images/products/ivanchai.jpg",
                     "name": "Ivan Chai",
