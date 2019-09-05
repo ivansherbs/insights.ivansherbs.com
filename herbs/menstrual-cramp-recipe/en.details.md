@@ -33,11 +33,11 @@ If you're on any medication, stay on it unless otherwise prescribed by your doct
 
 Chamomile, lemon balm, and calendula, have no known severe, serious, moderate, or mild interactions with other drugs.
 
-Due to lemon balm content, this recipe should be avoided by those with hyperthyroidism.
+**Hyperthyroidism** Due to lemon balm content, this recipe should be avoided by those with hyperthyroidism.
 
-Due to chamomile and lemon balm, this recipe should be avoided during pregnancy and breastfeeding.
+**Pregnancy and breastfeeding** Due to chamomile and lemon balm, this recipe should be avoided during pregnancy and breastfeeding.
 
-## Proven safety and effectiveness of menstrual cramps recipe
+## Proven effectiveness of menstrual cramps recipe
 
 Chamomile and mefenamic acid was tested in 90 women over 6 period cycles in a placebo-controlled triple blind study. The results clearly showed that after 2 cycles of treatment, chamomile was effective at reducing the intensity of pain associated with dysmenorrhea. This trial study showed chamomile to be more effective than mefenamic acid in treating dysmenorrhea with statistical significance ([Karimian, 2013]).
 
