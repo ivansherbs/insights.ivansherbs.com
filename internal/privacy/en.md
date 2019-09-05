@@ -67,7 +67,7 @@ Our Site may contain links to third-party websites or mobile apps, including soc
 ### 11. Updates to this Privacy Notice
 We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws. You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice.
 ### 12. How to contact us
-If you have any questions or concerns about our use of your personal information, please contact Ivan’s Herbs VOF here.
+If you have any questions or concerns about our use of your personal information, please [contact Ivan’s Herbs VOF here].
 ## Cookie Notice
 Last updated: August 30, 2019
 This Cookie Notice explains how Ivan’s Herbs and its subsidiaries (collectively “Ivan’s Herbs”, “we”, “us”, and “ours” use cookies and similar technologies to recognise you when you visit our websites (“Site”). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
@@ -99,4 +99,7 @@ How often will this Cookie Notice be updated?
 We may update this Cookie Notice from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore revisit this Cookie Notice regularly to stay informed about our use of cookies and related technologies.
 The date at the top of this Cookie Notice indicates when it was last updated.
 ### Where can I get further information?
-If you have any questions about our use of cookies or other technologies, please contact us here.
+If you have any questions about our use of cookies or other technologies, please [contact us here].
+
+[contact us here]: mailto:hello@ivansherbs.com
+[contact Ivan’s Herbs VOF here]: mailto:hello@ivansherbs.com
