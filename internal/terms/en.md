@@ -99,7 +99,7 @@ The Site may include links to other web sites or services (“Linked Sites”) s
 
 
 ### 9. Delivery
-Products ordered or subscribed to before 12 noon Central European Time on Tuesdays are shipped out the same day. Delivery from our climate neutral delivery service can be expected the next day.
+We ship every Tuesday. Products ordered or subscribed to before 12 noon Central European Time on Tuesdays are shipped out the same day. Delivery from our climate neutral delivery service can be expected the next day.
 
 ### 10. Disclaimers
 
