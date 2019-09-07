@@ -1,11 +1,11 @@
-# Menstrual cramps recipe 
+# Relief Recipe for Menstrual Cramps 
 
 ## Address painful cramps during menstruation (dysmenorrhea).
 
 ## Ingredients
-- 2 parts chamomile (*Matricaria chamomilla*)
-- 2 parts lemon balm (*Melissa officinalis*)
-- 1 part calendula (*Calendula officinalis*)
+- 2 parts **chamomile flowers** (*Matricaria chamomilla*)
+- 2 parts **lemon balm** (*Melissa officinalis*)
+- 1 part **calendula flowers** (*Calendula officinalis*)
 
 ## Preparation
 
@@ -31,7 +31,7 @@ If you're on any medication, stay on it unless otherwise prescribed by your doct
 
 ## Contraindications and warnings
 
-Chamomile, lemon balm, and calendula, have no known severe, serious, moderate, or mild interactions with other drugs.
+Chamomile, lemon balm, and calendula, have **no known** severe, serious, moderate, or mild **interactions** with other drugs.
 
 **Hyperthyroidism** Due to lemon balm content, this recipe should be avoided by those with hyperthyroidism.
 
