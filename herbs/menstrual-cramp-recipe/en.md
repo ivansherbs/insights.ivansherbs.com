@@ -1,4 +1,4 @@
-# Menstrual cramps relief
+# Relief for Menstrual Cramps
 
 ## Is menstrual pain ruining your day?
 
