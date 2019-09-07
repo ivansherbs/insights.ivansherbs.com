@@ -9,11 +9,11 @@ How you ask? Ivan’s Herbs provides 100% wild grown **herbal tea** from organic
 Our **Happy Moon** herbal recipe contains **three natural herbs** which were **proven to reduce pain and cramps** for women during menstruation. 
 
 
-Chamomile flowers give you compounds that help your body to relax and relieve muscle spasms.
+**Chamomile flowers** give you compounds that help your body to relax and relieve muscle spasms.
 
-Lemon balm has been proven to calm you down and reduce cramping.
+**Lemon balm** has been proven to calm you down and reduce cramping.
 
-Calendula flowers will make you less likely to get inflammation and spasms.
+**Calendula flowers** will make you less likely to get inflammation and spasms.
 
 
 ## Your benefits with Happy Moon
