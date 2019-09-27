@@ -1,4 +1,4 @@
-#Vision & Mission
+# Vision & Mission
 
 Our vision is to build a health based community using naturally available resources as alternatives and complements to pharmaceutical medicine. Our mission to provide evidence-based, effective, and simple herbal recipes for your specific health concerns. 
 
