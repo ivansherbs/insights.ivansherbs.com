@@ -1,6 +1,6 @@
 # Visie & Missie
 
-Onze visie is om een op gezondheid gebaseerde gemeenschap op te bouwen. Dit doen wij met behulp van bronnen beschikbaar uit de natuur als alternatief en aanvulling op farmaceutische medicatie. Onze missie is om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw specifieke gezondheidsproblemen. 
+Onze visie is om een op gezondheid gebaseerde gemeenschap op te bouwen. Dit doen wij met behulp van bronnen beschikbaar uit de natuur als alternatief en aanvulling op farmaceutische medicijnen. Onze missie is om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw specifieke gezondheidsproblemen. 
 
 Wij hechten waarden aan gezondheid en natuur, zowel voor ons eigen bedrijf als voor onze klanten. Onze duurzame werkwijzen zijn gericht op klimaatneutrale verpakkingen en de vermindering van onze CO2-voetafdruk. Daarom oogsten wij onze in het wild groeiende Ivan Chai met de hand en maken wij gebruik van klimaatneutraal transport. 
 
@@ -8,7 +8,7 @@ Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner mil
 
 Met een duidelijke visie, missie en bedrijfswaarden in het achterhoofd, concentreert onze filosofie zich op de specifieke behoefte van elke progressieve, op gezondheid gerichte klant, terwijl wij diepgaande inzichten creëren in de ontwikkelings- en succesfactoren in de gebieden waarin wij actief zijn.  
 
-Industrieën verstoren continu de norm. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicatie. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.  
+Industrieën verstoren continu de norm. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.  
 
 De reis van jouw leven bestaat uit keuzes. Bij Ivan’s Herbs vergezellen wij deze reis volledig met jou. We streven ernaar jouw vertrouwde partner te zijn. Verzorg daarom dagelijks jouw gezondheid met kruiden uit Siberië. 
 
