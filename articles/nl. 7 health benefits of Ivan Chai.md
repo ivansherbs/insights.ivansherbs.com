@@ -24,7 +24,7 @@ Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te over
 ## Antioxiderende en antitumoractiviteit
 Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten [8,5]. De verantwoordelijke verbinding ‘Oenotheïne B’, een ander Polyfenol, bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben [8,3]. Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen [8].
 
-## Verzorg de gezondheid van prostaat en urinewegen
+## Verzorgt de gezondheid van prostaat en urinewegen
 De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt [10]. Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). Hiernaast verhelpt het ook de groei van de prostaat  (wetenschappelijk bekend als BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat [8]. De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij [10].
 
 ## Verzorgt het spijsverteringstelsel
@@ -69,7 +69,7 @@ Ruim 17% van de werkende mensen heeft last van stress & burnout klachten.
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
 Vrouwen voelen zich kwetsbaarder en ervaren meer angst zonder make-up. 
 
-## Verzorg de gezondheid van prostaat en urinewegen 
+## Verzorgt de gezondheid van prostaat en urinewegen 
 - PROSTATITIS. 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. 
 
