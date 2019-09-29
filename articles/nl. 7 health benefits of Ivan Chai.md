@@ -35,50 +35,58 @@ Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt oms
 
 # Inzichten om rekening mee te houden - de Statistieken 
 Ivan Chai bevat 7 gezondheidsvoordelen waarvan allen op feiten gebaseerd, waarbij wij, Ivan’s Herbs, ons richten op het bieden van effectieve en eenvoudige kruiden recepten voor jouw specifieke gezondheidsproblemen. 
+
 Hieronder een overzicht van de gezondheidsvoordelen in combinatie met enkele gezondheidsproblemen waar wij ons op richten:
 
 ## Immuniteit
-CANDIDA - Schimmelinfectie (o.a oraal of vaginaal) 
+- CANDIDA - Schimmelinfectie (o.a oraal of vaginaal) 
+
 Schimmels zijn bij iedereen aanwezig. Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt. 
 Risicofactoren zijn roken, een kunstgebit en diabetes. 
 
 ## Krachtige ontstekingsremmer
-BLAASONTSTEKING. 
+- BLAASONTSTEKING. 
 Circa 20% van de vrouwen heeft hier jaarlijks mee te maken.
- DARMONTSTEKING. 
+
+- DARMONTSTEKING. 
 Meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. 
-ZWAK IMMUUNSYSTEEM
+
+- ZWAK IMMUUNSYSTEEM
 Farmaceutische medicijnen hebben vaak als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem. Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem. 
-WAZIGE GEEST
+
+- WAZIGE GEEST
 Bij de inname van farmaceutische medicijnen kunnen bijwerkingen optreden met een wazige geest tot gevolg. De juiste doses werkzame stoffen in medicatie, verschillend per menselijk lichaam, wat gelijkmatige naar de hersenen kan worden getransporteerd is nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden. Veel bijwerkingen kunnen hierdoor optreden met een wazige geest tot gevolg. 
 
 ## Verbetert de slaap en vermindert stress & angst
-SLAAP
+- SLAAP
 Ruim 20% van de Nederlanders van 12 jaar of ouder heeft naar eigen zeggen problemen met slapen (CBS). 
-STRESS & BURNOUT KLACHTEN
+
+- STRESS & BURNOUT KLACHTEN
 Ruim 17% van de werkende mensen heeft last van stress & burnout klachten. 
-ANGST 
+
+- ANGST 
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
 Vrouwen voelen zich kwetsbaarder en ervaren meer angst zonder make-up. 
 
 ## Verzorg de gezondheid van prostaat en urinewegen 
-PROSTATITIS. 
+- PROSTATITIS. 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. 
-BPH (PROSTAATHYPERPLASIE). 
+
+- BPH (PROSTAATHYPERPLASIE). 
 30% van de mannen krijgt hier mee te maken op latere leeftijd
 
 ## Antioxiderende en antitumoractiviteit
-PROSTAATKANKER. 
+- PROSTAATKANKER. 
 Bij ongeveer 10.000 Nederlandse mannen wordt jaarlijks prostaatkanker vastgesteld. 
 Mannen vanaf een jaar of 40, lopen een vergrote kans om prostaatkanker op te lopen.
 
 ## Verzorgt het spijsverteringsstelsel
-SPIJSVERTERINGSONEVENWICHTIGHEDEN
+- SPIJSVERTERINGSONEVENWICHTIGHEDEN
 Ruim de helft van de volwassen heeft overgewicht. Ruim de helft van de volwassenen volgt een dieet. Een groot deel van de volwassenen heeft hierdoor een prikkelbare maagwand en darmen.
 Gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden krijgen last van reizigersdiarree. 
 
 ## Van nature een licht zoete smaak 
-DIABETES
+- DIABETES
 Per dag krijgen nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Hiernaast zijn er nog pakweg 20 andere gevolgen door de inname van suiker. 
  
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
