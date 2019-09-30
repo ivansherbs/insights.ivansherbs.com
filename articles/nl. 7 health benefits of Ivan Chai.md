@@ -100,7 +100,7 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
  
 
 
-Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
+[Via deze link ons eerste recept gericht op de gezondheid van de prostaat]
   
  
  
@@ -180,4 +180,4 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 [18.1]: https://www.mlds.nl/ziekten/functionele-maagklachten/
 [18.2]: https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103 
 [19]: https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/krijg-je-van-suiker-diabetes
-[20]:
+[Via deze link ons eerste recept gericht op de gezondheid van de prostaat]: 
