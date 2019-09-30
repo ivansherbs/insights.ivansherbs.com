@@ -120,7 +120,7 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 
 
 
-[Battinelli, 2001]: https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub
+[1]: https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub
 [Borchardt, 2009]: https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin
 [Miyamoto, 1993]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/
 [Kolesova, 2017]: https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level
