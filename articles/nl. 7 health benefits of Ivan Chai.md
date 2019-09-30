@@ -13,95 +13,78 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai waarna we er kort op
 7) Van nature een licht zoete smaak 
 
 ## Immuniteit
+- Schimmelinfecties 
+Schimmels zijn bij iedereen aanwezig (o.a oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt. 
+Risicofactoren zijn roken, een kunstgebit en diabetes. 
+
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd [2,1]. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
-## Krachtige Ontstekingsremmer - ook tegen blaasontsteking
+## Krachtige Ontstekingsremmer 
+- Blaasontsteking
+Circa 20% van de vrouwen heeft hier jaarlijks mee te maken.
+
+- Darmontsteking
+Meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. 
+
+- Zwak immuunsysteem
+Farmaceutische medicijnen hebben vaak als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem. Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem. 
+
+- Wazige geest
+Bij de inname van farmaceutische medicijnen kunnen bijwerkingen optreden met een wazige geest tot gevolg. De juiste doses werkzame stoffen in medicatie, verschillend per menselijk lichaam, wat gelijkmatige naar de hersenen kan worden getransporteerd is nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden. Veel bijwerkingen kunnen hierdoor optreden met een wazige geest tot gevolg. 
+
 Ivan Chai is een krachtige ontstekingsremmer [9,7,1,4]. Het is bewezen effectiever dan Cortison bij het onderdrukken van ontstekingen [6]. Het verminderen van ontstekingen is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals uw blaas, darmen, een zwak immuunsysteem of een wazige geest. 
 
 ## Verbetert de slaap en vermindert stress en angst
-Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is een bekend mild kalmerend middel in de traditionele volksgeneeskunde [10,9]. Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen [4,9]. Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
-
-## Antioxiderende en antitumoractiviteit
-Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten [8,5]. De verantwoordelijke verbinding ‘Oenotheïne B’, een ander Polyfenol, bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben [8,3]. Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen [8].
-
-## Verzorgt de gezondheid van prostaat en urinewegen
-De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt [10]. Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). Hiernaast verhelpt het ook de groei van de prostaat  (wetenschappelijk bekend als BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat [8]. De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij [10].
-
-## Verzorgt het spijsverteringstelsel
-Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken [6,4]. Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai [6]. 
-
-## Van nature licht zoete smaak - suiker toevoegen niet nodig 
-Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak [11,12]. Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig. 
-
-
-# Inzichten om rekening mee te houden - de Statistieken 
-Ivan Chai bevat 7 gezondheidsvoordelen waarvan allen op feiten gebaseerd, waarbij wij, Ivan’s Herbs, ons richten op het bieden van effectieve en eenvoudige kruiden recepten voor jouw specifieke gezondheidsproblemen. 
-
-Hieronder een overzicht van de gezondheidsvoordelen in combinatie met enkele gezondheidsproblemen waar wij ons op richten:
-
-## Immuniteit
-- CANDIDA - Schimmelinfectie (o.a oraal of vaginaal) 
-
-Schimmels zijn bij iedereen aanwezig. Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt. 
-Risicofactoren zijn roken, een kunstgebit en diabetes. 
-
-## Krachtige ontstekingsremmer
-- BLAASONTSTEKING. 
-Circa 20% van de vrouwen heeft hier jaarlijks mee te maken.
-
-- DARMONTSTEKING. 
-Meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. 
-
-- ZWAK IMMUUNSYSTEEM
-Farmaceutische medicijnen hebben vaak als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem. Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem. 
-
-- WAZIGE GEEST
-Bij de inname van farmaceutische medicijnen kunnen bijwerkingen optreden met een wazige geest tot gevolg. De juiste doses werkzame stoffen in medicatie, verschillend per menselijk lichaam, wat gelijkmatige naar de hersenen kan worden getransporteerd is nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden. Veel bijwerkingen kunnen hierdoor optreden met een wazige geest tot gevolg. 
-
-## Verbetert de slaap en vermindert stress & angst
-- SLAAP
+- Slaap
 Ruim 20% van de Nederlanders van 12 jaar of ouder heeft naar eigen zeggen problemen met slapen (CBS). 
 
-- STRESS & BURNOUT KLACHTEN
+- Stress & Burnout klachten
 Ruim 17% van de werkende mensen heeft last van stress & burnout klachten. 
 
-- ANGST 
+- Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
 Vrouwen voelen zich kwetsbaarder en ervaren meer angst zonder make-up. 
 
-## Verzorgt de gezondheid van prostaat en urinewegen 
-- PROSTATITIS. 
-30% van de mannen ouder dan 50 jaar heeft problemen met plassen. 
-
-- BPH (PROSTAATHYPERPLASIE). 
-30% van de mannen krijgt hier mee te maken op latere leeftijd
+Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is een bekend mild kalmerend middel in de traditionele volksgeneeskunde [10,9]. Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen [4,9]. Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
 
 ## Antioxiderende en antitumoractiviteit
-- PROSTAATKANKER. 
+- Prostaatkanker
 Bij ongeveer 10.000 Nederlandse mannen wordt jaarlijks prostaatkanker vastgesteld. 
 Mannen vanaf een jaar of 40, lopen een vergrote kans om prostaatkanker op te lopen.
 
-## Verzorgt het spijsverteringsstelsel
-- SPIJSVERTERINGSONEVENWICHTIGHEDEN
+Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten [8,5]. De verantwoordelijke verbinding ‘Oenotheïne B’, een ander Polyfenol, bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben [8,3]. Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen [8].
+
+## Verzorgt de gezondheid van prostaat en urinewegen
+- Prostatitis 
+30% van de mannen ouder dan 50 jaar heeft problemen met plassen. 
+
+- BPH (Prostaathyperplasie)
+30% van de mannen krijgt hier mee te maken op latere leeftijd
+
+De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt [10]. Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). Hiernaast verhelpt het ook de groei van de prostaat  (wetenschappelijk bekend als BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat [8]. De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij [10].
+
+## Verzorgt het spijsverteringstelsel
+- Spijsverteringsonevenwichtigheden
 Ruim de helft van de volwassen heeft overgewicht. Ruim de helft van de volwassenen volgt een dieet. Een groot deel van de volwassenen heeft hierdoor een prikkelbare maagwand en darmen.
 Gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden krijgen last van reizigersdiarree. 
 
-## Van nature een licht zoete smaak 
-- DIABETES
+Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken [6,4]. Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai [6]. 
+
+## Van nature licht zoete smaak - suiker toevoegen niet nodig 
+- Diabetes
 Per dag krijgen nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Hiernaast zijn er nog pakweg 20 andere gevolgen door de inname van suiker. 
+Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak [11,12]. Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig. 
+
  
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
  
 
 
-
 Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
- 
- 
+  
  
  
 ## Referenties
-
 
 [1] Battinelli, Lucia, et al. “Antimicrobial Activity of Epilobium Spp. Extracts.” Il Farmaco, vol. 67, no. 6–8, 2001, pp. 356–359., doi:10.1017/s0015–928x(01)01058–3.
 
@@ -126,3 +109,5 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 [11] Steursma, R. Thee Expert - My Daily Tea Cup - Thee recencie Ivan Chai - 21 mei 2019. http://mydailyteacup.nl/theereview-ivans-herbs/ 
 
 [12] Velder, M.L. Thee & Kruiden Expert - ‘t Zonnetje. https://www.koffietheeenkruiden.nl/
+
+
