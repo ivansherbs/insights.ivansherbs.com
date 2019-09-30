@@ -15,7 +15,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 # Immuniteit
 ## Anti-infecties 
 
-Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt. 
+Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). 
 Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes. 
 
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2],[1]). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
@@ -23,15 +23,15 @@ Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën e
 # Krachtige Ontstekingsremmer 
 ## Blaasontsteking
 
-Circa 20% van de vrouwen heeft hier jaarlijks mee te maken.
+Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14],[14-1],[14-2]).
 
 ## Darmontsteking
 
-De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. 
+De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. In de medische wereld staat deze ontsteking ook wel bekend als 'Enteritis'([14-3]).
 
 ## Zwak immuunsysteem
 
-Farmaceutische medicijnen hebben vaak als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem. Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem. 
+Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4],[14-5]). Zware farmaceutische medicijnen hebben vaak als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem. 
 
 ## Wazige geest
 
@@ -132,3 +132,17 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 [10]: https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y
 [11]: http://mydailyteacup.nl/theereview-ivans-herbs/ 
 [12]: https://www.koffietheeenkruiden.nl/ 
+
+[13]: https://candida.nl
+[14]: https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/
+[14-1]: https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen
+[14-2]: https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking
+[14-3]: https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html
+[14-4]: https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen)
+[14-5]: 
+[15]:
+[16]:
+[17]:
+[18]:
+[19]:
+[20]:
