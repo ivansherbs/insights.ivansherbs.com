@@ -122,13 +122,13 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 
 [1]: https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub
 [2]: https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin
-[Miyamoto, 1993]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/
-[Kolesova, 2017]: https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level
-[Ostrovska, 2017]: https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties
-[Rogers, 2014]: https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4
-[Sayik, 2017]: https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf
-[Schepetkin, 2016]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/
-[Serebryanaya, 2016]: https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region
-[Wood, 2010]: https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y
-[Steursma]: http://mydailyteacup.nl/theereview-ivans-herbs/ 
-[Velder]: https://www.koffietheeenkruiden.nl/ 
+[3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/
+[4]: https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level
+[5]: https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties
+[6]: https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4
+[7]: https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf
+[8]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/
+[9]: https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region
+[10]: https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y
+[11]: http://mydailyteacup.nl/theereview-ivans-herbs/ 
+[12]: https://www.koffietheeenkruiden.nl/ 
