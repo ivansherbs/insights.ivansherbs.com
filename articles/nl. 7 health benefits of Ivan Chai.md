@@ -61,7 +61,7 @@ Van circa 60 to 70% van de gevallen is de ziekte van Alzheimer de degeneratieve 
 ## Hart- en vaatziekten - Een tekort aan Vitamine E
 Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 <br> 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
-Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte.
+<br>Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte.
 In Nederland leven naar schatting 670.000 vrouwen met eenb hart- of vaatziekten. ([16-1],[16-3])
 
 ## Prostaatkanker
