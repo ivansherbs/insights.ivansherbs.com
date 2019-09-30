@@ -37,7 +37,7 @@ Farmaceutische medicijnen hebben vaak als bijwerking het doden van witte bloedce
 
 Bij de inname van farmaceutische medicijnen kunnen bijwerkingen optreden met een wazige geest tot gevolg. De juiste doses werkzame stoffen in medicatie, verschillend per menselijk lichaam, wat gelijkmatige naar de hersenen kan worden getransporteerd is nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden. Veel bijwerkingen kunnen hierdoor optreden met een wazige geest tot gevolg. 
 
-- Ivan Chai is een krachtige ontstekingsremmer ([9],[7],[1],[4]). Het is bewezen effectiever dan Cortison bij het onderdrukken van ontstekingen [6]. Het verminderen van ontstekingen is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals uw blaas, darmen, een zwak immuunsysteem of een wazige geest. 
+- Ivan Chai is een krachtige ontstekingsremmer ([9],[7],[1],[4]). Het is bewezen effectiever dan Cortison bij het onderdrukken van ontstekingen ([6]). Het verminderen van ontstekingen is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals uw blaas, darmen, een zwak immuunsysteem of een wazige geest. 
 
 # Verbetert de slaap en vermindert stress en angst
 ## Slaap
@@ -50,7 +50,7 @@ Ruim 17% van de werkende mensen heeft last van stress & burnout klachten.
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
 Vrouwen voelen zich kwetsbaarder en ervaren meer angst zonder make-up. 
 
-- Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen [4,9]. Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
+- Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4,9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
 
 # Antioxiderende en antitumoractiviteit
 ## Prostaatkanker
