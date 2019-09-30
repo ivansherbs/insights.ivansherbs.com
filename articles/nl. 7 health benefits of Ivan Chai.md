@@ -84,16 +84,16 @@ Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lop
 
 # Verzorgt het spijsverteringstelsel
 ## Spijsverteringsonevenwichtigheden
-Ruim de helft van de volwassen heeft overgewicht. Ruim de helft van de volwassenen volgt een dieet. Een groot deel van de volwassenen heeft hierdoor een prikkelbare maagwand en darmen ([18.1],[18.2]).
-Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden krijgen last van reizigersdiarree. 
+Een op de vier mensen in Nederland heeft wel eens last van de maag. Voor deze maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18.1]).
+Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden krijgen last van reizigersdiarree ([18.2]). 
 
 - Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6],[4]). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6]). 
 
 # Van nature licht zoete smaak - suiker toevoegen niet nodig 
 ## Diabetes
-Per dag krijgen nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Hiernaast zijn er nog pakweg 20 andere gevolgen door de inname van suiker. 
+Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Dit kan leiden tot overgewicht. Hiernaast zijn er nog andere gevolgen door de inname van suiker, pakweg 20([19]).
 
-- Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11],[12]). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig. 
+- Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11],[12]). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig.
 
  
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
@@ -177,7 +177,7 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 [17-1]: https://www.andros.nl/prostaatklachten/prostaatontsteking/
 [17-2]: https://www.andros.nl/prostaatklachten/vergrote-prostaat/
 [17-3]: https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen
-[18.1]: https://www.volksgezondheidenzorg.info/onderwerp/overgewicht/cijfers-context/huidige-situatie#node-overgewicht-volwassenen
-[18.2]: 
-[19]:
+[18.1]: https://www.mlds.nl/ziekten/functionele-maagklachten/
+[18.2]: https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103 
+[19]: https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/krijg-je-van-suiker-diabetes
 [20]:
