@@ -2,9 +2,9 @@
 
 Ivan’s Herbs might help to relieve those annoying symptoms from an enlarged prostate.
 
-How you ask? Ivan’s Herbs provides 100% wild grown<span> </span>**herbal tea**<span> </span>from organic origins with<span> </span>**proven benefits**<span> </span>on health issues.
+How you ask? Ivan’s Herbs provides 100% wild grown<span> </span>**herbal tea**<span> </span>from organic origins with**proven benefits** on health issues.
 
-Our<span> </span>**Ivan Chai** contains<span> </span>**a natural herb**<span> </span>which was<span> </span>**proven to reduce symptoms **related to an enlarged prostate (also known as benign prostatic hyperplasia or BPH). There's also evidence that shows it reduces the 
+Our **Ivan Chai** contains **a natural herb** which was **proven to reduce symptoms** related to an enlarged prostate (also known as benign prostatic hyperplasia or BPH). 
 
 The fermented leaves of fireweed give you compounds that help slow the growth of your prostate and keep inflammation in check.
 
@@ -14,14 +14,14 @@ Need to see the scientific proof and directions? You can [read it here](https://
 
 What are your best advantages of Ivan Chai versus another pharmaceutical drug?
 
-You can<span> </span>**enjoy what you love doing** everyday with<span> </span>**no negative side effects**.
+You can **enjoy what you love doing** everyday with **no negative side effects**.
 
-<span>It's completely natural and </span>**does not burden your liver **<span>like some medications do.</span>
+It's completely natural and **does not burden your liver** like some medications do.
 
-**You don't need to go anywhere.**<span> </span>It's sent with a climate-neutral delivery service in a 100% natural and bio-based packaging straight **to your letterbox**.
+**You don't need to go anywhere.** It's sent with a climate-neutral delivery service in a 100% natural and bio-based packaging straight **to your letterbox**.
 
 ## Product Contents
 
-One order contains 100 grams of fireweed. Using our recommendation of 2 grams per cup, that's<span> **50**</span>** cups**<span> </span>of herbal tea.
+One order contains 100 grams of fireweed. Using our recommendation of 2 grams per cup, that's **50 cups** of herbal tea.
 
 All packaging is 100% recyclable.
