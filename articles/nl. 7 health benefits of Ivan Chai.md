@@ -15,7 +15,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 # Immuniteit
 ## Anti-Infecties 
 
-Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). Circa 60% van de vrouwen in de leeftijdscategorie 15-49, gebruiken bijvoorbeeld anticonceptie ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes. 
+Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). Circa 1.600.000 vrouwen gebruikt anticonceptie ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13-3]). Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes. 
 
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2],[1]). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
@@ -33,17 +33,18 @@ De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïndu
 Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4]). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([14-5],[14-6]) Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steed de gevolgen in het dagelijkse leven ([14-7])
 
 ## Wazige geest door Farmaceutische Medicijnen of Drugs
-Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14-8]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd is bij verschillende medicatie nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden ([14-9]). Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14-10]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14-11]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14-12][14-13][14-14]). 
+Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14-8]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd is bij verschillende medicatie nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden ([14-9]). 
+Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14-10]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14-11]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14-12][14-13][14-14]). 
 De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest tot gevolg. 
 
 - Ivan Chai is een krachtige ontstekingsremmer ([9],[7],[1],[4]). Het is bewezen effectiever dan Cortison bij het onderdrukken van ontstekingen ([6]). Het verminderen van ontstekingen is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals uw blaas, darmen, een zwak immuunsysteem of een wazige geest. 
 
 # Verbetert de slaap en vermindert stress en angst
 ## Slaap
-Ruim 20% van de Nederlanders van 12 jaar of ouder heeft naar eigen zeggen problemen met slapen (CBS). 
+Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen ([15-1]). Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid ([15-2]). 
 
 ## Stress & Burnout klachten
-Ruim 17% van de werkende mensen heeft last van stress & burnout klachten. 
+Volgens 1 van de 3 grootste Zorgverzekeraars van Nederland, heeft ruim 17% van de werkende mensen heeft last van stress & burnout klachten. Dit komt neer op € 2.300.000.000  aan verzuimkosten door werkstress ([15-3]).
 
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
@@ -133,8 +134,9 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 [12]: https://www.koffietheeenkruiden.nl/ 
 
 [13]: https://candida.nl
-[13-1]: https://www.rutgers.nl/feiten-en-cijfers/seksuele-gezondheid-en-gedrag/seksuele-gezondheid-nederland/anticonceptiegebruik
+[13-1]: https://www.sfk.nl/publicaties/PW/2019/anticonceptiepil-op-rantsoen-door-tekort
 [13-2]: https://www.gezondheidsnet.nl/brandend-maagzuur/wat-je-moet-weten-over-maagzuurremmers
+[13-3]: https://www.sfk.nl/publicaties/PW/2017/antibioticagebruik-in-zomer-daalt-al-enige-jaren-gestaag
 [14]: https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/
 [14-1]: https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen
 [14-2]: https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking
@@ -150,7 +152,9 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 [14-12]: https://nos.nl/nieuwsuur/artikel/2283342-cocaine-de-champagne-van-de-amsterdamse-zuidas.html
 [14-13]: https://www.nrc.nl/nieuws/2018/01/05/drank-en-drugs-en-groente-en-sport-a1587153
 [14-14]: https://www.erasmusmagazine.nl/2018/09/27/even-snuiven-in-de-kroeg-drugs-populair-onder-studenten/
-[15]: 
+[15-1]: https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen
+[15-2]: https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen
+[15-3]: https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress
 [16]:
 [17]:
 [18]:
