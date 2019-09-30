@@ -2,7 +2,7 @@
 
 Ivan’s Herbs heeft als missie om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw specifieke gezondheidsproblemen. Het informeren en onderwijzen van de voordelen van Ivan Chai is gebaseerd op hedendaagse wetenschappelijke artikelen en voelt als een tweede natuur voor ons. 
 
-Hieronder een kort overzicht van de voordelen van Ivan Chai waarna we er kort op ingaan en jou inzichten verschaffen gebaseerd op hedendaagse statistieken. De 7 gezondheidsvoordelen van Ivan Chai zijn als volgt: 
+Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort op ingaan en jou inzichten verschaffen gebaseerd op hedendaagse statistieken. De 7 gezondheidsvoordelen van Ivan Chai zijn als volgt: 
 
 1) Immuniteit 
 2) Krachtige ontstekingsremmer
@@ -15,8 +15,8 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai waarna we er kort op
 # Immuniteit
 ## Anti-infecties 
 
-Schimmels zijn bij iedereen aanwezig (o.a oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt. 
-Risicofactoren die de kans op gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes. 
+Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt. 
+Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes. 
 
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd [2,1]. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
@@ -64,7 +64,7 @@ Mannen vanaf een jaar of 40, lopen een vergrote kans om prostaatkanker op te lop
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. 
 
 ## BPH (Prostaathyperplasie)
-30% van de mannen krijgt hier mee te maken op latere leeftijd
+30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. 
 
 - De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt [10]. Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). Hiernaast verhelpt het ook de groei van de prostaat  (wetenschappelijk bekend als BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat [8]. De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij [10].
 
