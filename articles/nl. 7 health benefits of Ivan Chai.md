@@ -34,7 +34,9 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4]). Farmac
 
 ## Wazige geest door Farmaceutische Medicijnen of Drugs
 Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14-8]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd is bij verschillende medicatie nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden ([14-9]). 
+
 Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14-10]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14-11]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14-12][14-13][14-14]). 
+
 De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest tot gevolg. 
 
 - Ivan Chai is een krachtige ontstekingsremmer ([9],[7],[1],[4]). Het is bewezen effectiever dan Cortison bij het onderdrukken van ontstekingen ([6]). Het verminderen van ontstekingen is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals uw blaas, darmen, een zwak immuunsysteem of een wazige geest. 
