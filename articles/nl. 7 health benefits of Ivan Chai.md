@@ -97,7 +97,7 @@ Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinder
 
  
  
-# Over ons 
+# Over Ivan's Herbs  
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
  
 
