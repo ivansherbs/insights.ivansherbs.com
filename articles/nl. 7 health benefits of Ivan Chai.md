@@ -15,7 +15,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 # Immuniteit
 ## Anti-Infecties 
 
-Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). Circa 1.600.000 vrouwen gebruikt anticonceptie ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13-3]). Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes. 
+Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13-3]). Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes. 
 
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2],[1]). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
@@ -26,7 +26,7 @@ Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de v
 
 ## Darmontsteking
 
-De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. In de medische wereld staat deze ontsteking ook wel bekend als 'Enteritis'([14-3]).
+De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis'([14-3]).
 
 ## Zwak immuunsysteem door Farmaceutische Medicijnen of Chemotherapie
 
@@ -35,7 +35,7 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4]). Farmac
 ## Wazige geest door Farmaceutische Medicijnen of Drugs
 Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14-8]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd is bij verschillende medicatie nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden ([14-9]). 
 
-Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14-10]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14-11]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14-12][14-13][14-14]). 
+Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14-10]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. Volgens het door de wet verboden drugs hebben circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14-11]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14-12][14-13][14-14]). 
 
 De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest tot gevolg. 
 
@@ -46,15 +46,24 @@ De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest t
 Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen ([15-1]). Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid ([15-2]). 
 
 ## Stress & Burnout klachten
-Volgens 1 van de 3 grootste Zorgverzekeraars van Nederland, heeft ruim 17% van de werkende mensen heeft last van stress & burnout klachten. Dit komt neer op € 2.300.000.000  aan verzuimkosten door werkstress ([15-3]).
+Volgens 1 van de 3 grootste Zorgverzekeraars van Nederland, heeft ruim 17% van de werkende mensen heeft last van stress & burnout klachten. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15-3]).
 
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
-Vrouwen voelen zich kwetsbaarder en ervaren meer angst zonder make-up. 
+Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up ([15-4]). 
 
 - Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
 
-# Antioxiderende en antitumoractiviteit
+# Antioxiderende en antitumoractiviteit 
+## De ziekte van Alzheimer - Een tekort aan Vitamine E
+Van circa 60 to 70% van de gevallen is de ziekte van Alzheimer de degeneratieve aandoening van dementie. Dit kan worden veroorzaakt door een tekort aan vitamine E. Boven de 90 jaar heeft 40% dementie. Op jongere leeftijd begint dementie tussen de 40 en 65 jaar. In Nederland hebben we circa 12.000 mensen jonger dan 65 jaar waarvan de diagnose is gesteld dat ze dementie hebben ([16-1],[16-2]). 
+
+## Hart- en vaatziekten - Een tekort aan Vitamine E
+Nederland telt circa 1.400.000 hart- en vaatpatiënten.
+1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
+Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte.
+In Nederland leven naar schatting 670.000 vrouwen met eenb hart- of vaatziekten. ([16-1],[16-3])
+
 ## Prostaatkanker
 Bij ongeveer 10.000 Nederlandse mannen wordt jaarlijks prostaatkanker vastgesteld. 
 Mannen vanaf een jaar of 40, lopen een vergrote kans om prostaatkanker op te lopen.
@@ -156,8 +165,11 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 [14-14]: https://www.erasmusmagazine.nl/2018/09/27/even-snuiven-in-de-kroeg-drugs-populair-onder-studenten/
 [15-1]: https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen
 [15-2]: https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen
-[15-3]: https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress
-[16]:
+[15-3]: https://www.cz.nl/zakelijk/arbeidsrisicos/
+[15-4]: https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/
+[16-1]: https://mens-en-gezondheid.infonu.nl/aandoeningen/184412-vitamine-e-deficientie-tekort-aan-vitamine-e.html
+[16-2]: https://www.alzheimer-nederland.nl/dementie
+[16-3]: https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten
 [17]:
 [18]:
 [19]:
