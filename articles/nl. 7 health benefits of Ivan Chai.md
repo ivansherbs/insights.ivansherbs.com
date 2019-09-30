@@ -65,23 +65,26 @@ Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 <br><br>In Nederland leven naar schatting 670.000 vrouwen met eenb hart- of vaatziekten. ([16-1],[16-3])
 
 ## Prostaatkanker
-Bij ongeveer 10.000 Nederlandse mannen wordt jaarlijks prostaatkanker vastgesteld. 
-Mannen vanaf een jaar of 40, lopen een vergrote kans om prostaatkanker op te lopen.
+Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. 
+Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([16-4])
 
 - Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten ([8],[5]). De verantwoordelijke verbinding ‘Oenotheïne B’, een ander Polyfenol, bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben ([8],[3]). Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen ([8]).
 
 # Verzorgt de gezondheid van prostaat en urinewegen
-## Prostatitis 
-30% van de mannen ouder dan 50 jaar heeft problemen met plassen. 
+## Prostaatontsteking  
+30% van de mannen ouder dan 50 jaar heeft problemen met plassen ([17-1]).
 
 ## BPH (Prostaathyperplasie)
-30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. 
+30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat ([17-2]). 
+
+## Urineweg infectie 
+80% van de vrouwen krijgt ten minste 1 keer in hun leven een infectie aan de urinewegen ([17-3]). 
 
 - De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt ([10]). Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). Hiernaast verhelpt het ook de groei van de prostaat (BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat ([8]). De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij ([10]).
 
 # Verzorgt het spijsverteringstelsel
 ## Spijsverteringsonevenwichtigheden
-Ruim de helft van de volwassen heeft overgewicht. Ruim de helft van de volwassenen volgt een dieet. Een groot deel van de volwassenen heeft hierdoor een prikkelbare maagwand en darmen.
+Ruim de helft van de volwassen heeft overgewicht. Ruim de helft van de volwassenen volgt een dieet. Een groot deel van de volwassenen heeft hierdoor een prikkelbare maagwand en darmen ([18.1],[18.2]).
 Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden krijgen last van reizigersdiarree. 
 
 - Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6],[4]). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6]). 
@@ -170,7 +173,11 @@ Via deze link ons eerste recept gericht op de gezondheid van de prostaat.
 [16-1]: https://mens-en-gezondheid.infonu.nl/aandoeningen/184412-vitamine-e-deficientie-tekort-aan-vitamine-e.html
 [16-2]: https://www.alzheimer-nederland.nl/dementie
 [16-3]: https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten
-[17]:
-[18]:
+[16-4]: https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie
+[17-1]: https://www.andros.nl/prostaatklachten/prostaatontsteking/
+[17-2]: https://www.andros.nl/prostaatklachten/vergrote-prostaat/
+[17-3]: https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen
+[18.1]: https://www.volksgezondheidenzorg.info/onderwerp/overgewicht/cijfers-context/huidige-situatie#node-overgewicht-volwassenen
+[18.2]: 
 [19]:
 [20]:
