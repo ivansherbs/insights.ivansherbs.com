@@ -69,7 +69,7 @@ Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bes
 De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt [10]. Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). Hiernaast verhelpt het ook de groei van de prostaat  (wetenschappelijk bekend als BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat [8]. De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij [10].
 
 # Verzorgt het spijsverteringstelsel
-# Spijsverteringsonevenwichtigheden
+## Spijsverteringsonevenwichtigheden
 Ruim de helft van de volwassen heeft overgewicht. Ruim de helft van de volwassenen volgt een dieet. Een groot deel van de volwassenen heeft hierdoor een prikkelbare maagwand en darmen.
 Gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden krijgen last van reizigersdiarree. 
 
