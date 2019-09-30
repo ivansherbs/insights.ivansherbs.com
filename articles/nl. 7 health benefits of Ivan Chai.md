@@ -71,7 +71,7 @@ Mannen vanaf een jaar of 40, lopen een vergrote kans om prostaatkanker op te lop
 # Verzorgt het spijsverteringstelsel
 ## Spijsverteringsonevenwichtigheden
 Ruim de helft van de volwassen heeft overgewicht. Ruim de helft van de volwassenen volgt een dieet. Een groot deel van de volwassenen heeft hierdoor een prikkelbare maagwand en darmen.
-Gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden krijgen last van reizigersdiarree. 
+Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden krijgen last van reizigersdiarree. 
 
 - Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken [6,4]. Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai [6]. 
 
