@@ -1,25 +1,27 @@
-NEEDS FORMATTING
+## Is your Prostate a growing Pain?
 
-Is urination a frequent pain?
+Ivan’s Herbs might help to relieve those annoying symptoms from an enlarged prostate.
 
-Ivan’s Herbs might help to relieve you in the times you need it most.
+How you ask? Ivan’s Herbs provides 100% wild grown<span> </span>**herbal tea**<span> </span>from organic origins with<span> </span>**proven benefits**<span> </span>on health issues.
 
-How you ask? Ivan’s Herbs provides 100% wild grown herbal tea from organic origins with proven benefits on health issues.
+Our<span> </span>**Ivan Chai** contains<span> </span>**a natural herb**<span> </span>which was<span> </span>**proven to reduce symptoms **related to an enlarged prostate (also known as benign prostatic hyperplasia or BPH). There's also evidence that shows it reduces the 
 
-Our Ivan Chai herbal recipe contains a natural herb which was proven to reduce symptoms related to an enlarged prostate (also known as benign prostatic hyperplasia or BPH).
+The fermented leaves of fireweed give you compounds that help slow the growth of your prostate and keep inflammation in check.
 
-The fermented leaves of fireweed give you compounds that help slow the growth of your prostate and keep inflammation in check.
+Need to see the scientific proof and directions? You can [read it here](https://ivans-herbs-1-1.myshopify.com/pages/fireweed-treats-bph-and-lowers-psa).
 
-Your benefits with Ivan Chai
-What are your best advantages of Ivan Chai versus another pharmaceutical drug?
+## Your benefits with Ivan Chai
 
-You can enjoy what you love doing everyday with no negative side effects.
+What are your best advantages of Ivan Chai versus another pharmaceutical drug?
 
-It's completely natural and does not burden your liver like some medications do.
+You can<span> </span>**enjoy what you love doing** everyday with<span> </span>**no negative side effects**.
 
-You don't need to go to the post office. It's sent with a climate-neutral delivery service in a 100% natural and bio-based packaging straight to your letterbox.
+<span>It's completely natural and </span>**does not burden your liver **<span>like some medications do.</span>
 
-PRODUCT CONTENTS
-One order contains 100 grams of fireweed. Using our recommendation of 2 grams per cup, that's 50 cups of herbal tea.
+**You don't need to go anywhere.**<span> </span>It's sent with a climate-neutral delivery service in a 100% natural and bio-based packaging straight **to your letterbox**.
 
-All packaging is 100% recyclable
+## Product Contents
+
+One order contains 100 grams of fireweed. Using our recommendation of 2 grams per cup, that's<span> **50**</span>** cups**<span> </span>of herbal tea.
+
+All packaging is 100% recyclable.
