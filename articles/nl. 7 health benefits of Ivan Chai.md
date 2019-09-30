@@ -13,7 +13,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai waarna we er kort op
 7) Van nature een licht zoete smaak 
 
 # Immuniteit
-## Schimmelinfecties 
+## Anti-infecties 
 
 Schimmels zijn bij iedereen aanwezig (o.a oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt. 
 Risicofactoren zijn roken, een kunstgebit en diabetes. 
