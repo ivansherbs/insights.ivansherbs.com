@@ -16,7 +16,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai waarna we er kort op
 ## Anti-infecties 
 
 Schimmels zijn bij iedereen aanwezig (o.a oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt. 
-Risicofactoren zijn roken, een kunstgebit en diabetes. 
+Risicofactoren die de kans op gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes. 
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd [2,1]. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
@@ -27,7 +27,7 @@ Circa 20% van de vrouwen heeft hier jaarlijks mee te maken.
 
 ## Darmontsteking
 
-Meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. 
+De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. 
 
 ## Zwak immuunsysteem
 
@@ -50,7 +50,7 @@ Ruim 17% van de werkende mensen heeft last van stress & burnout klachten.
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
 Vrouwen voelen zich kwetsbaarder en ervaren meer angst zonder make-up. 
 
-Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is een bekend mild kalmerend middel in de traditionele volksgeneeskunde [10,9]. Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen [4,9]. Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
+Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde [10,9]. Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen [4,9]. Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
 
 # Antioxiderende en antitumoractiviteit
 ## Prostaatkanker
