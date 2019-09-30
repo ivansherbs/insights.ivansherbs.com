@@ -1,6 +1,6 @@
 # Vision & Mission
 
-Our vision is to build a health based community using naturally available resources as alternatives and complements to pharmaceutical medicine. Our mission to provide evidence-based, effective, and simple herbal recipes for your specific health concerns. 
+Our vision is to build a health based community using naturally available resources as alternatives and complements to pharmaceutical medicine. Our mission is to provide evidence-based, effective, and simple herbal recipes for your specific health concerns. 
 
 We value health and nature, both for our own company and for our customers. Our sustainable practices focus on climate neutral packaging and the reduction of our carbon footprint. That’s why we hand harvest plants that were grown in the wild and deliver using climate-neutral shipping services.
 
@@ -10,7 +10,7 @@ With a clear vision, mission and company values in mind, our philosophy focuses 
 
 As industries continuously disrupt the norms, our customers can rely on us to educate them about natural medicines that can be used with or instead of pharmaceutical drugs. Our advice to the pharmaceutical industry is to keep on discovering. We certainly will too.
 
-Life’s journey is fully of choices. At Ivan's Herbs we fully embark on this journey with you, striving to be your trusted partner that delivers daily herbal empowerment to you, our health-oriented customer.
+Life’s journey is fully of choices. At Ivan's Herbs we wish to fully embark on this journey with you. We strive to be your trusted partner that provides you with the best choice of herbal empowerment for every day of your life.
 
 # Founder's Story
 
