@@ -91,7 +91,7 @@ Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropisc
 
 # Van nature licht zoete smaak - suiker toevoegen niet nodig 
 ## Diabetes
-Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Dit kan leiden tot overgewicht. Hiernaast zijn er nog andere gevolgen door de inname van suiker, pakweg 20([19]).
+Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Dit kan leiden tot overgewicht. Hiernaast zijn er nog andere gevolgen door de inname van suiker - pakweg 20([19]).
 
 - Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11],[12]). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig.
 
