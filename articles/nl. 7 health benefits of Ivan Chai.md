@@ -50,7 +50,7 @@ Ruim 17% van de werkende mensen heeft last van stress & burnout klachten.
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
 Vrouwen voelen zich kwetsbaarder en ervaren meer angst zonder make-up. 
 
-- Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4,9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
+- Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
 
 # Antioxiderende en antitumoractiviteit
 ## Prostaatkanker
