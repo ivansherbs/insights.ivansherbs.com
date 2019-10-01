@@ -12,10 +12,14 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 6) Verzorgt het spijsverteringsstelsel
 7) Van nature een licht zoete smaak 
 
+Graag willen we benadrukken dat ziektes complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de gezondheidsvoordelen.
+
 # Immuniteit
 ## Anti-Infecties 
 
-Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13-3]). Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes ([13-4]).
+Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). 
+Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13-3]). 
+Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes ([13-4]).
 
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2],[1]). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
@@ -26,16 +30,16 @@ Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de v
 
 ## Darmontsteking
 
-De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door te lang stil zitten. In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis'([14-3]).
+Meer dan 55.000 mensen hebben last van een chronisch onstoken darmwand ([14-3.2]). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis'([14-3]) De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([14-3.3]) door te lang stil zitten. 
 
 ## Zwak immuunsysteem door Farmaceutische Medicijnen of Chemotherapie
 
-Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4]). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([14-5],[14-6]) Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steed de gevolgen in het dagelijkse leven ([14-7])
+Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4]). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([14-5],[14-6]). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steed de gevolgen in het dagelijkse leven ([14-7])
 
 ## Wazige geest door Farmaceutische Medicijnen of Drugs
 Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14-8]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd is bij verschillende medicatie nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden ([14-9]). 
 
-Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14-10]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. XTC of MDMA zijn volgens de wet verboden. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14-11]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14-12],[14-13],[14-14]). 
+Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14-10]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. XTC of MDMA zijn volgens de wet verboden. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er in Nederland 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14-11]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14-12],[14-13],[14-14]).
 
 De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest tot gevolg. 
 
@@ -161,6 +165,8 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [14-3]: https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html
 [14-3.0]: https://www.gezondheidsnet.nl/blaasontsteking/blaasontsteking-een-sekssouvenir
 [14-3.1]: https://www.tandfonline.com/doi/abs/10.1080/14737167.2017.1359543?journalCode=ierp20
+[14-3.2]: https://www.kiesbeter.nl/onderwerpen/chronische-darmontstekingen?subjectId=219&sectorId=1
+[14-3.3]: https://mens-en-gezondheid.infonu.nl/ziekten/52748-darmonsteking-en-diarree.html
 [14-4]: https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen)
 [14-5]: https://www.mmc.nl/oncologie/aandoening-en-behandeling/chemotherapie/
 [14-6]: https://www.chemotherapie.nl/wat-is-chemo/effecten-van-chemo
