@@ -59,10 +59,11 @@ Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up 
 Van circa 60 to 70% van de gevallen is de ziekte van Alzheimer de degeneratieve aandoening van dementie. Dit kan worden veroorzaakt door een tekort aan vitamine E. Boven de 90 jaar heeft 40% dementie. Op jongere leeftijd begint dementie tussen de 40 en 65 jaar. In Nederland hebben we circa 12.000 mensen jonger dan 65 jaar waarvan de diagnose is gesteld dat ze dementie hebben ([16-1],[16-2]). 
 
 ## Hart- en vaatziekten - Een tekort aan Vitamine E
-Nederland telt circa 1.400.000 hart- en vaatpatiënten.
-<br><br> 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
-<br><br>Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte.
-<br><br>In Nederland leven naar schatting 670.000 vrouwen met een hart- of vaatziekten. ([16-1],[16-3])
+-Nederland telt circa 1.400.000 hart- en vaatpatiënten.
+<br><br>-1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
+<br><br>-In Nederland leven naar schatting 670.000 vrouwen met een hart- of vaatziekten.
+<br><br>-Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte ([16-1],[16-3]).
+
 
 ## Prostaatkanker
 Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. 
