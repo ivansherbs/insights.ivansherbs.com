@@ -20,9 +20,9 @@ Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige h
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2],[1]). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
 # Krachtige Ontstekingsremmer 
-## Blaasontsteking
+## Blaasontsteking 
 
-Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14],[14-1],[14-2]).
+Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14],[14-1],[14-2]). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed ([14-3.0],[14-3.1]). 
 
 ## Darmontsteking
 
@@ -158,6 +158,8 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [14-1]: https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen
 [14-2]: https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking
 [14-3]: https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html
+[14-3.0]: https://www.gezondheidsnet.nl/blaasontsteking/blaasontsteking-een-sekssouvenir
+[14-3.1]: https://www.tandfonline.com/doi/abs/10.1080/14737167.2017.1359543?journalCode=ierp20
 [14-4]: https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen)
 [14-5]: https://www.mmc.nl/oncologie/aandoening-en-behandeling/chemotherapie/
 [14-6]: https://www.chemotherapie.nl/wat-is-chemo/effecten-van-chemo
