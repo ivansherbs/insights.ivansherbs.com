@@ -30,7 +30,7 @@ Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de v
 
 ## Darmontsteking
 
-Meer dan 55.000 mensen hebben last van een chronisch onstoken darmwand ([14-3.2]). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis'([14-3]) De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([14-3.3]) door bijvoorbeeld te lang stil zitten. 
+Meer dan 55.000 mensen hebben last van een chronisch onstoken darmwand ([14-3.2]). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis'([14-3]). De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([14-3.3]) door bijvoorbeeld te lang stil zitten. 
 
 ## Zwak immuunsysteem door Farmaceutische Medicijnen of Chemotherapie
 
