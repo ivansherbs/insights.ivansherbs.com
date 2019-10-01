@@ -15,7 +15,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 # Immuniteit
 ## Anti-Infecties 
 
-Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13-3]). Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes. 
+Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13-3]). Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes ([13-4]).
 
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2],[1]). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
@@ -153,6 +153,7 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [13-1]: https://www.sfk.nl/publicaties/PW/2019/anticonceptiepil-op-rantsoen-door-tekort
 [13-2]: https://www.gezondheidsnet.nl/brandend-maagzuur/wat-je-moet-weten-over-maagzuurremmers
 [13-3]: https://www.sfk.nl/publicaties/PW/2017/antibioticagebruik-in-zomer-daalt-al-enige-jaren-gestaag
+[13-4]: https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond
 [14]: https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/
 [14-1]: https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen
 [14-2]: https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking
