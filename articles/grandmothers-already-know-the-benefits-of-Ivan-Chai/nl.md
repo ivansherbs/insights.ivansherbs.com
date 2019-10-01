@@ -1,8 +1,8 @@
 ## Grootmoeders kennen de voordelen van Ivan Chai
 
 Anekdotisch bewijs is krachtig. Alle attente grootmoeders hebben veel anekdotes gehoord. Het zijn onder andere dé betrouwbare bronnen voor voeding en welzijn. Een bonus is dat ze over het algemeen niet in gecompliceerde termen spreken. Ze zijn begrijpelijk. 
-Grootmoeders van de voormalige Sovjet-Unie zijn op de hoogte van Ivan Chai. Ivan Chai is ook wel bekend als het Wilgeroosje, het werd verzameld in de USSR en elders vanwege de vele gezondheidsvoordelen. De bladeren van het Wilgenroosje kunnen worden gefermenteerd en tot een traditionele kruideninfusie worden gemaakt. <br><br>
-Dit traditionele kruideninfuus draagt tegenwoordig nog steeds de historische naam Ivan Chai. Vraag oma wat de gezondheidsvoordelen zijn van Ivan Chai en je krijgt naast eenvoudige antwoorden als goed voor de prostaat en urinewegen, goed tegen stress en angst, de volgende voordelen te horen;
+Grootmoeders van de voormalige Sovjet-Unie zijn op de hoogte van Ivan Chai. 
+<br><br>Ivan Chai is ook wel bekend als het Wilgeroosje, het werd verzameld in de USSR en elders vanwege de vele gezondheidsvoordelen. De bladeren van het Wilgenroosje kunnen worden gefermenteerd en tot een traditionele kruideninfusie worden gemaakt. Dit traditionele kruideninfuus draagt tegenwoordig nog steeds de historische naam Ivan Chai. Vraag oma wat de gezondheidsvoordelen zijn van Ivan Chai en je krijgt naast eenvoudige antwoorden als goed voor de prostaat en urinewegen, goed tegen stress en angst, de volgende voordelen te horen;
 
 # Krachtige Ontstekingsremmer - ook tegen blaasontsteking
 In de academische wereld zijn de voordelen van Ivan Chai, oftewel het Wilgenroosje goed onderzocht. Het Wilgenroosje is een krachtige ontstekingsremmer ([9],[7],[1],[4]). Het is bewezen effectiever dan Cortison bij het onderdrukken van ontstekingen ([6]). Het verminderen van ontstekingen is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals uw blaas, darmen, een zwak immuunsysteem of een wazige geest. Een alerte oma zal dit hebben geweten.
