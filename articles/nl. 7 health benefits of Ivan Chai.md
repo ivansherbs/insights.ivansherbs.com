@@ -34,7 +34,7 @@ Meer dan 55.000 mensen hebben last van een chronisch onstoken darmwand ([14-3.2]
 
 ## Zwak immuunsysteem door Farmaceutische Medicijnen of Chemotherapie
 
-Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4]). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([14-5],[14-6]). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steed de gevolgen in het dagelijkse leven ([14-7]).
+Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4]). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([14-5],[14-6]). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steeds de gevolgen in het dagelijkse leven ([14-7]).
 
 ## Wazige geest door Farmaceutische Medicijnen of Drugs
 Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14-8]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd is bij verschillende medicatie nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden ([14-9]). 
