@@ -60,7 +60,7 @@ Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up 
 
 # Antioxiderende en antitumoractiviteit 
 ## De ziekte van Alzheimer - Een tekort aan Vitamine E
-Van circa 60 to 70% van de gevallen is de ziekte van Alzheimer de degeneratieve aandoening van dementie. Dit kan worden veroorzaakt door een tekort aan vitamine E. Boven de 90 jaar heeft 40% dementie. Op jongere leeftijd begint dementie tussen de 40 en 65 jaar. In Nederland hebben we circa 12.000 mensen jonger dan 65 jaar waarvan de diagnose is gesteld dat ze dementie hebben ([16-1],[16-2]). 
+Van circa 60 tot 70% van de gevallen is de ziekte van Alzheimer de degeneratieve aandoening van dementie. Dit kan worden veroorzaakt door een tekort aan vitamine E. Boven de 90 jaar heeft 40% dementie. Op jongere leeftijd begint dementie tussen de 40 en 65 jaar. In Nederland hebben we circa 12.000 mensen jonger dan 65 jaar waarvan de diagnose is gesteld dat ze dementie hebben ([16-1],[16-2]). 
 
 ## Hart- en vaatziekten - Een tekort aan Vitamine E
 -Nederland telt circa 1.400.000 hart- en vaatpatiënten.
@@ -89,8 +89,8 @@ Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lop
 
 # Verzorgt het spijsverteringstelsel
 ## Spijsverteringsonevenwichtigheden
-Een op de vier mensen in Nederland heeft wel eens last van de maag. Voor deze maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18.1]).
-Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden krijgen last van reizigersdiarree ([18.2]). 
+1 op de 4 mensen in Nederland heeft wel eens last van de maag. Voor deze maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18.1]).
+Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree ([18.2]). 
 
 - Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6],[4]). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6]). 
 
