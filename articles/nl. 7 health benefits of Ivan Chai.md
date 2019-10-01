@@ -12,7 +12,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 6) Verzorgt het spijsverteringsstelsel
 7) Van nature een licht zoete smaak 
 
-Graag willen we benadrukken dat ziektes complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de gezondheidsvoordelen.
+Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de gezondheidsvoordelen.
 
 # Immuniteit
 ## Anti-Infecties 
