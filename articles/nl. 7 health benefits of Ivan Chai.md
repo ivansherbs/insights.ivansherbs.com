@@ -17,7 +17,7 @@ Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangs
 # Immuniteit
 ## Anti-Infecties 
 
-Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13]). 
+Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13],[13.0]). 
 Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13-3]). 
 Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes ([13-4]).
 
@@ -159,6 +159,7 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [12]: https://www.koffietheeenkruiden.nl/ 
 
 [13]: https://candida.nl
+[13.0]: https://www.rivm.nl/candida
 [13-1]: https://www.sfk.nl/publicaties/PW/2019/anticonceptiepil-op-rantsoen-door-tekort
 [13-2]: https://www.gezondheidsnet.nl/brandend-maagzuur/wat-je-moet-weten-over-maagzuurremmers
 [13-3]: https://www.sfk.nl/publicaties/PW/2017/antibioticagebruik-in-zomer-daalt-al-enige-jaren-gestaag
