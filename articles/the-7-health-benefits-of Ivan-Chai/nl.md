@@ -1,6 +1,7 @@
 # De 7 gezondheidsvoordelen van Ivan Chai
+<p style="text-align: justify;"> 
 
-Ivan’s Herbs heeft als missie om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw specifieke gezondheidsproblemen. Het informeren en onderwijzen van de voordelen van Ivan Chai is gebaseerd op hedendaagse wetenschappelijke artikelen en voelt als een tweede natuur voor ons. 
+Ivan’s Herbs heeft als missie om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw specifieke gezondheidsproblemen. Het informeren en onderwijzen van de voordelen van Ivan Chai is gebaseerd op hedendaagse wetenschappelijke artikelen en voelt als een tweede natuur voor ons. </p>
 
 Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort op ingaan en jou inzichten verschaffen gebaseerd op hedendaagse statistieken. De 7 gezondheidsvoordelen van Ivan Chai zijn als volgt: 
 
@@ -12,7 +13,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 6) Verzorgt het spijsverteringsstelsel
 7) Van nature een licht zoete smaak 
 
-Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de gezondheidsvoordelen.
+Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de gezondheidsvoordelen. 
 
 # 1) Immuniteit
 ## Anti-Infecties 
@@ -140,7 +141,6 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [11] Steursma, R. Thee Expert - My Daily Tea Cup - Thee recencie Ivan Chai - 21 mei 2019. http://mydailyteacup.nl/theereview-ivans-herbs/ 
 
 [12] Velder, M.L. Thee & Kruiden Expert - ‘t Zonnetje - 2017. https://www.koffietheeenkruiden.nl/
-
 
 
 
