@@ -14,7 +14,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 
 Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de gezondheidsvoordelen.
 
-# Immuniteit
+# 1) Immuniteit
 ## Anti-Infecties 
 
 Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13],[13.0]). 
@@ -24,7 +24,7 @@ Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën e
 Ivan Chai versterkt de immuniteit:
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2],[1]). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
-# Krachtige Ontstekingsremmer 
+# 2) Krachtige Ontstekingsremmer 
 ## Blaasontsteking 
 
 Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14],[14-1],[14-2]). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed ([14-3.0],[14-3.1]). 
@@ -45,7 +45,7 @@ Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, w
 Ivan Chai werkt als een krachtige ontstekingsremmer:
 - Ivan Chai is een krachtige ontstekingsremmer ([9],[7],[1],[4]). Het is bewezen effectiever dan Cortisol bij het onderdrukken van ontstekingen ([6]). Het verminderen van ontstekingen is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals uw blaas, darmen, een zwak immuunsysteem of een wazige geest. 
 
-# Verbetert de slaap en vermindert stress en angst
+# 3) Verbetert de slaap en vermindert stress en angst
 ## Slaap
 Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen ([15-1]). Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid ([15-2]). 
 
@@ -59,7 +59,7 @@ Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up 
 Ivan Chai verbetert de slaap en vermindert stress en angst:
 - Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
 
-# Antioxiderende en antitumoractiviteit 
+# 4) Antioxiderende en antitumoractiviteit 
 ## De ziekte van Alzheimer - Een tekort aan Vitamine E
 Van circa 60 tot 70% van de gevallen is de ziekte van Alzheimer de degeneratieve aandoening van dementie. Dit kan worden veroorzaakt door een tekort aan vitamine E. Boven de 90 jaar heeft 40% dementie. Op jongere leeftijd begint dementie tussen de 40 en 65 jaar. In Nederland hebben we circa 12.000 mensen jonger dan 65 jaar waarvan de diagnose is gesteld dat ze dementie hebben ([16-1],[16-2]). 
 
@@ -76,7 +76,7 @@ Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lop
 Ivan Chai werkt antioxiderend en versterkt de antitumoractiviteit:
 - Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten ([8],[5]). De verantwoordelijke verbinding ‘Oenotheïne B’, een ander Polyfenol, bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben ([8],[3]). Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen ([8]).
 
-# Verzorgt de gezondheid van prostaat en urinewegen
+# 5) Verzorgt de gezondheid van prostaat en urinewegen
 ## Prostaatontsteking  
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen ([17-1]).
 
@@ -89,7 +89,7 @@ Ivan Chai werkt antioxiderend en versterkt de antitumoractiviteit:
 Ivan Chai verzorgt de gezondheid van prostaat en urinewegen:
 - De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt ([10]). Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). Hiernaast verhelpt het ook de groei van de prostaat (BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat ([8]). De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij ([10]).
 
-# Verzorgt het spijsverteringstelsel
+# 6) Verzorgt het spijsverteringstelsel
 ## Spijsverteringsonevenwichtigheden
 1 op de 4 mensen in Nederland heeft wel eens last van de maag. Voor deze maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18.1]).
 Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree ([18.2]). 
@@ -97,7 +97,7 @@ Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropisc
 Ivan Chai verzorgt het spijsverteringsstelsel:
 - Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6],[4]). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6]). 
 
-# Van nature licht zoete smaak - suiker toevoegen niet nodig 
+# 7) Van nature licht zoete smaak - suiker toevoegen niet nodig 
 ## Diabetes
 Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Dit kan leiden tot overgewicht. Hiernaast zijn er nog andere gevolgen door de inname van suiker - pakweg 20([19]).
 
