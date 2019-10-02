@@ -21,7 +21,7 @@ Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige h
 Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13-1]). Hiernaast gebruiken zo'n 2.000.000 mensen regelmatig een maagzuurremmer ([13-2]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13-3]). 
 Risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes ([13-4]).
 
-Ivan Chai versterkt de immuniteit:
+<b>Ivan Chai versterkt de immuniteit:</b>
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2],[1]). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
 
 # 2) Krachtige Ontstekingsremmer 
