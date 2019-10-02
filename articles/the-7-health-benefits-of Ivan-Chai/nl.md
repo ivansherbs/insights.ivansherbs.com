@@ -50,11 +50,11 @@ Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, w
 Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen ([15-1]). Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid ([15-2]). 
 
 ## Stress & Burnout klachten
-Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15-3],[15-3.1]).
+Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15-3],[15-3.1]). Hiernaast kunnen problemen als stress in combinatie met overgewicht en pharmaceutiche producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben ([15-3.2]).
 
 ## Angst
-In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
-Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up ([15-4]). 
+In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15-4]). Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
+Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up (15-5]). 
 
 <b>Ivan Chai verbetert de slaap en vermindert stress en angst:</b>
 - Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
@@ -186,7 +186,9 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [15-2]: https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen
 [15-3]: https://www.cz.nl/zakelijk/arbeidsrisicos/
 [15-3.1]: https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx
+[15-3.2]: https://mens-en-gezondheid.infonu.nl/natuurgeneeswijze/81693-natuurlijke-geneesmiddelen-tegen-eczeem.html#hoe-ontstaat-eczeem
 [15-4]: https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/
+[15-5]: https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871
 [16-1]: https://mens-en-gezondheid.infonu.nl/aandoeningen/184412-vitamine-e-deficientie-tekort-aan-vitamine-e.html
 [16-2]: https://www.alzheimer-nederland.nl/dementie
 [16-3]: https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten
