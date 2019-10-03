@@ -12,7 +12,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 6) Verzorgt het spijsverteringsstelsel
 7) Van nature een licht zoete smaak 
 
-Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de gezondheidsvoordelen. 
+Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de gezondheidsvoordelen.
 
 # 1) Immuniteit
 ## Anti-Infecties 
@@ -50,7 +50,7 @@ Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, w
 Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen ([15-1]). Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid ([15-2]). 
 
 ## Stress & Burnout klachten
-Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15-3],[15-3.1]). Hiernaast kunnen problemen als stress in combinatie met overgewicht en pharmaceutiche producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben ([15-3.2]).
+Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15-3],[15-3.1]). Hiernaast kunnen problemen als stress in combinatie met overgewicht en pharmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben ([15-3.2]).
 
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15-4]). Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
@@ -107,7 +107,8 @@ Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinder
  
  
 # Over Ivan's Herbs  
-We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
+We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. We dwingen je niet om alle gezonheidsproblemen aan te pakken, kies je gevechten. 
+Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
  
 
 
