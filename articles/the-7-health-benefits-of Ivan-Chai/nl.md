@@ -12,7 +12,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 6) Verzorgt het spijsverteringsstelsel
 7) Een van nature licht zoete smaak 
 
-Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de gezondheidsvoordelen.
+Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en veelal wetenschappelijke onderbouwing van de gezondheidsvoordelen.
 
 # 1) Immuniteit
 ## Anti-Infecties 
@@ -51,7 +51,7 @@ Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eig
 
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15-4]). Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
-Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up (15-5]). 
+Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het meerendeel van de mannen, vrouwen mooier vinden zonder make-up ([15-5],[15-6],[15-7]). 
 
 ## Stress & Burnout klachten
 Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15-3],[15-3.1]). Hiernaast kunnen problemen als stress in combinatie met overgewicht en pharmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben ([15-3.2]).
@@ -193,6 +193,8 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [15-3.2]: https://mens-en-gezondheid.infonu.nl/natuurgeneeswijze/81693-natuurlijke-geneesmiddelen-tegen-eczeem.html#hoe-ontstaat-eczeem
 [15-4]: https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/
 [15-5]: https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871
+[15-6]: https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html
+[15-7]: https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/
 [16-1]: https://mens-en-gezondheid.infonu.nl/aandoeningen/184412-vitamine-e-deficientie-tekort-aan-vitamine-e.html
 [16-2]: https://www.alzheimer-nederland.nl/dementie
 [16-3]: https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten
