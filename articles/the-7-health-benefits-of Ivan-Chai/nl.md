@@ -10,7 +10,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 4) Werkt anti-oxiderende en versterkt de anti-tumoractiviteit
 5) Verzorgt de gezondheid van prostaat en urinewegen 
 6) Verzorgt het spijsverteringsstelsel
-7) Een van nature licht zoete smaak 
+7) Vermindert de kans op Diabetes
 </b></i>
 
 Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en veelal wetenschappelijke onderbouwing van de gezondheidsvoordelen.
@@ -102,9 +102,10 @@ Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropisc
 <b><i>Ivan Chai verzorgt het Spijsverteringsstelsel:</i></b>
 - Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6],[4]). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6]). 
 
-# 7) Van nature licht zoete smaak - suiker toevoegen niet nodig 
+# 7) Vermindert de kans op Diabetes - suiker toevoegen niet nodig 
 ## Diabetes
 Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Dit kan leiden tot overgewicht. Hiernaast zijn er nog andere gevolgen door de inname van suiker - pakweg 20([19]).
+Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van die gevolgen is depressie. Depressie komt twee keer zo vaak voor bij mensen met diabetes. Voorkom Diabetes([20][21]).
 
 <b><i>Ivan Chai heeft van nature een licht zoete smaak:</i></b>
 - Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11],[12]). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig.
@@ -224,6 +225,8 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [18.1]: https://www.mlds.nl/ziekten/functionele-maagklachten/
 [18.2]: https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103 
 [19]: https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/krijg-je-van-suiker-diabetes
+[20]: https://www.diabetesfonds.nl/over-diabetes/complicaties-van-diabetes
+[21]: http://diabeteszelfindehand.nl/voor-begeleiders/73/mogelijke-gevolgen-van-diabetes
 
 [Via deze link ons eerste recept gericht op de gezondheid van de prostaat]: 
 [Nieuwe kruiden mengsels]:
