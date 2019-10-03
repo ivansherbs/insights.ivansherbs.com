@@ -48,7 +48,7 @@ Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, w
 <b><i>Ivan Chai werkt als een Krachtige Ontstekingsremmer:</i></b>
 - Ivan Chai is een krachtige ontstekingsremmer ([9],[7],[1],[4]). Het is bewezen effectiever dan Cortisol bij het onderdrukken van ontstekingen ([6]). Het verminderen van ontstekingen is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals uw blaas, darmen, een zwak immuunsysteem of een wazige geest. 
 
-# 3) Verbetert de slaap en vermindert stress en angst
+# 3) Verbetert de Slaap en vermindert Angst, Stress & Burnout klachten
 ## Slaap
 Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen ([15-1]). Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid ([15-2]). 
 
@@ -63,7 +63,7 @@ Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van 
 <b><i>Ivan Chai verbetert de Slaap en vermindert Angst, Stress & Burnout klachten:</i></b>
 - Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
 
-# 4) Antioxiderende en antitumoractiviteit 
+# 4) Antioxiderende en Antitumoractiviteit 
 ## De ziekte van Alzheimer - Een tekort aan Vitamine E
 Van circa 60 tot 70% van de gevallen is de ziekte van Alzheimer de degeneratieve aandoening van dementie. Dit kan worden veroorzaakt door een tekort aan vitamine E. Boven de 90 jaar heeft 40% dementie. Op jongere leeftijd begint dementie tussen de 40 en 65 jaar. In Nederland hebben we circa 12.000 mensen jonger dan 65 jaar waarvan de diagnose is gesteld dat ze dementie hebben ([16-1],[16-2]). 
 
@@ -80,7 +80,7 @@ Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lop
 <b><i>Ivan Chai werkt Antioxiderend en versterkt de Antitumoractiviteit:</i></b>
 - Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten ([8],[5]). De verantwoordelijke verbinding ‘Oenotheïne B’, een ander Polyfenol, bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben ([8],[3]). Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen ([8]).
 
-# 5) Verzorgt de gezondheid van prostaat en urinewegen
+# 5) Verzorgt de gezondheid van Prostaat en Urinewegen
 ## Prostaatontsteking  
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen ([17-1]).
 
@@ -94,7 +94,7 @@ Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lop
 - De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt ([10]). Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). 
 <br><br>Hiernaast verhelpt het ook de groei van de prostaat (BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat ([8]). De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij ([10]).
 
-# 6) Verzorgt het spijsverteringstelsel
+# 6) Verzorgt het Spijsverteringstelsel
 ## Spijsverteringsonevenwichtigheden
 1 op de 4 mensen in Nederland heeft wel eens last van de maag. Voor deze maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18.1]).
 Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree ([18.2]). 
