@@ -115,10 +115,24 @@ We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. T
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
  
 
+# Recepten
 
-[Via deze link ons eerste recept gericht op de gezondheid van de prostaat]
+
+[Ons eerste recept gericht op de gezondheid van de prostaat]
   
- 
+  
+
+# Eerstvolgende artikelen
+
+
+
+- [Nieuwe kruiden mengsels]
+
+
+
+- [Milieuvervuiling binnen de farmaceutische industrie]
+
+  
  
 ## Referenties
 
@@ -209,4 +223,8 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [18.1]: https://www.mlds.nl/ziekten/functionele-maagklachten/
 [18.2]: https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103 
 [19]: https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/krijg-je-van-suiker-diabetes
+
 [Via deze link ons eerste recept gericht op de gezondheid van de prostaat]: 
+[Nieuwe kruiden mengsels]:
+[Milieuvervuiling binnen de farmaceutische industrie]:
+
