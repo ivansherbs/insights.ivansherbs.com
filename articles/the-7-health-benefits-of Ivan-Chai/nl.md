@@ -11,7 +11,8 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 5) Verzorgt de gezondheid van prostaat en urinewegen 
 6) Verzorgt het spijsverteringsstelsel
 7) Een van nature licht zoete smaak 
-</b></i><br>
+</b></i>
+
 Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en veelal wetenschappelijke onderbouwing van de gezondheidsvoordelen.
 
 # 1) Immuniteit
