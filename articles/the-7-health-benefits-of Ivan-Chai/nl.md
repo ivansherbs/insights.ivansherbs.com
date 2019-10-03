@@ -105,7 +105,7 @@ Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropisc
 # 7) Vermindert de kans op Diabetes - suiker toevoegen niet nodig 
 ## Diabetes
 Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Dit kan leiden tot overgewicht. Hiernaast zijn er nog andere gevolgen door de inname van suiker - pakweg 20([19]).
-Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van die gevolgen is depressie. Depressie komt twee keer zo vaak voor bij mensen met diabetes. Voorkom Diabetes([20],[21]).
+Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van die gevolgen is depressie. Depressie komt twee keer zo vaak voor bij mensen met diabetes. Voorkom Diabetes ([20],[21]).
 
 <b><i>Ivan Chai heeft van nature een licht zoete smaak:</i></b>
 - Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11],[12]). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig.
