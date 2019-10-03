@@ -38,7 +38,7 @@ Meer dan 55.000 mensen hebben last van een chronisch onstoken darmwand ([14-3.2]
 Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4]). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([14-5],[14-6]). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steeds de gevolgen in het dagelijkse leven ([14-7]).
 
 ## Wazige geest door Farmaceutische Medicijnen of Drugs
-Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14-8]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. Het is voor artsen een hele puzzel bij zware farmaceutische medicijnen de juiste hoeveelheid te vinden ([14-9]). 
+Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14-8]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. Het is voor professionele artsen een hele puzzel de juiste farmaceutische medicijnen en hoeveelheid te vinden ([14-9]). Volgens meest ervaren GGZ-instellingen, erkend door Zorgkaart Nederland, wordt er ruim 1.000.000 pijnstillers ingenomen uitkomstig uit de farmaceutische industrie ([14-9.1],[14-9.2]). Er gaan jaarlijks 320.000.000 mensen onder het mes. 10% ervaart chronische pijn na onslag uit een ziekenhuis. Patienten krijgen te snel onnodig verslavende pijnstillers toegeschreven ([14-9.3]).
 
 Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14-10]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. XTC of MDMA zijn volgens de wet verboden. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er in Nederland 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14-11]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14-12],[14-13],[14-14]). De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest tot gevolg. 
 
@@ -107,7 +107,7 @@ Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinder
  
  
 # Over Ivan's Herbs  
-Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
+We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
  
 
 
@@ -177,6 +177,9 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [14-7]: https://zorgnu.avrotros.nl/nieuws/item/passende-zorg-nodig-voor-mensen-die-kanker-overleven/
 [14-8]: https://www.drugsinfoteam.nl/klachten
 [14-9]: https://www.umcutrecht.nl/nl/Nieuws/We-willen-bijwerkingen-van-medicatie-verminderen
+[14-9.1]: https://solutions-center.nl/verslavingen/medicijnverslaving/pijnstillers/
+[14-9.2]: https://www.zorgkaartnederland.nl/zorginstelling/ggz-solutions-center-voorthuizen-10001990
+[14-9.3]: https://nos.nl/artikel/2280241-wetenschappers-te-snel-verslavende-pijnstillers-na-operatie.html
 [14-10]: https://www.drugsinfoteam.nl/vraag-antwoord/lees-een-antwoord/-/coke-duizeligheid-wazig-zien-misselijkheid-angst
 [14-11]: https://www.changingperspective.info/nieuws/blog/nederland-kent-naar-schatting-17-miljoen-drugsgebruikers
 [14-12]: https://nos.nl/nieuwsuur/artikel/2283342-cocaine-de-champagne-van-de-amsterdamse-zuidas.html
