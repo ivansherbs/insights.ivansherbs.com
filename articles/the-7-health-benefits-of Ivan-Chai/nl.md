@@ -49,14 +49,14 @@ Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, w
 ## Slaap
 Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen ([15-1]). Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid ([15-2]). 
 
-## Stress & Burnout klachten
-Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15-3],[15-3.1]). Hiernaast kunnen problemen als stress in combinatie met overgewicht en pharmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben ([15-3.2]).
-
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15-4]). Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
 Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up (15-5]). 
 
-<b><i>Ivan Chai verbetert de Slaap en vermindert Stress & Burnout klachten en Angst:</i></b>
+## Stress & Burnout klachten
+Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15-3],[15-3.1]). Hiernaast kunnen problemen als stress in combinatie met overgewicht en pharmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben ([15-3.2]).
+
+<b><i>Ivan Chai verbetert de Slaap en vermindert Angst, Stress & Burnout klachten:</i></b>
 - Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
 
 # 4) Antioxiderende en antitumoractiviteit 
