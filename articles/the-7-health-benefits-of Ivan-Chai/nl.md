@@ -10,7 +10,7 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 4) Werkt anti-oxiderende en versterkt de anti-tumoractiviteit
 5) Verzorgt de gezondheid van prostaat en urinewegen 
 6) Verzorgt het spijsverteringsstelsel
-7) Vermindert de kans op diabetes en depressie
+7) Vermindert de kans op diabetes en depressies
 </b></i>
 
 Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en veelal wetenschappelijke onderbouwing van de gezondheidsvoordelen.
