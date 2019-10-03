@@ -39,7 +39,7 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14-4]). Farmac
 
 ## Wazige geest door Farmaceutische Medicijnen of Drugs
 Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14-8]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. 
-<br>Het is voor professionele artsen een hele puzzel de juiste farmaceutische medicijnen en hoeveelheid te vinden ([14-9]). 
+<br><br>Het is voor professionele artsen een hele puzzel de juiste farmaceutische medicijnen en hoeveelheid te vinden ([14-9]). 
 Volgens de meest ervaren GGZ-instelling, erkend door Zorgkaart Nederland, wordt er ruim 1.000.000 pijnstillers ingenomen afkomstig uit de farmaceutische industrie ([14-9.1],[14-9.2]). Er gaan jaarlijks 320.000.000 mensen onder het mes. 10% ervaart chronische pijn na ontslag uit een ziekenhuis. Uit onderzoek is gebleken dat patienten te snel onnodig verslavende pijnstillers krijgen toegeschreven ([14-9.3]).
 
 Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14-10]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. XTC of MDMA zijn volgens de wet verboden. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er in Nederland 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14-11]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14-12],[14-13],[14-14]). De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest tot gevolg. 
@@ -57,7 +57,7 @@ Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up.
 
 ## Stress & Burnout klachten
 Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15-3],[15-3.1]). 
-<br>Hiernaast kunnen problemen als stress in combinatie met overgewicht en pharmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben ([15-3.2]).
+<br><br>Hiernaast kunnen problemen als stress in combinatie met overgewicht en pharmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben ([15-3.2]).
 
 <b><i>Ivan Chai verbetert de Slaap en vermindert Angst, Stress & Burnout klachten:</i></b>
 - Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
@@ -91,7 +91,7 @@ Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lop
 
 <b><i>Ivan Chai verzorgt de gezondheid van Prostaat en Urinewegen:</i></b>
 - De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt ([10]). Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). 
-<br>Hiernaast verhelpt het ook de groei van de prostaat (BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat ([8]). De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij ([10]).
+<br><br>Hiernaast verhelpt het ook de groei van de prostaat (BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat ([8]). De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij ([10]).
 
 # 6) Verzorgt het spijsverteringstelsel
 ## Spijsverteringsonevenwichtigheden
