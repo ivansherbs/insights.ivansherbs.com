@@ -28,7 +28,7 @@ Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13.2]). Zo'n 2.000.000 me
 # 2) Krachtige Ontstekingsremmer 
 ## Blaasontsteking 
 
-Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14],[14.1],[14.2]). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed ([14.3],[14.4]). 
+Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14],[14.1],[14.2]). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. Hiernaast blijkt uit onderzoek dat de bij de meerderheid van de vrouwen, met een terugkerende blaasontsteking, aangaf dat de qualiteit vann het leven er op een negatieve manier door werd beïnvloed ([14.3],[14.4]).
 
 ## Darmontsteking
 
@@ -54,7 +54,7 @@ Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eig
 
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15.2],[15.3]). <br>Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
-Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het meerendeel van de mannen, vrouwen mooier vinden zonder make-up (,[15.4],[15.5],([15.6],[15.7])). 
+Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het meerendeel van de mannen, vrouwen mooier vinden zonder make-up (,[15.4],[15.5],[15.6],[15.7])). 
 
 ## Stress & Burnout klachten
 Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress . 
@@ -75,20 +75,20 @@ Van circa 60 tot 70% van de gevallen is de ziekte van Alzheimer de degeneratieve
 
 ## Prostaatkanker
 Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. 
-Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([16.4])
+Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([17])
 
 <b><i>Ivan Chai werkt Antioxiderend en versterkt de Antitumoractiviteit:</i></b>
 - Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten ([8],[5]). De verantwoordelijke verbinding ‘Oenotheïne B’, een ander Polyfenol, bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben ([8],[3]). Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen ([8]).
 
 # 5) Verzorgt de gezondheid van Prostaat en Urinewegen
 ## Prostaatontsteking  
-30% van de mannen ouder dan 50 jaar heeft problemen met plassen ([17]).
+30% van de mannen ouder dan 50 jaar heeft problemen met plassen ([17.1]).
 
 ## BPH (Prostaathyperplasie)
-30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat ([17.1]). 
+30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat ([17.2]). 
 
 ## Urineweg infectie 
-80% van de vrouwen krijgt ten minste 1 keer in hun leven een infectie aan de urinewegen ([17.2]). 
+80% van de vrouwen krijgt ten minste 1 keer in hun leven een infectie aan de urinewegen ([17.3]). 
 
 <b><i>Ivan Chai verzorgt de gezondheid van Prostaat en Urinewegen:</i></b>
 - De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt ([10]). Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). 
@@ -187,10 +187,10 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [14]: https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/
 [14.1]: https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen
 [14.2]: https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking
-[14.3]: https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html
+[14.3]: https://www.tandfonline.com/doi/abs/10.1080/14737167.2017.1359543?journalCode=ierp20
 [14.4]: https://www.gezondheidsnet.nl/blaasontsteking/blaasontsteking-een-sekssouvenir
-[14.5]: https://www.tandfonline.com/doi/abs/10.1080/14737167.2017.1359543?journalCode=ierp20
-[14.6]: https://www.kiesbeter.nl/onderwerpen/chronische-darmontstekingen?subjectId=219&sectorId=1
+[14.5]: https://www.kiesbeter.nl/onderwerpen/chronische-darmontstekingen?subjectId=219&sectorId=1
+[14.6]: https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html
 [14.7]: https://mens-en-gezondheid.infonu.nl/ziekten/52748-darmonsteking-en-diarree.html
 [14.8]: https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen)
 [14.9]: https://www.mmc.nl/oncologie/aandoening-en-behandeling/chemotherapie/
@@ -206,8 +206,10 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [14.19]: https://nos.nl/nieuwsuur/artikel/2283342-cocaine-de-champagne-van-de-amsterdamse-zuidas.html
 [14.20]: https://www.nrc.nl/nieuws/2018/01/05/drank-en-drugs-en-groente-en-sport-a1587153
 [14.21]: https://www.erasmusmagazine.nl/2018/09/27/even-snuiven-in-de-kroeg-drugs-populair-onder-studenten/
+
 [15]: https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen
 [15.1]: https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen
+
 [15.2]: https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871
 [15.3]: https://www.volksgezondheidenzorg.info/onderwerp/angststoornissen
 [15.4]: https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html
@@ -220,10 +222,10 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [16.1]: https://mens-en-gezondheid.infonu.nl/aandoeningen/184412-vitamine-e-deficientie-tekort-aan-vitamine-e.html
 [16.2]: https://www.alzheimer-nederland.nl/dementie
 [16.3]: https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten
-[16.4]: https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie
-[17]: https://www.andros.nl/prostaatklachten/prostaatontsteking/
-[17.1]: https://www.andros.nl/prostaatklachten/vergrote-prostaat/
-[17.2]: https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen
+[17]: https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie
+[17.1]: https://www.andros.nl/prostaatklachten/prostaatontsteking/
+[17.2]: https://www.andros.nl/prostaatklachten/vergrote-prostaat/
+[17.3]: https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen
 [18]: https://www.mlds.nl/ziekten/functionele-maagklachten/
 [18.1]: https://www.thuisarts.nl/diarree/ik-heb-reizigersdiarree
 [18.2]: https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103 
