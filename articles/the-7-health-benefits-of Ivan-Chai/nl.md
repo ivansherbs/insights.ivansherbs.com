@@ -206,8 +206,16 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [14.19]: https://nos.nl/nieuwsuur/artikel/2283342-cocaine-de-champagne-van-de-amsterdamse-zuidas.html
 [14.20]: https://www.nrc.nl/nieuws/2018/01/05/drank-en-drugs-en-groente-en-sport-a1587153
 [14.21]: https://www.erasmusmagazine.nl/2018/09/27/even-snuiven-in-de-kroeg-drugs-populair-onder-studenten/
-
-
+[15]: https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen
+[15.1]: https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen
+[15.2]: https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871
+[15.3]: https://www.volksgezondheidenzorg.info/onderwerp/angststoornissen
+[15.4]: https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html
+[15.5]: https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/
+[15.6]: https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/
+[15.7]: https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress
+[15.8]: https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx
+[15.9]: https://mens-en-gezondheid.infonu.nl/natuurgeneeswijze/81693-natuurlijke-geneesmiddelen-tegen-eczeem.html#hoe-ontstaat-eczeem
 [16]: https://mens-en-gezondheid.infonu.nl/aandoeningen/184412-vitamine-e-deficientie-tekort-aan-vitamine-e.html
 [16.1]: https://www.alzheimer-nederland.nl/dementie
 [16.2]: https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten
