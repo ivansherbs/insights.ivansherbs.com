@@ -28,7 +28,7 @@ Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13.2]). Zo'n 2.000.000 me
 # 2) Krachtige Ontstekingsremmer 
 ## Blaasontsteking 
 
-Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14],[14.1],[14.2]). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. Hiernaast blijkt uit onderzoek dat de bij de meerderheid van de vrouwen, met een terugkerende blaasontsteking, aangaf dat de qualiteit vann het leven er op een negatieve manier door werd beïnvloed ([14.3],[14.4]).
+Bij vrouwen boven de 12 jaar komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14],[14.1],[14.2]). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. Hiernaast blijkt uit Europees onderzoek dit gezondheidsprobleem zelfs van invloed is op de kwaliteit van het leven ([14.3],[14.4]).
 
 ## Darmontsteking
 
