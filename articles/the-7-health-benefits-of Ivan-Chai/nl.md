@@ -113,7 +113,7 @@ Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van 
  
  
 # Over Ivan's Herbs  
-We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle gezonheidsproblemen aan te pakken, kies je gevechten. 
+We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle gezonheidsproblemen aan te pakken, <i>kies je gevechten</i>. 
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
  
 
