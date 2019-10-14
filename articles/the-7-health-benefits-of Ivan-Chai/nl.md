@@ -54,14 +54,14 @@ Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eig
 
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15.2],[15.3]). <br>Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
-Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het meerendeel van de mannen, vrouwen mooier vinden zonder make-up (,[15.4],[15.5],[15.6],[15.7])). 
+Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het meerendeel van de mannen, vrouwen mooier vinden zonder make-up (,[15.4],[15.5],[15.6])). 
 
 ## Stress & Burnout klachten
-Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress . 
-<br><br>Hiernaast kunnen problemen als stress in combinatie met overgewicht en pharmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben ([15.8]).
+Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15.7],[15.8])
+<br><br>Hiernaast kunnen problemen als stress in combinatie met pharmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben. Deze aandoening wordt versterkt als gevolg van overgewicht ([15.9]).
 
 <b><i>Ivan Chai verbetert de Slaap en vermindert Angst, Stress & Burnout klachten:</i></b>
-- Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. 
+- Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
 
 # 4) Antioxiderende en Antitumoractiviteit 
 ## De ziekte van Alzheimer - Een tekort aan Vitamine E
@@ -184,18 +184,22 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [13.3]: https://www.gezondheidsnet.nl/brandend-maagzuur/wat-je-moet-weten-over-maagzuurremmers
 [13.4]: https://www.sfk.nl/publicaties/PW/2017/antibioticagebruik-in-zomer-daalt-al-enige-jaren-gestaag
 [13.5]: https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond
+
 [14]: https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/
 [14.1]: https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen
 [14.2]: https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking
 [14.3]: https://www.tandfonline.com/doi/abs/10.1080/14737167.2017.1359543?journalCode=ierp20
 [14.4]: https://www.gezondheidsnet.nl/blaasontsteking/blaasontsteking-een-sekssouvenir
+
 [14.5]: https://www.kiesbeter.nl/onderwerpen/chronische-darmontstekingen?subjectId=219&sectorId=1
 [14.6]: https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html
 [14.7]: https://mens-en-gezondheid.infonu.nl/ziekten/52748-darmonsteking-en-diarree.html
+
 [14.8]: https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen)
 [14.9]: https://www.mmc.nl/oncologie/aandoening-en-behandeling/chemotherapie/
 [14.10]: https://www.chemotherapie.nl/wat-is-chemo/effecten-van-chemo
 [14.11]: https://zorgnu.avrotros.nl/nieuws/item/passende-zorg-nodig-voor-mensen-die-kanker-overleven/
+
 [14.12]: https://www.drugsinfoteam.nl/klachten
 [14.13]: https://www.umcutrecht.nl/nl/Nieuws/We-willen-bijwerkingen-van-medicatie-verminderen
 [14.14]: https://solutions-center.nl/verslavingen/medicijnverslaving/pijnstillers/
@@ -215,9 +219,12 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [15.4]: https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html
 [15.5]: https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/
 [15.6]: https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/
+
 [15.7]: https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress
 [15.8]: https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx
-[15.9]: https://mens-en-gezondheid.infonu.nl/natuurgeneeswijze/81693-natuurlijke-geneesmiddelen-tegen-eczeem.html#hoe-ontstaat-eczeem
+
+[15.9]: https://www.volksgezondheidenzorg.info/onderwerp/overgewicht/cijfers-context/huidige-situatie
+
 [16]: https://www.alzheimer-nederland.nl
 [16.1]: https://mens-en-gezondheid.infonu.nl/aandoeningen/184412-vitamine-e-deficientie-tekort-aan-vitamine-e.html
 [16.2]: https://www.alzheimer-nederland.nl/dementie
