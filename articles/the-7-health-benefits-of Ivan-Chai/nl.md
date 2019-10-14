@@ -32,38 +32,38 @@ Bij vrouwen boven de 12 jaar, komt blaasontsteking veel voor. Circa 20% van de v
 
 ## Darmontsteking
 
-Meer dan 55.000 mensen hebben last van een chronisch onstoken darmwand ([14.5]). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis'([14.6]). De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([14.7]) door bijvoorbeeld te lang stil zitten. 
+Meer dan 55.000 mensen hebben last van een chronisch onstoken darmwand ([14.5]). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis' ([14.6]). De meest voorkomende ontstekingen zijn virale- of bacteriële-, stralingsgeïnduceerde-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([14.7]) door bijvoorbeeld te lang stil zitten. 
 
 ## Zwak immuunsysteem door Farmaceutische Medicijnen of Chemotherapie
 
 Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([14.8]). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([14.9],[14.10]). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steeds de gevolgen in het dagelijkse leven ([14.11]).
 
 ## Wazige geest door Farmaceutische Medicijnen of Drugs
-Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaine, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14.12]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. 
+Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaïne, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest tot gevolg ([14.12]). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. 
 <br><br>Het is voor professionele artsen een hele puzzel de juiste farmaceutische medicijnen en hoeveelheid te vinden ([14.13]). 
-Volgens de meest ervaren GGZ-instelling, erkend door Zorgkaart Nederland, wordt er ruim 1.000.000 pijnstillers ingenomen afkomstig uit de farmaceutische industrie ([14.14],[14.15]). Er gaan jaarlijks 320.000.000 mensen onder het mes. 10% ervaart chronische pijn na ontslag uit een ziekenhuis. Uit onderzoek is gebleken dat patienten te snel onnodig verslavende pijnstillers krijgen toegeschreven ([14.16]).
+Volgens de meest ervaren GGZ-instelling, erkend door Zorgkaart Nederland, wordt er ruim 1.000.000 pijnstillers ingenomen afkomstig uit de farmaceutische industrie ([14.14],[14.15]). Er gaan jaarlijks 320.000.000 mensen onder het mes. 10% ervaart chronische pijn na ontslag uit een ziekenhuis. Uit onderzoek is gebleken dat patiënten te snel onnodig verslavende pijnstillers krijgen toegeschreven ([14.16]).
 
-Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14.17]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. XTC of MDMA zijn volgens de wet verboden. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er in Nederland 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaine ([14.18]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14.19],[14.20],[14.21]). De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest tot gevolg. 
+Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14.17]). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. XTC of MDMA zijn volgens de wet verboden. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er in Nederland 100.000 mensen aan de XTC of MDMA.  20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaïne ([14.18]). Drugsgebruik is vooral bij hoog opgeleiden populair ([14.19],[14.20],[14.21]). De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest tot gevolg. 
 
 <b><i>Ivan Chai werkt als een Krachtige Ontstekingsremmer:</i></b>
 - Ivan Chai is een krachtige ontstekingsremmer ([9],[7],[1],[4]). Het is bewezen effectiever dan Cortisol bij het onderdrukken van ontstekingen ([6]). Het verminderen van ontstekingen is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals uw blaas, darmen, een zwak immuunsysteem of een wazige geest. 
 
-# 3) Verbetert de Slaap en vermindert Angst, Stress & Burnout klachten
+# 3) Verbetert de Slaap en vermindert Angst, Stress & Burn-out klachten
 ## Slaap
-Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Dit percentage ligt hoger bij mensen met onregelmatige werktijden, namelijk tussen de 42% en 68%. Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([15],[15.1]).
+Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Dit percentage ligt hoger bij mensen met onregelmatige werktijden, namelijk tussen de 42% en 68%. Slaapproblemen komen echter het vaakst voor bij arbeidsongeschikten. Mensen worden belemmerd in hun functioneren en het verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([15],[15.1]).
 
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15.2],[15.3]). <br>Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
-Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het meerendeel van de mannen, vrouwen mooier vinden zonder make-up (,[15.4],[15.5],[15.6])). 
+Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up (,[15.4],[15.5],[15.6])). 
 
-## Stress & Burnout klachten
-Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burnout klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15.7],[15.8])
-<br><br>Hiernaast kunnen problemen als stress in combinatie met pharmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagenlijks mee te maken hebben. Deze aandoening wordt versterkt als gevolg van overgewicht ([15.9]).
+## Stress & Burn-out klachten
+Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burn-out klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15.7],[15.8])
+<br><br>Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Eén van deze huidaandoeningen is eczeem, waar in Nederland meer dan 1.000.000 mensen dagelijks mee te maken hebben. Deze aandoening wordt versterkt als gevolg van overgewicht ([15.9]).
 
 <b><i>Ivan Chai verbetert de Slaap en vermindert Angst, Stress & Burnout klachten:</i></b>
 - Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10],[9]). Wetenschappers weten niet de exacte reden hoe het helpt bij slaapstoornissen ([4],[9]). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
 
-# 4) Antioxiderende en Antitumoractiviteit 
+# 4) Anti-Oxiderende en Antitumoractiviteit 
 ## De ziekte van Alzheimer - Een tekort aan Vitamine E
 Van circa 60 tot 70% van de gevallen is de ziekte van Alzheimer de degeneratieve aandoening van dementie. Dit kan worden veroorzaakt door een tekort aan vitamine E. Boven de 90 jaar heeft 40% dementie. Op jongere leeftijd begint dementie tussen de 40 en 65 jaar. In Nederland hebben we circa 12.000 mensen jonger dan 65 jaar waarvan de diagnose is gesteld dat ze dementie hebben ([16],[16.1]). 
 
@@ -77,7 +77,7 @@ Van circa 60 tot 70% van de gevallen is de ziekte van Alzheimer de degeneratieve
 Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. 
 Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([17])
 
-<b><i>Ivan Chai werkt Antioxiderend en versterkt de Antitumoractiviteit:</i></b>
+<b><i>Ivan Chai werkt Anti-Oxiderend en versterkt de Antitumoractiviteit:</i></b>
 - Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten ([8],[5]). De verantwoordelijke verbinding ‘Oenotheïne B’, een ander Polyfenol, bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben ([8],[3]). Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen ([8]).
 
 # 5) Verzorgt de gezondheid van Prostaat en Urinewegen
@@ -94,7 +94,7 @@ Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lop
 - De gerenommeerde Europese kruidkundige M. Trebens heeft gedurende haar behandelingen volgens haar kruiden recept met Ivan Chai het vrij specifiek voor de prostaat gebruikt ([10]). Het werd na duizenden recensies van mannen en vrouwen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier (prostatitis). 
 <br><br>Hiernaast verhelpt het ook de groei van de prostaat (BPH, prostaathyperplasie). De verantwoordelijke verbinding (Oenotheïne B) is geïdentificeerd als de chemische verbindingen die voorkomt in planten (Polyfenol), die verantwoordelijk is voor het positieve effect van het Ivan Chai op de prostaat ([8]). De kruidkundige M. Trebens raadde verder Ivan Chai aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Ivan Chai is urogenital gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij ([10]).
 
-# 6) Verzorgt het Spijsverteringstelsel
+# 6) Verzorgt het Spijsverteringsstelsel
 ## Spijsverteringsonevenwichtigheden
 1 op de 4 mensen in Nederland heeft wel eens last van de maag. Voor deze maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18]).
 Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree ([18.1]). 
