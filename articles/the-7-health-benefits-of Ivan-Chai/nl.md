@@ -54,7 +54,7 @@ Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaa
 
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15.2],[15.3]). <br>Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
-Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up (,[15.4],[15.5],[15.6])). 
+Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up ([15.4],[15.5],[15.6]). 
 
 ## Stress & Burn-out klachten
 Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van  burn-out klachten. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15.7],[15.8])
