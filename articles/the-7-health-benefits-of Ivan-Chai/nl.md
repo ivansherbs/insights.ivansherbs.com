@@ -50,7 +50,7 @@ Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, w
 
 # 3) Verbetert de Slaap en vermindert Angst, Stress & Burnout klachten
 ## Slaap
-Volgens het CBS heeft ruim 20% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen ([15]). Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid ([15.1]). 
+Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Dit percentage ligt hoger bij mensen met onregelmatige werktijden, namelijk tussen de 42% en 68%. Volgens dezefde bron hebben arbeidsongeschikten het vaakst slaapproblemen. Slaapproblemen belemmeren mensen in hun functioneren en verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([15],[15.1]).
 
 ## Angst
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15.2],[15.3]). <br>Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. 
