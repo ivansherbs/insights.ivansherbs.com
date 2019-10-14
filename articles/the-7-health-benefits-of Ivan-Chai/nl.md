@@ -97,7 +97,7 @@ Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lop
 # 6) Verzorgt het Spijsverteringsstelsel
 ## Spijsverteringsonevenwichtigheden
 1 op de 4 mensen in Nederland heeft wel eens last van de maag. Voor deze maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18]).
-Hiernaast krijgt gemiddeld 30 tot 40 procent van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree ([18.1]). 
+Hiernaast krijgt gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree ([18.1]). 
 
 <b><i>Ivan Chai verzorgt het Spijsverteringsstelsel:</i></b>
 - Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6],[4]). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6]). 
