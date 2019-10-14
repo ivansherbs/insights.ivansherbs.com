@@ -178,13 +178,13 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [11]: http://mydailyteacup.nl/theereview-ivans-herbs/ 
 [12]: https://www.koffietheeenkruiden.nl/ 
 
-[13.0]: https://candida.nl
+[13]: https://candida.nl
 [13.1]: https://www.rivm.nl/candida
 [13.2]: https://www.sfk.nl/publicaties/PW/2019/anticonceptiepil-op-rantsoen-door-tekort
 [13.3]: https://www.gezondheidsnet.nl/brandend-maagzuur/wat-je-moet-weten-over-maagzuurremmers
 [13.4]: https://www.sfk.nl/publicaties/PW/2017/antibioticagebruik-in-zomer-daalt-al-enige-jaren-gestaag
 [13.5]: https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond
-[14.0]: https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/
+[14]: https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/
 [14.1]: https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen
 [14.2]: https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking
 [14.3]: https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html
@@ -206,7 +206,7 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [14.19]: https://nos.nl/nieuwsuur/artikel/2283342-cocaine-de-champagne-van-de-amsterdamse-zuidas.html
 [14.20]: https://www.nrc.nl/nieuws/2018/01/05/drank-en-drugs-en-groente-en-sport-a1587153
 [14.21]: https://www.erasmusmagazine.nl/2018/09/27/even-snuiven-in-de-kroeg-drugs-populair-onder-studenten/
-[15.0]: https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen
+[15]: https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen
 [15.1]: https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen
 [15.2]: https://www.cz.nl/zakelijk/arbeidsrisicos/
 [15.3]: https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx
@@ -215,11 +215,11 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 [15.6]: https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871
 [15.7]: https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html
 [15.8]: https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/
-[16.0]: https://mens-en-gezondheid.infonu.nl/aandoeningen/184412-vitamine-e-deficientie-tekort-aan-vitamine-e.html
+[16]: https://mens-en-gezondheid.infonu.nl/aandoeningen/184412-vitamine-e-deficientie-tekort-aan-vitamine-e.html
 [16.1]: https://www.alzheimer-nederland.nl/dementie
 [16.2]: https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten
 [16.3]: https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie
-[17.0]: https://www.andros.nl/prostaatklachten/prostaatontsteking/
+[17]: https://www.andros.nl/prostaatklachten/prostaatontsteking/
 [17.1]: https://www.andros.nl/prostaatklachten/vergrote-prostaat/
 [17.2]: https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen
 [18]: https://www.mlds.nl/ziekten/functionele-maagklachten/
