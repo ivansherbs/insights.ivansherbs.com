@@ -1,6 +1,6 @@
 # Visie & Missie
 
-Onze visie is om een gemeenschap op te bouwen gericht op de gezondheid. Dit doen wij met behulp van bronnen beschikbaar uit de natuur als alternatief en aanvulling op farmaceutische medicijnen. Onze missie is om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw specifieke gezondheidsproblemen. 
+Onze visie is om een gemeenschap op te bouwen gericht op de gezondheid en algehele gemoedstoestand. Dit doen wij met behulp van bronnen beschikbaar uit de natuur als alternatief en aanvulling op farmaceutische medicijnen. Onze missie is om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw specifieke gezondheidsproblemen. 
 
 Wij hechten waarden aan gezondheid en natuur, zowel voor ons eigen bedrijf als voor onze klanten. Onze duurzame werkwijzen zijn gericht op klimaatneutrale verpakkingen en de vermindering van onze CO2-voetafdruk. Daarom oogsten wij onze in het wild groeiende Ivan Chai met de hand en maken wij gebruik van klimaatneutraal transport. 
 
