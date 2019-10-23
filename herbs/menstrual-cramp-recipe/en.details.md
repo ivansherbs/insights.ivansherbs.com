@@ -1,6 +1,6 @@
 # Relief Recipe for Menstrual Cramps 
 
-## Address painful cramps during menstruation (dysmenorrhea).
+## Address painful cramps during menstruation (primary dysmenorrhea).
 
 ## Ingredients
 - 4 parts **chamomile flowers** (*Matricaria chamomilla*)
