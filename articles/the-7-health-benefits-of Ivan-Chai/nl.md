@@ -16,11 +16,16 @@ Hieronder een kort overzicht van de voordelen van Ivan Chai, waarna we er kort o
 Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en veelal wetenschappelijke onderbouwing van de gezondheidsvoordelen.
 
 # 1) Immuniteit
+
 ## Anti-Infecties 
 
-Schimmels zijn bij iedereen aanwezig (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13],[13.1]). 
+Iedereen heeft last van schimmels (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels, oftewel Candida, kan door gebruik van farmaceutische medicijnen (bijv. Antibiotica, Anti-Conceptiepil en Maagzuurremmers) worden versterkt ([13],[13.1]). 
 Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13.2]). Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer ([13.3]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13.4]). 
 <br><br>Hiernaast zijn de risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot roken, een kunstgebit en diabetes ([13.5]).
+
+## Preventief tegen ziekten 
+AANPASSEN 
+Wanneer je vatbaar bent voor ziekten, zoals tijdens de wintermaanden, kunnen kruiden worden gebruikt ter preventie van. 
 
 <b><i>Ivan Chai versterkt de Immuniteit:</i></b>
 - De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2],[1]). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van Candida (gist) in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. 
