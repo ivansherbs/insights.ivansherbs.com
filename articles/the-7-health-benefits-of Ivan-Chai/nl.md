@@ -23,7 +23,7 @@ Iedereen heeft last van schimmels (o.a. oraal of vaginaal). Een overtollige hoev
 Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13.2]). Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer ([13.3]). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13.4]). 
 <br><br>Hiernaast zijn de risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot roken, een kunstgebit en diabetes ([13.5]).
 
-## Preventief tegen ziekten 
+## Preventief tegen verkoudheid en griep 
 AANPASSEN 
 Wanneer je vatbaar bent voor ziekten, zoals tijdens de wintermaanden, kunnen kruiden worden gebruikt ter preventie van. 
 
