@@ -56,4 +56,3 @@ We mogen onszelf gelukkig prijzen met de vele natuurlijke gezondheids wijsheden 
 [9]: https://cyberleninka.ru/article/n/morfologo-anatomicheskoe-issledovanie-ivan-chaya-uzkolistnogo-chamenerion-angustifolium-l-scop-proizrastayuschego-na-severnom-kavkaze
 [10]: https://books.google.nl/books?hl=en&lr=&id=Q2hmTVsfWB0C&oi=fnd&pg=PR9&dq=Wood,+Matthew.+The+Earthwise+Herbal:+a+Complete+Guide+to+New+World+Medicinal+Plants.+&ots=y2ohn_HUjW&sig=mclYYHy6l3pZduaDBuCoxJVywJU&redir_esc=y#v=onepage&q=Wood%2C%20Matthew.%20The%20Earthwise%20Herbal%3A%20a%20Complete%20Guide%20to%20New%20World%20Medicinal%20Plants.&f=false
 [10]: https://books.google.nl/books?hl=en&lr=&id=Q2hmTVsfWB0C&oi=fnd&pg=PR9&dq=Wood,+Matthew.+The+Earthwise+Herbal:+a+Complete+Guide+to+New+World+Medicinal+Plants.+&ots=y2ohn_HUjW&sig=mclYYHy6l3pZduaDBuCoxJVywJU&redir_esc=y#v=onepage&q=Wood%2C%20Matthew.%20The%20Earthwise%20Herbal%3A%20a%20Complete%20Guide%20to%20New%20World%20Medicinal%20Plants.&f=false
-
