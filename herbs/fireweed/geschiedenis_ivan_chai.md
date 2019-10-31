@@ -1,6 +1,6 @@
 ## Geschiedenis: de Siberische Kruidenthee Ivan Chai 
 
-_In de 17e eeuw was het de Russische bevolking verboden om koffie te drinken. Cafeïne zou volgens de Russische federale regering het lichaam vergiftigen. De Siberische monniken gingen op zoek naar alternatieve dranken, waarbij ze hun eigen kruideninfusies produceerden. Het Wilgenroosje was een van deze in het wild groeiende kruiden._
+_In de 17e eeuw was het de Russische bevolking verboden om koffie te drinken. Cafeïne zou volgens de Russische federale regering het lichaam vergiftigen. De Siberische monniken gingen op zoek naar kruiden om hun eigen kruideninfusies te produceren. Het Wilgenroosje was een van deze kruiden._
 
 De Siberische monniken merkten dat het Wilgenroosje een merkbaar effect had op de gezondheid en algehele gemoedstoestand. De ontdekte kruidenthee werd al snel enorm populair bij zowel Russen als Europeanen. Het kruideninfuus kreeg door West-Europeanen al snel de naam Ivan Chai. ‘Ivan’ verwijst hierbij naar de  traditionele Russische naam, waarna ‘Chai’ wordt gebruikt om thee aan te duiden.
 
