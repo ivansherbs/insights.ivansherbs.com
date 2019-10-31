@@ -124,7 +124,7 @@ Bij vrouwen boven de 12 jaar komt blaasontsteking veel voor. Circa 20% van de vr
 
 *   De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat, waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen. De verantwoordelijke verbinding voor het positieve effect  in Ivan Chai op de prostaat is geïdentificeerd en bevestigd ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is <span>urogenitaal </span>gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)).
 
-**6) **Maagklachten**
+**6) Maagklachten**
 
 **6.1 Spijsverteringsonevenwichtigheden**
 
