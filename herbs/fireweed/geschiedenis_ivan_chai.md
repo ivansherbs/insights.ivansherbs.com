@@ -5,3 +5,13 @@ _In de 17e eeuw was het de Russische bevolking verboden om koffie te drinken. Ca
 De Siberische monniken merkten dat het Wilgenroosje een merkbaar effect had op de gezondheid en algehele gemoedstoestand. De ontdekte kruidenthee werd al snel enorm populair bij zowel Russen als Europeanen. Het kruideninfuus kreeg door West-Europeanen al snel de naam Ivan Chai. ‘Ivan’ verwijst hierbij naar de  traditionele Russische naam, waarna ‘Chai’ wordt gebruikt om thee aan te duiden.
 
 De populariteit in Engeland groeide zo drastisch dat het tegen het eind van de 17e eeuw waarschijnlijk werd opgemerkt als een kleine bedreiging voor de Verenigde Oost-Indische Compagnie. Er zouden geruchten zijn verspreid dat de Russen Ivan Chai vergiftigden met natte witte klei. Door deze geruchten daalde de invoer van Ivan Chai enorm. In de nasleep van de Russische revolutie van 1917 stopte de commerciële productie. De consumptie van Ivan Chai was vrijwel tot nul gedaald voor Rusland en de rest van West-Europa. Zelfs in Rusland bleef deze heilzame kruidenthee Ivan Chai enigszins onbekend. Anno 2017 vond er langzaam een opleving plaats waarbij Ivan Chai wederom werd geïntroduceerd in West-Europa. 
+
+
+**Ivan's Herbs:**
+
+**[Cadeauset](https://ivans-herbs-1-1.myshopify.com/products/ivan-chai-cadeauset "Ivan Chai cadeauset")**
+
+
+**Artikelen:**
+
+**[Kruiden als medicijn](https://ivansherbs.nl/pages/kruiden-als-medicijn "Kruiden als medicijn")**
