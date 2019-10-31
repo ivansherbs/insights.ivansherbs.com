@@ -20,4 +20,4 @@ Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om 
 
 **Bedrijfsbrede doelen 2022:**
 
-_Opbouw programma ICI - Ivan Chai Imperium _
+_Opbouw programma ICI - Ivan Chai Imperium_
