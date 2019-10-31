@@ -6,7 +6,7 @@ Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact heb
 
 Wij hebben als doel het verbeteren van je kennis over de wetenschappelijk ontdekte gezondheidsvoordelen die beschikbaar zijn in kruiden. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam en geest.
 
-* **Promoten natuurlijke producten en productieproces**
+* **Promoten natuurlijke oplossingen**
 
 Onze toevoerlijn van Siberische kruiden zijn een aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. Onze waarden uiten zich in de samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen. De ecodorp bewoners oogsten onze kruiden met de hand in de ongerepte natuur waar ze toezien op een schoon en uiterst duurzaam productieproces. 
 
