@@ -8,7 +8,7 @@ Wij hebben als doel het verbeteren van je kennis over de wetenschappelijk ontde
 
 * **Promoten natuurlijke oplossingen**
 
-Onze toevoerlijn van Siberische kruiden zijn een aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. Onze waarden uiten zich in de samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen. De ecodorp bewoners oogsten onze kruiden met de hand in de ongerepte natuur waar ze toezien op een schoon en uiterst duurzaam productieproces. 
+Onze toevoerlijn van Siberische kruiden zijn een alternatief op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. Onze waarden uiten zich in de samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen. De ecodorp bewoners oogsten onze kruiden met de hand in de ongerepte natuur waar ze toezien op een schoon en uiterst duurzaam productieproces. 
 
 Om onze duurzaamheid te uiten naar onze klanten richten we ons op klimaatneutrale verpakkingen en de vermindering van onze eigen CO2 uitstoot in het dagelijks leven. Wij zijn op zoek naar meer samenwerkingsverbanden met gelijkgestemde bedrijven en streven ernaar ons product zo milieuvriendelijk te vervoeren. 
 
