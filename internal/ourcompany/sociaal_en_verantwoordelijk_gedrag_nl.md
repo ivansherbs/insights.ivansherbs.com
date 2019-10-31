@@ -1,9 +1,8 @@
-
-
+**_Sociaal en verantwoordelijk gedrag_**
 
 Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. Onze waarden staan centraal in ons gedrag en de alledaagse handelingen die wij uitvoeren. Hierbij uit ons sociaal en verantwoordelijk gedrag zich in de volgende 3 punten:</span>_
 
-**Informeren en onderwijzen **
+**Informeren en onderwijzen**
 
 Wij hebben als doel het verbeteren van je kennis over de wetenschappelijk ontdekte gezondheidsvoordelen die beschikbaar zijn in kruiden. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam en geest.
 
