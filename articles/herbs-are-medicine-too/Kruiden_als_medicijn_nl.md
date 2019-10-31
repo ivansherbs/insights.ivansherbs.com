@@ -1,3 +1,5 @@
+***Kruiden als medicijn***
+
 _Ivan's Herbs richt zich op het gebruik van kruiden om gezondheidsproblemen aan te pakken. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische geneesmiddelen. Van alle goedgekeurde farmaceutische geneesmiddelen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560124/)). Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam zijn en minder ernstig dan bij farmaceutische geneesmiddelen._
 
 Wij bieden wetenschappelijk bewijs voor ieder recept met kruiden. Ivan's Herbs richt zich op het promoten van kruiden uit Siberië met gezondheidsvoordelen en zonder negatieve bijwerkingen voor het menselijk lichaam. Veel gezondheidsproblemen zijn geëvalueerd door het European Medicines Agency (EMA), het Europese equivalent van de Amerikaanse Federal Drug Administration (FDA). Wij bieden klinisch dan wel niet-klinisch bewijs om aan te tonen hoe de actieve stoffen in kruiden gezondheidsproblemen aanpakken.
