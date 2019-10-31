@@ -2,7 +2,7 @@
 
 ## Pak onderstaande gezondheidsproblemen aan met Ivan Chai
 * Prostaatontsteking
-30% van de mannen ouder dan 50 jaar heeft problemen met plassen
+  - 30% van de mannen ouder dan 50 jaar heeft problemen met plassen
 * Benigne Prostaat Hyperplasie 
   - 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat
 * Prostaatkanker 
