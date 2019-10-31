@@ -12,8 +12,7 @@ Wanneer geconsumeerd zoals aangegeven werken kruiden in de meeste gevallen, maar
 
  **[De 7 gezondheidsvoordelen van Ivan Chai](https://ivans-herbs-1-1.myshopify.com/pages/ontvang-updates)**
 
-## [Referenties](https://github.com/ivansherbs/content.ivansherbs.com/blob/master/articles/herbs-are-medicine-too/nl.md#referenties)
-
+## Referenties
 *   Ghana Medical Journal. “Herbal Medicine Research.” Ghana Medical Journal, Ghana Medical Association, Sept. 2013, ncbi.nlm.nih.gov/pmc/articles/PMC3875280/.
 
 *   Medina-Franco, José L., et al. “Shifting from the Single to the Multitarget Paradigm in Drug Discovery.” Drug Discovery Today, vol. 18, no. 9-10, 2013, pp. 495–501., doi:10.1016/j.drudis.2013.01.008.
