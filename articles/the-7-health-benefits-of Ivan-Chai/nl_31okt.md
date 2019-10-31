@@ -1,5 +1,6 @@
 
-****De 7 gezondheidsvoordelen van Ivan Chai****
+*De 7 gezondheidsvoordelen van Ivan Chai*
+
 
 _Ivan’s Herbs heeft als missie om op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden te bieden voor jouw gezondheidsproblemen. Het informeren en onderwijzen van de voordelen van Ivan Chai is gebaseerd op hedendaagse wetenschappelijke artikelen en voelt als een tweede natuur voor ons._
 
@@ -13,9 +14,11 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes en depressie
 
+
 Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor de samenleving. Kortom, Ivan Chai is de natuurlijke oplossing als aanvulling op de farmaceutische behandelmethoden om gezondheidsproblemen aan te pakken. 
 
 Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de 7 gezondheidsvoordelen.
+
 
 **1) Immuniteit**
 
