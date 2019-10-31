@@ -85,7 +85,7 @@ Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten
 
 *   Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). De medische wereld weet niet de exacte reden hoe het helpt bij slaapstoornissen ([4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
 
-**4) <span>Antioxiderede </span>werking en versterkt Anti-tumoractiviteit**
+**4) Antioxiderede werking en versterkt Anti-tumoractiviteit**
 
  **4.1 Hart- en vaatziekten **
 
@@ -108,7 +108,7 @@ _**Ivan Chai heeft een Antioxiderede werking en versterkt de Anti-tumoractivite
 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen ([17.1](https://www.andros.nl/prostaatklachten/prostaatontsteking/)).
 
-**5.2 Be<span>nigne </span>Prostaat Hyperplasie **
+**5.2 Benigne Prostaat Hyperplasie **
 
 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat ([17.2](https://www.andros.nl/prostaatklachten/vergrote-prostaat/%20)).
 
