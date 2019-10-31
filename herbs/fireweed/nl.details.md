@@ -1,9 +1,18 @@
 # Ivan Chai (*Epilobium angustifolium*)
 
-## Pak deze gezondheidsproblemen aan met Ivan Chai
-- Een vergrote prostaat (ook bekend als ** Benign Prostatic Hyperplasia ** of BPH)
-- Lagere urinewegensymptomen gerelateerd aan BPH
-- Hoge niveaus van Prostaat Specifiek Antigeen (PSA)
+## Pak onderstaande gezondheidsproblemen aan met Ivan Chai
+* Prostaatontsteking
+30% van de mannen ouder dan 50 jaar heeft problemen met plassen
+* Benigne Prostaat Hyperplasie 
+  - 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat
+* Prostaatkanker 
+  - Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld.     Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen.
+* Urineweginfectie 
+  - Lagere urinewegensymptomen gerelateerd aan Benigne Prostaat Hyperplasie 
+
+
+* Hoge niveaus van Prostaat Specifiek Antigeen (PSA)
+
 
 ## Voorbereiding
 
