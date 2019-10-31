@@ -27,7 +27,7 @@ Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gez
 
 Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt ook wel de Latijnse benaming Epilobium Angustifolium. 
 
-**Bereidingswijze geneesmiddel **
+**Bereidingswijze geneesmiddel**
 
 Totale tijd: 7 min
 
