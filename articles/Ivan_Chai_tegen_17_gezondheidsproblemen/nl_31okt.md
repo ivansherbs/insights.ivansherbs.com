@@ -37,7 +37,7 @@ Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 
-Drink 1 kop voor de maaltijd en 2 keer per dag gedurende 8 dagen. Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
+Drink 1 kop voor de maaltijd en 2 keer per dag gedurende 7 dagen. Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
 
 **Voorzorgsmaatregelen**
 
