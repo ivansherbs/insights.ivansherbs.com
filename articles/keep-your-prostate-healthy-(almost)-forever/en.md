@@ -1,8 +1,10 @@
 # Have a healthy prostate (almost) forever
 
-Taking preventative care of your health is the best thing you can do — that would have saved my father’s early death (only 53) from a simple lung infection. That’s why today I write about a male body part most fail to take care of before there are problems: the prostate.
+Taking preventative care of your health is the best thing you can do — that would have saved my father’s early death (only 53) from a simple lung infection. That’s why today I write about a male body part most fail to take care of before there are problems: **the prostate**.
+
 According to Movember, prostate cancer is the most common form of cancer for men in Europe. But don’t lose hope for the prostate just yet. Instead, inform yourself (or a male friend you care for) about what you can do.
-If you want reliable information on prostate health but don’t know where to begin, this post is going to be your best resource. Read it thoroughly to get all the information you need to assess your next best step.
+
+If you want **reliable information on prostate health** but don’t know where to begin, **this article is going to be your best resource**. Read it thoroughly to get all the information you need to assess your next best step.
 Some of the prostate health issues, symptoms, and remedies you may already know, but I’ll going to show you every solution that I could find. I’ll back it up with the medical and scientific references out there so you can choose the best way to keep (or heal) your prostate health.
 Specifically, you’ll learn about the causes, symptoms, diagnosis, remedies (and their side effects) for each of the following prostate health issues:
 1. Enlarged prostate (also known as benign prostatic hyperplasia, or BPH)
