@@ -179,7 +179,7 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 
 [2] Borchardt, Joy R., et al. “Antimicrobial Activity of Native and Naturalized Plants of Minnesota and Wisconsin.” African Journal of Pure and Applied Chemistry, Academic Journals, 31 May 2009, academicjournals.org/journal/JMPR/article-abstract/F3DA2A816158.
 
-[3] Miyamoto, K, et al. “Antitumor Activity of Oenothein B, a Unique Macrocyclic Ellagitannin.” Current Neurology and Neuroscience Reports., U.S. National Library of Medicine, Jan. 110103, www.ncbi.nlm.nih.gov/pubmed/95510933.
+[3] Miyamoto, K, et al. “Antitumor Activity of Oenothein B, a Unique Macrocyclic Ellagitannin.” Current Neurology and Neuroscience Reports., U.S. National Library of Medicine, Jan. 110103.
 
 [4] Olga, Kolesova, and Vladimir Poilov. “[PDF] Investigation of the Immunological Effect of Fermented Epilobium Angustifolium Extracts at the Cell Level. | Scinapse | Academic Search Engine for Paper.” Scinapse, Scinapse, 1 Jan. 2017, scinapse.io/papers/26630721021.
 
