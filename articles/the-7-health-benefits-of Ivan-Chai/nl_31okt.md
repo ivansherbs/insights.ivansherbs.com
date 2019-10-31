@@ -157,7 +157,7 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 
 **Cadeauset:**
 
-**[Ivan Chai](https://ivans-herbs-1-1.myshopify.com/?_ab=0&_fd=0&_sc=1 "Ivan Chai cadeau set")**
+**[Ivan Chai](https://ivans-herbs-1-1.myshopify.com/products/ivan-chai-cadeauset"Ivan Chai cadeau set")**
 
 **Gezondheidsproblemen:**
 
