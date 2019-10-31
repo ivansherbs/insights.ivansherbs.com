@@ -87,7 +87,7 @@ Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten
 
 **4) Antioxiderede werking en versterkt Anti-tumoractiviteit**
 
- **4.1 Hart- en vaatziekten **
+ **4.1 Hart- en vaatziekten**
 
 *   Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 *   1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
@@ -108,7 +108,7 @@ _**Ivan Chai heeft een Antioxiderede werking en versterkt de Anti-tumoractivite
 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen ([17.1](https://www.andros.nl/prostaatklachten/prostaatontsteking/)).
 
-**5.2 Benigne Prostaat Hyperplasie **
+**5.2 Benigne Prostaat Hyperplasie**
 
 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat ([17.2](https://www.andros.nl/prostaatklachten/vergrote-prostaat/%20)).
 
