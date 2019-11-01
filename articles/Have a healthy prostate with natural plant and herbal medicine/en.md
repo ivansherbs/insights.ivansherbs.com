@@ -14,15 +14,17 @@ The first question one may ask is: Can you prevent an **enlarged prostate** or *
 The short and best answer is no. The main factors, age and family history, are out of your control ([www.webmd.com/men/prostate-enlargement-bph/can-i-prevent-bph#1], [https://www.mayoclinic.org/diseases-conditions/prostate-cancer/in-depth/prostate-cancer-prevention/art-20045641]). What you can do is lower your risk, manage symptoms, and keep your prostate healthy as it slowly grows.
 
 PSA values are merely an indication of prostate health, though by themselves are not definitive diagnoses of any particular condition.
-Fireweed
+
+## Fireweed
 
 There have been three studies done on human prostate cancer cells that showed evidence that fireweed infusions can significantly reduce the level of ProstatePSA secretion (Denq, 2019,Stolarczyk, 2013a,Stolarczyk, 2013b).
 
 The European Medicines Agency (EMA) has approved fireweed for “relief of lower urinary tract symptoms related to benign prostatic hyperplasia” in their final assessment benefit-risk assessment ([https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-epilobium-angustifolium-l/epilobium-parviflorum-schreb-herba_en.pdf])
 
-Fireweed Dosage Recommendation
+### Fireweed Dosage Recommendation
 The therapeutic dose that is continually referenced in the Europeans Medicines Agency’s final assessment is 1.5 - 2.0 grams taken twice daily on an empty stomach ([https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-epilobium-angustifolium-l/epilobium-parviflorum-schreb-herba_en.pdf]).
-Pumpkin seeds 
+
+# Pumpkin seeds 
 Pumpkin seeds have long been claimed to help manage the symptoms of an enlarged prostate. 
 
 In 2006 pumpkin seeds proved to alleviate the symptoms of an enlarged prostate and at high concentrations to prevent prostate growth in rats ([https://www.researchgate.net/publication/295857610_Effect_of_Pumpkin_Seed_Cucurbita_pepo_L_Diets_on_Benign_Prostatic_Hyperplasia_BPH_Chemical_and_Morphometric_Evaluation_in_Rats]).
@@ -38,12 +40,12 @@ Further research suggests that taking pumpkin seeds or their products as supplem
 One study in 45 men and women with overactive bladders found that 10 grams of pumpkin seed extract daily improved urinary function ([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4032845/]).
 
 [SUMMARY Pumpkin seeds improve your symptoms of an enlarged prostate and may prevent it from getting any bigger at high doses. Still, more research is needed.] 
-Pumpkin seed Dosage recommendation
+### Pumpkin seed Dosage recommendation
 
 There’s no standard of dosage, just be careful not to eat too much, as the high fiber content may cause gas or constipation.
 
 
-Saw palmetto 
+## Saw palmetto 
 One 12-week study in 92 men showed that taking two capsules daily of Prostataplex, a mix of herbal supplements that includes saw palmetto, helped improve urinary tract symptoms associated with enlarged prostate ([https://www.ncbi.nlm.nih.gov/pubmed/18082217]).
 
 Similarly, another study in 85 men over the age of 45 found that treatment with 160 mg of saw palmetto twice daily reduced lower urinary tract symptoms, increased urine flow, and improved overall quality of life after 6 months ([https://www.ncbi.nlm.nih.gov/pubmed/11744467]).
@@ -65,7 +67,7 @@ Further high-quality research is needed to evaluate how saw palmetto may affect 
 Saw palmetto may improve urinary tract function and could aid in the treatment of urinary tract symptoms caused by an enlarged prostate. Test-tube studies show that saw palmetto may help decrease the growth of prostate cancer cells. Still, more research is needed.]
 
 
-Saw Palmetto Dosage Recommendation
+### Saw Palmetto Dosage Recommendation
 Saw palmetto is widely available in supplement form, making it incredibly easy to add to your daily routine.
 
 It comes in capsule, softgel, and tablet form and is often combined with other ingredients that help enhance prostate health, such as pumpkin seed extract.
@@ -75,3 +77,6 @@ Less commonly, it can also be found in ground, dried, liquid extract, or powdere
 Most research is conducted using saw palmetto in dosages of 320 mg per day, often divided into two doses.
 
 Some recommend taking the supplements with food, which can help minimize digestive issues and prevent adverse side effects.
+
+
+
