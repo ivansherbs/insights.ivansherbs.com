@@ -65,17 +65,13 @@ Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst 
 
 Ivan Chai is een extreem veilige soort (klassen) kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen en is veilig voor kinderen.
 
-Het is van nature vrij van:
+Het is van _nature vrij_ van:
 
-Cafeïne
-
-Aroma's
-
-Urinezuur
-
-Oxaalzuur
-
-L-theanine
+*   _Cafeïne_
+*   _Aroma's_
+*   _Urinezuur_
+*   _Oxaalzuur_
+*   _L-theanine_
 
 ## Referenties
 
