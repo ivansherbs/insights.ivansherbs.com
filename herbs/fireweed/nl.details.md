@@ -79,19 +79,17 @@ Het is van _nature vrij_ van:
 
 In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking die duizeligheid kan veroorzaken en daarmee de rijvaardigheid kan beïnvloeden. 
 
-_Hoe bewaart u dit geneesmiddel?_
+**Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?**
 
-- Droog bewaren beneden 20 graden Celsius (en buiten bereik van kinderen in verband met verstikkingsgevaar).
+- Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard van dit product kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
 
-- Gezien de natuurlijke aard van dit product kan het langer worden bewaard dan de uiterste houdbaarheidsdatum.
-
-Wanneer het geneesmiddel op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
+Wanneer het geneesmiddel op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen eventueel het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
 
 Lees over [de 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai "de 7 gezondheidsvoordelen van Ivan Chai") of bekijk onze [cadeau set](https://ivans-herbs-1-1.myshopify.com/?_ab=0&_fd=0&_sc=1 "Ivan Chai cadeau set").
 
 ## Referenties
 
-- Anonymous. “Epilobii Herba.” *European Medicines Agency*, 20 Sept. 2018.
+- Herbal Medicinal Products Committee (HMPC). “Epilobii Herba.” *European Medicines Agency*, 20 Sept. 2018.
 - Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” *Journal of Ethnopharmacology*, vol. 232, 2019, pp. 1–10.
 - “Fireweed: Uses, Side Effects, Interactions, Dosage, and Warning.” WebMD, WebMD
 - Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs, Their Components and Gut Microbiota Metabolites of Epilobium Ellagitannins, Urolithins, Inhibit Hormone‐Dependent Prostate Cancer Cells‐(LNCaP) Proliferation and PSA Secretion - Stolarczyk - 2013 - Phytotherapy Research - Wiley Online Library.” Phytotherapy Research, John Wiley &amp; Sons, Ltd, 25 Feb. 2013
