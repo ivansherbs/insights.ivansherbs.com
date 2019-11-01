@@ -1,4 +1,4 @@
-# Ivan Chai (*Epilobium Angustifolium*)
+# Ivan Chai - Epilobium Angustifolium
 
 ## Pak onderstaande gezondheidsproblemen aan met Ivan Chai
 * Prostaatontsteking
