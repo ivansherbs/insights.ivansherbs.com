@@ -2,15 +2,19 @@
 
 ## Pak onderstaande gezondheidsproblemen aan met Ivan Chai
 * Prostaatontsteking
+
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen.
   
 * Benigne Prostaat Hyperplasie 
+
 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat.
   
 * Prostaatkanker 
+
 Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Dit komt door de hoge mate van Prostaat Specifiek Antigeen in het bloed. Mannen vanaf 50 jaar lopen een vergrote kans om prostaatkanker op te lopen.
 
 * Urineweginfectie 
+
 Er zijn verschillende urineweginfecties met verglijkbare symptonen dan wel klachten gerelateerd aan Benigne Prostaat Hyperplasie. Hiernaast komt het hebben van een blaasonsteking jaarlijks voor bij circa 20% van de vrouwen. 
 
 ## Bewezen effectiviteit van Ivan Chai
