@@ -19,7 +19,7 @@ Er zijn verschillende urineweginfecties met verglijkbare symptonen dan wel klach
 
 ## Bewezen effectiviteit van Ivan Chai
 
-_Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt in onderzoeken de Latijnse benaming Epilobium Angustifolium. Het EMA stelt dat vanwege het wijd verspreide traditionele medicinale gebruik Epilobium Angustifolium gedurende meer dan 30 jaar voor veilig kan worden aangenomen ([HMPC, 2018])._
+_Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt in onderzoeken de Latijnse benaming Epilobium Angustifolium. Het EMA stelt dat vanwege het wijd verspreide traditionele medicinale gebruik Epilobium Angustifolium gedurende 30 jaar voor veilig kan worden aangenomen ([HMPC, 2018])._
 
 Een van de onderzoekers die het traditionele medicinale gebruik heeft gepromoot is de Zwitserse kruidkundige M. Trebens. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen. De verantwoordelijke verbinding voor het positieve effect in Ivan Chai op de prostaat is geïdentificeerd en bevestigd ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). 
 
