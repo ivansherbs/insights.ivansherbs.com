@@ -19,7 +19,7 @@ Er zijn verschillende urineweginfecties met verglijkbare symptonen dan wel klach
 
 ## Bewezen effectiviteit van Ivan Chai
 
-_Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt in onderzoeken de Latijnse benaming Epilobium Angustifolium. Het EMA stelt dat vanwege het wijd verspreide traditionele medicinale gebruik Epilobium Angustifolium gedurende meer dan 30 jaar voor veilig kan worden aangenomen ([Anonymous, 2018])._
+_Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt in onderzoeken de Latijnse benaming Epilobium Angustifolium. Het EMA stelt dat vanwege het wijd verspreide traditionele medicinale gebruik Epilobium Angustifolium gedurende meer dan 30 jaar voor veilig kan worden aangenomen ([HMPC, 2018])._
 
 Een van de onderzoekers die het traditionele medicinale gebruik heeft gepromoot is de Zwitserse kruidkundige M. Trebens. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen. De verantwoordelijke verbinding voor het positieve effect in Ivan Chai op de prostaat is geïdentificeerd en bevestigd ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). 
 
@@ -91,13 +91,13 @@ Lees over [de 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/
 
 ## Referenties
 
-- Anonymous. “Epilobii Herba.” *European Medicines Agency*, 20 Sept. 2018, https://www.ema.europa.eu/en/medicines/herbal/epilobii-herba.
+- Anonymous. “Epilobii Herba.” *European Medicines Agency*, 20 Sept. 2018.
 - Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” *Journal of Ethnopharmacology*, vol. 232, 2019, pp. 1–10.
 - “Fireweed: Uses, Side Effects, Interactions, Dosage, and Warning.” WebMD, WebMD
 - Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs, Their Components and Gut Microbiota Metabolites of Epilobium Ellagitannins, Urolithins, Inhibit Hormone‐Dependent Prostate Cancer Cells‐(LNCaP) Proliferation and PSA Secretion - Stolarczyk - 2013 - Phytotherapy Research - Wiley Online Library.” Phytotherapy Research, John Wiley &amp; Sons, Ltd, 25 Feb. 2013
 - Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs Induce Apoptosis in Human Hormone‐Dependent Prostate Cancer Cells by Activating the Mitochondrial Pathway - Stolarczyk - 2013 - Journal of Pharmacy and Pharmacology - Wiley Online Library.” Journal of Pharmacy and Pharmacology, John Wiley &amp; Sons, Ltd (10.1111), 21 Apr. 2013, 
 
-[Anonymous, 2018]: https://www.ema.europa.eu/en/medicines/herbal/epilobii-herba
+[HMPC, 2018]: https://www.ema.europa.eu/en/medicines/herbal/epilobii-herba
 [Deng, 2019]: https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub
 [WebMD]: https://www.webmd.com/vitamins/ai/ingredientmono-429/fireweed
 [Stolarczyk, 2013a]: https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941
