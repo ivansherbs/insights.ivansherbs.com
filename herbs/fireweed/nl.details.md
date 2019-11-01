@@ -37,6 +37,8 @@ Totale tijd: **7** minuten
 
 Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit kruideninfuus **7** minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **70** graden Celsius. 
 
+Ter info:
+
 Natuurlijk zoet. Wordt niet bitter als het te lang wordt gebrouwen.
 
 ## Dosering en behandelingskuur
