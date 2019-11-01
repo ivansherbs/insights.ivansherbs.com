@@ -1,4 +1,4 @@
-# Ivan Chai - Epilobium Angustifolium
+# Ivan Chai - Verzorgt de gezondheid van prostaat en urinewegen
 
 ## Pak onderstaande gezondheidsproblemen aan met Ivan Chai
 * Prostaatontsteking
