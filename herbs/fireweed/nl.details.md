@@ -68,9 +68,13 @@ Ivan Chai is een extreem veilige soort (klassen) kruidenthee. Het kan in grote h
 Het is van nature vrij van:
 
 Cafeïne
+
 Aroma's
+
 Urinezuur
+
 Oxaalzuur
+
 L-theanine
 
 ## Referenties
