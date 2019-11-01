@@ -54,7 +54,7 @@ Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen
 
 Ons advies luidt om eigen onderzoek te doen om bijwerkingen te voorkomen. Veel combinaties van natuurlijke geneesmiddelen met farmaceutische medicijnen zijn tot op heden niet geprobeerd of getest.
 
-Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld (1). Het wordt geadviseerd om te voorkomen dat kruiden met farmaceutische medicijnen met elkaar worden gecombineerd.
+Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld ([1](https://www.webmd.com/vitamins/ai/ingredientmono-429/fireweed)). Het wordt geadviseerd om te voorkomen dat kruiden met farmaceutische medicijnen met elkaar worden gecombineerd.
 
 Het is bekend dat het gebruik van kruiden rechtstreeks uit de natuur één groot voordeel heeft. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
 
