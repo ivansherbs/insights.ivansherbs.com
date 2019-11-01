@@ -25,7 +25,7 @@ Een van de onderzoekers die het traditionele medicinale gebruik heeft gepromoot 
 
 Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens adviseert Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het EMA heeft hierna in de definitieve beoordeling van Epilobium Angustifolium goedkeuring gegeven voor het gebruik gericht op de verlichting van symptomen en klachten van urinewegen gerelateerd aan Benigne Prostaat Hyperplasie ([Anonymous, 2018]). 
 
-Tot op heden (2019) zijn er geen studies op klinisch niveau geweest om te bevestigen dat het nemen van een doses Ivan Chai het PSA-niveaus van mannen verlaagt. Er zijn echter drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai het niveau van PSA-secretie aanzienlijk kunnen verlagen ([Denq, 2019],[Stolarczyk, 2013a],[Stolarczyk, 2013b]).
+Tot op heden (2019) zijn er geen studies op klinisch niveau geweest om te bevestigen dat het nemen van een doses Ivan Chai het PSA-niveaus van mannen verlaagt. Er zijn echter drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai het niveau van PSA-secretie aanzienlijk kunnen verlagen ([Deng, 2019],[Stolarczyk, 2013a],[Stolarczyk, 2013b]).
 
 ## Ingrediënten
 
@@ -92,13 +92,13 @@ Lees over [de 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/
 ## Referenties
 
 - Anonymous. “Epilobii Herba.” *European Medicines Agency*, 20 Sept. 2018, https://www.ema.europa.eu/en/medicines/herbal/epilobii-herba.
-- Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” *Journal of Ethnopharmacology*, vol. 232, 2019, pp. 1–10., https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub.
-- “Fireweed: Uses, Side Effects, Interactions, Dosage, and Warning.” WebMD, WebMD, https://www.webmd.com/vitamins/ai/ingredientmono-429/fireweed.
-- Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs, Their Components and Gut Microbiota Metabolites of Epilobium Ellagitannins, Urolithins, Inhibit Hormone‐Dependent Prostate Cancer Cells‐(LNCaP) Proliferation and PSA Secretion - Stolarczyk - 2013 - Phytotherapy Research - Wiley Online Library.” Phytotherapy Research, John Wiley &amp; Sons, Ltd, 25 Feb. 2013, https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941.
-- Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs Induce Apoptosis in Human Hormone‐Dependent Prostate Cancer Cells by Activating the Mitochondrial Pathway - Stolarczyk - 2013 - Journal of Pharmacy and Pharmacology - Wiley Online Library.” Journal of Pharmacy and Pharmacology, John Wiley &amp; Sons, Ltd (10.1111), 21 Apr. 2013, https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063.
+- Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” *Journal of Ethnopharmacology*, vol. 232, 2019, pp. 1–10.
+- “Fireweed: Uses, Side Effects, Interactions, Dosage, and Warning.” WebMD, WebMD
+- Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs, Their Components and Gut Microbiota Metabolites of Epilobium Ellagitannins, Urolithins, Inhibit Hormone‐Dependent Prostate Cancer Cells‐(LNCaP) Proliferation and PSA Secretion - Stolarczyk - 2013 - Phytotherapy Research - Wiley Online Library.” Phytotherapy Research, John Wiley &amp; Sons, Ltd, 25 Feb. 2013
+- Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs Induce Apoptosis in Human Hormone‐Dependent Prostate Cancer Cells by Activating the Mitochondrial Pathway - Stolarczyk - 2013 - Journal of Pharmacy and Pharmacology - Wiley Online Library.” Journal of Pharmacy and Pharmacology, John Wiley &amp; Sons, Ltd (10.1111), 21 Apr. 2013, 
 
 [Anonymous, 2018]: https://www.ema.europa.eu/en/medicines/herbal/epilobii-herba
-[Denq, 2019]: https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub
+[Deng, 2019]: https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub
 [WebMD]: https://www.webmd.com/vitamins/ai/ingredientmono-429/fireweed
 [Stolarczyk, 2013a]: https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941
 [Stolarczyk, 2013b]: https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063
