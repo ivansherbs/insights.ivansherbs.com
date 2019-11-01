@@ -29,9 +29,9 @@ Tot op heden (2019) zijn er geen studies op klinisch niveau geweest om te bevest
 
 ## Bereidingswijze geneesmiddel
 
-Totale tijd: **7 minuten**
+Totale tijd: **7** minuten
 
-Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit kruideninfuus **7 minuten** trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **70 graden Celsius**. 
+Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit kruideninfuus **7** minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **70** graden Celsius. 
 
 Natuurlijk zoet. Wordt niet bitter als het te lang wordt gebrouwen.
 
@@ -39,7 +39,7 @@ Natuurlijk zoet. Wordt niet bitter als het te lang wordt gebrouwen.
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 
-Drink 1 kop voor de maaltijd en 2 keer per dag gedurende **7 dagen**. Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
+Drink 1 kop voor de maaltijd en 2 keer per dag gedurende **7** dagen. Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
 
 
 ## Voorzorgsmaatregelen
