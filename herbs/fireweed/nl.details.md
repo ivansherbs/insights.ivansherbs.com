@@ -1,4 +1,4 @@
-# Ivan Chai - Verzorgt de gezondheid van prostaat en urinewegen
+# Ivan Chai: Verzorgt de gezondheid van prostaat en urinewegen
 
 ## Pak onderstaande gezondheidsproblemen aan met Ivan Chai
 * Prostaatontsteking
@@ -72,6 +72,20 @@ Het is van _nature vrij_ van:
 *   _Urinezuur_
 *   _Oxaalzuur_
 *   _L-theanine_
+
+**Rijvaardigheid**
+
+In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking die duizeligheid kan veroorzaken en daarmee de rijvaardigheid kan beïnvloeden. 
+
+_Hoe bewaart u dit geneesmiddel?_
+
+- Droog bewaren beneden 20 graden Celsius (en buiten bereik van kinderen in verband met verstikkingsgevaar).
+
+- Gezien de natuurlijke aard van dit product kan het langer worden bewaard dan de uiterste houdbaarheidsdatum.
+
+Wanneer het geneesmiddel op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
+
+Lees over [de 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai "de 7 gezondheidsvoordelen van Ivan Chai") of bekijk onze [cadeau set](https://ivans-herbs-1-1.myshopify.com/?_ab=0&_fd=0&_sc=1 "Ivan Chai cadeau set").
 
 ## Referenties
 
