@@ -98,12 +98,10 @@ Farmaceutische medicijnen kunnen namelijk wél de vruchtbaarheid negatief beïnv
 
 In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking die duizeligheid kan veroorzaken en daarmee de rijvaardigheid kan beïnvloeden. 
 
-_Hoe bewaart u dit geneesmiddel?_
+**Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?**
 
-- Droog bewaren beneden 20 graden Celsius (en buiten bereik van kinderen in verband met verstikkingsgevaar).
+- Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de _herbruikbare_ tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard van dit product kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
 
-- Gezien de natuurlijke aard van dit product kan het langer worden bewaard dan de uiterste houdbaarheidsdatum.
-
-Wanneer het geneesmiddel op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
+Wanneer het geneesmiddel op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen eventueel het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
 
 Lees over [de 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai "de 7 gezondheidsvoordelen van Ivan Chai") of bekijk onze [cadeau set](https://ivans-herbs-1-1.myshopify.com/?_ab=0&_fd=0&_sc=1 "Ivan Chai cadeau set").
