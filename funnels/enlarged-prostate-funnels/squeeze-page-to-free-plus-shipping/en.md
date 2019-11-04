@@ -1,4 +1,4 @@
-Get access to a free 50 g of Ivan Chai, a herbal tea proven to improve your prostate health*, sign up below. 
+To get access to 50 g of **Ivan Chai for free**, a herbal tea proven to improve your prostate health*, sign up below. 
 
 That's 25 cups of herbal tea. Only pay the shipping within the Netherlands (2€).
 
