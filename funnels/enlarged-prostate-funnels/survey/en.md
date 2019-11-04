@@ -1,4 +1,4 @@
-We'd like to know a bit more about you - only 3 questions.
+We'd like to know a bit more about you - only 3 questions - before we give you access to a free 50 grams of a herbal tea proven to improve prostate health.
 
 What's your gender?
 () Male
