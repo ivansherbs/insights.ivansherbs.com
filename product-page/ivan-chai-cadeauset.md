@@ -19,4 +19,4 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwar
 
 Bekijk het recept met [Ivan Chai tegen 17 gezondheidsproblemen](https://www.ivansherbs.nl/pages/ivan-chai-tegen-17-gezondheidsproblemen)
 
-Ivan's Herbs richt zich op het gebruik van kruiden om gezondheidsproblemen aan te pakken. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische geneesmiddelen.
+_Ivan's Herbs streeft naar het gebruik van 100% biologisch afbreekbare of herbruikbare materialen._
