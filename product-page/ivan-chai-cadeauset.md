@@ -1,7 +1,7 @@
-## Ivan Chai Cadeauset
+## Cadeauset: Ivan Chai 
 14.00 <br>
 - 2 herbruikbare tubes met losse bladeren <br>
-- 1 tube bevat 50gr - 25 koppen thee <br><br>
+- 1 tube bevat 50gr Ivan Chai - 25 koppen Siberische kruidenthee <br><br>
 
 
 **De 7 gezondheidsvoordelen van Ivan Chai:**<br>
