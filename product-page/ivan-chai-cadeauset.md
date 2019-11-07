@@ -1,7 +1,7 @@
 ## Ivan Chai Cadeauset
 14.00 <br>
 - 2 herbruikbare tubes met losse bladeren <br>
-- 1 tube bevat 50gr - 25 koppen thee<br>
+- 1 tube bevat 50gr - 25 koppen thee <br><br>
 
 **De 7 gezondheidsvoordelen van Ivan Chai:**<br>
 1. Immuniteit
@@ -10,7 +10,7 @@
 4. Antioxiderede werking en versterkt de anti-tumoractiviteit
 5. Verzorgt de gezondheid van prostaat en urinewegen
 6. Verzorgt het spijsverteringsstelsel
-7. Vermindert de kans op diabetes en depressie
+7. Vermindert de kans op diabetes en depressie <br>
 
 **Smaak beoordeling**<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
