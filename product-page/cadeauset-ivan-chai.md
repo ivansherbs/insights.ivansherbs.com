@@ -2,7 +2,7 @@
 14.00 <br>
 
 **Inhoud**
-- 2 herbruikbare tubes gevuld met losse bladeren <br>
+- 2 _herbruikbare_ tubes gevuld met losse bladeren <br>
 - 1 tube bevat Ivan Chai 50gr - 25 koppen <br><br>
 
 **_Ingrediënten_**<br>
