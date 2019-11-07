@@ -10,7 +10,7 @@
 4. Antioxiderede werking en versterkt de anti-tumoractiviteit
 5. Verzorgt de gezondheid van prostaat en urinewegen
 6. Verzorgt het spijsverteringsstelsel
-7. Vermindert de kans op diabetes en depressie <br>
+7. Vermindert de kans op diabetes en depressie <br><br>
 
 **Smaak beoordeling**<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
