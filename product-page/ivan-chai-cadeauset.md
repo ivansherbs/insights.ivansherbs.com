@@ -2,8 +2,8 @@
 14.00 <br>
 
 **Inhoud**
-- 2 herbruikbare tubes met losse bladeren <br>
-- 1 tube bevat 50gr Ivan Chai - 25 koppen <br><br>
+- 2 herbruikbare tubes gevuld met losse bladeren <br>
+- 1 tube bevat Ivan Chai 50gr - 25 koppen <br><br>
 
 **_Ingrediënten_**<br>
 _Siberische Kruidenthee Ivan Chai 100%_
