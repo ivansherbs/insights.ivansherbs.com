@@ -1,7 +1,7 @@
 ## Cadeauset: Ivan Chai 
 14.00 <br>
 
-**Inhoud cadeauset Ivan Chai
+**Inhoud cadeauset Ivan Chai**
 - 2 herbruikbare tubes met losse bladeren <br>
 - 1 tube bevat 50gr Ivan Chai - 25 koppen <br><br>
 
