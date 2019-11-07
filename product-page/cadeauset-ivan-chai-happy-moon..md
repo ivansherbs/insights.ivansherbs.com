@@ -1,4 +1,4 @@
-## Cadeauset: Ivan Chai & Happy Moon
+## Cadeauset: Ivan Chai & Womens Welness
 17.00 <br>
 
 **Inhoud**
@@ -19,6 +19,12 @@ Zak: _Siberische Kruidenthee Ivan Chai / Kamille bloemen / Citroen Balsem  / Cal
 5. Verzorgt de gezondheid van prostaat en urinewegen
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes en depressie <br><br>
+
+**Happy Moon**
+Naast Ivan Chai bevat deze kruidenmix de volgende gezondheidsvoordelen:
+- Kamille bloemen
+- Citroen Balsem om 
+- Calendula bloemen
 
 **Smaak beoordeling**<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
