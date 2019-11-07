@@ -9,7 +9,7 @@
 
 **_Ingrediënten_**<br>
 Tube: _Siberische Kruidenthee Ivan Chai 100%_<br>
-Zak: _Siberische Kruidenthee Ivan Chai_ | _Kamille bloemen_ | _Citroen Balsem_ | _Calendula bloemen_
+Zak: _Siberische Kruidenthee Ivan Chai / Kamille bloemen / Citroen Balsem  / Calendula bloemen_
 
 **De 7 gezondheidsvoordelen van Ivan Chai:**<br>
 1. Immuniteit
