@@ -6,7 +6,7 @@
 - 1 tube bevat Ivan Chai 50gr - 25 koppen <br><br>
 
 **_Ingrediënten_**<br>
-_Siberische Kruidenthee Ivan Chai 100%_
+Tube: _Siberische Kruidenthee Ivan Chai 100%_
 
 **De 7 gezondheidsvoordelen van Ivan Chai:**<br>
 1. Immuniteit
