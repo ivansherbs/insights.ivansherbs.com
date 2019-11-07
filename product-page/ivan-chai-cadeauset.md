@@ -1,8 +1,8 @@
 ## Ivan Chai Cadeauset
 14.00 <br>
 - 2 herbruikbare tubes met losse bladeren <br>
-- 1 tube bevat 50gr - 25 koppen thee
-<br>
+- 1 tube bevat 50gr - 25 koppen thee<br>
+
 **De 7 gezondheidsvoordelen van Ivan Chai:**<br>
 1. Immuniteit
 2. Een van nature Krachtige ontstekingsremmer
