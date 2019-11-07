@@ -19,4 +19,4 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak 
 
-[Bekijk het recept met Ivan Chai tegen 17 gezondheidsproblemen](https://www.ivansherbs.nl/pages/ivan-chai-tegen-17-gezondheidsproblemen)
+Bekijk het recept met [Ivan Chai tegen 17 gezondheidsproblemen](https://www.ivansherbs.nl/pages/ivan-chai-tegen-17-gezondheidsproblemen)
