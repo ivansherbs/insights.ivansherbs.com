@@ -14,8 +14,9 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes en depressie
 
-**Smaak beoordeling**
-
+**Smaak beoordeling**<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
 Bekijk het recept met [Ivan Chai tegen 17 gezondheidsproblemen](https://www.ivansherbs.nl/pages/ivan-chai-tegen-17-gezondheidsproblemen)
+
+Ivan's Herbs richt zich op het gebruik van kruiden om gezondheidsproblemen aan te pakken. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische geneesmiddelen.
