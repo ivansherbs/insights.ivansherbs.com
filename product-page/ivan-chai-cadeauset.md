@@ -1,8 +1,7 @@
 ## Ivan Chai Cadeauset
+14.00 <br>
 - 2 herbruikbare tubes met losse bladeren <br>
 - 1 tube bevat 50gr - 25 koppen thee
-
-14.00
 
 De 7 gezondheidsvoordelen van Ivan Chai:
 
