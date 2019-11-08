@@ -1,12 +1,6 @@
-## Cadeauset: Ivan Chai 
-14.00 <br>
-
-**Inhoud**
-- 2 _herbruikbare_ tubes gevuld met losse bladeren <br>
-- 1 tube bevat Ivan Chai 50gr - 25 koppen <br><br>
-
-**_Ingrediënten_**<br>
-Tube: _Siberische Kruidenthee Ivan Chai 100%_
+## Ivan Chai - Cadeauset
+28.00 <br>
+Inclusief belasting <br>
 
 **De 7 gezondheidsvoordelen van Ivan Chai:**<br>
 1. Immuniteit
@@ -16,6 +10,15 @@ Tube: _Siberische Kruidenthee Ivan Chai 100%_
 5. Verzorgt de gezondheid van prostaat en urinewegen
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes en depressie <br><br>
+
+**Lees het volledige artikel:**<br>
+[De 7 gezondheidsvoordelen van Ivan Chai](
+
+**Product Inhoud**
+Een bestelling bevat 100 gram Ivan Chai. Volgens onze aanbeveling van 2 gr per kop, zijn dat 50 koppen Siberische kruidenthee
+- 1 tube bevat 50 gram Ivan Chai - 25 koppen <br><br>
+
+_Alle verpakkingen zijn 100% recyclebaar._
 
 **Smaak beoordeling**<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
