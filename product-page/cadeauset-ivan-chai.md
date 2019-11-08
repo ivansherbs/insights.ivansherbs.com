@@ -12,7 +12,7 @@ Inclusief belasting <br>
 7. Vermindert de kans op diabetes en depressie <br><br>
 
 **Lees het volledige artikel:**<br>
-[De 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai)
+[De 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai) <br>
 
 **Product Inhoud** <br>
 Een bestelling bevat 100 gram Ivan Chai. Volgens onze aanbeveling van 2 gram per kop, zijn dat 50 koppen Siberische kruidenthee
