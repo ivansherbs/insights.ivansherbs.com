@@ -17,7 +17,7 @@ Inclusief belasting <br>
 **Product Inhoud** <br>
 - Een bestelling bevat 2 tubes met in totaal 100 gram Ivan Chai. Volgens onze aanbeveling van 2 gram per kop zijn dat 50 koppen Siberische kruidenthee.<br>
 
-_Alle verpakkingen zijn 100% recyclebaar. Ivan's Herbs streeft naar het gebruik van biologisch afbreekbare of herbruikbare materialen._ <br><br>
+_Alle verpakkingen zijn 100% recyclebaar. Ivan's Herbs streeft naar het gebruik van biologisch afbreekbare of herbruikbare materialen in het dagelijkse leven._ <br><br>
 
 **Smaak beoordeling**<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
