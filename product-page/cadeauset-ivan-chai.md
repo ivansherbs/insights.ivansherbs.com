@@ -15,7 +15,7 @@ Inclusief belasting <br>
 [De 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai)
 
 **Product Inhoud** <br>
-Een bestelling bevat 100 gram Ivan Chai. Volgens onze aanbeveling van 2 gr per kop, zijn dat 50 koppen Siberische kruidenthee
+Een bestelling bevat 100 gram Ivan Chai. Volgens onze aanbeveling van 2 gram per kop, zijn dat 50 koppen Siberische kruidenthee
 - 1 tube bevat 50 gram Ivan Chai - 25 koppen <br><br>
 
 _Alle verpakkingen zijn 100% recyclebaar._
