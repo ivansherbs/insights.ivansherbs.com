@@ -23,4 +23,4 @@ _Alle verpakkingen zijn 100% recyclebaar. Ivan's Herbs streeft naar het gebruik 
 **Smaak beoordeling**<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
-Bekijk het recept met [Ivan Chai tegen 17 gezondheidsproblemen].(https://www.ivansherbs.nl/pages/ivan-chai-tegen-17-gezondheidsproblemen)
+Bekijk het recept met [Ivan Chai tegen 17 gezondheidsproblemen](https://www.ivansherbs.nl/pages/ivan-chai-tegen-17-gezondheidsproblemen).
