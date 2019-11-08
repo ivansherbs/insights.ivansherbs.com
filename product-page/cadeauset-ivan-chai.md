@@ -11,7 +11,7 @@ Inclusief belasting <br>
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes en depressie <br><br>
 
-**Lees het volledige artikel:**<br>
+**Lees het artikel:**<br>
 [De 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai) <br><br>
 
 **Product Inhoud** <br>
