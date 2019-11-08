@@ -2,7 +2,7 @@
 28.00 <br>
 Inclusief belasting <br>
 
-**De 7 gezondheidsvoordelen van Ivan Chai:**<br>
+**De 7 gezondheidsvoordelen van Ivan Chai**<br>
 1. Immuniteit
 2. Een van nature Krachtige ontstekingsremmer
 3. Verbetert de slaap en vermindert Angst, stress en burnout klachten
