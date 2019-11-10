@@ -1,6 +1,5 @@
 ## Ivan Chai - Losse bladeren 
 20.00 <br>
-Inclusief belasting
 
 **De 7 gezondheidsvoordelen van Ivan Chai**<br>
 1. Immuniteit
