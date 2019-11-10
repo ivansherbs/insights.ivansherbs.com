@@ -1,6 +1,5 @@
 ## Ivan Chai - Cadeauset
 28.00 <br>
-Inclusief belasting <br>
 
 **De 7 gezondheidsvoordelen van Ivan Chai**<br>
 1. Immuniteit
