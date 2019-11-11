@@ -143,7 +143,7 @@ Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van 
 
 * Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig.
 
-# Over Ivan's Herbs**
+# Conclusie  
 
 We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle gezondheidsproblemen aan te pakken, _kies je gevechten_.
 
