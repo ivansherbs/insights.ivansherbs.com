@@ -5,8 +5,8 @@ _Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
 Voorkom de volgende 17 gezondheidsproblemen met Ivan Chai:_
 1.  Infecties
 2.  Verkoudheid en griep
-3.  Darmontsteking
-4.  Zwak immuunsysteem
+3.  Zwak immuunsysteem
+4.  Darmontsteking 
 5.  Wazige geest
 6.  Slaap
 7.  Angst
