@@ -16,8 +16,8 @@ Wanneer geconsumeerd zoals aangegeven werken kruiden in de meeste gevallen, maar
 
 ## Referenties
 
-1. Veeresham, Ciddi. "Natural Products Derived from Plants as a Source of Drugs." Journal of Advanced Pharmaceutical Technology & Research, 2012, vol. 3, no. 4, p. 200-201. doi:10.4103/2231-4040.104709.
+1. Veeresham, Ciddi. "Natural Products Derived from Plants as a Source of Drugs." Journal of Advanced Pharmaceutical Technology & Research, 2012, vol. 3, no. 4, p. 200-201. [doi:10.4103/2231-4040.104709](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560124/).
 
 1. Ghana Medical Journal. "Herbal Medicine Research." Ghana Medical Journal, Ghana Medical Association, 2013, vol. 47, no. 3, p. 100. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3875280/.
 
-1. Medina-Franco, José L., et al. "Shifting from the single to the multitarget paradigm in drug discovery." Drug Discovery Today, 2013, vol. 18, no. 9-10, p. 495–501. doi:10.1016/j.drudis.2013.01.008.
+1. Medina-Franco, José L., et al. "Shifting from the single to the multitarget paradigm in drug discovery." Drug Discovery Today, 2013, vol. 18, no. 9-10, p. 495–501. [doi:10.1016/j.drudis.2013.01.008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3642214/).
