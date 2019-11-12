@@ -1,6 +1,6 @@
-***Kruiden als medicijn***
+# Kruiden als medicijn
 
-_Ivan's Herbs richt zich op het gebruik van kruiden om gezondheidsproblemen aan te pakken. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische medicijnen. Van alle goedgekeurde farmaceutische medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560124/)). Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam zijn en minder ernstig dan bij farmaceutische medicijnen._
+Ivan's Herbs richt zich op het gebruik van kruiden om gezondheidsproblemen aan te pakken. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische medicijnen. Van alle goedgekeurde farmaceutische medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560124/)). Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam zijn en minder ernstig dan bij farmaceutische medicijnen.
 
 Wij bieden wetenschappelijk bewijs voor ieder recept met kruiden. Ivan's Herbs richt zich op het promoten van kruiden uit Siberië met gezondheidsvoordelen en zonder negatieve bijwerkingen voor het menselijk lichaam. Veel gezondheidsproblemen zijn geëvalueerd door het European Medicines Agency (EMA), het Europese equivalent van de Amerikaanse Federal Drug Administration (FDA). Wij bieden klinisch dan wel niet-klinisch bewijs om aan te tonen hoe de actieve stoffen in kruiden gezondheidsproblemen aanpakken.
 
@@ -10,13 +10,14 @@ Kruiden kunnen als alternatief of aanvulling voor farmaceutische medicijnen word
 
 Wanneer geconsumeerd zoals aangegeven werken kruiden in de meeste gevallen, maar zeker niet in alle gevallen, langzamer dan farmaceutische medicijnen. Kruiden moeten gemiddeld langer worden geconsumeerd om een heilzaam effect te bewerkstelligen. Dit 'nadeel' wordt gecompenseerd door het ontbreken van negatieve bijwerkingen wanneer kruiden worden geconsumeerd zoals voorgeschreven.
 
-**Lees het volgende artikel:**
+## Lees het volgende artikel
 
- **[De 7 gezondheidsvoordelen van Ivan Chai](https://ivans-herbs-1-1.myshopify.com/pages/ontvang-updates)**
+ **[De 7 gezondheidsvoordelen van Ivan Chai](/pages/ontvang-updates)**
 
 ## Referenties
-*   Ghana Medical Journal. “Herbal Medicine Research.” Ghana Medical Journal, Ghana Medical Association, Sept. 2013, ncbi.nlm.nih.gov/pmc/articles/PMC3875280/.
 
-*   Medina-Franco, José L., et al. “Shifting from the Single to the Multitarget Paradigm in Drug Discovery.” Drug Discovery Today, vol. 18, no. 9-10, 2013, pp. 495–501., doi:10.1016/j.drudis.2013.01.008.
+1. Veeresham, Ciddi. "Natural Products Derived from Plants as a Source of Drugs." Journal of Advanced Pharmaceutical Technology & Research, 2012, vol. 3, no. 4, p. 200-201. doi:10.4103/2231-4040.104709.
 
-*   Veeresham, Ciddi. “Natural Products Derived from Plants as a Source of Drugs.” Journal of Advanced Pharmaceutical Technology & Research, vol. 3, no. 4, 2012, p. 200., doi:10.4103/2231-4040.104709.
+1. Ghana Medical Journal. "Herbal Medicine Research." Ghana Medical Journal, Ghana Medical Association, 2013, vol. 47, no. 3, p. 100. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3875280/.
+
+1. Medina-Franco, José L., et al. "Shifting from the single to the multitarget paradigm in drug discovery." Drug Discovery Today, 2013, vol. 18, no. 9-10, p. 495–501. doi:10.1016/j.drudis.2013.01.008.
