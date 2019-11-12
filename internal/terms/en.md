@@ -7,8 +7,8 @@
 These Terms of Use ("Terms") are a contract between you and Ivan's Herbs. Ivan's Herbs means Ivan's Herbs VOF, a General Partnership in the Netherlands with Chamber of Commerce number 75553155 ("Ivan's Herbs" or "we"). These Terms govern your access to and use of any Ivan's Herbs website or content (the "Site") or any herbs, herbal recipe, or product derived from herbs (collectively, "Products").
 
 If you need to contact us, you can do so by:
-writing to us **519 Nachtwachtlaan, 1058ET Amsterdam, The Netherlands**
-<!--or contact us through our enquiry form here.-->
+* writing to us at **519 Nachtwachtlaan, 1058ET Amsterdam, The Netherlands**
+<!--* or contact us through our enquiry form here (!!! link mising)-->
 
 The most current version of these Terms can be accessed at any time at https://ivansherbs.com/pages/terms-of-use. Changes to these Terms will be notified via posting on the Site (or other written notice to you). Please read these Terms carefully before accessing and using the Site or Products.
 
