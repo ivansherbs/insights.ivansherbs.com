@@ -1,6 +1,8 @@
-***_De natuurlijke oplossing_***
+# De natuurlijke oplossing
 
-#### Visie & Missie
+<!-- IMAGE: https://cdn.shopify.com/s/files/1/0104/9385/3743/files/Default_logo_without_tagline-01_480x480.png?v=1568964750 -->
+
+## Visie & Missie
 
 Onze visie is om een gemeenschap op te bouwen gericht op de gezondheid en algehele gemoedstoestand. Dit doen wij met behulp van bronnen beschikbaar uit de natuur als alternatief op farmaceutische medicijnen. Onze missie is om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw gezondheidsproblemen.
 
@@ -14,22 +16,16 @@ Industrieën verstoren continu de norm. Onze klanten kunnen op ons vertrouwen he
 
 De reis van jouw leven bestaat uit keuzes. Bij Ivan’s Herbs vergezellen wij deze reis volledig met jou. We streven ernaar jouw vertrouwde partner te zijn. Verzorg daarom dagelijks je gezondheid met kruiden uit Siberië.
 
-
+<!-- IMAGE: https://cdn.shopify.com/s/files/1/0104/9385/3743/files/small_file_480x480.jpg?v=1569845099 -->
 
 #### Het verhaal van de oprichter
 
-Onze oprichter Michael Koch ontdekte voor het eerst de gezondheidsvoordelen van kruideninfusies in 2017\. Destijds woonde hij in Moskou. Het begon met Ivan Chai, een sinds de 17de eeuw door het gewone volk met de handgemaakte kruideninfusie. Hierdoor heeft het de traditionele Russische naam ‘Ivan’ verdiend, waarbij 'Chai' wordt gebruikt om thee aan te duiden. Voordat het werd vergeten door de politieke onrust van de Russische revolutie van 1917, werd het massaal geëxporteerd naar West-Europa.
+Onze oprichter Michael Koch ontdekte voor het eerst de gezondheidsvoordelen van kruideninfusies in 2017. Destijds woonde hij in Moskou. Het begon met Ivan Chai, een sinds de 17de eeuw door het gewone volk met de handgemaakte kruideninfusie. Hierdoor heeft het de traditionele Russische naam ‘Ivan’ verdiend, waarbij 'Chai' wordt gebruikt om thee aan te duiden. Voordat het werd vergeten door de politieke onrust van de Russische revolutie van 1917, werd het massaal geëxporteerd naar West-Europa.
 
 Michael was overtuigd van de vele voordelen voor de gezondheid, waarna hij het erop waagde de Ivan Chai met zijn eigen handen te oogsten. Dit gebeurde nabij een afgelegen Siberische ecodorp ver weg van de bewoonde wereld. Hij bracht één jaar door in het ecodorp, waar hij van de meest ervaren Kruiden & Thee Technoloog leerde over de heilzame eigenschappen van de lokale Siberische kruiden. Toen hij zich in de beste vorm van zijn leven bevond, besloot hij om de Belukha te beklimmen, de hoogste berg van Siberië.
 
+<!-- IMAGE: https://cdn.shopify.com/s/files/1/0104/9385/3743/files/Founder_-_providing_healthbenefits_fromnature_1.1_1_480x480.jpg?v=1568966027 -->
 
 In de expeditie groep ontmoette Michael, door pure serendipiteit, een Siberische kruidenkenner genaamd Ivan. Ivan had al meer dan 20 jaar traditionele kruidengeneeskunde gestudeerd. Ivan was de oudste in de expeditie groep (68) en maakte revitaliserende kruidenthee van de lokale kruiden waar zijn oog op viel gedurende de expeditie. Nadat het grootste deel van de groep de fysiek veeleisende top van 4500 meter had bereikt, keerde Michael terug naar Amsterdam om dit verhaal te vertellen. Pas toen begonnen we ook in kruiden te geloven.
-<span>Vandaag blijft Ivan een van onze adviseurs voor kruiden om ziekte te voorkomen en gezondheidsproblemen te verzorgen.</span>
 
-**Ivan's Herbs:**
-
-**[Cadeauset](https://ivans-herbs-1-1.myshopify.com/products/ivan-chai-gift-set)**
-
-**[Galerij](https://ivans-herbs-1-1.myshopify.com/pages/photography)**
-
-**[Home](https://ivans-herbs-1-1.myshopify.com/)**
+Vandaag blijft Ivan een van onze adviseurs voor kruiden om ziekte te voorkomen en gezondheidsproblemen te verzorgen.
