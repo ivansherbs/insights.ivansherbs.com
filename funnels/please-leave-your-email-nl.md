@@ -4,7 +4,7 @@ Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige rec
 
 Gebruik Ivan Chai als _preventieve_ behandeling. 
 
-**Smaak beoordeling**<br>
+_**Smaak beoordeling**_<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
 Laat je informeren, abonneer je nu en lees onze artikelen.
