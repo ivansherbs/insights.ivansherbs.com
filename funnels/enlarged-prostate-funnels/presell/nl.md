@@ -6,7 +6,7 @@ Een van de onderzoekers die het medicinale gebruik heeft gepromoot is de Zwitser
 
 Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens adviseert Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([4](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het EMA heeft hierna in de definitieve beoordeling van Epilobium Angustifolium goedkeuring gegeven voor het gebruik gericht op de verlichting van symptomen en klachten van urinewegen gerelateerd aan Benigne Prostaat Hyperplasie ([1]). 
 
-Tot op heden (2019) zijn er geen studies op klinisch niveau geweest om te bevestigen dat het nemen van een doses Ivan Chai het PSA-niveaus van mannen verlaagt. Er zijn echter drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai het niveau van PSA-secretie aanzienlijk kunnen verlagen ([5],[6],[7]).
+Tot op heden (2019) zijn er geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. Er zijn echter wel drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai het niveau van PSA-secretie aanzienlijk kunnen verlagen ([5],[6],[7]).
 
 (BUTTON) "Learn more"
 
