@@ -9,6 +9,29 @@ Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. Vrouwen hebben er 
 Tot op heden (2019) zijn er geen studies op klinisch niveau geweest om te bevestigen dat het nemen van een doses Ivan Chai het PSA-niveaus van mannen verlaagt. Er zijn echter drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai het niveau van PSA-secretie aanzienlijk kunnen verlagen ([5],[6],[7]).
 
 
+## Geschiedenis: de Siberische Kruidenthee Ivan Chai
+
+In de 17e eeuw was het de Russische bevolking verboden om koffie te drinken. Cafeïne zou volgens de Russische federale regering het lichaam vergiftigen. De Siberische monniken gingen op zoek naar kruiden om hun eigen kruideninfusies te produceren. Het Wilgenroosje was een van deze kruiden.
+
+De Siberische monniken merkten dat het Wilgenroosje een merkbaar effect had op de gezondheid en algehele gemoedstoestand. De ontdekte kruidenthee werd al snel enorm populair bij zowel Russen als Europeanen. Het kruideninfuus kreeg door West-Europeanen al snel de naam Ivan Chai. ‘Ivan’ verwijst hierbij naar de traditionele Russische naam waarna ‘Chai’ wordt gebruikt om thee aan te duiden.
+
+De populariteit in Engeland groeide zo drastisch dat het tegen het eind van de 17e eeuw waarschijnlijk werd opgemerkt als een kleine bedreiging voor de Verenigde Oost-Indische Compagnie. Er zouden geruchten zijn verspreid dat de Russen Ivan Chai vergiftigden met natte witte klei. Door deze geruchten daalde de invoer van Ivan Chai enorm. In de nasleep van de Russische revolutie van 1917 stopte de commerciële productie. De consumptie van Ivan Chai was vrijwel tot nul gedaald voor Rusland en de rest van West-Europa. Zelfs in Rusland bleef deze heilzame kruidenthee Ivan Chai enigszins onbekend. Anno 2017 vond er langzaam een opleving plaats waarbij Ivan Chai wederom werd geïntroduceerd in West-Europa.
+
+## Contra-indicaties en waarschuwingen
+
+Ivan Chai is een extreem veilige soort (klassen) kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen en is veilig voor kinderen.
+
+Het is van _nature vrij_ van:
+
+*   _Cafeïne_
+*   _Aroma's_
+*   _Urinezuur_
+*   _Oxaalzuur_
+*   _L-theanine_
+
+
+(BUTTON) "Learn more" 
+
 
 [1]: https://www.ema.europa.eu/en/medicines/herbal/epilobii-herba
 [5]: https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub
