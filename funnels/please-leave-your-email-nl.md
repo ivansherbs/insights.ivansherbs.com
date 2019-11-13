@@ -1,8 +1,6 @@
 ## Verzorg dagelijks je lichaam en geest met kruiden uit Siberië. 
 
-Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden gericht op 17 gezondheidsproblemen.
-
-Gebruik Ivan Chai als _preventieve_ behandeling. 
+Gebruik Ivan Chai als _preventieve_ behandeling tegen 17 gezondheidsproblemen.
 
 _**Smaak beoordeling**_<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
