@@ -105,4 +105,4 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 Wanneer het medicijn op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen eventueel het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
 
-Lees over [de 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai "de 7 gezondheidsvoordelen van Ivan Chai") of bekijk onze [cadeau set](/products/ivan-chai-gift-set "Ivan Chai cadeau set").
+Lees over [de 7 gezondheidsvoordelen van Ivan Chai](/pages/de-7-gezondheidsvoordelen-van-ivan-chai "de 7 gezondheidsvoordelen van Ivan Chai") of bekijk onze [cadeau set](/products/ivan-chai-gift-set "Ivan Chai cadeau set").
