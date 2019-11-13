@@ -12,7 +12,7 @@ Wanneer geconsumeerd zoals aangegeven werken kruiden in de meeste gevallen, maar
 
 ## Lees het volgende artikel
 
- **[De 7 gezondheidsvoordelen van Ivan Chai](/pages/ontvang-updates)**
+[De 7 gezondheidsvoordelen van Ivan Chai](/pages/ontvang-updates)
 
 ## Referenties
 
