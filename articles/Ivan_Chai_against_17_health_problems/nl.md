@@ -1,8 +1,9 @@
-***_Ivan Chai tegen 17 gezondheidsproblemen_***
+# Ivan Chai tegen 17 gezondheidsproblemen
 
+Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
 
-_Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
-Voorkom de volgende 17 gezondheidsproblemen met Ivan Chai:_
+Voorkom de volgende 17 gezondheidsproblemen met Ivan Chai:
+
 1.  Infecties
 2.  Verkoudheid en griep
 3.  Zwak immuunsysteem
@@ -23,31 +24,31 @@ Voorkom de volgende 17 gezondheidsproblemen met Ivan Chai:_
 
 Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Hiernaast kan Ivan Chai worden gebruikt als preventieve behandeling tegen bovenstaande gezondheidsproblemen.
 
-**Ingrediënten**
+## Ingrediënten
 
-1 el Ivan Chai
+**1 el** Ivan Chai
 
 Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt ook wel de Latijnse benaming Epilobium Angustifolium. 
 
-**Bereidingswijze medicijn**
+## Bereidingswijze medicijn
 
-Totale tijd: 7 min
+Totale tijd: **7 min**
 
 Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit kruideninfuus 7 minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij 70 graden Celsius. 
 
-**Dosering en behandelingskuur**
+## Dosering en behandelingskuur
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 
-Drink 1 kop voor de maaltijd en 2 keer per dag gedurende 7 dagen. Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
+Drink **1 kop** voor de maaltijd en **2 keer per dag** gedurende **7 dagen**. Voor een chronisch gezondheidsprobleem drink **3 maal daags 1 kop** voor de maaltijd.
 
-**Voorzorgsmaatregelen**
+## Voorzorgsmaatregelen
 
 Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met _farmaceutische_ medicijnen.
 
 Ons advies luidt om eigen onderzoek te doen om bijwerkingen te voorkomen. Veel combinaties van natuurlijke medicijnen met farmaceutische medicijnen zijn tot op heden niet geprobeerd of getest.
 
-Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld ([1](https://www.webmd.com/vitamins/ai/ingredientmono-429/fireweed)). Het wordt geadviseerd om te voorkomen dat kruiden met farmaceutische medicijnen met elkaar worden gecombineerd.
+Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld [1](https://www.webmd.com/vitamins/ai/ingredientmono-429/fireweed). Het wordt geadviseerd om te voorkomen dat kruiden met farmaceutische medicijnen met elkaar worden gecombineerd.
 
 Het is bekend dat het gebruik van kruiden rechtstreeks uit de natuur één groot voordeel heeft. _Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen._
 
@@ -55,36 +56,36 @@ Let op:
 
 Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
 
-**Is er teveel van dit middel ingenomen?**
+## Is er teveel van dit middel ingenomen?
 
-Tot op vandaag zijn de volgende symptomen, in tegenstelling tot _farmaceutische_ medicijnen, <span style="text-decoration: underline;">niet</span> bij ons bekend:
+Tot op vandaag zijn de volgende symptomen, in tegenstelling tot _farmaceutische_ medicijnen, **niet** bij ons bekend:
 
-*   _Misselijkheid_
-*   _Maagpijn_
-*   _Braken (eventueel met bloed)_
-*   _Diarree (eventueel met bloed)_
-*   _Duizeligheid_
-*   _Onwillekeurige bewegingen van de ogen_
-*   _Dubbelzien_
-*   _Hoofdpijn_
-*   _Oorsuizen_
-*   _Nierfunctiestoornis_
-*   _Verlaagde bloeddruk_
-*   _Coma_
+* _Misselijkheid_
+* _Maagpijn_
+* _Braken (eventueel met bloed)_
+* _Diarree (eventueel met bloed)_
+* _Duizeligheid_
+* _Onwillekeurige bewegingen van de ogen_
+* _Dubbelzien_
+* _Hoofdpijn_
+* _Oorsuizen_
+* _Nierfunctiestoornis_
+* _Verlaagde bloeddruk_
+* _Coma_
 
-**Contra-indicaties en waarschuwingen**
+## Contra-indicaties en waarschuwingen
 
 Ivan Chai is een extreem veilige soort (klassen) kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen en is veilig voor kinderen.
 
 Het is van _nature vrij_ van:
 
-*   _Cafeïne_
-*   _Aroma's_
-*   _Urinezuur_
-*   _Oxaalzuur_
-*   _L-theanine_
+* _Cafeïne_
+* _Aroma's_
+* _Urinezuur_
+* _Oxaalzuur_
+* _L-theanine_
 
-**Zwangerschap, borstvoeding & vruchtbaarheid**
+## Zwangerschap, borstvoeding & vruchtbaarheid
 
 Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
 
@@ -94,14 +95,14 @@ In tegenstelling tot farmaceutische medicijnen, is er onvoldoende bekend of de v
 
 Farmaceutische medicijnen kunnen namelijk wél de vruchtbaarheid negatief beïnvloeden. Tot op heden zijn er geen bekende bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
 
-**Rijvaardigheid**
+## Rijvaardigheid
 
 In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking die duizeligheid kan veroorzaken en daarmee de rijvaardigheid kan beïnvloeden. 
 
-**Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?**
+## Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?
 
 - Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de _herbruikbare_ tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard van dit product kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
 
 Wanneer het medicijn op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen eventueel het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
 
-Lees over [de 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai "de 7 gezondheidsvoordelen van Ivan Chai") of bekijk onze [cadeau set](https://ivans-herbs-1-1.myshopify.com/?_ab=0&_fd=0&_sc=1 "Ivan Chai cadeau set").
+Lees over [de 7 gezondheidsvoordelen van Ivan Chai](https://ivansherbs.nl/pages/de-7-gezondheidsvoordelen-van-ivan-chai "de 7 gezondheidsvoordelen van Ivan Chai") of bekijk onze [cadeau set](/products/ivan-chai-gift-set "Ivan Chai cadeau set").
