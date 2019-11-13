@@ -25,4 +25,4 @@ One gift set contains **100 grams** of Ivan Chai. That's **50 cups** of herbal t
 
 ### See how it's made
 
-<iframe width='560' height='315' src='https:\/\/www.youtube.com\/embed\/op2BjUHk06s' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen=''><\/iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/op2BjUHk06s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
