@@ -185,6 +185,6 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 
 [10] Wood, Matthew. The Earthwise Herbal: a Complete Guide to New World Medicinal Plants. North Atlantic Books, 20010.
 
-[11] Steursma, R. Thee Expert - My Daily Tea Cup - Thee recencie Ivan Chai - 21 mei 2019\. _http://mydailyteacup.nl/theereview-ivans-herbs/_
+[11] Steursma, R. Thee Expert - My Daily Tea Cup - Thee recensie Ivan Chai - 21 mei 2019\. _http://mydailyteacup.nl/theereview-ivans-herbs/_
 
 [12] Velder, M.L. Thee & Kruiden Expert - ‘t Zonnetje - 2017\. _https://www.koffietheeenkruiden.nl_
