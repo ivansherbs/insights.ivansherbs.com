@@ -62,7 +62,6 @@ Let op:
 
 Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
 
-
 ## Contra-indicaties en waarschuwingen
 
 Ivan Chai is een extreem veilige soort (klassen) kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen en is veilig voor kinderen.
