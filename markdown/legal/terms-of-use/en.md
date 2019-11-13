@@ -1,16 +1,17 @@
 # Terms of Use
 
-## Last Updated August 29, 2019
+**Last Updated August 29, 2019**
 
-### Welcome to Ivan's Herbs
+## Welcome to Ivan's Herbs
 
 These Terms of Use ("Terms") are a contract between you and Ivan's Herbs. Ivan's Herbs means Ivan's Herbs VOF, a General Partnership in the Netherlands with Chamber of Commerce number 75553155 ("Ivan's Herbs" or "we"). These Terms govern your access to and use of any Ivan's Herbs website or content (the "Site") or any herbs, herbal recipe, or product derived from herbs (collectively, "Products").
 
 If you need to contact us, you can do so by:
 * writing to us at **519 Nachtwachtlaan, 1058ET Amsterdam, The Netherlands**
-<!--* or contact us through our enquiry form here (!!! link mising)-->
 
 The most current version of these Terms can be accessed at any time at https://ivansherbs.com/pages/terms-of-use. Changes to these Terms will be notified via posting on the Site (or other written notice to you). Please read these Terms carefully before accessing and using the Site or Products.
+
+## Terms
 
 ### 1. Terms
 
@@ -158,7 +159,9 @@ Generally, if a dispute arises between Ivan's Herbs and you, our goal is to prov
 
 1. **Notices**. Notices will be sent to you at the email address that you provided to Ivan's Herbs during the registration process. Notices may be sent to us here. Notice will be deemed given 24 hours after email is sent, unless the sender receives an automatic, electronic notification that such notice was not successfully received. Without prejudice to the foregoing, we may serve you legal notice by post to the address provided during the registration process. In such case, notice will be deemed given three days after the date of posting.
 
-## Appendix 1 - Model Cancellation Form
+## Appendix
+
+### Appendix 1 - Model Cancellation Form
 
 Complete and return this form only if you wish to withdraw from the contract. Please provide the following information upon submission:
 
