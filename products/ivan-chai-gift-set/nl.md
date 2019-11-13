@@ -6,7 +6,7 @@
 1. Antioxiderede werking en versterkt de anti-tumoractiviteit
 1. Verzorgt de gezondheid van prostaat en urinewegen
 1. Verzorgt het spijsverteringsstelsel
-1. Vermindert de kans op diabetes en depressie <br><br>
+1. Vermindert de kans op diabetes en depressie
 
 <!--
 **Voor meer achtergrondinformatie, lees het artikel:**
