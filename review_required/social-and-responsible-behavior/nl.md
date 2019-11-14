@@ -16,5 +16,6 @@ Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om 
 
 ## Informeren en onderwijzen
 
-Wij hebben als doel het verbeteren van je kennis over de wetenschappelijk ontdekte gezondheidsvoordelen die beschikbaar zijn in kruiden. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam en geest.
+Wij hebben als doel het verbeteren van je kennis over de wetenschappelijk ontdekte gezondheidsvoordelen die beschikbaar zijn in kruiden. Deze ontdekte gezondheidsvoordelen worden door Het 'European Medicines Agency'(EMA) onderschreven. Dit onafhankelijke instituut wat zich richt op het ondersteunen van patiënten, medische specialisten, academici, farmaceutische bedrijven, medicijn ontwikkelaars en gezondheidsbeleidsmakers beslaat 7 commissies waarbij de 'Committee on Herbal Medicinal Products' (HMPC) zich volledig toewijdt aan het verzamelen en beoordelen van wetenschappelijke gegevens over kruiden. 
+Wij bieden deze commissie steun door het opzetten van Ivan's Herbs waarbij wij het gebruik van kruiden rechtstreeks uit de natuur centraal stellen voor het oplossen van gezondheidsproblemen. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam en geest en hierbij de complete samenleving. 
 
