@@ -1,4 +1,4 @@
-Meld je nu aan voor ons abonnement en ontvang de eerste 50 gram Ivan Chai gratis, een Siberische kruidenthee waarvan is bewezen dat het de gezonheid van de prostaat verbetert. 
+Meld je nu aan voor ons abonnement en ontvang de eerste 50 gram Ivan Chai gratis, een Siberische kruidenthee waarvan is bewezen dat het de gezondheid van de prostaat verbetert. 
 
 Dat zijn 25 koppen Siberische kruidenthee. Betaal alleen de verzendkosten binnen Nederland (2€).
 
