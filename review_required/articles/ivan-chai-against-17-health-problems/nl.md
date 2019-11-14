@@ -34,13 +34,13 @@ Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines
 
 Totale tijd: **7 min**
 
-Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit kruideninfuus 7 minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij 70 graden Celsius. 
+Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit kruideninfuus **7** minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **70** graden Celsius. 
 
 ## Dosering en behandelingskuur
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 
-Drink **1 kop** voor de maaltijd en **2 keer per dag** gedurende **7 dagen**. Voor een chronisch gezondheidsprobleem drink **3 maal daags 1 kop** voor de maaltijd.
+Drink 1 kop voor de maaltijd en 2 keer per dag gedurende **7** dagen. Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
 
 ## Voorzorgsmaatregelen
 
