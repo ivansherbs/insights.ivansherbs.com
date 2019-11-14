@@ -12,4 +12,4 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwar
 (email field)
 
 
-_Het European Medicines Agency heeft deze kruiden goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van de urinewegen, gerelateerd aan een vergrote prostaat (Benigne Prostaat Hyperplasie)_
+_Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie)_
