@@ -1,6 +1,6 @@
 # Sociaal en verantwoordelijk gedrag
 
-Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. Onze waarden staan centraal in ons gedrag en de alledaagse handelingen die wij uitvoeren. Hierbij uit ons sociaal en verantwoordelijk gedrag zich in 3 punten waarbij wij ons hiernaast richten op de bedrijfbrede doelen van 2027. Opbouw programma ICI - Ivan Chai Imperium - staat hierbij centraal:
+Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. Onze waarden staan centraal in ons gedrag en de alledaagse handelingen die wij uitvoeren. Hierbij richt ons sociaal en verantwoordelijk gedrag zich op 3 punten. Hierbij richten wij ons op de bedrijfbrede doelen van 2027. Opbouw programma ICI - Ivan Chai Imperium - staat hierbij centraal:
 
 ## Introduceren natuurlijke oplossingen
 
