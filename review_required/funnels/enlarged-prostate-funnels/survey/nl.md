@@ -1,6 +1,6 @@
-We willen graag wat meer over je weten. 
+**We willen graag wat meer over je weten.**
 
-Dit doen we door slechts 3 vragen te stellen voordat we je gratis 50 gram Ivan Chai - Siberische kruidenthee waarvan is bewezen dat het de gezondheid van de prostaat verbetert - opsturen. 
+Dit doen we door _slechts 3 vragen_ te stellen voordat we je _gratis_ 50 gram Ivan Chai - Siberische kruidenthee waarvan is bewezen dat het de gezondheid van de prostaat verbetert - opsturen. 
 
 Wat is je geslacht? () man () vrouw 
 
