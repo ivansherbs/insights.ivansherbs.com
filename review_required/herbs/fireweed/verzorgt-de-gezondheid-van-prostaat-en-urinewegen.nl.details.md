@@ -17,7 +17,7 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 
 Er zijn verschillende urineweginfecties met verglijkbare symptonen dan wel klachten gerelateerd aan Benigne Prostaat Hyperplasie. Hiernaast komt het hebben van een blaasonsteking jaarlijks voor bij circa 20% van de vrouwen. 
 
-## Bewezen effectiviteit van Ivan Chai
+## Bewezen effectiviteit: Ivan Chai
 
 _Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt in onderzoeken de Latijnse benaming Epilobium Angustifolium. Het EMA stelt dat vanwege het wijd verspreide traditionele medicinale gebruik Epilobium Angustifolium gedurende 30 jaar voor veilig kan worden aangenomen ([1])._
 
