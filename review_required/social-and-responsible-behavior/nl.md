@@ -1,12 +1,12 @@
 # Sociaal en verantwoordelijk gedrag
 
-Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. Onze waarden staan centraal in ons gedrag en de alledaagse handelingen die wij uitvoeren. Hierbij richt ons sociaal en verantwoordelijk gedrag zich op 3 punten. De bedrijfsbrede doelen van 2027 zetten onze standaard waarbij  programma ICI - Ivan Chai Imperium - centraal staat:
+_Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. Onze waarden staan centraal in ons gedrag en de alledaagse handelingen die wij uitvoeren. Hierbij richt ons sociaal en verantwoordelijk gedrag zich op 3 punten._
 
 ## Introduceren natuurlijke oplossingen
 
-Onze toevoerlijn van kruiden vanuit de Altai zijn een alternatief op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. De opeenvolging van mislukkingen, wat typerend is voor dezelfde farmaceutische industrie zoekende naar het wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering, dienen vergezeld te worden door een eenvoudig tegengeluid in de vorm van Siberische kruidenthee. De introductie van eenvoudige natuurlijke oplossingen voor gezondheidsproblemen behoren geïntegreerd te worden in de waarden van de hedendaagse samenleving. 
+Onze toevoerlijn van kruiden vanuit de Altai zijn een alternatief op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. De opeenvolging van mislukkingen, wat typerend is voor de farmaceutische industrie zoekende naar het wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering, dienen vergezeld te worden door een eenvoudig tegengeluid in de vorm van Siberische kruidenthee. De introductie van eenvoudige natuurlijke oplossingen voor gezondheidsproblemen behoren geïntegreerd te worden in de waarden van de hedendaagse samenleving. 
 
-Onze waarden uiten zich in de samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen. De ecodorp bewoners oogsten onze kruiden met de hand in de ongerepte natuur waar ze toezien op een schoon en uiterst duurzaam productieproces. Om onze duurzaamheid te uiten naar onze klanten richten we ons op klimaatneutrale verpakkingen en de vermindering van onze eigen CO2 uitstoot in het dagelijks leven. Wij zijn op zoek naar meer samenwerkingsverbanden met gelijkgestemde bedrijven en streven ernaar ons product zo milieuvriendelijk te vervoeren. 
+Onze waarden richten zich hierbij op de samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen. De ecodorp bewoners oogsten onze kruiden met de hand in de ongerepte natuur waar ze toezien op een schoon en uiterst duurzaam productieproces. Om onze duurzaamheid te uiten naar onze klanten richten we ons op klimaatneutrale verpakkingen en de vermindering van onze eigen CO2 uitstoot in het dagelijks leven. Wij zijn op zoek naar meer samenwerkingsverbanden met gelijkgestemde bedrijven en streven ernaar ons product zo milieuvriendelijk te vervoeren. 
 
 ## Community Building 
 
@@ -17,3 +17,5 @@ Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om 
 ## Informeren en onderwijzen
 
 Wij hebben als doel het verbeteren van je kennis over de wetenschappelijk ontdekte gezondheidsvoordelen die beschikbaar zijn in kruiden. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam en geest.
+
+Bovenstaand gedrag is van invloed op de bedrijfsbrede doelen van 2027 waarbij de standaard wordt gezet door programma ICI - Ivan Chai Imperium.
