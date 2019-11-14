@@ -1,6 +1,5 @@
-Meld je nu aan om een proefabonnement (gratis verzendkosten) Ivan Chai t.w.v. €7 te ontvangen. en Siberische kruidenthee waarvan is bewezen dat het de gezonheid van de prostaat verbetert.
+Meld je nu aan om een proefabonnement Ivan Chai t.w.v. €7 te ontvangen (incl. gratis verzending). Een Siberische kruidenthee waarvan is bewezen dat het de gezondheid van de prostaat verbetert.
 
-Sign up to get access to a 7€ trial (with free shipping) of Ivan Chai, a herbal tea proven to improve your prostate health.
 
 (Email field)
 
