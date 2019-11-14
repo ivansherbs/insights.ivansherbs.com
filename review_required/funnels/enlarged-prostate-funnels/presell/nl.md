@@ -4,11 +4,15 @@ _Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicine
 
 Een van de onderzoekers die het medicinale gebruik heeft gepromoot is de Zwitserse kruidkundige M. Trebens. Trebens heeft haar leven gewijd  aan onderzoek gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([2](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)).
 
-Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens adviseert Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([4](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het EMA heeft hierna in de definitieve beoordeling van Epilobium Angustifolium goedkeuring gegeven voor het gebruik gericht op de verlichting van symptomen en klachten van urinewegen gerelateerd aan Benigne Prostaat Hyperplasie ([1]). 
+Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens adviseert Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([4](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het EMA heeft hiernaast in de definitieve beoordeling van Epilobium Angustifolium goedkeuring gegeven voor het gebruik gericht op de verlichting van symptomen en klachten van urinewegen gerelateerd aan Benigne Prostaat Hyperplasie ([1]). 
 
-Tot op heden (2019) zijn er geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. Er zijn echter wel drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai het niveau van PSA-secretie aanzienlijk kunnen verlagen ([5],[6],[7]).
+Tot op heden (2019) zijn er geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Epilobium Angustifolium. Er zijn echter wel drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai het niveau van PSA-secretie aanzienlijk kunnen verlagen ([5],[6],[7]).
+
+
 
 (BUTTON) "Learn more"
+
+
 
 ## Contra-indicaties en waarschuwingen
 
@@ -26,7 +30,7 @@ Het is van _nature vrij_ van:
 
 ## Geschiedenis: de Siberische Kruidenthee Ivan Chai
 
-In de 17e eeuw was het de Russische bevolking verboden om koffie te drinken. Cafeïne zou volgens de Russische federale regering het lichaam vergiftigen. De Siberische monniken gingen op zoek naar kruiden om hun eigen kruideninfusies te produceren. Het Wilgenroosje was een van deze kruiden.
+In de 17e eeuw was het de Russische bevolking verboden om koffie te drinken. Cafeïne zou volgens de Russische federale regering het lichaam vergiftigen. Als reactie hierop gingen de Siberische monniken op zoek naar kruiden om hun eigen kruideninfusies te produceren. Het Wilgenroosje was een van deze kruiden.
 
 De Siberische monniken merkten dat het Wilgenroosje een merkbaar effect had op de gezondheid en algehele gemoedstoestand. De ontdekte kruidenthee werd al snel enorm populair bij zowel Russen als Europeanen. Het kruideninfuus kreeg door West-Europeanen al snel de naam Ivan Chai. ‘Ivan’ verwijst hierbij naar de traditionele Russische naam waarna ‘Chai’ wordt gebruikt om thee aan te duiden.
 
