@@ -2,7 +2,7 @@
 
 Dit doen we door _slechts 3 vragen_ te stellen voordat we je _gratis_ 50 gram Ivan Chai opsturen. 
 
-* Ivan Chai is Siberische kruidenthee waarvan is bewezen dat het de gezondheid van de prostaat verbetert.
+* Ivan Chai is een Siberische kruidenthee waarvan is bewezen dat het de gezondheid van de prostaat verbetert.
 
 - Wat is je geslacht? () man () vrouw 
 
