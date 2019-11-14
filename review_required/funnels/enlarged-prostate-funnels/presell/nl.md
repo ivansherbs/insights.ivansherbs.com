@@ -26,11 +26,13 @@ Het is van _nature vrij_ van:
 *   _Oxaalzuur_
 *   _L-theanine_
 
+
 (BUTTON) "Learn more" 
+
 
 ## Geschiedenis: de Siberische Kruidenthee Ivan Chai
 
-In de 17e eeuw was het de Russische bevolking verboden om koffie te drinken. Cafeïne zou volgens de Russische federale regering het lichaam vergiftigen. Als reactie hierop gingen de Siberische monniken op zoek naar kruiden om hun eigen kruideninfusies te produceren. Het Wilgenroosje was een van deze kruiden.
+_In de 17e eeuw was het de Russische bevolking verboden om koffie te drinken. Cafeïne zou volgens de Russische federale regering het lichaam vergiftigen. Als reactie hierop gingen de Siberische monniken op zoek naar kruiden om hun eigen kruideninfusies te produceren. Het Wilgenroosje was een van deze kruiden._
 
 De Siberische monniken merkten dat het Wilgenroosje een merkbaar effect had op de gezondheid en algehele gemoedstoestand. De ontdekte kruidenthee werd al snel enorm populair bij zowel Russen als Europeanen. Het kruideninfuus kreeg door West-Europeanen al snel de naam Ivan Chai. ‘Ivan’ verwijst hierbij naar de traditionele Russische naam waarna ‘Chai’ wordt gebruikt om thee aan te duiden.
 
