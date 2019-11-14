@@ -18,6 +18,6 @@ Wij zijn er niet alleen voor onze progressieve op gezondheid gerichte klanten in
 
 Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om hun levensstijl te behouden. Door het steunen van deze gemeenschappen dragen we bij aan onze samenleving door hun waarden waarin gezondheid en natuur centraal staan in acht te nemen, voor ons eigen bedrijf als voor onze klanten. 
 
-## Bedrijfsbrede doelen 2022
+## Bedrijfsbrede doelen 2027
 
 _Opbouw programma ICI - Ivan Chai Imperium_
