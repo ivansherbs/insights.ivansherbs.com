@@ -18,4 +18,3 @@ Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om 
 
 Wij hebben als doel het verbeteren van je kennis over de wetenschappelijk ontdekte gezondheidsvoordelen die beschikbaar zijn in kruiden. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam en geest.
 
-_Bovenstaand gedrag is van invloed op de bedrijfsbrede doelen van 2027 waarbij de standaard wordt gezet door programma ICI - Ivan Chai Imperium._
