@@ -1,9 +1,12 @@
-We'd like to know a bit more about you - only 3 questions - before we give you access to a free 50 grams of a herbal tea proven to improve prostate health.
+We willen graag wat meer over je weten. 
 
-What's your gender? () Male () Female
+Dit doen we door slechts 3 vragen te stellen voordat we je gratis 50 gram Ivan Chai - Siberische kruidenthee waarvan is bewezen dat het de gezondheid van de prostaat verbetert - opsturen. 
 
-What's your age? () 39 or less () 40 - 50 () 50 - 60 () 60 or more
+Wat is je geslacht? () man () vrouw 
 
-What's the condition of your prostate or the prostate of the person you care about? () Healthy () Enlarged - self diagnosed () Enlarged - diagnosed by a doctor () I don't know
+Hoe oud ben je? () 39 of minder () 40-50 () 50-60 () 60 of meer
 
-()BUTTON "Get Access"
+Wat is de toestand van jouw prostaat of de prostaat van de persoon waar je zoveel om geeft? 
+() gezond () vergroot - zelf gediagnosticeerd () vergroot - gediagnosticeerd door een medisch specialist () ik weet het niet
+
+() BUTTON 'Krijg toegang'
