@@ -8,7 +8,7 @@ Onze toevoerlijn van kruiden vanuit de Altai zijn een alternatief op medicijnen 
 
 Onze waarden richten zich hierbij op de samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen. De ecodorp bewoners oogsten onze kruiden met de hand in de ongerepte natuur waar ze toezien op een schoon en uiterst duurzaam productieproces. Om onze duurzaamheid te uiten naar onze klanten richten we ons op klimaatneutrale verpakkingen en de vermindering van onze eigen CO2 uitstoot in het dagelijks leven. Wij zijn op zoek naar meer samenwerkingsverbanden met gelijkgestemde bedrijven en streven ernaar ons product zo milieuvriendelijk te vervoeren. 
 
-## Community Building 
+## Community building 
 
 Wij zijn er niet alleen voor onze progressieve op gezondheid gerichte klanten in West Europa. Wij steunen ruimdenkende gemeenschappen die zich richten op mens en milieu, duizenden kilometers afgelegen van de moderne samenleving. Deze bewoners van zogenaamde ecodorpen streven naar een eigen levensstijl zo dicht mogelijk bij de natuur. Hierbij staat het opbouwen van hun bestaan in de ongerepte natuur van de [Altai](https://www.google.com/search?q=Altai&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjPo6uBtsblAhUGKlAKHXGYDW0Q_AUIEigB&biw=1366&bih=657) centraal. 
 
