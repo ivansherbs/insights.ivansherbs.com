@@ -1,6 +1,6 @@
 # Sociaal en verantwoordelijk gedrag
 
-Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. Onze waarden staan centraal in ons gedrag en de alledaagse handelingen die wij uitvoeren. Hierbij uit ons sociaal en verantwoordelijk gedrag zich in de volgende 3 punten:
+Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. Onze waarden staan centraal in ons gedrag en de alledaagse handelingen die wij uitvoeren. Hierbij uit ons sociaal en verantwoordelijk gedrag zich in de volgende 3 punten, waarbij wij ons hiernaast richten op de bedrijfbrede doelen van 2027 waarbij programma ICI - Ivan Chai Imperium - centraal staat:
 
 ## Informeren en onderwijzen
 
@@ -17,8 +17,3 @@ Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om 
 Onze toevoerlijn van kruiden vanuit de Altai zijn een alternatief op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. De introductie van eenvoudige natuurlijke oplossingen voor gezondheidsproblemen behoren geïntegreerd te worden in de hedendaagse samenleving. De opeenvolging van mislukkingen, wat typerend is voor de farmaceutische industrie zoekende naar het wondermiddel in een complexe, geïndustrialiseerde en besloten omgeving waarbij patenten de norm zetten tot verandering, dienen vergezeld te worden door een eenvoudig tegengeluid in de vorm van Siberische kruidenthee. 
 
 Onze waarden uiten zich in de samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen. De ecodorp bewoners oogsten onze kruiden met de hand in de ongerepte natuur waar ze toezien op een schoon en uiterst duurzaam productieproces. Om onze duurzaamheid te uiten naar onze klanten richten we ons op klimaatneutrale verpakkingen en de vermindering van onze eigen CO2 uitstoot in het dagelijks leven. Wij zijn op zoek naar meer samenwerkingsverbanden met gelijkgestemde bedrijven en streven ernaar ons product zo milieuvriendelijk te vervoeren. 
-
-
-## Bedrijfsbrede doelen 2027
-
-_Opbouw programma ICI - Ivan Chai Imperium_
