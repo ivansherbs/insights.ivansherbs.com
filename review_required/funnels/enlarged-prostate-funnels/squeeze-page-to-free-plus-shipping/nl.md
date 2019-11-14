@@ -2,7 +2,7 @@ Meld je nu aan voor ons abonnement en ontvang de eerste 50 gram Ivan Chai gratis
 
 Dat zijn 25 koppen Siberische kruidenthee. Betaal alleen de verzendkosten binnen Nederland (2€).
 
-Hoe smaakt Ivan Chai? 
+**Hoe smaakt Ivan Chai?**
 
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
