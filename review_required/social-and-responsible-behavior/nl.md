@@ -20,4 +20,4 @@ Wij hebben als doel het verbeteren van je kennis over de wetenschappelijk ontde
 
 Wij bieden het HMPC steun door het opzetten van Ivan's Herbs waarbij wij het gebruik van kruiden rechtstreeks uit de natuur centraal stellen voor het oplossen van gezondheidsproblemen. Openheid van zaken wordt geboden in de vorm van een HMPC EU-monografie waarbij veiligheid voorop staat bij gebruik van kruiden gebaseerd op moderne dan wel traditionele kruidenkunde. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor de samenleving waarbij de vertrouwde smaakbeleving wordt gespaard. 
 
-**Verzorg daarom dagelijks je lichaam en geest met -Ivan Chai- kruiden uit Siberië.**
+**Verzorg dagelijks je lichaam en geest met -Ivan Chai- kruiden uit Siberië.**
