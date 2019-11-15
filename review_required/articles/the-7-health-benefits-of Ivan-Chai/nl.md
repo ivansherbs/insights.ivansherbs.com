@@ -113,7 +113,7 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 
 ### 5.3 Urineweg infectie
 
-80% van de vrouwen krijgt ten minste 1 keer in hun leven een infectie aan de urinewegen ([17.3](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
+80% van de vrouwen krijgt ten minste 1 keer in hun leven een infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([17.3](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
 
 **_Ivan Chai verzorgt de gezondheid van Prostaat en Urinewegen:_**
 
