@@ -65,16 +65,20 @@ Both the entire volatile as well as its main component citral have demonstrated 
 
 [to do]
 
-### Blood cholesterol 
+### Blood cholesterol (collapsible -opening triggers Audience capture event)
+
 [to do]
 
-### Promotes neurogenesis
+### Promotes neurogenesis (collapsible -opening triggers Audience capture event)
+
 [to do]
 
-### Blood glucose and diabetes
+### Blood glucose and diabetes (collapsible -opening triggers Audience capture event)
+
 [to do]
 
-### Cancer
+### Cancer (collapsible -opening triggers Audience capture event)
+
 [to do]
 
 
