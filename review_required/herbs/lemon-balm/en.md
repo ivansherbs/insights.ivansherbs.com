@@ -12,3 +12,35 @@ When taken internally, 4 - 8 weeks of use is required to see significant changes
 
 ### Are there any safety issues for?
 One study using tablets of lemon balm found that is was well tolerated. Drug interations are possible and this herb should be used cautiously in people wit hypothyroidism.
+
+## Dosage Range
+
+Prepared as an infusion, 1.5 - 4.5g of dried lemon balm prepared in at least 150 ml of water per day. 
+
+[Try lemon balm button]
+
+## Can you show me the evidence?
+### Sedative and Anxiety Relief
+A few studies with rodents have shown specific anxiety relieving properties [1](https://www.ncbi.nlm.nih.gov/pubmed/18284819)[2](https://www.ncbi.nlm.nih.gov/pubmed/20171069)[3](https://www.ncbi.nlm.nih.gov/pubmed/12062586)[4](https://www.ncbi.nlm.nih.gov/pubmed/1891490)[5](https://www.ncbi.nlm.nih.gov/pubmed/22529473). 
+
+### Antidepressant
+
+A study on mice shown that the ani-depressant effect was similar to that of the reference drug imipramine [6](http://daru.tums.ac.ir/index.php/daru/article/view/520).
+
+### Antiviral
+
+An infusion of lemon balm, as well as the isolated compounds, showed strong anti-viral activity against herpes simplex virus-1 (HSV-1). The complete lemon balm infusion showed the strongest effect at lower doeses than any of the isolated compounds, indicating a synergistic effect [7](https://www.ncbi.nlm.nih.gov/pubmed/22377592).
+
+### Antibacterial and antifungal
+
+Lemon balm exhibited activity against bacteria, types of fungi, and yeasts[
+
+### Anti-inflammatory
+
+Two compounds naturally found in lemon balm have evidence for anti-inflammatory activity. Rosmarinic acid [8](https://www.ncbi.nlm.nih.gov/pubmed/3198307)[9](https://www.ncbi.nlm.nih.gov/pubmed/1761351) and eugenol [10](https://www.ncbi.nlm.nih.gov/pubmed/12444669)[11](https://www.ncbi.nlm.nih.gov/pubmed/10782484) both reduce inflammatory processes.
+
+
+
+
+
+
