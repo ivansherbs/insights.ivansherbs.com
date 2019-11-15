@@ -19,7 +19,9 @@ Prepared as an infusion, 1.5 - 4.5g of dried lemon balm prepared in at least 150
 
 [Try lemon balm button]
 
-## Can you show me the evidence?
+## What clinical evidence is there?
+
+## What other evidence is there?
 ### Sedative and Anxiety Relief
 A few studies with rodents have shown specific anxiety relieving properties [1](https://www.ncbi.nlm.nih.gov/pubmed/18284819)[2](https://www.ncbi.nlm.nih.gov/pubmed/20171069)[3](https://www.ncbi.nlm.nih.gov/pubmed/12062586)[4](https://www.ncbi.nlm.nih.gov/pubmed/1891490)[5](https://www.ncbi.nlm.nih.gov/pubmed/22529473). 
 
@@ -33,11 +35,19 @@ An infusion of lemon balm, as well as the isolated compounds, showed strong anti
 
 ### Antibacterial and antifungal
 
-Lemon balm exhibited activity against bacteria, types of fungi, and yeasts[
+Lemon balm exhibited activity against bacteria, types of fungi, and yeasts[8](https://www.ncbi.nlm.nih.gov/pubmed/7630324). It was demonstrated to have strong antibacterial activity again *Sarcina lutea, Staphylococcus aureus* and *Baceillus cereus* [9](https://www.ncbi.nlm.nih.gov/pubmed/18361749).
+
+An infusions of lemon balm inhibited the growth of *Candida albicans*, which is the most common cause of a yeast infection. However, green tea, cassia, and lemon grass infusion showed even greater antifungal activity [10](https://www.ncbi.nlm.nih.gov/pubmed/20185867).
 
 ### Anti-inflammatory
 
 Two compounds naturally found in lemon balm have evidence for anti-inflammatory activity. Rosmarinic acid [8](https://www.ncbi.nlm.nih.gov/pubmed/3198307)[9](https://www.ncbi.nlm.nih.gov/pubmed/1761351) and eugenol [10](https://www.ncbi.nlm.nih.gov/pubmed/12444669)[11](https://www.ncbi.nlm.nih.gov/pubmed/10782484) both reduce inflammatory processes.
+
+### Cholinergic
+
+Lemon balm appears to increase the activity in the cholinergic system in the brain; this is necessary for memory and attention.
+
+Studies done indicate that lemon balm may have a role to play in the treatment of Alzheimer's disease and epilepsy due to its activity on central nervous system receptors [12](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291099-1166%28199612%2911%3A12%3C1063%3A%3AAID-GPS532%3E3.0.CO%3B2-1)[13](https://www.ncbi.nlm.nih.gov/pubmed/10687867)[14](https://www.ncbi.nlm.nih.gov/pubmed/15652288)[15](https://www.ncbi.nlm.nih.gov/pubmed/18284819)[16](https://www.ncbi.nlm.nih.gov/pubmed/22510493)[17](https://www.ncbi.nlm.nih.gov/pubmed/18810999)[18](https://www.ncbi.nlm.nih.gov/pubmed/19070498). Although one trial study indicated that a certain enzyme was not inhibited, the same trial showed improved cognitive function and mood and concluded that lemon balm was a valuable adjunct to Alzheimer's therapy [19](https://www.ncbi.nlm.nih.gov/pubmed/12888775).
 
 
 
