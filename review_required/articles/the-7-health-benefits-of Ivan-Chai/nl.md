@@ -4,8 +4,8 @@ _Ivan’s Herbs heeft als missie om op feiten gebaseerde, effectieve en eenvoudi
 
 Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 
-1.  Immuniteit
-2.  Een van nature krachtige ontstekingsremmer
+1.  Weerstand tegen ziekten 
+2.  Krachtige ontstekingsremmer
 3.  Verbetert de slaap en vermindert angst, stress en burnout klachten
 4.  Antioxiderede werking en versterkt de anti-tumoractiviteit
 5.  Verzorgt de gezondheid van prostaat en urinewegen
@@ -16,7 +16,7 @@ Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speel
 
 Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de 7 gezondheidsvoordelen.
 
-## 1) Immuniteit
+## 1) Weerstand tegen ziekten
 
 ### 1.1 Infecties
 
