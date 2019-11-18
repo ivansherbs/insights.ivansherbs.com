@@ -1,4 +1,7 @@
-### 2.3 Wazige geest of slecht zicht
+DRAFT 
+
+
+Wazige geest of slecht zicht
 
 Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaïne, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest of slecht zicht tot gevolg ([14.8](https://www.drugsinfoteam.nl/klachten)). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. Zorgvuldigheid is bij meerdere geneesmiddelen geboden, gezien de mogelijke neveneffecten op de ogen als uitdroging,<span> verhoogde gevoeligheid voor licht, troebel zicht, verandering van de ruimtelijke waarneming of moeilijkheden bij de overgang van donker naar licht ([14.9](https://www.zeiss.nl/vision-care/beter-zien/gezondheid-bescherming/geneesmiddelen-kunnen-het-gezichtsvermogen-beperken.html)).</span>  
 
