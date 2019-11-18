@@ -32,11 +32,11 @@ Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Begin 2018
 
 Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.8](https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen))). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([13.9](https://www.mmc.nl/oncologie/aandoening-en-behandeling/chemotherapie/),[13.10](https://www.chemotherapie.nl/wat-is-chemo/effecten-van-chemo)). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steeds de gevolgen in het dagelijkse leven ([13.11](https://zorgnu.avrotros.nl/nieuws/item/passende-zorg-nodig-voor-mensen-die-kanker-overleven/)).
 
-**_Ivan Chai versterkt de Immuniteit:_**
+**_Ivan Chai versterkt de weerstand tegen ziekten:_**
 
 *   De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin),[1](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin%20)). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. Door het versterken van het immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
 
-## 2) Krachtige Ontstekingsremmer
+## 2) Krachtige ontstekingsremmer
 
 ### 2.1 Blaasontsteking
 
@@ -46,21 +46,11 @@ Bij vrouwen boven de 12 jaar komt blaasontsteking veel voor. Circa 20% van de vr
 
 Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand ([14.5](https://www.kiesbeter.nl/onderwerpen/chronische-darmontstekingen?subjectId=219&sectorId=1)). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis' ([14.6](https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html)). De meest voorkomende ontstekingen zijn virale- of bacteriële-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([14.7](https://mens-en-gezondheid.infonu.nl/ziekten/52748-darmonsteking-en-diarree.html)) door bijvoorbeeld te lang stil zitten.
 
-### 2.3 Wazige geest of slecht zicht
-
-Bij de inname van farmaceutische medicijnen of drugs, zoals Cocaïne, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen bijwerkingen optreden met een wazige geest of slecht zicht tot gevolg ([14.8](https://www.drugsinfoteam.nl/klachten)). De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. Zorgvuldigheid is bij meerdere geneesmiddelen geboden, gezien de mogelijke neveneffecten op de ogen als uitdroging,<span> verhoogde gevoeligheid voor licht, troebel zicht, verandering van de ruimtelijke waarneming of moeilijkheden bij de overgang van donker naar licht ([14.9](https://www.zeiss.nl/vision-care/beter-zien/gezondheid-bescherming/geneesmiddelen-kunnen-het-gezichtsvermogen-beperken.html)).</span>  
-
-Het is voor professionele artsen een hele puzzel de juiste farmaceutische medicijnen en hoeveelheid te vinden ([14.10](https://www.umcutrecht.nl/nl/Nieuws/We-willen-bijwerkingen-van-medicatie-verminderen)). Volgens de meest ervaren GGZ-instelling, erkend door Zorgkaart Nederland, worden er ruim 1.000.000 pijnstillers ingenomen afkomstig uit de farmaceutische industrie ([14.11](https://solutions-center.nl/verslavingen/medicijnverslaving/pijnstillers/),[14.12](https://www.zorgkaartnederland.nl/zorginstelling/ggz-solutions-center-voorthuizen-10001990)). Er gaan jaarlijks 320.000.000 mensen onder het mes. 10% ervaart chronische pijn na ontslag uit een ziekenhuis. Uit onderzoek is gebleken dat patiënten te snel onnodig verslavende pijnstillers krijgen toegeschreven ([14.13](https://nos.nl/artikel/2280241-wetenschappers-te-snel-verslavende-pijnstillers-na-operatie.html)).
-
-Hiernaast hebben de nawerkingen van verschillende soorten drugs, duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([14.14](https://www.drugsinfoteam.nl/vraag-antwoord/lees-een-antwoord/-/coke-duizeligheid-wazig-zien-misselijkheid-angst)). Het aantal drugsgebruikers is lastig te identificeren. Afhankelijk van de definitie die we eraan geven zijn er naar schatting tussen de 1.000.000 tot 17.000.000 drugsgebruikers. XTC of MDMA zijn volgens de wet verboden. Circa 1.000.000 Nederlanders heeft wel eens XTC of MDMA gebruikt. Elke maand zitten er in Nederland 100.000 mensen aan de XTC of MDMA. 20% van de Nederlandse bevolking (2.800.000 miljoen mensen) heeft wel eens een joint gerookt. Circa 100.000 mensen snuiven maandelijks cocaïne ([14.15](https://www.changingperspective.info/nieuws/blog/nederland-kent-naar-schatting-17-miljoen-drugsgebruikers%20)). Drugsgebruik is vooral bij hoog opgeleiden populair ([14.16](https://nos.nl/nieuwsuur/artikel/2283342-cocaine-de-champagne-van-de-amsterdamse-zuidas.html),[14.17](https://www.nrc.nl/nieuws/2018/01/05/drank-en-drugs-en-groente-en-sport-a1587153),[14.18](https://www.erasmusmagazine.nl/2018/09/27/even-snuiven-in-de-kroeg-drugs-populair-onder-studenten/)).
-
-De bijwerkingen van farmaceutische medicijnen en drugs hebben een wazige geest en slecht zicht tot gevolg.
-
-**_Ivan Chai werkt als een Krachtige Ontstekingsremmer:_** 
+**_Ivan Chai werkt als een krachtige ontstekingsremmer:_** 
 
 * Ivan Chai is een krachtige ontstekingsremmer ([9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20),[7](https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf%20),[1](https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub%20/),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)). Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op <span>farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. Veel mensen zijn genoodzaakt over te stappen op deze farmaceutische medicijnen. De </span>oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen, tenzij er bewust wordt gekozen kennis te maken met bepaalde middelen bij recreatief gebruik. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals blaas- en darmontstekingen of een wazige geest.
 
-## 3) Verbetert de Slaap en vermindert Angst, Stress & Burnout klachten
+## 3) Verbetert de slaap en vermindert angst, stress & burnout klachten
 
 ### 3.1 Slaap
 
@@ -72,7 +62,7 @@ In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voo
 
 Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up ([15.8](https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/),[15.9](https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html%20),[15.10](https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/)).
 
-### 3.3 Stress & Burnout klachten
+### 3.3 Stress & burnout klachten
 
 Stress ontstaat wanneer er te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([15.11](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[15.12](https://www.hartstichting.nl/risicofactoren/stress)). Je bent erg gefocust en actief. Wanneer stress te lang aanhoudt kan dit omslaan in burnout klachten, waarbij juist het gebrek aan activiteit zorgt voor <span>oververmoeidheid en zich moeilijk kunnen focussen ([15.13](https://www.depsycholoog.nl/overspannen-en-burnout/)).</span>
 
@@ -80,11 +70,11 @@ Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van 
 
 Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Onder deze huidaandoeningen valt eczeem waar in Nederland meer dan 1.000.000 mensen dagelijks mee te maken hebben. Deze aandoening wordt versterkt als gevolg van overgewicht ([15.17](https://www.volksgezondheidenzorg.info/onderwerp/overgewicht/cijfers-context/huidige-situatie)).
 
-**_Ivan Chai verbetert de Slaap en vermindert Angst, Stress & Burnout klachten:_** 
+**_Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten:_** 
 
 * Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). De medische wereld weet niet de exacte reden hoe het helpt bij slaapstoornissen ([4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
 
-## 4) Antioxiderede werking en versterkt Anti-tumoractiviteit
+## 4) Antioxiderede werking en versterkt anti-tumoractiviteit
 
 ### 4.1 Hart- en vaatziekten
 
@@ -97,11 +87,11 @@ Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten
 
 Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([17](https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie%20))
 
-**_Ivan Chai heeft een Antioxiderede werking en versterkt de Anti-tumoractiviteit:_**
+**_Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit:_**
 
 * Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel. De verantwoordelijke verbinding tussen deze bestandsdelen bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)).
 
-## 5) Verzorgt de gezondheid van Prostaat en Urinewegen
+## 5) Verzorgt de gezondheid van prostaat en urinewegen
 
 ### 5.1 Prostaatontsteking
 
@@ -115,7 +105,7 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 
 80% van de vrouwen krijgt ten minste 1 keer in hun leven een infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([17.3](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
 
-**_Ivan Chai verzorgt de gezondheid van Prostaat en Urinewegen:_**
+**_Ivan Chai verzorgt de gezondheid van prostaat en urinewegen:_**
 
 * De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is <span>urogenitaal </span>gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie)
 
@@ -127,11 +117,11 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 
 Hiernaast krijgt gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree. In de medische wereld staat reizigersdiarree ook wel bekend als Turista ([18.1](https://www.thuisarts.nl/diarree/ik-heb-reizigersdiarree),[18.2](https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103)).
 
-**_Ivan Chai verzorgt het Spijsverteringsstelsel:_** 
+**_Ivan Chai verzorgt het spijsverteringsstelsel:_** 
 
 * Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)).
 
-## 7) Vermindert de kans op Diabetes en Depressie - suiker toevoegen niet nodig
+## 7) Vermindert de kans op diabetes en depressie - suiker toevoegen niet nodig
 
 ### 7.1 Diabetes
 
