@@ -1,6 +1,6 @@
 Please do not remove this version 
 
-Do not use on our site, this version is to long
+Do not use on our site, this version needs adjustments 
 
 --------------------------------------------------------------------------------
 
