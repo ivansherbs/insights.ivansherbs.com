@@ -95,6 +95,12 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 
 **_Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit:_**
 
+* Ivan Chai zit boordevol polyfenolen. Polyfenolen fungeren als de chemische verbinding die net als in groene thee, groenten en fruit verantwoordelijk is voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel. 
+
+De verantwoordelijke verbinding tussen deze bestandsdelen bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)).
+
+
+
 * Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel. De verantwoordelijke verbinding tussen deze bestandsdelen bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)).
 
 ## 5) Verzorgt de gezondheid van prostaat en urinewegen
