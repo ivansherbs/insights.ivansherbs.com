@@ -19,8 +19,8 @@ Voorkom de volgende 17 gezondheidsproblemen met Ivan Chai:
 13. Prostaatontsteking
 14. Benigne Prostaat Hyperplasie
 15. Urineweg infectie
-16. Maaklachten
-17. Diabetes
+16. Maagklachten
+17. Darmklachten
 
 Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Hiernaast kan Ivan Chai worden gebruikt als preventieve behandeling tegen bovenstaande gezondheidsproblemen.
 
