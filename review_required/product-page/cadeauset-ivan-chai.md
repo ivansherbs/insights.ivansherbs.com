@@ -1,1 +1,50 @@
-Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen om 17 gezondheidsproblemen aan te pakken.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/op2BjUHk06s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+---------------------------------------------------------------
+
+
+**7 Gezondheidsvoordelen**
+
+1. Versterkt de weerstand
+2. Krachtige ontstekingsremmer
+3. Verbetert de slaap en vermindert angst, stress en burnout klachten
+4. Antioxiderede werking en versterkt de anti-tumoractiviteit
+5. Verzorgt de gezondheid van prostaat en urinewegen
+6. Verzorgt het spijsverteringsstelsel
+7. Vermindert de kans op diabetes
+
+
+
+---------------------------------------------------------------
+
+
+
+# Product Inhoud
+Een bestelling bevat 1 tubes met 50 gram Ivan Chai en 1 zakje met 50 gram losse bladeren. Volgens onze aanbeveling van 2 gram per kop zijn dat 50 koppen Siberische kruidenthee.
+
+_Alle verpakkingen zijn 100% recyclebaar._
+
+
+
+---------------------------------------------------------------
+
+
+
+# Smaak beoordeling
+Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
+
+
+
+---------------------------------------------------------------
+
+
+Ivan Chai - Cadeauset 
+
+price
+
+(button - Aan winkelwagen toevoegen) 
+
+
+
