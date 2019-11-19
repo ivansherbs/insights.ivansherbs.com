@@ -19,6 +19,7 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit bli
 **Ivan Chai biedt bescherming tegen:**
 * Infecties
 * Verkoudheid en griep
+
 **Ivan Chai helpt tegen:**
 * Zwak immuunsysteem
 
