@@ -50,12 +50,12 @@ Ivan Chai - Cadeauset
 
 
 
-Lees onze artikelen (slide picture open)
+Lees onze artikelen (slide picture head of Celie Ann open)
 
 
 (Kruiden als medicijn (button Lees meer) -> Article ' Kruiden als medicijn' 
 
-+ 
+&
 
 De 7 gezondheidsvoordelen van Ivan Chai (button Lees meer)) -> No article at the moment 
 
