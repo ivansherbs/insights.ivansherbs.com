@@ -35,14 +35,6 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwar
 ---------------------------------------------------------------
 
 
-Ivan Chai - Cadeauset 
-
-price
-
-(button - Aan winkelwagen toevoegen) 
-
-
----------------------------------------------------------------
 
 Delen 
 
