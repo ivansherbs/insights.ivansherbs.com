@@ -1,14 +1,76 @@
-Improve your Health
+**7 Gezondheidsvoordelen**
 
-[picture Tube]
+Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen.
 
-Verzorg dagelijks jouw gezondheid met kruiden uit Siberië.
-Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten gericht op gezondheidsproblemen.
+-(Button - Ontdek meer)-
 
-[Ontdek meer] 
+Picture Tube
 
-Lees onze artikelen
+-------------------------------------------------------------------------------
 
-7 gezondheidsvoordelen Ivan Chai
 
-Kruiden zijn ook medicijnen
+
+-(Video - De oorsprong en verwerking van Ivan Chai)-
+
+
+
+-------------------------------------------------------------------------------
+
+
+Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
+
+
+-(Button - Ontdek meer)-
+
+
+-(Picture - Ivan Chai + mountains in circle)-
+
+
+-------------------------------------------------------------------------------
+
+
+-(Picture Tubes loose leaf)-
+
+
+Ivan Chai - Cadeauset 
+
+
+-Price-
+
+Inclusief belasting 
+
+-(Button - Aan winkelwagen toevoegen)-
+
+-(Button - Koop nu)-
+
+-(Button - Alle details + Delen)-
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+Lees onze artikelen (slide picture open)
+
+
+(Kruiden als medicijn (button Lees meer) + De 7 gezondheidsvoordelen van Ivan Chai (button Lees meer)) 
+
+
+
+
+-------------------------------------------------------------------------------
+
+Footer (current) 
+
+
+
+
+
+1) Versterkt de weerstand
+2) Krachtige ontstekingsremmer
+3) Verbetert de slaap en vermindert angst, stress en burnout klachten
+4) Antioxiderede werking en versterkt de anti-tumoractiviteit
+5) Verzorgt de gezondheid van prostaat en urinewegen
+6) Verzorgt het spijsverteringsstelsel
+7) Vermindert de kans op diabetes
