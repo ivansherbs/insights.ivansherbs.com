@@ -24,6 +24,8 @@ _**Ivan Chai biedt bescherming tegen:**_
 _**Ivan Chai helpt tegen:**_
 * Zwak immuunsysteem
 
+<br>
+
 ## 2) _Ivan Chai werkt als een krachtige ontstekingsremmer:_
 
 Ivan Chai is een krachtige ontstekingsremmer ([9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20),[7](https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf%20),[1](https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub%20/),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)). Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op <span>farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. Veel mensen zijn genoodzaakt over te stappen op deze farmaceutische medicijnen. De </span>oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals blaas- en darmontstekingen.
@@ -31,6 +33,8 @@ Ivan Chai is een krachtige ontstekingsremmer ([9](https://www.researchgate.net/p
 _**Ivan Chai helpt tegen:**_
 * Blaasontsteking
 * Darmontsteking
+
+<br>
 
 ## 3) _Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten:_
 
@@ -42,6 +46,8 @@ _**Ivan Chai helpt tegen:**_
 * Stress
 * Burnout klachten
 
+<br>
+
 ## 4) _Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit:_
 
 Ivan Chai zit boordevol polyfenolen. Polyfenolen fungeren als de chemische verbindingen die verantwoordelijk is voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel. Een van de verbindingen die vergelijkbaar is met Polyfenolen, genaamd Oenotheïne B, bleek volgens onderzoek anti-tumoractiviteit te hebben ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Het antitumor effect is  goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)).
@@ -49,6 +55,8 @@ Ivan Chai zit boordevol polyfenolen. Polyfenolen fungeren als de chemische verbi
 _**Ivan Chai biedt bescherming tegen:**_
 * Hart- en vaatziekten
 * Prostaatkanker
+
+<br>
 
 ## 5) _Ivan Chai verzorgt de gezondheid van prostaat en urinewegen:_
 
@@ -59,6 +67,8 @@ _**Ivan Chai helpt tegen:**_
 * Benigne Prostaat Hyperplasie
 * Urineweg infectie
 
+<br>
+
 ## 6) _Ivan Chai verzorgt het spijsverteringsstelsel:_
 
 Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)).
@@ -67,6 +77,7 @@ _**Ivan Chai helpt tegen:**_
 * Maagklachten
 * Darmklachten
 
+<br>
 
 ## 7) _Ivan Chai heeft van nature een licht zoete smaak:_
 
