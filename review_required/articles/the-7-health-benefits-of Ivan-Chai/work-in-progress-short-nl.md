@@ -76,19 +76,6 @@ We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. T
 
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
-<br>
-
-**Ivan's Herbs:**
-
-**[Cadeauset](/products/ivan-chai-gift-set "Ivan Chai cadeauset")**
-
-**Gezondheidsproblemen:**
-
-**[Ivan Chai tegen 17 gezondheidsproblemen](/pages/ivan-chai-tegen-17-gezondheidsproblemen "Ivan Chai tegen 17 gezondheidsproblemen")**
-
-**Artikelen:**
-
-**[Kruiden als medicijn](/pages/kruiden-als-medicijn "Kruiden als medicijn")**
 
 **Referenties**
 
