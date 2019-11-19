@@ -1,8 +1,6 @@
-# De 7 gezondheidsvoordelen van Ivan Chai
+**Ivan Chai
 
-_Ivan’s Herbs heeft als missie om op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden te bieden voor jouw gezondheidsproblemen. Het informeren en onderwijzen van de voordelen van Ivan Chai is gebaseerd op hedendaagse wetenschappelijke artikelen en voelt als een tweede natuur voor ons._
-
-Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
+# De 7 gezondheidsvoordelen  
 
 1.  Weerstand tegen ziekten 
 2.  Krachtige ontstekingsremmer
@@ -12,7 +10,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes en depressie
 
-Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor de gehele samenleving. Ivan Chai is _de natuurlijke oplossing_ als alternatief op de farmaceutische behandelmethoden om gezondheidsproblemen aan te pakken. 
+Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor de gehele samenleving. Ivan Chai is de natuurlijke oplossing als alternatief op de farmaceutische behandelmethoden om gezondheidsproblemen aan te pakken. 
 
 Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de 7 gezondheidsvoordelen.
 
@@ -48,7 +46,7 @@ Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand
 
 **_Ivan Chai werkt als een krachtige ontstekingsremmer:_** 
 
-* Ivan Chai is een krachtige ontstekingsremmer ([9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20),[7](https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf%20),[1](https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub%20/),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)). Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op <span>farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. Veel mensen zijn genoodzaakt over te stappen op deze farmaceutische medicijnen. De </span>oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen, tenzij er bewust wordt gekozen kennis te maken met bepaalde middelen bij recreatief gebruik. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals blaas- en darmontstekingen of een wazige geest.
+* Ivan Chai is een krachtige ontstekingsremmer ([9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20),[7](https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf%20),[1](https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub%20/),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)). Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op <span>farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. Veel mensen zijn genoodzaakt over te stappen op deze farmaceutische medicijnen. De </span>oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals blaas- en darmontstekingen.
 
 ## 3) Verbetert de slaap en vermindert angst, stress & burnout klachten
 
@@ -89,7 +87,7 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 
 **_Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit:_**
 
-* Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel. De verantwoordelijke verbinding tussen deze bestandsdelen bleek volgens wetenschappelijk onderzoek antitumoractiviteit te hebben ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Het antitumor effect is een goed bestudeerd specifiek effect gericht op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)).
+* Ivan Chai zit boordevol polyfenolen. Polyfenolen fungeren als de chemische verbindingen die verantwoordelijk is voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel. Een van de verbindingen die vergelijkbaar is met Polyfenolen, genaamd Oenotheïne B, bleek volgens onderzoek anti-tumoractiviteit te hebben ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Het antitumor effect is  goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)).
 
 ## 5) Verzorgt de gezondheid van prostaat en urinewegen
 
