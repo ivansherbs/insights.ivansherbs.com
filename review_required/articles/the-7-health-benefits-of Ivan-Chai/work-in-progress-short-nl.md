@@ -67,7 +67,7 @@ Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunne
 
 Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). Kinderen houden van deze smaak. 
 
-**Ivan Chai maakt het toevoegen van suiker overbodig
+**Ivan Chai maakt het toevoegen van suiker overbodig**
 
 
 # Conclusie  
