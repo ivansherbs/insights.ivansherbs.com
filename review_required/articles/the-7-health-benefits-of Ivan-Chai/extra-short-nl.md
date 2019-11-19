@@ -71,7 +71,7 @@ _Ivan Chai helpt tegen:_
 
 **7) _Ivan Chai heeft van nature een licht zoete smaak:_**
 
-_Ivan Chai maakt het toevoegen van suiker overbodig waardoor de kan op sommige problemen wordt verkleind:_
+_Ivan Chai maakt het toevoegen van suiker overbodig waardoor de kans op sommige problemen wordt verkleind:_
 * Diabetes
 
 <br>
