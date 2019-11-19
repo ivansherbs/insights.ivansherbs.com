@@ -14,12 +14,12 @@ _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medic
 
 **1) _Ivan Chai versterkt de weerstand_**
 
-Ivan Chai biedt bescherming tegen:
+_Ivan Chai biedt bescherming tegen:_
 * Infecties
 * Verkoudheid 
 * Griep
 
-_**Ivan Chai helpt tegen:**_
+_Ivan Chai helpt tegen:_
 * Zwak immuunsysteem
 
 ## 2) _Ivan Chai werkt als een krachtige ontstekingsremmer_
