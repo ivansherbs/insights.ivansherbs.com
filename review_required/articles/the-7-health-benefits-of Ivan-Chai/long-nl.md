@@ -1,9 +1,3 @@
-Please do not remove this version 
-
-Do not use on our site, this version needs adjustments - working on it 
-
---------------------------------------------------------------------------------
-
 # De 7 gezondheidsvoordelen van Ivan Chai
 
 _Ivan’s Herbs heeft als missie om op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden te bieden voor jouw gezondheidsproblemen. Het informeren en onderwijzen van de voordelen van Ivan Chai is gebaseerd op hedendaagse wetenschappelijke artikelen en voelt als een tweede natuur voor ons._
@@ -155,7 +149,7 @@ We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. T
 
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
-<br>
+
 
 **Ivan's Herbs:**
 
