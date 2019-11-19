@@ -10,7 +10,7 @@
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes en depressie
 
-_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen om gezondheidsproblemen aan te pakken._
+_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen om 17 gezondheidsproblemen aan te pakken._
 
 ## 1) _Ivan Chai versterkt de weerstand:_
 
@@ -39,7 +39,8 @@ Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te over
 _**Ivan Chai helpt tegen:**_
 * Slaapproblemen
 * Angst
-* Stress & burnout klachten
+* Stress
+* Burnout klachten
 
 ## 4) _Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit:_
 
