@@ -72,4 +72,7 @@ Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt oms
 
 _**Ivan Chai maakt het toevoegen van suiker overbodig**_
 
+
+## Conclusie
+
 Ivan Chai draagt bij aan het versterken van je gezondheid en algehele gemoedstoestand. 
