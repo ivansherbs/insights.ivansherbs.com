@@ -19,7 +19,7 @@
 ---------------------------------------------------------------
 
 # Product Inhoud
-* 1 tubes met 50 gram Ivan Chai 
+* 1 tube met 50 gram Ivan Chai 
 * 1 zakje met 50 gram losse bladeren
 
 Volgens onze aanbeveling van 2 gram per kop zijn dat 50 koppen Siberische kruidenthee.
