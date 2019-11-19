@@ -22,43 +22,44 @@ _Ivan Chai biedt bescherming tegen:_
 _Ivan Chai helpt tegen:_
 * Zwak immuunsysteem
 
-## 2) _Ivan Chai werkt als een krachtige ontstekingsremmer_
 
-_**Ivan Chai helpt tegen:**_
+**2) _Ivan Chai werkt als een krachtige ontstekingsremmer_**
+
+_Ivan Chai helpt tegen:_
 * Blaasontsteking
 * Darmontsteking
 
-## 3) _Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten_
+**3) _Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten_
 
-_**Ivan Chai helpt tegen:**_
+_Ivan Chai helpt tegen:_
 * Slaapproblemen
 * Angst
 * Stress
 * Burnout klachten
 
-## 4) _Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit_
+**4) _Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit_
 
-_**Ivan Chai biedt bescherming tegen:**_
+_Ivan Chai biedt bescherming tegen:_
 * Hart- en vaatziekten
 * Prostaatkanker
 
-## 5) _Ivan Chai verzorgt de gezondheid van prostaat en urinewegen_
+**5) _Ivan Chai verzorgt de gezondheid van prostaat en urinewegen_
 
-_**Ivan Chai helpt tegen:**_
+_Ivan Chai helpt tegen:_
 * Prostaatontsteking
 * Benigne Prostaat Hyperplasie
 * Urineweg infectie
 
-## 6) _Ivan Chai verzorgt het spijsverteringsstelsel_
+**6) _Ivan Chai verzorgt het spijsverteringsstelsel_
 
-_**Ivan Chai helpt tegen:**_
+_Ivan Chai helpt tegen:_
 * Maagklachten
 * Darmklachten
 
 
-## 7) _Ivan Chai heeft van nature een licht zoete smaak:_
+**7) _Ivan Chai heeft van nature een licht zoete smaak:_
 
-_**Ivan Chai maakt het toevoegen van suiker overbodig waardoor de kan op sommige problemen wordt verkleind:**_
+_Ivan Chai maakt het toevoegen van suiker overbodig waardoor de kan op sommige problemen wordt verkleind:_
 * Diabetes
 
 
