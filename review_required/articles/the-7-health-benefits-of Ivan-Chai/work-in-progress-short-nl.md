@@ -18,6 +18,7 @@ Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speel
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin),[1](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin%20)). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. Door het versterken van het immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
 
+**Ivan Chai helpt tegen:**
 * Infecties
 * Verkoudheid en griep
 * Zwak immuunsysteem
