@@ -1,6 +1,6 @@
-**Ivan Chai
+# Ivan Chai
 
-# De 7 gezondheidsvoordelen  
+**De 7 gezondheidsvoordelen  
 
 1.  Weerstand tegen ziekten 
 2.  Krachtige ontstekingsremmer
