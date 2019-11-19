@@ -72,36 +72,4 @@ Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt oms
 
 _**Ivan Chai maakt het toevoegen van suiker overbodig**_
 
-
-# Conclusie  
-
-We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle gezondheidsproblemen aan te pakken, _kies je gevechten_.
-
-Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
-
-
-**Referenties**
-
-[1] Battinelli, Lucia, et al. “Antimicrobial Activity of Epilobium Spp. Extracts.” Il Farmaco, vol. 67, no. 6–8, 2001, pp. 356–359., doi:10.1017/s0015–928x(01)01058–3.
-
-[2] Borchardt, Joy R., et al. “Antimicrobial Activity of Native and Naturalized Plants of Minnesota and Wisconsin.” African Journal of Pure and Applied Chemistry, Academic Journals, 31 May 2009, academicjournals.org/journal/JMPR/article-abstract/F3DA2A816158.
-
-[3] Miyamoto, K, et al. “Antitumor Activity of Oenothein B, a Unique Macrocyclic Ellagitannin.” Current Neurology and Neuroscience Reports., U.S. National Library of Medicine, Jan. 110103.
-
-[4] Olga, Kolesova, and Vladimir Poilov. “[PDF] Investigation of the Immunological Effect of Fermented Epilobium Angustifolium Extracts at the Cell Level. | Scinapse | Academic Search Engine for Paper.” Scinapse, Scinapse, 1 Jan. 2017, scinapse.io/papers/26630721021.
-
-[5] Ostrovska, Halyna, et al. “Epilobium Angustifolium L.: A Medicinal Plant with Therapeutic Properties.” The EuroBiotech Journal, vol. 1, no. 2, 2018, pp. 127–131., doi:10.251100/issn2675–716x/2018/02.03.
-
-[6] Rogers, Robert. “Fireweed — a Treasured Medicine of the Boreal Forest.” Discovery Phytomedicine, vol. 1, no. 1, 2015, p. 10., doi:10.16672/phytomedicine.2015.17.
-
-[7] Sayik, Aysema, et al. “DNA- Binding, Biological Activities and Chemical Composition of Wild Growing Epilobium Angustifolium L. Extracts from Canakkale, Turkey.” Journal of the Turkish Chemical Society, Section A: Chemistry, 2018, pp. 911–950., doi:10.196107/jotcsa.31108910.
-
-[8] Schepetkin, Igor A., et al. “Therapeutic Potential of Polyphenols from Epilobium Angustifolium (Fireweed).” The Canadian Journal of Chemical Engineering, Wiley-Blackwell, 25 May 2017, onlinelibrary.wiley.com/doi/abs/10.1002/ptr.6759.
-
-[9] Serebryanaya, F. K., and I. I. Posevin. “Morphological and Anatomical Investigations of Chamenerion Angustifolium (L.) Scop .) Growing in the Northern Caucasus Region.” Pharmacy & Pharmacology, vol. 5, no. 2(16), 2017, pp. 810–98., doi:10.110173/2308–10277–2017–5–2(16)-810–98.
-
-[10] Wood, Matthew. The Earthwise Herbal: a Complete Guide to New World Medicinal Plants. North Atlantic Books, 20010.
-
-[11] Steursma, R. Thee Expert - My Daily Tea Cup - Thee recensie Ivan Chai - 21 mei 2019\. _http://mydailyteacup.nl/theereview-ivans-herbs/_
-
-[12] Velder, M.L. Thee & Kruiden Expert - ‘t Zonnetje - 2017\. _https://www.koffietheeenkruiden.nl_
+Ivan Chai draagt bij aan het versterken van je gezondheid en algehele gemoedstoestand. 
