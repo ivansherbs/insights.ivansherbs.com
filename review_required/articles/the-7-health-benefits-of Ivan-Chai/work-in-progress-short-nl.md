@@ -21,101 +21,55 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit bli
 * Verkoudheid en griep
 * Zwak immuunsysteem
 
-
-
-
 ## 2) _Ivan Chai werkt als een krachtige ontstekingsremmer:_
 
-* Ivan Chai is een krachtige ontstekingsremmer ([9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20),[7](https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf%20),[1](https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub%20/),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)). Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op <span>farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. Veel mensen zijn genoodzaakt over te stappen op deze farmaceutische medicijnen. De </span>oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals blaas- en darmontstekingen.
+Ivan Chai is een krachtige ontstekingsremmer ([9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20),[7](https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf%20),[1](https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub%20/),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)). Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op <span>farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. Veel mensen zijn genoodzaakt over te stappen op deze farmaceutische medicijnen. De </span>oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals blaas- en darmontstekingen.
 
 **Ivan Chai helpt tegen:**
 * Blaasontsteking
 * Darmontsteking
 
+## 3) _Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten:_
+
+Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). De medische wereld weet niet de exacte reden hoe het helpt bij slaapstoornissen ([4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
+
+**Ivan Chai helpt tegen:**
+* Slaapproblemen
+* Angst
+* Stress & burnout klachten
+
+## 4) _Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit:_
+
+Ivan Chai zit boordevol polyfenolen. Polyfenolen fungeren als de chemische verbindingen die verantwoordelijk is voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel. Een van de verbindingen die vergelijkbaar is met Polyfenolen, genaamd Oenotheïne B, bleek volgens onderzoek anti-tumoractiviteit te hebben ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Het antitumor effect is  goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)).
+
+**Ivan Chai helpt tegen:**
+* Hart- en vaatziekten
+* Prostaatkanker
+
+## 5) _Ivan Chai verzorgt de gezondheid van prostaat en urinewegen:_
+
+De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is <span>urogenitaal </span>gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie).
+
+**Ivan Chai helpt tegen:**
+* Prostaatontsteking
+* Benigne Prostaat Hyperplasie
+* Urineweg infectie
+
+## 6) _Ivan Chai verzorgt het spijsverteringsstelsel:_
+
+Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)).
+
+**Ivan Chai helpt tegen:**
+* Spijsverteringsonevenwichtigheden
 
 
-## 3) Verbetert de slaap en vermindert angst, stress & burnout klachten
+## 7) _Ivan Chai heeft van nature een licht zoete smaak:_
 
-### 3.1 Slaap
+Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig.
 
-Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Dit percentage ligt hoger bij mensen met onregelmatige werktijden, namelijk tussen de 42% en 68%. Slaapproblemen komen echter het vaakst voor bij arbeidsongeschikten. Mensen worden belemmerd in hun functioneren en het verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([15](https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen),[15.1](https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen)). Hiernaast is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit komt door de cafeïne. Ongeveer 80% van de Nederlander drinkt koffie op zijn tijd ([15.2](https://www.gezondheidsplein.nl/dossiers/goed-slapen-zo-krijg-je-een-goede-nachtrust/hoe-beinvloeden-alcohol-en-cafeine-het-inslapen-en-je-nachtrust/item43857),[15.3](https://www.rtlnieuws.nl/gezondheid/artikel/143976/hoeveel-koffie-kun-je-dag-drinken-en-werkt-het-tegen-een-kater-vier)).
+**Ivan Chai helpt tegen:**
+* Diabetes
 
-### 3.2 Angst
-
-In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15.4](https://www.volksgezondheidenzorg.info/onderwerp/angststoornissen),[15.5](https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871)). Verschillende onafhankelijke instituten beweren dat angst een van de minst handelbare emoties is. Stemmingsstoornissen gaan hiermee gepaard, wat angst- en stemmingsstoornissen samen de meest voorkomende aandoening maakt in de psychiatrie ([15.6](https://verkenjegeest.com/de-angst-voor-controleverlies/)<span style="text-decoration: underline;">,[15.7](https://forteggz.nl/studenten-poli/waar-wil-je-meer-over-weten/angst-en-stemmingsstoornissen)</span>).
-
-Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up ([15.8](https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/),[15.9](https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html%20),[15.10](https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/)).
-
-### 3.3 Stress & burnout klachten
-
-Stress ontstaat wanneer er te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([15.11](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[15.12](https://www.hartstichting.nl/risicofactoren/stress)). Je bent erg gefocust en actief. Wanneer stress te lang aanhoudt kan dit omslaan in burnout klachten, waarbij juist het gebrek aan activiteit zorgt voor <span>oververmoeidheid en zich moeilijk kunnen focussen ([15.13](https://www.depsycholoog.nl/overspannen-en-burnout/)).</span>
-
-Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15.14](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[15.15](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de kosten gepaard met werkstress in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: twee miljard en acht honderd miljoen euro ([15.16](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)). 
-
-Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Onder deze huidaandoeningen valt eczeem waar in Nederland meer dan 1.000.000 mensen dagelijks mee te maken hebben. Deze aandoening wordt versterkt als gevolg van overgewicht ([15.17](https://www.volksgezondheidenzorg.info/onderwerp/overgewicht/cijfers-context/huidige-situatie)).
-
-**_Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten:_** 
-
-* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). De medische wereld weet niet de exacte reden hoe het helpt bij slaapstoornissen ([4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
-
-## 4) Antioxiderede werking en versterkt anti-tumoractiviteit
-
-### 4.1 Hart- en vaatziekten
-
-* Nederland telt circa 1.400.000 hart- en vaatpatiënten.
-* 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
-* In Nederland leven naar schatting 670.000 vrouwen met een hart- of vaatziekten.
-* Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte ([16.0](https://www.alzheimer-nederland.nl/dementie),[16.1](https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten%20)).
-
-### 4.2 Prostaatkanker
-
-Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([17](https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie%20))
-
-**_Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit:_**
-
-* Ivan Chai zit boordevol polyfenolen. Polyfenolen fungeren als de chemische verbindingen die verantwoordelijk is voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel. Een van de verbindingen die vergelijkbaar is met Polyfenolen, genaamd Oenotheïne B, bleek volgens onderzoek anti-tumoractiviteit te hebben ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Het antitumor effect is  goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)).
-
-## 5) Verzorgt de gezondheid van prostaat en urinewegen
-
-### 5.1 Prostaatontsteking
-
-30% van de mannen ouder dan 50 jaar heeft problemen met plassen ([17.1](https://www.andros.nl/prostaatklachten/prostaatontsteking/)).
-
-### 5.2 Benigne Prostaat Hyperplasie
-
-30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat ([17.2](https://www.andros.nl/prostaatklachten/vergrote-prostaat/%20)).
-
-### 5.3 Urineweg infectie
-
-80% van de vrouwen krijgt ten minste 1 keer in hun leven een infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([17.3](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
-
-**_Ivan Chai verzorgt de gezondheid van prostaat en urinewegen:_**
-
-* De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is <span>urogenitaal </span>gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie)
-
-## 6) Maagklachten
-
-### 6.1 Spijsverteringsonevenwichtigheden
-
-1 op de 4 mensen in Nederland heeft wel eens last van de maag. Voor deze maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18](https://www.mlds.nl/ziekten/functionele-maagklachten/)).
-
-Hiernaast krijgt gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree. In de medische wereld staat reizigersdiarree ook wel bekend als Turista ([18.1](https://www.thuisarts.nl/diarree/ik-heb-reizigersdiarree),[18.2](https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103)).
-
-**_Ivan Chai verzorgt het spijsverteringsstelsel:_** 
-
-* Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)).
-
-## 7) Vermindert de kans op diabetes en depressie - suiker toevoegen niet nodig
-
-### 7.1 Diabetes
-
-Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Dit kan leiden tot overgewicht. Hiernaast zijn er nog andere gevolgen door de inname van suiker - pakweg 20([19](https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/krijg-je-van-suiker-diabetes%20)).
-
-Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van die gevolgen is depressie. Depressie komt twee keer zo vaak voor bij mensen met diabetes. Voorkom diabetes en depressie ([20](https://www.diabetesfonds.nl/over-diabetes/complicaties-van-diabetes%0A),[21](http://diabeteszelfindehand.nl/voor-begeleiders/73/mogelijke-gevolgen-van-diabetes)).
-
-**_Ivan Chai heeft van nature een licht zoete smaak:_** 
-
-* Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig.
 
 # Conclusie  
 
