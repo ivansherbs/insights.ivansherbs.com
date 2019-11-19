@@ -65,10 +65,9 @@ Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunne
 
 ## 7) _Ivan Chai heeft van nature een licht zoete smaak:_
 
-Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig.
+Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). Kinderen houden van deze smaak. 
 
-**Ivan Chai helpt tegen:**
-* Diabetes
+**Ivan Chai maakt het toevoegen van suiker overbodig
 
 
 # Conclusie  
