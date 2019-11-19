@@ -23,8 +23,6 @@ In het algemeen geven de onderstaande doseringen voldoende resultaat:
 Drink 1 kop voor de maaltijd en 2 keer per dag gedurende **7** dagen. <br>
 Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
 
-## Voorzorgsmaatregelen
-
 Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17 gezondheidsproblemen:
 
 1.  Infecties
@@ -44,6 +42,8 @@ Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17
 15. Urineweg infectie
 16. Maagklachten
 17. Darmklachten
+
+## Voorzorgsmaatregelen
 
 Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met farmaceutische medicijnen.
 
