@@ -76,4 +76,4 @@ _**Ivan Chai maakt het toevoegen van suiker overbodig waardoor de kans op diabet
 
 ## Conclusie
 
-Ivan Chai draagt bij aan het versterken van je gezondheid en algehele gemoedstoestand. Bij het gebruik van Ivan Chai als preventieve behandeling worden er 17 gezondheidsproblemen aangepakt.  
+Ivan Chai draagt bij aan het versterken van je gezondheid en algehele gemoedstoestand. Bij het gebruik als preventieve behandeling werkt Ivan Chai tegen 17 gezondheidsproblemen.  
