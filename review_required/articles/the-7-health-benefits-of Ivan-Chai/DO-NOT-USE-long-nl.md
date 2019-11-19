@@ -58,7 +58,7 @@ Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand
 
 ## 3) Verbetert de slaap en vermindert angst, stress & burnout klachten
 
-### 3.1 Slaap
+### 3.1 Slaapproblemen
 
 Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Dit percentage ligt hoger bij mensen met onregelmatige werktijden, namelijk tussen de 42% en 68%. Slaapproblemen komen echter het vaakst voor bij arbeidsongeschikten. Mensen worden belemmerd in hun functioneren en het verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([15](https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen),[15.1](https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen)). Hiernaast is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit komt door de cafeïne. Ongeveer 80% van de Nederlander drinkt koffie op zijn tijd ([15.2](https://www.gezondheidsplein.nl/dossiers/goed-slapen-zo-krijg-je-een-goede-nachtrust/hoe-beinvloeden-alcohol-en-cafeine-het-inslapen-en-je-nachtrust/item43857),[15.3](https://www.rtlnieuws.nl/gezondheid/artikel/143976/hoeveel-koffie-kun-je-dag-drinken-en-werkt-het-tegen-een-kater-vier)).
 
