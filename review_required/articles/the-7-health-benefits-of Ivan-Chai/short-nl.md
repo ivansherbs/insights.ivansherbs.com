@@ -65,6 +65,7 @@ Ivan Chai verzorgt je spijsverteringsstelsel. Zweren, Gastritis en Colitis kunne
 
 _**Ivan Chai helpt tegen:**_
 * Maagklachten
+* Darmklachten
 
 
 ## 7) _Ivan Chai heeft van nature een licht zoete smaak:_
