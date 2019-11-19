@@ -25,18 +25,7 @@ Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd
 
 ## Voorzorgsmaatregelen
 
-Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met _farmaceutische_ medicijnen.
-
-Ons advies luidt om eigen onderzoek te doen om bijwerkingen te voorkomen. Veel combinaties van natuurlijke medicijnen met farmaceutische medicijnen zijn tot op heden niet geprobeerd of getest.
-
-Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld. Het wordt geadviseerd om te voorkomen dat kruiden met farmaceutische medicijnen met elkaar worden gecombineerd.
-
-Het is bekend dat het gebruik van kruiden rechtstreeks uit de natuur één groot voordeel heeft. _Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen._
-
-Let op: <br>
-Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
-
-**Ivan Chai kan als preventieve behandeling genomen worden tegen de volgende 17 gezondheidsproblemen:**
+Ivan Chai kan als preventieve behandeling genomen worden tegen de volgende 17 gezondheidsproblemen:
 
 1.  Infecties
 2.  Verkoudheid
@@ -55,6 +44,17 @@ Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst 
 15. Urineweg infectie
 16. Maagklachten
 17. Darmklachten
+
+Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met _farmaceutische_ medicijnen.
+
+Ons advies luidt om eigen onderzoek te doen om bijwerkingen te voorkomen. Veel combinaties van natuurlijke medicijnen met farmaceutische medicijnen zijn tot op heden niet geprobeerd of getest.
+
+Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld. Het wordt geadviseerd om te voorkomen dat kruiden met farmaceutische medicijnen met elkaar worden gecombineerd.
+
+Het is bekend dat het gebruik van kruiden rechtstreeks uit de natuur één groot voordeel heeft. _Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen._
+
+Let op: <br>
+Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
 
 <br>
 
