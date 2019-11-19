@@ -29,7 +29,7 @@ _Ivan Chai helpt tegen:_
 * Blaasontsteking
 * Darmontsteking
 
-**3) _Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten_
+**3) _Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten_**
 
 _Ivan Chai helpt tegen:_
 * Slaapproblemen
@@ -37,27 +37,27 @@ _Ivan Chai helpt tegen:_
 * Stress
 * Burnout klachten
 
-**4) _Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit_
+**4) _Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit_**
 
 _Ivan Chai biedt bescherming tegen:_
 * Hart- en vaatziekten
 * Prostaatkanker
 
-**5) _Ivan Chai verzorgt de gezondheid van prostaat en urinewegen_
+**5) _Ivan Chai verzorgt de gezondheid van prostaat en urinewegen_**
 
 _Ivan Chai helpt tegen:_
 * Prostaatontsteking
 * Benigne Prostaat Hyperplasie
 * Urineweg infectie
 
-**6) _Ivan Chai verzorgt het spijsverteringsstelsel_
+**6) _Ivan Chai verzorgt het spijsverteringsstelsel_**
 
 _Ivan Chai helpt tegen:_
 * Maagklachten
 * Darmklachten
 
 
-**7) _Ivan Chai heeft van nature een licht zoete smaak:_
+**7) _Ivan Chai heeft van nature een licht zoete smaak:_**
 
 _Ivan Chai maakt het toevoegen van suiker overbodig waardoor de kan op sommige problemen wordt verkleind:_
 * Diabetes
