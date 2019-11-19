@@ -152,7 +152,7 @@ Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesm
 
 
 
-**Referenties**
+# Referenties
 
 [1] Battinelli, Lucia, et al. “Antimicrobial Activity of Epilobium Spp. Extracts.” Il Farmaco, vol. 67, no. 6–8, 2001, pp. 356–359., doi:10.1017/s0015–928x(01)01058–3.
 
