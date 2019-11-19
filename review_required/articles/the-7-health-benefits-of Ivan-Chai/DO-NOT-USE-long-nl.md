@@ -126,7 +126,7 @@ Van alle Nederlanders heeft 1 op de 4 mensen wel eens last van de maag. Voor maa
 
 ### 6.1.2 Darmklachten
 
-Onderzoek heeft aangetoond dat stress, een gebrek aan vezels, vocht, beweging of een onregelmatig leven een van de oorzaken kan zijn die leiden tot darmklachten. De meest voorkomende vorm van darmklachten is het prikkelbare darm syndroom. 75% van de patiënten is vrouw. 
+Onderzoek heeft aangetoond dat stress, een gebrek aan vezels, vocht, beweging of een onregelmatig leven een van de oorzaken kan zijn die leiden tot darmklachten. De meest voorkomende vorm van darmklachten is het prikkelbare darm syndroom. 75% van de patiënten is vrouw 
 ([18.2](https://www.darmgezondheid.nl/darmklachten/))([18.3](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/pds/)).
 Hiernaast krijgt gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree. In de medische wereld staat reizigersdiarree ook wel bekend als Turista ([18.4](https://www.thuisarts.nl/diarree/ik-heb-reizigersdiarree),[18.5](https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103)). 
 
