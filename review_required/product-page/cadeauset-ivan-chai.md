@@ -15,6 +15,7 @@
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes
 
+Bekijk het recept met [Ivan Chai tegen 17 gezondheidsproblemen](https://ivansherbs.nl/products/ivan-chai-gift-set?variant=30338970288175).
 
 ---------------------------------------------------------------
 
