@@ -2,9 +2,9 @@
 
 Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen.
 
--(Button - Ontdek meer)-
+-(Button - Ontdek meer)- > Product page 
 
-Picture Tube
+Picture Tube (current) 
 
 -------------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Picture Tube
 Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
 
 
--(Button - Ontdek meer)-
+-(Button - Ontdek meer)- > Ivan Chai tegen 17 gezondheidsproblemen 
 
 
 -(Picture - Ivan Chai + mountains in circle)-
@@ -37,7 +37,6 @@ Ivan Chai - Cadeauset
 
 -Price-
 
-Inclusief belasting 
 
 -(Button - Aan winkelwagen toevoegen)-
 
@@ -54,7 +53,11 @@ Inclusief belasting
 Lees onze artikelen (slide picture open)
 
 
-(Kruiden als medicijn (button Lees meer) + De 7 gezondheidsvoordelen van Ivan Chai (button Lees meer)) 
+(Kruiden als medicijn (button Lees meer) -> Article ' Kruiden als medicijn' 
+
++ 
+
+De 7 gezondheidsvoordelen van Ivan Chai (button Lees meer)) -> No article at the moment 
 
 
 
