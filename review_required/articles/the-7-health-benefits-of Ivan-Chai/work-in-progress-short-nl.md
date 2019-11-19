@@ -12,7 +12,7 @@
 
 _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen om gezondheidsproblemen aan te pakken._
 
-## 1) _Ivan Chai versterkt de weerstand:_**
+## 1) _Ivan Chai versterkt de weerstand:_
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin),[1](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin%20)). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. Door het versterken van het immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
 
@@ -24,19 +24,15 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit bli
 
 
 
-## 2) Krachtige ontstekingsremmer
-
-### 2.1 Blaasontsteking
-
-Bij vrouwen boven de 12 jaar komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14](https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/),[14.1](https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen),[14.2](https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking)). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. Hiernaast blijkt uit Europees onderzoek dit gezondheidsprobleem zelfs van invloed is op de kwaliteit van het leven  ([14.3](https://www.gezondheidsnet.nl/blaasontsteking/blaasontsteking-een-sekssouvenir),[14.4](https://www.tandfonline.com/doi/abs/10.1080/14737167.2017.1359543?journalCode=ierp20)).
-
-### 2.2 Darmontsteking
-
-Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand ([14.5](https://www.kiesbeter.nl/onderwerpen/chronische-darmontstekingen?subjectId=219&sectorId=1)). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis' ([14.6](https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html)). De meest voorkomende ontstekingen zijn virale- of bacteriële-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([14.7](https://mens-en-gezondheid.infonu.nl/ziekten/52748-darmonsteking-en-diarree.html)) door bijvoorbeeld te lang stil zitten.
-
-**_Ivan Chai werkt als een krachtige ontstekingsremmer:_** 
+## 2) _Ivan Chai werkt als een krachtige ontstekingsremmer:_
 
 * Ivan Chai is een krachtige ontstekingsremmer ([9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20),[7](https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf%20),[1](https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub%20/),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)). Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op <span>farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. Veel mensen zijn genoodzaakt over te stappen op deze farmaceutische medicijnen. De </span>oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals blaas- en darmontstekingen.
+
+**Ivan Chai helpt tegen:**
+* Blaasontsteking
+* Darmontsteking
+
+
 
 ## 3) Verbetert de slaap en vermindert angst, stress & burnout klachten
 
