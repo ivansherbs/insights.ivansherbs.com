@@ -115,12 +115,19 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 
 * De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is <span>urogenitaal </span>gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie)
 
-## 6) Maagklachten
+## 6) Spijsverteringsonevenwichtigheden
 
-### 6.1 Spijsverteringsonevenwichtigheden
+### 6.1 Maag-, lever- of darmproblemen
+Ruim 3.700.000 Nederlanders heeft last van maag-, lever- of darmproblemen ([18](https://www.maxvandaag.nl/sessies/themas/gezondheid-sport/ruim-37-miljoen-nederlanders-hebben-maag-lever-of-darmproblemen/)). Jaarlijks bedragen de zorguitgaven voor deze problemen zo'n € 3.300.000.000, zeggende: drie miljard en drie honderd miljoen euro. Vrouwen hebben vaker te kampen met dit soort problemen dan mannen. 
 
-1 op de 4 mensen in Nederland heeft wel eens last van de maag. Voor deze maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18](https://www.mlds.nl/ziekten/functionele-maagklachten/)).
+### 6.1.1 Maagklachten
 
+Van alle Nederlanders heeft 1 op de 4 mensen wel eens last van de maag. Voor maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18](https://www.mlds.nl/ziekten/functionele-maagklachten/)).
+
+### 6.1.3 Darmklachten
+
+De meest voorkomende vorm van darmklachten is het prikkelbare darm syndroom. Het merendeel van de patiënten (75%) is vrouw. Er zijn verschillende oorzaken die kunnen leiden tot darmklachten zoals een gebrek aan vezels, vocht of beweging.  
+Onderzoek heeft aangetoond dat tevens stress en een onregelmatig leven een van de oorzaken kunnen zijn die leiden tot darmklachten ([18.1](https://www.darmgezondheid.nl/darmklachten/))([18.2](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/pds/)).
 Hiernaast krijgt gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree. In de medische wereld staat reizigersdiarree ook wel bekend als Turista ([18.1](https://www.thuisarts.nl/diarree/ik-heb-reizigersdiarree),[18.2](https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103)).
 
 **_Ivan Chai verzorgt het spijsverteringsstelsel:_** 
