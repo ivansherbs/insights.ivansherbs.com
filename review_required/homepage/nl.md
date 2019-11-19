@@ -14,7 +14,7 @@ Picture Tube (current)
 Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
 
 
--(Button - Ontdek meer)- > Ivan Chai tegen 17 gezondheidsproblemen  /pages/ivan-chai-tegen-17-gezondheidsproblemen
+-(Button - Ontdek meer)- > bereidings wijze Ivan Chai  articles/preparation-method-ivan-chai/nl.md
 
 
 -(Picture - Ivan Chai + mountains in circle)-
