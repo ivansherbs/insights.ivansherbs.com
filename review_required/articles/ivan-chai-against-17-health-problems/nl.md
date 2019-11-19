@@ -53,7 +53,7 @@ Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld. Het wordt g
 
 **Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel.** _Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen._
 
-Let op: <br>
+**Let op:** <br>
 Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
 
 <br>
@@ -91,7 +91,7 @@ Het is van _nature vrij_ van:
 
 Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
 
-Ter info: <br>
+**Ter info:** <br>
 In tegenstelling tot farmaceutische medicijnen, is er onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed.
 
 Farmaceutische medicijnen kunnen namelijk wél de vruchtbaarheid negatief beïnvloeden. Tot op heden zijn er geen bekende bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
