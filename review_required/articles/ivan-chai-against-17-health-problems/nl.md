@@ -25,7 +25,7 @@ Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd
 
 ## Voorzorgsmaatregelen
 
-Ivan Chai kan als preventieve behandeling genomen worden tegen de volgende 17 gezondheidsproblemen:
+Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17 gezondheidsproblemen:
 
 1.  Infecties
 2.  Verkoudheid
@@ -45,13 +45,13 @@ Ivan Chai kan als preventieve behandeling genomen worden tegen de volgende 17 ge
 16. Maagklachten
 17. Darmklachten
 
-Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met _farmaceutische_ medicijnen.
+Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met farmaceutische medicijnen.
 
 Ons advies luidt om eigen onderzoek te doen om bijwerkingen te voorkomen. Veel combinaties van natuurlijke medicijnen met farmaceutische medicijnen zijn tot op heden niet geprobeerd of getest.
 
 Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld. Het wordt geadviseerd om te voorkomen dat kruiden met farmaceutische medicijnen met elkaar worden gecombineerd.
 
-Het is bekend dat het gebruik van kruiden rechtstreeks uit de natuur één groot voordeel heeft. _Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen._
+**Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel.** _Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen._
 
 Let op: <br>
 Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
@@ -91,8 +91,7 @@ Het is van _nature vrij_ van:
 
 Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
 
-Ter info:
-
+Ter info: <br>
 In tegenstelling tot farmaceutische medicijnen, is er onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed.
 
 Farmaceutische medicijnen kunnen namelijk wél de vruchtbaarheid negatief beïnvloeden. Tot op heden zijn er geen bekende bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
