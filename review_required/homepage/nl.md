@@ -11,13 +11,6 @@ Picture Tube (current)
 
 
 
--(Video - De oorsprong en verwerking van Ivan Chai)-
-
-
-
--------------------------------------------------------------------------------
-
-
 Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
 
 
