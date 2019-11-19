@@ -122,16 +122,16 @@ Ruim 3.700.000 Nederlanders heeft last van maag-, lever- of darmproblemen ([18](
 
 ### 6.1.1 Maagklachten
 
-Van alle Nederlanders heeft 1 op de 4 mensen wel eens last van de maag. Voor maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18](https://www.mlds.nl/ziekten/functionele-maagklachten/)).
+Van alle Nederlanders heeft 1 op de 4 mensen wel eens last van de maag. Voor maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18.1](https://www.mlds.nl/ziekten/functionele-maagklachten/)).
 
 ### 6.1.2 Darmklachten
 
 Onderzoek heeft aangetoond dat stress, een gebrek aan vezels, vocht, beweging of een onregelmatig leven een van de oorzaken kan zijn die leiden tot darmklachten. De meest voorkomende vorm van darmklachten is het prikkelbare darm syndroom. 75% van de patiënten is vrouw. 
-([18.1](https://www.darmgezondheid.nl/darmklachten/))([18.2](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/pds/)).
-Hiernaast krijgt gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree. In de medische wereld staat reizigersdiarree ook wel bekend als Turista ([18.1](https://www.thuisarts.nl/diarree/ik-heb-reizigersdiarree),[18.2](https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103)). 
+([18.2](https://www.darmgezondheid.nl/darmklachten/))([18.3](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/pds/)).
+Hiernaast krijgt gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree. In de medische wereld staat reizigersdiarree ook wel bekend als Turista ([18.4](https://www.thuisarts.nl/diarree/ik-heb-reizigersdiarree),[18.5](https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103)). 
 
 ### 6.1.2.1 Darmklachten in combinatie met antibiotica
-Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de farmaceutische industrie. Door het gebruik van antibiotica kan de darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een antibioticakuur volgende diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geassocieerde Diarree - ADD. ADD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt 8 weken na de kuur nog last had van diarree. 
+Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de farmaceutische industrie. Door het gebruik van antibiotica kan de darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een antibioticakuur volgende diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geassocieerde Diarree - ADD. ADD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt acht weken na de kuur nog last had van diarree ([18.6](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/diarree/antibiotica-en-diarree/)).
 
 **_Ivan Chai verzorgt het spijsverteringsstelsel:_** 
 
