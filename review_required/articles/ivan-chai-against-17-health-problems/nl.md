@@ -1,28 +1,8 @@
-# Ivan Chai tegen 17 gezondheidsproblemen
+# Bereidingswijze Ivan Chai 
 
-Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
+(picture of hands in bag of Ivan Chai)
 
-Voorkom de volgende 17 gezondheidsproblemen met Ivan Chai:
-
-1.  Infecties
-2.  Verkoudheid
-3.  Griep
-4.  Zwak immuunsysteem
-5.  Blaasontsteking 
-6.  Darmontsteking
-7.  Slaapproblemen
-8.  Angst
-9.  Stress
-10. Burnout klachten
-11. Hart- en vaatziekten
-12. Prostaatkanker
-13. Prostaatontsteking
-14. Benigne Prostaat Hyperplasie
-15. Urineweg infectie
-16. Maagklachten
-17. Darmklachten
-
-Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Hiernaast kan Ivan Chai worden gebruikt als preventieve behandeling tegen bovenstaande gezondheidsproblemen.
+_Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden gericht op gezondheidsproblemen. Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Hiernaast kan Ivan Chai worden gebruikt als preventieve behandeling tegen 17 gezondheidsproblemen. Hieronder de bereidingswijze van 1 kop Siberische kruidenthee._
 
 ## Ingrediënten
 
@@ -40,7 +20,8 @@ Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 
-Drink 1 kop voor de maaltijd en 2 keer per dag gedurende **7** dagen. Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
+Drink 1 kop voor de maaltijd en 2 keer per dag gedurende **7** dagen. <br>
+Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
 
 ## Voorzorgsmaatregelen
 
@@ -106,3 +87,26 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 Wanneer het medicijn op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen eventueel het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
 
 Lees over [de 7 gezondheidsvoordelen van Ivan Chai](/pages/de-7-gezondheidsvoordelen-van-ivan-chai "de 7 gezondheidsvoordelen van Ivan Chai") of bekijk onze [cadeau set](/products/ivan-chai-gift-set "Ivan Chai cadeau set").
+
+
+
+
+Voorkom de volgende 17 gezondheidsproblemen met Ivan Chai:
+
+1.  Infecties
+2.  Verkoudheid
+3.  Griep
+4.  Zwak immuunsysteem
+5.  Blaasontsteking 
+6.  Darmontsteking
+7.  Slaapproblemen
+8.  Angst
+9.  Stress
+10. Burnout klachten
+11. Hart- en vaatziekten
+12. Prostaatkanker
+13. Prostaatontsteking
+14. Benigne Prostaat Hyperplasie
+15. Urineweg infectie
+16. Maagklachten
+17. Darmklachten
