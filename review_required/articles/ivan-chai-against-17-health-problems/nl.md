@@ -36,7 +36,29 @@ Het is bekend dat het gebruik van kruiden rechtstreeks uit de natuur één groot
 Let op: <br>
 Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
 
-## Is er teveel van dit middel ingenomen?
+**Ivan Chai kan als preventieve behandeling genomen worden tegen de volgende 17 gezondheidsproblemen:**
+
+1.  Infecties
+2.  Verkoudheid
+3.  Griep
+4.  Zwak immuunsysteem
+5.  Blaasontsteking 
+6.  Darmontsteking
+7.  Slaapproblemen
+8.  Angst
+9.  Stress
+10. Burnout klachten
+11. Hart- en vaatziekten
+12. Prostaatkanker
+13. Prostaatontsteking
+14. Benigne Prostaat Hyperplasie
+15. Urineweg infectie
+16. Maagklachten
+17. Darmklachten
+
+<br>
+
+**Is er teveel van dit middel ingenomen?**
 
 Tot op vandaag zijn de volgende symptomen, in tegenstelling tot _farmaceutische_ medicijnen, **niet** bij ons bekend:
 
@@ -85,27 +107,5 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 Wanneer het medicijn op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen eventueel het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
 
-Lees over [de 7 gezondheidsvoordelen van Ivan Chai](/pages/de-7-gezondheidsvoordelen-van-ivan-chai "de 7 gezondheidsvoordelen van Ivan Chai") of bekijk onze [cadeau set](/products/ivan-chai-gift-set "Ivan Chai cadeau set").
+Lees over [de 7 gezondheidsvoordelen van Ivan Chai]() of bekijk onze [cadeau set](/products/ivan-chai-gift-set "Ivan Chai cadeau set").
 
-
-
-
-Voorkom de volgende 17 gezondheidsproblemen met Ivan Chai:
-
-1.  Infecties
-2.  Verkoudheid
-3.  Griep
-4.  Zwak immuunsysteem
-5.  Blaasontsteking 
-6.  Darmontsteking
-7.  Slaapproblemen
-8.  Angst
-9.  Stress
-10. Burnout klachten
-11. Hart- en vaatziekten
-12. Prostaatkanker
-13. Prostaatontsteking
-14. Benigne Prostaat Hyperplasie
-15. Urineweg infectie
-16. Maagklachten
-17. Darmklachten
