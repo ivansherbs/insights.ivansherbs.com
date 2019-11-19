@@ -2,7 +2,7 @@
 
 **De 7 gezondheidsvoordelen**  
 
-1.  Weerstand tegen ziekten 
+1.  Versterkt de weerstand
 2.  Krachtige ontstekingsremmer
 3.  Verbetert de slaap en vermindert angst, stress en burnout klachten
 4.  Antioxiderede werking en versterkt de anti-tumoractiviteit
@@ -14,23 +14,24 @@ _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medic
 
 Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder een kort overzicht van de gezondheidsproblemen. 
 
-## 1) Weerstand tegen ziekten
+## 1) 
+
+**_Ivan Chai versterkt de weerstand:_**
+
+*   De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin),[1](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin%20)). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. Door het versterken van het immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
 
 ### Infecties
 
-Iedereen heeft last van schimmels 
+Iedereen heeft last van schimmels.
 
 ### Verkoudheid en griep
 
-Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Begin 2018 heeft de langdurige griepepidemie gezorgd voor het hoogste niveau ziekteverzuim van de afgelopen 10 jaar. Met name in de gezondheidszorg met een ziekteverzuimpercentage van 6,5% lag het verzuim aanzienlijk hoger ([13.6](https://www.rtlnieuws.nl/geld-en-werk/artikel/4244466/ziekteverzuim-2018-op-hoogste-niveau-tien-jaar)). Tijdens de wintermaanden heeft het immuunsysteem moeite om zich te verdedigen tegen ziektekiemen. Het gebruik van farmaceutische medicijnen kan van grote invloed zijn op de gevoeligheid voor griep en andere infecties. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden ([13.7](https://mens-en-gezondheid.infonu.nl/ziekten/44867-bescherming-tegen-griep-tips-om-je-immuniteit-te-versterken.html)). De oorzaak wordt hierbij niet aangepakt. 
+
 
 ### 1.3 Zwak immuunsysteem
 
-Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.8](https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen))). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([13.9](https://www.mmc.nl/oncologie/aandoening-en-behandeling/chemotherapie/),[13.10](https://www.chemotherapie.nl/wat-is-chemo/effecten-van-chemo)). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steeds de gevolgen in het dagelijkse leven ([13.11](https://zorgnu.avrotros.nl/nieuws/item/passende-zorg-nodig-voor-mensen-die-kanker-overleven/)).
 
-**_Ivan Chai versterkt de weerstand tegen ziekten:_**
 
-*   De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd ([2](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin),[1](https://www.researchgate.net/publication/266883646_Antimicrobial_activity_of_native_and_naturalized_plants_of_Minnesota_and_Wisconsin%20)). Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem. Door het versterken van het immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
 
 ## 2) Krachtige ontstekingsremmer
 
