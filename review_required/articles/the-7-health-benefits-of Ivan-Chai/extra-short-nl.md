@@ -22,7 +22,7 @@ _Ivan Chai biedt bescherming tegen:_
 _Ivan Chai helpt tegen:_
 * Zwak immuunsysteem
 
-
+<br>
 **2) _Ivan Chai werkt als een krachtige ontstekingsremmer_**
 
 _Ivan Chai helpt tegen:_
