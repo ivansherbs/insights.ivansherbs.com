@@ -3,7 +3,7 @@
 
 De natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen.
 
--(Button - Ontdek meer)- > Product page 
+-(Button - Ontdek meer)- > Product page /products/ivan-chai-gift-set
 
 Picture Tube (current) 
 
@@ -14,7 +14,7 @@ Picture Tube (current)
 Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
 
 
--(Button - Ontdek meer)- > Ivan Chai tegen 17 gezondheidsproblemen 
+-(Button - Ontdek meer)- > Ivan Chai tegen 17 gezondheidsproblemen  /pages/ivan-chai-tegen-17-gezondheidsproblemen
 
 
 -(Picture - Ivan Chai + mountains in circle)-
@@ -36,7 +36,7 @@ Ivan Chai - Cadeauset
 
 -(Button - Koop nu)-
 
--(Button - Alle details + Delen)-
+-(Button - Alle details + Delen)- /products/ivan-chai-gift-set
 
 
 
@@ -47,11 +47,11 @@ Ivan Chai - Cadeauset
 Lees onze artikelen (slide picture head of Celie Ann open)
 
 
-(Kruiden als medicijn (button Lees meer) -> Article ' Kruiden als medicijn' 
+(Kruiden als medicijn (button Lees meer) -> Article ' Kruiden als medicijn' /pages/kruiden-als-medicijn
 
 &
 
-De 7 gezondheidsvoordelen van Ivan Chai (button Lees meer)) -> No article at the moment 
+De 7 gezondheidsvoordelen van Ivan Chai (button Lees meer)) -> No article at the moment NOT FINISHED YET 
 
 
 
