@@ -18,7 +18,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes en depressie
 
-Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst voor het menselijk lichaam. Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen om gezondheidsproblemen aan te pakken. 
+Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam. Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen om gezondheidsproblemen aan te pakken. 
 
 Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de 7 gezondheidsvoordelen.
 
