@@ -5,7 +5,7 @@
 ---------------------------------------------------------------
 
 
-**7 Gezondheidsvoordelen**
+# 7 Gezondheidsvoordelen
 
 1. Versterkt de weerstand
 2. Krachtige ontstekingsremmer
@@ -16,17 +16,12 @@
 7. Vermindert de kans op diabetes
 
 
-
 ---------------------------------------------------------------
-
-
 
 # Product Inhoud
 Een bestelling bevat 1 tubes met 50 gram Ivan Chai en 1 zakje met 50 gram losse bladeren. Volgens onze aanbeveling van 2 gram per kop zijn dat 50 koppen Siberische kruidenthee.
 
 _Alle verpakkingen zijn 100% recyclebaar._
-
-
 
 ---------------------------------------------------------------
 
@@ -47,4 +42,7 @@ price
 (button - Aan winkelwagen toevoegen) 
 
 
+---------------------------------------------------------------
+
+Delen 
 
