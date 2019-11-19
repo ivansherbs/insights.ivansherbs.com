@@ -5,21 +5,21 @@ Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
 Voorkom de volgende 17 gezondheidsproblemen met Ivan Chai:
 
 1.  Infecties
-2.  Verkoudheid en griep
-3.  Zwak immuunsysteem
-4.  Darmontsteking 
-5.  Wazige geest
-6.  Slaap
-7.  Angst
-8.  Stress
-9.  Burnout klachten
-10. De ziekte van Alzheimer
+2.  Verkoudheid
+3.  Griep
+4.  Zwak immuunsysteem
+5.  Blaasontsteking 
+6.  Darmontsteking
+7.  Slaapproblemen
+8.  Angst
+9.  Stress
+10. Burnout klachten
 11. Hart- en vaatziekten
 12. Prostaatkanker
 13. Prostaatontsteking
 14. Benigne Prostaat Hyperplasie
 15. Urineweg infectie
-16. Spijsverteringsonevenwichtigheden
+16. Maaklachten
 17. Diabetes
 
 Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Hiernaast kan Ivan Chai worden gebruikt als preventieve behandeling tegen bovenstaande gezondheidsproblemen.
