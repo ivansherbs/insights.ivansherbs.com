@@ -85,7 +85,7 @@ _**Ivan Chai helpt tegen:**_
 
 Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). Kinderen houden van deze smaak. 
 
-_**Ivan Chai maakt het toevoegen van suiker overbodig waardoor de kan op sommige problemen wordt verkleind:**_
+_**Ivan Chai maakt het toevoegen van suiker overbodig waardoor de kans op sommige problemen wordt verkleind:**_
 * Diabetes
 
 <br>
