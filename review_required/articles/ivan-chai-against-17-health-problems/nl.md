@@ -49,8 +49,7 @@ Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen
 
 Ons advies luidt om eigen onderzoek te doen om bijwerkingen te voorkomen. Veel combinaties van natuurlijke medicijnen met farmaceutische medicijnen zijn tot op heden niet geprobeerd of getest.
 
-Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld. Het wordt geadviseerd om te voorkomen dat kruiden met farmaceutische medicijnen met elkaar worden gecombineerd.
-
+Er zijn tot op heden _geen bekende_ bijwerkingen van Ivan Chai gemeld: <br>
 **Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel.** _Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen._
 
 **Let op:** <br>
