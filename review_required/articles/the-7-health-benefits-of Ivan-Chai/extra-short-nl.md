@@ -12,6 +12,8 @@
 
 _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen om 17 gezondheidsproblemen aan te pakken._
 
+<br>
+
 **1) _Ivan Chai versterkt de weerstand_**
 
 _Ivan Chai biedt bescherming tegen:_
