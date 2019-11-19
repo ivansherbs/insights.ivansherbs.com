@@ -10,21 +10,17 @@
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes en depressie
 
-_Ivan Chai is de natuurlijke oplossing als alternatief op de farmaceutische medicijnen om gezondheidsproblemen aan te pakken._
+_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen om gezondheidsproblemen aan te pakken._
 
-Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor de gehele samenleving. Ivan Chai is de natuurlijke oplossing als alternatief op de farmaceutische behandelmethoden om gezondheidsproblemen aan te pakken. 
-
-Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder de statistieken en wetenschappelijke onderbouwing van de 7 gezondheidsvoordelen.
+Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Hieronder een kort overzicht van de gezondheidsproblemen. 
 
 ## 1) Weerstand tegen ziekten
 
-### 1.1 Infecties
+### Infecties
 
-Iedereen heeft last van schimmels (o.a. oraal of vaginaal). Een overtollige hoeveelheid aan schimmels kan door gebruik van farmaceutische medicijnen waaronder Antibiotica, Anticonceptiepil en Maagzuurremmers, worden versterkt ([13](https://candida.nl),[13.1](https://www.rivm.nl/candida)). Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13.2](https://www.sfk.nl/publicaties/PW/2019/anticonceptiepil-op-rantsoen-door-tekort)). Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer ([13.3](https://www.gezondheidsnet.nl/brandend-maagzuur/wat-je-moet-weten-over-maagzuurremmers)). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13.4](https://www.sfk.nl/publicaties/PW/2017/antibioticagebruik-in-zomer-daalt-al-enige-jaren-gestaag)).  
+Iedereen heeft last van schimmels 
 
-Hiernaast zijn de risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot roken, een kunstgebit en diabetes ([13.5](https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond)).
-
-### 1.2 Verkoudheid en griep
+### Verkoudheid en griep
 
 Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Begin 2018 heeft de langdurige griepepidemie gezorgd voor het hoogste niveau ziekteverzuim van de afgelopen 10 jaar. Met name in de gezondheidszorg met een ziekteverzuimpercentage van 6,5% lag het verzuim aanzienlijk hoger ([13.6](https://www.rtlnieuws.nl/geld-en-werk/artikel/4244466/ziekteverzuim-2018-op-hoogste-niveau-tien-jaar)). Tijdens de wintermaanden heeft het immuunsysteem moeite om zich te verdedigen tegen ziektekiemen. Het gebruik van farmaceutische medicijnen kan van grote invloed zijn op de gevoeligheid voor griep en andere infecties. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden ([13.7](https://mens-en-gezondheid.infonu.nl/ziekten/44867-bescherming-tegen-griep-tips-om-je-immuniteit-te-versterken.html)). De oorzaak wordt hierbij niet aangepakt. 
 
