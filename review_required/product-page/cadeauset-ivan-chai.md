@@ -21,7 +21,7 @@ Picture Tubes
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes
 
-Alle gezondheidsvoordelen zijn feiten gebaseerd. 
+Alle gezondheidsvoordelen zijn op feiten gebaseerd. 
 
 [Bekijk de bereidingswijze van Ivan Chai](/review_required/articles/preparation-method-ivan-chai/nl.md).
 
