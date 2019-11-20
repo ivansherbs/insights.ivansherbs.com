@@ -21,7 +21,7 @@ Picture Tubes
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes
 
-Lees [hier](/articles/the-7-health-benefits-of Ivan-Chai/long-nl.md) meer 
+Lees [hier](/articles/the-7-health-benefits-of-Ivan-Chai/long-nl.md) meer 
 
 [Bekijk de bereidingswijze van Ivan Chai](/articles/preparation-method-ivan-chai/nl.md).
 
