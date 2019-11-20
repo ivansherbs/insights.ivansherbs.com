@@ -1,4 +1,3 @@
-# Fireweed (*Epilobium angustifolium*)
 Sign up to get access to a **€7 trial of Ivan Chai**, a herbal tea proven to improve your prostate health.
 
 You'll get 25 cups of **evidence-based herbal tea** and access to all the . The **shipping is free**. 
@@ -16,7 +15,7 @@ There have been three studies done on human prostate cancer cells that showed ev
 
 Other speicies of *Epilobium* were used to treat prostatitis in Europe after Austrian herbalist Maria Trebens published her success in using *Epilobium* herbal tea treatment in the 1970s and 1980s (1). Modern research has shown how fireweed can be useful for prostatitis (5).
 
-A compound in fireweed was shown to powerfully inhibit prostate cell reproduction (6, 7, 8).
+A compound in fireweed was shown to powerfully inhibit prostate cell reproduction (3, 6, 7).
 
 
 ## Address these health issues with fireweed
@@ -27,25 +26,24 @@ A compound in fireweed was shown to powerfully inhibit prostate cell reproductio
 
 ## Preparation
 
-The therapeutic dose that is continually referenced in the Europeans Medicines Agency’s final assessment is 1.5 - 2.0 grams made as an herbal infusion, taken twice daily on an empty stomach 
-
 To prepare a fireweed infusion, brew **2 g** (1 teaspoon) in **1 cup** (250 mL) of boiling water (**70°C or higher**) for 5-8 minutes and then strain.
 
-Naturally sweet. Does not become bitter if left to brew too long.
+Naturally sweet and tastes similar to black tea, but more earthy. Does not become bitter if left to brew too long.
+
 ## Dosage and course of treatment
 
-Drink **1 cup** before meals **2 times daily** for **at least 8 days**.
+Drink **1 cup** before meals **2 times daily** for **at least 10 days**.
 
 For a **chronic** health issue drink **1 cup** before meals **3 times daily**.
 
 If your health issues have been remedied, you can stop taking fireweed on a regular basis. Restart treatment if symptoms reappear.
-## Precautions
 
-It's always advised to consult your health professional and do your own research before starting any treatment to avoid interactions.
+This therapeutic dose is continually referenced in the Europeans Medicines Agency’s final assessment (1).
 
-It's best to **avoid mixing** medication and herbs within **3 hours of each other**, as many combinations have not been tried or tested. To date (2019), no known interactions or side effects of fireweed have been reported ([WebMD]).
 
-If you're on any medication, stay on it unless otherwise prescribed by your doctor.
+(Button) Get Your Trial
+
+
 ## Safety, contraindications and warnings
 
 Fireweed is an extremely safe herbal infusion. It can be taken as a herbal infusion in excessive amounts and is safe for children.
@@ -54,7 +52,9 @@ It’s naturally **free of caffeine**, uric acid, oxalic acid, and L-theanine.
 
 **Pregnancy and breastfeeding** Not enough is known about the use of fireweed during pregnancy and breast-feeding. It is recommended to avoid use.
 
-Additionally, the EMA claimed that ‘due to the widespread traditional medicinal use for more than 30 years the safety of *Epilobium angustifolium*… can be assumed' (1).
+It's always advised to consult your health professional and do your own research before starting any treatment to avoid interactions.
+
+The EMA has claimed that ‘due to the widespread traditional medicinal use for more than 30 years the safety of *Epilobium angustifolium*… can be assumed' (1).
 
 ## Cultural History of Fireweed as Ivan Chai
 
@@ -62,17 +62,20 @@ In the 16th century, Russian monks were forbidden to drink coffee or tea because
 
 The term "Ivan Chai" was given to the herbal infusion by the foreigners who still enjoyed it in England and other European countries. Its popularity in England grew so drastically that by the end of the 19th century it was most likely noticed as a small threat to the Dutch East India Company. Rumours were supposedly spread that the Russians were poisoning Ivan Chai with white clay.
 
-In the aftermath of the Russian Revolution of 1917, commercial production ceased and the consumption of Ivan Chai had practically fell to zero for Russia and the rest of Europe. Even in Russia, this beneficial herbal infusion remains somewhat unknown, and is slowly making a revival.
+In the aftermath of the Russian Revolution of 1917, commercial production ceased and the consumption of Ivan Chai had practically fell to zero for Russia and the rest of Europe. Even in Russia, this beneficial herbal infusion remains somewhat unknown and is slowly making a revival.
 
 (Button) Get Your Trial
 You'll also get direct access to all the scientific evidence and references.
 
 ## References
 
-1 - EMA
-2 - Sciencedirect article
-3 - Wiley online library article
-4 - Wiley online library article
+1 - EMA publication
+2 - Sciencedirect publication
+3 - Wiley online library publication
+4 - Wiley online library publication
+5 - Dovepress publication
+6 - Pubmed publication
+7 - Pubmed publication
 
 - Anonymous. “Epilobii Herba.” *European Medicines Agency*, 20 Sept. 2018, https://www.ema.europa.eu/en/medicines/herbal/epilobii-herba.
 - Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” *Journal of Ethnopharmacology*, vol. 232, 2019, pp. 1–10., https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub.
