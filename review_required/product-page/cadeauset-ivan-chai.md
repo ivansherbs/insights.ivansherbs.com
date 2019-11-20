@@ -15,7 +15,7 @@
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes
 
-Bekijk de bereidingswijze van [Ivan Chai](review_required/articles/preparation-method-ivan-chai/nl.md).
+[Bekijk de bereidingswijze van Ivan Chai](/review_required/articles/preparation-method-ivan-chai/nl.md).
 
 ---------------------------------------------------------------
 
