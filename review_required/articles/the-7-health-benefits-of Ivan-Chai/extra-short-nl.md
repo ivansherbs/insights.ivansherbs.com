@@ -14,7 +14,7 @@ Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijn
 
 <br>
 
-**1) _Ivan Chai versterkt de weerstand_**
+**1) Ivan Chai versterkt de weerstand**
 
 _Ivan Chai biedt bescherming tegen:_
 * Infecties
@@ -26,15 +26,15 @@ _Ivan Chai helpt tegen:_
 
 <br>
 
-**2) _Ivan Chai werkt als een krachtige ontstekingsremmer_**
+**2) Ivan Chai werkt als een krachtige ontstekingsremmer**
 
 _Ivan Chai helpt tegen:_
-* Blaasontsteking
-* Darmontsteking
+* Blaasontstekingen
+* Darmontstekingen
 
 <br>
 
-**3) _Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten_**
+**3) Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten**
 
 _Ivan Chai helpt tegen:_
 * Slaapproblemen
@@ -44,7 +44,7 @@ _Ivan Chai helpt tegen:_
 
 <br>
 
-**4) _Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit_**
+**4) Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit**
 
 _Ivan Chai biedt bescherming tegen:_
 * Hart- en vaatziekten
@@ -52,7 +52,7 @@ _Ivan Chai biedt bescherming tegen:_
 
 <br>
 
-**5) _Ivan Chai verzorgt de gezondheid van prostaat en urinewegen_**
+**5) Ivan Chai verzorgt de gezondheid van prostaat en urinewegen**
 
 _Ivan Chai helpt tegen:_
 * Prostaatontsteking
@@ -61,7 +61,7 @@ _Ivan Chai helpt tegen:_
 
 <br>
 
-**6) _Ivan Chai verzorgt het spijsverteringsstelsel_**
+**6) Ivan Chai verzorgt het spijsverteringsstelsel**
 
 _Ivan Chai helpt tegen:_
 * Maagklachten
@@ -69,7 +69,7 @@ _Ivan Chai helpt tegen:_
 
 <br>
 
-**7) _Ivan Chai heeft van nature een licht zoete smaak:_**
+**7) Ivan Chai heeft van nature een licht zoete smaak:**
 
 _Ivan Chai maakt het toevoegen van suiker overbodig waardoor de kans op sommige problemen wordt verkleind:_
 * Diabetes
