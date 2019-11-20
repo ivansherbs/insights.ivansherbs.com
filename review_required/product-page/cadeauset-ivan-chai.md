@@ -1,11 +1,14 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/op2BjUHk06s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ - Header - 
+
+
+
+Picture Tubes 
 
 
 
 ---------------------------------------------------------------
 
-
-# 7 Gezondheidsvoordelen
+# Ivan Chai - 7 Gezondheidsvoordelen
 
 1. Versterkt de weerstand
 2. Krachtige ontstekingsremmer
@@ -15,14 +18,15 @@
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes
 
+Alle gezondheidsvoordelen zijn feiten gebaseerd. 
+
 [Bekijk de bereidingswijze van Ivan Chai](/review_required/articles/preparation-method-ivan-chai/nl.md).
 
 ---------------------------------------------------------------
 
-# Product Inhoud
-* 1 tube met 50 gram Ivan Chai 
-* 1 zakje met 50 gram losse bladeren
-
+# Product Inhoud - 100 gram
+* 1 tube met 50 gram
+* 1 zakje met 50 gram <br>
 Volgens onze aanbeveling van 2 gram per kop zijn dat 50 koppen Siberische kruidenthee.
 
 _Alle verpakkingen zijn 100% recyclebaar._
@@ -30,6 +34,25 @@ _Alle verpakkingen zijn 100% recyclebaar._
 ---------------------------------------------------------------
 
 
+Ivan Chai - Cadeauset 
+
+Price 
+
+-(Button Aan winkelwagen toevoegen)-
+
+
+---------------------------------------------------------------
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/op2BjUHk06s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+---------------------------------------------------------------
 
 # Smaak beoordeling
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
@@ -37,8 +60,6 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwar
 
 
 ---------------------------------------------------------------
-
-
 
 Delen 
 
