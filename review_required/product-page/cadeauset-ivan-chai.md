@@ -27,7 +27,7 @@ Alle gezondheidsvoordelen zijn op feiten gebaseerd.
 
 ---------------------------------------------------------------
 
-# Product Inhoud - 100 gram
+**Product Inhoud - 100 gram**
 * 1 tube met 50 gram
 * 1 zakje met 50 gram 
 
