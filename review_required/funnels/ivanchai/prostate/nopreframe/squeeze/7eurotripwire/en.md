@@ -6,6 +6,6 @@ You'll get 25 cups of **evidence-based herbal tea**. The **shipping is free**.
 
 (email field)
 
-(Button) Get Free Ivan Chai
+(Button) Get Trial
 
 (Small print) *The European Medicines Agency has approved this herb to reduce the lower urinary tract symptoms associated with an enlarged prostate. 
