@@ -1,8 +1,8 @@
 To get access to a **€7 trial of Ivan Chai**, a herbal tea proven to improve your prostate health*, sign up below. 
 
-That's 25 cups of herbal tea. The shipping is free.
+How does it taste? A bit like black tea, but more earthy, and naturally sweet. 
 
-How does it taste? A bit like black tea, but more earthy, and naturally sweet.
+You'll get 25 cups of **evidence-based herbal tea**. The **shipping is free**.
 
 (email field)
 
