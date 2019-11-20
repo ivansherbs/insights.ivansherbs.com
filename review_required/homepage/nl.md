@@ -1,6 +1,6 @@
-**De 7 gezondheidsvoordelen van Ivan Chai **
+**Ivan Chai bevat 7 gezondheidsvoordelen**
 
-De natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen.
+De natuurlijke oplossing als alternatief op farmaceutische medicijnen.
 
 -(Button - Ontdek meer)- > Product page /products/ivan-chai-gift-set
 
