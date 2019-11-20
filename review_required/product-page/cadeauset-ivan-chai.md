@@ -11,8 +11,8 @@ Picture Tubes
 
 -------------------------------------------------------------
 
-**Ivan Chai - 7 gezondheidsvoordelen.** <br>
-Inhoud: 100 gram <br>
+**Ivan Chai - 7 gezondheidsvoordelen** <br>
+Inhoud: 100 gram <br><br>
 Onze Siberische kruiden bieden de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen. De wetenschappelijk bewezen voordelen zijn:
 
 1. Versterkt de weerstand
