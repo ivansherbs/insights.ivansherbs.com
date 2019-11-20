@@ -21,8 +21,6 @@ Picture Tubes
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes
 
-Bekijk [hier]((/articles/preparation-method-ivan-chai/nl.md) de bereidingswijze van Ivan Chai.
-
 -------------------------------------------------------------
 
 **Product Inhoud - 100 gram**
