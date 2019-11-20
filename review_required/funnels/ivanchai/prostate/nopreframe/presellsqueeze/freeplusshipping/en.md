@@ -7,7 +7,7 @@ That's 25 cups of **evidence-based herbal tea**. You only **pay the shipping** w
 
 (email field)
 
-(Button) **Get Your Trial**
+(Button) **Get Free Trial**
 
 ## Support Prostate Health
 Here at Ivan's Herbs, we are passionate about addressing your specific health issues, even the embarrassing ones. We won't tell anyone, we promise.
@@ -25,6 +25,6 @@ The European Medicines Agency has approved fireweed herbal tea as a treatment to
 Our mission is to provide **evidence-based**, effective, and simple to understand herbal recipes for your specific health issues.  
 
 ## Evidence-based herbal herbal recipes
-(BUTTON) **Get €7 Trial**
+(BUTTON) **Get Free Trial**
 
 How does Ivan Chai taste like? A bit like black tea, but more earthy, and naturally sweet. 
