@@ -2,7 +2,7 @@
 
 (picture of hands in bag of Ivan Chai)
 
-_Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden gericht op gezondheidsproblemen. Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Hiernaast kan Ivan Chai worden gebruikt als preventieve behandeling tegen 17 gezondheidsproblemen._
+_Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden gericht op gezondheidsproblemen. Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen._
 
 ## Ingrediënten
 
