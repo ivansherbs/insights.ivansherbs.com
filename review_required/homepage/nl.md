@@ -11,10 +11,10 @@ Picture Tube (current)
 
 
 
-Verzorg dagelijks je lichaam en geest met kruiden uit Siberië.
+De 7 gezondheidsvoordelen van Ivan Chai 
 
 
--(Button - Ontdek meer)- > bereidings wijze Ivan Chai  articles/preparation-method-ivan-chai/nl.md
+-(Button - Ontdek meer)- > going to article when ready
 
 
 -(Picture - Ivan Chai + mountains in circle)-
@@ -49,9 +49,6 @@ Lees onze artikelen (slide picture head of Celie Ann open)
 
 (Kruiden als medicijn (button Lees meer) -> Article ' Kruiden als medicijn' /pages/kruiden-als-medicijn
 
-&
-
-De 7 gezondheidsvoordelen van Ivan Chai (button Lees meer)) -> No article at the moment NOT FINISHED YET 
 
 
 
