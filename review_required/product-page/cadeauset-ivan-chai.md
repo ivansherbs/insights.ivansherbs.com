@@ -57,9 +57,11 @@ Price
 **Smaak beoordeling** <br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
-
-
 -------------------------------------------------------------
+
+* Gratis verzending binnen Nederland 
+* Veilige betaling via iDeal of Paypal 
+
 
 Delen 
 
