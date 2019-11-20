@@ -9,7 +9,7 @@ Picture Tubes
 
 
 
----------------------------------------------------------------
+-------------------------------------------------------------
 
 **Ivan Chai - 7 Gezondheidsvoordelen**
 
@@ -21,11 +21,9 @@ Picture Tubes
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes
 
-Lees [hier](/articles/the-7-health-benefits-of-Ivan-Chai/long-nl.md) meer 
+Bekijk [hier]((/articles/preparation-method-ivan-chai/nl.md) de bereidingswijze van Ivan Chai.
 
-[Bekijk de bereidingswijze van Ivan Chai](/articles/preparation-method-ivan-chai/nl.md).
-
----------------------------------------------------------------
+-------------------------------------------------------------
 
 **Product Inhoud - 100 gram**
 * 1 tube met 50 gram
@@ -35,7 +33,7 @@ Volgens onze aanbeveling van 2 gram per kop zijn dat 50 koppen Siberische kruide
 
 _Alle verpakkingen zijn 100% recyclebaar._
 
----------------------------------------------------------------
+-------------------------------------------------------------
 
 
 Ivan Chai - Cadeauset 
@@ -45,7 +43,7 @@ Price
 -(Button Aan winkelwagen toevoegen)-
 
 
----------------------------------------------------------------
+-------------------------------------------------------------
 
 
 
@@ -56,14 +54,14 @@ Price
 
 
 
----------------------------------------------------------------
+-------------------------------------------------------------
 
 **Smaak beoordeling** <br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
 
 
----------------------------------------------------------------
+-------------------------------------------------------------
 
 Delen 
 
