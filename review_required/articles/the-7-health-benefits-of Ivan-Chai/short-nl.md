@@ -33,8 +33,8 @@ _**Ivan Chai helpt tegen:**_
 Ivan Chai is een krachtige ontstekingsremmer ([9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20),[7](https://pdfs.semanticscholar.org/f8a8/4efd9fff01fe19874ccba629d0888287d605.pdf%20),[1](https://www.sciencedirect.com/science/article/pii/S0014827X01010473?via%3Dihub%20/),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)). Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. De oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals blaas- en darmontstekingen.
 
 _**Ivan Chai helpt tegen:**_
-* Blaasontsteking
-* Darmontsteking
+* Blaasontstekingen
+* Darmontstekingen
 
 <br>
 
