@@ -29,7 +29,8 @@ Alle gezondheidsvoordelen zijn op feiten gebaseerd.
 
 # Product Inhoud - 100 gram
 * 1 tube met 50 gram
-* 1 zakje met 50 gram <br>
+* 1 zakje met 50 gram 
+
 Volgens onze aanbeveling van 2 gram per kop zijn dat 50 koppen Siberische kruidenthee.
 
 _Alle verpakkingen zijn 100% recyclebaar._
