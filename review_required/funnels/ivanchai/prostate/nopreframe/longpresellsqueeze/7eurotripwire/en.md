@@ -9,13 +9,13 @@ You'll get 25 cups of **evidence-based herbal tea** and access to all the . The 
 ## Proven Effectiveness and Evidence
 Ivan Chai is made from the fermented leaves of fireweed (*Epilobium angustifolium*).
 
-The European Medicines Agency (EMA) has approved fireweed for “relief of lower urinary tract symptoms related to benign prostatic hyperplasia” in their final assessment of *Epilobium angustifolium* (1).
+The European Medicines Agency (EMA) has **approved fireweed for “relief of lower urinary tract symptoms** related to benign prostatic hyperplasia” in their final assessment of *Epilobium angustifolium* (1).
 
 There have been three studies done on human prostate cancer cells that showed evidence that fireweed infusions can significantly reduce the level of prostate specific antigen (PSA) secretion (2, 3, 4). 
 
-Other speicies of *Epilobium* were used to treat prostatitis in Europe after Austrian herbalist Maria Trebens published her success in using *Epilobium* herbal tea treatment in the 1970s and 1980s (1). Modern research has shown how fireweed can be useful for prostatitis (5).
+Other speicies of *Epilobium* were used to treat prostatitis in Europe after Austrian herbalist Maria Trebens published her success in using *Epilobium* herbal tea treatment in the 1970s and 1980s (1). Modern research has shown why **fireweed can treat prostatitis** (5).
 
-A compound in fireweed was shown to powerfully inhibit prostate cell reproduction (3, 6, 7).
+A compound in fireweed was shown to **powerfully inhibit prostate cell reproduction** (3, 6, 7).
 
 
 ## Address these health issues with fireweed
@@ -28,7 +28,7 @@ A compound in fireweed was shown to powerfully inhibit prostate cell reproductio
 
 To prepare a fireweed infusion, brew **2 g** (1 teaspoon) in **1 cup** (250 mL) of boiling water (**70°C or higher**) for 5-8 minutes and then strain.
 
-Naturally sweet and tastes similar to black tea, but more earthy. Does not become bitter if left to brew too long.
+**Tastes similar to black tea**, but more earthy and naturally sweet. Does not become bitter if left to brew too long.
 
 ## Dosage and course of treatment
 
