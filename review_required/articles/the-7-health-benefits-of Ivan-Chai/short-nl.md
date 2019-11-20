@@ -10,7 +10,7 @@
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes
 
-_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen._
+Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen.
 
 <br>
 
