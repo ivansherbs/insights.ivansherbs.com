@@ -67,13 +67,13 @@ Dropdown menu >>> (  **Bereidingswijze**  )
 
 _Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden gericht op gezondheidsproblemen. Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen._
 
-## Ingrediënten
+**Ingrediënten**
 
 **1 el** Ivan Chai
 
 Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt ook wel de Latijnse benaming Epilobium Angustifolium. 
 
-## Bereidingswijze medicijn
+**Bereidingswijze medicijn**
 
 Totale tijd: **7 min**
 
@@ -145,7 +145,7 @@ Tot op vandaag zijn de volgende symptomen, in tegenstelling tot _farmaceutische_
 * _Verlaagde bloeddruk_
 * _Coma_
 
-## Contra-indicaties en waarschuwingen
+**Contra-indicaties en waarschuwingen**
 
 Ivan Chai is een extreem veilige soort (klassen) kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen en is veilig voor kinderen.
 
@@ -157,7 +157,7 @@ Het is van _nature vrij_ van:
 * _Oxaalzuur_
 * _L-theanine_
 
-## Zwangerschap, borstvoeding & vruchtbaarheid
+**Zwangerschap, borstvoeding & vruchtbaarheid**
 
 Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
 
@@ -166,7 +166,7 @@ In tegenstelling tot farmaceutische medicijnen, is er onvoldoende bekend of de v
 
 Farmaceutische medicijnen kunnen namelijk wél de vruchtbaarheid negatief beïnvloeden. Tot op heden zijn er geen bekende bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
 
-## Rijvaardigheid
+**Rijvaardigheid**
 
 In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking die duizeligheid kan veroorzaken en daarmee de rijvaardigheid kan beïnvloeden. 
 
@@ -175,7 +175,7 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 Dropdown menu >>> (  **Opslag**  )
 
-## Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?
+**Hoe bewaart u Ivan's Herbs Ivan Chai 2gr**
 
 - Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de _herbruikbare_ tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard van dit product kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
 
