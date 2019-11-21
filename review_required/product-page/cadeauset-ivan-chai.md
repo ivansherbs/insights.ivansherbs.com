@@ -41,7 +41,7 @@ Price
 
 -------------------------------------------------------------
 
-**De bestelling bevat - 100 gram**
+**De bestelling bevat - Ivan Chai 100 gram**
 * 1 tube met 50 gram
 * 1 zakje met 50 gram 
 
@@ -175,7 +175,7 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 Dropdown menu >>> (  **Opslag**  )
 
-**Hoe bewaart u Ivan's Herbs Ivan Chai 2gram?**
+**Hoe bewaart u Ivan's Herbs Ivan Chai 2 gram?**
 
 - Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de _herbruikbare_ tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard van dit product kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
 
