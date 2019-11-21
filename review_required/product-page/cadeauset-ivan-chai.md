@@ -3,7 +3,7 @@
 
 
 
-Picture Tubes 
+Picture Tubes (current)
 
 
 
@@ -62,7 +62,7 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwar
 
 -------------------------------------------------------------
 
-Dropdown menu >>> (  **Bereidingswijze Ivan Chai**  )
+Dropdown menu >>> (  **Bereidingswijze**  )
 
 
 _Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden gericht op gezondheidsproblemen. Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen._
@@ -82,7 +82,7 @@ Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit
 
 -------------------------------------------------------------
 
-Dropdown menu >>> (  **Dosering en behandelingskuur Ivan Chai**  )
+Dropdown menu >>> (  **Dosering en behandelingskuur**  )
 
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
@@ -113,9 +113,8 @@ Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17
 
 -------------------------------------------------------------
 
-Dropdown menu >>> (  **Gebruik Ivan Chai**  )
+Dropdown menu >>> (  **Voorzorgsmaatregelen**  )
 
-## Voorzorgsmaatregelen
 
 Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met farmaceutische medicijnen.
 
@@ -174,7 +173,7 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 -------------------------------------------------------------
 
-Dropdown menu >>> (  **Opslag Ivan Chai**  )
+Dropdown menu >>> (  **Opslag**  )
 
 ## Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?
 
