@@ -15,7 +15,7 @@ Picture Tubes (current)
 Inhoud: 100gr Siberische kruidenthee<br><br>
 
 **7 gezondheidsvoordelen**<br>
-Onze Siberische kruiden bieden de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen. De bewezen voordelen zijn:
+Onze Siberische kruidenthee biedt de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen. De bewezen voordelen zijn:
 
 * Versterkt de weerstand
 * Krachtige ontstekingsremmer
