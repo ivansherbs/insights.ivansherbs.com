@@ -37,20 +37,19 @@ Price
 
 -------------------------------------------------------------
 
-
+( NOTE FOR GABRIEL: use the same copy 'De oorsprong en verwerking van Ivan Chai'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/op2BjUHk06s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -------------------------------------------------------------
 
-**De bestelling bevat - Ivan Chai 100gr**
-* 1 tube met 50gr
-* 1 zakje met 50gr
+Ivan Chai is van _nature vrij_ van:
 
-Volgens onze aanbeveling van 2gr per kop zijn dat 50 koppen Siberische kruidenthee.
-
-_Alle verpakkingen zijn 100% recyclebaar._
-
+* _Cafeïne_
+* _Aroma's_
+* _Urinezuur_
+* _Oxaalzuur_
+* _L-theanine_
 
 -------------------------------------------------------------
 
@@ -150,14 +149,6 @@ Tot op vandaag zijn de volgende symptomen, in tegenstelling tot _farmaceutische_
 **Contra-indicaties en waarschuwingen**
 
 Ivan Chai is een extreem veilige soort (klassen) kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen en is veilig voor kinderen.
-
-Het is van _nature vrij_ van:
-
-* _Cafeïne_
-* _Aroma's_
-* _Urinezuur_
-* _Oxaalzuur_
-* _L-theanine_
 
 **Zwangerschap, borstvoeding & vruchtbaarheid**
 
