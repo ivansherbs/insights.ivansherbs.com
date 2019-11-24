@@ -1,4 +1,4 @@
- - DO NOT USE - DONT DELETE 
+ - DO NOT USE - DO NOT DELETE 
 
 # Bereidingswijze Ivan Chai 
 
