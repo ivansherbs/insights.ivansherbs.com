@@ -12,7 +12,7 @@ Picture Tubes (current)
 -------------------------------------------------------------
 
 **Ivan Chai** <br>
-Inhoud: 50 koppen Siberische kruidenthee<br><br>
+Inhoud: 100gr Siberische kruidenthee<br><br>
 
 **7 gezondheidsvoordelen**<br>
 Onze Siberische kruiden bieden de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen. De bewezen voordelen zijn:
