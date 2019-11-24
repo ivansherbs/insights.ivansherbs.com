@@ -10,7 +10,7 @@ _Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige re
 
 Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt ook wel de Latijnse benaming Epilobium Angustifolium. 
 
-## Bereidingswijze medicijn
+## Bereidingswijze
 
 Totale tijd: **7 min**
 
