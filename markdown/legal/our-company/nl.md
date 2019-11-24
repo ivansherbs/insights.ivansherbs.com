@@ -1,4 +1,4 @@
-# De natuurlijke oplossing
+# Onze Siberische kruiden bieden de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen.
 
 <!-- IMAGE: https://cdn.shopify.com/s/files/1/0104/9385/3743/files/Default_logo_without_tagline-01_480x480.png?v=1568964750 -->
 
