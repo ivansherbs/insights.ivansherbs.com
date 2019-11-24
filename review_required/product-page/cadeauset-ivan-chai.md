@@ -12,7 +12,7 @@ Picture Tubes (current)
 -------------------------------------------------------------
 
 **Ivan Chai - 7 gezondheidsvoordelen** <br>
-Inhoud: 100 gram <br><br>
+Inhoud: 100gr <br><br>
 Onze Siberische kruiden bieden de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen. De bewezen voordelen zijn:
 
 1. Versterkt de weerstand
@@ -43,11 +43,11 @@ Price
 
 -------------------------------------------------------------
 
-**De bestelling bevat - Ivan Chai 100 gram**
-* 1 tube met 50 gram
-* 1 zakje met 50 gram 
+**De bestelling bevat - Ivan Chai 100gr**
+* 1 tube met 50gr
+* 1 zakje met 50gr
 
-Volgens onze aanbeveling van 2 gram per kop zijn dat 50 koppen Siberische kruidenthee.
+Volgens onze aanbeveling van 2gr per kop zijn dat 50 koppen Siberische kruidenthee.
 
 _Alle verpakkingen zijn 100% recyclebaar._
 
@@ -175,10 +175,10 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 -------------------------------------------------------------
 
-Dropdown menu >>> (  **Opslag**  )
+Dropdown menu >>> (  **Bewaartips**  )
 
-**Hoe bewaart u Ivan's Herbs Ivan Chai 2 gram?**
+**Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?**
 
-- Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de _herbruikbare_ tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard van dit product kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
+- Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de _herbruikbare_ tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard in combinatie met de huidige wet en regelgeving van dit product, kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
 
 Wanneer het medicijn op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen eventueel het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee.
