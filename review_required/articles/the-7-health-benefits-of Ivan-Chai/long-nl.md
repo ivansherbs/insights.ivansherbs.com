@@ -174,7 +174,8 @@ Picture Tubes (current)
 
 -------------------------------------------------------------
 
-Ivan Chai - Cadeauset
+Ivan Chai - 7 gezondheidsvoordelen
+Inhoud: 100gr
 
 Price
 
