@@ -43,6 +43,8 @@ Price
 
 -------------------------------------------------------------
 
+* Duurzaam productieproces 
+
 Ivan Chai is van _nature vrij_ van:
 
 * _Cafeïne_
@@ -50,6 +52,9 @@ Ivan Chai is van _nature vrij_ van:
 * _Urinezuur_
 * _Oxaalzuur_
 * _L-theanine_
+
+Onderschreven door: 
+* European Medicines Agency(EMA)
 
 -------------------------------------------------------------
 
