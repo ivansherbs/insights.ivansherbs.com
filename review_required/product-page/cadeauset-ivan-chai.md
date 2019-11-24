@@ -23,6 +23,8 @@ Onze Siberische kruiden bieden de natuurlijke oplossing als alternatief op farma
 6. Verzorgt het spijsverteringsstelsel
 7. Vermindert de kans op diabetes
 
+De voordelen worden door het European Medicines Agency(EMA) onderschreven.
+
 -------------------------------------------------------------
 
 
@@ -73,7 +75,7 @@ _Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige re
 
 Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt ook wel de Latijnse benaming Epilobium Angustifolium. 
 
-**Bereidingswijze medicijn**
+**Bereidingswijze**
 
 Totale tijd: **7 min**
 
