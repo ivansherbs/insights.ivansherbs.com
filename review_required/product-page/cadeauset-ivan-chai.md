@@ -25,7 +25,7 @@ Onze Siberische kruiden bieden de natuurlijke oplossing als alternatief op farma
 * Verzorgt het spijsverteringsstelsel
 * Vermindert de kans op diabetes
 
-De voordelen worden door het European Medicines Agency(EMA) onderschreven.
+De voordelen worden door het European Medicines Agency (EMA) onderschreven.
 
 -------------------------------------------------------------
 
