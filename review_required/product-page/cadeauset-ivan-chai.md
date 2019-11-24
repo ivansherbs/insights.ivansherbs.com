@@ -15,13 +15,13 @@ Picture Tubes (current)
 Inhoud: 100gr <br><br>
 Onze Siberische kruiden bieden de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen. De bewezen voordelen zijn:
 
-1. Versterkt de weerstand
-2. Krachtige ontstekingsremmer
-3. Verbetert de slaap en vermindert angst, stress en burnout klachten
-4. Antioxiderede werking en versterkt de anti-tumoractiviteit
-5. Verzorgt de gezondheid van prostaat en urinewegen
-6. Verzorgt het spijsverteringsstelsel
-7. Vermindert de kans op diabetes
+* Versterkt de weerstand
+* Krachtige ontstekingsremmer
+* Verbetert de slaap en vermindert angst, stress en burnout klachten
+* Antioxiderede werking en versterkt de anti-tumoractiviteit
+* Verzorgt de gezondheid van prostaat en urinewegen
+* Verzorgt het spijsverteringsstelsel
+* Vermindert de kans op diabetes
 
 De voordelen worden door het European Medicines Agency(EMA) onderschreven.
 
