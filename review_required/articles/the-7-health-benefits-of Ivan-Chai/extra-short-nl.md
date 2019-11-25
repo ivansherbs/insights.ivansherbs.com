@@ -11,6 +11,7 @@
 7.  Vermindert de kans op diabetes 
 
 Ivan Chai is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen.
+
 <br>
 
 **1) Ivan Chai versterkt de weerstand**
