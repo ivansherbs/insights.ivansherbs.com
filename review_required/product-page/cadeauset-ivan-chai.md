@@ -14,8 +14,9 @@ Picture Tubes (current)
 **Ivan Chai** <br>
 Inhoud: 100gr Siberische kruidenthee<br><br>
 
+
 **7 gezondheidsvoordelen**<br>
-Onze Siberische kruidenthee is de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen. De bewezen voordelen zijn:
+Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. De bewezen voordelen zijn:
 
 * Versterkt de weerstand
 * Krachtige ontstekingsremmer
