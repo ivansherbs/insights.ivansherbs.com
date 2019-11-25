@@ -74,7 +74,7 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwar
 Dropdown menu >>> (  **Bereidingswijze**  )
 
 
-_Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden gericht op gezondheidsproblemen. Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen._
+_Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden gericht op gezondheidsproblemen. Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand._
 
 **Ingrediënten**
 
