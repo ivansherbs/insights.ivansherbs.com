@@ -1,6 +1,6 @@
 # De 7 gezondheidsvoordelen van Ivan Chai
 
-_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen. Ivan’s Herbs heeft als missie om op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden te bieden voor jouw gezondheidsproblemen. Het informeren en onderwijzen van de voordelen van Ivan Chai is gebaseerd op hedendaagse artikelen en voelt als een tweede natuur voor ons._
+_Ivan Chai is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen gericht op 17 gezondheidsproblemen. Ivan’s Herbs heeft als missie om op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden te bieden voor jouw gezondheidsproblemen. Het informeren en onderwijzen van de voordelen van Ivan Chai is gebaseerd op hedendaagse artikelen en voelt als een tweede natuur voor ons._
 
 Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 
