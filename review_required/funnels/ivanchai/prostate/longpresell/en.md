@@ -52,20 +52,8 @@ The EMA has claimed that ‘due to the widespread traditional medicinal use for 
 
 In the 16th century, Russian monks were forbidden to drink coffee or tea because caffeine was believed by the Russian federal government to cause "intoxication". The monks, seeking alternative beverages, harvested herbs from wild fields and produced their own herbal infusions. The monks noticed that fireweed produced a fragrant floral infusion that had a noticeable effect on their mental state and overall health. The herbal infusion soon became immensely popular with Russians and Europeans alike.
 
-The term "Ivan Chai" was given to the herbal infusion by the foreigners who still enjoyed it in England and other European countries. Its popularity in England grew so drastically that by the end of the 19th century it was most likely noticed as a small threat to the Dutch East India Company. Rumours were supposedly spread that the Russians were poisoning Ivan Chai with white clay.
+The term "**Ivan Chai**" was given to the herbal infusion by the foreigners who still enjoyed it in England and other European countries. Its popularity in England grew so drastically that by the end of the 19th century it was most likely noticed as a small threat to the Dutch East India Company. Rumours were supposedly spread that the Russians were poisoning Ivan Chai with white clay.
 
 In the aftermath of the Russian Revolution of 1917, commercial production ceased and the consumption of Ivan Chai had practically fell to zero for Russia and the rest of Europe. Even in Russia, this beneficial herbal infusion remains somewhat unknown and is slowly making a revival.
 
 (Button) **Discover More**
-
-You'll also get direct access to all the scientific evidence and references.
-
-## References
-
-1 - EMA publication
-2 - Sciencedirect publication
-3 - Wiley online library publication
-4 - Wiley online library publication
-5 - Dovepress publication
-6 - Pubmed publication
-7 - Pubmed publication
