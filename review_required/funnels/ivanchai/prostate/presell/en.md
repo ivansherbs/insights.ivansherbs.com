@@ -14,6 +14,6 @@ The European Medicines Agency has approved fireweed herbal tea as a treatment to
 Our mission is to provide **evidence-based**, effective, and simple to understand herbal recipes for your specific health issues.  
 
 ## Evidence-based herbal herbal recipes
-(BUTTON) **Learn More**
+(BUTTON) **Discover More**
 
 How does Ivan Chai taste like? A bit like black tea, but more earthy, and naturally sweet. 
