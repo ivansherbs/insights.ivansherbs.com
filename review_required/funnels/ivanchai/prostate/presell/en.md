@@ -15,5 +15,3 @@ Our mission is to provide **evidence-based**, effective, and simple to understan
 
 ## Evidence-based herbal herbal recipes
 (BUTTON) **Discover More**
-
-How does Ivan Chai taste like? A bit like black tea, but more earthy, and naturally sweet. 
