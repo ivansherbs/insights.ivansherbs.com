@@ -46,7 +46,7 @@ It’s naturally **free of caffeine**, uric acid, oxalic acid, and L-theanine.
 
 It's always advised to consult your health professional and do your own research before starting any treatment to avoid interactions.
 
-The EMA has claimed that ‘due to the widespread traditional medicinal use for more than 30 years the safety of *Epilobium angustifolium*… can be assumed' (1).
+The EMA has claimed that ‘due to the widespread traditional **medicinal use for more than 30 years** the safety of *Epilobium angustifolium*… can be assumed' (1).
 
 ## Cultural History of Fireweed as Ivan Chai
 
