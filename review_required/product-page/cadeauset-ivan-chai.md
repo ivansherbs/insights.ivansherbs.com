@@ -120,11 +120,9 @@ Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17
 16. Maagklachten
 17. Darmklachten
 
-
 -------------------------------------------------------------
 
 Accordion menu >>> (  **Voorzorgsmaatregelen**  )
-
 
 Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met farmaceutische medicijnen.
 
@@ -171,7 +169,6 @@ Farmaceutische medicijnen kunnen namelijk wél de vruchtbaarheid negatief beïnv
 **Rijvaardigheid**
 
 In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking die duizeligheid kan veroorzaken en daarmee de rijvaardigheid kan beïnvloeden. 
-
 
 -------------------------------------------------------------
 
