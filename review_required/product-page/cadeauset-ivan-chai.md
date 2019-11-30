@@ -76,7 +76,7 @@ Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines
 
 Totale tijd: **7 min**
 
-Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit kruideninfuus **7** minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **70** graden Celsius. 
+Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit kruideninfuus rond de **7** minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **70** graden Celsius. 
 
 
 -------------------------------------------------------------
