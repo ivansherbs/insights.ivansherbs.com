@@ -26,8 +26,6 @@ Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of altern
 * Verzorgt het spijsverteringsstelsel
 * Vermindert de kans op diabetes
 
-De voordelen worden door het European Medicines Agency (EMA) onderschreven.
-
 -------------------------------------------------------------
 
 
