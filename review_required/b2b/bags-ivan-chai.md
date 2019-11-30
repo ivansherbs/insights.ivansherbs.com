@@ -29,7 +29,7 @@ Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of altern
 * Verzorgt het spijsverteringsstelsel
 * Vermindert de kans op diabetes
 
-De voordelen zijn gebaseerd op hedendaagse artikelen.
+De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door verschillende onafhankelijke instituten; waaronder het European Medicine Agency (EMA).
 
 Ivan Chai is van _nature vrij_ van:
 
