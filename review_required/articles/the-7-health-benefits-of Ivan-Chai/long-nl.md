@@ -95,7 +95,7 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 * In Nederland leven naar schatting 670.000 vrouwen met een hart- of vaatziekten.
 * Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte ([17.0](https://www.alzheimer-nederland.nl/dementie),[17.1](https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten%20)).
 
-Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([17.2](https://checkyourheart.nl)).
+Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([17.2](https://checkyourheart.nl)). Het wordt aangeraden om preventief uw hart te laten controleren bij Cardiologen of gespecialiceerd analisten. 
 
 **_Ivan Chai versterkt de anti-tumoractiviteit en heeft een antioxiderede werking:_**
 
