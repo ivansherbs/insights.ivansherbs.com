@@ -1,4 +1,4 @@
-## Verzorg dagelijks je lichaam en geest met kruiden uit Siberië. 
+## Verzorg dagelijks lichaam en geest met kruiden uit Siberië. 
 
 Gebruik Ivan Chai als _preventieve_ behandeling tegen 17 gezondheidsproblemen.
 
