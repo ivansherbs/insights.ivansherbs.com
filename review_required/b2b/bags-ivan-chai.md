@@ -39,8 +39,6 @@ Ivan Chai is van _nature vrij_ van:
 * _Oxaalzuur_
 * _L-theanine_
 
-* Duurzaam productieproces 
-
 -------------------------------------------------------------
 
 Accordion menu >>> (  **Tegen 17 gezondheidsproblemen**  )
