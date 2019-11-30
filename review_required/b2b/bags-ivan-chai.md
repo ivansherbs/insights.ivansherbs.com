@@ -2,9 +2,7 @@
 
 Minimale afname Ivan Chai: 2kg
 
-
 -(Button Aan winkelwagen toevoegen)-
-
 
 -------------------------------------------------------------
 
@@ -12,12 +10,14 @@ Minimale afname Ivan Chai: 2kg
 Prijslijst per kilo:
 
 * 
-
+* 
+* 
+* 
+* 
 
 -------------------------------------------------------------
 
 Accordion menu >>> (  **7 gezondheidsvoordelen**  )
-
 
 Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. De bewezen voordelen zijn:
 
