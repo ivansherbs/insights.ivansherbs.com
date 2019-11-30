@@ -7,7 +7,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 1.  Versterkt de weerstand 
 2.  Krachtige ontstekingsremmer
 3.  Verbetert de slaap en vermindert angst, stress en burnout klachten
-4.  Antioxiderede werking en versterkt de anti-tumoractiviteit
+4.  Versterkt de anti-tumoractiviteit en antioxiderede werking 
 5.  Verzorgt de gezondheid van prostaat en urinewegen
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes en depressie
@@ -82,18 +82,20 @@ Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten
 
 <br>
 
-## 4) Antioxiderede werking en versterkt anti-tumoractiviteit
+## 4) Versterkt anti-tumoractiviteit en antioxiderede werking
+
+### 4.2 Prostaatkanker
+
+Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([16](https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie%20))
 
 ### 4.1 Hart- en vaatziekten
 
 * Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 * 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
 * In Nederland leven naar schatting 670.000 vrouwen met een hart- of vaatziekten.
-* Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte ([16.0](https://www.alzheimer-nederland.nl/dementie),[16.1](https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten%20)).
+* Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte ([17.0](https://www.alzheimer-nederland.nl/dementie),[17.1](https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten%20)).
 
-### 4.2 Prostaatkanker
-
-Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([17](https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie%20))
+Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([17.2](https://checkyourheart.nl)).
 
 **_Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit:_**
 
