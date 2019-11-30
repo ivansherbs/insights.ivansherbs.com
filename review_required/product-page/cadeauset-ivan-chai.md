@@ -55,9 +55,6 @@ Ivan Chai is van _nature vrij_ van:
 * _Oxaalzuur_
 * _L-theanine_
 
-Onderschreven door: 
-* European Medicines Agency(EMA)
-
 -------------------------------------------------------------
 
 **Smaak beoordeling** <br>
