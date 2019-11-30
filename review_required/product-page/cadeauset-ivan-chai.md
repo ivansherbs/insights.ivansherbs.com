@@ -21,7 +21,7 @@ Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of altern
 * Versterkt de weerstand
 * Krachtige ontstekingsremmer
 * Verbetert de slaap en vermindert angst, stress en burnout klachten
-* Antioxiderede werking en versterkt de anti-tumoractiviteit
+* Versterkt de anti-tumoractiviteit en heeft een antioxiderede werking
 * Verzorgt de gezondheid van prostaat en urinewegen
 * Verzorgt het spijsverteringsstelsel
 * Vermindert de kans op diabetes
