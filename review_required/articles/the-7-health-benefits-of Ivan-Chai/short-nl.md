@@ -5,7 +5,7 @@
 1.  Versterkt de weerstand
 2.  Krachtige ontstekingsremmer
 3.  Verbetert de slaap en vermindert angst, stress en burnout klachten
-4.  Antioxiderede werking en versterkt de anti-tumoractiviteit
+4.  Versterkt de anti-tumoractiviteit en heeft een antioxiderede werking
 5.  Verzorgt de gezondheid van prostaat en urinewegen
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes
@@ -49,7 +49,7 @@ _**Ivan Chai helpt tegen:**_
 
 <br>
 
-## 4) Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit:
+## 4) Ivan Chai versterkt de anti-tumoractiviteit en heeft een antioxiderede werking:
 
 Ivan Chai zit boordevol polyfenolen. Polyfenolen fungeren als de chemische verbindingen die verantwoordelijk is voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel. Een van de verbindingen die vergelijkbaar is met Polyfenolen, genaamd Oenotheïne B, bleek volgens onderzoek anti-tumoractiviteit te hebben ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Het antitumor effect is  goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)).
 
