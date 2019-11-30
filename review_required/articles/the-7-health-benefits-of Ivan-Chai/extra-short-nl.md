@@ -5,7 +5,7 @@
 1.  Versterkt de weerstand
 2.  Krachtige ontstekingsremmer
 3.  Verbetert de slaap en vermindert angst, stress en burnout klachten
-4.  Antioxiderede werking en versterkt de anti-tumoractiviteit
+4.  Versterkt de anti-tumoractiviteit en heeft een antioxiderede werking
 5.  Verzorgt de gezondheid van prostaat en urinewegen
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes 
@@ -44,7 +44,7 @@ _Ivan Chai helpt tegen:_
 
 <br>
 
-**4) Ivan Chai heeft een antioxiderede werking en versterkt de anti-tumoractiviteit**
+**4) Ivan Chai versterkt de anti-tumoractiviteit en heeft een antioxiderede werking**
 
 _Ivan Chai biedt bescherming tegen:_
 * Hart- en vaatziekten
