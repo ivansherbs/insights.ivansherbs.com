@@ -16,7 +16,8 @@ Prijslijst:
 
 -------------------------------------------------------------
 
-**7 gezondheidsvoordelen**<br>
+Accordion menu >>> (  **7 gezondheidsvoordelen**  )
+<br>
 Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. De bewezen voordelen zijn:
 
 * Versterkt de weerstand
@@ -45,7 +46,8 @@ Onderschreven door:
 
 -------------------------------------------------------------
 
-**Smaak beoordeling** <br>
+Accordion menu >>> (  **Smaak beoordeling**  )
+<br>
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
 -------------------------------------------------------------
