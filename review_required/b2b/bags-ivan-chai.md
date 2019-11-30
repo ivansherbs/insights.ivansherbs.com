@@ -9,7 +9,7 @@ Minimale afname Ivan Chai: 2kg
 -------------------------------------------------------------
 
 **Ivan Chai** <br>
-Prijslijst:
+Prijslijst per kilo:
 
 * 
 
