@@ -1,4 +1,5 @@
- - DO NOT USE - DO NOT DELETE 
+ - DO NOT USE - DO NOT DELETE
+(Parts are used for product page)
 
 # Bereidingswijze Ivan Chai 
 
