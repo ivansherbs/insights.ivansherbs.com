@@ -23,7 +23,7 @@ Prepared as an infusion, 1.5 - 4.5g of dried lemon balm prepared in at least 150
 
 ### Anxiety (collapsible -opening triggers Audience capture event)
 ### Cognitive function and memory (collapsible -opening triggers Audience capture event)
-### Alzheimer's disease and dementia (collapsible -opening triggers Audience capture event)
+### Alzheimer's dementia (collapsible -opening triggers Audience capture event)
 A randomized, double-blind, placebo-controlled trial showed the effectiveness and safety of lemon balm in 42 patients with moderate Alzheimers over 16 weeks. By week 4, the difference between the placebo and lemon balm was statistically significant. By week 16, the difference was highly significant. By week 8, the difference was significant on the clinical dementia rating scale and also highly signficant by week 16 [1](https://www.ncbi.nlm.nih.gov/pubmed/12810768).
 
 ### Insomnia (collapsible -opening triggers Audience capture event)
