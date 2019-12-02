@@ -1,14 +1,14 @@
 ## Moderne kruidengeneeskunde
 
-_In de hedendaagse samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken door de vele bijwerkingen die kunnen optreden. De vraag naar vergelijkbare of alternatieven op deze farmaceutische medicijnen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dienen de vergelijkbare dan wel alternatieve op farmaceutische medicijnen beter te worden geïntroduceerd om als preventieve behandeling te kunnen worden gebruikt._
+_In de hedendaagse samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken door de vele bijwerkingen die kunnen optreden. De vraag naar vergelijkbare of alternatieve geneesmiddelen op deze farmaceutische medicijnen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dienen deze natuurlijke oplossingen beter te worden geïntroduceerd om als preventieve behandeling te kunnen worden gebruikt._
 
 
 **Community building** <br>
-Een gesprek tussen twee specialisten uit twee verschillende disciplines vindt plaats. Wat typerend is voor deze vakgebieden is dat community building, in de vorm van verschillende programma's dan wel denkwijze, centraal staat. De vraag naar kennis om het publiek beter te informeren over het gebruik van traditionele kruidenkunde komt vanuit de kant van de moderne geneeskunde. De weergave vindt plaats in de vorm van een interview met een conventioneel arts en een herborist. Beide werkzaam bij onafhankelijke instituten gericht op het welzijn van de mens. Hieronder een samenvatting van de besproken onderwerpen tussen de directeur hartchirurgie en pediatrie bij UVAhealth en de directeur van de Northeast School of Botanical Medicine. 
+Een gesprek tussen twee specialisten uit verschillende disciplines vindt plaats. Wat typerend is voor deze vakgebieden is dat community building, in de vorm van verschillende programma's, omgangsvormen dan wel denkwijze, centraal staat. De vraag naar kennis om het publiek beter te informeren over het gebruik van traditionele kruidenkunde komt vanuit de kant van de moderne geneeskunde. De weergave vindt plaats in de vorm van een interview met een conventioneel arts en een herborist. Beide werkzaam bij onafhankelijke instituten gericht op het welzijn van de mens. Hieronder een samenvatting van de besproken onderwerpen tussen de directeur hartchirurgie en pediatrie bij UVAhealth en de directeur van de Northeast School of Botanical Medicine. 
 
 
 **Arts en herborist** <br>
-Het werk van een klinisch herborist is vergelijkbaar met dat van de meeste artsen. Het doel is om mensen te helpen en te behandelen. '_Ik waardeer moderne geneeskunde en heb het gevoel dat de integratie van kruiden- en conventionele medicijnen voordelen biedt voor patiënten en artsen._' aldus de directeur van de Northeast School of Botanical Medicine. Het primaire verschil tussen de twee ligt in de behandeling van de kwaal of het gezondheidsprobleem. De klinische behandelmethode van een herborist is over het algemeen minder gespecialiseerd op één specifiek gebied. Waar een conventionele arts een patiënt doorverwijst naar een medisch specialist, is een herborist meer geneigd om een breed scala aan vragen te stellen om een holistisch perspectief van de patiënt te verkrijgen om hun probleem te behandelen.
+Het werk van een klinisch herborist is vergelijkbaar met dat van de meeste artsen. Het doel is om mensen te helpen en te behandelen. '_Ik waardeer moderne geneeskunde en heb het gevoel dat de integratie van kruiden- en conventionele medicijnen voordelen biedt voor patiënten en artsen._' aldus de directeur van de Northeast School of Botanical Medicine. Het primaire verschil tussen de twee ligt in de behandeling van de kwaal of het gezondheidsprobleem. De klinische behandelmethode van een herborist is over het algemeen minder gespecialiseerd op één specifiek gebied. Waar een conventionele arts een patiënt doorverwijst naar een medisch specialist, is een herborist meer geneigd om een breed scala aan vragen te stellen om een holistisch perspectief van de patiënt te verkrijgen om hun gezondheidsprobleem te behandelen.
 
 
 **Acceptatie**  <br>
@@ -22,8 +22,10 @@ Binnen de gezondheidszorg is het handig om opties te hebben. Kruidengeneeskunde 
 **Advies**  <br>
 Kruidengeneeskunde omvat de veelomvattende disciplines wetenschap als geschiedenis. Hoewel kruidengeneeskunde langer bestaat en wordt gebruikt wil het niet zeggen dat het beter is, echter informeert het verleden het heden. Directeur van de Northeast School of Botanical Medicine: _'Ik moedig mensen aan om voorzichtig te zijn met alle soorten medicijnen. Pas het scepticisme ook toe op conventionele geneeskunde. Oefen je scepsis, onderzoek en sta open zoals een goede scepticus is.'_
 
+
 **Over** <br>
 James Gangemi, arts in geneeskunde, werkt bij UVAhealth waarbij hij de rol vervult van directeur hartchirurgie en medisch directeur pediatrie waarbij hij programma's begeleidt gericht op het bieden van levensondersteuning voor kinderen wier hart en longen niet normaal functioneren. Gangemi is tevens werkzaam als 'Associate Professor'. Hij heeft 7Song geïnterviewd. 7Song, herborist, is directeur bij de Northeast School of Botanical Medicine, Ithaca, New York. 7Song bestudeerd planten, mensen en kruidengeneeskunde voor meer dan 20 jaar. James Gangemi heeft 7Song geïnterviewd en hierover een artikel geschreven voor Envision om het publiek te informeren en te onderwijzen. 
+
 
 ## Referentie
 Gangemi, J. Directeur hart chirurgie bij UVAhealth en medisch directeur pediatrie, <br>
