@@ -28,8 +28,6 @@ It's always advised to consult your health professional and do your own research
 
 It's best to **avoid mixing** medication and herbs within **3 hours of each other**, as many combinations have not been tried or tested.
 
-If you're on any medication, stay on it unless otherwise prescribed by your doctor.
-
 ## Contraindications and warnings
 
 Chamomile, lemon balm, calendula, and fireweed have **no known** severe, serious, moderate, or mild **interactions** with other drugs.
@@ -38,7 +36,8 @@ Chamomile, lemon balm, calendula, and fireweed have **no known** severe, serious
 
 **Pregnancy and breastfeeding** Due to chamomile and lemon balm, this recipe should be avoided during pregnancy and breastfeeding.
 
-## Proven effectiveness of menstrual cramps recipe
+
+## Proven effectiveness of Lemon balm for anxiety
 
 Chamomile and mefenamic acid was tested in 90 women over 6 period cycles in a placebo-controlled triple blind study. The results clearly showed that after 2 cycles of treatment, chamomile was effective at reducing the intensity of pain associated with primary dysmenorrhea. This trial study showed chamomile to be more effective than mefenamic acid in treating dysmenorrhea with statistical significance ([Karimian, 2013]).
 
