@@ -37,7 +37,7 @@ Chamomile, lemon balm, calendula, and fireweed have **no known** severe, serious
 **Pregnancy and breastfeeding** Due to chamomile and lemon balm, this recipe should be avoided during pregnancy and breastfeeding.
 
 
-## Proven effectiveness of Lemon balm for anxiety
+## Proven effectiveness 
 
 Chamomile and mefenamic acid was tested in 90 women over 6 period cycles in a placebo-controlled triple blind study. The results clearly showed that after 2 cycles of treatment, chamomile was effective at reducing the intensity of pain associated with primary dysmenorrhea. This trial study showed chamomile to be more effective than mefenamic acid in treating dysmenorrhea with statistical significance ([Karimian, 2013]).
 
