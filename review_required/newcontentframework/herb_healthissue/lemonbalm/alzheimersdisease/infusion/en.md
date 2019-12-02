@@ -1,12 +1,12 @@
-# Lemon balm for Alzheimer's disease
+# Lemon balm infusion for Alzheimer's disease
 
 ## Preparation
 
-To prepare a lemon balm infusion, brew **2 g** (1 teaspoon) in **1 cup** (250 mL) of boiling water (**90°C or higher**) for 5-8 minutes and then strain.
+To prepare a lemon balm infusion, brew **2 g** (1 teaspoon) in **1 cup** (250 mL) of boiling water (**90°C or higher**) for **5-8 minutes** and then strain.
 
 ## Therapeutic dosage and course of treatment
 
-Drink **1 cup** before meals **2 times daily** for **12 days**. The calming effect is felt **within 1 hour**.
+Drink **1 cup** before meals **2 times daily**. Expect improvement in **4-6 weeks**.
 
 ## Precautions
 
