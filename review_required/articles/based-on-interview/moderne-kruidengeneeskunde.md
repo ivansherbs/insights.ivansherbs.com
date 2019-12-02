@@ -1,6 +1,6 @@
 ## Moderne kruidengeneeskunde
 
-_In de hedendaagse samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken door de vele bijwerkingen die kunnen optreden bij gebruik. De vraag naar vergelijkbare of alternatieven op deze farmaceutische medicijnen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dienen de vergelijkbare dan wel alternatieve op farmaceutische medicijnen beter te worden geïntroduceerd om als preventieve behandeling te kunnen worden gebruikt._
+_In de hedendaagse samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken door de vele bijwerkingen die kunnen optreden. De vraag naar vergelijkbare of alternatieven op deze farmaceutische medicijnen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dienen de vergelijkbare dan wel alternatieve op farmaceutische medicijnen beter te worden geïntroduceerd om als preventieve behandeling te kunnen worden gebruikt._
 
 
 **Community Building** <br>
