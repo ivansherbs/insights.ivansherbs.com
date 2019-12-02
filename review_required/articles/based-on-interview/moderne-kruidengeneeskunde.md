@@ -4,7 +4,7 @@ _In de hedendaagse samenleving wordt het gebruik van conventionele medicijnen in
 
 
 **Community building** <br>
-Een gesprek tussen twee specialisten uit verschillende disciplines vindt plaats. Wat typerend is voor deze vakgebieden is dat community building, in de vorm van verschillende programma's, omgangsvormen dan wel denkwijze, centraal staat. De vraag naar kennis om het publiek beter te informeren over het gebruik van traditionele kruidenkunde komt vanuit de kant van de moderne geneeskunde. De weergave vindt plaats in de vorm van een interview met een conventioneel arts en een herborist. Beide werkzaam bij onafhankelijke instituten gericht op het welzijn van de mens. Hieronder een samenvatting van de besproken onderwerpen tussen de directeur hartchirurgie en pediatrie bij UVAhealth en de directeur van de Northeast School of Botanical Medicine. 
+Een gesprek tussen twee specialisten uit verschillende disciplines vindt plaats. Wat typerend is voor deze vakgebieden is dat community building, in de vorm van verschillende lokale samenwerkingsverbanden, omgangsvormen dan wel denkwijze, centraal staat. De vraag naar kennis om het publiek beter te informeren over het gebruik van traditionele kruidenkunde komt vanuit de kant van de moderne geneeskunde. De weergave vindt plaats in de vorm van een interview met een conventioneel arts en een herborist. Beide werkzaam bij onafhankelijke instituten gericht op het welzijn van de mens. Hieronder een samenvatting van de besproken onderwerpen tussen de directeur hartchirurgie en pediatrie bij UVAhealth en de directeur van de Northeast School of Botanical Medicine. 
 
 
 **Arts en herborist** <br>
