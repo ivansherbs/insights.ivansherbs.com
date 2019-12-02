@@ -1,4 +1,4 @@
-# Lemon balm for anxiety
+# Lemon balm infusions for anxiety
 
 ## Preparation
 
