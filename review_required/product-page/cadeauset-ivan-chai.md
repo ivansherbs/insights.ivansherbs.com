@@ -8,7 +8,7 @@ Inhoud: 100gr Siberische kruidenthee<br><br>
 
 
 **7 gezondheidsvoordelen**<br>
-Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. De bewezen voordelen zijn:
+Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. De voordelen zijn:
 
 * Versterkt de weerstand
 * Krachtige ontstekingsremmer
@@ -18,7 +18,7 @@ Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of altern
 * Verzorgt het spijsverteringsstelsel
 * Vermindert de kans op diabetes
 
-De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door verschillende onafhankelijke instituten; waaronder het European Medicine Agency (EMA).
+De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door verschillende onafhankelijke instituten.
 
 -------------------------------------------------------------
 
