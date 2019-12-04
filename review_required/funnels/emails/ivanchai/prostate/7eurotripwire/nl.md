@@ -1,4 +1,4 @@
-## Verzorg de gezondheid <br> van uw prostaat
+## Verzorg uw prostaat
 
 Ontvang voor €7 nu uw proefpakket Ivan Chai 
 
@@ -7,3 +7,4 @@ Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige rec
 Klik hieronder om uw proefversie te krijgen.
 
 [link]
+
