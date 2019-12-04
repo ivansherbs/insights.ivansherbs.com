@@ -217,13 +217,13 @@ De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door 
 
 [12] Velder, M.L. Thee & Kruiden Expert - ‘t Zonnetje - 2017\. _https://www.koffietheeenkruiden.nl_
 
-[13]: Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
+[13] Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
 
-[14]: Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
+[14] Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
 https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub
 
-[15]: Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs, Their Components and Gut Microbiota Metabolites of Epilobium Ellagitannins, Urolithins, Inhibit Hormone‐Dependent Prostate Cancer Cells‐(LNCaP) Proliferation and PSA Secretion - Stolarczyk - 2013 - Phytotherapy Research - Wiley Online Library.” Phytotherapy Research, John Wiley & Sons, Ltd, 25 Feb. 2013,
+[15] Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs, Their Components and Gut Microbiota Metabolites of Epilobium Ellagitannins, Urolithins, Inhibit Hormone‐Dependent Prostate Cancer Cells‐(LNCaP) Proliferation and PSA Secretion - Stolarczyk - 2013 - Phytotherapy Research - Wiley Online Library.” Phytotherapy Research, John Wiley & Sons, Ltd, 25 Feb. 2013,
 https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941
 
-[16]: Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs Induce Apoptosis in Human Hormone‐Dependent Prostate Cancer Cells by Activating the Mitochondrial Pathway - Stolarczyk - 2013 - Journal of Pharmacy and Pharmacology - Wiley Online Library.” Journal of Pharmacy and Pharmacology, John Wiley & Sons, Ltd (10.1111), 21 Apr. 2013,
+[16] Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs Induce Apoptosis in Human Hormone‐Dependent Prostate Cancer Cells by Activating the Mitochondrial Pathway - Stolarczyk - 2013 - Journal of Pharmacy and Pharmacology - Wiley Online Library.” Journal of Pharmacy and Pharmacology, John Wiley & Sons, Ltd (10.1111), 21 Apr. 2013,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063
