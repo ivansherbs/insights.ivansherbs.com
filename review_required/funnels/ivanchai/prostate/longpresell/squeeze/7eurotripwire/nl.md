@@ -4,7 +4,8 @@ Schrijf je nu in om toegang te krijgen tot uw sample Ivan Chai t.w.v. €7, bewe
 
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
-Je ontvangt 25 koppen Siberische kruidenthee. **Gratis** verzending binnen Nederland.
+Je ontvangt 25 koppen Siberische kruidenthee. <br> 
+**Gratis** verzending binnen Nederland.
 
 (email field)
 
