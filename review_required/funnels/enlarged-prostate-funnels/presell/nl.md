@@ -1,4 +1,4 @@
-## Bewezen effectiviteit: Verzorg uw prostaat
+## Bewezen effectiviteit: Verzorgt de prostaat
 
 _Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt in onderzoeken de Latijnse benaming Epilobium Angustifolium. Het EMA stelt dat vanwege het wijd verspreide traditionele medicinale gebruik Epilobium Angustifolium gedurende 30 jaar voor veilig kan worden aangenomen ([1])._
 
