@@ -164,7 +164,7 @@ Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van 
 
 * Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: 
 
-_'Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak'_ ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). 
+_"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak"_ ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). 
 
 Dit maakt het toevoegen van suiker overbodig. Kinderen worden onrustig van suiker. Geef uw kinderen Ivan Chai zonder suiker en verminder de kans op diabetes, hoofdpijn en darmklachten ([13](https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/wat-doet-suiker-met-een-kind)).
 <br>
