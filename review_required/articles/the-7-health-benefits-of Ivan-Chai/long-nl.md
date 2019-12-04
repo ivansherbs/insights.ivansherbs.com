@@ -160,7 +160,7 @@ Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van 
 
 **_Ivan Chai heeft van nature een licht zoete smaak:_** 
 
-* Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). Kinderen houden van deze smaak. Dit maakt het toevoegen van suiker overbodig.
+* Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). Dit maakt het toevoegen van suiker overbodig. Kinderen houden van deze smaak.
 
 <br>
 
@@ -193,40 +193,34 @@ De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door 
 
 # Referenties
 
-* European Medicine Agency: _https://www.ema.europa.eu_
+* European Medicine Agency - www.ema.europa.eu
 
 * Velder, M.L. Thee & Kruiden Expert - [‘t Zonnetje - 2017](https://www.koffietheeenkruiden.nl)
 
 * Steursma, R. Thee Expert - My Daily Tea Cup - [Thee recensie Ivan Chai - 21 mei 2019](http://mydailyteacup.nl/theereview-ivans-herbs/)
 
-[1] Battinelli, Lucia, et al. “Antimicrobial Activity of Epilobium Spp. Extracts.” Il Farmaco, vol. 67, no. 6–8, 2001, pp. 356–359., doi:10.1017/s0015–928x(01)01058–3.
+* Battinelli, Lucia, et al. “Antimicrobial Activity of Epilobium Spp. Extracts.” Il Farmaco, vol. 67, no. 6–8, 2001, pp. 356–359.
 
-[2] Borchardt, Joy R., et al. “Antimicrobial Activity of Native and Naturalized Plants of Minnesota and Wisconsin.” African Journal of Pure and Applied Chemistry, Academic Journals, 31 May 2009, academicjournals.org/journal/JMPR/article-abstract/F3DA2A816158.
+* Borchardt, Joy R., et al. “Antimicrobial Activity of Native and Naturalized Plants of Minnesota and Wisconsin.” African Journal of Pure and Applied Chemistry, Academic Journals, 31 May 2009.
 
-[3] Miyamoto, K, et al. “Antitumor Activity of Oenothein B, a Unique Macrocyclic Ellagitannin.” Current Neurology and Neuroscience Reports., U.S. National Library of Medicine, Jan. 110103.
+* Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10
 
-[4] Olga, Kolesova, and Vladimir Poilov. “[PDF] Investigation of the Immunological Effect of Fermented Epilobium Angustifolium Extracts at the Cell Level. | Scinapse | Academic Search Engine for Paper.” Scinapse, Scinapse, 1 Jan. 2017, scinapse.io/papers/26630721021.
+* Olga, Kolesova, and Vladimir Poilov. “[PDF] Investigation of the Immunological Effect of Fermented Epilobium Angustifolium Extracts at the Cell Level. | Scinapse | Academic Search Engine for Paper.” Scinapse, Scinapse, 1 Jan. 2017.
 
-[5] Ostrovska, Halyna, et al. “Epilobium Angustifolium L.: A Medicinal Plant with Therapeutic Properties.” The EuroBiotech Journal, vol. 1, no. 2, 2018, pp. 127–131., doi:10.251100/issn2675–716x/2018/02.03.
+* Ostrovska, Halyna, et al. “Epilobium Angustifolium L.: A Medicinal Plant with Therapeutic Properties.” The EuroBiotech Journal, vol. 1, no. 2, 2018, pp. 127–131.
 
-[6] Rogers, Robert. “Fireweed — a Treasured Medicine of the Boreal Forest.” Discovery Phytomedicine, vol. 1, no. 1, 2015, p. 10., doi:10.16672/phytomedicine.2015.17.
+* Miyamoto, K, et al. “Antitumor Activity of Oenothein B, a Unique Macrocyclic Ellagitannin.” Current Neurology and Neuroscience Reports., U.S. National Library of Medicine, Jan. 110103.
 
-[7] Sayik, Aysema, et al. “DNA- Binding, Biological Activities and Chemical Composition of Wild Growing Epilobium Angustifolium L. Extracts from Canakkale, Turkey.” Journal of the Turkish Chemical Society, Section A: Chemistry, 2018, pp. 911–950., doi:10.196107/jotcsa.31108910.
+* Rogers, Robert. “Fireweed — a Treasured Medicine of the Boreal Forest.” Discovery Phytomedicine, vol. 1, no. 1, 2015, p. 10.
 
-[8] Schepetkin, Igor A., et al. “Therapeutic Potential of Polyphenols from Epilobium Angustifolium (Fireweed).” The Canadian Journal of Chemical Engineering, Wiley-Blackwell, 25 May 2017, onlinelibrary.wiley.com/doi/abs/10.1002/ptr.6759.
+* Sayik, Aysema, et al. “DNA- Binding, Biological Activities and Chemical Composition of Wild Growing Epilobium Angustifolium L. Extracts from Canakkale, Turkey.” Journal of the Turkish Chemical Society, Section A: Chemistry, 2018, pp. 911–950.
 
-[9] Serebryanaya, F. K., and I. I. Posevin. “Morphological and Anatomical Investigations of Chamenerion Angustifolium (L.) Scop .) Growing in the Northern Caucasus Region.” Pharmacy & Pharmacology, vol. 5, no. 2(16), 2017, pp. 810–98., doi:10.110173/2308–10277–2017–5–2(16)-810–98.
+* Schepetkin, Igor A., et al. “Therapeutic Potential of Polyphenols from Epilobium Angustifolium (Fireweed).” The Canadian Journal of Chemical Engineering, Wiley-Blackwell, 25 May 2017.
 
-[10] Wood, Matthew. The Earthwise Herbal: a Complete Guide to New World Medicinal Plants. North Atlantic Books, 20010.
+* Serebryanaya, F. K., and I. I. Posevin. “Morphological and Anatomical Investigations of Chamenerion Angustifolium (L.) Scop .) Growing in the Northern Caucasus Region.” Pharmacy & Pharmacology, vol. 5, no. 2(16), 2017, pp. 810–98.
 
-[13] Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
+* Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs, Their Components and Gut Microbiota Metabolites of Epilobium Ellagitannins, Urolithins, Inhibit Hormone‐Dependent Prostate Cancer Cells‐(LNCaP) Proliferation and PSA Secretion - Stolarczyk - 2013 - Phytotherapy Research - Wiley Online Library.” Phytotherapy Research, John Wiley & Sons, Ltd, 25 Feb. 2013.
 
-[14] Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
-https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub
+* Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs Induce Apoptosis in Human Hormone‐Dependent Prostate Cancer Cells by Activating the Mitochondrial Pathway - Stolarczyk - 2013 - Journal of Pharmacy and Pharmacology - Wiley Online Library.” Journal of Pharmacy and Pharmacology, John Wiley & Sons, Ltd (10.1111), 21 Apr. 2013.
 
-[15] Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs, Their Components and Gut Microbiota Metabolites of Epilobium Ellagitannins, Urolithins, Inhibit Hormone‐Dependent Prostate Cancer Cells‐(LNCaP) Proliferation and PSA Secretion - Stolarczyk - 2013 - Phytotherapy Research - Wiley Online Library.” Phytotherapy Research, John Wiley & Sons, Ltd, 25 Feb. 2013,
-https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941
-
-[16] Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs Induce Apoptosis in Human Hormone‐Dependent Prostate Cancer Cells by Activating the Mitochondrial Pathway - Stolarczyk - 2013 - Journal of Pharmacy and Pharmacology - Wiley Online Library.” Journal of Pharmacy and Pharmacology, John Wiley & Sons, Ltd (10.1111), 21 Apr. 2013,
-https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063
-
+* Wood, Matthew. The Earthwise Herbal: a Complete Guide to New World Medicinal Plants. North Atlantic Books, 20010.
