@@ -8,7 +8,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 2.  Krachtige ontstekingsremmer
 3.  Verbetert de slaap en vermindert angst, stress en burnout klachten
 4.  Versterkt de antioxiderede werking 
-5.  Verzorgt de gezondheid van prostaat
+5.  Verzorgt de gezondheid van de prostaat
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes en depressie
 
@@ -103,7 +103,7 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([17.2]
 
 <br>
 
-## 5) Verzorgt de gezondheid van prostaat 
+## 5) Verzorgt de gezondheid van de prostaat 
 
 ### 5.1 Prostaatontsteking
 
@@ -117,7 +117,7 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([17.2]
 
 Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([17.3](https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie%20))
 
-**_Ivan Chai verzorgt de gezondheid van prostaat:_**
+**_Ivan Chai verzorgt de gezondheid van de prostaat:_**
 
 * De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. **Vrouwen hebben er ook baat bij.** Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie).
 
