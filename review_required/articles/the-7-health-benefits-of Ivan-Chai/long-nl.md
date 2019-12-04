@@ -7,8 +7,8 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 1.  Versterkt de weerstand 
 2.  Krachtige ontstekingsremmer
 3.  Verbetert de slaap en vermindert angst, stress en burnout klachten
-4.  Versterkt de anti-tumoractiviteit en heeft een antioxiderede werking 
-5.  Verzorgt de gezondheid van prostaat en urinewegen
+4.  Versterkt de antioxiderede werking 
+5.  Verzorgt de gezondheid van prostaat
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes en depressie
 
@@ -26,9 +26,13 @@ Iedereen heeft last van schimmels (o.a. oraal, vaginaal en anaal). Een overtoll
 
 Hiernaast zijn de risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot roken, een kunstgebit en diabetes ([13.5](https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond)).
 
+### 1.1.1 Urineweg infectie
+
+80% van de vrouwen krijgt ten minste 1 keer in hun leven een schimmel infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([13.6](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
+
 ### 1.2 Verkoudheid en griep
 
-Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Begin 2018 heeft de langdurige griepepidemie gezorgd voor het hoogste niveau ziekteverzuim van de afgelopen 10 jaar. Met name in de gezondheidszorg met een ziekteverzuimpercentage van 6,5% lag het verzuim aanzienlijk hoger ([13.6](https://www.rtlnieuws.nl/geld-en-werk/artikel/4244466/ziekteverzuim-2018-op-hoogste-niveau-tien-jaar)). Tijdens de wintermaanden heeft het immuunsysteem moeite om zich te verdedigen tegen ziektekiemen. Het gebruik van farmaceutische medicijnen kan van grote invloed zijn op de gevoeligheid voor griep en andere infecties. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden ([13.7](https://mens-en-gezondheid.infonu.nl/ziekten/44867-bescherming-tegen-griep-tips-om-je-immuniteit-te-versterken.html)). De oorzaak wordt hierbij niet aangepakt. 
+Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Begin 2018 heeft de langdurige griepepidemie gezorgd voor het hoogste niveau ziekteverzuim van de afgelopen 10 jaar. Met name in de gezondheidszorg met een ziekteverzuimpercentage van 6,5% lag het verzuim aanzienlijk hoger ([13.7](https://www.rtlnieuws.nl/geld-en-werk/artikel/4244466/ziekteverzuim-2018-op-hoogste-niveau-tien-jaar)). Tijdens de wintermaanden heeft het immuunsysteem moeite om zich te verdedigen tegen ziektekiemen. Het gebruik van farmaceutische medicijnen kan van grote invloed zijn op de gevoeligheid voor griep en andere infecties. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden ([13.8](https://mens-en-gezondheid.infonu.nl/ziekten/44867-bescherming-tegen-griep-tips-om-je-immuniteit-te-versterken.html)). De oorzaak wordt hierbij niet aangepakt. 
 
 ### 1.3 Zwak immuunsysteem
 
@@ -82,11 +86,7 @@ Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten
 
 <br>
 
-## 4) Versterkt de anti-tumoractiviteit en heeft een antioxiderede werking
-
-### 4.2 Prostaatkanker
-
-Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([16](https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie%20))
+## 4) Versterkt de antioxiderede werking
 
 ### 4.1 Hart- en vaatziekten
 
@@ -97,17 +97,13 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 
 Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([17.2](https://checkyourheart.nl)). Het wordt aangeraden om preventief uw hart te laten controleren bij Cardiologen of gespecialiceerd analisten. 
 
-**_Ivan Chai versterkt de anti-tumoractiviteit en heeft een antioxiderede werking:_**
+**_Ivan Chai versterkt de antioxiderede werking:_**
 
-Tot op heden (2019) zijn er geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. Er zijn echter wel drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen ([13],[14],[15]).
-
-* Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). 
-De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als _preventieve behandeling_ om de kans op prostaatkanker te verkleinen. 
-Een van de verbindingen die vergelijkbaar is met Oenotheïne B, zijn Polyfenolen. Polyfenolen zitten naast Ivan Chai in een beperkt aantal theeën, zoals _Groene thee_ en _Gember thee_. Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel.
+* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zitten naast Ivan Chai in een beperkt aantal theeën, zoals _Groene thee_ en _Gember thee_. Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel.
 
 <br>
 
-## 5) Verzorgt de gezondheid van prostaat en urinewegen
+## 5) Verzorgt de gezondheid van prostaat 
 
 ### 5.1 Prostaatontsteking
 
@@ -117,13 +113,19 @@ Een van de verbindingen die vergelijkbaar is met Oenotheïne B, zijn Polyfenolen
 
 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat ([17.2](https://www.andros.nl/prostaatklachten/vergrote-prostaat/%20)).
 
-### 5.3 Urineweg infectie
+### 5.3 Prostaatkanker
 
-80% van de vrouwen krijgt ten minste 1 keer in hun leven een infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([17.3](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
+Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([17.3](https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie%20))
 
-**_Ivan Chai verzorgt de gezondheid van prostaat en urinewegen:_**
+**_Ivan Chai verzorgt de gezondheid van prostaat:_**
 
-* De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is <span>urogenitaal </span>gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie).
+* De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie).
+
+Tot op heden (2019) zijn er geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. Er zijn echter wel drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen ([13](https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub),[14](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941),[15](https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063
+)).
+
+* Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). 
+De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als _preventieve behandeling_ om de kans op prostaatkanker te verkleinen. 
 
 <br>
 
