@@ -52,7 +52,7 @@ Ivan Chai is van _nature vrij_ van:
 -------------------------------------------------------------
 
 **Smaak beoordeling** <br>
-Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
+Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak.
 
 -------------------------------------------------------------
 
