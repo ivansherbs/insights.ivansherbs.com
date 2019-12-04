@@ -21,7 +21,6 @@ Lemon balm has **no known** severe, serious, moderate, or mild **interactions** 
 **Hyperthyroidism** Lemon balm should be avoided by those with hyperthyroidism.
 
 **Pregnancy and breastfeeding** Safety has not been established and is unknown.
-Fireweed is an extremely safe herbal infusion. It can be taken as a herbal infusion in excessive amounts and is safe for children.
 
 ## Proven effectiveness of lemon balm for anxiety
 A small, double-blind, placebo-controlled, randomised, crossover trial involving 18 healthy volunteers investigated the effects of lemon balm extract in two different doses. A significant reduction in stress in was seen in the volunteers taking the larger dose; however alertness was also reduced at the higher dose. ([https://www.ncbi.nlm.nih.gov/pubmed/15272110])
