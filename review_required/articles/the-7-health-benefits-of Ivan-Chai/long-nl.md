@@ -99,19 +99,13 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([17.2]
 
 **_Ivan Chai versterkt de anti-tumoractiviteit en heeft een antioxiderede werking:_**
 
-Tot op heden (2019) zijn er geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. Er zijn echter wel drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen ([5],[6],[7]).
+Tot op heden (2019) zijn er geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. Er zijn echter wel drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen ([13],[14],[15]).
 
 * Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als _preventieve behandeling_ om de kans op prostaatkanker te verkleinen. 
 Een van de verbindingen die vergelijkbaar is met Oenotheïne B, zijn Polyfenolen. Polyfenolen zitten naast Ivan Chai in een beperkt aantal theeën, zoals _Groene thee_ en _Gember thee_. Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel.
 
 <br>
-
-[5]: https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub
-[6]: https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941
-[7]: https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063
-
-
 
 ## 5) Verzorgt de gezondheid van prostaat en urinewegen
 
@@ -222,3 +216,14 @@ De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door 
 [11] Steursma, R. Thee Expert - My Daily Tea Cup - Thee recensie Ivan Chai - 21 mei 2019\. _http://mydailyteacup.nl/theereview-ivans-herbs/_
 
 [12] Velder, M.L. Thee & Kruiden Expert - ‘t Zonnetje - 2017\. _https://www.koffietheeenkruiden.nl_
+
+[13]: Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
+
+[14]: Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
+https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub
+
+[15]: Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs, Their Components and Gut Microbiota Metabolites of Epilobium Ellagitannins, Urolithins, Inhibit Hormone‐Dependent Prostate Cancer Cells‐(LNCaP) Proliferation and PSA Secretion - Stolarczyk - 2013 - Phytotherapy Research - Wiley Online Library.” Phytotherapy Research, John Wiley & Sons, Ltd, 25 Feb. 2013,
+https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941
+
+[16]: Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs Induce Apoptosis in Human Hormone‐Dependent Prostate Cancer Cells by Activating the Mitochondrial Pathway - Stolarczyk - 2013 - Journal of Pharmacy and Pharmacology - Wiley Online Library.” Journal of Pharmacy and Pharmacology, John Wiley & Sons, Ltd (10.1111), 21 Apr. 2013,
+https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063
