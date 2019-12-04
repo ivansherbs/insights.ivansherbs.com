@@ -124,7 +124,7 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
 Tot op heden (2019) zijn er geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. Er zijn echter wel drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen ([13](https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub),[14](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941),[15](https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063
 )).
 
-* Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). 
+* Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op _gezonde_ prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als _preventieve behandeling_ om de kans op prostaatkanker te verkleinen. 
 
 <br>
