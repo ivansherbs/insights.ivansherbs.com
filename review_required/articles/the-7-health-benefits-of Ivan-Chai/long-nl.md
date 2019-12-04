@@ -28,7 +28,7 @@ Hiernaast zijn de risicofactoren die de kans op een overtollige hoeveelheid aan 
 
 ### 1.1.1 Urineweg infectie
 
-80% van de vrouwen krijgt ten minste 1 keer in hun leven een schimmel infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([13.6](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
+80% van de vrouwen krijgt ten minste 1 keer in hun leven een (schimmel)infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([13.6](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
 
 ### 1.2 Verkoudheid en griep
 
