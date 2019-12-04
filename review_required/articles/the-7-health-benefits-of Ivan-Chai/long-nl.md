@@ -99,11 +99,19 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([17.2]
 
 **_Ivan Chai versterkt de anti-tumoractiviteit en heeft een antioxiderede werking:_**
 
+Tot op heden (2019) zijn er geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. Er zijn echter wel drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen ([5],[6],[7]).
+
 * Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen ([8](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). 
-De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als _preventieve behandeling_ om de prostaat gezond te houden en de kans op prostaatkanker te verkleinen. 
+De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20)). Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als _preventieve behandeling_ om de kans op prostaatkanker te verkleinen. 
 Een van de verbindingen die vergelijkbaar is met Oenotheïne B, zijn Polyfenolen. Polyfenolen zitten naast Ivan Chai in een beperkt aantal theeën, zoals _Groene thee_ en _Gember thee_. Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel.
 
 <br>
+
+[5]: https://www.sciencedirect.com/science/article/pii/S0378874118328782?via%3Dihub
+[6]: https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941
+[7]: https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063
+
+
 
 ## 5) Verzorgt de gezondheid van prostaat en urinewegen
 
@@ -121,7 +129,7 @@ Een van de verbindingen die vergelijkbaar is met Oenotheïne B, zijn Polyfenolen
 
 **_Ivan Chai verzorgt de gezondheid van prostaat en urinewegen:_**
 
-* De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is <span>urogenitaal </span>gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie)
+* De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20)). Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045895/%20)). Ivan Chai is <span>urogenitaal </span>gezien niet alleen goed voor mannen. Vrouwen hebben er ook baat bij. Trebens raad Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y)). Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptonen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie).
 
 <br>
 
