@@ -5,7 +5,7 @@ The European Medicines Agency (EMA) has **approved fireweed for “relief of low
 
 There have been three studies done on human prostate cancer cells that showed evidence that fireweed infusions can significantly **reduce the level of prostate specific antigen** (PSA) secretion (2, 3, 4). 
 
-Other speicies of *Epilobium* were used to treat prostatitis in Europe after Austrian herbalist Maria Trebens published her success in using *Epilobium* herbal tea treatment in the 1970s and 1980s (1). Modern research has shown why **fireweed can treat prostatitis** (5).
+Other species of *Epilobium* were used to treat prostatitis in Europe after Austrian herbalist Maria Trebens published her success in using *Epilobium* herbal tea treatment in the 1970s and 1980s (1). Modern research has shown why **fireweed can treat prostatitis** (5).
 
 A compound in fireweed was shown to **powerfully inhibit prostate cell reproduction** (3, 6, 7).
 
