@@ -188,10 +188,16 @@ Price
 
 -------------------------------------------------------------
 
-De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door verschillende onafhankelijke instituten; waaronder het European Medicine Agency (EMA).
+De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door onafhankelijke instituten; waaronder het European Medicine Agency (EMA).
 
 
 # Referenties
+
+* European Medicine Agency: _https://www.ema.europa.eu_
+
+* Velder, M.L. Thee & Kruiden Expert - [‘t Zonnetje - 2017](https://www.koffietheeenkruiden.nl)
+
+* Steursma, R. Thee Expert - My Daily Tea Cup - [Thee recensie Ivan Chai - 21 mei 2019](http://mydailyteacup.nl/theereview-ivans-herbs/)
 
 [1] Battinelli, Lucia, et al. “Antimicrobial Activity of Epilobium Spp. Extracts.” Il Farmaco, vol. 67, no. 6–8, 2001, pp. 356–359., doi:10.1017/s0015–928x(01)01058–3.
 
@@ -213,10 +219,6 @@ De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door 
 
 [10] Wood, Matthew. The Earthwise Herbal: a Complete Guide to New World Medicinal Plants. North Atlantic Books, 20010.
 
-[11] Steursma, R. Thee Expert - My Daily Tea Cup - Thee recensie Ivan Chai - 21 mei 2019\. _http://mydailyteacup.nl/theereview-ivans-herbs/_
-
-[12] Velder, M.L. Thee & Kruiden Expert - ‘t Zonnetje - 2017\. _https://www.koffietheeenkruiden.nl_
-
 [13] Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
 
 [14] Deng, Liqing, et al. “Evaluation of the Therapeutic Effect against Benign Prostatic Hyperplasia and the Active Constituents from Epilobium Angustifolium L.” Journal of Ethnopharmacology, vol. 232, 2019, pp. 1–10.,
@@ -227,3 +229,4 @@ https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.4941
 
 [16] Stolarczyk, Magdalena, et al. “Extracts from Epilobium Sp. Herbs Induce Apoptosis in Human Hormone‐Dependent Prostate Cancer Cells by Activating the Mitochondrial Pathway - Stolarczyk - 2013 - Journal of Pharmacy and Pharmacology - Wiley Online Library.” Journal of Pharmacy and Pharmacology, John Wiley & Sons, Ltd (10.1111), 21 Apr. 2013,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/jphp.12063
+
