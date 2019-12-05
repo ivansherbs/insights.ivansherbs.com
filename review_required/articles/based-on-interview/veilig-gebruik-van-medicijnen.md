@@ -12,7 +12,7 @@ _‘Ik vind dat de nieuwe informatie heel belangrijk is voor de bewustwording va
 
 ## Referenties 
 
-* Lanini, J. Duarte-Almeida, J.M., Nappo, S.A. & Carlini, E.A. “Are medicinal herbs safe? The opinion of plant vendors from Diadema. Rev. bras. farmacogn. vol.22 no.1 Curitiba Jan./Feb. 2012 scielo.br/ scielo.php?script=sci_arttext&pid=S0102-695X2012000100004
+* Lanini, J. Duarte-Almeida, J.M., Nappo, S.A. & Carlini, E.A. “Are medicinal herbs safe? The opinion of plant vendors from Diadema. Rev. bras. farmacogn. vol.22 no.1 Curitiba Jan./Feb. 2012 
 
 * Slager, M. Openbaar Apotheker in Amersfoort. Geraadpleegd  van de website van het College ter Beoordeling van Geneesmiddelen: cbg-meb.nl/ onderwerpen/medicijninformatie-kruiden/interview-apotheker-mark-slager
 
