@@ -6,6 +6,8 @@ Het combineren van kruiden en medicijnen gaat niet altijd samen. In een intervie
 Er is een tekort aan informatie vanuit de experts en patiënten. Uit ervaring weet de apotheker dat weinig patiënten vertellen bij het ophalen van hun medicijnen dat zij ook kruidenproducten gebruiken (REFERENTIE APPOTHEEK). Ervaren herboristen erkennen deze blik waarbij wordt aangeraden om niet zelf te experimenteren met kruiden zonder enige kennis of ervaring. Laat je informeren over de mogelijke gevolgen bij gebruik van (natuurlijke) medicatie (Referentie Annie).  
 Bijwerkingen die voortvloeien bij gebruik van natuurlijke medicatie zijn zeer zeldzaam en worden niet, tot weinig, gerapporteerd. Kruiden worden steeds meer beschikbaar voor de consument. Het is van belang om de consument goed te informeren over de risico’s bij gebruik om de veiligheid  te kunnen waarborgen (referentie 1). 
 
-* Lanini, J. Duarte-Almeida, J.M., Nappo, S.A. & Carlini, E.A. “Are medicinal herbs safe? The opinion of plant vendors from Diadema. Rev. bras. farmacogn. vol.22 no.1 Curitiba Jan./Feb. 2012 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-695X2012000100004
+* Lanini, J. Duarte-Almeida, J.M., Nappo, S.A. & Carlini, E.A. “Are medicinal herbs safe? The opinion of plant vendors from Diadema. Rev. bras. farmacogn. vol.22 no.1 Curitiba Jan./Feb. 2012 scielo.br/ scielo.php?script=sci_arttext&pid=S0102-695X2012000100004
+
 * Slager, M. Openbaar Apotheker in Amersfoort. Geraadpleegd  van de website van het College ter Beoordeling van Geneesmiddelen: cbg-meb.nl/ onderwerpen/medicijninformatie-kruiden/interview-apotheker-mark-slager
-* Windholz, A. Herborist en vrij cultureel bewonderaar. Geraadpleegd van het interview  ‘People and Plants: An interview with an Herbalist.’ https://medium.com/@anniewindholz/people-and-plants-an-interview-with-an-herbalist-137f74be3e
+
+* Windholz, A. Herborist en vrij cultureel bewonderaar. Geraadpleegd van het interview  ‘People and Plants: An interview with an Herbalist.’ medium.com/ @anniewindholz/people-and-plants-an-interview-with-an-herbalist-137f74be3e
