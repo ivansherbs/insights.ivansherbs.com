@@ -1,9 +1,14 @@
 # Lemon Balm
-## How it's useful for your health issues
-Lemon balm has several different actions and is used for a number of different conditions. Taking the herb internally may help reduce anxiety and improve mood and mental concentration. When taken together with valerian, it can relieve insomnia. It may also relieve stomach spasms associated with nervousness, or in chronic, non-specific colitis when taken as part of a specific herbal combination. Melissa cream applied four to five times daily to herpes simplex infections can reduce symptoms, accelerate healing and reduce the chance of the infection spreading.
+
+## What is lemon balm?
+
+Lemon balm (*Melissa officinalis*) is a lemon-scented herb that comes from the same family as mint. The herb is native to Europe, North Africa, and West Asia, but it’s grown around the world. Lemon balm infusions have traditionally been used to improve mood and cognitive function, but the potential benefits don’t stop there. 
+
+Read on to discover more evidence about this plant’s therapeutic effects.
+
 
 ## Frequently asked questions
-### What will lemon balm do for me?
+### How is it useful for my health issues?
 Lemon balm has several different actions and is used for a number of health issues. Taking it internally may help reduce anxiety and improve your mood and your mental concentration. When taken together with valerian, it can ease insomnia. It may also relieve stomach spasms associated with nervousness. It can also relieve stomach spasms in chronic non-specific colitis when taken as part of a herbal combination recipe.
 
 ### When will it begin to take effect for me?
