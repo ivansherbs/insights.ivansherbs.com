@@ -1,4 +1,4 @@
-## Veilig gebruik van medicatie
+## Veilig gebruik van kruiden
 
 **Kruiden zijn wereldwijd een veel gebruikt medicijn als preventieve behandeling.** Ze worden als ongevaarlijk beschouwd vanwege hun natuurlijke aard. Een onderzoek heeft aangetoond dat mensen nadenken over de verschillende positieve, dan wel negatieve effecten die kruiden kunnen hebben op het menselijk lichaam. Vooral zwangere vrouwen, kinderen en ouderen zijn onderhevig aan deze effecten ([1](www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-695X2012000100004)). Uit ervaring weet openbaar apotheker M. Slager dat weinig patiënten vertellen bij het ophalen van hun medicijnen dat zij ook kruidenproducten gebruiken.
 
