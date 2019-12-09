@@ -2,7 +2,7 @@
 
 ## What is lemon balm?
 
-Lemon balm (*Melissa officinalis*) is a lemon-scented herb that comes from the same family as mint. The herb is native to Europe, North Africa, and West Asia, but it’s grown around the world. Lemon balm infusions have traditionally been used to improve mood and cognitive function, but the potential benefits don’t stop there. 
+Lemon balm (*Melissa officinalis*) is a lemon-scented herb that comes from the same family as mint. Lemon balm infusions have traditionally been used to improve mood and cognitive function, but the potential benefits don’t stop there. 
 
 Read on to discover more evidence about this plant’s therapeutic effects.
 
