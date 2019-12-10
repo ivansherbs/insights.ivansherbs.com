@@ -25,7 +25,7 @@ One study using tablets of lemon balm found that is was well tolerated. Drug int
 - Ointment: 700 mg/g ointment applied four times daily.
 
 
-## What clinical evidence is there?
+## What clinical evidence is there for lemon balm?
 
 ### Anxiety (collapsible -opening triggers Audience capture event)
 A small, double-blind, placebo-controlled, randomised, crossover trial involving 18 healthy volunteers investigated the effects of lemon balm extract in two different doses. A significant reduction in stress in was seen in the volunteers taking the larger dose; however alertness was also reduced at the higher dose. ([https://www.ncbi.nlm.nih.gov/pubmed/15272110])
