@@ -1,16 +1,14 @@
 # Address these health issues with lemon balm infusions
 
 ## Alzheimer's disease
-
-### Strong Evdience
+### Evidence level: Strong
 
 A randomized, double-blind, placebo-controlled trial showed the effectiveness and safety of lemon balm in 42 patients with moderate Alzheimers over 16 weeks. By week 4, the difference between the placebo and lemon balm was statistically significant. By week 16, the difference was highly significant. By week 8, the difference was significant on the clinical dementia rating scale and also highly signficant by week 16 ([https://www.ncbi.nlm.nih.gov/pubmed/12810768]).
 
 [read the herbal recipe for Alzheimer's disease]
 
 ## Anxiety
-
-### Strong Evdience
+### Evidence level: Strong
 
 A small, double-blind, placebo-controlled, randomised, crossover trial involving 18 healthy volunteers investigated the effects of lemon balm extract in two different doses. A significant reduction in stress in was seen in the volunteers taking the larger dose; however alertness was also reduced at the higher dose. ([https://www.ncbi.nlm.nih.gov/pubmed/15272110])
 
