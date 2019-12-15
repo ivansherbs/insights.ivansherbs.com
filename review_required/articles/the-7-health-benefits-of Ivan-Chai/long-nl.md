@@ -4,13 +4,13 @@ _Ivan Chai is de natuurlijke oplossing als aanvulling of alternatief op farmac
 
 Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 
-1.  Versterkt de weerstand 
-2.  Krachtige ontstekingsremmer
-3.  Versterkt de antioxiderede werking
-4.  Vermindert angst, stress & burnout klachten en verbetert de slaap 
-5.  Verzorgt de gezondheid van de prostaat
-6.  Verzorgt het spijsverteringsstelsel
-7.  Vermindert de kans op diabetes en depressie
+* Versterkt de weerstand 
+* Krachtige ontstekingsremmer
+* Versterkt de antioxiderede werking
+* Vermindert angst, stress & burnout klachten en verbetert de slaap 
+* Verzorgt de gezondheid van de prostaat
+* Verzorgt het spijsverteringsstelsel
+* Vermindert de kans op diabetes en depressie
 
 Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam. 
 
