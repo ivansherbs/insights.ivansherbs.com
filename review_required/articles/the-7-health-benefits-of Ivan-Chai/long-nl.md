@@ -26,7 +26,7 @@ Iedereen heeft last van schimmels (o.a. oraal, vaginaal, anaal). Een overtollig
 
 Hiernaast zijn de risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot roken, een kunstgebit en diabetes ([13.6](https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond)).
 
-### 1.1.1 Urineweg infectie
+### 1.1.1 Urineweginfectie
 
 80% van de vrouwen krijgt ten minste 1 keer in hun leven een (schimmel)infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([13.7](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
 
