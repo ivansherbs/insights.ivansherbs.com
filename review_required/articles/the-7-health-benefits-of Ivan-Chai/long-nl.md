@@ -6,8 +6,8 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 
 1.  Versterkt de weerstand 
 2.  Krachtige ontstekingsremmer
-3.  Verbetert de slaap en vermindert angst, stress en burnout klachten
-4.  Versterkt de antioxiderede werking 
+3.  Versterkt de antioxiderede werking
+4.  Vermindert angst, stress & burnout klachten en verbetert de slaap 
 5.  Verzorgt de gezondheid van de prostaat
 6.  Verzorgt het spijsverteringsstelsel
 7.  Vermindert de kans op diabetes en depressie
@@ -60,37 +60,9 @@ Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand
 
 <br>
 
-## 3) Verbetert de slaap en vermindert angst, stress & burnout klachten
+## 3) Versterkt de antioxiderede werking
 
-### 3.1 Slaapproblemen
-
-Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Mensen worden belemmerd in hun functioneren en het verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([15](https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen),[15.1](https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen)). Bij Nederlanders met onregelmatige werktijden ligt dit percentage tussen de 42% en 68%. Slaapproblemen komen echter het vaakst voor bij arbeidsongeschikten. Uit recentelijk onderzoek is tevens gebleken dat een groot deel van de slapeloosheid wordt veroorzaakt door stress ([15.2](https://www.slaapinfo.nl/soorten-slaapstoornissen/slapeloosheid/)). 
-
-Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit komt door de cafeïne. Ongeveer 80% van de Nederlander drinkt koffie op zijn tijd ([15.3](https://www.gezondheidsplein.nl/dossiers/goed-slapen-zo-krijg-je-een-goede-nachtrust/hoe-beinvloeden-alcohol-en-cafeine-het-inslapen-en-je-nachtrust/item43857),[15.4](https://www.rtlnieuws.nl/gezondheid/artikel/143976/hoeveel-koffie-kun-je-dag-drinken-en-werkt-het-tegen-een-kater-vier)).
-
-### 3.2 Angst
-
-In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen ([15.5](https://www.mentaalvitaal.nl/angststoornis)). Bij een crisissituatie wordt uit veiligheid al snel de stap gezet de patieënt vast te zetten binnen een GGZ-instelling. Dit gebeurt na uitgebreidt onderzoek van een psychiater waarna het veelgebruikt en bezwezen middel Lorazepam 2mg 4 maal daags uit vrije wil wordt geconsummeerd om een kalmerend effect te bewerktstelligen. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15.6](https://www.volksgezondheidenzorg.info/onderwerp/angststoornissen),[15.7](https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871)). Verschillende onafhankelijke instituten beweren dat angst een van de minst handelbare emoties is. Stemmingsstoornissen gaan hiermee gepaard, wat angst- en stemmingsstoornissen samen de meest voorkomende aandoening maakt in de psychiatrie ([15.8](https://verkenjegeest.com/de-angst-voor-controleverlies/)<span style="text-decoration: underline;">,[15.9](https://forteggz.nl/studenten-poli/waar-wil-je-meer-over-weten/angst-en-stemmings5.stoornissen)</span>).
-
-Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up ([15.10](https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/),[15.11](https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html%20),[15.12](https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/)).
-
-### 3.3 Stress & burnout klachten
-
-Stress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([15.13](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[15.14](https://www.hartstichting.nl/risicofactoren/stress)). Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Je bent namelijk erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen ([15.15](https://www.depsycholoog.nl/overspannen-en-burnout/)).
-
-Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15.16](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[15.17](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de kosten gepaard met werkstress in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: twee miljard en acht honderd miljoen euro ([15.18](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)). 
-
-Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Onder deze huidaandoeningen valt eczeem waar in Nederland meer dan 1.000.000 mensen dagelijks mee te maken hebben. Deze aandoening wordt versterkt als gevolg van overgewicht ([15.19](https://www.volksgezondheidenzorg.info/onderwerp/overgewicht/cijfers-context/huidige-situatie)).
-
-**_Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten:_** 
-
-* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). De medische wereld weet niet de exacte reden hoe het helpt bij slaapstoornissen ([4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
-
-<br>
-
-## 4) Versterkt de antioxiderede werking
-
-### 4.1 Hart- en vaatziekten
+### 3.1 Hart- en vaatziekten
 
 * Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 * 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
@@ -101,7 +73,38 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([17.2]
 
 **_Ivan Chai versterkt de antioxiderede werking:_**
 
-* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zitten naast Ivan Chai in een beperkt aantal theeën, zoals _Groene thee_ en _Gember thee_. Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel.
+* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zitten naast **_Ivan Chai_** in een beperkt aantal theeën, zoals **_Groene thee_** en **_Gember thee_**. Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel.
+
+
+## 4) Vermindert angst, stress & burnout klachten en verbetert de slaap 
+
+### 4.1 Angst
+
+In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen ([15](https://www.mentaalvitaal.nl/angststoornis)). Bij een crisissituatie wordt uit veiligheid al snel de stap gezet de patieënt vast te zetten binnen een GGZ-instelling. Dit gebeurt na uitgebreidt onderzoek van een psychiater waarna het veelgebruikt en bezwezen middel Lorazepam 2mg 4 maal daags uit vrije wil wordt geconsummeerd om een kalmerend effect te bewerktstelligen. Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([15.1](https://www.volksgezondheidenzorg.info/onderwerp/angststoornissen),[15.2](https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871)). Verschillende onafhankelijke instituten beweren dat angst een van de minst handelbare emoties is. Stemmingsstoornissen gaan hiermee gepaard, wat angst- en stemmingsstoornissen samen de meest voorkomende aandoening maakt in de psychiatrie ([15.3](https://verkenjegeest.com/de-angst-voor-controleverlies/)<span style="text-decoration: underline;">,[15.4](https://forteggz.nl/studenten-poli/waar-wil-je-meer-over-weten/angst-en-stemmings5.stoornissen)</span>).
+
+Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up ([15.5](https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/),[15.6](https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html%20),[15.7](https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/)).
+
+### 4.2 Stress & burnout klachten
+
+Stress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([15.8](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[15.9](https://www.hartstichting.nl/risicofactoren/stress)). Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Je bent namelijk erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen ([15.10](https://www.depsycholoog.nl/overspannen-en-burnout/)).
+
+Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([15.11](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[15.12](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de kosten gepaard met werkstress in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: twee miljard en acht honderd miljoen euro ([15.13](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)). 
+
+Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Onder deze huidaandoeningen valt eczeem waar in Nederland meer dan 1.000.000 mensen dagelijks mee te maken hebben. Deze aandoening wordt versterkt als gevolg van overgewicht ([15.14](https://www.volksgezondheidenzorg.info/onderwerp/overgewicht/cijfers-context/huidige-situatie)).
+
+### 4.1 Slaapproblemen
+
+Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Mensen worden belemmerd in hun functioneren en het verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([15](https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen),[15.15](https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen)). Bij Nederlanders met onregelmatige werktijden ligt dit percentage tussen de 42% en 68%. Het is algemeen bekend dat de de laatste jaren het aantal medewerkers met slaapproblemen stijgt, echter pakt slecht 10% van bedrijven dit problemeen achtief aan ([15.16](https://www.rtlnieuws.nl/geld-en-werk/artikel/375541/wie-meer-succes-wil-hebben-moet-meer-slapen).5.
+
+Slaapproblemen komen hiernaast het vaakst voor bij arbeidsongeschikten. Uit recentelijk onderzoek is tevens gebleken dat een groot deel van de slapeloosheid wordt veroorzaakt door stress ([15.17](https://www.slaapinfo.nl/soorten-slaapstoornissen/slapeloosheid/)). 
+
+Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit komt door de cafeïne. Ongeveer 80% van de Nederlander drinkt koffie op zijn tijd ([15.18](https://www.gezondheidsplein.nl/dossiers/goed-slapen-zo-krijg-je-een-goede-nachtrust/hoe-beinvloeden-alcohol-en-cafeine-het-inslapen-en-je-nachtrust/item43857),[15.19](https://www.rtlnieuws.nl/gezondheid/artikel/143976/hoeveel-koffie-kun-je-dag-drinken-en-werkt-het-tegen-een-kater-vier)).
+
+
+**_Ivan Chai verbetert de slaap en vermindert angst, stress & burnout klachten:_** 
+
+* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). De medische wereld weet niet de exacte reden hoe het helpt bij slaapstoornissen ([4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
+
 
 <br>
 
