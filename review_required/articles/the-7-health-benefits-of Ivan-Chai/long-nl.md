@@ -14,7 +14,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 
 Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam. 
 
-Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn.  Hieronder de statistieken en onderbouwing van de 7 gezondheidsvoordelen.
+Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn, waarbij wij het gebruik van farmaceutische medicatie alles behalve afkeuren. Wij ondersteunen het gebruik van farmaceutische medicatie en waar nodig, juichen wij dit toe. Hieronder de statistieken en onderbouwing van de 7 gezondheidsvoordelen.
 
 <br>
 
@@ -176,7 +176,7 @@ Dit maakt het toevoegen van suiker overbodig. Kinderen worden onrustig van suike
 
 # Conclusie  
 
-We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle gezondheidsproblemen aan te pakken, _kies je gevechten_.
+We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle gezondheidsproblemen aan te pakken, **_kies je gevechten_**.
 
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
