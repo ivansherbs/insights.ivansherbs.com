@@ -75,6 +75,7 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([15.2]
 
 * Ivan Chai zit boordevol Polyfenolen. Polyfenolen zitten naast _Ivan Chai_ in een beperkt aantal theeën, zoals _Groene thee_ en _Gember thee_. Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel.
 
+<br>
 
 ## 4) Vermindert angst, stress & burnout klachten en verbetert de slaap 
 
@@ -172,6 +173,7 @@ Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van 
 _"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak"_ ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). 
 
 Dit maakt het toevoegen van suiker overbodig. Kinderen worden onrustig van suiker. Geef uw kinderen Ivan Chai zonder suiker en verminder de kans op diabetes, hoofdpijn en _hun_ darmklachten ([13](https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/wat-doet-suiker-met-een-kind)).
+
 <br>
 
 # Conclusie  
