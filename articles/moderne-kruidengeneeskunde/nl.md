@@ -30,4 +30,4 @@ James Gangemi, arts in geneeskunde, werkt bij UVAhealth waarbij hij de rol vervu
 
 * Gangemi, J. Directeur hart chirurgie bij UVA Health en medisch directeur pediatrie,
 University of Virginia Health System University Hospital.
-* Geraadpleegd van https://envisionfestival.com/why-we-need-herbal-medicine-7song/
+
