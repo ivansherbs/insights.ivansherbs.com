@@ -73,7 +73,7 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([15.2]
 
 **_Ivan Chai versterkt de antioxiderede werking:_**
 
-* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zitten naast **_Ivan Chai_** in een beperkt aantal theeën, zoals **_Groene thee_** en **_Gember thee_**. Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel.
+* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zitten naast _Ivan Chai_ in een beperkt aantal theeën, zoals _Groene thee_ en _Gember thee_. Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5919032/%20),[5](https://www.researchgate.net/publication/317059312_Epilobium_angustifolium_L_A_medicinal_plant_with_therapeutic_properties%20)). Antioxidanten hebben een positieve werking op ons hart en vaatstelsel.
 
 
 ## 4) Vermindert angst, stress & burnout klachten en verbetert de slaap 
