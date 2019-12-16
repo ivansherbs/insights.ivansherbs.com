@@ -166,7 +166,7 @@ Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinder
 
 Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van die gevolgen is depressie. Depressie komt twee keer zo vaak voor bij mensen met diabetes. Voorkom diabetes en depressie ([20](https://www.diabetesfonds.nl/over-diabetes/complicaties-van-diabetes%0A),[21](http://diabeteszelfindehand.nl/voor-begeleiders/73/mogelijke-gevolgen-van-diabetes)).
 
-**_Ivan Chai heeft van nature een licht zoete smaak - suiker toevoegen niet nodig:_** 
+**_Ivan Chai heeft van nature een licht zoete smaak:_** 
 
 * Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: 
 
