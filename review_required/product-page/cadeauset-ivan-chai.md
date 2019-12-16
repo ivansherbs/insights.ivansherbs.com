@@ -61,7 +61,7 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zw
 
 -------------------------------------------------------------
 
-Accordion menu >>> (  **Bereidingswijze**  )
+**ARCCORDION MENU>>>** (  **Bereidingswijze**  )
 
 
 _Wij voorzien onze klanten van op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden gericht op gezondheidsproblemen. Ivan Chai is geen wondermiddel, wel draagt het bij aan het versterken van je gezondheid en algehele gemoedstoestand._
@@ -81,7 +81,7 @@ Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit
 
 -------------------------------------------------------------
 
-Accordion menu >>> (  **Dosering en behandelingskuur**  )
+**ARCCORDION MENU>>>** (  **Dosering en behandelingskuur**  )
 
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
@@ -113,7 +113,7 @@ Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17
 
 -------------------------------------------------------------
 
-Accordion menu >>> (  **Voorzorgsmaatregelen**  )
+**ARCCORDION MENU>>>** (  **Voorzorgsmaatregelen**  )
 
 Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met farmaceutische medicijnen.
 
@@ -163,7 +163,7 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 -------------------------------------------------------------
 
-Accordion menu >>> (  **Bewaartips**  )
+**ARCCORDION MENU>>>** (  **Bewaartips**  )
 
 **Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?**
 
