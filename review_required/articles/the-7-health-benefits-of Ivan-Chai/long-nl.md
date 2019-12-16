@@ -105,7 +105,7 @@ Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit kom
 **_Ivan Chai vermindert angst, stress & burnout klachten en verbetert de slaap:_** 
 
 * Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). De medische wereld weet niet de exacte reden hoe het helpt bij slaapstoornissen ([4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
-In tegenstelling tot de meeste farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde oplaadfase waardoor het kalmerende effect pas merkbaar is na enkele dagen. Na deze oplaadfase zul je het verschil merkbaar voelen. 
+In tegenstelling tot de meeste farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde oplaadfase waardoor het kalmerende effect pas merkbaar is na enkele dagen. In andere woorden, 1 kop Ivan Chai maakt niet het verschil. Na deze oplaadfase zul je het verschil merkbaar voelen. 
 
 <br>
 
