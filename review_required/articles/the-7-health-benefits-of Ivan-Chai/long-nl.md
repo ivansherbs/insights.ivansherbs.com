@@ -135,7 +135,7 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 
 <br>
 
-## 6) Spijsverteringsonevenwichtigheden
+## 6) Verzorgt het spijsverteringsstelsel
 
 ### 6.1 Maag-, lever- of darmproblemen
 Ruim 3.700.000 Nederlanders heeft last van maag-, lever- of darmproblemen ([18](https://www.maxvandaag.nl/sessies/themas/gezondheid-sport/ruim-37-miljoen-nederlanders-hebben-maag-lever-of-darmproblemen/)). Jaarlijks bedragen de zorguitgaven voor deze problemen zo'n € 3.300.000.000, zeggende: drie miljard en drie honderd miljoen euro. Vrouwen hebben vaker te kampen met dit soort problemen dan mannen. 
@@ -158,7 +158,7 @@ Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de far
 
 <br>
 
-## 7) Vermindert de kans op diabetes - suiker toevoegen niet nodig
+## 7) Vermindert de kans op diabetes 
 
 ### 7.1 Diabetes
 
@@ -166,7 +166,7 @@ Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinder
 
 Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van die gevolgen is depressie. Depressie komt twee keer zo vaak voor bij mensen met diabetes. Voorkom diabetes en depressie ([20](https://www.diabetesfonds.nl/over-diabetes/complicaties-van-diabetes%0A),[21](http://diabeteszelfindehand.nl/voor-begeleiders/73/mogelijke-gevolgen-van-diabetes)).
 
-**_Ivan Chai heeft van nature een licht zoete smaak:_** 
+**_Ivan Chai heeft van nature een licht zoete smaak - suiker toevoegen niet nodig:_** 
 
 * Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: 
 
