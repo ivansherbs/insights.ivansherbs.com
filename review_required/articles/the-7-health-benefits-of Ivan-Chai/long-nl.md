@@ -14,7 +14,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 
 Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam. 
 
-Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn, waarbij wij het gebruik van farmaceutische medicijnen alles behalve afkeuren. Wij ondersteunen het gebruik van farmaceutische medicatie en waar nodig, juichen wij dit toe. Hieronder de statistieken en onderbouwing van de 7 gezondheidsvoordelen.
+Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Ivan's Herbs ondersteund het gebruik van farmaceutische medicatie en waar nodig, juichen wij dit toe. Hieronder de statistieken en onderbouwing van de 7 gezondheidsvoordelen.
 
 <br>
 
@@ -80,7 +80,7 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([15.2]
 
 ### 4.1 Angst
 
-In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen ([16](https://www.mentaalvitaal.nl/angststoornis)). Bij een crisissituatie wordt uit veiligheid al snel de stap gezet de patieënt vast te zetten binnen een GGZ-instelling. Dit gebeurt na uitgebreidt onderzoek van een psychiater waarna het veelgebruikt en bezwezen middel Lorazepam 2mg vier maal daags uit vrije wil wordt geconsummeerd om direct een kalmerend effect te bewerktstelligen. 
+In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen ([16](https://www.mentaalvitaal.nl/angststoornis)). 
 
 Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([16.1](https://www.volksgezondheidenzorg.info/onderwerp/angststoornissen),[16.2](https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871)). Verschillende onafhankelijke instituten beweren dat angst een van de minst handelbare emoties is. Stemmingsstoornissen gaan hiermee gepaard, wat angst- en stemmingsstoornissen samen de meest voorkomende aandoening maakt in de psychiatrie ([16.3](https://verkenjegeest.com/de-angst-voor-controleverlies/)<span style="text-decoration: underline;">,[16.4](https://forteggz.nl/studenten-poli/waar-wil-je-meer-over-weten/angst-en-stemmings5.stoornissen)</span>).
 
