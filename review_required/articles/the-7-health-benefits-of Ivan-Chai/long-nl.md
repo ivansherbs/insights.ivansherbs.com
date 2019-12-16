@@ -10,7 +10,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 * Vermindert angst, stress & burnout klachten en verbetert de slaap 
 * Verzorgt de gezondheid van de prostaat
 * Verzorgt het spijsverteringsstelsel
-* Vermindert de kans op diabetes en depressie
+* Vermindert de kans op diabetes
 
 Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam. 
 
@@ -157,7 +157,7 @@ Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de far
 
 <br>
 
-## 7) Vermindert de kans op diabetes en depressie - suiker toevoegen niet nodig
+## 7) Vermindert de kans op diabetes - suiker toevoegen niet nodig
 
 ### 7.1 Diabetes
 
