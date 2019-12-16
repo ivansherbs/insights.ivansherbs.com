@@ -1,0 +1,1 @@
+Bij een crisissituatie wordt uit veiligheid al snel de stap gezet de patieënt vast te zetten binnen een GGZ-instelling. Dit gebeurt na uitgebreidt onderzoek van een psychiater waarna het veelgebruikt en bezwezen middel Lorazepam 2mg vier maal daags uit vrije wil wordt geconsummeerd om direct een kalmerend effect te bewerktstelligen. 
