@@ -7,10 +7,10 @@ Picture Tubes (current)
 Inhoud: 100gr Siberische kruidenthee<br><br>
 
 **7 gezondheidsvoordelen**<br>
-Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. Ivan Chai heeft een krachtige impact op het menselijk lichaam door het versterken van de weerstand en de van nature onstekingsremmende krachten. 
-Het versterkt dezelfde antioxiderede werking die terug te vinden zijn in vergeljikbare producten als Groene thee en Ginger thee wat een positive werking heeft op ons hart en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een oplaadfase waardoor angst, stress & burnout klachten worden vermindert. De positieve bijkomstigheid hiervan is het verbeteren van de slaap. 
+Onze Siberische kruidenthee is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. Ivan Chai heeft een krachtige impact op het menselijk lichaam door het versterken van de weerstand en de van nature onstekingsremmende werking. 
+Het bevat dezelfde antioxiderede werking die terug te vinden zijn in vergeljikbare producten als Groene thee en Ginger thee wat een positive werking heeft op ons hart en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een oplaadfase waardoor angst, stress & burnout klachten worden vermindert. De positieve bijkomstigheid hiervan is het verbeteren van de slaap. 
 
-Een van de belangrijkstse gezondheidsvoordelen voor de man is de verzorging van de prostaat. 30% van iedere man boven de 45 krijgt te kampen met deze problemen. Hiernaast wordt ook het spijsverteringsstelsel verzorgt. De niet-bittere maar juist zoete nasmaak waar kinderen zo dol op zijn maakt tevens het toevoegen van suiker overbodig. Hierdoor wordt ook nog eens de kans op diabetes, hoofdpijn en _hun_ darmklachten vermindert. 
+Een van de belangrijkstse gezondheidsvoordelen voor de man is de verzorging van de prostaat. 30% van iedere man boven de 45 krijgt te kampen met problemen gericht op de prostaat. Hiernaast wordt gelijk ook het spijsverteringsstelsel verzorgt. De niet-bittere maar juist zoete nasmaak waar kinderen zo dol op zijn maakt tevens het toevoegen van suiker overbodig. Hierdoor wordt ook nog eens de kans op diabetes, hoofdpijn en _hun_ darmklachten vermindert. 
 
 De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door verschillende onafhankelijke instituten.
 
