@@ -1,5 +1,5 @@
 
-Picture Tubes (current - loof leaf)
+Picture Tubes (current - loose leaf)
 
 -------------------------------------------------------------
 
