@@ -1,1 +1,8 @@
-##Welkom om de GGZ-kliniek
+## Welkom op de GGZ-kliniek
+_Een dag uit het leven van een onervaren GGZ patient_
+
+Mijn allereerste opname in een GGZ-kliniek na een zogenaamde crisissituatie was een feit. Na hals over kop met een injectiespuit Haldol 5mg in combinatie met Promethazine 50mg te zijn platgespoten in mijn rechterbil was het eindelijk zover. De protocollen werden op juiste wijze gevolgd en de juiste informatie werd mij ten gehoren gebracht. Waar ik mij echter over verbaasde was de hoeveelheid aan pillen die ik zonder pardon toegeschreven kreeg alsof het de normaalste zaak van de wereld was dat ik 8 pillen nodig had om te kalmeren na ee situatie die ik nog nooit eerder heb mogen ervaren. 
+
+Bij deze willen wij u alvast 2 tableten Lorazepam 1mg aanbieden, die wij u vier maal daags zullen toedienen om alle angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid en onrust tegen te gaan. Dit doen wij puur uit voorzorg voor onszelf, maarbovenal ook uit voorzorg voor uw eigen veiligheid ookal heeft u in het verleden nog nooit eerder kennis gemaakt met de mogelijke gevoelens waar u nog nooit eerder aan bent bloot gesteld, en waarvan wij denken dat dit gezien de heersenede normen en waarden binnen de maatschappij waarin u leeft, niet thuis hoort.  
+
+Wij laten middels onze stagairs en coaches tijdig weten wanneer u uw medicatie dient te slikken. Wij wensen u verder een prettig verblijf, en waarnodig kunt u uiteraard ook nog een kop koffie of chocolademelk halen in de kantine. De verschillende keuze theeën is momenteel zeer beperkt, maar wilt u een thee probleren voor een goede nachtrust, dan kunnen wij u de Rooibos zonder cafeïne  adviseren we deze nog voorradig is. 
