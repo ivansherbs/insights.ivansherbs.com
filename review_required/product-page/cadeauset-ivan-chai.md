@@ -11,8 +11,8 @@ _Ivan Chai is de natuurlijke oplossing als aanvulling of alternatief op farmaceu
 
 Onze Siberische kruidenthee heeft een krachtige impact op het menselijk lichaam door het versterken van de weerstand en de van nature onstekingsremmende werking. Hiernaast heeft het een positive werking op ons hart en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een korte oplaadfase waardoor angst, stress & burnout klachten worden vermindert. De positieve bijkomstigheid hiervan is het verbeteren van de nachtrust. 
 
-Een van de belangrijkstse gezondheidsvoordelen voor de man is de verzorging van de prostaat. Volgens de statistieken krijgt >30% van iedere man boven de 45 jaar te kampen met problemen gericht op de prostaat. Bij gebruik ook gelijk het spijsverteringsstelsel verzorgt. <br>
-De niet-bittere maar juist zoete nasmaak, waar kinderen zo dol op zijn, maakt het toevoegen van suiker overbodig. Hierdoor wordt ook nog eens de kans op diabetes, hoofdpijn en _hun_ darmklachten vermindert. 
+Een van de belangrijkstse gezondheidsvoordelen voor de man is de verzorging van de prostaat. Volgens de statistieken krijgt >30% van iedere man boven de 45 jaar te kampen met problemen gericht op de prostaat. Bij gebruik wordt ook gelijk het spijsverteringsstelsel verzorgt. <br>
+De niet-bittere maar juist licht zoete nasmaak, waar kinderen zo dol op zijn, maakt het toevoegen van suiker overbodig. Hierdoor wordt ook nog eens de kans op diabetes, hoofdpijn en _hun_ darmklachten vermindert. 
 
 -------------------------------------------------------------
 
@@ -167,7 +167,7 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 **ARCCORDION MENU>>>** (  **Samenstelling**  )
 
-Ivan Chai 100 gram
+Ivan Chai 100gr
 
 **Vitamine:*
 
