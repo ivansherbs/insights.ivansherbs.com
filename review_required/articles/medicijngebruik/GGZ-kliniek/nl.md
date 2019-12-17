@@ -8,9 +8,15 @@ Bij deze willen wij u alvast bij ontbijt 2 tableten Lorazepam aanbieden, die wij
 
 Gelukkig laten de stagairs danwel coaches tijdig weten wanneer ik mijn medicijn dien te gebruiken. Gelukkig wensten ze mij ook verder een prettig verblijf, en waarnodig kon ik uiteraard ook nog een kop koffie of chocolademelk halen in de kantine naast de pingpong tafel. De verschillende keuze theeën is momenteel echhter zeer beperkt, maar wilt u een thee proberen voor een goede nachtrust, dan kunnen wij u de Rooibos zonder cafeïne adviseren als deze nog voorradig is. 
 
-Na wat gesprekken met rechters, psychiaters en coaches in bijzijn van stagairs te hebben gehad bleef mij echter gevoel onbeantwoord... Ben ik nou echt geholpen door het slikken van 8 pillen Lorazepam op 1 dag, of zou een tweetal gezonde koppen Ivan Chai uit de ongerepte natuur van Siberië mij niet dezelfde oplossing hebben geboden na het afbouwen van de pillenkeur na 2 dagen? 
+Na wat gesprekken met rechters, psychiaters en coaches in bijzijn van stagairs te hebben gehad bleef mij echter een gevoel onbeantwoord... 
 
-Ivan Chai - Siberische kruidenthee is namelijk een bewezen natuurijk product tegen angst, stress en burnoutklachten.
+_'Ik ben ervan overtuigd dat farmaceutische medicatie nodig is om snel en gedoseerd angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid en onrust tegen te gaan en daarbij een kalmerend effect te bewerkstelligen. Echter zet ik bij deze mijn vraagtekens bij het gebruik langer dan 3 dagen waarbij ik liever overstap op natuurlijkere oplossingen buiten de farmaceutische industrie om mijn verblijf binnen het GGZ als prettig te doen ervaren._'
+
+Ben ik nou echt geholpen door het slikken van 8 pillen Lorazepam op 1 dag, of zou een tweetal gezonde koppen Ivan Chai uit de ongerepte natuur van Siberië mij niet dezelfde oplossing hebben geboden na het afbouwen van de pillenkeur na 2 dagen? 
+
+
+**De Siberische kruidenthee Ivan Chai is namelijk een bewezen natuurlijk product tegen angst, stress en burnoutklachten.**
+
 
 Benieuwd tegen welke gezondheidsproblemen Ivan Chai nog meer helpt en de kans op problemen kan verkleinen. 
 
