@@ -39,6 +39,7 @@ Price / chart / button at to cart
 * Siberische kruidenthee met 7 gezondheidsvoordelen
 * Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen 
 * Duurzaam productieproces 
+* Verpakt onder beschermende atmosfeer
 
 Ivan Chai is van _nature vrij_ van:
 
