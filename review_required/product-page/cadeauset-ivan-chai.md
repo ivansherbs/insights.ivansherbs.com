@@ -165,6 +165,45 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 -------------------------------------------------------------
 
+**ARCCORDION MENU>>>** (  **Samenstelling**  )
+
+Ivan Chai 100 gram
+
+**Vitamine:*
+
+Vitamine A (RE) – 180 mcg
+Vitamine B1 (thiamine) – 0,033 mg
+Vitamine B2 (Riboflavin) – 0.137 mg
+Vitamine B3 (pantothenic) – 1,356 mg
+Vitamine B6 (pyridoxine) – 0.632 mg
+Vitamine B9 (folic) – 112 mcg
+Vitamine C – 400 mg
+Vitamine PP (niacin equivalents) – 4,674 mg
+
+**Macro voedingsstoffen:**
+
+Potassium – 494 mg
+Calcium – 362 mg
+Magnesium – 156 mg
+Sodium – 34 mg
+Phosphorus – 108 mg
+
+**Micro voedingsstoffen:**
+
+Manganese – 16 mg
+Boron – 6 mg
+Zinc – 2.66 mg
+Iron – 23 mg
+Nickel – 1.3 mg
+Titan – 1.3 mg
+Copper – 320 mcg
+Selenium – 0.9 mcg
+Molybdenum – 0.44 mg
+Carotene – 3,16 mg
+Rutin – 16 mg
+
+-------------------------------------------------------------
+
 **ARCCORDION MENU>>>** (  **Bewaartips**  )
 
 **Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?**
