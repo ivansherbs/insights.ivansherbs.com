@@ -13,7 +13,11 @@ De farmaceutische industrie is op zoek naar oplossingen voor problemen. Veel gez
 
 Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai meer als preventieve behandling kan worden gebruikt?
 
-[ Button Ontdek meer – Link to Ivan Chai page ]
+
+
+**[ Button Ontdek meer – Link to Ivan Chai page ]**
+
+
 
 **Referentie** <br>
 - Kok, L. et al, ‘ De farmaceutische industrie in het maatschappelijk debat’, Rapport SEO Economisch Onderzoek,  Amsterdam, 05-2014
