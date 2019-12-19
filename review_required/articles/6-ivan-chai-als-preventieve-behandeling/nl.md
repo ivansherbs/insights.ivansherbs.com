@@ -2,7 +2,7 @@
 
 _De ontwikkelingen binnen de innovatieve farmaceutische industrie maken misbruik van het patentsysteem. Eenvoudige preventieve  behandelingen om het menselijk lichaam en de algehele gemoedstoestand gezond te houden worden doelbewust over het hoofd gezien._ 
 
-Graag behouden de fabrikanten  de voorsprong op de concurrentie binnen een complexe industrie waar patenten de boventoon zetten tot verandering. 
+Graag behouden de fabrikanten  de voorsprong op de concurrentie binnen een complexe industrie waar patenten de norm zetten tot verandering. 
 Eenvoudige natuurlijke medicijnen die als preventieve behandeling kunnen worden gebruikt tegen gezondheidsproblemen, worden als minder belangrijk en als minderwaardig beschouwd vanwege de langere opbouwfase en het missen van een patent. Hieronder een opsomming van kritieken:
 * Fabrikanten misbruiken het patentsysteem ten kosten van de gezondheid van patienten middels evergreening om marktexclusivieit te behouden.
 * Marketingstrategieën doen blijken dat nieuwe medicijnen worden geïntroduceerd, echter blijkt 85-90%  niet of nauwelijks te zijn vernieuwd. 
