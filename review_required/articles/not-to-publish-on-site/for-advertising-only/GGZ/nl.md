@@ -8,7 +8,7 @@ _Farmaceutische medicijnen worden gebruikt in verschillende protocollen om angst
 
 **Het verblijf is prettig, de gesprekken met experts zijn fijn en wanneer nodig kan er uiteraard ook nog een kop koffie dan wel chocolademelk gehaald worden in de woonkamer naast de pingpong tafel.** We leven in een tijdperk waar gezondheid en het introduceren van natuurlijke producten die van beperkte mate van invloed zijn op het milieu nog nooit zo van belang hebben gespeeld. We leven hiernaast in een wereld waar alle informatie in een handomdraai beschikbaar is. Waar ik mij dan ook echter over kan verbazen is het volgende: 
 
-**_Vanwaar de belabberde keuze aan kruidentheeën waarvan bij vele is bewezen dat het een positief effect heeft op het menselijk lichaam en de gemoedstoestand in een kliniek waar het versterken van de algehele gemoedstoestand prioriteit heeft boven al het andere waarbij tevens de kans op 17 gezondheidsproblemen wordt vermindert, en wellicht meer in combinatie met de juiste overige (kruiden)theeën?_**
+'_Vanwaar de belabberde keuze aan kruidentheeën waarvan bij vele is bewezen dat het een positief effect heeft op het menselijk lichaam en de gemoedstoestand in een kliniek waar het versterken van de algehele gemoedstoestand prioriteit heeft boven al het andere waarbij tevens de kans op 17 gezondheidsproblemen wordt vermindert, en wellicht meer in combinatie met de juiste overige (kruiden)theeën?_'
 
 De verschillende keuze theeën is momenteel echter zeer beperkt. De overheerlijke Rooibos zonder cafeïne die ik uit noodzaak kies bij gebrek aan Ivan Chai voor een goede nachtrust, naast mijn dagelijkse doses Lorazepam, waar ik zo lekker op slaap is de afgelopen dagen ook al op.  
 
