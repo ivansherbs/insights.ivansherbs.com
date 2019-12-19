@@ -2,7 +2,7 @@
 DRAFT
 
 ## Lief dagboek: Welkom op de GGZ-kliniek
-_Een week uit het leven van een onervaren platgespoten GGZ-patient zonder zijn kalmerende kop Ivan Chai_
+_Een week uit het leven van een onervaren platgespoten GGZ-patient zonder zijn kalmerende kop Ivan Chai._
 
 _Farmaceutische medicijnen worden gebruikt in verschillende protocollen om angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid en onrust tegen te gaan. Hier is niets op tegen gezien het feit dat symptonen uiterst snel worden bestreden. De hoeveelheid farmaceutische medicijnen die de protocollen met zich mee brengen zetten wel vraagtekens achter de doeltreffendheid van deze methoden, gezien het feit dat de patient ook een heel protocol moet volgen om terug te keren tot de moderne samenleving, zonder de bijkomende ontwenningsverschijnselen die kunnen optreden bij lichamelijk gezonde patienten._
 
