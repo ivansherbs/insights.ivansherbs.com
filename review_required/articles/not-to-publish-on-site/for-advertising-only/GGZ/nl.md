@@ -1,6 +1,6 @@
 DRAFT 1.1.1
 
-## Welkom op de GGZ-kliniek: gedwongen medicijn gebruik
+## Welkom op de GGZ-kliniek
 
 _Farmaceutische medicijnen worden gebruikt in verschillende protocollen om angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid en onrust tegen te gaan. Hier is niets op tegen gezien het feit dat symptonen in sommige gevallen uiterst snel moeten worden bestreden. De hoeveelheid farmaceutische medicijnen brengt echter wel een begeleider met flexibele geest met zich mee gezien de verscheidenheid aan persoonlijkheden binnen GGZ-instellingen._
 
