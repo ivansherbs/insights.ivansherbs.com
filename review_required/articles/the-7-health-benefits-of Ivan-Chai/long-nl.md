@@ -54,6 +54,7 @@ Ontstekingen kunnen het dagelijkse functioneren voor zowel mannen als vrouwen be
 * Fysische prikkels, zoals warmte en straling 
 * Schimmels 
 * Virussen
+
 Hieronder een kort overzicht van veel voorkomende ontstekingen met enkele gevolgen binnen de Nederlandse samenleving. 
 
 ### 2.1.1 Blaasontsteking
