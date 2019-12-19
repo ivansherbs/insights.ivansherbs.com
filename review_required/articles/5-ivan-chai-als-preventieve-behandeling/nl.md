@@ -1,3 +1,5 @@
+## Ivan Chai als preventieve behandeling 
+
 _De ontwikkelingen binnen de innovatieve farmaceutische industrie maken misbruik van het patentsysteem. Eenvoudige preventieve  behandelingen om het menselijk lichaam en de algehele gemoedstoestand gezond te houden worden doelbewust over het hoofd gezien._ 
 
 Graag behouden de fabrikanten  de voorsprong op de concurrentie binnen een complexe industrie waar patenten de boventoon zetten tot verandering. 
