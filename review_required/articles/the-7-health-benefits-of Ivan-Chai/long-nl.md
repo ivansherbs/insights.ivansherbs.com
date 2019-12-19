@@ -48,7 +48,13 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.10](https:/
 
 ### 2.1 Ontstekingen 
 
-hoeveel komt het voor / man vrouw verhouding / verkoopcijfers 
+Ontstekingen kunnen het normale dagelijkse functioneren voor zowel mannen als vrouwen belemmeren. Er zijn vele verschillende oorzaken voor het verkrijgen van ontstekingen, denk hierbij aan het volgende; 
+* Bacteriën
+* Chemische stoffen
+* Fysische prikkels, zoals warmte en straling 
+* Schimmels 
+* Virussen
+Hieronder een kort overzicht van veel voorkomende ontstekingen met enkele gevolgen binnen de Nederlandse samenleving. 
 
 ### 2.1.1 Blaasontsteking
 
