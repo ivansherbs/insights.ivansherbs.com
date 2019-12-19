@@ -109,7 +109,7 @@ Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17
 12. Prostaatkanker
 13. Prostaatontsteking
 14. Benigne Prostaat Hyperplasie
-15. Urineweg infectie
+15. Menstruatiepijn
 16. Maagklachten
 17. Darmklachten
 
