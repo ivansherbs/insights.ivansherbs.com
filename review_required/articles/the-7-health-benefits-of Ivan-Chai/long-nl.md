@@ -50,7 +50,7 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.10](https:/
 
 Ontstekingen kunnen het dagelijkse functioneren voor zowel mannen als vrouwen belemmeren. Er zijn vele verschillende oorzaken voor het verkrijgen van een ontsteking, denk hierbij aan het volgende; 
 * Bacteriën
-* Chemische dan wel farmaceutische stoffen
+* Chemische stoffen
 * Fysische prikkels, zoals warmte en straling 
 * Schimmels 
 * Virussen
