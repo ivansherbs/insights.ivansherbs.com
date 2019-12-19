@@ -13,7 +13,7 @@ _Kruiden kunnen worden gebruikt als preventieve behandeling tegen gezondheidspro
 **In het licht van de bevindingen** gericht op een focus-groep waarvan het overgrote deel bestond uit vrouwen, was ontevredenheid over een behandeling met farmaceutische medicijnen de reden om de voorkeur uit te laten gaan naar een behandeling met kruiden. Overheden, artsen en de farmaceutische industrie moet zich bewust worden van dit groeiende probleem onder de desbetreffende gebruikers ([5](https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-018-2160-6)). Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
 
-[ Button Ontdek meer – Link to De 7 gezondheidsvoordelen van Ivan Chai page]
+**[ Button Ontdek meer – Link to De 7 gezondheidsvoordelen van Ivan Chai page]**
 
 
 ## Referenties 
