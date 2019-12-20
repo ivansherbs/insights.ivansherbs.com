@@ -25,20 +25,20 @@ _Volgens de Opiumwet Artikel I en II zijn drugs bezit, bereiding, productie, ver
 
 De vele verschillende bijwerkingen waar men op latere leeftijd mee te kampen krijgt, is door een groep recreatief druggebruikers al ervaren waardoor men al weet wat er te wachten staat wanneer er niet preventief wordt opgetreden tegen gezondheidsproblemen.
 
-Hieronder een opsomming van enkele bijwerkingen en ongewenste effecten van farmaceutische medicatie dan wel hard drug, die vergelijkbaar zijn met gezondheidsproblemen waar men later de eindstreep moet halen. 
+Hieronder een kleine opsomming van enkele bijwerkingen en ongewenste effecten van farmaceutische medicijnen dan wel hard drugs, die vergelijkbaar zijn met gezondheidsproblemen waar men op latere leeftijd te maken mee krijgt:
 
 * Zwak immuunsysteem
 * Hartkloppingen
 * Duizeligheid
-* Misselijkheid: Darm- en maagklachten
+* Misselijkheid: darm- en maagklachten
 * Angststoornissen
 * Slaapproblemen
 * BPH - Problemen met plassen 
 * Wazig zicht
 
 Voorkom op korte dan wel lange termijn gezondheidsproblemen door het veranderen van kleine routines in alledaagse handelingen. 
-
-**Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
+**Verzorg dagelijks lichaam en geest met kruiden uit Siberië** <br>
+Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen. 
 
 **Smaakbeoordeling** <br>
 Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven:
