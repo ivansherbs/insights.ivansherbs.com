@@ -25,11 +25,10 @@ _Volgens de Opiumwet Artikel I en II zijn drugs bezit, bereiding, productie, ver
 
 De vele verschillende bijwerkingen waar men op latere leeftijd mee te kampen krijgt, is door een groep recreatief druggebruikers al ervaren waardoor men al weet wat er te wachten staat wanneer er niet preventief wordt opgetreden tegen gezondheidsproblemen.
 
-Enkele bijwerkingen van drugs dan wel medicatie gebruik die op latere leeftijd veel voorkomen en met een preventieve behandeling te verminderen zijn.
+Enkele bijwerkingen farmaceutische medicatie dan wel hard drugs die op latere leeftijd veel voorkomen en met een preventieve behandeling  procentueel gezien te verminderen zijn.
 * Zwak immuunsysteem
-* Blaasontsteking
-* Darm- en maagklachten
 * Hartkloppingen
+* Darm- en maagklachten
 * Angststoornissen
 * Slaapproblemen
 * BPH - Problemen met plassen 
@@ -38,7 +37,13 @@ Voorkom op korte dan wel lange termijn gezondheidsproblemen door het veranderen 
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
+**Smaakbeoordeling** <br>
+Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven:
+"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak" 
+
 Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai de kans vermindert? 
 
 Lees het artikel: de 7 gezondheidsvoordelen van Ivan Chai. 
+
+Laat je informeren en koop Ivan Chai 
 
