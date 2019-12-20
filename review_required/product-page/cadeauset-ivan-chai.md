@@ -169,7 +169,7 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
 
 Ivan Chai 100gr
 
-**Vitamine:*
+**Vitamine:**
 
 Vitamine A (RE) – 180  <br>
 Vitamine B1 (thiamine) – 0,033 mg <br>
