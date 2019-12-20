@@ -11,10 +11,8 @@ Recreative drugsgebruikers hebben de bijwerkingen waar men op latere leeftijd me
 * Angststoornissen
 * Slaapproblemen
 * BPH - Problemen met plassen 
-* Wazig zicht
 
-**_Verminder nu de kans op gezondheidsproblemen voordat farmaceutische medicijnen inclusief de bijbhorende bijwerkingen en effecten voor jou de oplossing bieden.** 
-
+Verminder nu de kans op gezondheidsproblemen voordat farmaceutische medicijnen inclusief de bijbhorende bijwerkingen en effecten voor jou de oplossing bieden.
 Dit kan met behulp van eenvoudige natuurlijke producten zoals Ivan Chai - Siberische kruidenthee.
 
 <br>
