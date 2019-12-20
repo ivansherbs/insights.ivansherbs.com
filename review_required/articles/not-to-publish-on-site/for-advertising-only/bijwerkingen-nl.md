@@ -1,5 +1,7 @@
 DRAFT - DO NOT USE
 
+## Bijwerkingen: <br>
+**Hard drugs vs Farmaceutische medicijnen**
 
 Crisis situatie (Bij transport) 
 Injectie: 
