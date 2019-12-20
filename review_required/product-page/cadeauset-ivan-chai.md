@@ -180,6 +180,7 @@ Vitamine B9 (folic) – 112 mcg <br>
 Vitamine C – 400 mg <br>
 Vitamine PP (niacin equivalents) – 4,674 mg <br>
 
+
 **Macro voedingsstoffen:**
 
 Potassium – 494 mg <br>
@@ -187,6 +188,7 @@ Calcium – 362 mg <br>
 Magnesium – 156 mg <br>
 Sodium – 34 mg <br>
 Phosphorus – 108 mg <br>
+
 
 **Micro voedingsstoffen:**
 
@@ -201,6 +203,7 @@ Selenium – 0.9 mcg <br>
 Molybdenum – 0.44 mg <br>
 Carotene – 3,16 mg <br>
 Rutin – 16 mg <br>
+
 
 -------------------------------------------------------------
 
