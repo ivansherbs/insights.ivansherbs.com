@@ -1,15 +1,15 @@
 ## Bijwerkingen: Farmaceutische medicijnen vs Hard drugs
 
 _Dagelijks krijgen miljoenen Nederlanders te maken met de bijwerkingen als gevolg van het gebruik van farmaceutische medicijnen dan wel hard drugs. De bijwerkingen op het menselijk lichaam zijn in grote lijnen vergelijkbaar. Recreatief gebruik wordt in zekere mate getolereerd, terwijl een groot deel van de Nederlanders gedwongen kennis maakt met deze bijwerkingen die schadelijk kunnen zijn voor hun gezondheid en die van hun omgeving. Mensen kunnen bij verkeerd gebruik ziek worden en in het ergste geval zelfs overlijden._
- 
-**Van Dale** <br>
+<br><br>
+**Van Dale** (Groot woordenboek van de Nederlandse taal) <br>
 _1_ drug _(zelfstandig naamwoord)_ <br>
 1) geneesmiddel, medicijn <br>
 2) drug, verdovend middel: (informeel) do drugs drugs gebruiken, aan de drugs zijn <br>
 
 _2_ drug _(werkwoord)_ <br>
 1) medicijn(en) e.d. toedienen, bedwelmen, drogeren, verdoven <br>
-
+<br><br>
 **Recreatief drugsgebruik is bij wet verboden.** <br>
 De juiste doses aan werkzame stoffen in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. Zorgvuldigheid is bij meerdere geneesmiddelen geboden, gezien de mogelijke neveneffecten op de ogen als uitdroging, verhoogde gevoeligheid voor licht, troebel zicht, verandering van de ruimtelijke waarneming of moeilijkheden bij de overgang van donker naar licht ([14.9](https://www.zeiss.nl/vision-care/beter-zien/gezondheid-bescherming/geneesmiddelen-kunnen-het-gezichtsvermogen-beperken.html)).
 Het is voor professionele artsen een hele puzzel de juiste farmaceutische medicijnen en hoeveelheid te vinden ([14.10](https://www.umcutrecht.nl/nl/Nieuws/We-willen-bijwerkingen-van-medicatie-verminderen)). Volgens de meest ervaren GGZ-instelling, erkend door Zorgkaart Nederland, worden er ruim 1.000.000 pijnstillers ingenomen afkomstig uit de farmaceutische industrie ([14.11](https://solutions-center.nl/verslavingen/medicijnverslaving/pijnstillers/),[14.12](https://www.zorgkaartnederland.nl/zorginstelling/ggz-solutions-center-voorthuizen-10001990)). Er gaan jaarlijks 320.000.000 mensen onder het mes. 10% ervaart chronische pijn na ontslag uit een ziekenhuis. Uit onderzoek is gebleken dat patiënten te snel onnodig verslavende pijnstillers krijgen toegeschreven ([14.13](https://nos.nl/artikel/2280241-wetenschappers-te-snel-verslavende-pijnstillers-na-operatie.html)).
