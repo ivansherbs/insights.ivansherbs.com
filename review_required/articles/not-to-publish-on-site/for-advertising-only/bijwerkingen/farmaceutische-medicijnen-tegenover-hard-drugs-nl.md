@@ -12,8 +12,10 @@ Recreative drugsgebruikers hebben de bijwerkingen waar men op latere leeftijd me
 * Slaapproblemen
 * BPH - Problemen met plassen 
 
-Verminder nu de kans op gezondheidsproblemen voordat farmaceutische medicijnen inclusief de bijbhorende bijwerkingen en effecten voor jou de oplossing bieden.
-Dit kan met behulp van eenvoudige natuurlijke producten zoals Ivan Chai - Siberische kruidenthee.
+Verminder nu de kans op gezondheidsproblemen voordat farmaceutische medicijnen inclusief de bijwerkingen en effecten voor jou de oplossing bieden. Dit kan met behulp van eenvoudige natuurlijke producten zoals Ivan Chai - Siberische kruidenthee.
+
+**De juiste doses aan werkzame stoffen** in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. Hierdoor ontstaan ongewenste bijwerkingen. Zorgvuldigheid is bij meerdere geneesmiddelen geboden gezien de mogelijke neveneffecten op de ogen als uitdroging, verhoogde gevoeligheid voor licht, troebel zicht, verandering van de ruimtelijke waarneming of moeilijkheden bij de overgang van donker naar licht ([1](https://www.zeiss.nl/vision-care/beter-zien/gezondheid-bescherming/geneesmiddelen-kunnen-het-gezichtsvermogen-beperken.html)). Het is voor professionele artsen een hele puzzel de juiste farmaceutische medicijnen met de bijbehorende hoeveelheid mg dan wel ml te vinden ([2](https://www.umcutrecht.nl/nl/Nieuws/We-willen-bijwerkingen-van-medicatie-verminderen)). Er gaan jaarlijks 320.000.000 mensen onder het mes. Hiervan ervaart 10% chronische pijn na ontslag uit een ziekenhuis. Uit onderzoek is gebleken dat patiënten te snel onnodig verslavende pijnstillers krijgen toegeschreven ([3](https://nos.nl/artikel/2280241-wetenschappers-te-snel-verslavende-pijnstillers-na-operatie.html)).
+
 
 <br>
 
@@ -26,7 +28,7 @@ _2_ drug _(werkwoord)_ <br>
 1) medicijn(en) e.d. toedienen, bedwelmen, drogeren, verdoven <br>
 <br>
 
-**De juiste doses aan werkzame stoffen** in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. Hierdoor ontstaan ongewenste bijwerkingen. Zorgvuldigheid is bij meerdere geneesmiddelen geboden gezien de mogelijke neveneffecten op de ogen als uitdroging, verhoogde gevoeligheid voor licht, troebel zicht, verandering van de ruimtelijke waarneming of moeilijkheden bij de overgang van donker naar licht ([1](https://www.zeiss.nl/vision-care/beter-zien/gezondheid-bescherming/geneesmiddelen-kunnen-het-gezichtsvermogen-beperken.html)). Het is voor professionele artsen een hele puzzel de juiste farmaceutische medicijnen met de bijbehorende hoeveelheid mg dan wel ml te vinden ([2](https://www.umcutrecht.nl/nl/Nieuws/We-willen-bijwerkingen-van-medicatie-verminderen)). Er gaan jaarlijks 320.000.000 mensen onder het mes. Hiervan ervaart 10% chronische pijn na ontslag uit een ziekenhuis. Uit onderzoek is gebleken dat patiënten te snel onnodig verslavende pijnstillers krijgen toegeschreven ([3](https://nos.nl/artikel/2280241-wetenschappers-te-snel-verslavende-pijnstillers-na-operatie.html)).
+
 
 **De bijwerkingen die optreden** bij de inname van de veelal verslavende farmaceutische medicijnen of verdovende middelen, zoals Cocaïne, XTC, Cannabis, Speed, Paddo's, Truffels en LSD, kunnen ongewenste bijwerkingen met zich mee brengen zoals een wazige geest of slecht zicht tot gevolg ([6](https://www.drugsinfoteam.nl/klachten)). Hiernaast hebben de nawerkingen van verschillende soorten verdovende middelen duizeligheid, wazig zien, misselijkheid en angst tot gevolg ([7](https://www.drugsinfoteam.nl/vraag-antwoord/lees-een-antwoord/-/coke-duizeligheid-wazig-zien-misselijkheid-angst)). Mede door de definitie die we eraan geven is het aantal drugsgebruikers lastig te identificeren. Er zijn echter veel ongewenste effecten en bijwerkingen die door de ongeremdheid, het gevoel van zweven in combinatie met slapeloosheid, angst of paniek aanvallen de veiligheid van omstanders in gevaar kunnen brengen. 
 
