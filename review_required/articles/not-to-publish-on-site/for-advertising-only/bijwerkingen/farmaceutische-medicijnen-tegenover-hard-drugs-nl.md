@@ -1,6 +1,8 @@
 ## Farmaceutische medicijnen: maak kennis met de bijwerkingen
 
-_Recreative drugsgebruikers hebben de bijwerkingen waar met op latere leeftijd mee te kampen krijgt in de vorm van gezondheidsproblemen al mogen ervaren. Hieronder een kleine opsomming van de ongewenste effecten bij het gebruik van verdovende middelen: 
+_Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen als gevolg van het gebruik van farmaceutische medicijnen. Deze bijwerkingen op het menselijk lichaam zijn in grote lijnen vergelijkbaar met de ongewenste effecten die optreden bij het gebruik van verdovende middelen. Recreatief gebruik van verdovende middelen wordt in zekere mate getolereerd, terwijl een groot deel van de Nederlanders gedwongen kennis maakt met bijwerkingen uit medicijnen die schadelijk kunnen zijn voor hun gezondheid en die van hun omgeving._
+
+Recreative drugsgebruikers hebben de bijwerkingen waar met op latere leeftijd mee te kampen krijgt in de vorm van gezondheidsproblemen al mogen ervaren. Hieronder een kleine opsomming van de ongewenste effecten bij het gebruik van verdovende middelen: 
 
 * Zwak immuunsysteem
 * Hartkloppingen
@@ -14,8 +16,6 @@ _Recreative drugsgebruikers hebben de bijwerkingen waar met op latere leeftijd m
 **_Verminder nu de kans op gezondheidsproblemen voordat farmaceutische medicijnen inclusief de bijbhorende bijwerkingen en effecten voor jou de oplossing bieden.** 
 
 Dit kan met behulp van eenvoudige natuurlijke producten zoals Ivan Chai - Siberische kruidenthee.
-
-_Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen als gevolg van het gebruik van farmaceutische medicijnen. Deze bijwerkingen op het menselijk lichaam zijn in grote lijnen vergelijkbaar met de ongewenste effecten die optreden bij het gebruik van verdovende middelen. Recreatief gebruik van verdovende middelen wordt in zekere mate getolereerd, terwijl een groot deel van de Nederlanders gedwongen kennis maakt met bijwerkingen uit medicijnen die schadelijk kunnen zijn voor hun gezondheid en die van hun omgeving._
 
 <br>
 
