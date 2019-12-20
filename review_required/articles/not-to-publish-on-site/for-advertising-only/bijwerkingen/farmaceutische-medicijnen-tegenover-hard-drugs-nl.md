@@ -1,6 +1,6 @@
 ## Farmaceutische medicijnen: maak kennis met de bijwerkingen
 
-_Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen als gevolg van het gebruik van farmaceutische medicijnen. Deze bijwerkingen op het menselijk lichaam zijn in grote lijnen vergelijkbaar met de ongewenste effecten die optreden bij het gebruik van verdovende middelen. Recreatief gebruik van verdovende middelen wordt in zekere mate getolereerd, terwijl een groot deel van de Nederlanders gedwongen kennis maakt met de bijwerkingen uit medicijnen die schadelijk kunnen zijn voor hun gezondheid._
+_Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen als gevolg van het gebruik van farmaceutische medicijnen. Deze bijwerkingen op het menselijk lichaam zijn in grote lijnen vergelijkbaar met de ongewenste effecten die optreden bij het gebruik van verdovende middelen. Recreatief gebruik van verdovende middelen wordt in zekere mate getolereerd, terwijl een groot deel van de Nederlanders gedwongen kennis maakt met de bijwerkingen uit farmaceutische medicijnen die schadelijk kunnen zijn voor hun gezondheid._
 
 Recreative drugsgebruikers hebben de bijwerkingen waar men op latere leeftijd mee te kampen krijgt in de vorm van gezondheidsproblemen al mogen ervaren. Hieronder een kleine opsomming van de ongewenste effecten bij het gebruik van verdovende middelen: 
 
