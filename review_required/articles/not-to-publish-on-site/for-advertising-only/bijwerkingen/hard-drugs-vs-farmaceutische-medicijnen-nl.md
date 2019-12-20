@@ -3,7 +3,8 @@
 _Dagelijks krijgen miljoenen Nederlanders te maken met de bijwerkingen als gevolg van het gebruik van farmaceutische medicijnen dan wel hard drugs. De bijwerkingen op het menselijk lichaam zijn in grote lijnen vergelijkbaar. Recreatief gebruik wordt in zekere mate getolereerd, terwijl een groot deel van de Nederlanders gedwongen kennis maakt met deze bijwerkingen die schadelijk kunnen zijn voor hun gezondheid en die van hun omgeving.
 <br>
 <br>
-**Van Dale** (Groot woordenboek van de Nederlandse taal) <br>
+-----------------------------------
+**Van Dale** <br>
 _1_ drug _(zelfstandig naamwoord)_ <br>
 1) geneesmiddel, medicijn <br>
 2) drug, verdovend middel: (informeel) do drugs drugs gebruiken, aan de drugs zijn <br>
@@ -11,6 +12,7 @@ _1_ drug _(zelfstandig naamwoord)_ <br>
 _2_ drug _(werkwoord)_ <br>
 1) medicijn(en) e.d. toedienen, bedwelmen, drogeren, verdoven <br>
 <br><br>
+-----------------------------------
 
 _Volgens de Opiumwet Artikel I en II zijn drugs bezit, bereiding, productie, verkoop en export bij wet verboden. Opvallend is dat recreatief gebruik niet strafbaar is ([1](https://wetten.overheid.nl/BWBR0001941/2019-07-19),([2](https://www.jellinek.nl/vraag-antwoord/hoe-werkt-de-opiumwet/))_
 
