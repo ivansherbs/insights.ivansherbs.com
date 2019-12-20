@@ -21,8 +21,8 @@ _2_ drug _(werkwoord)_ <br>
 
 **Om de veiligheid te kunnen waarborgen** voor de patient, maar bovenal ook voor het eigen GGZ personeel, worden er in crisissituaties als snel injectiespuiten met Hadol in combinatie met Promethazine gebruikt. Patienten met een hoge mate van angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid dan wel onrust worden in een katatonische roes gebracht om de opwinding in de hersenpan te doen verminderen. De roes wordt vervolgens getemperd middels een Lorazepam keur om de patient rustig zijn of haar herintreden te laten doen in de hedendaagse maatschappij. Volgens de meest ervaren GGZ-instelling, erkend door Zorgkaart Nederland, worden er ruim 1.000.000 pijnstillers ingenomen afkomstig uit de farmaceutische industrie ([12](https://solutions-center.nl/verslavingen/medicijnverslaving/pijnstillers/),[13](https://www.zorgkaartnederland.nl/zorginstelling/ggz-solutions-center-voorthuizen-10001990)). 
 
+**Verminder de kans op gezondheidsproblemen**
 De vele verschillende bijwerkingen waar men op latere leeftijd mee te kampen krijgt, is door een groep recreatief druggebruikers al ervaren waardoor men al weet wat er te wachten staat wanneer er niet preventief wordt opgetreden tegen gezondheidsproblemen.
-
 Hieronder een kleine opsomming van enkele bijwerkingen en ongewenste effecten van farmaceutische medicijnen dan wel hard drugs, die vergelijkbaar zijn met gezondheidsproblemen waar men op latere leeftijd te maken mee krijgt:
 
 * Zwak immuunsysteem
