@@ -47,7 +47,7 @@ Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai de kans vermindert?
 
 Lees het artikel: de 7 gezondheidsvoordelen van Ivan Chai. 
 
-[Ontdek meer]
+[Button - Ontdek meer]
 
 Laat je informeren, koop Ivan Chai 
 
