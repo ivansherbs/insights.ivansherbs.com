@@ -14,7 +14,7 @@ _2_ drug _(werkwoord)_ <br>
 1) medicijn(en) e.d. toedienen, bedwelmen, drogeren, verdoven <br>
 <br>
 
-_Volgens de Opiumwet Artikel I en II zijn drugs bezit, bereiding, productie, verkoop en export bij wet verboden. Opvallend is dat recreatief gebruik niet strafbaar is ([1](https://wetten.overheid.nl/BWBR0001941/2019-07-19),([2](https://www.jellinek.nl/vraag-antwoord/hoe-werkt-de-opiumwet/))_
+_Volgens de Opiumwet Artikel I en II zijn drugs bezit, bereiding, productie, verkoop en export bij wet verboden. Opvallend is dat recreatief gebruik niet strafbaar is ([1](https://wetten.overheid.nl/BWBR0001941/2019-07-19),[2](https://www.jellinek.nl/vraag-antwoord/hoe-werkt-de-opiumwet/))_
 
 **De juiste doses aan werkzame stoffen** in farmaceutische medicatie wat gelijkmatige naar de hersenen kan worden getransporteerd, is nog niet optimaal ontdekt. Zorgvuldigheid is bij meerdere geneesmiddelen geboden, gezien de mogelijke neveneffecten op de ogen als uitdroging, verhoogde gevoeligheid voor licht, troebel zicht, verandering van de ruimtelijke waarneming of moeilijkheden bij de overgang van donker naar licht ([3](https://www.zeiss.nl/vision-care/beter-zien/gezondheid-bescherming/geneesmiddelen-kunnen-het-gezichtsvermogen-beperken.html)). Het is voor professionele artsen een hele puzzel de juiste farmaceutische medicijnen en hoeveelheid te vinden ([4](https://www.umcutrecht.nl/nl/Nieuws/We-willen-bijwerkingen-van-medicatie-verminderen)). Er gaan jaarlijks 320.000.000 mensen onder het mes. 10% ervaart chronische pijn na ontslag uit een ziekenhuis. Uit onderzoek is gebleken dat patiënten te snel onnodig verslavende pijnstillers krijgen toegeschreven ([5](https://nos.nl/artikel/2280241-wetenschappers-te-snel-verslavende-pijnstillers-na-operatie.html)).
 
