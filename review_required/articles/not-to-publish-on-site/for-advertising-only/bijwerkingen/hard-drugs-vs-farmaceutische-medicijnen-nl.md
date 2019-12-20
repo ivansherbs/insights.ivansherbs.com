@@ -1,7 +1,8 @@
 ## Bijwerkingen: Farmaceutische medicijnen vs Hard drugs
 
 _Dagelijks krijgen miljoenen Nederlanders te maken met de bijwerkingen als gevolg van het gebruik van farmaceutische medicijnen dan wel hard drugs. De bijwerkingen op het menselijk lichaam zijn in grote lijnen vergelijkbaar. Recreatief gebruik wordt in zekere mate getolereerd, terwijl een groot deel van de Nederlanders gedwongen kennis maakt met deze bijwerkingen die schadelijk kunnen zijn voor hun gezondheid en die van hun omgeving. Mensen kunnen bij verkeerd gebruik ziek worden en in het ergste geval zelfs overlijden._
-<br><br>
+<br>
+<br>
 **Van Dale** (Groot woordenboek van de Nederlandse taal) <br>
 _1_ drug _(zelfstandig naamwoord)_ <br>
 1) geneesmiddel, medicijn <br>
