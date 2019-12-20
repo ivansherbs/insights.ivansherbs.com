@@ -37,8 +37,6 @@ Voorkom op korte dan wel lange termijn gezondheidsproblemen door het veranderen 
 Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen. 
 
 **Smaakbeoordeling** <br>
-Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven:
-
 _"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak"_ 
 
 Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai de kans vermindert? 
