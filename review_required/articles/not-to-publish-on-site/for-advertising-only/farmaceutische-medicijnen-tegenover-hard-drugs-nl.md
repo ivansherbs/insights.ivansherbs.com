@@ -21,7 +21,7 @@ _Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen a
 
 **Om de veiligheid te kunnen waarborgen** voor de patiënt, maar bovenal ook voor het eigen GGZ personeel, wordt er in een crisissituatie als snel een injectiespuit met Hadol in combinatie met Promethazine gebruikt. Patiënen met een hoge mate van angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid dan wel onrust worden in een katatonisch roes gebracht om de opwinding in de hersenpan te doen verminderen. De roes wordt vervolgens getemperd middels een Lorazepam kuur om de patiënt rustig zijn of haar herintreden te laten doen in de hedendaagse maatschappij. Volgens de meest ervaren GGZ-instelling, erkend door Zorgkaart Nederland, worden er ruim 1.000.000 pijnstillers per dag ingenomen afkomstig uit de farmaceutische industrie ([6](https://solutions-center.nl/verslavingen/medicijnverslaving/pijnstillers/),[7](https://www.zorgkaartnederland.nl/zorginstelling/ggz-solutions-center-voorthuizen-10001990)). 
 <br><br><br>
-*_Benieuwd naar de natuurlijke oplossing om gezondheidsproblemen te verminderen, waarbij de kans op de ongewenste bijwerkingen van farmaceutische medicijnen wordt ontweken?_
+* _Benieuwd naar de natuurlijke oplossing om gezondheidsproblemen te verminderen, waarbij de kans op de ongewenste bijwerkingen van farmaceutische medicijnen wordt ontweken?_
 <br><br>
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië** <br>
 <br><br>
