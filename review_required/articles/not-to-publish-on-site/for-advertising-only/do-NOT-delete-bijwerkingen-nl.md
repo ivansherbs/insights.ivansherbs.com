@@ -1,8 +1,8 @@
-DRAFT - DO NOT USE - DO NOT REMOVE - VERY INTERESTING STUFF
+DRAFT - DO NOT USE - DO NOT REMOVE -**VERY INTERESTING STUFF**
 
 ## Bijwerkingen: Hard drugs vs Farmaceutische medicijnen
 
-Crisis situatie (Bij transport) 
+Crisis situatie (Bij transport)  @MK & GP lekker trippen 
 Injectie: 
 - Haldol 5 mg
 icm
