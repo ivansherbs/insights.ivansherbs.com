@@ -1,17 +1,18 @@
 [picture logo Ivan's Herbs] <br><br>
 
-## Visie & Missie
-Onze visie is om een gemeenschap op te bouwen gericht op de gezondheid en algehele gemoedstoestand. Dit doen wij met behulp van bronnen beschikbaar uit de natuur als alternatief op farmaceutische medicijnen. Onze missie is om op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden te bieden voor gezondheidsproblemen.
+## Over Ivan's Herbs 
 
-Wij hechten waarden aan gezondheid en natuur, zowel voor ons eigen bedrijf als voor onze klanten. Onze duurzame werkwijzen zijn gericht op klimaatneutrale verpakkingen en de vermindering van onze CO2-voetafdruk. Daarom oogsten wij onze in het wild groeiende Ivan Chai met de hand en maken wij gebruik van klimaatneutraal transport.
+**Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu.**
 
-Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner milieu. Dat is de reden waarom we overgaan op verpakkingsmaterialen die eeuwig meegaan (metaal) of op een natuurlijke wijze volledig afbreken (plantaardig).
+_De 7 gezondheidsvoordelen van Ivan Chai zijn de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen. 
+
+Onze duurzame werkwijzen zijn gericht op klimaatneutrale verpakkingen en de vermindering van onze CO2-voetafdruk. Wij oogsten onze in het wild groeiende Ivan Chai met de hand en maken gebruik van klimaatneutraal transport. Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner milieu. Dat is de reden waarom we overgaan op verpakkingsmaterialen die eeuwig meegaan of op een natuurlijke wijze volledig afbreken.
 
 Met een duidelijke visie, missie en bedrijfswaarden in het achterhoofd, concentreert onze filosofie zich op de specifieke behoefte van elke progressieve, op gezondheid gerichte klant, terwijl wij diepgaande inzichten creëren in de ontwikkelings- en succesfactoren in de gebieden waarin wij actief zijn.
 
 Industrieën verstoren continu de norm. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
-De reis van jouw leven bestaat uit keuzes. Bij Ivan’s Herbs vergezellen wij deze reis volledig met jou. We streven ernaar jouw vertrouwde partner te zijn. Verzorg daarom dagelijks je gezondheid met kruiden uit Siberië.
+De reis van jouw leven bestaat uit keuzes. Bij Ivan’s Herbs vergezellen wij deze reis volledig met jou. We streven ernaar jouw vertrouwde partner te zijn. Verzorg dagelijks lichaam en geest met kruiden uit Siberië.
 
 <br><br>
 [same picture herbs]
