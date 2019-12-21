@@ -2,9 +2,11 @@
 
 ## Over Ivan's Herbs 
 
+**Verzorg dagelijks lichaam en geest met kruiden uit Siberië.**
+
 _Wij geloven in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. De 7 gezondheidsvoordelen van Ivan Chai zijn de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen._
 
-Onze waarden staan centraal in ons gedrag en de alledaagse handelingen die wij uitvoeren. 
+Ons sociaal en verantwoordelijk gedrag richt zich op de specifieke behoefte van elke progressieve, op gezondheid gerichte klant, terwijl wij diepgaande inzichten creëren in de ontwikkelings- en succesfactoren in de gebieden waarin wij actief zijn. Onze pijlers zijn gericht op drie gedragingen om onze bijdrage te leveren tot de hedendaagse maatschappij. 
 
 **Introduceren natuurlijke oplossingen** <br>
 Onze toevoerlijn van kruiden vanuit de Altai zijn een alternatief op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. De opeenvolging van mislukkingen wat typerend is voor de farmaceutische industrie, zoekende naar het wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering, dienen vergezeld te worden door een eenvoudig tegengeluid in de vorm van Siberische kruidenthee. 
@@ -22,11 +24,6 @@ Wij bieden het CHMP steun door het opzetten van Ivan's Herbs waarbij wij het geb
 Wij zijn er niet alleen voor onze progressieve op gezondheid gerichte klanten in West Europa. Wij steunen ruimdenkende gemeenschappen die zich richten op mens en milieu duizenden kilometers afgelegen van de moderne samenleving. Deze bewoners van zogenaamde ecodorpen streven naar een eigen levensstijl zo dicht mogelijk bij de natuur. Hierbij staat het opbouwen van hun bestaan in de ongerepte natuur van de [Altai](https://www.google.com/search?q=Altai&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjPo6uBtsblAhUGKlAKHXGYDW0Q_AUIEigB&biw=1366&bih=657) centraal. 
 
 Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om hun levensstijl te behouden. Door het steunen van deze gemeenschappen dragen we bij aan onze samenleving door hun waarden waarin gezondheid en natuur centraal staan in acht te nemen, voor ons eigen bedrijf als voor onze klanten. 
-
-**Filosofie** <br>
-Met een duidelijke visie, missie en bedrijfswaarden in het achterhoofd, concentreert onze filosofie zich op de specifieke behoefte van elke progressieve, op gezondheid gerichte klant, terwijl wij diepgaande inzichten creëren in de ontwikkelings- en succesfactoren in de gebieden waarin wij actief zijn. 
-
-**Verzorg dagelijks lichaam en geest met kruiden uit Siberië.**
 
 Industrieën verstoren continu de norm. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
