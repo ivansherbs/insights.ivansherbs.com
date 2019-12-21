@@ -25,7 +25,7 @@ Wij zijn er niet alleen voor onze progressieve op gezondheid gerichte klanten in
 
 Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om hun levensstijl te behouden. Door het steunen van deze gemeenschappen dragen we bij aan onze samenleving door hun waarden waarin gezondheid en natuur centraal staan in acht te nemen, voor ons eigen bedrijf als voor onze klanten. 
 
-Industrieën verstoren continu de norm. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
+Industrieën verwerpen continu de maatschappelijke norm. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
 De reis van jouw leven bestaat uit keuzes. Bij Ivan’s Herbs vergezellen wij deze reis volledig met jou. We streven ernaar jouw vertrouwde partner te zijn. 
 
