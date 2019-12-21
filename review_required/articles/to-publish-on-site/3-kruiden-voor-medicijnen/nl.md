@@ -15,8 +15,6 @@ _Kruiden kunnen worden gebruikt als preventieve behandeling tegen gezondheidspro
 
 _Ivan Chai is een Siberische kruidenthee tegen 17 gezondheidsproblemen_
 
-_Benieuwd naar de 7 gezondheidsvoordelen van Ivan Chai? _
-
 **[ Button Ontdek meer – Link to De 7 gezondheidsvoordelen van Ivan Chai page]**
 
 
