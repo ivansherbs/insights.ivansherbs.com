@@ -1,3 +1,0 @@
-Patenten bepalen de verandereningen nalsdfkas;lfj aslkjfasgd.... 
-
-file:///C:/Users/Stefan/Downloads/COM%20Rapport%20SEO%20-%20De%20farmaceutische%20industrie%20in%20het%20maatschappelijk%20debat.pdf
