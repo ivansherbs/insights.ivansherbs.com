@@ -2,7 +2,7 @@
 
 ## Over Ivan's Herbs 
 
-**Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu.** De 7 gezondheidsvoordelen van Ivan Chai zijn de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen. 
+**Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. De 7 gezondheidsvoordelen van Ivan Chai zijn de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen.**
 
 Onze duurzame werkwijzen zijn gericht op klimaatneutrale verpakkingen en de vermindering van onze CO2-voetafdruk. Wij oogsten onze in het wild groeiende Ivan Chai met de hand en maken gebruik van klimaatneutraal transport. Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner milieu. Dat is de reden waarom we overgaan op verpakkingsmaterialen die eeuwig meegaan of op een natuurlijke wijze volledig afbreken.
 
