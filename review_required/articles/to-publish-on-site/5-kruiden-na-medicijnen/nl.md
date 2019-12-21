@@ -9,4 +9,6 @@ _De producenten van natuurlijke producten zoeken de samenwerking op met farmaceu
 **Nu de stabielere bronnen voor medicijnen zijn gevonden** waarbij de levering van consistente en betrouwbare chemische grondstoffen in gebruik zijn genomen, zal er een samenwerking tussen conventionele en natuurlijke producten moeten plaatsvinden. De natuurlijke producten zullen na verloop van tijd de boventoon moeten voeren ten opzichten van de heersende patenten. Op langere termijn zal er moeten worden ingespeeld op de toenemende vraag naar natuurlijke medicijnen om gezondheidsproblemen te verminderen en de algehele gemoedstoestand te versterken. 
 
 
+**Benieuwd naar de 7 gezondheidsvoordelen van Ivan Chai?**
+
 [ Button Ontdek meer – Link to De 7 gezondheidsvoordelen van Ivan Chai page]
