@@ -25,14 +25,7 @@ _Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen a
 <br><br>
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië** <br>
 <br><br>
-**Smaakbeoordeling** <br>
-_"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak"_ 
-<br><br>
-Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai de kans vermindert? 
-
-Lees het artikel: de 7 gezondheidsvoordelen van Ivan Chai. 
-
-Laat je informeren: 
+Lees het artikel 'De 7 gezondheidsvoordelen van Ivan Chai' en laat je informeren
 
 [Button - Ontdek meer]
 
