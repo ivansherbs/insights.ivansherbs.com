@@ -6,7 +6,7 @@ _Het verblijf is prettig, de gesprekken met experts zijn fijn en wanneer nodig k
 
 **Protocollen** moeten erop zijn gericht GGZ-patienten terug te laten keren in de hedendaagse samenleving, zonder last te hebben van de bijwerkingen die kunnen optreden bij overmatig gebruik van farmaceutische medicatie. Waar echter nog slagen behaald kunnen worden is het afbouwen van farmaceutische medicijnen naar natuurlijke producten met kalmerende werkingen, om de overgang naar de hedendaagse maatschappij te versoepelen waarbij patienten minder te kampen hebben met de nare bijwerkingen die een negatieve invloed kunnen hebben op de gemoedstoestand vanwege de verschillende ontwenningsverschijselen. 
 
-**Natuurlijke producten** als de Siberische kruidenthee Ivan Chai waarvan is bewezen dat het een opbouwend kalmerend effect heeft en werkt tegen angst, stress en burnoutklachten, zou een goede aanvulling dan wel alternatief zijn op de huidige collectie faramaceutische medicijnen om de overgang naar de normale gang van zaken, en hiermee de hedendaagse maatschappij, te versoepelen. Ivan Chai helpt bij het versterken van de algehele gemoedstoestand. 
+**Natuurlijke producten** als de Siberische kruidenthee Ivan Chai waarvan is bewezen dat het een opbouwend kalmerend effect heeft en werkt tegen angst, stress en burnoutklachten, zou een goede aanvulling dan wel alternatief zijn op de huidige collectie faramaceutische medicijnen om de overgang naar de normale gang van zaken, en hiermee de hedendaagse maatschappij, te versoepelen. **Ivan Chai helpt bij het versterken van de algehele gemoedstoestand.** 
 
 _Benieuwd welke 17 gezondheidsproblemen Ivan Chai nog meer vermindert dan wel aanpakt?_
 
