@@ -1,7 +1,7 @@
 [picture logo Ivan's Herbs] <br><br>
 
 ## Visie & Missie
-Onze visie is om een gemeenschap op te bouwen gericht op de gezondheid en algehele gemoedstoestand. Dit doen wij met behulp van bronnen beschikbaar uit de natuur als alternatief op farmaceutische medicijnen. Onze missie is om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw gezondheidsproblemen.
+Onze visie is om een gemeenschap op te bouwen gericht op de gezondheid en algehele gemoedstoestand. Dit doen wij met behulp van bronnen beschikbaar uit de natuur als alternatief op farmaceutische medicijnen. Onze missie is om op feiten gebaseerde, effectieve en eenvoudige recepten met kruiden te bieden voor gezondheidsproblemen.
 
 Wij hechten waarden aan gezondheid en natuur, zowel voor ons eigen bedrijf als voor onze klanten. Onze duurzame werkwijzen zijn gericht op klimaatneutrale verpakkingen en de vermindering van onze CO2-voetafdruk. Daarom oogsten wij onze in het wild groeiende Ivan Chai met de hand en maken wij gebruik van klimaatneutraal transport.
 
@@ -29,3 +29,6 @@ Michael was overtuigd van de vele voordelen voor de gezondheid, waarna hij het e
 In de expeditie groep ontmoette Michael, door pure serendipiteit, een Siberische kruidenkenner genaamd Ivan. Ivan had al meer dan 20 jaar traditionele kruidengeneeskunde gestudeerd. Ivan was de oudste in de expeditie groep (68) en maakte revitaliserende kruidenthee van de lokale kruiden waar zijn oog op viel gedurende de expeditie. Nadat het grootste deel van de groep de fysiek veeleisende top van 4500 meter had bereikt, keerde Michael terug naar Amsterdam om dit verhaal te vertellen. Pas toen begonnen we ook in kruiden te geloven.
 
 Vandaag blijft Ivan een van onze adviseurs voor kruiden om ziekte te voorkomen en gezondheidsproblemen te verzorgen.
+
+<br><br>
+
