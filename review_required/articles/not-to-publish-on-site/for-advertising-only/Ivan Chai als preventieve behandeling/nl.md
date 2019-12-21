@@ -1,4 +1,4 @@
-## Ivan Chai als preventieve behandeling 
+## Natuurlijke medicijnen zonder patent: Ivan Chai 
 
 **Verminder met Siberische kruidenthee de kans op 17 gezondheidsproblemen**
 
