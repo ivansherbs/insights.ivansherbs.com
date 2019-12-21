@@ -11,11 +11,11 @@ _In de hedendaagse samenleving wordt het gebruik van conventionele medicijnen in
 **Keuzemogelijkheden** - Binnen de gezondheidszorg is het handig om opties te hebben. Kruidengeneeskunde biedt keuzemogelijkheden. Gezondheidsproblemen kunnen worden aangepakt met conventionele behandelingen of ze kunnen worden gecombineerd met behandelmethode uit de traditionele kruidengeneeskunde. Mensen zijn op zoek naar alternatieve behandelmethode. Dogma's loslaten en benaderingen integreren kan hierbij vaak nuttig zijn. 
 
 **Advies** - Kruidengeneeskunde omvat de veelomvattende disciplines wetenschap als geschiedenis. Hoewel kruidengeneeskunde langer bestaat en wordt gebruikt wil het niet zeggen dat het beter is, echter informeert het verleden het heden. Directeur van de Northeast School of Botanical Medicine: _"Ik moedig mensen aan om voorzichtig te zijn met alle soorten medicijnen. Pas het scepticisme ook toe op conventionele geneeskunde. Oefen je scepsis, onderzoek en sta open zoals een goede scepticus is."_
-
-
+<br><br>
 _Benieuwd naar de 7 gezondheidsvoordelen van Ivan Chai?_
 
 [Button Ontdek meer] 
+<br><br>
 
 
 **Over** - James Gangemi, arts in geneeskunde, werkt bij UVAhealth waarbij hij de rol vervult van directeur hartchirurgie en medisch directeur pediatrie waarbij hij programma's begeleidt gericht op het bieden van levensondersteuning voor kinderen wier hart en longen niet normaal functioneren. Gangemi is tevens werkzaam als 'Associate Professor'. Hij heeft 7Song geïnterviewd. 7Song, herborist, is directeur bij de Northeast School of Botanical Medicine, Ithaca, New York. 7Song bestudeerd planten, mensen en kruidengeneeskunde voor meer dan 20 jaar. James Gangemi heeft 7Song geïnterviewd en hierover een artikel geschreven voor Envision om het publiek te informeren en te onderwijzen. 
