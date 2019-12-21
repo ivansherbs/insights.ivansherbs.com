@@ -1,3 +1,5 @@
+[picture logo Ivan's Herbs] <br><br>
+
 ## Visie & Missie
 Onze visie is om een gemeenschap op te bouwen gericht op de gezondheid en algehele gemoedstoestand. Dit doen wij met behulp van bronnen beschikbaar uit de natuur als alternatief op farmaceutische medicijnen. Onze missie is om op feiten gebaseerde, effectieve en eenvoudige kruidenrecepten te bieden voor jouw gezondheidsproblemen.
 
