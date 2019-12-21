@@ -2,9 +2,17 @@
 
 ## Over Ivan's Herbs 
 
-**Ivan's Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. De 7 gezondheidsvoordelen van Ivan Chai zijn de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen.**
+_Wij geloven in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. De 7 gezondheidsvoordelen van Ivan Chai zijn de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen._
 
-Onze duurzame werkwijzen zijn gericht op klimaatneutrale verpakkingen en de vermindering van onze CO2-voetafdruk. Wij oogsten onze in het wild groeiende Ivan Chai met de hand en maken gebruik van klimaatneutraal transport. Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner milieu. Dat is de reden waarom we overgaan op verpakkingsmaterialen die eeuwig meegaan of op een natuurlijke wijze volledig afbreken.
+Onze waarden staan centraal in ons gedrag en de alledaagse handelingen die wij uitvoeren. 
+
+## Introduceren natuurlijke oplossingen
+
+Onze toevoerlijn van kruiden vanuit de Altai zijn een alternatief op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. De opeenvolging van mislukkingen wat typerend is voor de farmaceutische industrie, zoekende naar het wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering, dienen vergezeld te worden door een eenvoudig tegengeluid in de vorm van Siberische kruidenthee. 
+
+De introductie van eenvoudige natuurlijke oplossingen voor gezondheidsproblemen behoren geïntegreerd te worden in de hedendaagse samenleving. Onze waarden richten zich hierbij op de samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen. De ecodorp bewoners oogsten onze kruiden met de hand in de ongerepte natuur waar ze toezien op een schoon en uiterst duurzaam productieproces. Om onze duurzaamheid te uiten naar onze klanten richten we ons op klimaatneutrale verpakkingen en de vermindering van onze eigen CO2 uitstoot in het dagelijks leven. Wij zijn op zoek naar meer samenwerkingsverbanden met gelijkgestemde bedrijven en streven ernaar ons product zo milieuvriendelijk mogelijk te vervoeren. 
+
+Wij oogsten onze in het wild groeiende Ivan Chai met de hand en maken gebruik van klimaatneutraal transport. Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner milieu. Dat is de reden waarom we overgaan op verpakkingsmaterialen die eeuwig meegaan of op een natuurlijke wijze volledig afbreken.
 
 Met een duidelijke visie, missie en bedrijfswaarden in het achterhoofd, concentreert onze filosofie zich op de specifieke behoefte van elke progressieve, op gezondheid gerichte klant, terwijl wij diepgaande inzichten creëren in de ontwikkelings- en succesfactoren in de gebieden waarin wij actief zijn.
 
