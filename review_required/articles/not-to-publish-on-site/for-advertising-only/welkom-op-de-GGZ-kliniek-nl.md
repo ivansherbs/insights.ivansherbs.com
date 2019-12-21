@@ -11,3 +11,5 @@ _Het verblijf is prettig, de gesprekken met experts zijn fijn en wanneer nodig k
 _Benieuwd welke 17 gezondheidsproblemen Ivan Chai nog meer vermindert dan wel aanpakt?_
 
 Lees het artikel 'De 7 gezondheidsvoordelen van Ivan Chai'. 
+
+[Button Ontdek meer] 
