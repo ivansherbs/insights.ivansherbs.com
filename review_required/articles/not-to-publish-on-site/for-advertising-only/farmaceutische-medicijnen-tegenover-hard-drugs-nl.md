@@ -23,8 +23,6 @@ _Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen a
 <br><br><br>
 * _Benieuwd naar de natuurlijke oplossing om gezondheidsproblemen te verminderen, waarbij de kans op de ongewenste bijwerkingen van farmaceutische medicijnen wordt ontweken?_
 <br><br>
-**Verzorg dagelijks lichaam en geest met kruiden uit Siberië** <br>
-<br><br>
 Lees het artikel 'De 7 gezondheidsvoordelen van Ivan Chai' en laat je informeren
 
 [Button - Ontdek meer]
