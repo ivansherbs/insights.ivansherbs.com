@@ -1,5 +1,7 @@
 ## Ivan Chai als preventieve behandeling 
 
+**Verminder met Siberische kruidenthee de kans op 17 gezondheidsproblemen**
+
 _De ontwikkelingen binnen de innovatieve farmaceutische industrie maken misbruik van het patentsysteem. Eenvoudige preventieve  behandelingen om het menselijk lichaam en de algehele gemoedstoestand gezond te houden worden doelbewust over het hoofd gezien._ 
 
 Graag behouden de fabrikanten  de voorsprong op de concurrentie binnen een complexe industrie waar patenten de norm zetten tot verandering. 
