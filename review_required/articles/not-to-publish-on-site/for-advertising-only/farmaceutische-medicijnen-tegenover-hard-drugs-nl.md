@@ -1,6 +1,6 @@
 ## Farmaceutische medicijnen: maak kennis met de bijwerkingen
 
-**Verminder nu de kans op gezondheidsproblemen met Ivan Chai - Siberische kruidenthee.** 
+**Verminder nu de kans op gezondheidsproblemen met Ivan Chai - Siberische kruidenthee** 
 
 _Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen als gevolg van het gebruik van farmaceutische medicijnen. Deze bijwerkingen op het menselijk lichaam zijn in grote lijnen vergelijkbaar met de ongewenste effecten die optreden bij het gebruik van verdovende middelen. Recreatief gebruik van verdovende middelen wordt in zekere mate getolereerd, terwijl een groot deel van de Nederlanders gedwongen kennis maakt met de bijwerkingen van farmaceutische medicijnen die schadelijk kunnen zijn voor hun gezondheid._
 
