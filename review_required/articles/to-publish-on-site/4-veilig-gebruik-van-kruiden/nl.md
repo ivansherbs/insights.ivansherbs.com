@@ -11,6 +11,8 @@ _‘Ik vind dat de nieuwe informatie heel belangrijk is voor de bewustwording va
 **Bijwerkingen die voortvloeien bij gebruik van natuurlijke medicatie zijn zeer zeldzaam en worden niet, tot weinig, gerapporteerd ([1](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-695X2012000100004)).** Kruiden worden steeds meer beschikbaar voor de consument. In de samenleving neemt de vraag naar het introduceren van natuurlijke producten toe. Het is van belang om de consument goed te informeren over de risico’s bij gebruik om de veiligheid te kunnen waarborgen. Het informeren en onderwijzen van de voordelen maar ook zeker de nadelen is iets waar vele experts vanuit de farmaceutische industrie danwel natuurwinkels slagen kunnen behalen wanneer het welzijn van de mens voorop wordt gesteld. 
 
 
+_Benieuwd naar de 7 gezondheidsvoordelen van Ivan Chai?_
+
 **[ Button Ontdek meer – Link to De 7 gezondheidsvoordelen van Ivan Chai page]**
 
 ## Referenties 
