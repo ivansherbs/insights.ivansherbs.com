@@ -1,8 +1,8 @@
-## Ivan Chai: verminder de kans op gezondheidsproblemen op latere leeftijd
+## Verminder de kans op gezondheidsproblemen op latere leeftijd
 
 _Ivan Chai is een Siberische kruidenthee wat als preventieve behandeling kan worden gebruikt tegen 17 gezondheidsproblemen._
 
-Het informeren van de risico’s voor gebruik van Ivan Chai vinden wij zeer belangrijk. Kruiden kunnen een krachtige impact hebben op het menselijk lichaam. Ouderen kunnen de effecten van medicijnen heftiger en langer ervaren dan jongeren. Zowel positief, als negatief.
+Het informeren van de risico’s voor gebruik van Ivan Chai vinden wij zeer belangrijk. Kruiden kunnen een krachtige impact hebben op het menselijk lichaam. _Ouderen kunnen de effecten van medicijnen heftiger en langer ervaren dan jongeren._ Zowel positief, als negatief.
 Kruiden kunnen in combinatie met farmaceutische geneesmiddelen negatieve bijwerkingen hebben tot gevolg. <br>
 Zo is algemeen bekend dat:
 * Sint-janskruid de werkzaamheid van bloedverdunners vermindert. 
