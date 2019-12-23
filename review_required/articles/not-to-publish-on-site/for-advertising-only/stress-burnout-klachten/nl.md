@@ -17,9 +17,10 @@ Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te ve
 Veel professionals passen hun leefritme hierdoor verkeerd aan. Denk aan: 
 * Verkeerde eetgewoonte
 * **Te veel koffie of alcohol** 
-* Te weinig lichaamsbeweging, slaap of ontspanning (pauze)
+* Te weinig lichaamsbeweging, slaap of ontspanning op werk
 
 Je weerstand wordt erdoor vermindert en je wordt vatbaarder voor de gevolgen van stress.
+<br><br>
 
 _Ben jij op zoek naar het verminderen van stress en burnout klachten?_ <br>
 
