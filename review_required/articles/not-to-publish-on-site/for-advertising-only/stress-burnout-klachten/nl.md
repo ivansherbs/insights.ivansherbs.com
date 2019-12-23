@@ -10,7 +10,7 @@ _Werkstress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanni
 * Groot betrokkenheidsgevoel 
 * Streven naar waardering van anderen 
 
-Kortom: het **'carrière willen maken'** is van invloed op de ontwikkeling van stress en burnout klachten.
+Kortom: het **'carrière maken'** is van invloed op de ontwikkeling van stress en burnout klachten.
 
 Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Sterker nog, het is goed voor je. Je bent erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen.
 
