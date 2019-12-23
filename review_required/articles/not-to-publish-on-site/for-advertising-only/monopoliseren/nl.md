@@ -1,6 +1,6 @@
-## De macht van de farmaceutische industrie: monopolisering
+## De macht van de farmaceutische industrie: monopoliseren
 
-_De ontwikkelingen binnen de innovatieve farmaceutische industrie maken misbruik van het patentsysteem. Graag behouden de fabrikanten de voorsprong op de concurrentie binnen een complexe industrie waar patenten de boventoon zetten tot innovatie en verandering._
+_De ontwikkelingen binnen de innovatieve farmaceutische industrie maken misbruik van het patentsysteem. Graag behouden de fabrikanten de voorsprong op de concurrentie binnen een complexe industrie waar patenten de trend zetten tot innovatie en verandering._
 
 Eenvoudige natuurlijke medicijnen die als preventieve behandeling kunnen worden gebruikt tegen gezondheidsproblemen, worden als minder belangrijk en als minderwaardig beschouwd vanwege de langere opbouwfase en het missen van een patent. De aandacht gaat vooral uit naar de ‘nieuwe’ geneesmiddelen. Hieronder een opsomming van kritieken uit recentelijk onderzoek:
 * Fabrikanten misbruiken het patentsysteem ten kosten van de gezondheid van patienten middels evergreening om marktexclusivieit te behouden.
