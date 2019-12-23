@@ -23,6 +23,9 @@ _Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen a
 
 **De norm om meer natuurlijke producten te gebruiken** bij het afbouwen van farmaceutische medicijnen tegen een hoge mate van angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid dan wel onrust, zouden binnen zorgklinieken moeten worden verhoogd om nare bijwerkingen te voorkomen. Hierdoor kan de stap naar de hedendaagse maatschappij ook worden verkleind door bij patiënten nieuwe routines te introduceren met natuurlijke producten in alle daagse handelingen, goed voor de algehele gemoedstoestand. 
 
+**Conclusie**
+Verzorg dagelijks lichaam en geest met kruiden uit Siberië.
+
 <br><br>
 * _Benieuwd naar de natuurlijke oplossing om gezondheidsproblemen te verminderen, waarbij de kans op de ongewenste bijwerkingen van farmaceutische medicijnen wordt ontweken?_
 <br><br>
