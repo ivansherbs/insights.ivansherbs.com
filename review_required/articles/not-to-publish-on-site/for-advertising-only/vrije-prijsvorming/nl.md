@@ -4,12 +4,12 @@ _De ontwikkeling van nieuwe medicijnen kost geld. De farmaceutische industrie ke
 
 De prijzen van medicijnen worden kunstmatig hoog gehouden. Zogenoemde ‘pay for delay’-principes worden toegepast om innovatieve medicijnen langer op de markt te behouden, waardoor het introduceren van generieke medicijnen wordt uitgesteld. Het ontwikkelen van nieuwe medicijnen zijn een kostbaar en langdurig proces, waardoor fabrikanten binnen de innovatieve farmaceutische industrie er alles voor over hebben hun monopolipositie vast te houden. De inverstering die is gemaakt moet worden terugverdiend, waardoor prijsregulering vanuit overheden een lastige kwestie blijkt gezien de innovatie en ontwikkeling van nieuwe medicijnen die hierdoor zwaar worden beïnvloed. ([2](http://www.seo.nl/uploads/media/2014-22_De_farmaceutische_industrie_in_het_maatschappelijk_debat_01.pdf))
 
-De vraag blijft echter waarom burgers het vertrouwen in farmaceutische medicijnen moeten blijven behouden die gepaard gaan met torenhogen kosten als er ook natuurlijke medicatie is als preventieve behandeling tegen gezondheidsproblemen. 
+De vraag blijft echter waarom burgers het vertrouwen in farmaceutische medicijnen moeten blijven behouden gezien de torenhoge kosten, als er ook natuurlijke medicatie is als preventieve behandeling tegen gezondheidsproblemen. 
 
 _Eenvoudige preventieve behandelingen met kruiden, zoals Ivan Chai, bieden de mogelijkheid om gezondheidsproblemen preventief te behandelen waardoor het kennis maken met de complexe, besloten en gemonopoliseerde industrie wordt ontweken._
 
 **Hoe kunnen kruiden helpen?** <br>
-Geneeskrachtige kruiden, zoals Ivan Chai, bieden een alternatief op het huidige assortiment aan farmaceutische medicijnen. Veranderingen in kleine routines in alledaagse handelingen kunnen winst opleveren voor het menselijk lichaam. Deze kruiden werken niet als geneesmiddel tegen ziekten, maar kunnen volgens recept worden gebruikt als preventieve behandeling tegen 17 gezondheidsproblemen. De kans op veel voorkomkende gezondheidsproblemen wordt simpelweg verkleind. 
+Geneeskrachtige kruiden bieden een alternatief op het huidige assortiment aan farmaceutische medicijnen. Kleine veranderingen in alledaagse routines kunnen winst opleveren voor het menselijk lichaam. Deze kruiden werken niet als geneesmiddel tegen ziekten, maar kunnen volgens recept worden gebruikt als preventieve behandeling tegen 17 gezondheidsproblemen. De kans op veel voorkomkende gezondheidsproblemen wordt simpelweg verkleind.
 
 Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai als preventieve behandeling kan worden gebruikt?
 
