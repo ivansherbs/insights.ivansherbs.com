@@ -17,7 +17,6 @@ Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te ve
 Veel professionals passen hun leefritme hierdoor verkeerd aan. Hierdoor sluipen verkeerde eetgewoonte, **te veel koffie of alcohol** en te weinig lichaamsbeweging, slaap, ontspanning of überhaupt pauze nemen er bij in. Je weerstand wordt er door vermindert en je wordt vatbaarder voor de gevolgen van stress.
 
 * Ben jij op zoek naar het verminderen van stress en burnout klachten? <br>
-Maak kennis met Ivan Chai, Siberische kruidenthee met 7 gezondheidsvoordelen.
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië.**
 
