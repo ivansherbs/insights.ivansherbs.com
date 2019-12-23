@@ -11,7 +11,10 @@ Kruiden kunnen in combinatie met farmaceutische geneesmiddelen negatieve bijwerk
 _Gebruikt u meerdere medicijnen?_ <br>
 Raadpleeg uw (huis)arts of apotheker wanneer u meerdere farmaceutische medicijnen gebruikt, en kennis wilt maken met de Siberische kruidenthee Ivan Chai. Het is van belang om goed geïnformeerd te worden over de risico’s bij gebruik om de veiligheid  te kunnen waarborgen.
 
-Benieuwd naar de 17 gezondheidsvoordelen van Ivan Chai? Lees nu het artikel ‘de 7 gezondheidsvoordelen van Ivan Chai’.
+Benieuwd naar de 17 gezondheidsvoordelen van Ivan Chai? 
+
+Lees nu het artikel ‘de 7 gezondheidsvoordelen van Ivan Chai’.
+
 [ Button Ontdek meer] 
 
 
