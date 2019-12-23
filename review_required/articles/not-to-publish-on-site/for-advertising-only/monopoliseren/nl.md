@@ -16,6 +16,8 @@ Lees het artikel 'de 7 gezondheidsvoordelen van Ivan Chai'.
 
 [ Button Ontdek meer – Link to Ivan Chai page ]
 
+<br><br>
+
 **Referentie** <br>
 (1)	Kok, L. et al, ‘ De farmaceutische industrie in het maatschappelijk debat’, Rapport SEO Economisch Onderzoek,  Amsterdam, 05-2014
 
