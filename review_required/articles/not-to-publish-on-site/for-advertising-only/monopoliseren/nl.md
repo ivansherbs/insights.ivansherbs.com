@@ -10,7 +10,9 @@ Eenvoudige natuurlijke medicijnen die als preventieve behandeling kunnen worden 
 
 De taak van de farmaceutische industrie is simpelweg het zoeken naar oplossingen voor gezondheidsproblemen. Veel gezondheidsproblemen kunnen op een natuurlijke manier ook preventief worden behandelt waardoor de hoge kosten gepaard bij het doorontwikkelen van medicijnen minder nodig zijn. De natuurlijke oplossingen als alternatief op farmaceutische medicijnen in de vorm van eenvoudige producten zoals de Siberische kruidenthee Ivan Chai, kunnen als preventieve behandeling worden gebruikt tegen gezondheidsproblemen. 
 
-Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai als preventieve behandling kan worden gebruikt?
+<br><br>
+
+_Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai als preventieve behandling kan worden gebruikt?_
 
 Lees het artikel 'de 7 gezondheidsvoordelen van Ivan Chai'.
 
