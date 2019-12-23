@@ -25,9 +25,7 @@ De deskundige achter de toonbank kan u adviseren bij het stoppen dan wel afbouwe
 * Opwinding
 * Prikkelbaarheid
 
-Hiernaast zijn spier- dan wel gewrichtspijn of diarree veel voorkomende klachten.
-
-Ontwijk of verminder de kans op het gebruik van deze verslavende farmaceutische medicijnen.
+Hiernaast zijn spier- dan wel gewrichtspijn of diarree veel voorkomende klachten. Ontwijk of verminder de kans op het gebruik van deze verslavende farmaceutische medicijnen.
 
 * Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai als preventieve behandeling kan worden gebruikt? Lees het artikel ‘de 7 gezondheidsvoordelen van Ivan Chai’.
 
