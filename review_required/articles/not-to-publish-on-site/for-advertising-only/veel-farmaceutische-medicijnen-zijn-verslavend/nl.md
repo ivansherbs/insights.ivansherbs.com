@@ -26,7 +26,7 @@ Hiernaast zijn spier- dan wel gewrichtspijn of diarree veel voorkomende klachten
 **Ons advies** <br>
 _Wanneer u last heeft van klachten bij gebruik van farmaceutische medicijnen, maak eerst uw kuur af wanneer deze is voorgeschreven door een gespecialiceerd arts._
 
-**Het combineren van farmaceutische medicijnen met de Siberische kruidenthee Ivan Chai kan schadelijk zijn voor uw gezondheid.** Wij raden het af om geneeskrachtige kruiden te combineren met farmaceutische medicatie.  Geneeskrachtige kruiden, zoals Ivan Chai, kunnen in combinatie met producten die ook een krachtige impact hebben op het menselijk lichaam, een negatief effect bewerkstelligen. Deze _negatieve effecten_ met Ivan Chai zijn echter _zeer zeldzaam_. Ze worden niet, tot weinig, gerapporteerd. Wij adviseren om eerst zelf op onderzoek uit te gaan voor u middelen consumeert. 
+Ivan Chai kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen waarbij klachten zeer zeldzaam zijn.
 
 Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai als preventieve behandeling kan worden gebruikt? Lees het artikel ‘de 7 gezondheidsvoordelen van Ivan Chai’.
 
