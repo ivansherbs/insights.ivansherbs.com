@@ -1,4 +1,4 @@
-## Medicijn zonder patent: Ivan Chai 
+## Kruiden zonder patent: Ivan Chai 
 
 **Verminder met Siberische kruidenthee de kans op 17 gezondheidsproblemen**
 
@@ -13,10 +13,13 @@ Eenvoudige natuurlijke medicijnen die als preventieve behandeling kunnen worden 
 
 De farmaceutische industrie is op zoek naar oplossingen voor problemen. Veel gezondheidsproblemen kunnen ook preventief worden behandelt waardoor de hoge kosten gepaard bij het door ontwikkelen van medicijnen  niet nodig zijn. De natuurlijke oplossingen als aanvulling of alternatief op farmaceutische medicijnen in de vorm van eenvoudige producten als de Siberische kruidenthee Ivan Chai, kunnen als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen. 
 
-Benieuwd welke 7 gezondheidsvoordelen Ivan Chai bevat?
+* Benieuwd welke 7 gezondheidsvoordelen Ivan Chai bevat?
 
 
 **[ Button Ontdek meer – Link to Ivan Chai page ]**
+
+<br><br>
+<br><br>
 
 
 **Referentie** <br>
