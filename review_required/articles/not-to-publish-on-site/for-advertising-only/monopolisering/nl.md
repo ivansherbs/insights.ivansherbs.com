@@ -12,6 +12,8 @@ De farmaceutische industrie is simpelweg op zoek naar oplossingen voor gezondhei
 
 Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai als preventieve behandling kan worden gebruikt?
 
+Lees het artikel 'de 7 gezondheidsvoordelen van Ivan Chai'.
+
 [ Button Ontdek meer – Link to Ivan Chai page ]
 
 **Referentie** <br>
