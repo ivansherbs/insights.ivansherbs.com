@@ -25,6 +25,6 @@ _Ben jij op zoek naar het verminderen van stress en burnout klachten?_ <br>
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië.**
 
-Lees onze artikelen en laat je informeren.
+Lees het artikel 'de 7 gezondheidsvoordelen van Ivan Chai' en laat je informeren.
 
 [Button Ontdek meer]
