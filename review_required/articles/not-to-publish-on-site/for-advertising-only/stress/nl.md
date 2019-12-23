@@ -19,8 +19,8 @@ Kortom: **carrière willen maken**
 
 Veel professionals passen hun leefritme hierdoor verkeerd aan. Hierdoor sluipen verkeerde eetgewoonte, **te veel koffie of alcohol**, en te weinig lichaamsbeweging, slaap of ontspanning, of überhaupt pauze nemen er bij in. Je weerstand wordt er kleiner door en je wordt vatbaarder voor de gevolgen van stress.
 
-De kans op stress en burnout klachten verminderen? 
-* **Verzorg dagelijks lichaam en geest met kruiden uit Siberië. 
+* De kans op stress en burnout klachten verminderen? <br>
+**Verzorg dagelijks lichaam en geest met kruiden uit Siberië. 
 
 Benieuwd waar Ivan Chai nog meer als preventieve behandling tegen werkt waardoor de kans op gezondheidsproblemen worden vermindert?
 
