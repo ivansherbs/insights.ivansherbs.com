@@ -19,7 +19,7 @@ Lees het artikel ‘de 7 gezondheidsvoordelen van Ivan Chai’.
 
 
 
-**Referenties**
+**Referenties** <br>
 Kok, L. et al, ‘ De farmaceutische industrie in het maatschappelijk debat’, Rapport SEO Economisch Onderzoek,  Amsterdam, 05-2014
 
 Van der Geest, M. & de Visser, E. ‘ Baas Zorginstituut: ‘De farmaceutische industrie duwt ons met de rug tegen de muur - en dat voelt niet prettig’. De Volkskrant, 29 oktober 2018. 
