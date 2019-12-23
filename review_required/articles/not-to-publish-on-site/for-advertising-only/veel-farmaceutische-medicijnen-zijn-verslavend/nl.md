@@ -8,8 +8,12 @@ Om welke farmaceutische medicijnen gaat het? <br>
 * Medicijnen met _rustgevende_ werking
 * Medicijnen met _pijnstillende_ werking 
 
-Hierbij gaat het tevens om medicijnen die zonder recept af te halen zijn bij uw apotheker dan wel plaatselijke supermarkt. De deskundige achter de toonbank kan u adviseren bij het stoppen dan wel afbouwen van het medicijngebruik om ontwenningsverschijnselen te verminderen. 
-Ontwenningsverschijnselen verschillen per type medicijn. Hieronder een overzicht van de meest voorkomende klachten na medicijngebruik in zijn algemeen: 
+Hierbij gaat het tevens om medicijnen die zonder recept af te halen zijn bij uw apotheker dan wel plaatselijke supermarkt. 
+
+**Ons advies** <br>
+_Wanneer u last heeft van klachten bij gebruik van farmaceutische medicijnen, maak eerst uw kuur af wanneer deze is voorgeschreven door een gespecialiceerd arts._
+
+De deskundige achter de toonbank kan u adviseren bij het stoppen dan wel afbouwen van het medicijngebruik om ontwenningsverschijnselen te verminderen. Ontwenningsverschijnselen verschillen per type medicijn. Hieronder een overzicht van de meest voorkomende klachten na medicijngebruik in zijn algemeen: 
 * Transpireren 
 * Hoofdpijn
 * Rillingen en een algemeen ziektegevoel
@@ -23,11 +27,8 @@ Ontwenningsverschijnselen verschillen per type medicijn. Hieronder een overzicht
 
 Hiernaast zijn spier- dan wel gewrichtspijn of diarree veel voorkomende klachten.
 
-**Ons advies** <br>
-_Wanneer u last heeft van klachten bij gebruik van farmaceutische medicijnen, maak eerst uw kuur af wanneer deze is voorgeschreven door een gespecialiceerd arts._
+Ontwijk of verminder de kans op het gebruik van deze verslavende farmaceutische medicijnen.
 
-Ivan Chai kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen waarbij klachten zeer zeldzaam zijn.
-
-Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai als preventieve behandeling kan worden gebruikt? Lees het artikel ‘de 7 gezondheidsvoordelen van Ivan Chai’.
+* Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai als preventieve behandeling kan worden gebruikt? Lees het artikel ‘de 7 gezondheidsvoordelen van Ivan Chai’.
 
 [ Button Ontdek meer ]
