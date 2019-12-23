@@ -1,3 +1,7 @@
+
+
+vergelijk policy /onderzoeken milieu rapporten farma vs ivan chai producent 
+
 https://www.bnnvara.nl/zembla/artikelen/fabrikant-van-nederlandse-medicijnen-buit-werknemers-uit-en-vervuilt-milieu
 
 https://www.rvdj.nl/2019/9
