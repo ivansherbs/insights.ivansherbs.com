@@ -1,4 +1,4 @@
-## Kruiden zonder patent: Ivan Chai 
+## Medicijn zonder patent: Ivan Chai 
 
 **Verminder met Siberische kruidenthee de kans op 17 gezondheidsproblemen**
 
