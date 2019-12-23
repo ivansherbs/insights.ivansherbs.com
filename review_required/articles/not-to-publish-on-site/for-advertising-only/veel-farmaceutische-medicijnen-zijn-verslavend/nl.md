@@ -22,6 +22,7 @@ Ontwenningsverschijnselen verschillen per type medicijn. Hieronder een overzicht
 * Prikkelbaarheid
 
 Hiernaast zijn spier- dan wel gewrichtspijn of diarree veel voorkomende klachten.
+
 **Ons advies** <br>
 _Wanneer u last heeft van klachten bij gebruik van farmaceutische medicijnen, maak eerst uw kuur af wanneer deze is voorgeschreven door een gespecialiceerd arts._
 
