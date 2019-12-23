@@ -1,6 +1,6 @@
 ## Ivan Chai tegen stress & burnout klachten
 
-**De Siberische kruidenthee Ivan Chai kan preventief worden gebruikt tegen 17 gezondheidsproblemen; de kans op stress en burnout klachten worden hierdoor vermindert**
+**Ivan Chai is een Siberische kruidenthee wat de kans op stress en burnout klachten preventief vermindert**
 
 _Werkstress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk of meer verantwoordelijkheden._
 
