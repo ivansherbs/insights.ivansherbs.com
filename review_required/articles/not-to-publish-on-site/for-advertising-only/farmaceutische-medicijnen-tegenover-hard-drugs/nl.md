@@ -21,13 +21,11 @@ _Dagelijks krijgen miljoenen Nederlanders te maken met ongewenste bijwerkingen a
 
 **Om de veiligheid te kunnen waarborgen** voor de patiënt, maar bovenal ook voor het eigen personeel, wordt er in een crisissituatie als snel een injectiespuit met Hadol in combinatie met Promethazine gebruikt. Patiënen met een hoge mate van angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid dan wel onrust worden in een katatonisch roes gebracht om de opwinding in de hersenpan te doen verminderen. De roes wordt vervolgens getemperd middels een Lorazepam kuur om de patiënt rustig zijn of haar herintreden te laten doen in de hedendaagse maatschappij. Volgens de meest ervaren GGZ-instelling, erkend door Zorgkaart Nederland, zijn er jaarlijks 20.000 mensen gewond door een ongeval dat te wijten is aan de invloed van kalmeringsmiddelen. ([6](https://solutions-center.nl/verslavingen/medicijnverslaving/pijnstillers/),[7](https://www.zorgkaartnederland.nl/zorginstelling/ggz-solutions-center-voorthuizen-10001990)). 
 
-**De norm om meer natuurlijke producten te gebruiken** bij het afbouwen van farmaceutische medicijnen tegen een hoge mate van angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid dan wel onrust, zouden binnen zorgklinieken moeten worden verhoogd om nare bijwerkingen te voorkomen. Hierdoor kan de stap naar de hedendaagse maatschappij ook worden verkleind door bij patiënten nieuwe routines te introduceren met natuurlijke producten in alle daagse handelingen, goed voor de algehele gemoedstoestand. 
+**De norm om meer natuurlijke producten te gebruiken** bij het afbouwen van farmaceutische medicijnen tegen een hoge mate van angstgevoelens, gespannenheid, paniekstoornissen, slapeloosheid dan wel onrust, zouden binnen zorgklinieken moeten worden verhoogd om nare bijwerkingen te voorkomen. Hierdoor kan de stap naar de hedendaagse maatschappij ook worden verkleind door bij patiënten nieuwe routines te introduceren met natuurlijke producten in alledaagse handelingen; goed voor het versterken van de algehele gemoedstoestand. 
 
 **Conclusie** <br>
 Verzorg dagelijks lichaam en geest met kruiden uit Siberië.
 
-<br>
-* _Benieuwd naar de natuurlijke oplossing om gezondheidsproblemen te verminderen, waarbij de kans op de ongewenste bijwerkingen van farmaceutische medicijnen wordt ontweken?_
 <br><br>
 Lees het artikel 'De 7 gezondheidsvoordelen van Ivan Chai' en laat je informeren
 <br><br>
