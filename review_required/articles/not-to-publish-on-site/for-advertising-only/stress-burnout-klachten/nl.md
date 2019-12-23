@@ -1,12 +1,7 @@
 ## Ivan Chai tegen stress & burnout klachten
 
-**Ivan Chai is een Siberische kruidenthee wat de kans op stress en burnout klachten preventief vermindert**
+_Werkstress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, meer verantwoordelijkheden of controle door het management._
 
-_Werkstress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk of meer verantwoordelijkheden._
-
-Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Sterker nog, het is goed voor je. Je bent erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen.
-
-Enkele eigenschappen die kwetsbaarder maken voor stress zijn:
 * Ambitie
 * Prestatiegerichtheid
 * Competitie
@@ -15,15 +10,19 @@ Enkele eigenschappen die kwetsbaarder maken voor stress zijn:
 * Groot betrokkenheidsgevoel 
 * Streven naar waardering van anderen 
 
-Kortom: **carrière willen maken**
+Kortom: het **'carrière willen maken'** is van invloed op de ontwikkeling van stress en burnout klachten.
 
-Veel professionals passen hun leefritme hierdoor verkeerd aan. Hierdoor sluipen verkeerde eetgewoonte, **te veel koffie of alcohol** en te weinig lichaamsbeweging, slaap, ontspanning of überhaupt pauze nemen er bij in. Je weerstand wordt er kleiner door en je wordt vatbaarder voor de gevolgen van stress.
+Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Sterker nog, het is goed voor je. Je bent erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen.
 
-* De kans op stress en burnout klachten verminderen? <br>
-**Verzorg dagelijks lichaam en geest met kruiden uit Siberië.** 
+Veel professionals passen hun leefritme hierdoor verkeerd aan. Hierdoor sluipen verkeerde eetgewoonte, **te veel koffie of alcohol** en te weinig lichaamsbeweging, slaap, ontspanning of überhaupt pauze nemen er bij in. Je weerstand wordt er door vermindert en je wordt vatbaarder voor de gevolgen van stress.
 
-Benieuwd waar Ivan Chai nog meer als preventieve behandeling tegen werkt waardoor de kans op gezondheidsproblemen worden vermindert?
+* Ben jij op zoek naar het verminderen stress en burnout klachten? <br>
+Maak kennis met Ivan Chai, Siberische kruidenthee met 7 gezondheidsvoordelen. 
 
-Lees het artikel 'de 7 gezondheidsvoordelen van Ivan Chai' en ontdek welke 17 gezondheidsproblemen preventief worden vermindert. 
+**Verzorg dagelijks lichaam en geest met kruiden uit Siberië.** Verminder stress en burnout klachten. 
+
+Benieuwd waar Ivan Chai nog meer als preventieve behandeling tegen werkt en waardoor de kans op 17 gezondheidsproblemen worden vermindert?
+
+Lees onze artikelen en laat je informeren.
 
 [Button Ontdek meer]
