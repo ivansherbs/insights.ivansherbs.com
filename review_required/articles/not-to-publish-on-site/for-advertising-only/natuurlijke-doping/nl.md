@@ -5,9 +5,19 @@ De gezondheidsvoordelen:
 * Kalmerend effect verbetert de concentratie
 * Vermindert stress en helpt tegen angst
 
-**Voor de wedstrijd:**
+Ivan Chai versterkt je gezondheid en algehele gemoedstoestand.
+
+**Dosering en behandelingskuur**
+
+In het algemeen geven de onderstaande doseringen voldoende resultaat:
+
+* Drink 1 kop voor de maaltijd en 2 keer per dag gedurende 7 dagen.
+
 In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase, waardoor het kalmerende effect pas merkbaar is na enkele dagen. In andere woorden, 1 kop Ivan Chai maakt niet het verschil. Na deze opbouwfase zul je het verschil merkbaar voelen.
 
+
+
+Lees het artikel 'de 7 gezondheidsvoordelen van Ivan Chai'. 
 
 
 herschrijven: 
