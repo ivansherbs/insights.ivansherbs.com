@@ -10,4 +10,4 @@ _Ivan Chai bevat 7 gezondheidsvoordelen en kan worden gebruikt als preventieve b
 
 * Lees het artikel 'de 7 gezondheidsvoordelen van Ivan Chai'
 
-[Ontdek meer] 
+[Button Ontdek meer] 
