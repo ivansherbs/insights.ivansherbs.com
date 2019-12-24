@@ -1,4 +1,4 @@
-## Ivan Chai: de natuurlijke doping for sporters <br>
+## Ivan Chai: de natuurlijke doping for denksporters <br>
 **Onze Siberische kruidenthee versterkt je gezondheid en algehele gemoedstoestand**
 
 De gezondheidsvoordelen voor _denksporters_: 
