@@ -23,12 +23,8 @@ Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en g
 ### 1.1 Infecties
 
 Iedereen heeft last van schimmels (o.a. oraal, vaginaal, anaal). Een overtollige hoeveelheid aan schimmels kan door gebruik van farmaceutische medicijnen, waaronder antibiotica, anticonceptiepil en maagzuurremmers, worden versterkt ([13.1](https://candida.nl),[13.2](https://www.rivm.nl/candida)). Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13.3](https://www.sfk.nl/publicaties/PW/2019/anticonceptiepil-op-rantsoen-door-tekort)). Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer ([13.4](https://www.gezondheidsnet.nl/brandend-maagzuur/wat-je-moet-weten-over-maagzuurremmers)). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13.5](https://www.sfk.nl/publicaties/PW/2017/antibioticagebruik-in-zomer-daalt-al-enige-jaren-gestaag)).  
-
-Hiernaast zijn de risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot roken, een kunstgebit en diabetes ([13.6](https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond)).
-
-### 1.1.1 Urineweginfectie
-
-80% van de vrouwen krijgt ten minste 1 keer in hun leven een (schimmel)infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([13.7](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
+Volgens de statistieken krijgt 80% van de vrouwen ten minste 1 keer in hun leven een (schimmel)infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([13.7](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
+De risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes ([13.6](https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond)).
 
 ### 1.2 Verkoudheid en griep
 
@@ -152,20 +148,15 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 
 ## 6) Verzorgt het spijsverteringsstelsel
 
-### 6.1 Maag-, lever- of darmproblemen
-Ruim 3.700.000 Nederlanders heeft last van maag-, lever- of darmproblemen ([18](https://www.maxvandaag.nl/sessies/themas/gezondheid-sport/ruim-37-miljoen-nederlanders-hebben-maag-lever-of-darmproblemen/)). Jaarlijks bedragen de zorguitgaven voor deze problemen zo'n € 3.300.000.000, zeggende: drie miljard en drie honderd miljoen euro. Vrouwen hebben vaker te kampen met dit soort problemen dan mannen. 
+### 6.1 Maagklachten
 
-### 6.1.1 Maagklachten
+Van alle Nederlanders heeft 1 op de 4 mensen wel eens last van de maag. Voor maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18.0](https://www.mlds.nl/ziekten/functionele-maagklachten/)).
 
-Van alle Nederlanders heeft 1 op de 4 mensen wel eens last van de maag. Voor maagklachten zijn geen aanwijsbare oorzaken gevonden en toch hebben we last van de maagwand of last van brandend maagzuur. Deze klachten staan bekend als functionele maagklachten ([18.1](https://www.mlds.nl/ziekten/functionele-maagklachten/)).
-
-### 6.1.2 Darmklachten
+### 6.1 Darmklachten
 
 Onderzoek heeft aangetoond dat stress, een gebrek aan vezels, vocht, beweging of een onregelmatig leven een van de oorzaken kan zijn die leiden tot darmklachten. De meest voorkomende vorm van darmklachten is het prikkelbare darm syndroom. 75% van de patiënten is vrouw 
-([18.2](https://www.darmgezondheid.nl/darmklachten/),[18.3](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/pds/)). Ook de al eerder besproken schimmels waar iedereen last van heeft kunnen een oorzaak zijn van darmklachten, wat kan leiden tot diarree en anale jeuk ([18.4](https://candida.nl/),[18.5](https://www.huidarts.com/huidaandoeningen/anale-jeuk/),[18.6](https://hhhpraktijk.nl/node/165)). Hiernaast krijgt gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree. In de medische wereld staat reizigersdiarree ook wel bekend als Turista ([18.4](https://www.thuisarts.nl/diarree/ik-heb-reizigersdiarree),[18.5](https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103)). 
-
-### 6.1.2.1 Darmklachten in combinatie met antibiotica
-Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de farmaceutische industrie. Door het gebruik van antibiotica kan de darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een antibioticakuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geassocieerde Diarree - ADD. ADD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt acht weken na de kuur nog last had van diarree ([18.6](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/diarree/antibiotica-en-diarree/)). 
+([18.1](https://www.darmgezondheid.nl/darmklachten/),[18.2](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/pds/)). Ook de al eerder besproken schimmels waar iedereen last van heeft kunnen een oorzaak zijn van darmklachten, wat kan leiden tot diarree en anale jeuk ([18.3](https://candida.nl/),[18.4](https://www.huidarts.com/huidaandoeningen/anale-jeuk/),[18.5](https://hhhpraktijk.nl/node/165)). Hiernaast krijgt gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland last van reizigersdiarree. In de medische wereld staat deze vorm van darmklachten ook wel bekend als Turista ([18.4](https://www.thuisarts.nl/diarree/ik-heb-reizigersdiarree),[18.6](https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=103)). 
+Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de farmaceutische industrie. Door het gebruik van antibiotica kan de darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een antibioticakuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geassocieerde Diarree - ADD. ADD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt acht weken na de kuur nog last had van diarree ([18.7](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/diarree/antibiotica-en-diarree/)). 
 
 **_Ivan Chai verzorgt het spijsverteringsstelsel:_** 
 
