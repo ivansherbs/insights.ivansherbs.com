@@ -1,6 +1,6 @@
 # Ivan Chai: verzorgt de gezondheid van prostaat en urinewegen
 
-## Pak onderstaande gezondheidsproblemen aan met Ivan Chai
+**Pak onderstaande gezondheidsproblemen aan met Ivan** <br>
 * Prostaatontsteking
 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen.
@@ -27,11 +27,11 @@ Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. **Vrouwen hebben e
 
 Tot op heden (2019) zijn er geen studies op klinisch niveau geweest om te bevestigen dat het nemen van een doses Ivan Chai het PSA-niveaus van mannen verlaagt. Er zijn echter drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantoonden dat Ivan Chai het niveau van PSA-secretie aanzienlijk kunnen verlagen ([5],[6],[7]).
 
-## Ingrediënten
+**Ingrediënten** <br>
 
 1 el Ivan Chai
 
-## Bereidingswijze geneesmiddel
+**Bereidingswijze** <br>
 
 Totale tijd: **7** minuten
 
@@ -41,7 +41,7 @@ Ter info:
 
 Natuurlijk zoet. Wordt niet bitter als het te lang wordt gebrouwen.
 
-## Dosering en behandelingskuur
+**Dosering en behandelingskuur** <br>
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 
@@ -49,7 +49,7 @@ In het algemeen geven de onderstaande doseringen voldoende resultaat:
 * Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
 
 
-## Voorzorgsmaatregelen
+**Voorzorgsmaatregelen** <br>
 
 Het wordt geadviseerd om een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met _farmaceutische_ medicijnen.
 
@@ -63,7 +63,7 @@ Let op:
 
 Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
 
-## Contra-indicaties en waarschuwingen
+**Contra-indicaties en waarschuwingen** <br>
 
 Ivan Chai is een extreem veilige soort (klassen) kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen en is veilig voor kinderen.
 
@@ -75,11 +75,11 @@ Het is van _nature vrij_ van:
 *   _Oxaalzuur_
 *   _L-theanine_
 
-**Rijvaardigheid**
+**Rijvaardigheid** <br>
 
 In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking die duizeligheid kan veroorzaken en daarmee de rijvaardigheid kan beïnvloeden. 
 
-**Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?**
+**Hoe bewaart u Ivan's Herbs Ivan Chai 2gr?** <br>
 
 - Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de _herbruikbare_ tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard van dit product kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
 
@@ -89,6 +89,7 @@ Wanneer het geneesmiddel op de gebruikelijke manier wordt geconsumeerd, kunnen 
 
 [Button Ontdek meer] 
 
+<br><br>
 
 ## Referenties
 
