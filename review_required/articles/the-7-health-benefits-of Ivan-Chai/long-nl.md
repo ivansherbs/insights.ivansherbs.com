@@ -51,6 +51,7 @@ Ontstekingen kunnen het dagelijkse functioneren voor zowel mannen als vrouwen be
 * Schimmels 
 * Virussen
 
+Het immuunsysteem probleert de organen te beschermen tegen infecties en verwonderingen. 
 Hieronder een kort overzicht van veel voorkomende ontstekingen met enkele gevolgen binnen de Nederlandse samenleving. 
 
 ### 2.1.1 Blaasontsteking
