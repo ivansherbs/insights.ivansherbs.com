@@ -1,2 +1,11 @@
-* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). De medische wereld doet verderstrekkend onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen ([4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
+## Ivan Chai: een kalmerende werking voor lichaam en geest
+
+**De Siberische kruidenthee Ivan Chai heeft een kalmerende werking;** wat goed werkt _tegen stress_ en _helpt de angst te verminderen_. Deze milde kalmerende werking vindt zijn oorsprong in de traditionele volksgeneeskunde
+
 In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase, waardoor het kalmerende effect pas merkbaar is na enkele dagen. In andere woorden, 1 kop Ivan Chai maakt niet het verschil. Na deze opbouwfase zul je het verschil merkbaar voelen. 
+
+**Verzorg dagelijks lichaam en geest met kruiden uit Siberië
+
+Beniewd naar de 7 gezondheidsvoordelen van Ivan Chai? 
+
+[Button Ontdek meer] 
