@@ -100,7 +100,7 @@ Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaa
 Slaapproblemen komen hiernaast niet alleen voor bij arbeiders. Arbeidsongeschikten hebben ook te kampen met dit probleem. Uit recentelijk onderzoek is tevens gebleken dat een groot deel van de slapeloosheid wordt veroorzaakt door stress ([16.3](https://www.slaapinfo.nl/soorten-slaapstoornissen/slapeloosheid/)). 
 Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit komt door de cafeïne. Ongeveer 80% van de Nederlander drinkt koffie op zijn tijd ([16.4](https://www.gezondheidsplein.nl/dossiers/goed-slapen-zo-krijg-je-een-goede-nachtrust/hoe-beinvloeden-alcohol-en-cafeine-het-inslapen-en-je-nachtrust/item43857),[16.5](https://www.rtlnieuws.nl/gezondheid/artikel/143976/hoeveel-koffie-kun-je-dag-drinken-en-werkt-het-tegen-een-kater-vier)).
 
-### 4.1 Angst
+### 4.2 Angst
 
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen ([16.6](https://www.mentaalvitaal.nl/angststoornis)). 
 
@@ -108,7 +108,7 @@ Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst verst
 
 Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up ([16.11](https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/),[16.12](https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html%20),[16.13](https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/)).
 
-### 4.2 Stress & burnout klachten
+### 4.3 Stress & burnout klachten
 
 Stress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([16.14](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[16.15](https://www.hartstichting.nl/risicofactoren/stress)). Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Je bent namelijk erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen ([16.16](https://www.depsycholoog.nl/overspannen-en-burnout/)).
 
