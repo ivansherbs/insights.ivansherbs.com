@@ -43,26 +43,15 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.10](https:/
 
 ## Krachtige ontstekingsremmer
 
-### 4. Ontstekingen 
-
-Ontstekingen kunnen het dagelijkse functioneren voor zowel mannen als vrouwen belemmeren. Er zijn vele verschillende oorzaken voor het verkrijgen van een ontsteking, denk hierbij aan het volgende; 
-* Bacteriën
-* Chemische stoffen
-* Fysische prikkels, zoals warmte en straling 
-* Virussen
-
-Het immuunsysteem probleert de organen te beschermen tegen onstekingen en verwonderingen. 
-Hieronder een kort overzicht van veel voorkomende ontstekingen met enkele gevolgen binnen de Nederlandse samenleving. 
-
-### 5. Blaasontsteking
+### 4. Blaasontsteking
 
 Bij vrouwen boven de 12 jaar komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14](https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/),[14.1](https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen),[14.2](https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking)). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. Hiernaast blijkt uit Europees onderzoek dit gezondheidsprobleem zelfs van invloed is op de kwaliteit van het leven ([14.3](https://www.gezondheidsnet.nl/blaasontsteking/blaasontsteking-een-sekssouvenir),[14.4](https://www.tandfonline.com/doi/abs/10.1080/14737167.2017.1359543?journalCode=ierp20)).
 
-### 6. Darmontsteking
+### 5. Darmontsteking
 
 Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand ([14.5](https://www.kiesbeter.nl/onderwerpen/chronische-darmontstekingen?subjectId=219&sectorId=1)). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis' ([14.6](https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html)). De meest voorkomende ontstekingen zijn virale- of bacteriële-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([14.7](https://mens-en-gezondheid.infonu.nl/ziekten/52748-darmonsteking-en-diarree.html)) door bijvoorbeeld te lang stil zitten.
 
-### 7. Menstruatiepijn 
+### 6. Menstruatiepijn 
 
 85% van de Nederlandse vrouwen heeft last van menstruatiepijn. Menstruatieklachten belemmeren een groot deel van deze vrouwen in hun dagelijkse functioneren ([14.8](https://zorgnu.avrotros.nl/nieuws/item/veel-vrouwen-beperkt-in-dagelijks-leven-vanwege-menstruatieklachten/)). Menstruatiepijn wordt veroorzaakt door hoge waarden van zogenaamde 'verkeerde' prostaglandinen, aangemaakt door endometriose. De juiste prostaglandinen hebben namelijk wel een positieve werking op het vrouwelijk lichaam door het remmen van onstekingen, het ontspannen van spieren en het beschermen van het maagslijmvlies waardoor die bekende periode gepaard met menstruatiepijn wordt verlicht. Het verlagen van  de waarden prostaglandinen met endometriose, voorafgaand aan een opbouwfase waarin de aanmaak van deze waarden van prostaglandinen wordt vermindert, zal de  menstruatiepijn verzachten ([14.9](https://endometriosis.org/treatments/painkillers/managing-endometriosis-pain-with-nsaids-nederlands/)).
 
@@ -74,7 +63,7 @@ Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand
 
 ## Versterkt de antioxiderede werking
 
-### 8. Hart- en vaatziekten
+### 7. Hart- en vaatziekten
 
 * Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 * 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
@@ -91,13 +80,13 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([15.2]
 
 ## Verbetert de slaap en vermindert angst, stress & burnout klachten  
 
-### 9. Slaapproblemen
+### 8. Slaapproblemen
 
 Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Mensen worden belemmerd in hun functioneren en het verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([16](https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen),[16.1](https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen)). Bij Nederlanders met onregelmatige werktijden ligt dit percentage tussen de 42% en 68%. Het is algemeen bekend dat de de laatste jaren het aantal medewerkers met slaapproblemen stijgt, echter pakt slecht 10% van bedrijven dit probleem actief aan ([16.2](https://www.rtlnieuws.nl/geld-en-werk/artikel/375541/wie-meer-succes-wil-hebben-moet-meer-slapen)).
 Slaapproblemen komen hiernaast niet alleen voor bij arbeiders. Arbeidsongeschikten hebben ook te kampen met dit probleem. Uit recentelijk onderzoek is tevens gebleken dat een groot deel van de slapeloosheid wordt veroorzaakt door stress ([16.3](https://www.slaapinfo.nl/soorten-slaapstoornissen/slapeloosheid/)). 
 Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit komt door de cafeïne. Ongeveer 80% van de Nederlander drinkt koffie op zijn tijd ([16.4](https://www.gezondheidsplein.nl/dossiers/goed-slapen-zo-krijg-je-een-goede-nachtrust/hoe-beinvloeden-alcohol-en-cafeine-het-inslapen-en-je-nachtrust/item43857),[16.5](https://www.rtlnieuws.nl/gezondheid/artikel/143976/hoeveel-koffie-kun-je-dag-drinken-en-werkt-het-tegen-een-kater-vier)).
 
-### 10. Angst
+### 9. Angst
 
 In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen ([16.6](https://www.mentaalvitaal.nl/angststoornis)). 
 
@@ -105,16 +94,12 @@ Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst verst
 
 Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up ([16.11](https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/),[16.12](https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html%20),[16.13](https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/)).
 
-### 11. Stress & burnout klachten
+### 10. Stress 
 
-Stress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([16.14](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[16.15](https://www.hartstichting.nl/risicofactoren/stress)). Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Je bent namelijk erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen ([16.16](https://www.depsycholoog.nl/overspannen-en-burnout/)).
+Stress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([16.14](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[16.15](https://www.hartstichting.nl/risicofactoren/stress)). 53% van de medewerkers ervaart stress op werk. Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Je bent namelijk erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen ([16.16](https://www.depsycholoog.nl/overspannen-en-burnout/)).
 
-**Status quo**
-Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Hiernaast ervaart 53% van de medewerkers stress op werk. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([16.17](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[16.12](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de **kosten gepaard met werkstress** in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: **twee miljard en acht honderd miljoen euro** ([16.18](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)). 
-
-**Gevolgen**
-Hiernaast kunnen problemen als stress in combinatie met farmaceutische producten zoals zeep, parfum of antibiotica een trigger zijn voor verschillende huidaandoeningen. Onder deze huidaandoeningen valt eczeem waar in Nederland meer dan 1.000.000 mensen dagelijks mee te maken hebben. Deze aandoening wordt versterkt als gevolg van overgewicht ([16.19](https://www.volksgezondheidenzorg.info/onderwerp/overgewicht/cijfers-context/huidige-situatie)).
-
+### 11. Burnout klachten
+Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([16.17](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[16.12](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de **kosten gepaard met werkstress** in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: **twee miljard en acht honderd miljoen euro** ([16.18](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)). 
 
 **_Ivan Chai vermindert angst, stress & burnout klachten en verbetert de slaap:_** 
 
