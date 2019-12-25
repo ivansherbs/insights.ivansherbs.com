@@ -23,7 +23,6 @@ Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en g
 ### 1. Infecties <br>
 Iedereen heeft last van schimmels (o.a. oraal, vaginaal, anaal). Een overtollige hoeveelheid aan schimmels kan door gebruik van farmaceutische medicijnen, waaronder antibiotica, anticonceptiepil en maagzuurremmers, worden versterkt ([13.1](https://candida.nl),[13.2](https://www.rivm.nl/candida)). Circa 1.600.000 vrouwen gebruikt de anticonceptiepil ([13.3](https://www.sfk.nl/publicaties/PW/2019/anticonceptiepil-op-rantsoen-door-tekort)). Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer ([13.4](https://www.gezondheidsnet.nl/brandend-maagzuur/wat-je-moet-weten-over-maagzuurremmers)). Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik ([13.5](https://www.sfk.nl/publicaties/PW/2017/antibioticagebruik-in-zomer-daalt-al-enige-jaren-gestaag)).  
 
-**Urinewegen** <br>
 Volgens de statistieken krijgt 80% van de vrouwen ten minste 1 keer in hun leven een (schimmel)infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([13.7](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
 De risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes ([13.6](https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond)).
 
