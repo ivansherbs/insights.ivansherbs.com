@@ -11,7 +11,7 @@ De Siberische kruidenthee Ivan Chai bereikte door de vele handelsroutes vanuit A
 **Russische revolutie** <br>
 In de nasleep van de Russische revolutie van 1917 stopte de commerciële productie. De consumptie van Ivan Chai was vrijwel tot nul gedaald voor Rusland en de rest van West-Europa. Zelfs in Rusland bleef deze heilzame kruidenthee Ivan Chai enigszins onbekend. Anno 2017 vond er langzaam een opleving plaats waarbij Ivan Chai wederom werd geïntroduceerd in West-Europa. 
 
-_Ivan Chai bevat 7 gezondheidsvoordelen en kan worden gebruikt als preventieve behandeling tegen 17 gezondheidsvoordelen._
+_Ivan Chai bevat 7 gezondheidsvoordelen en kan worden gebruikt als preventieve behandeling tegen 17 gezondheidsproblemen._
 
 * Lees het artikel 'de 7 gezondheidsvoordelen van Ivan Chai'
 
