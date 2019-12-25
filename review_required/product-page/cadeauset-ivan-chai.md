@@ -12,6 +12,7 @@ _Ivan Chai is de natuurlijke oplossing als aanvulling of alternatief op farmaceu
 Onze Siberische kruidenthee heeft een krachtige impact op het menselijk lichaam door het versterken van de weerstand en de van nature onstekingsremmende werking. Hiernaast heeft het een positive effect op ons hart en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een opbouwfase waardoor angst, stress & burnout klachten worden vermindert, met als positieve bijkomstigheid het verbeteren van de nachtrust. 
 
 Een van de belangrijkstse gezondheidsvoordelen voor de man is de verzorging van de prostaat. Volgens de statistieken krijgt >30% van iedere man boven de 45 jaar te kampen met problemen gericht op de prostaat. Bij gebruik wordt ook gelijk het spijsverteringsstelsel verzorgt. <br>
+
 De niet-bittere maar juist licht zoete nasmaak maakt het toevoegen van suiker overbodig. 
 
 -------------------------------------------------------------
@@ -78,7 +79,7 @@ Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines
 
 Totale tijd: **7 min**
 
-Schep de Ivan Chai in een theezeef. Voeg de theezeef toe aan het water. Laat dit kruideninfuus rond de **7** minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **70** graden Celsius. 
+Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan het water. Laat dit kruideninfuus rond de **7** minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **70** graden Celsius. 
 
 
 -------------------------------------------------------------
@@ -91,7 +92,7 @@ In het algemeen geven de onderstaande doseringen voldoende resultaat:
 * Drink 1 kop voor de maaltijd en 2 keer per dag gedurende **7** dagen. <br>
 * Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
 
-In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde oplaadfase waardoor het kalmerende effect pas merkbaar is na enkele dagen. Na deze oplaadfase wat per gezondheidsprobleem verschilt zul je het verschil merkbaar voelen. 
+In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase waardoor het kalmerende effect pas merkbaar is na enkele dagen. Na deze opbouwfase, wat per gezondheidsprobleem, verschilt zul je het verschil merkbaar voelen. 
 
 Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17 gezondheidsproblemen:
 
