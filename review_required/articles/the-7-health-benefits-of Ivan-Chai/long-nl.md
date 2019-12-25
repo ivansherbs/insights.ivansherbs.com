@@ -18,7 +18,7 @@ Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en g
 
 <br>
 
-## 1) Versterkt de weerstand 
+## * Versterkt de weerstand 
 
 ### 1.1 Infecties
 
