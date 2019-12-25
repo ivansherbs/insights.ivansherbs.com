@@ -97,22 +97,22 @@ In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een z
 Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17 gezondheidsproblemen:
 
 1.  Infecties
-2.  Verkoudheid
-3.  Griep
-4.  Zwak immuunsysteem
-5.  Blaasontsteking 
-6.  Darmontsteking
-7.  Slaapproblemen
-8.  Angst
-9.  Stress
-10. Burnout klachten
-11. Hart- en vaatziekten
-12. Prostaatkanker
-13. Prostaatontsteking
-14. Benigne Prostaat Hyperplasie
-15. Menstruatiepijn
-16. Maagklachten
-17. Darmklachten
+2.  Verkoudheid en griep
+3.  Zwak immuunsysteem
+4.  Blaasontsteking
+5.  Darmontsteking 
+6.  Menstruatiepijn
+7.  Hart- en vaatziekten
+8.  Slaapproblemen
+9.  Angst
+10. Stress
+11. Burnout klachten
+12. Prostaatontsteking
+13. Benigne Prostaat Hyperplasie
+14. Prostaatkanker
+15. Maagklachten
+16. Darmklachten
+17. Diabetes
 
 -------------------------------------------------------------
 
