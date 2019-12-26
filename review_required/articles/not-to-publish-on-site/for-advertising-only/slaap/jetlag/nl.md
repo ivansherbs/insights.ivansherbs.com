@@ -5,7 +5,7 @@
 * Kalmerend effect
 * Tegen stress en burnout klachten
 
-Onze Siberische kruidenthee is cafeïnevrij en vermindert door de 7 gezondheidsvoordelen een groot deel van de symptonen gepaard met een Jetlag:
+Onze Siberische kruidenthee is cafeïnevrij en vermindert door de in totaal 7 gezondheidsvoordelen een groot deel van de symptonen gepaard met een Jetlag:
 * Vermoeidheid
 * Slapeloosheid
 * Verlies van eetlust of vreselijke honger op vreemde tijden
