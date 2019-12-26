@@ -1,8 +1,10 @@
 ## Ivan Chai: bevordert het concentratievermogen<br>
 
-De gezondheidsvoordelen voor de _denksporter_: 
+De gezondheidsvoordelen: 
 * Kalmerend effect
 * Vermindert stress
+
+**Kortom:** Uitermate geschikt; voor kaartspellen en denksporten
 
 **Onze Siberische kruidenthee versterkt je gezondheid en algehele gemoedstoestand** <br>
 
