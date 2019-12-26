@@ -20,7 +20,4 @@ In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Iva
 
 Ter info: _Ivan Chai is een natuurlijk product_
 
-**Benieuwd welke 7 gezondheidsvoordelen Ivan Chai nog bevat?** <br>
-Ivan Chai kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen.
-
 [Button Ontdek meer]
