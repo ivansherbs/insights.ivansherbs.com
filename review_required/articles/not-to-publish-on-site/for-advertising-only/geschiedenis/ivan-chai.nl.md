@@ -21,7 +21,7 @@ Het productieproces Ivan Chai werd door de jaren heen opgeschroeft. Dit gaf de e
 **Russische revolutie** <br>
 In de nasleep van de Russische revolutie van 1917 stopte de commerciële productie. De consumptie van Ivan Chai was vrijwel tot nul gedaald voor West-Europa en delen van Rusland. Zelfs in Rusland bleef deze heilzame kruidenthee Ivan Chai wederom enigszins onbekend. Anno 2017 vond er langzaam een opleving plaats waarbij Ivan Chai werd geherïntroduceerd in West-Europa.
 
-**Anno 2017**
+**Anno 2017** <br>
 Ivan Chai is door vele onafhankelijke instituten, waaronder het European Medicine Agency onderzocht. 
 
 _Ivan Chai bevat 7 gezondheidsvoordelen en kan worden gebruikt als preventieve behandeling tegen 17 gezondheidsproblemen._
