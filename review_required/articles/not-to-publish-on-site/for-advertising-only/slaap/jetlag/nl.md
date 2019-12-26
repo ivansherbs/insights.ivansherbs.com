@@ -1,6 +1,6 @@
 ## Last van een Jetlag?
 
-Ivan Chai bevat de volgende gezondheidsvoordelen tegen een Jetlag
+**Ivan Chai bevat de volgende gezondheidsvoordelen tegen een Jetlag**
 * Helpt je om te slapen en slaapstoornissen te overwinnen
 * Kalmerend effect
 * Tegen stress en burnout klachten
