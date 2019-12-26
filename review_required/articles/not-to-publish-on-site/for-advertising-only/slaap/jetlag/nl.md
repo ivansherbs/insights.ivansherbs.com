@@ -3,7 +3,8 @@
 **Ivan Chai bevat de gezondheidsvoordelen tegen een Jetlag:**
 * Helpt je om te slapen en slaapstoornissen te overwinnen
 * Kalmerend effect
-* Tegen stress en burnout klachten
+* Tegen stress
+* Verzorgt het spijsverteringsstelsel
 
 Onze Siberische kruidenthee is _cafeïnevrij_ en vermindert een groot deel van de symptonen die gepaard gaan met een Jetlag.
 Denk hierbij aan:
