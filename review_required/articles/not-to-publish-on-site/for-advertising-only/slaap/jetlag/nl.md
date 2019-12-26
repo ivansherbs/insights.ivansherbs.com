@@ -5,21 +5,14 @@
 * Kalmerend effect
 * Tegen stress en burnout klachten
 
-Onze Siberische kruidenthee is cafeïnevrij en vermindert door de in totaal 7 gezondheidsvoordelen een groot deel van de symptonen gepaard met een Jetlag:
-* Vermoeidheid
-* Slapeloosheid
-* Verlies van eetlust of vreselijke honger op vreemde tijden
-* Uitdroging
-* Sufheid
-* Prikkelbaarheid
-* Milde depressie
-* Maagklachten
-* Spijsverteringsproblemen
-* Hoofdpijn
-* Misselijkheid
-* Veel zweten
-* Concentratieproblemen
+Onze Siberische kruidenthee is cafeïnevrij en vermindert een groot deel van de symptonen gepaard met een Jetlag.
+Denk hierbij aan _slapeloosheid, uitdroging, sufheid, prikkelbaarheid, maagklachten, spijsverteringsproblemen, misselijkheid en concentratieproblemenn. 
 
-Benieuwd welke 7 gezondheidsvoordelen Ivan Chai bevat? 
+**Lange reis voor de boeg?** 
+Verzorg tijdig lichaam en geest met kruiden uit Siberië. 
+
+In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. In andere woorden, 1 kop Ivan Chai maakt niet het verschil. Na deze opbouwfase zul je het verschil merkbaar voelen. 
+
+Benieuwd welke 7 gezondheidsvoordelen Ivan Chai nog bevat? 
 
 [Button Ontdek meer]
