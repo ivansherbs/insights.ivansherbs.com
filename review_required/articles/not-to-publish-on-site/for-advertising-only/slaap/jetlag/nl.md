@@ -14,7 +14,7 @@ Denk hierbij aan:
 * maagklachten
 * spijsverteringsproblemen
 * misselijkheid
-* concentratieproblemenn
+* concentratieproblemen
 
 **Lange reis te gaan?** <br>
 Verzorg lichaam en geest met kruiden uit Siberië. 
