@@ -6,7 +6,7 @@
 * Tegen stress en burnout klachten
 
 Onze Siberische kruidenthee is _cafeïnevrij_ en vermindert een groot deel van de symptonen gepaard met een Jetlag.
-Denk hierbij aan _slapeloosheid, uitdroging, sufheid, prikkelbaarheid, maagklachten, spijsverteringsproblemen, misselijkheid en concentratieproblemenn. 
+Denk hierbij aan _slapeloosheid, uitdroging, sufheid, prikkelbaarheid, maagklachten, spijsverteringsproblemen, misselijkheid en concentratieproblemenn._
 
 **Lange reis voor de boeg?** 
 Verzorg tijdig lichaam en geest met kruiden uit Siberië. 
