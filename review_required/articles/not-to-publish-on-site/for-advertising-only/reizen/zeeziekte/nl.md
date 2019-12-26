@@ -1,5 +1,4 @@
 ## Zeeziekte: Lange reis voor de boeg?
-Verzorg lichaam en geest met kruiden uit Siberië. 
 
 **Ivan Chai bevat de gezondheidsvoordelen tegen zeeziekte:**
 * Verzorgt het spijsverteringsstelsel
@@ -15,6 +14,8 @@ Denk hierbij aan:
 * angst
 
 **Last van de symptonen?** <br>
+Verzorg lichaam en geest met kruiden uit Siberië. 
+
 In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. In andere woorden, 1 kop Ivan Chai maakt niet het verschil. Na deze opbouwfase zul je het verschil merkbaar voelen. 
 
 Ter info: _Ivan Chai is een natuurlijk product_
