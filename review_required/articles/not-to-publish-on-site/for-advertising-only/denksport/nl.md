@@ -4,7 +4,7 @@ De gezondheidsvoordelen:
 * Kalmerend effect
 * Vermindert stress
 
-**Kortom:** Uitermate geschikt; voor kaartspellen en denksporten
+**Kortom:** Uitermate geschikt voor kaartspellen en denksporten
 
 **Onze Siberische kruidenthee versterkt je gezondheid en algehele gemoedstoestand** <br>
 
