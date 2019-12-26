@@ -16,7 +16,7 @@ Denk hierbij aan:
 * misselijkheid
 * concentratieproblemenn
 
-**Lange reis voor de boeg?** 
+**Lange reis voor de boeg?** <br>
 Verzorg tijdig lichaam en geest met kruiden uit Siberië. 
 
 In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. In andere woorden, 1 kop Ivan Chai maakt niet het verschil. Na deze opbouwfase zul je het verschil merkbaar voelen. 
