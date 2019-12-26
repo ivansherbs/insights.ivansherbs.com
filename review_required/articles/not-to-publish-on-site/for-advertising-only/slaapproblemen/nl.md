@@ -1,5 +1,15 @@
+## Ivan Chai tegen slaapproblemen 
+
+Gezondheidsvoordelen Ivan Chai: 
+* Helpt je om te slapen en slaapstoornissen te overwinnen
+* Kalmerend effect
+* Cafeïnevrij
+* Tegen stress en burnout klachten
+
+Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Slaapproblemen belemmeren mensen in hun functioneren en het verhoogt de kans op een slechtere gezondheid. Uit recentelijk onderzoek is tevens gebleken dat een groot deel van de slapeloosheid wordt veroorzaakt door stress. Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en burnout klachten. Een fijne bijkomstigheid is dat het helpt de angst te verminderen.
 
 
-Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Mensen worden belemmerd in hun functioneren en het verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([16](https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen),[16.1](https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen)). Bij Nederlanders met onregelmatige werktijden ligt dit percentage tussen de 42% en 68%. Het is algemeen bekend dat de de laatste jaren het aantal medewerkers met slaapproblemen stijgt, echter pakt slecht 10% van bedrijven dit probleem actief aan ([16.2](https://www.rtlnieuws.nl/geld-en-werk/artikel/375541/wie-meer-succes-wil-hebben-moet-meer-slapen)).
-Slaapproblemen komen hiernaast niet alleen voor bij arbeiders. Arbeidsongeschikten hebben ook te kampen met dit probleem. Uit recentelijk onderzoek is tevens gebleken dat een groot deel van de slapeloosheid wordt veroorzaakt door stress ([16.3](https://www.slaapinfo.nl/soorten-slaapstoornissen/slapeloosheid/)). 
-Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit komt door de cafeïne. Ongeveer 80% van de Nederlander drinkt koffie op zijn tijd ([16.4](https://www.gezondheidsplein.nl/dossiers/goed-slapen-zo-krijg-je-een-goede-nachtrust/hoe-beinvloeden-alcohol-en-cafeine-het-inslapen-en-je-nachtrust/item43857),[16.5](https://www.rtlnieuws.nl/gezondheid/artikel/143976/hoeveel-koffie-kun-je-dag-drinken-en-werkt-het-tegen-een-kater-vier)).
+
+* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). De medische wereld doet diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen ([4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20)). Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen.
+In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase, waardoor het kalmerende effect pas merkbaar is na enkele dagen. In andere woorden, 1 kop Ivan Chai maakt niet het verschil. Na deze opbouwfase zul je het verschil merkbaar voelen. 
+
