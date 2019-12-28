@@ -99,19 +99,19 @@ Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17
 1.  Infecties
 2.  Verkoudheid en griep
 3.  Zwak immuunsysteem
-4.  Blaasontsteking
-5.  Darmontsteking 
-6.  Menstruatiepijn
-7.  Hart- en vaatziekten
-8.  Slaapproblemen
-9.  Angst
-10. Stress
-11. Burnout klachten
-12. Prostaatontsteking
-13. Benigne Prostaat Hyperplasie
-14. Prostaatkanker
-15. Maagklachten
-16. Darmklachten
+4.  Keelontsteking 
+5.  Blaasontsteking
+6.  Darmontsteking 
+7.  Menstruatiepijn
+8.  Hart- en vaatziekten
+9.  Slaapproblemen
+10. Angst
+11. Stress
+12. Burnout klachten
+13. Prostaatontsteking
+14. Benigne Prostaat Hyperplasie
+15. Prostaatkanker
+16. Buikgriep
 17. Diabetes
 
 -------------------------------------------------------------
