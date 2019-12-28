@@ -43,9 +43,9 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.10](https:/
 
 ## Krachtige ontstekingsremmer
 
-### 4. Keelonsteking 
+### 4. Keelontsteking 
 
-Een keelonsteking wordt veroorzaakt door een infectie met een virus. Slikken gaat lastig en doet zeer. Bij een zwaardere vorm van keelonsteking kunnnen de lympfklieren zijn opgezet. Hiernaast zijn er enkele risicofactoren verbonden aan deze vorm van onsteking, namelijk roken, schreeuwen en stress. Met name roken en stress kunnen ervoor zorgen dat de weerstand lager is en de kans wordt verhoogd. Farmaceutische medicijnen, zoals antibiotica, hebben meestal geen zin bij keelonsteking ([14](https://www.gezondheidsnet.nl/griep-en-verkoudheid/keelontsteking)).
+Een keelontsteking wordt veroorzaakt door een infectie met een virus. Slikken gaat vaak lastig en doet zeer. Bij een zwaardere vorm van keelonsteking kunnnen de lympfklieren zijn opgezet. Hiernaast zijn er enkele risicofactoren verbonden aan deze vorm van ontsteking, namelijk roken, schreeuwen en stress. Met name roken en stress kunnen ervoor zorgen dat de weerstand lager is en de kans wordt verhoogd. Farmaceutische medicijnen, zoals antibiotica, hebben meestal geen zin bij keelontsteking ([14](https://www.gezondheidsnet.nl/griep-en-verkoudheid/keelontsteking)).
 
 ### 5. Blaasontsteking
 
@@ -57,7 +57,7 @@ Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand
 
 ### 7. Menstruatiepijn 
 
-Menstruatiepijn kan worden veroorzaakt door een onsteking. 85% van de Nederlandse vrouwen heeft last van menstruatiepijn. Menstruatieklachten belemmeren een groot deel van deze vrouwen in hun dagelijkse functioneren ([14.9](https://zorgnu.avrotros.nl/nieuws/item/veel-vrouwen-beperkt-in-dagelijks-leven-vanwege-menstruatieklachten/)). Deze vorm van pijn wordt veroorzaakt door hoge waarden van zogenaamde 'verkeerde' prostaglandinen. De 'juiste' prostaglandinen hebben namelijk wel een positieve werking op het vrouwelijk lichaam door het remmen van onstekingen, het ontspannen van spieren en het beschermen van het maagslijmvlies waardoor die bekende periode gepaard met menstruatiepijn wordt verlicht. Voorafgaand aan een korte opbouwfase waarin de aanmaak van deze waarden van prostaglandinen wordt vermindert, kan menstruatiepijn worden verzachten ([14.10](https://endometriosis.org/treatments/painkillers/managing-endometriosis-pain-with-nsaids-nederlands/)).
+Menstruatiepijn kan worden veroorzaakt door een ontsteking rondom de baarmoeder. 85% van de Nederlandse vrouwen heeft last van menstruatiepijn. Menstruatieklachten belemmeren een groot deel van deze vrouwen in hun dagelijkse functioneren ([14.9](https://zorgnu.avrotros.nl/nieuws/item/veel-vrouwen-beperkt-in-dagelijks-leven-vanwege-menstruatieklachten/)). Deze vorm van pijn wordt veroorzaakt door hoge waarden van zogenaamde 'verkeerde' prostaglandinen. De 'juiste' prostaglandinen hebben namelijk wel een positieve werking op het vrouwelijk lichaam door het remmen van onstekingen, het ontspannen van spieren en het beschermen van het maagslijmvlies waardoor die bekende periode gepaard met menstruatiepijn wordt verlicht. Voorafgaand aan een korte opbouwfase waarin de aanmaak van deze waarden van prostaglandinen wordt vermindert, kan menstruatiepijn worden verzachten ([14.10](https://endometriosis.org/treatments/painkillers/managing-endometriosis-pain-with-nsaids-nederlands/)).
 
 **_Ivan Chai werkt als een krachtige ontstekingsremmer:_** 
 
