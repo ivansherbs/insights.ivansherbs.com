@@ -23,7 +23,7 @@ Ivan Chai is een kruidenthee met 7 gezondheidsvoordelen. Deze kruidenthee komt u
 *	_Goed voor hart- en vaatstelsel_
 *	_Krachtige ontstekingsremmer_
 
-Hiernaast is Ivan Chai ook goed tegen _angst_, _stress_ en _burnout klachten_ en heeft het voor mannen een positief effect op de _prostaat_. 
+Hiernaast is Ivan Chai ook goed tegen _**angst**_, _**stress**_ en _**burnout klachten**_ en heeft het voor mannen een positief effect op de _**prostaat**_. 
 
 **Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai als preventieve behandeling kan worden gebruikt?**
 
