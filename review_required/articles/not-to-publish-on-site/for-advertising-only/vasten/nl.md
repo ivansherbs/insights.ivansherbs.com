@@ -9,9 +9,9 @@ Gedurende de vastenmaand moet het lichaam wennen aan een nieuw ritme van eten en
 Ivan Chai kan worden gebruikt als preventieve behandeling tegen gezondheidsproblemen; waarvan de kans wordt vergroot gedurende het vasten. 
 
 **Welke gezondheidsproblemen kan het vasten met zich meebrengen?** <br>
-Veel voorkomende problemen bij het vasten komen door een verandering in het eetpatroon; met als gevolg een **verminderde darmflora**. Vasten is nou eenmaal  van invloed op uw metabolisme, oftewel de stofwisseling. Door een gebrek aan vocht en koolhydraten, kan u last krijgen van **misselijkheid** en in sommige gevallen hoofdpijn. De omschakeling van uw eetmoment heeft een grote invloed op uw slaappatroon. <br>
-Volgens onderzoek hebben deelnemers te kampen met een **slaaptekort**. Op kortere termijn heeft dit een gebrek aan energie, verminderde concentratie en prikkelbaarheid tot gevolg. Op langere termijn kan dit van invloed zijn op een **verminderde weerstand** en een **verlaagde hartslag**. <br>
-Niet drinken vergroot bij vrouwen de kans op een **blaasontsteking**. Door een tekort aan vocht worden de urinewegen in beperkte mate gespoeld. Hierdoor hebben ongewenste bacteriën de mogelijkheid om de blaas te bereiken; met een ontsteking tot gevolg. 
+Veel voorkomende problemen bij het vasten komen door een verandering in het eetpatroon; met als gevolg een _**verminderde darmflora**_. Vasten is nou eenmaal  van invloed op uw metabolisme, oftewel de stofwisseling. Door een gebrek aan vocht en koolhydraten, kan u last krijgen van _**misselijkheid**_ en in sommige gevallen hoofdpijn. De omschakeling van uw eetmoment heeft een grote invloed op uw slaappatroon. <br>
+Volgens onderzoek hebben deelnemers te kampen met een _**slaaptekort**_. Op kortere termijn heeft dit een gebrek aan energie, verminderde concentratie en prikkelbaarheid tot gevolg. Op langere termijn kan dit van invloed zijn op een _**verminderde weerstand**_ en een _**verlaagde hartslag**_. <br>
+Niet drinken vergroot bij vrouwen de kans op een _**blaasontsteking**_. Door een tekort aan vocht worden de urinewegen in beperkte mate gespoeld. Hierdoor hebben ongewenste bacteriën de mogelijkheid om de blaas te bereiken; met een ontsteking tot gevolg. 
 
 **Wat is Ivan Chai?** <br>
 Ivan Chai is een kruidenthee met 7 gezondheidsvoordelen. Deze kruidenthee komt uit Siberië. Vanwege alle ruimte in Siberië kunnen de kruiden waarvan Ivan Chai wordt gemaakt in het wild groeien en hebben geen last van vervuiling. 
