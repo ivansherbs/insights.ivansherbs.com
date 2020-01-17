@@ -1,4 +1,8 @@
-## Hoe duurzaam is het productieproces van Ivan Chai uit Siberië? 
+To post on Q/A site:
+
+Vraag: 
+
+Hoe duurzaam is het productieproces van Ivan Chai uit Siberië? 
 
 Ik dronk laatst een kop Ivan Chai en dus vroeg ik mij dit af! 
 
@@ -13,10 +17,10 @@ Het productieproces ziet er als volgt uit: de bladeren worden met de hand geoogs
 
 De met de hand geplukte kruiden worden in het ecodorp op 1 hoop gegooid waarna er een fermenteringsproces overheen gaat. Wanneer de kruiden er vervolgens klaar voor zijn worden ze opgehangen in zogenaamde ‘drooghuizen’. Dit zijn grote houten blokhutten waar alle kruiden worden opgehangen. Hier moeten de kruiden hangen totdat ze gedroogd zijn. Afhankelijk van de temperatuur van het weer, gebeurt dit in 3 dagen. Door het extreme landklimaat kan het zomers 40 graden worden (terwijl het in de winter min 40 graden wordt). Nadat de kruiden zijn gedroogd worden ze in tubes gestopt. Dit deel gebeurt niet in het ecodorp! Hiervoor moeten de kruiden worden verplaatst naar een verpakkingsfabriek in de bewoonde wereld. 
 
-Mocht je nog tijd hebben, hier heb ik een video gevonden om een beter beeld te krijgen van het proces (2min41sec): 
+Mocht je nog tijd hebben, hier heb ik een video gevonden om een beter beeld te krijgen van het proces (2min41sec), scrol een beetje naar beneden op de pagina:
 
+https://www.youtube.com/watch?v=op2BjUHk06s
 
 [ When ready link to our website (product page) with video ] 
 
 
-https://www.youtube.com/watch?v=op2BjUHk06s
