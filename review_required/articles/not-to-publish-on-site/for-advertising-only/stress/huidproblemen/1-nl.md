@@ -8,9 +8,7 @@ De volgende huidproblemen worden o.a. veroorzaakt door stress: <br>
 * Huiduitslag
 * Huidinfecties; koortslip 
 
-Dankzij de kalmerende werking van Ivan Chai wordt de aanmaak van hormonen zoals cortisol verminderd. Deze natuurlijke oplossing maakt dat je minder stress ervaart en werkt hiernaast óók goed tegen angst en burnout klachten. 
-
-Ivan Chai is een Siberische kruidenthee wat als alternatief kan worden gebruikt voor farmaceutische medicijnen. Ivan Chai heeft 7 gezondheidsvoordelen die als preventieve behandeling kunnen worden gebruikt tegen 17 gezondheidsproblemen. Het menselijk lichaam is een complex systeem waardoor een holistische benadering nodig is bij het aanpakken van verschillende gezondheidsproblemen, zoals die van de huid. 
+Dankzij de kalmerende werking van Ivan Chai wordt de aanmaak van hormonen zoals cortisol verminderd. Deze natuurlijke oplossing maakt dat je minder stress ervaart en werkt hiernaast óók goed tegen angst en burnout klachten. Ivan Chai is een Siberische kruidenthee wat als alternatief kan worden gebruikt voor farmaceutische medicijnen. Ivan Chai heeft 7 gezondheidsvoordelen die als preventieve behandeling kunnen worden gebruikt tegen 17 gezondheidsproblemen. Het menselijk lichaam is een complex systeem waardoor een holistische benadering nodig is bij het aanpakken van verschillende gezondheidsproblemen, zoals die van de huid. 
 
 Na 2 weken Ivan Chai ervaar je merkbaar het verschil. Neem de tijd en geniet van onze Siberische kruidenthee.
 
