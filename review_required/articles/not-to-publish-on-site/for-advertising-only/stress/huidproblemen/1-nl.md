@@ -1,9 +1,8 @@
 ## Huidproblemen door stress 
 
 _Heeft jouw lichaam last van huidproblemen en zoek je naar een middel dat de kans op stress vermindert?_ <br>
-Dan is Ivan Chai de natuurlijke oplossing wat als preventieve behandeling kan worden gebruikt tegen stress; wat veelal de oorzaak is van huidproblemen! 
 
-De volgende huidproblemen worden o.a. veroorzaakt door stress: <br>
+Dan is Ivan Chai de natuurlijke oplossing wat als preventieve behandeling kan worden gebruikt tegen stress; wat veelal de oorzaak is van huidproblemen! De volgende huidproblemen worden o.a. veroorzaakt door stress: <br>
 * Acne 
 * Huiduitslag
 * Huidinfecties; koortslip 
