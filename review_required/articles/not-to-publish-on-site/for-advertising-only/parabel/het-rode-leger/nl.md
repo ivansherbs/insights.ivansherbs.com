@@ -16,13 +16,13 @@ _’De Ivan Chai gemaakt door kruiden vooral afkomstig uit Siberië hebben een k
 Deze bevindingen zijn door verschillende deskundigen al geconstateerd. Als leidraad gebruikte de wetenschappers en doctoren oude geschriften van monniken waarin traditionele volksgeneeskunde, gericht op het gebruik van kruiden, uitvoerig werd beschreven. Hieruit blijkt dat Ivan Chai kan worden gebruikt als preventieve behandeling tegen verscheidene gezondheidsproblemen.
 
 _’Mede door de bereidheid van ons Rode Leger om deel te nemen aan de verschillende klinische onderzoeken, hebben we de volgende gezondheidsvoordelen met zekerheid kunnen vaststellen.’_
-*_Versterkt de weerstand_
-*_Versterkt het spijsverteringsstelsel_
-*_Krachtige ontstekingsremmer_
+* _Versterkt de weerstand_
+* _Versterkt het spijsverteringsstelsel_
+* _Krachtige ontstekingsremmer_
 
 _‘Hiernaast zijn er meerdere positieve effecten op het menselijk lichaam, echter hebben deze diepgaand onderzoek nodig voordat we de werking met zekerheid kunnen vaststellen. Aankomende jaren zullen wij de volgende organen centraal stellen in ons onderzoek: ‘_
-*_Hart- en vaatstelsel_
-*_Prostaat._’
+* _Hart- en vaatstelsel_
+* _Prostaat._’
 
 De Ivan Chai werkte als een katalysator op het Rode Leger. Het Rode Leger had op haar hoogtepunt een omvang van om en nabij de 21 miljoen militairen; allen gevoed door kruiden uit Siberië… 
 
