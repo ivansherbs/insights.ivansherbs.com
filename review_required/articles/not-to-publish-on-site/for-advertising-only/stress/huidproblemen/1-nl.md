@@ -23,11 +23,8 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwar
 * Klinisch bewezen 
 * Geproduceerd middels een schoon en duurzaam productieproces in Siberië. 
 
-**Hoe gebruik je Ivan Chai als preventieve behandeling?**
-Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan het water. Laat dit kruideninfuus rond de 7 minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij 70 graden Celsius. 
-
-Drink de overheerlijke Siberische kruidenthee op. 
-
+**Hoe gebruik je Ivan Chai als preventieve behandeling?** <br>
+Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan het water. Laat dit kruideninfuus rond de 7 minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij 70 graden Celsius. Drink tot slot de overheerlijke Siberische kruidenthee op. 
 
 
 * Benieuwd tegen welke 17 gezondheidsproblemen Ivan Chai nog meer werkt? 
