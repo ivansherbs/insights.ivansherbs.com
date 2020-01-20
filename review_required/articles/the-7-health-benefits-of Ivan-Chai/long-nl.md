@@ -162,10 +162,11 @@ Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de far
 
 **Holistische benadering** 
 
-De holistische visie bestrijkt de mens als geheel; gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. Hierbij worden de mentale, lichamelijke, sociale en emotionele kant in zijn of haar totaliteit benaderd, waarbij het zien van samenhang in voor en tegenspoed centraal staat. 
+_De holistische visie bestrijkt de mens als geheel; gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. Hierbij worden de mentale, lichamelijke, sociale en emotionele kant in zijn of haar totaliteit benaderd, waarbij het zien van samenhang in voor en tegenspoed centraal staat._
 
 
 -------------------------------------------------------------
+
 
 ## Vermindert de kans op diabetes 
 
