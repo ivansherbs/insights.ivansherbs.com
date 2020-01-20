@@ -9,7 +9,7 @@ _Wij geloven in het aanbieden van producten die een krachtige impact hebben op d
 <br>
 
 ARCCORDION MENU>>> **Introduceren natuurlijke oplossingen** <br>
-Onze toevoerlijn van kruiden vanuit de Altai zijn een alternatief op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. De opeenvolging van mislukkingen wat typerend is voor de farmaceutische industrie, zoekende naar het wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering, dienen vergezeld te worden door een eenvoudig tegengeluid in de vorm van Siberische kruidenthee. 
+Onze toevoerlijn van kruiden vanuit de Altai zijn een alternatief op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. De opeenvolging van mislukkingen wat typerend is voor de farmaceutische industrie, zoekende naar het wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering, dienen vergezeld te worden door een eenvoudig tegengeluid in de vorm van Siberische kruiden. 
 
 De introductie van eenvoudige natuurlijke oplossingen voor gezondheidsproblemen behoren geïntegreerd te worden in de hedendaagse samenleving. Onze waarden richten zich hierbij op de samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen. De ecodorp bewoners oogsten onze kruiden met de hand in de ongerepte natuur waar ze toezien op een schoon en uiterst duurzaam productieproces. Om onze duurzaamheid te uiten naar onze klanten richten we ons op klimaatneutrale verpakkingen en de vermindering van onze eigen CO2 uitstoot in het dagelijks leven. Wij zijn op zoek naar meer samenwerkingsverbanden met gelijkgestemde bedrijven en streven ernaar ons product zo milieuvriendelijk mogelijk te vervoeren. Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner milieu. Dat is de reden waarom we overgaan op verpakkingsmaterialen die eeuwig meegaan of op een natuurlijke wijze volledig afbreken.
 
@@ -35,13 +35,13 @@ Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om 
 ## Het verhaal van de oprichter
 Onze oprichter Michael Koch ontdekte voor het eerst de gezondheidsvoordelen van kruideninfusies in 2017. Destijds woonde hij in Moskou. Het begon met Ivan Chai, een sinds de 17de eeuw door het gewone volk met de handgemaakte kruideninfusie. Hierdoor heeft het de traditionele Russische naam ‘Ivan’ verdiend, waarbij 'Chai' wordt gebruikt om thee aan te duiden. Voordat het werd vergeten door de politieke onrust van de Russische revolutie van 1917, werd het massaal geëxporteerd naar West-Europa.
 
-Michael was overtuigd van de vele voordelen voor de gezondheid, waarna hij het erop waagde de Ivan Chai met zijn eigen handen te oogsten. Dit gebeurde nabij een afgelegen Siberische ecodorp ver weg van de bewoonde wereld. Hij bracht één jaar door in het ecodorp, waar hij van de meest ervaren Kruiden & Thee Technoloog leerde over de heilzame eigenschappen van de lokale Siberische kruiden. Toen hij zich in de beste vorm van zijn leven bevond, besloot hij om de Belukha te beklimmen, de hoogste berg van Siberië.
+Michael was overtuigd van de vele voordelen voor de gezondheid en de algehele gemoedstoestand, waarna hij het erop waagde de kruiden met zijn eigen handen te oogsten. Dit gebeurde nabij een afgelegen Siberische ecodorp ver weg van de bewoonde wereld. Hij bracht één jaar door in het ecodorp, waar hij van de meest ervaren Kruiden & Thee Technoloog leerde over de heilzame eigenschappen van de lokale Siberische kruiden. Toen hij zich in de beste vorm van zijn leven bevond besloot hij om de Belukha te beklimmen; de hoogste berg van Siberië.
 
 <br><br>
 [same picture founder]
 <br><br>
 
-In de expeditie groep ontmoette Michael, door pure serendipiteit, een Siberische kruidenkenner genaamd Ivan. Ivan had al meer dan 20 jaar traditionele kruidengeneeskunde gestudeerd. Ivan was de oudste in de expeditie groep (68) en maakte revitaliserende kruidenthee van de lokale kruiden waar zijn oog op viel gedurende de expeditie. Nadat het grootste deel van de groep de fysiek veeleisende top van 4500 meter had bereikt, keerde Michael terug naar Amsterdam om dit verhaal te vertellen. Pas toen begonnen we ook in kruiden te geloven.
+In de expeditie groep ontmoette Michael, door pure serendipiteit, een Siberische kruidenkenner genaamd Ivan. Ivan had al meer dan 20 jaar traditionele kruidengeneeskunde gestudeerd. Ivan was de oudste in de expeditie groep (68) en maakte revitaliserende kruidenthee van de lokale kruiden waar zijn oog op viel gedurende de expeditie. Nadat het grootste deel van de groep de fysiek veeleisende top van 4500 meter had bereikt, keerde Michael terug naar Amsterdam om dit verhaal te vertellen. Pas toen begonnen we ook echt in kruiden te geloven.
 
 Vandaag blijft Ivan een van onze adviseurs voor kruiden om ziekte te voorkomen en gezondheidsproblemen te verzorgen.
 
