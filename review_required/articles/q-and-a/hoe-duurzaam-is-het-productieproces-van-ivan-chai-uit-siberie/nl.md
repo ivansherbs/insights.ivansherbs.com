@@ -1,12 +1,12 @@
-To post on Q/A site:
+(To post on Q/A site:)
 
-Vraag: 
+**Vraag:**
 
-Hoe duurzaam is het productieproces van Ivan Chai uit Siberië? 
+Hoe duurzaam is het productieproces van Ivan Chai uit Siberië?
 
 Ik dronk laatst een kop Ivan Chai en dus vroeg ik mij dit af! 
 
-Het beste antwoord: 
+**Het beste antwoord:**
 
 Het productieproces van Ivan Chai is uiterst duurzaam! Ivan Chai wordt met de hand geoogst door bewoners van zogenaamde ecodorpen. Deze ecodorpen liggen in Siberië ver van de bewoonde wereld. Ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Hierdoor wordt het gehele productieproces op een zo milieuvriendelijk, schoon en bovenal duurzame manier ingericht. Het beschermen van de natuur staat voorop. 
 
