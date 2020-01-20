@@ -25,7 +25,7 @@ U staat er niet alleen voor in uw strijd tegen ongewenste emoties of vervelende 
 Het versterken van de gezondheid en de gemoedstoestand gaat voornamelijk gepaard met tijd en energie, wat niet iedereen altijd even gemakkelijk vergaat. Vanwege de verschillende vertrekpunten op weg naar een gezondere levensstijl, in combinatie met de verschillende sociale lagen waaruit men afkomstig is, heeft uzelf niet altijd grip op de mate van generositeit gepaard bij de investering in uzelf en anderen.
 
 **_“Time and health are two precious assets that we don’t recognize and appreciate until they have been depleted.”_** <br>
-Vergeet echter niet dat de investering van uw leven een holistische aanpak vereist; gezien de verscheidenheid aan keuzemogelijkheden om gezondheidsproblemen te vermijden. Zowel lichaam en de gemoedstoestand zijn met elkaar verbonden en kunnen met natuurlijke producten of farmaceutische medicijnen worden beïnvloed. Het vermijden van producten met een negatief effect op het milieu wordt mede bepaald door de keuzes en de levensstijl van u als consument.
+Vergeet echter niet dat de investering van uw leven een holistische aanpak vereist; gezien de verscheidenheid aan keuzemogelijkheden om gezondheidsproblemen op langere termmijn te vermijden. Zowel lichaam en de gemoedstoestand zijn met elkaar verbonden en kunnen met natuurlijke producten of farmaceutische medicijnen worden beïnvloed. Het vermijden van producten met een negatief effect op het milieu wordt mede bepaald door de keuzes en de levensstijl van u als consument.
 
 _Benieuwd welke **Siberische kruidenthee** de gezondheid en algehele gemoedstoestand op een krachtige manier beïnvloeden?_
 
