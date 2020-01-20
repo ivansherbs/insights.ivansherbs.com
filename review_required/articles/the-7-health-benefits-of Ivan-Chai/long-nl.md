@@ -12,7 +12,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 * Verzorgt het spijsverteringsstelsel
 * Vermindert de kans op diabetes
 
-Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam. 
+Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding; waarbij de holistische benadering centraal staat. De oorzaak wordt aangepakt in plaats van het gevolg. Kleine veranderingen in alledaagse routines kunnen op korte dan wel lange termijn winst opleveren voor het menselijk lichaam.
 
 Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Ivan's Herbs ondersteund het gebruik van farmaceutische medicatie en waar nodig, juichen wij dit toe. In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase, waardoor de gezondheidsvoordelen pas merkbaar zijn na enkele dagen. In andere woorden, 1 kop Ivan Chai maakt niet het verschil. Na deze opbouwfase zul je het verschil merkbaar voelen. Hieronder de statistieken en onderbouwing van de 7 gezondheidsvoordelen.
 
@@ -47,7 +47,7 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.12](https:/
 
 ### 4. Keelontsteking 
 
-Een keelontsteking wordt veroorzaakt door een infectie met een virus. Slikken gaat vaak lastig en doet zeer. Bij een zwaardere vorm van keelonsteking kunnnen de lympfklieren zijn opgezet. Hiernaast zijn er enkele risicofactoren verbonden aan deze vorm van ontsteking, namelijk roken, schreeuwen en stress. Met name roken en stress kunnen ervoor zorgen dat de weerstand lager is en de kans wordt verhoogd. Farmaceutische medicijnen, zoals antibiotica, hebben meestal geen zin bij keelontsteking ([14](https://www.gezondheidsnet.nl/griep-en-verkoudheid/keelontsteking)).
+Een keelontsteking wordt veroorzaakt door een infectie met een virus. Slikken gaat vaak lastig en doet zeer. Bij een zwaardere vorm van keelonsteking kunnnen de lympfklieren zijn opgezet. Hiernaast zijn er enkele risicofactoren verbonden aan deze vorm van ontsteking, namelijk roken, schreeuwen en stress. Met name roken en stress kunnen ervoor zorgen dat de weerstand lager is en de kans wordt verhoogd. Farmaceutische medicijnen, zoals antibiotica, hebben geen zin bij een keelontsteking ([14](https://www.gezondheidsnet.nl/griep-en-verkoudheid/keelontsteking)).
 
 ### 5. Blaasontsteking
 
@@ -102,10 +102,10 @@ Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen.
 
 ### 11. Stress 
 
-Stress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([16.14](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[16.15](https://www.hartstichting.nl/risicofactoren/stress)). 53% van de medewerkers ervaart stress op werk. Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Je bent namelijk erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen ([16.16](https://www.depsycholoog.nl/overspannen-en-burnout/)).
+Stress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([16.14](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[16.15](https://www.hartstichting.nl/risicofactoren/stress)). 53% van de medewerkers ervaart stress op werk. Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Je bent namelijk erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in verschillende mentale klachten. Denk hierbij aan de volgende gezondheidsproblemen die een hevige impact kunnen hebben op de gemoedstoestand; waarbij hulp in de vorm van natuurlijke producten niet altijd de oplossing bieden: _agressie, manie, pshychose_ en _depressie_. Echter bieden natuurlijke producten wel de oplossing om een lichtere vorm van stress, waardoor ongezonde werkstress kan ontstaan wat kan leiden to burnout klachten, wordt onderdrukt. Burnout klachten zijn de meest voorkomende mentale gezondheidsproblemen als gevolg van stress, waarbij een gebrek aan activiteit zorgt voor oververmoeidheid en zich moeilijk kunnen focussen ([16.16](https://www.depsycholoog.nl/overspannen-en-burnout/)).
 
 ### 12. Burnout klachten
-Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([16.17](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[16.12](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de _kosten gepaard met werkstress_ in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: _twee miljard en acht honderd miljoen euro_ ([16.18](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)). 
+Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([16.17](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[16.12](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de _kosten gepaard met werkstress_ in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: _twee miljard en acht honderd miljoen euro_ ([16.18](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)).
 
 **_Ivan Chai vermindert angst, stress & burnout klachten en verbetert de slaap:_** 
 
@@ -157,6 +157,15 @@ Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de far
 * Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)).
 
 <br>
+
+-------------------------------------------------------------
+
+**Holistische benadering** 
+
+De holistische visie bestrijkt de mens als geheel; gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. Hierbij worden de mentale, lichamelijke, sociale en emotionele kant in zijn of haar totaliteit benaderd, waarbij het zien van samenhang in voor en tegenspoed centraal staat. 
+
+
+-------------------------------------------------------------
 
 ## Vermindert de kans op diabetes 
 
