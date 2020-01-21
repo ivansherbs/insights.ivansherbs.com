@@ -11,7 +11,7 @@ _Ontsnapte het drukke zakenleven van Moskou op de oostelijke oever van de rivier
 
 **'Mijn psychisch stoornis heeft mijn leven veranderd. Ik heb hiervoor meerdere jaren met een overmatige hoeveelheid aan stress rondgelopen'**
 
-Na mijn studie, iets wat niet veel russen kunnen veroorloven, heb ik ervoor gekozen om mijn heil te zoeken in het bedrijfsleven, met tegenovergesteld effect tot gevolg. Ik verhuisde naar de grote stad waar ik in het zakencentrum van Moscow-City een baan regelde als Accountant bij een van de grote financiële spelers van het land. Ik werd vriendelijk onthaald met een riant salaris voor een vrouw, ook wel deels omdat ik wat mensen kende op de vloer vanuit mijn studietijd. We waren échte vriendinnen waardoor we er niet alleen voor stonden. Na verloop van tijd merkte ik niet meer dat mijn dagen met gemak langer dan 10 uur duurden. Ik werkte jaren non-stop.
+Na mijn studie, iets wat niet veel Russen kunnen veroorloven, heb ik ervoor gekozen om mijn heil te zoeken in het bedrijfsleven, met tegenovergesteld effect tot gevolg. Ik verhuisde naar de grote stad waar ik in het zakencentrum van Moscow-City een baan regelde als Accountant bij een van de grote financiële spelers van het land. Ik werd vriendelijk onthaald met een riant salaris voor een vrouw, ook wel deels omdat ik wat mensen kende op de vloer vanuit mijn studietijd. We waren échte vriendinnen waardoor we er niet alleen voor stonden. Na verloop van tijd merkte ik niet meer dat mijn dagen met gemak langer dan 10 uur duurden. Ik werkte jaren non-stop.
 
 **'Mijn output verhoogde ik in rap tempo zonder hogerop te komen.'**
 
