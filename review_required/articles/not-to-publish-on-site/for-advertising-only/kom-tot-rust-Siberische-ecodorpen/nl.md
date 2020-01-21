@@ -2,6 +2,8 @@
 
 Een leven vol drukte? Niet meer voor deze natuurliefhebber. Met name in de zomermaanden kan ze niet vroeg genoeg opstaan. De dagen worden gevuld met haar favoriete bezigheden: meditatie, arbeid, vuur maken en koken in de stilte van de Siberische wildernis. Een portret van één van de vrouwelijke theeplukkers uit Siberië. 
 
+[Picture: Happy Moon Girl]
+
 **Svetlana Petrovayé (31) uit Chazhaevka** <br> 
 _Ontsnapte het drukke zakenleven van Moskou op de oostelijke oever van de rivier de Moskva, om een leven vol sereniteit te omarmen, zowel in de zomer als winter is ze buiten te vinden._
 
