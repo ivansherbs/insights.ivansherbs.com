@@ -1,4 +1,4 @@
-## Verminder de kans op gezondheidsproblemen op latere leeftijd
+## Verminder de kans op gezondheidsproblemen
 
 **Ivan Chai is een Siberische kruidenthee wat als preventieve behandeling kan worden gebruikt tegen 17 gezondheidsproblemen.**
 
