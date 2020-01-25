@@ -28,7 +28,7 @@ De meest ervaren kruiden & thee technoloog ziet gedurende het gehele proces toe 
 
 [Foto] <br>
 **Stap 7** <br>
-De laatste stap van het proces, het verpakken van de kruiden, gebeurt buiten Chazhaevka. De reden is als volgt; ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap. 
+De laatste stap van het proces, het verpakken van de kruiden, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap. 
 
 De Siberische kruiden waarvan Ivan Chai wordt gezet bevat vele gezondheidsvoordelen. 
 
