@@ -8,11 +8,11 @@ Gedurende de zomermaanden staan de kruidenplukkers vroeg op om voor het ochtendg
 
 [Foto] <br>
 **Stap 2** <br>
-De kruiden groeien verspreid, in het wild, over de vruchtbare gronden langs de rivieren. Wanneer kruiden niet volgroeid zijn worden ze met rust gelaten. Eenmaal de juiste velden gevonden, kan het oogsten beginnen. 
+De kruiden groeien verspreid in het wild; over de vruchtbare gronden langs de rivieren. Wanneer kruiden niet volgroeid zijn worden ze met rust gelaten. Wanneer de juiste velden zijn gevonden kan het oogsten beginnen. 
 
 [Foto - 2 pictures] <br>
 **Stap 3** <br>
-Wanneer de oogst is binnengehaald worden de bladeren van de kruiden met de hand gerold; waarna het wordt bedekt en er een natuurlijk fermentatieproces overheen gaat.  Het fermentatieproces is een van de belangrijkste stappen; aangezien het alles bepalend is voor de smaakintensiteit. 
+Wanneer de oogst is binnengehaald worden de bladeren van de kruiden met de hand gerold; waarna het wordt bedekt en er een natuurlijk fermentatieproces overheen gaat. Het fermentatieproces is een van de belangrijkste stappen; aangezien hiermee de licht zoete of bitterzoete smaak wordt bepaald. 
 
 [Foto] <br>
 **Stap 4** <br>
