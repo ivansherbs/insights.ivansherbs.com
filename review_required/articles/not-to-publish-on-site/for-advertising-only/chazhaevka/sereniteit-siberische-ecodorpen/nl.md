@@ -1,6 +1,6 @@
 ## Sereniteit: Siberische ecodorpen 
 
-Een leven vol drukte? Niet meer voor deze natuurliefhebber. Met name in de zomermaanden kan ze niet vroeg genoeg opstaan. De dagen worden gevuld met haar favoriete bezigheden: meditatie, arbeid, vuur maken en koken in de stilte van de Siberische wildernis. Een portret van één van de vrouwelijke kruidenplukkers uit Siberië. 
+Een leven vol drukte? Niet meer voor deze natuurliefhebber. Met name in de zomermaanden kan ze niet vroeg genoeg opstaan. De dagen worden gevuld met haar favoriete bezigheden: mediteren, arbeid, vuur maken en koken in de stilte van de Siberische wildernis. Een portret van één van de vrouwelijke kruidenplukkers uit Siberië. 
 
 [Picture: Happy Moon Girl]
 
