@@ -44,7 +44,7 @@ _De vulling:_ <br>
 * 3 eieren, geklutst
 
 **Het mengsel** <br>
-Gebruik een steelpan, warm de melk met boter op (laag vuur) en voeg al roerende de honing (7 el) toe. Kluts de eieren met de overgebleven honing. Giet het honing-eimengsel onder voortdurend roeren bij de melk. Verhoog langzaamaan het vuur en breng aan de kook. Wacht tot de melk is ingedikt. Haal van het vuur om af te koelen. 
+Gebruik een steelpan, warm de melk met boter op (laag vuur) en voeg al roerende de honing (7 el) toe. Kluts de eieren met de overgebleven honing (7 el). Giet het honing-eimengsel onder voortdurend roeren bij de melk. Verhoog langzaamaan het vuur en breng aan de kook. Wacht tot de melk is ingedikt. Haal van het vuur om af te koelen. 
 
 **Tot slot** <br>
 Besmeer de vellen evenredig met de vulling en stapel deze op. Verkruimel eventueel de overblijfselen van de vulling over de top. Laat de Medovnikayé minimaal 1 nacht rusten zodat de vellen de kans krijgen om de vulling in zich op te zuigen. Hierdoor wordt de gewenste stevig, zacht smeuïge structuur behaald. 
