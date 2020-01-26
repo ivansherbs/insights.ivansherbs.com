@@ -3,7 +3,7 @@
 **Ooit gehoord van de honingtaart de Medovnikayé?** <br> 
 _Maak kennis met de Siberische variant op de Medovnik honingtaart; in de volksmond ook wel bekend als de Slàkajetská._
 
-Honing heeft eeuwenlang de basis gevormd voor traditionele Siberische lekkernijen. Hierdoor staat dit prachtige product uit de natuur symbool voor de ware smaak en traditie van de Siberische keuken. Vanwege de introductie van suiker in Rusland verdween het gebruik van honing begin 16de eeuw naar de achtergrond. In traditionele recepten blijkt dit natuurlijke alternatief nog steeds een waardevolle toevoeging. Medovnikayé, de Siberische variant op de honingtaart, wordt gekenmerkt door het toevoegen van kruiden afkomstig uit dezelfde regio.  
+Honing heeft eeuwenlang de basis gevormd voor traditionele Siberische lekkernijen. Hierdoor staat dit prachtige product uit de natuur symbool voor de ware smaak en traditie van de Siberische keuken. Vanwege de introductie van suiker in Rusland verdween het gebruik van honing begin 16de eeuw naar de achtergrond. In traditionele recepten blijkt dit natuurlijke alternatief nog steeds een waardevolle toevoeging. De honingtaart de Medovnikayé wordt, naast honing, gekenmerkt door het toevoegen van kruiden uit Siberië.
 
 **Ingrediënten** <br>
 * 21 el honing
