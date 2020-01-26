@@ -2,7 +2,7 @@
 
 _Kruiden zijn wereldwijd een veel gebruikt medicijn voor preventieve behandelingen tegen gezondheidsproblemen. Ze worden als ongevaarlijk beschouwd. Een onderzoek heeft aangetoond dat mensen nadenken over de verschillende positieve dan wel negatieve effecten; die kruiden kunnen hebben op het menselijk lichaam. Vooral zwangere vrouwen, kinderen en ouderen zijn onderhevig aan deze bijwerkingen ([1](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-695X2012000100004))._
 
-**Het combineren van kruiden en farmaceutische medicijnen gaat niet altijd samen.** <br>
+**Het combineren van kruiden en farmaceutische medicijnen gaat niet altijd samen.**
 Uit ervaring weet een openbaar apotheker uit Amersfoort dat weinig patiënten vertellen bij het ophalen van hun medicijnen dat zij ook kruidenproducten gebruiken. In een interview op de website van het _College ter Beoordeling van Geneesmiddelen_ kaart de apotheker de gevaren aan. Veel apothekers, die optreden als expert in de verkoop van farmaceutische medicijnen, hebben een gevoel van schijnveiligheid. Ze denken dat het combineren van kruidengeneesmiddelen met de medicijnen die ze verkopen geen enkel probleem is. De apotheker kaart het volgende aan:
 
 _‘Ik vind dat de nieuwe informatie heel belangrijk is voor de bewustwording van de risico’s van kruiden. Niet alleen voor apothekers. Ook voor verkopers in de natuurwinkels. Ik denk namelijk dat het allemaal een stuk veiliger wordt als we allemaal dezelfde boodschap uitdragen naar de patiënt.’_ 
