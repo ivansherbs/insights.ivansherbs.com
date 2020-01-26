@@ -18,14 +18,14 @@ Honing heeft eeuwenlang de basis gevormd voor traditionele Siberische lekkernije
 * 5 vellen bakpapier in cirkels van 27cm / Bakcirkel / Deegroller / Garde / Kom
 
 **Bereidingswijze**<br>
-De basis: <br>
+_De basis:_ <br>
 * 2 eieren, geklutst
 * 7 el honing
 * 50 gr boter
 * 2 theelepels bakpoeder
 * 600 gr meel
 
-**Om te beginnen;** <br>
+**Om te beginnen** <br>
 Verhit de oven voor op 180 graden Celsius. Snij daarna 5 vellen bakpapier in cirkels van 27cm. Voeg in een kleine kom, de honing (7 el) en geklutste eieren samen en zet apart. 
 
 **Het mengsel** <br>
@@ -37,7 +37,7 @@ Roer er het meel (600 gr) doorheen tot de deeg niet meer kleeft. Deel vervolgens
 **De oven** <br>
 Open de oven en schuif het 3 à 4 mm dikke deeg naar binnen. Bak de vellen gedurende 3 à 5 min licht goud (niet bruin). We adviseren het om de vellen op separate roosters te bakken. Haal de vellen uit de oven, verwijder het papier en laat het afkoelen. 
 
-**De vulling:** <br>
+_De vulling:_ <br>
 * 400 ml volle melk
 * 50 gr boter
 * 14 el. honing
