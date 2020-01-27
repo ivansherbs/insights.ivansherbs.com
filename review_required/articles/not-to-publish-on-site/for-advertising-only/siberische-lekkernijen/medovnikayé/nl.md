@@ -11,7 +11,7 @@ Honing heeft eeuwenlang de basis gevormd voor traditionele Siberische lekkernije
 * 7 theelepels Siberische kruiden 
 * 5 st eieren
 * 400 ml volle melk
-* 600gr meel
+* 600 gr meel
 * 2 theelepels bakpoeder
 
 **Bakgerei** <br>
@@ -22,8 +22,8 @@ _De basis:_ <br>
 * 2 eieren, geklutst
 * 7 el honing
 * 50 gr boter
-* 2 theelepels bakpoeder
 * 600 gr meel
+* 2 theelepels bakpoeder
 
 **Om te beginnen** <br>
 Verhit de oven voor op 180 graden Celsius. Snij daarna 5 vellen bakpapier in cirkels van 27cm. Voeg in een kleine kom, de honing (7 el) en geklutste eieren samen en zet apart. 
