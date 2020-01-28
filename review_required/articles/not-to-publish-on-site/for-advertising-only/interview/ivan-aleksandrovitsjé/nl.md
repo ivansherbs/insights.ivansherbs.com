@@ -3,7 +3,7 @@
 **Verzorg lichaam en geest met kruiden uit Siberië**
 
 **Gezondheid** Interview <br>
-__Een gezondere levensstijl vereist een holistische benadering. Het gebruik van Siberische kruiden is een eenvoudige manier om de kans op 17 gezondheidsproblemen te verminderen_, vertelt Ivan Aleksandrovitsjé._
+__Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruiden uit Siberië is een eenvoudige manier om de kans op 17 gezondheidsproblemen te verminderen_, vertelt Ivan Aleksandrovitsjé._
 
 De oprichter van Ivan's Herbs, Michael Koch, is al ruim 7 jaar bezig met het bestuderen van de geneeskrachtige werking in planten. Gedurende de rondreis van zijn leven besloot Michael zijn kennis en kunde hierover te vergroten; door een jaar te verblijven in een van de Siberische ecodorp ver weg van de bewoonde wereld. De natuurlijke producten die Michael hier werden geïntroduceerd bevatten vele gezondheidsvoordelen. Dagelijks werkte hij nauw samen met de meest ervaren kruiden en thee technoloog. Het preventief behandelen van gezondheidsproblemen met kruiden stond centraal bij de kennisoverdracht. 
 
