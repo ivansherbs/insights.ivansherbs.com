@@ -18,7 +18,7 @@ Na het verblijf in het ecodorp bevond Michael zich in de bloei van zijn leven. H
 **Waar kan ik aan denken bij het gebruik van natuurlijke oplossingen?** <br>
 "Met name het gebruik van kruiden bieden soelaas in de traditionele volksgeneeskunde. Denk hierbij aan kruiden uit Siberië goed voor lichaam en geest"
 
-"Volgens deze traditionele geneeskunde waren Siberische kruiden vooral goed voor het versterken van de weerstand, de werking als krachtige ontstekingsremmer en verzorgen van het spijsverteringsstelsel."
+"Volgens deze traditionele geneeskunde waren deze kruiden vooral goed voor het versterken van de weerstand, de werking als krachtige ontstekingsremmer en verzorgen van het spijsverteringsstelsel."
 
 "Hedendaagse studies hebben ook een positief effect op het hart- en vaatstelsel en het verzorgen van de prostaat aangetoond. Hiernaast wordt de geest ook positief beïnvloed. Denk aan het verbeteren van de slaap en het verminderen van angst, stress en burnout klachten."
 
