@@ -22,7 +22,7 @@ Na het verblijf in het ecodorp bevond Michael zich in de bloei van zijn leven. H
 
 "Hedendaagse studies hebben ook een positief effect op het hart- en vaatstelsel en het verzorgen van de prostaat aangetoond. Hiernaast wordt de geest ook positief beïnvloed. Denk aan het verbeteren van de slaap en het verminderen van angst, stress en burnout klachten."
 
-**Het gebruik van kruiden klinkt nogal alternatief als preventieve behandeling. Wat is jouw visie hierop?**<br> 
+**Het gebruik van kruiden om gezondheidsproblemen aan te pakken klinkt als een alternatieve geneeswijze. Wat is jouw visie hierop?**<br> 
 "Kruiden kunnen op verschillende manieren worden gebruikt. Dagelijks drink ik bijvoorbeeld Ivan Chai, een kruideninfuus gemaakt door kruiden uit Siberië. De plant waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld, echter heeft alleen de plant uit deze regio een sterk heilzame werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld."
 
 _'Ivan is overigens een veelvoorkomende naam in Rusland, mocht je denken dat ik het kruideninfuus naar mijzelf heb vernoemd.'_ 
@@ -31,7 +31,7 @@ _'Ivan is overigens een veelvoorkomende naam in Rusland, mocht je denken dat ik 
 
 "Het klopt dat de werking wellicht wat langer duurt dan conventionele geneesmiddelen, maar preventief gezondheidsproblemen voorkomen is beter dan genezen. Dit gebeurt tegenwoordig vaak met farmaceutische geneesmiddelen die worden ontwikkeld met chemische stoffen die zeer vervuilend zijn. Deze vorm van geneesmiddelen houd ik liever buiten mijn lichaam."
 
-**Wanneer kiezen mensen voor het alternatief op farmaceutische geneesmiddelen?** <br>
+**Wanneer kiezen mensen voor een alternatief op farmaceutische geneesmiddelen?** <br>
 "Over het algemeen kiezen mensen voor alternatieve geneesmiddelen wanneer ze het vertrouwen in conventionele geneesmiddelen zijn verloren. Dit kan komen door verschillende redenen. Denk hierbij aan de nare bijwerkingen die optreden bij langdurig gebruik. Hiernaast zijn veel mensen het vertrouwen in de farmaceutische industrie verloren vanwege de zwaar vervuilende stoffen die vrij komen gedurende het productieproces. Tot slot is er ook nog een kleine groep mensen die het kapitalisme rondom de grote farmaceutische spelers niet kunnen waarderen. Gezien de werkwijze van de grote farmaceutische spelers, gericht op het behoudt en uitbuiten van het bezit op patenten, wordt de vooruitgang binnen deze industrie op een negatieve wijze beïnvloed."
 
 **Wat is jouw advies voor het versterken van lichaam en geest buiten natuurlijke producten om?** <br>
