@@ -2,7 +2,7 @@
 
 _Stress is moeilijk te herkennen bij kinderen. Toch komt het door de toename mate van technologie in het dagelijks leven steeds vaker voor. Kinderen hebben net als vroeger te kampen met problemen op het thuisfront, een 'drukke' agenda, het leven op school en een druk sociaal leven; echter neemt het aantal jonge kinderen met smartphones als extra prikkel in rap tempo toe._
 
-Wetenschappers en psychologen waarschuwen steeds vaker de negatieve gevolgen van het overmatig telefoongebruik; zoals stress. Kinderen kunnen zich moeilijker concentreren, worden onrustig wanneer ze niet online kunnen en het aantal ruzies binnen gezinnen neemt toe. Om deze problemen te voorkomen kunnen verschillende maatregelen worden genomen. De stress, als oorzaak bij kinderen voor verschillende (gezondheids)problemen, dient wel herkent te worden. Hieronder een kleine opsomming van de symptomen van stress die we ook herkennen bij volwassen.
+Wetenschappers en psychologen waarschuwen steeds vaker voor stress als gevolg van het overmatig telefoongebruik. Kinderen kunnen zich moeilijker concentreren, worden onrustig wanneer ze niet online kunnen en het aantal ruzies binnen gezinnen neemt toe. Om deze problemen te voorkomen kunnen verschillende maatregelen worden genomen. De stress, als oorzaak bij kinderen voor verschillende (gezondheids)problemen, dient wel herkent te worden. Hieronder een kleine opsomming van de symptomen van stress die we ook herkennen bij volwassen.
 * Hoofdpijn 
 * Geprikkeld
 * Ongeduldig
