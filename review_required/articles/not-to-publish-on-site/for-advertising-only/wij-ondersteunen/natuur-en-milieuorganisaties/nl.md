@@ -9,11 +9,11 @@ Oliewinning gaat gepaard met ernstige milieuvervuiling wat uiteindelijk van invl
 
 Verschillende organisaties met internationaal bereik tonen tegenwoordig pas hun onvrede door samenwerkingen met oliemaatschappijen te weren. Denk hierbij aan zogenaamde 'greenwash' campagnes om de publieke opinie in het voordeel van de vervuilende internationale spelers te beslechten. In de hedendaagse bedrijfsvoering vind er gelukkig een verschuiving plaats in de aard van de samenwerking. 
 
-_Ivan's Herbs werkt sinds de oprichting in 2017 aan een schonere toekomst_
+_"Ivan's Herbs werkt sinds de oprichting in 2017 aan een schonere toekomst."_
 
 Waarde creatie in voordeel van de natuur in combinatie met financiële duurzaamheid zijn een belangrijkere rol gaan spelen. Gezien de cyclus van vernieuwing, in het vooruitstrevende hedendaagse bedrijfsklimaat, is Ivan's Herbs de mogelijkheid geboden mee te gaan in deze ontwikkeling. 
 
-_Wij houden ons vast aan onze eigen waarden waarin de gezondheid, algehele gemoedstoestand en het milieu centraal staan; onze pijlers richten zich op drie gedragingen om onze bijdrage te leveren aan de hedendaagse maatschappij:_
+Wij houden ons vast aan onze eigen waarden waarin de gezondheid, algehele gemoedstoestand en het milieu centraal staan; onze pijlers richten zich op drie gedragingen om onze bijdrage te leveren aan de hedendaagse maatschappij:
 
 * Introduceren natuurlijke oplossingen
 * Informeren en onderwijzen
