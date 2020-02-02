@@ -1,5 +1,5 @@
 ## "Wij ondersteunen...
-_-**... natuur- en milieuorganisaties die het beschermen van het klimaat en behoudt van de biodiversiteit centraal stellen. Het ecosysteem is van essentiële waarde voor verschillende organisme; waarbij onbalans desastreuze gevolgen kan hebben met zware impact op onze planeet. Wij spelen in op deze ontwikkeling door ons te richten op een schoon en uiterst duurzaam productieproces."_**
+_**... natuur- en milieuorganisaties die het beschermen van het klimaat en behoudt van de biodiversiteit centraal stellen. Het ecosysteem is van essentiële waarde voor verschillende organisme; waarbij onbalans desastreuze gevolgen kan hebben met zware impact op onze planeet. Wij spelen in op deze ontwikkeling door ons te richten op een schoon en uiterst duurzaam productieproces."**_
 
 Siberië herbergt een ongekende hoeveelheid flora en fauna. Dit immense oppervlakte beslaat drie vierde van het Russische oppervlakte en doorkruist dertien verschillende tijdzones. Niet alleen het wonderschone Altaj gebergte heeft ervoor gezorgd dat een groot deel van het land op de Unesco Werelderfgoedlijst is komen te staan; Siberië staat bij kapitalisten tevens bekend om het verborgen zwarte goud. Sinds jaar en dag beschermen natuur- en milieuorganisaties dit deel van de planeet. De invloedrijkste oliemaatschappijen ter wereld worden gezien als tegenpartij.
 
