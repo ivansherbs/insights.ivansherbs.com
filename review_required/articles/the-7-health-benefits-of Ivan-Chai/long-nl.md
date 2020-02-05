@@ -57,9 +57,6 @@ Bij vrouwen boven de 12 jaar komt blaasontsteking veel voor. Circa 20% van de vr
 ### 6. Gewrichtspijn
 
 
-
-
-
 ### 7. Menstruatiepijn 
 
 Menstruatiepijn kan worden veroorzaakt door een ontsteking rondom de baarmoeder. 85% van de Nederlandse vrouwen heeft last van menstruatiepijn. Menstruatieklachten belemmeren een groot deel van deze vrouwen in hun dagelijkse functioneren ([14.9](https://zorgnu.avrotros.nl/nieuws/item/veel-vrouwen-beperkt-in-dagelijks-leven-vanwege-menstruatieklachten/)). Deze vorm van pijn wordt veroorzaakt door hoge waarden van zogenaamde 'verkeerde' prostaglandinen. De 'juiste' prostaglandinen hebben namelijk wel een positieve werking op het vrouwelijk lichaam door het remmen van onstekingen, het ontspannen van spieren en het beschermen van het maagslijmvlies waardoor die bekende periode gepaard met menstruatiepijn wordt verlicht. Voorafgaand aan een korte opbouwfase waarin de aanmaak van deze waarden van prostaglandinen wordt vermindert, kan menstruatiepijn worden verzachten ([14.10](https://endometriosis.org/treatments/painkillers/managing-endometriosis-pain-with-nsaids-nederlands/)).
