@@ -54,9 +54,11 @@ Een keelontsteking wordt veroorzaakt door een infectie met een virus. Slikken ga
 
 Bij vrouwen boven de 12 jaar komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14.1](https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/),[14.2](https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen),[14.3](https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking)). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. Hiernaast blijkt uit Europees onderzoek dit gezondheidsprobleem zelfs van invloed is op de kwaliteit van het leven ([14.4](https://www.gezondheidsnet.nl/blaasontsteking/blaasontsteking-een-sekssouvenir),[14.5](https://www.tandfonline.com/doi/abs/10.1080/14737167.2017.1359543?journalCode=ierp20)).
 
-### 6. Darmontsteking
+### 6. Gewrichtspijn
 
-Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand ([14.6](https://www.kiesbeter.nl/onderwerpen/chronische-darmontstekingen?subjectId=219&sectorId=1)). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis' ([14.7](https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html)). De meest voorkomende ontstekingen zijn virale- of bacteriële-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([14.8](https://mens-en-gezondheid.infonu.nl/ziekten/52748-darmonsteking-en-diarree.html)) door bijvoorbeeld te lang stil zitten.
+
+
+
 
 ### 7. Menstruatiepijn 
 
@@ -158,6 +160,8 @@ De al eerder besproken schimmels, waar iedereen last van heeft, kunnen een oorza
 
 Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de farmaceutische industrie. Door het gebruik van antibiotica kan de darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een antibioticakuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geassocieerde Diarree - ADD. ADD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt acht weken na de kuur nog last had van diarree ([18.10](https://www.darmgezondheid.nl/darmklachten/darmaandoeningen/diarree/antibiotica-en-diarree/)). 
 
+Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand ([18.11](https://www.kiesbeter.nl/onderwerpen/chronische-darmontstekingen?subjectId=219&sectorId=1)). In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis' ([18.12](https://mens-en-gezondheid.infonu.nl/aandoeningen/178343-darmontsteking-ontstoken-darm-symptomen-en-behandeling.html)). De meest voorkomende ontstekingen zijn virale- of bacteriële-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding ([18.3](https://mens-en-gezondheid.infonu.nl/ziekten/52748-darmonsteking-en-diarree.html)) door bijvoorbeeld te lang stil zitten.
+
 **_Ivan Chai verzorgt het spijsverteringsstelsel:_** 
 
 * Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door Ivan Chai te drinken ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level%20)). Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai ([6](https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/viewFile/16/pdf_4)).
@@ -168,7 +172,7 @@ Darmklachten worden voornamelijk bestreden met behulp van antibiotica uit de far
 
 **Holistische benadering** 
 
-_De holistische visie bestrijkt de mens als geheel; gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. Hierbij worden de mentale, lichamelijke, sociale en emotionele kant in zijn of haar totaliteit benaderd, waarbij het zien van samenhang in voor en tegenspoed centraal staat._
+_Ivan's Herbs benadert de mens vanuit een holistische perspectief. De holistische visie bestrijkt de mens als geheel; gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. Hierbij worden de mentale, lichamelijke, sociale en emotionele kant in zijn of haar totaliteit benaderd, waarbij het zien van samenhang in voor en tegenspoed centraal staat._
 
 
 -------------------------------------------------------------
