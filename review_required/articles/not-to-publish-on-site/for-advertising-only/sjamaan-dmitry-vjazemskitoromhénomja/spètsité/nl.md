@@ -14,6 +14,6 @@ De invloeden vanuit het **oosten** van Siberië waren afkomstig uit de dierenrie
 
 **Hedendaagse literatuur** Het geloof, offerrituelen en de traditionele volksgeneeskunde hebben grote impact gehad op hedendaagse artikelen. Deze werden als leidraad gebruikt voor verschillende klinische onderzoeken. Het gevoel van vertrouwen bij iedere 'moderne' Sjamaan in oude geschriften is hierdoor de afgelopen jaren flink versterkt; gezien de vele bewezen gezondheidsvoordelen die te vinden zijn in kruiden uit Siberië. 
 
-*Lees meer over de 7 gezondheidsvoordelen die te vinden zijn in de Siberische kruidenthee Ivan Chai.
+* Lees meer over de 7 gezondheidsvoordelen die te vinden zijn in de Siberische kruidenthee Ivan Chai.
 
 [Button Ontdek meer] 
