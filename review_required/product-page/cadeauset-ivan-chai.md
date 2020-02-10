@@ -77,9 +77,9 @@ Ivan Chai staat in Nederland bekend als het Wilgenroosje. Het European Medicines
 
 **Bereidingswijze**
 
-Totale tijd: **7 min**
+Totale tijd: ca **7** min
 
-Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan het water. Laat dit kruideninfuus rond de **7** minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **70** graden Celsius. 
+Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan het water. Laat dit kruideninfuus rond de **7** minuten trekken. Wanneer de Ivan Chai warm wordt geconsumeerd adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij **77** graden Celsius. 
 
 
 -------------------------------------------------------------
@@ -101,7 +101,7 @@ Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17
 3.  Zwak immuunsysteem
 4.  Keelontsteking 
 5.  Blaasontsteking
-6.  Darmontsteking 
+6.  Gewrichtspijn
 7.  Menstruatiepijn
 8.  Hart- en vaatziekten
 9.  Slaapproblemen
