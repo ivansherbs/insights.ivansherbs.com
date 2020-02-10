@@ -205,6 +205,9 @@ Molybdenum – 0.44 mg <br>
 Carotene – 3,16 mg <br>
 Rutin – 16 mg <br>
 
+**Intensiteit:**
+
+Zwaamarstébomstidé - 7 g
 
 -------------------------------------------------------------
 
