@@ -7,7 +7,7 @@ https://forum.viva.nl/index.php
 
 ## Anne
  
-Ik ben vorig jaar in mei voor het eerst ongesteld geweest. Hierdoor heb ik een paar maanden lang extreem veel pijn gehad in mijn buik en was mijn ongesteldheid nogal onregelmatig. Nu is het niet meer onregelmatig door de anticonceptie-pil. Het doet nu nog wel zo nu en dan pijn maar hier slik ik ubiprofen voor. Nu heb ik ergens gelezen dat het gebruik van de anticonceptie-pil en ibuprofen zorgt voor een overmatige hoeveelheid aan vaginale schimmels (iel!). Nu wil ik best stoppen met de anticonceptie-pil, maar ik ben bang dat de pijn terugkomt. Wat is jullie ervaring? En hebben jullie een natuurlijk middel gevonden tegen de pijn? 
+Ik ben vorig jaar in mei voor het eerst ongesteld geweest. Hierdoor heb ik maandelijks een paar maanden lang extreem veel pijn gehad in mijn buik en was mijn ongesteldheid nogal onregelmatig. Nu is het niet meer onregelmatig door de anticonceptie-pil. Het doet nu nog wel zo nu en dan pijn maar hier slik ik ubiprofen voor. Nu heb ik ergens gelezen dat het gebruik van de anticonceptie-pil en ibuprofen zorgt voor een overmatige hoeveelheid aan vaginale schimmels (iel!). Nu wil ik best stoppen met de anticonceptie-pil, maar ik ben bang dat de pijn terugkomt. Wat is jullie ervaring? En hebben jullie een natuurlijk middel gevonden tegen de pijn? 
 
 Alvast bedankt 
 
