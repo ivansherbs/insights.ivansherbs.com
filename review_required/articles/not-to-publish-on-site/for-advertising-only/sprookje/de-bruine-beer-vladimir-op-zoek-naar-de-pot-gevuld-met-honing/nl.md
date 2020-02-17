@@ -15,7 +15,7 @@ _Tip: Zorg voor voldoende kruidenthee voor je begint met voorlezen_
 
 [Drawing Vladimir drinking cup of tea]
 
-**Het Sprookje**
+**Het Sprookje** <br>
 Er was eens een dikke bruine beer die Vladimir heette. Op een vroege zonnige morgen liep de bruine beer samen met zijn metgezel door het honingbos op zoek naar honing. De honing was op en ze hadden allebei zo'n zin in een lekkere honingtaart! 
 
 _'Nom Nom Noom, wat hadden ze daar een zin in!'_
@@ -53,7 +53,7 @@ De twee zaten vervolgens zo stil mogelijk zonder een geluid te maken, totdat Vla
 
 'Ehhhh nou...' zei Vladimir met zijn wenkbrauwen opgetrokken. Tegelijkertijd stak hij zijn hand op met zijn wijsvinger omhoog gestoken, wachtend tot hij antwoord mocht geven. Toen antwoordde hij voorzichtig...
 
-'...een honingtaart... met een kopje kruidenthee... lekker en vooral heel heel heeeel gezond. Nu ik zie dat je mij toch niet kunt opeten zal ik mijn reis richting de honingtaart met kruidenthee vervolgen.'
+_'...een honingtaart... met een kopje kruidenthee... lekker en vooral heel heel heeeel gezond. Nu ik zie dat je mij toch niet kunt opeten zal ik mijn reis richting de honingtaart met kruidenthee vervolgen._
 
 [Drawing Vladimir with his finger in the air]
 
