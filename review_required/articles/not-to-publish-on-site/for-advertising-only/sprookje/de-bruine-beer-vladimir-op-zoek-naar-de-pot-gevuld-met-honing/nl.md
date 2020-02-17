@@ -8,7 +8,7 @@ Siberisch Sprookje | Vanaf: 7 jaar | Verteltijd: ca 17 min
 _"Een pot gevuld met honing, wie houdt daar nou niet van?"_ <br>
 Op een zonnige dag was Vladimir met zijn metgezel gretig op zoek naar een pot gevuld met honing. Samen wandelden ze door de bossen en kwamen opeens één van de overgebleven Siberische tijgers tegen. Gelukkig was daar wederom de imker Igor om de dag te redden...
 
-**Toelichting sprookje voor de voorlezer**
+**Toelichting sprookje voor de voorlezer** <br>
 Russen zijn dol op Siberische kruidenthee met honing! Al eeuwenlang drinken ze deze combinatie en gebruiken ze kruiden in hun maaltijden. Ze vinden honing zo lekker dat ze het ook gebruiken in de taarten die ze maken. Siberische lekkernijen, zoals de Medovnikayé, staan bekend om een grote hoeveelheid honing met kruiden. _De kruiden uit Siberië_ die ze hierbij gebruiken hebben een _geneeskrachtige werking_. Met andere woorden, het gebruik van kruiden uit Siberië zorgt ervoor dat je minder snel ziek wordt! Het volgende Siberische sprookje heeft ervoor gezorgd dat kinderen de zoete lekkernijen en de thee met kruiden (goed voor lichaam en geest) nog meer gingen waarderen!  
 
 _Tip: Zorg voor voldoende kruidenthee voor je begint met voorlezen_
