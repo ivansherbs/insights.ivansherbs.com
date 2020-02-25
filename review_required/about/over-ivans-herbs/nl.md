@@ -4,7 +4,7 @@
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië.**
 
-_Wij geloven in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. De 7 gezondheidsvoordelen van Ivan Chai zijn de natuurlijke oplossing als alternatief op farmaceutische medicijnen. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen. Ons sociaal en verantwoordelijk gedrag richt zich op de specifieke behoefte van elke progressieve, op gezondheid gerichte klant, terwijl wij diepgaande inzichten creëren in de ontwikkelings- en succesfactoren in de gebieden waarin wij actief zijn. Onze pijlers zijn gericht op drie gedragingen om onze bijdrage te leveren tot de hedendaagse maatschappij._
+_Wij geloven in het aanbieden van producten die een krachtige impact hebben op de gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. De 7 gezondheidsvoordelen van Ivan Chai zijn de natuurlijke oplossing als alternatief op farmaceutische medicijnen. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen. Ons sociaal en verantwoordelijk gedrag richt zich op de specifieke behoefte van elke progressieve- en op gezondheid gerichte klant, terwijl wij diepgaande inzichten creëren in de ontwikkelings- en succesfactoren in de gebieden waarin wij actief zijn. Onze pijlers zijn gericht op drie gedragingen om onze bijdrage te leveren tot de hedendaagse maatschappij._
 
 <br>
 
