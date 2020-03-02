@@ -29,7 +29,7 @@ Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijn
 
 Een kleine verandering in de keuzes die jij maakt, waarbij de vertrouwde smaakbeleving wordt gespaard. Preventie speelt een belangrijke rol in mijn wereld. Ik dwing je niet om alle gezondheidsproblemen aan te pakken, kies je gevechten.
 
-*Benieuwd naar de 7 gezondheidsvoordelen van Ivan Chai tegen 17 gezondheidsproblemen. 
+* Benieuwd naar de 7 gezondheidsvoordelen van Ivan Chai tegen 17 gezondheidsproblemen. 
 
 [Button Lees meer] 
 
