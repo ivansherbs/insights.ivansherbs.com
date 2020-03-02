@@ -19,7 +19,7 @@ Laten we wel wezen, niet iedereen zit te wachten op een ‘gezonde levensstijl�
 
 Hiermee groeit gezien de hoeveelheid aan informatie óók de bewustwording dat consumenten hun levensstijl niet in een handomdraai aanpassen naar de nieuwste hype. Kleine veranderingen in alledaagse handelingen kunnen hierbij de oplossing bieden. De ‘gezonde levensstijl’ kan hierdoor makkelijker worden nagestreefd. 
 
-‘…en waar doen we het allemaal voor?’
+_‘…en waar doen we het allemaal voor?’_
 
 De kans op een kennismaking met de farmaceutische industrie, met nare bijwerkingen tot gevolg, wordt hierdoor verminderd. Met name de consequenties op langere termijn zijn niet mis wanneer je niet openstaat voor kleine veranderingen. Neem kruidenthee in het bijzonder. Als herborist kan ik deze theeën ten zeerste aanraden om op eenvoudige wijze winst te behalen voor het menselijk lichaam. Grote veranderingen in jouw levensstijlen zijn niet nodig. **Iedereen drinkt immers thee**. Bekijk nu eens het assortiment van kruidenthee met gezondheidsvoordelen. Neem bijvoorbeeld Ivan Chai. 
 
