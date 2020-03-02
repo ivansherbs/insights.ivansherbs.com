@@ -3,9 +3,9 @@
 **Gezondheid** | Opinie <br> 
 _'We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch…' aldus Ivan Aleksandrovitsjé (68). Een herborist over de keuzemogelijkheden voor de consument._
 
-Het afgelopen decennium is de consument in toenemende mate gaan letten op een gezondere levensstijl. De trend waarbij de verkoop van gezonde producten blijft stijgen houdt aan; waarbij nu tevens rekening wordt gehouden met de herkomst, productieproces, milieu en de gezondheidswaarde van producten. Het zwaartepunt wordt keer op keer verlegd om innovatie niet in de weg te staan.
+Het afgelopen decennium is de consument in toenemende mate gaan letten op een gezondere levensstijl. De trend waarbij de verkoop van gezonde producten blijft stijgen houdt aan. Er wordt nu tevens rekening gehouden met de herkomst, productieproces, milieu en de gezondheidswaarde van producten. Het zwaartepunt wordt keer op keer verlegd om innovatie niet in de weg te staan.
 
-De constante innovatie in de voedingsindustrie zorgt er echter voor dat het vertrouwen van de consument keer op keer op de proef wordt gesteld. Hierbij moet worden ingespeeld op de steeds veranderende, soms tegenstrijdige behoefte. Dergelijke uitdagingen zien we terug in de vegetarische vleesschappen; waarbij vegetarische producten de oude vertrouwde naam mee krijgen van het dier waarna de plantaardige variant _moet_ smaken. 
+De constante innovatie in de voedingsindustrie zorgt er echter voor dat het vertrouwen van de consument keer op keer op de proef wordt gesteld. Hierbij moet worden ingespeeld op de steeds veranderende, soms tegenstrijdige behoefte. Dergelijke uitdagingen zien we terug in de vegetarische vleesschappen. Vegetarische producten krijgen de oude vertrouwde naam mee van het dier waarna de plantaardige variant _moet_ smaken. 
 
 Nu plantaardig eten en duurzaam consumeren eindelijk de standaard zijn geworden, is het gelukkig tijd voor de volgende stap richting de eeuwige jeugd. Een gezondere levensstijl gezien vanuit een holistische perspectief. 
 
