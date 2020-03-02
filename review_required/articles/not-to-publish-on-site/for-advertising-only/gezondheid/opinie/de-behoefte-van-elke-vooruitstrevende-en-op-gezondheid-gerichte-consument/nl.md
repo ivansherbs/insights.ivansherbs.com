@@ -25,7 +25,7 @@ De kans op een kennismaking met de farmaceutische industrie, met nare bijwerking
 
 Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. Gebruik Ivan Chai als preventieve behandeling tegen 17 gezondheidsproblemen. Deze Siberische kruidenthee is door verschillende thee experts geproefd. De smaak is als volgt omschreven: 
 
-"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak" 
+_"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"_ 
 
 Een kleine verandering in de keuzes die jij maakt, waarbij de vertrouwde smaakbeleving wordt gespaard. Preventie speelt een belangrijke rol in mijn wereld. Ik dwing je niet om alle gezondheidsproblemen aan te pakken, kies je gevechten.
 
