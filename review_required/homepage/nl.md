@@ -15,7 +15,7 @@ Verzorg dagelijks lichaam en geest met kruiden uit Siberië
 Lees onze artikelen 
 
 Slider with 6 articles To inform: <br>
-(Article 1) -Kruiden als medicijn - picture: picture head of Celie Ann open <br>
+(Article 1) -Kruiden als medicijn - picture: picture head of Celie Ann drinking tea <br>
 (Article 2) -Moderne kruidengeneeskunde - picture: Ivan Chai + mountains <br>
 (Article 3) -Kruiden voor medicijnen - picture:... <br> 
 (Article 4) -Veilig gebruik van kruiden - picture:... <br>
