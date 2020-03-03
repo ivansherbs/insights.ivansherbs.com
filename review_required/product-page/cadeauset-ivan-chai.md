@@ -7,9 +7,9 @@ Picture Tubes (current - loose leaf)
 Inhoud: 100gr Siberische kruidenthee<br><br>
 
 **7 gezondheidsvoordelen**<br>
-_Ivan Chai is de natuurlijke oplossing als aanvulling of alternatief op farmaceutische medicijnen._ <br> 
+_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen._ <br> 
 
-Onze Siberische kruidenthee heeft een krachtige impact op het menselijk lichaam door het versterken van de weerstand en de van nature onstekingsremmende werking. Hiernaast heeft het een positive effect op ons hart en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een opbouwfase waardoor angst, stress & burnout klachten worden vermindert, met als positieve bijkomstigheid het verbeteren van de nachtrust. 
+Onze Siberische kruidenthee heeft een krachtige impact op het menselijk lichaam door het versterken van de weerstand en onstekingsremmende werking. Hiernaast heeft het een positive effect op ons hart en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een opbouwfase waardoor angst, stress & burnout klachten tevens worden vermindert, met als positieve bijkomstigheid het verbeteren van de nachtrust. 
 
 Een van de belangrijkstse gezondheidsvoordelen voor de man is de verzorging van de prostaat. Volgens de statistieken krijgt >30% van iedere man boven de 45 jaar te kampen met problemen gericht op de prostaat. Bij gebruik wordt ook gelijk het spijsverteringsstelsel verzorgt. <br>
 
@@ -27,13 +27,6 @@ De voordelen zijn gebaseerd op hedendaagse artikelen en worden ondersteund door 
   [Ivan Chai - Cadeauset ]
 
 **Price / chart / button at to cart**
----------------------------------------------
-
--------------------------------------------------------------
-
-( NOTE FOR GABRIEL: use the same copy 'De oorsprong en verwerking van Ivan Chai'
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/op2BjUHk06s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -------------------------------------------------------------
 
@@ -207,7 +200,7 @@ Rutin – 16 mg <br>
 
 **Intensiteit:**
 
-Zwaamarstébomstidé - 7 g
+(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
 -------------------------------------------------------------
 
