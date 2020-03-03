@@ -7,24 +7,22 @@ Logo + Ivan's Herbs
 
 -------------------------------------------------------------
 
-**Ivan Chai <br>
-7 gezondheidsvoordelen**
-
--(Button - Ontdek meer)- > Product page /products/ivan-chai-gift-set
-
--------------------------------------------------------------
+**De 7 gezondheidsvoordelen van Ivan Chai** <br>
 
 Verzorg dagelijks lichaam en geest met kruiden uit Siberië
 
+-(Button - Ontdek meer)- > Article: De 7 gezondheidsvoordelen van Ivan Chai
+
+-------------------------------------------------------------
+
 Lees onze artikelen 
 
-Slider with 6 articles To inform: <br>
-(Article 1) -Kruiden als medicijn - picture: picture head of Celie Ann drinking tea <br>
-(Article 2) -Moderne kruidengeneeskunde - picture: Ivan Chai + mountains <br>
-(Article 3) -Kruiden voor medicijnen - picture:... <br> 
-(Article 4) -Veilig gebruik van kruiden - picture:... <br>
-(Article 5) -Kruiden na medicijnen - picture:... <br>
-(Article 6) -De 7 gezondheidsvoordelen van Ivan Chai - picture:... <br>
+(Slider with 6 articles To inform:) <br>
+picture: head of Celie Ann drinking tea - (Article 1) -Kruiden als medicijn <br>
+picture: Ivan Chai + mountains (Article 2) -Moderne kruidengeneeskunde <br>
+picture: ... (Article 3) -Kruiden voor medicijnen <br> 
+picture: ... (Article 4) -Veilig gebruik van kruiden <br>
+picture: ... (Article 5) -Kruiden na medicijnen <br>
 
 -------------------------------------------------------------
 
