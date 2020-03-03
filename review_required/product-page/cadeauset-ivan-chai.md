@@ -9,7 +9,7 @@ Inhoud: 100gr Siberische kruidenthee<br><br>
 **7 gezondheidsvoordelen**<br>
 _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen._ <br> 
 
-Onze Siberische kruidenthee heeft een krachtige impact op het menselijk lichaam door het versterken van de weerstand en onstekingsremmende werking. Hiernaast heeft het een positive effect op ons hart en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een opbouwfase waardoor angst, stress & burnout klachten tevens worden vermindert, met als positieve bijkomstigheid het verbeteren van de nachtrust. 
+Onze Siberische kruidenthee heeft een krachtige impact op het menselijk lichaam. Het versterkt de weerstand en heeft een onstekingsremmende werking. Hiernaast heeft het een positive effect op het hart en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een opbouwfase waardoor angst, stress & burnout klachten tevens worden vermindert; met als positieve bijkomstigheid het verbeteren van de nachtrust. 
 
 Een van de belangrijkstse gezondheidsvoordelen voor de man is de verzorging van de prostaat. Volgens de statistieken krijgt >30% van iedere man boven de 45 jaar te kampen met problemen gericht op de prostaat. Bij gebruik wordt ook gelijk het spijsverteringsstelsel verzorgt. <br>
 
