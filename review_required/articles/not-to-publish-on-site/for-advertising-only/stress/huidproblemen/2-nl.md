@@ -1,6 +1,6 @@
 ## Huidproblemen door stress 
 
-Helaas is niet iedereen gezegend met een stevige, veerkrachtige en gladde huid. Wanneer je last hebt van huidproblemen ben je vaak op zoek naar producten die de huid gezonder maken. Dit zijn veelal producten geproduceerd door de farmaceutische industrie, terwijl er ook natuurlijke producten beschikbaar zijn die de oorzaak aanpakken. 
+_Helaas is niet iedereen gezegend met een stevige, veerkrachtige en gladde huid. Wanneer je last hebt van huidproblemen ben je vaak op zoek naar producten die de huid gezonder maken. Dit zijn veelal producten geproduceerd door de farmaceutische industrie, terwijl er ook natuurlijke producten beschikbaar zijn die de oorzaak aanpakken._
 
 **Holistische benadering** <br>
 Ivan’s Herbs gelooft in het aanbieden van producten die een krachtige impact hebben op het menselijk lichaam. Het menselijk lichaam is een complex systeem waardoor een holistische benadering nodig is bij het aanpakken van verschillende gezondheidsproblemen, zoals die van de huid. Veelal worden huidproblemen zoals _acne_, _huiduitslag_ en _huidinfecties_ veroorzaakt door stress.
