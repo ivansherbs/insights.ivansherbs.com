@@ -23,6 +23,4 @@ Deze Siberische kruidenthee kan worden gebruikt als preventieve behandeling tege
 
 In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase, waardoor het kalmerende effect pas merkbaar is na enkele dagen. In andere woorden, 1 kop Ivan Chai maakt niet het verschil. Na deze opbouwfase zul je het verschil merkbaar voelen. De bewezen gezondheidsvoordelen zijn **goed voor zowel kinderen als volwassenen**.
 
-*Benieuwd tegen welke gezondheidsproblemen Ivan Chai nog meer goed is? 
-
 [Button Ontdek meer]
