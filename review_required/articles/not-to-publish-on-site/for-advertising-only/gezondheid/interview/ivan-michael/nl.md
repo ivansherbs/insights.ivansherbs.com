@@ -20,7 +20,7 @@ V **Waar kan ik aan denken bij het gebruik van natuurlijke oplossingen?** <br>
 
 "Volgens deze traditionele geneeskunde waren deze kruiden vooral goed voor het versterken van de weerstand, de werking als krachtige ontstekingsremmer en verzorgen van het spijsverteringsstelsel."
 
-"Hedendaagse studies hebben ook een positief effect op het hart- en vaatstelsel en het verzorgen van de prostaat aangetoond. Hiernaast wordt de geest ook positief beïnvloed. Denk aan het verbeteren van de slaap en het verminderen van angst, stress en burnout klachten."
+"Hedendaagse studies hebben ook een positief effect op het hart- en vaatstelsel en het verzorgen van de prostaat aangetoond. Hiernaast wordt de geest ook positief beïnvloed. Denk aan het verbeteren van de slaap en het verminderen van de kans op angst, stress en burnout klachten."
 
 V **Het gebruik van kruiden om gezondheidsproblemen aan te pakken klinkt als een alternatieve geneeswijze. Wat is jouw visie hierop?**<br> 
 "Kruiden kunnen op verschillende manieren worden gebruikt. Dagelijks drink ik bijvoorbeeld Ivan Chai, een kruideninfuus gemaakt door kruiden uit Siberië. De plant waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld, echter heeft alleen de plant uit deze regio een sterk heilzame werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld."
