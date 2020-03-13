@@ -1,7 +1,7 @@
 ## De behoefte van elke vooruitstrevende- en op gezondheid gerichte consument
 
 **Gezondheid** | Opinie <br> 
-_'We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch…' aldus Ivan Aleksandrovitsjé (68). Een herborist over de keuzemogelijkheden voor de consument._
+_'We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch…' aldus Ivan Aleksandrovitsjé (63). Een herborist over de keuzemogelijkheden voor de consument._
 
 Het afgelopen decennium is de consument in toenemende mate gaan letten op een gezondere levensstijl. De trend waarbij de verkoop van gezonde producten blijft stijgen houdt aan. Er wordt nu tevens rekening gehouden met de herkomst, productieproces, milieu en de gezondheidswaarde van producten. Het zwaartepunt wordt keer op keer verlegd om innovatie niet in de weg te staan.
 
