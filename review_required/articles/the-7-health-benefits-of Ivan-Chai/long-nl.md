@@ -84,7 +84,7 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([15.2]
 
 <br>
 
-## Verbetert de slaap en vermindert angst, stress & burnout klachten  
+## Verbetert de slaap en vermindert de kans op angst, stress & burnout klachten  
 
 ### 9. Slaapproblemen
 
@@ -105,9 +105,9 @@ Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen.
 
 Stress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte ([16.14](https://www.gezondheidsplein.nl/aandoeningen/stress/item31839),[16.15](https://www.hartstichting.nl/risicofactoren/stress)). 53% van de medewerkers ervaart stress op werk. Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Je bent namelijk erg gefocust en actief. 
 
-De mate van stress kan na verloop van tijd groeien. Wanneer dit te lang aanhoudt kan dit omslaan in verschillende mentale klachten. Denk hierbij aan de volgende gezondheidsproblemen die een hevige impact kunnen hebben op de gemoedstoestand; waarbij hulp in de vorm van natuurlijke producten niet altijd de oplossing bieden: _agressie, manie, pshychose_ en _depressie_. Echter bieden natuurlijke producten wel de oplossing om een lichtere vorm van stress, waardoor ongezonde werkstress kan ontstaan wat kan leiden to burnout klachten, wordt vermindert. Burnout klachten zijn de meest voorkomende mentale gezondheidsproblemen als gevolg van stress, waarbij een gebrek aan activiteit zorgt voor oververmoeidheid en zich moeilijk kunnen focussen ([16.16](https://www.depsycholoog.nl/overspannen-en-burnout/)).
+De mate van stress kan na verloop van tijd groeien. Wanneer dit te lang aanhoudt kan dit omslaan in verschillende mentale klachten. Denk hierbij aan de volgende gezondheidsproblemen die een hevige impact kunnen hebben op de gemoedstoestand; waarbij hulp in de vorm van natuurlijke producten niet altijd de oplossing bieden: _agressie, manie, pshychose_ en _depressie_. Echter bieden natuurlijke producten wel de oplossing om een lichtere vorm van stress, waardoor ongezonde werkstress kan ontstaan, wordt vermindert. Burnout klachten zijn de meest voorkomende mentale gezondheidsproblemen als gevolg van stress, waarbij een gebrek aan activiteit zorgt voor oververmoeidheid en zich moeilijk kunnen focussen ([16.16](https://www.depsycholoog.nl/overspannen-en-burnout/)).
 
-Graag willen wij het volgende meegeven. Stress is een gezondheidsprobleem waar mensen niet van af komen middels geurkaarsen of een douchegel. Het kan simpelweg niet worden omgezet in positieve energie. Het vereist een verandering in jouw levensstijl. 
+_Graag willen wij het volgende meegeven. Stress is een gezondheidsprobleem waar mensen niet van af komen middels geurkaarsen of een douchegel. Het kan simpelweg niet worden omgezet in positieve energie. Het vereist een verandering in jouw levensstijl._
 
 ### 12. Burnout klachten
 Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([16.17](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[16.12](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de _kosten gepaard met werkstress_ in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: _twee miljard en acht honderd miljoen euro_ ([16.18](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)).
