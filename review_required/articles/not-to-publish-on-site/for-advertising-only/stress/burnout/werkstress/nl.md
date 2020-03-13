@@ -1,4 +1,4 @@
-## Ivan Chai tegen stress & burnout klachten
+## Ivan Chai tegen stress
 
 _Werkstress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, meer verantwoordelijkheden of controle door het management._
 
@@ -12,7 +12,7 @@ _Werkstress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanni
 
 Kortom: het **'carrière maken'** is van invloed op de ontwikkeling van stress en burnout klachten.
 
-Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te zorgen. Sterker nog, het is goed voor je. Je bent erg gefocust en actief. Wanneer deze mate van stress van binnen groeit en te lang aanhoudt kan dit omslaan in ongezonde werkstress, oftewel burnout klachten. Hierdoor zorgt het gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen.
+Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te zorgen. Sterker nog, het is goed voor je. Je bent erg gefocust en actief. Wanneer dit te lang aanhoudt kan dit omslaan in verschillende mentale klachten. Denk hierbij aan de volgende gezondheidsproblemen die een hevige impact kunnen hebben op de gemoedstoestand; waarbij hulp in de vorm van natuurlijke producten niet altijd de oplossing bieden: agressie, manie, pshychose en depressie.
 
 Veel professionals passen hun leefritme hierdoor verkeerd aan. Denk aan: 
 * Verkeerde eetgewoonte
@@ -22,7 +22,7 @@ Veel professionals passen hun leefritme hierdoor verkeerd aan. Denk aan:
 Je weerstand wordt erdoor vermindert en je wordt vatbaarder voor de gevolgen van stress.
 <br><br>
 
-_Ben jij op zoek naar het verminderen van stress en burnout klachten?_ <br>
+_Ben jij op zoek naar natuurlijke oplossingen die de kans op stress verminderen?_ <br>
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië.**
 
