@@ -41,9 +41,9 @@ Michael was overtuigd van de vele voordelen voor de gezondheid en de algehele ge
 [same picture founder]
 <br><br>
 
-In de expeditie groep ontmoette Michael, door pure serendipiteit, een Siberische herborist genaamd Ivan. Ivan had al meer dan 20 jaar traditionele kruidengeneeskunde gestudeerd. Ivan was de oudste in de expeditie groep (68) en maakte revitaliserende kruidenthee van de lokale kruiden waar zijn oog op viel gedurende de expeditie. Nadat het grootste deel van de groep, de fysiek veeleisende top van 4500 meter had bereikt, keerde Michael terug naar Amsterdam om dit verhaal te vertellen. Pas toen begonnen we ook echt in kruiden te geloven.
+In de expeditie groep ontmoette Michael, door pure serendipiteit, een Siberische herborist genaamd Ivan Aleksandrovitsjé (63). Ivan had al meer dan 20 jaar traditionele kruidengeneeskunde gestudeerd. Ivan was de oudste in de expeditie groep en maakte revitaliserende kruidenthee van de lokale kruiden waar zijn oog op viel gedurende de expeditie. Nadat het grootste deel van de groep, de fysiek veeleisende top van 4500 meter had bereikt, keerde Michael terug naar Amsterdam om dit verhaal te vertellen. Pas toen begonnen we ook echt in kruiden te geloven.
 
-Vandaag de dag blijft Ivan een van onze adviseurs voor Siberische kruiden; om de kans op ziekte te voorkomen en gezondheidsproblemen te verzorgen.
+Vandaag de dag blijft Ivan één van onze adviseurs; om de kans op ziekte te verminderen en gezondheidsproblemen te verzorgen.
 
 <br><br>
 
