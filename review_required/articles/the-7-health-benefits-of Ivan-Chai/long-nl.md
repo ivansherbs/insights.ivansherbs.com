@@ -7,7 +7,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 * Versterkt de weerstand 
 * Krachtige ontstekingsremmer
 * Versterkt de antioxiderede werking
-* Verbetert de slaap en vermindert angst, stress & burnout klachten 
+* Verbetert de slaap en vermindert de kans op angst, stress & burnout klachten 
 * Verzorgt de gezondheid van de prostaat
 * Verzorgt het spijsverteringsstelsel
 * Vermindert de kans op diabetes
@@ -112,7 +112,7 @@ Graag willen wij het volgende meegeven. Stress is een gezondheidsprobleem waar m
 ### 12. Burnout klachten
 Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([16.17](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[16.12](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de _kosten gepaard met werkstress_ in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: _twee miljard en acht honderd miljoen euro_ ([16.18](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)).
 
-**_Ivan Chai vermindert angst, stress & burnout klachten en verbetert de slaap:_** 
+**_Ivan Chai vermindert de kans op angst, stress & burnout klachten en verbetert de slaap:_** 
 
 * Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is hiernaast een bekend mild kalmerend middel in de traditionele volksgeneeskunde. De medische wereld doet diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. Ivan Chai heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen ([10](https://books.google.nl/books/about/The_Earthwise_Herbal.html?id=ElLJ_vgx65cC&redir_esc=y%20),[9](https://www.researchgate.net/publication/307622674_Morphological_and_anatomical_investigations_of_Chamenerion_angustifolium_L_Scop_growing_in_the_Northern_Caucasus_region%20),[4](https://www.researchgate.net/publication/307547118_Investigation_of_the_immunological_effect_of_fermented_epilobium_angustifolium_extracts_at_the_cell_level)).
 In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Voor een merkbaar effect: drink meerdere dagen op rij 1 kop Ivan Chai. 
