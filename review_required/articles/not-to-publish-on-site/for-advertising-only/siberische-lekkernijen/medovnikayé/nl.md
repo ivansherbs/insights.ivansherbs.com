@@ -1,7 +1,7 @@
 ## Traditionele Siberische lekkernijen
  
 **Ooit gehoord van de honingtaart de Medovnikayé?** <br> 
-_Maak kennis met de Siberische variant op de Medovnik honingtaart; in de volksmond ook wel bekend als de Slàkajetská._
+_Maak kennis met de Siberische variant op de Medovnik honingtaart; in de volksmond ook wel bekend als de Slàdkoyezhká._
 
 Honing heeft eeuwenlang de basis gevormd voor traditionele Siberische lekkernijen. Hierdoor staat dit prachtige product uit de natuur symbool voor de ware smaak en traditie van de Siberische keuken. Vanwege de introductie van suiker in Rusland verdween het gebruik van honing begin 16de eeuw naar de achtergrond. In traditionele recepten blijkt dit natuurlijke alternatief nog steeds een waardevolle toevoeging. De honingtaart de Medovnikayé wordt, naast honing, gekenmerkt door het toevoegen van kruiden uit Siberië.
 
@@ -52,6 +52,24 @@ Besmeer de vellen evenredig met de vulling en stapel deze op. Verkruimel eventue
 **Tip** <br>
 * Bestrooi de Medovnikayé met zoete kersen. 
 * Drink tijdens het maakproces een kop Ivan Chai. Geniet en neem de tijd. 
+
+---------------------------------------------
+
+De betekenis van…
+
+*_Slàdkoyezhká_*
+
+Slàd • ko • yezh • ká | сладкоежка
+
+1.	(m,v) iemand die graag zoetigheden eet; = zoetekauw <br>
+_’Slàdkoyezhká, heb jij zin in een stuk Medovnikayé?’_
+
+
+2. (m,v) iemand die een ander bijzonder na aan het hart ligt; = schatje <br>
+_’Heb jij zin in een punt, Slàdkoyezhká?’_
+
+---------------------------------------------
+
 
 Naast het maken van Medovnikayé kunnen de kruiden ook worden gebruik voor de Siberische kruidenthee Ivan Chai. Siberische kruiden zijn bewezen goed voor de gezondheid en algehele gemoedstoestand. 
 
