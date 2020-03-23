@@ -10,9 +10,9 @@ De invloeden vanuit het **oosten** van Siberië waren afkomstig uit de dierenrie
 
 **Spètsité** Het verzorgen van de gemoedstoestand speelde een belangrijke rol om het extreme klimaat te kunnen verdragen. In de traditionele volksgeneeskunde is deze leer gericht op het gebruik van kruiden voor het verzorgen van de geest. _"Onder begeleiding van een Sjamaan werd gedurende de zomermaanden gebruik gemaakt van Siberische kruiden voor het brouwen van verschillende kruideninfusies. Ieder familielid droeg zijn of haar bijdrage door overdag tijd te besteden aan het met de hand plukken van de verborgen kruiden langs de vruchtbare oevers van de rivier. De kalmerende werking van de kruiden werd afgeleid uit de smaakintensiteit. De natuurlijk bitter zoete smaak was met name van invloed op de algehele gemoedstoestand; in tegenstelling tot kruidenbrouwsels met een aardse licht zoette nasmaak, waarbij het effect na verloop van tijd eerder was te voelen in het menselijk lichaam."_ aldus Dmitry.
 
-Wist je dat…? <br>
+------------------------ 
 De benaming van de leer van Spètsité is onttrokken uit het Russische woord spetsii; wat staat voor kruiden. 
-
+------------------------
 **Literatuur** Het geloof, offerrituelen en de traditionele volksgeneeskunde hebben grote impact gehad op hedendaagse artikelen. Deze werden als leidraad gebruikt voor verschillende klinische onderzoeken. Het gevoel van vertrouwen bij iedere 'moderne' Sjamaan in oude geschriften is hierdoor de afgelopen jaren flink versterkt; gezien de vele bewezen gezondheidsvoordelen die te vinden zijn in kruiden uit Siberië. 
 
 * Lees meer over de 7 gezondheidsvoordelen die te vinden zijn in de Siberische kruidenthee Ivan Chai.
