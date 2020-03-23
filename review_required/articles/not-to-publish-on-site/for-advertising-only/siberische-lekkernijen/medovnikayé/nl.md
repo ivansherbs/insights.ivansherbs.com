@@ -57,7 +57,7 @@ Besmeer de vellen evenredig met de vulling en stapel deze op. Verkruimel eventue
 
 De betekenis van…
 
-*_Slàdkoyezhká_*
+_*Slàdkoyezhká*_
 
 Slàd • ko • yezh • ká | сладкоежка
 
