@@ -9,6 +9,14 @@ Logo + Ivan's Herbs
 
 **De 7 gezondheidsvoordelen van Ivan Chai** <br>
 
+* Versterkt de weerstand
+* Krachtige ontstekingsremmer
+* Versterkt de antioxiderede werking
+* Verbetert de slaap
+* Vermindert de kans stress
+* Verzorgt de gezondheid van de prostaat
+* Verzorgt het spijsverteringsstelsel
+
 Verzorg dagelijks lichaam en geest met kruiden uit Siberië
 
 -(Button - Ontdek meer)- > Article: De 7 gezondheidsvoordelen van Ivan Chai
