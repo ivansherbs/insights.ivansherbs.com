@@ -7,10 +7,10 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 * Versterkt de weerstand 
 * Krachtige ontstekingsremmer
 * Versterkt de antioxiderede werking
-* Verbetert de slaap en vermindert de kans op angst, stress & burnout klachten 
+* Verbetert de slaap
+* Vermindert de kans stress, angst en burnout klachten
 * Verzorgt de gezondheid van de prostaat
 * Verzorgt het spijsverteringsstelsel
-* Vermindert de kans op diabetes
 
 Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding; waarbij de holistische benadering centraal staat. Kleine veranderingen in alledaagse routines kunnen, op korte dan wel lange termijn, winst opleveren voor het menselijk lichaam.
 
@@ -26,15 +26,17 @@ Iedereen heeft last van schimmels (o.a. oraal, vaginaal, anaal). Een overtollig
 Volgens de statistieken krijgt 80% van de vrouwen ten minste 1 keer in hun leven een (schimmel)infectie aan de urinewegen. Met name jonge vrouwen die beginnend seksueel actief zijn en vrouwen na de menopauze hebben een verhoogd risico ([13.7](https://www.bergmanclinics.nl/vrouw/blaasklachten/pijn-bij-het-plassen)).
 De risicofactoren die de kans op een overtollige hoeveelheid aan gist, bacteriën en schimmels vergroot zijn roken, een kunstgebit en diabetes ([13.6](https://www.huidhuis.nl/huidaandoening/candida-infectie-van-de-mond)).
 
-### 2. Verkoudheid en griep
+### 2. Verkoudheid 
 
 Een verkoudheid begint vaak met een verstopte neus of loopneus. Hoofdpijn is het gevolg wanneer deze symptonen heftiger worden; veroorzaakt door de neusverstopping. Verkoudheid is vaak seizoensgebonden waarbij een onsteking van de luchtwegen ook vaak voorkomt ([13.8](https://www.dokterdokter.nl/gezond-leven/algemeen/is-het-verkoudheid-of-griep/item30057)). Griep is de agressievere vorm van een verkoudheid, wat gepaard gaat met hoge koorts ([13.9](https://www.thuisarts.nl/griep)).
+
+### 3. Griep 
 
 Begin 2018 heeft de langdurige griepepidemie gezorgd voor het hoogste niveau ziekteverzuim van de afgelopen 10 jaar. Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Met name in de gezondheidszorg met een ziekteverzuimpercentage van 6,5% lag het verzuim aanzienlijk hoger ([13.10](https://www.rtlnieuws.nl/geld-en-werk/artikel/4244466/ziekteverzuim-2018-op-hoogste-niveau-tien-jaar)). Tijdens de wintermaanden heeft het immuunsysteem moeite om zich te verdedigen tegen ziektekiemen. 
 
 Het gebruik van farmaceutische medicijnen kan van grote invloed zijn op de gevoeligheid voor griep en andere infecties. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden ([13.11](https://mens-en-gezondheid.infonu.nl/ziekten/44867-bescherming-tegen-griep-tips-om-je-immuniteit-te-versterken.html)). De oorzaak wordt hierbij niet aangepakt. 
 
-### 3. Zwak immuunsysteem
+### 4. Zwak immuunsysteem
 
 Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.12](https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen))). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([13.13](https://www.mmc.nl/oncologie/aandoening-en-behandeling/chemotherapie/),[13.14](https://www.chemotherapie.nl/wat-is-chemo/effecten-van-chemo)). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steeds de gevolgen in het dagelijkse leven ([13.15](https://zorgnu.avrotros.nl/nieuws/item/passende-zorg-nodig-voor-mensen-die-kanker-overleven/)).
 
@@ -46,18 +48,18 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.12](https:/
 
 ## Krachtige ontstekingsremmer
 
-### 4. Keelontsteking 
+### 5. Keelontsteking 
 
 Een keelontsteking wordt veroorzaakt door een infectie met een virus. Slikken gaat vaak lastig en doet zeer. Bij een zwaardere vorm van keelonsteking kunnnen de lympfklieren zijn opgezet. Hiernaast zijn er enkele risicofactoren verbonden aan deze vorm van ontsteking, namelijk roken, schreeuwen en stress. Met name roken en stress kunnen ervoor zorgen dat de weerstand lager is en de kans wordt verhoogd. Farmaceutische medicijnen, zoals antibiotica, hebben geen zin bij een keelontsteking ([14](https://www.gezondheidsnet.nl/griep-en-verkoudheid/keelontsteking)).
 
-### 5. Blaasontsteking
+### 6. Blaasontsteking
 
 Bij vrouwen boven de 12 jaar komt blaasontsteking veel voor. Circa 20% van de vrouwen heeft hier jaarlijks mee te maken ([14.1](https://www.nhg.org/standaarden/volledig/nhg-standaard-urineweginfecties/),[14.2](https://www.vice.com/nl/article/3kepdj/hoe-het-is-om-elke-keer-na-de-seks-een-blaasontsteking-te-krijgen),[14.3](https://www.gezondheidsnet.nl/blaasontsteking/wat-te-doen-bij-terugkerende-blaasontsteking)). De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. Hiernaast blijkt uit Europees onderzoek dit gezondheidsprobleem zelfs van invloed is op de kwaliteit van het leven ([14.4](https://www.gezondheidsnet.nl/blaasontsteking/blaasontsteking-een-sekssouvenir),[14.5](https://www.tandfonline.com/doi/abs/10.1080/14737167.2017.1359543?journalCode=ierp20)).
 
-### 6. Gewrichtspijn
+### 7. Gewrichtspijn
 
 
-### 7. Menstruatiepijn 
+### 8. Menstruatiepijn 
 
 Menstruatiepijn kan worden veroorzaakt door een ontsteking rondom de baarmoeder. 85% van de Nederlandse vrouwen heeft last van menstruatiepijn. Menstruatieklachten belemmeren een groot deel van deze vrouwen in hun dagelijkse functioneren ([14.9](https://zorgnu.avrotros.nl/nieuws/item/veel-vrouwen-beperkt-in-dagelijks-leven-vanwege-menstruatieklachten/)). Deze vorm van pijn wordt veroorzaakt door hoge waarden van zogenaamde 'verkeerde' prostaglandinen. De 'juiste' prostaglandinen hebben namelijk wel een positieve werking op het vrouwelijk lichaam door het remmen van onstekingen, het ontspannen van spieren en het beschermen van het maagslijmvlies waardoor die bekende periode gepaard met menstruatiepijn wordt verlicht. Voorafgaand aan een korte opbouwfase waarin de aanmaak van deze waarden van prostaglandinen wordt vermindert, kan menstruatiepijn worden verzachten ([14.10](https://endometriosis.org/treatments/painkillers/managing-endometriosis-pain-with-nsaids-nederlands/)).
 
@@ -69,7 +71,7 @@ Menstruatiepijn kan worden veroorzaakt door een ontsteking rondom de baarmoeder.
 
 ## Versterkt de antioxiderede werking
 
-### 8. Hart- en vaatziekten
+### 9. Hart- en vaatziekten
 
 * Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 * 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
@@ -84,22 +86,16 @@ Hart en vaatziekten zijn na kanker doodsoorzaak nummer twee in Nederland ([15.2]
 
 <br>
 
-## Verbetert de slaap en vermindert de kans op angst, stress & burnout klachten  
+## Verbetert de slaap   
 
-### 9. Slaapproblemen
+### 10. Slaapproblemen
 
 Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaar of ouder naar eigen zeggen problemen met slapen. Mensen worden belemmerd in hun functioneren en het verhoogt de kans op een slechtere gezondheid. Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro ([16](https://www.cbs.nl/nl-nl/nieuws/2018/11/een-op-de-vijf-meldt-slaapproblemen),[16.1](https://www.cbs.nl/nl-nl/nieuws/2019/34/arbeidsongeschikten-melden-vaakst-slaapproblemen)). Bij Nederlanders met onregelmatige werktijden ligt dit percentage tussen de 42% en 68%. Het is algemeen bekend dat de de laatste jaren het aantal arbeiders met slaapproblemen stijgt, echter pakt slecht 10% van bedrijven dit probleem actief aan ([16.2](https://www.rtlnieuws.nl/geld-en-werk/artikel/375541/wie-meer-succes-wil-hebben-moet-meer-slapen)).
 
 Slaapproblemen komen hiernaast niet alleen voor bij arbeiders. Arbeidsongeschikten hebben ook te kampen met dit probleem. Uit recentelijk onderzoek is tevens gebleken dat een groot deel van de slapeloosheid wordt veroorzaakt door stress ([16.3](https://www.slaapinfo.nl/soorten-slaapstoornissen/slapeloosheid/)). 
 Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit komt door de cafeïne. Ongeveer 80% van de Nederlander drinkt koffie op zijn tijd ([16.4](https://www.gezondheidsplein.nl/dossiers/goed-slapen-zo-krijg-je-een-goede-nachtrust/hoe-beinvloeden-alcohol-en-cafeine-het-inslapen-en-je-nachtrust/item43857),[16.5](https://www.rtlnieuws.nl/gezondheid/artikel/143976/hoeveel-koffie-kun-je-dag-drinken-en-werkt-het-tegen-een-kater-vier)).
 
-### 10. Angst
-
-In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen ([16.6](https://www.mentaalvitaal.nl/angststoornis)). 
-
-Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([16.7](https://www.volksgezondheidenzorg.info/onderwerp/angststoornissen),[16.8](https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871)). Verschillende onafhankelijke instituten beweren dat angst een van de minst handelbare emoties is. Stemmingsstoornissen gaan hiermee gepaard, wat angst- en stemmingsstoornissen samen de meest voorkomende aandoening maakt in de psychiatrie ([16.9](https://verkenjegeest.com/de-angst-voor-controleverlies/)<span style="text-decoration: underline;">,[16.10](https://forteggz.nl/studenten-poli/waar-wil-je-meer-over-weten/angst-en-stemmings5.stoornissen)</span>).
-
-Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up ([16.11](https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/),[16.12](https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html%20),[16.13](https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/)).
+## Vermindert de kans op stress, angst & burnout klachten
 
 ### 11. Stress 
 
@@ -109,7 +105,15 @@ De mate van stress kan na verloop van tijd groeien. Wanneer dit te lang aanhoudt
 
 _Graag willen wij het volgende meegeven. Stress is een gezondheidsprobleem waar mensen niet van af komen middels geurkaarsen of een douchegel. Het kan simpelweg niet worden omgezet in positieve energie. Het vereist een verandering in jouw levensstijl._
 
-### 12. Burnout klachten
+### 12. Angst
+
+In 2018 waren er naar ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen ([16.6](https://www.mentaalvitaal.nl/angststoornis)). 
+
+Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst versterkt door de toenemende mate van controle door het management en technologie in het dagelijks leven. Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst ([16.7](https://www.volksgezondheidenzorg.info/onderwerp/angststoornissen),[16.8](https://www.mt.nl/management/angst-op-werkvloer-bestrijden-geef-mensen-meer-vertrouwen/543871)). Verschillende onafhankelijke instituten beweren dat angst een van de minst handelbare emoties is. Stemmingsstoornissen gaan hiermee gepaard, wat angst- en stemmingsstoornissen samen de meest voorkomende aandoening maakt in de psychiatrie ([16.9](https://verkenjegeest.com/de-angst-voor-controleverlies/)<span style="text-decoration: underline;">,[16.10](https://forteggz.nl/studenten-poli/waar-wil-je-meer-over-weten/angst-en-stemmings5.stoornissen)</span>).
+
+Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up ([16.11](https://www.trouw.nl/nieuws/laat-die-make-up-maar-zitten-kwetsbaar-en-echt-zijn-is-het-nieuwe-mooi~be94f37d/),[16.12](https://www.welingelichtekringen.nl/wetenschap/685222/de-hypocriete-mening-van-mannen-over-make-up-bij-vrouwen.html%20),[16.13](https://www.cosmopolitan.com/nl/liefde-en-sex/a146971/dingen-vrouw-aantrekkelijk-volgens-mannen/)).
+
+### 13. Burnout klachten
 Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleemn. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress ([16.17](https://www.cz.nl/zakelijk/arbeidsrisicos/werkstress),[16.12](https://www.zilverenkruis.nl/zakelijk/blog/mentaal-sterk/paginas/meerderheid-werknemers-wil-hulp-van-werkgever-bij-stress-.aspx)). Recentelijk onderzoek heeft aangetoond dat de _kosten gepaard met werkstress_ in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: _twee miljard en acht honderd miljoen euro_ ([16.18](https://fd.nl/economie-politiek/1323996/samen-stressen-we-2-8-mrd-aan-ziekteverzuim-bij-elkaar)).
 
 **_Ivan Chai vermindert de kans op angst, stress & burnout klachten en verbetert de slaap:_** 
@@ -121,15 +125,15 @@ In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werk
 
 ## Verzorgt de gezondheid van de prostaat 
 
-### 13. Prostaatontsteking
+### 14. Prostaatontsteking
 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen ([17.1](https://www.andros.nl/prostaatklachten/prostaatontsteking/)).
 
-### 14. Benigne Prostaat Hyperplasie
+### 15 Benigne Prostaat Hyperplasie
 
 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat ([17.2](https://www.andros.nl/prostaatklachten/vergrote-prostaat/%20)).
 
-### 15. Prostaatkanker
+### 16. Prostaatkanker
 
 Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. ([17.3](https://www.volksgezondheidenzorg.info/onderwerp/prostaatkanker/cijfers-context/huidige-situatie%20))
 
@@ -147,7 +151,7 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 
 ## Verzorgt het spijsverteringsstelsel
 
-### 16. Buikgriep 
+### 17. Buikgriep 
 
 Buikgriep is de verzamelnaam voor alle klachten die worden veroorzaakt door een ontsteking van het slijmvlies in het maag-darmstelsel. Een voedselvergiftiging is een van de veel voorkomende varianten. Wanneer alleen het maagslijmvlies is ontstoken noemen we dit in medische termen Gastritis. De symptonen varieren van misselijkheid, pijn in de maagstreek, een opgeblazen gevoel in combinatie met hoofdpijn ([18.0](https://www.gezondheidsplein.nl/aandoeningen/buikgriep/item42081)). Van alle Nederlanders heeft 1 op de 4 mensen wel eens last van de maag. Naast Gastritis zijn er ook klachten die bekend staan als functionele maagklachten.
 Voorbeelden van functionele maagklachten zijn een ontstoken maagwand, last van brandend maagzuur of van een maagzweer ([18.1](https://www.mlds.nl/ziekten/functionele-maagklachten/)). 
@@ -167,29 +171,17 @@ Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand
 
 <br>
 
--------------------------------------------------------------
-
-**Holistische benadering** 
-
-_Ivan's Herbs benadert de mens vanuit een holistische perspectief. De holistische visie bestrijkt de mens als geheel; gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. Hierbij worden de mentale, lichamelijke, sociale en emotionele kant in zijn of haar totaliteit benaderd, waarbij het zien van samenhang in voor en tegenspoed centraal staat._
-
-
--------------------------------------------------------------
-
-
-## Vermindert de kans op diabetes 
-
-### 17. Diabetes
-
-Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Dit kan leiden tot overgewicht. Hiernaast zijn er nog andere gevolgen door de inname van suiker - pakweg 20([19](https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/krijg-je-van-suiker-diabetes%20)).
-
-Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van die gevolgen is depressie. Depressie komt twee keer zo vaak voor bij mensen met diabetes. Voorkom diabetes en depressie ([20](https://www.diabetesfonds.nl/over-diabetes/complicaties-van-diabetes%0A),[21](http://diabeteszelfindehand.nl/voor-begeleiders/73/mogelijke-gevolgen-van-diabetes)).
+## Smaakbeleving
 
 **_Ivan Chai heeft van nature een licht zoete smaak:_** 
 
 * Ivan Chai is door verschillende thee experts geproefd. De smaak is als volgt omschreven: 
+
 _"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak"_ ([11](http://mydailyteacup.nl/theereview-ivans-herbs/),[12](https://www.koffietheeenkruiden.nl/)). 
-Dit maakt het toevoegen van suiker overbodig. Kinderen worden onrustig van suiker. Geef uw kinderen Ivan Chai zonder suiker en verminder de kans op diabetes, hoofdpijn en _hun_ darmklachten ([13](https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/wat-doet-suiker-met-een-kind)).
+
+Dit maakt het toevoegen van suiker overbodig. Per dag krijgen Nederlanders gemiddeld 30% teveel aan suikers binnen. Bij kinderen zelfs 80%. Dit komt neer op zo een 25 kilo aan vrije suikers per jaar. Dit kan leiden tot overgewicht. Hiernaast zijn er nog andere gevolgen door de inname van suiker - pakweg 20([19](https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/krijg-je-van-suiker-diabetes%20)). Diabetes heeft meer dan 13 keer zoveel gezondheidsproblemen tot gevolg. Een van die gevolgen is depressie. Depressie komt twee keer zo vaak voor bij mensen met diabetes. Voorkom diabetes en depressie ([20](https://www.diabetesfonds.nl/over-diabetes/complicaties-van-diabetes%0A),[21](http://diabeteszelfindehand.nl/voor-begeleiders/73/mogelijke-gevolgen-van-diabetes)).
+
+Hiernaast worden kinderen worden onrustig van suiker. Geef uw kinderen Ivan Chai zonder suiker en verminder de kans op diabetes, hoofdpijn en _hun_ darmklachten ([13](https://www.diabetesfonds.nl/minder-suiker/veelgestelde-vragen/wat-doet-suiker-met-een-kind)).
 
 <br>
 
