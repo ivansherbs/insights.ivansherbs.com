@@ -95,6 +95,8 @@ Volgens het CBS en ArboNed heeft ruim 20% tot 30% van de Nederlanders van 12 jaa
 Slaapproblemen komen hiernaast niet alleen voor bij arbeiders. Arbeidsongeschikten hebben ook te kampen met dit probleem. Uit recentelijk onderzoek is tevens gebleken dat een groot deel van de slapeloosheid wordt veroorzaakt door stress ([16.3](https://www.slaapinfo.nl/soorten-slaapstoornissen/slapeloosheid/)). 
 Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit komt door de cafeïne. Ongeveer 80% van de Nederlander drinkt koffie op zijn tijd ([16.4](https://www.gezondheidsplein.nl/dossiers/goed-slapen-zo-krijg-je-een-goede-nachtrust/hoe-beinvloeden-alcohol-en-cafeine-het-inslapen-en-je-nachtrust/item43857),[16.5](https://www.rtlnieuws.nl/gezondheid/artikel/143976/hoeveel-koffie-kun-je-dag-drinken-en-werkt-het-tegen-een-kater-vier)).
 
+<br>
+
 ## Vermindert de kans op stress, angst & burnout klachten
 
 ### 11. Stress 
