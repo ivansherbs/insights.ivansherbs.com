@@ -9,9 +9,9 @@ Inhoud: 100gr Siberische kruidenthee<br><br>
 **7 gezondheidsvoordelen**<br>
 _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen._ <br> 
 
-Onze Siberische kruidenthee heeft een krachtige impact op het menselijk lichaam. Het versterkt de weerstand en heeft een onstekingsremmende werking. Hiernaast heeft het een positive effect op het hart en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een opbouwfase waardoor angst, stress & burnout klachten tevens worden vermindert; met als positieve bijkomstigheid het verbeteren van de nachtrust. 
+Onze Siberische kruidenthee heeft een krachtige impact op het menselijk lichaam. Het versterkt de weerstand en heeft een onstekingsremmende werking. Hiernaast heeft het een positive effect op het hart- en vaatstelsel. Gezondheidsproblemen worden aangepakt voorafgaand aan een opbouwfase waardoor stress, angst & burnout klachten tevens worden vermindert; met als positieve bijkomstigheid het verbeteren van de nachtrust. 
 
-Een van de belangrijkstse gezondheidsvoordelen voor de man is de verzorging van de prostaat. Volgens de statistieken krijgt >30% van iedere man boven de 45 jaar te kampen met problemen gericht op de prostaat. Bij gebruik wordt ook gelijk het spijsverteringsstelsel verzorgt. <br>
+Eén van de belangrijkstse gezondheidsvoordelen voor de man is de verzorging van de prostaat. Volgens de statistieken krijgt >30% van iedere man boven de 45 jaar te kampen met problemen gericht op de prostaat. Bij gebruik wordt ook gelijk het spijsverteringsstelsel verzorgt. <br>
 
 De niet-bittere maar juist licht zoete nasmaak maakt het toevoegen van suiker overbodig. 
 
@@ -85,27 +85,27 @@ In het algemeen geven de onderstaande doseringen voldoende resultaat:
 * Drink 1 kop voor de maaltijd en 2 keer per dag gedurende **7** dagen. <br>
 * Voor een chronisch gezondheidsprobleem drink 3 maal daags 1 kop voor de maaltijd.
 
-In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase waardoor het kalmerende effect pas merkbaar is na enkele dagen. Na deze opbouwfase, wat per gezondheidsprobleem, verschilt zul je het verschil merkbaar voelen. 
+In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase waardoor het kalmerende effect pas merkbaar is na enkele dagen. Na deze opbouwfase zul je het verschil merkbaar voelen. 
 
 Ivan Chai kan als _preventieve_ behandeling worden gebruikt tegen de volgende 17 gezondheidsproblemen:
 
-1.  Infecties
-2.  Verkoudheid en griep
-3.  Zwak immuunsysteem
-4.  Keelontsteking 
-5.  Blaasontsteking
-6.  Gewrichtspijn
-7.  Menstruatiepijn
-8.  Hart- en vaatziekten
-9.  Slaapproblemen
-10. Angst
+1. Infecties
+2. Verkoudheid
+3. Griep
+4. Zwak imuunsysteem
+5. Keelonsteking
+6. Blaasonsteking
+7. Slijmbeursonsteking
+8. Menstruatiepijn
+9. Hart en vaatziekten
+10. Slaapproblemen
 11. Stress
-12. Burnout klachten
-13. Prostaatontsteking
-14. Benigne Prostaat Hyperplasie
-15. Prostaatkanker
-16. Buikgriep
-17. Diabetes
+12. Angst
+13. Burnout klachten
+14. Prostaatonsteking
+15. Benigne Prostaat Hyperplasie
+16. Prostaatkanker
+17. Buikgriep
 
 -------------------------------------------------------------
 
