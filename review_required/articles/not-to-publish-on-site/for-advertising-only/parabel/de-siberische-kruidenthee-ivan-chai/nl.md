@@ -1,4 +1,6 @@
-## De parabel van: de Siberische Kruidenthee Ivan Chai 
+## De culturele geschiedenis van Ivan Chai  
+
+**Het parabel van de Siberische Kruidenthee** 
 
 _In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai ontdekten. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met hartklopppingen, rillingen en slapeloosheid tot gevolg. Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar waarbij kennisdeling geschieden om de verstandshouding te versterken._
 
