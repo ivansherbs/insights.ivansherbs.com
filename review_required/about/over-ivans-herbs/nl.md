@@ -34,7 +34,7 @@ Onze oprichter Michael Koch ontdekte in 2017 voor het eerst de gezondheidsvoorde
 
 Michael was overtuigd van de vele voordelen van Ivan Chai. Deze kruiden uit Siberië hadden een alras effect op de gezondheid en de algehele gemoedstoestand. Om zich beter te laten informeren over de werking en het gebruik in de traditionele kruidengeneeskunde, besloot Michael één jaar door te brengen in Chazhaevka; een ver van de bewoonde wereld afgelegen Siberische ecodorp. 
 
-Michael bracht één jaar door in Chazhaevka. Hier leerde hij van de meest ervaren ‘tea master’ over de geneeskrachtige werking van verschillende locale kruiden, waarbij hem tevens de mogelijkheid werd geboden de kruiden met zijn eigen handen oogsten. Toen hij zich in de beste vorm van zijn leven bevond besloot hij om de Belukha te beklimmen; de hoogste berg van Siberië.
+Michael bracht één jaar door in Chazhaevka. Hier leerde hij van de meest ervaren Thee producent & UTM ‘Ultimate Tea Master’ over de geneeskrachtige werking van verschillende locale kruiden, waarbij hem tevens de mogelijkheid werd geboden de kruiden met zijn eigen handen oogsten. Toen hij zich in de beste vorm van zijn leven bevond besloot hij om de Belukha te beklimmen; de hoogste berg van Siberië.
 
 Door pure serendipiteit ontmoete Michael in de expeditie groep een Siberische herborist genaamd Ivan Aleksandrovitsjé (63). Ivan had al meer dan 20 jaar traditionele kruidengeneeskunde gestudeerd. Ivan was verruit de oudste in de expeditie groep en maakte revitaliserende kruidenthee van de lokale kruiden waar zijn oog op viel gedurende de expeditie. 
 
