@@ -9,7 +9,7 @@ _Niet meer voor deze natuurliefhebber. Met name in de zomermaanden kan ze niet v
 
 Door Ivan’s Insights
 
-'De natuur heeft mij altijd al geroepen: vroeger was ik altijd al een groot fan van onze vakanties buiten de stad. Toen ik zeven jaar was hebben mijn ouders een boerderij gekocht op twee dagen rijden vanuit Sint-Petersburg. We vonden het heerlijk om er met het gezin op uit te gaan. Mijn ouders sloten dan het familie bedrijf, een goedlopende bakkerij, waarna we zeker een maand buiten de stad bleven', vertelt Svetlana Petrovayé.
+'De natuur heeft mij altijd al geroepen: vroeger was ik altijd al een groot fan van onze vakanties buiten de stad. Toen ik zeven jaar was hebben mijn ouders een boerderij gekocht op twee dagen rijden vanuit Sint-Petersburg. We vonden het heerlijk om er met het gezin op uit te gaan. Mijn ouders sloten dan het familie bedrijf, een goedlopende bakkerij, waarna we zeker een maand buiten de stad bleven'.
 
 **'Mijn psychisch stoornis heeft mijn leven veranderd. Ik heb hiervoor meerdere jaren met een overmatige hoeveelheid aan stress rondgelopen'**
 
