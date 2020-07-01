@@ -28,6 +28,17 @@ Wij zijn er niet alleen voor onze progressieve op gezondheid gerichte klanten in
 Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om hun levensstijl te behouden. Door het steunen van deze gemeenschappen dragen we bij aan onze samenleving door hun waarden waarin gezondheid en natuur centraal staan in acht te nemen, voor ons eigen bedrijf als voor onze klanten. Industrieën verstoren continu de norm. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
 
-<br><br>
+## Het verhaal van de oprichter
+
+Onze oprichter Michael Koch ontdekte in 2017 voor het eerst de gezondheidsvoordelen van Ivan Chai. Destijds woonde hij in Moskou; waar hij kennis maakte met het krachtige effect wat deze Siberische kruidenthee heeft op het menselijk lichaam. 
+
+Michael was overtuigd van de vele voordelen van Ivan Chai. Deze kruiden uit Siberië hadden een alras effect op de gezondheid en de algehele gemoedstoestand. Om zich beter te laten informeren over de werking en het gebruik in de traditionele kruidengeneeskunde, besloot Michael één jaar door te brengen in Chazhaevka; een ver van de bewoonde wereld afgelegen Siberische ecodorp. 
+
+Michael bracht één jaar door in Chazhaevka. Hier leerde hij van de meest ervaren ‘tea master’ over de geneeskrachtige werking van verschillende locale kruiden, waarbij hem tevens de mogelijkheid werd geboden de kruiden met zijn eigen handen oogsten. Toen hij zich in de beste vorm van zijn leven bevond besloot hij om de Belukha te beklimmen; de hoogste berg van Siberië.
+
+Door pure serendipiteit ontmoete Michael in de expeditie groep een Siberische herborist genaamd Ivan Aleksandrovitsjé (63). Ivan had al meer dan 20 jaar traditionele kruidengeneeskunde gestudeerd. Ivan was verruit de oudste in de expeditie groep en maakte revitaliserende kruidenthee van de lokale kruiden waar zijn oog op viel gedurende de expeditie. 
+
+Nadat het grootste deel van de groep samen met Michael en Ivan de fysiek veeleisende top van 4500 meter hadden bereikt, keerde Michael terug naar Amsterdam om dit verhaal te vertellen. Pas toen begonnen we ook echt in kruiden te geloven…
+
 
 
