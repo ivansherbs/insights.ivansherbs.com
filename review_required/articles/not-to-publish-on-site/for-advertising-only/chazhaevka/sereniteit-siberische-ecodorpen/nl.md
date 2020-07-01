@@ -1,13 +1,15 @@
-## Sereniteit: Siberische ecodorpen 
+## De Siberische wildernis 
 
-Een leven vol drukte? Niet meer voor deze natuurliefhebber. Met name in de zomermaanden kan ze niet vroeg genoeg opstaan. De dagen worden gevuld met haar favoriete bezigheden: mediteren, arbeid, vuur maken en koken in de stilte van de Siberische wildernis. Een portret van één van de vrouwelijke kruidenplukkers uit Siberië. 
+**Een leven vol drukte?**
 
 [Picture: Happy Moon Girl]
 
-**Svetlana Petrovayé (31) uit Chazhaevka** <br> 
-_Ontsnapte het drukke zakenleven van Moskou op de oostelijke oever van de rivier de Moskva, om een leven vol sereniteit te omarmen, zowel in de zomer als winter is ze buiten te vinden._
+**Cultuur |** Svetlana Petrovayé (31) uit Chazhaevka** <br> 
+_Niet meer voor deze natuurliefhebber. Met name in de zomermaanden kan ze niet vroeg genoeg opstaan. De dagen worden gevuld met haar favoriete bezigheden: mediteren, arbeid in de openlucht, vuur maken en koken in de stilte van de Siberische wildernis. Een portret van één van de vrouwelijke kruidenplukkers uit Siberië. Ontsnapte het drukke zakenleven van Moskou op de oostelijke oever van de rivier de Moskva, om een leven vol sereniteit te omarmen, zowel in de zomer als winter is ze buiten te vinden._
 
-'De natuur heeft mij altijd al geroepen: vroeger was ik altijd al een groot fan van onze vakanties buiten de stad. Toen ik zeven jaar was hebben mijn ouders een boerderij gekocht op twee dagen rijden vanuit Sint-Petersburg. We vonden het heerlijk om er met het gezin op uit te gaan. Mijn ouders sloten dan het familie bedrijf, een goedlopende bakkerij, waarna we zeker een maand buiten de stad bleven.   
+Door Ivan’s Insights
+
+'De natuur heeft mij altijd al geroepen: vroeger was ik altijd al een groot fan van onze vakanties buiten de stad. Toen ik zeven jaar was hebben mijn ouders een boerderij gekocht op twee dagen rijden vanuit Sint-Petersburg. We vonden het heerlijk om er met het gezin op uit te gaan. Mijn ouders sloten dan het familie bedrijf, een goedlopende bakkerij, waarna we zeker een maand buiten de stad bleven', vertelt Svetlana Petrovayé.
 
 **'Mijn psychisch stoornis heeft mijn leven veranderd. Ik heb hiervoor meerdere jaren met een overmatige hoeveelheid aan stress rondgelopen'**
 
