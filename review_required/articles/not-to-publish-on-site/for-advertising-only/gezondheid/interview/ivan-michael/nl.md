@@ -2,10 +2,12 @@
 
 **Verzorg lichaam en geest met kruiden uit Siberië**
 
-**Gezondheid** | Interview <br>
+**Interview |** Ivan Aleksandrovitsjé <br>
 __Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruiden uit Siberië is een eenvoudige manier om de kans op 17 gezondheidsproblemen te verminderen_, vertelt Ivan Aleksandrovitsjé._
 
-De oprichter van Ivan's Herbs, Michael Koch, is al ruim 7 jaar bezig met het bestuderen van de geneeskrachtige werking in planten. Gedurende de rondreis van zijn leven besloot Michael zijn kennis en kunde hierover te vergroten; door een jaar te verblijven in een van de Siberische ecodorp ver weg van de bewoonde wereld. De natuurlijke producten die Michael hier werden geïntroduceerd bevatten vele gezondheidsvoordelen. Dagelijks werkte hij nauw samen met de meest ervaren kruiden en thee technoloog. Het preventief behandelen van gezondheidsproblemen met kruiden stond centraal bij de kennisoverdracht. 
+Door Ivan’s Insights
+
+De oprichter van Ivan's Herbs, Michael Koch, is al ruim 7 jaar bezig met het bestuderen van de geneeskrachtige werking in planten. Gedurende de rondreis van zijn leven besloot Michael zijn kennis en kunde hierover te vergroten. Hij verbleef één jaar in Chazhaevka; een Siberische ecodorp ver weg van de bewoonde wereld. De natuurlijke producten die Michael hier werden geïntroduceerd bevatten vele gezondheidsvoordelen. Dagelijks werkte hij nauw samen met de meest ervaren 'tea master' uit het ecodorp. Het preventief behandelen van gezondheidsproblemen met kruiden stond centraal bij de kennisoverdracht. 
 
 Na het verblijf in het ecodorp bevond Michael zich in de bloei van zijn leven. Hij besloot  de Belukha te beklimmen; de hoogste berg van Siberië. Gedurende de expeditie ontmoette Michael een herborist genaamd Ivan Aleksandrovitsjé (63). Ivan was de oudste van de expeditiegroep. Michael was gefascineerd door het doorzettingsvermogen van deze herborist. Zonder probleem bereikte Ivan de top. Ivan dient tot op de dag van vandaag als inspiratiebron en vertrouwd adviseur.
 
@@ -20,7 +22,7 @@ V **Waar kan ik aan denken bij het gebruik van natuurlijke oplossingen?** <br>
 
 "Volgens deze traditionele geneeskunde waren deze kruiden vooral goed voor het versterken van de weerstand, de werking als krachtige ontstekingsremmer en verzorgen van het spijsverteringsstelsel."
 
-"Hedendaagse studies hebben ook een positief effect op het hart- en vaatstelsel en het verzorgen van de prostaat aangetoond. Hiernaast wordt de geest ook positief beïnvloed. Denk aan het verbeteren van de slaap en het verminderen van de kans op angst, stress en burnout klachten."
+"Hedendaagse studies hebben ook een positief effect op het hart- en vaatstelsel en het verzorgen van de prostaat aangetoond. Hiernaast wordt de geest ook positief beïnvloed. Denk aan het verbeteren van de slaap en het verminderen van de kans op stress."
 
 V **Het gebruik van kruiden om gezondheidsproblemen aan te pakken klinkt als een alternatieve geneeswijze. Wat is jouw visie hierop?**<br> 
 "Kruiden kunnen op verschillende manieren worden gebruikt. Dagelijks drink ik bijvoorbeeld Ivan Chai, een kruideninfuus gemaakt door kruiden uit Siberië. De plant waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld, echter heeft alleen de plant uit deze regio een sterk heilzame werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld."
