@@ -29,21 +29,5 @@ Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om 
 
 
 <br><br>
-[same picture herbs]
-<br><br>
 
-## Het verhaal van de oprichter
-Onze oprichter Michael Koch ontdekte voor het eerst de gezondheidsvoordelen van Siberische kruiden in 2017. Destijds woonde hij in Moskou. Het begon met Ivan Chai, een sinds de 17de eeuw door het gewone volk met de handgemaakte kruidenthee. Hierdoor heeft het de traditionele Russische naam ‘Ivan’ verdiend, waarbij 'Chai' wordt gebruikt om thee aan te duiden. Voordat het werd vergeten, door de politieke onrust van de Russische revolutie van 1917, werd het massaal geëxporteerd naar West-Europa.
-
-Michael was overtuigd van de vele voordelen voor de gezondheid en de algehele gemoedstoestand; waarna hij het erop waagde de kruiden met zijn eigen handen te oogsten. Dit gebeurde nabij een ver van de bewoonde wereld afgelegen Siberische ecodorp Chazhaevka. Hij bracht één jaar door in het ecodorp waar hij, van de meest ervaren Kruiden & Thee Technoloog, leerde over de heilzame eigenschappen van de lokale Siberische kruiden. Toen hij zich in de beste vorm van zijn leven bevond besloot hij om de Belukha te beklimmen; de hoogste berg van Siberië.
-
-<br><br>
-[same picture founder]
-<br><br>
-
-In de expeditie groep ontmoette Michael, door pure serendipiteit, een Siberische herborist genaamd Ivan Aleksandrovitsjé (63). Ivan had al meer dan 20 jaar traditionele kruidengeneeskunde gestudeerd. Ivan was de oudste in de expeditie groep en maakte revitaliserende kruidenthee van de lokale kruiden waar zijn oog op viel gedurende de expeditie. Nadat het grootste deel van de groep, de fysiek veeleisende top van 4500 meter had bereikt, keerde Michael terug naar Amsterdam om dit verhaal te vertellen. Pas toen begonnen we ook echt in kruiden te geloven.
-
-Vandaag de dag blijft Ivan één van onze adviseurs; om de kans op ziekte te verminderen en gezondheidsproblemen te verzorgen.
-
-<br><br>
 
