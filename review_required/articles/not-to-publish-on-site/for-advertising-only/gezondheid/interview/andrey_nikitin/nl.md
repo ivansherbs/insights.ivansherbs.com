@@ -5,7 +5,7 @@
 **Interview |** Andrey Nikitin<br> 
 _Mijn innerlijke motivatie om goed te zijn voor mens en milieu hebben ervoor gezorgd dat Chazhaevka kon worden opgericht. Chazhaevka is een Siberische ecodorp wat als doel heeft sociaal, economisch als ecologisch duurzaam te zijn. Het produceren van Ivan Chai, wat als preventieve behandeling kan worden gebruikt tegen verschillende gezondheidsproblemen, staat binnen onze community centraal, vertelt Andrey Nikitin._
 
- - Door Ivan’s Insights - 
+Door Ivan’s Insights
 
 Andrey Nikitin is één van de oprichters van het Siberische ecodorp Chazhaevka. 7 jaar geleden heeft hij besloten de stad te verlaten voor de Altaj Krai regio. Deze regio staat bekend om de in het wild groeiende kruiden met geneeskrachtige werking. In deze vallei, langs de vruchtbare oevers van de rivier, heeft Andrey samen met zijn familie en in samenwerking met verschillende kruiden- en theeliefhebbers het ecodorp opgericht. Andrey staat er altijd voor open om zijn kennis en kunde over te dragen aan de nieuwe generatie ‘tea master’, zoals Michael Koch. 
  
