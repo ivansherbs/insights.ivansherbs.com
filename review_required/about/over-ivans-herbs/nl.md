@@ -30,7 +30,7 @@ Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om 
 
 ## Het verhaal van de oprichter
 
-Onze oprichter Michael Koch ontdekte in 2017 voor het eerst de gezondheidsvoordelen van Ivan Chai. Destijds woonde hij in Moskou; waar hij kennis maakte met het krachtige effect wat deze Siberische kruidenthee heeft op het menselijk lichaam. 
+Michael Koch ontdekte in 2017 voor het eerst de gezondheidsvoordelen van Ivan Chai. Destijds woonde hij in Moskou; waar hij kennis maakte met het krachtige effect wat deze Siberische kruidenthee heeft op het menselijk lichaam. 
 
 Michael was overtuigd van de vele voordelen van Ivan Chai. Deze kruiden uit Siberië hadden binnen afzienbare tijd effect op de gezondheid en de algehele gemoedstoestand. Om zich beter te laten informeren over de werking en het gebruik in de traditionele kruidengeneeskunde, besloot Michael één jaar door te brengen in Chazhaevka; een ver van de bewoonde wereld afgelegen Siberische ecodorp. 
 
