@@ -1,5 +1,3 @@
-[picture logo Ivan's Herbs] <br><br>
-
 ## Over Ivan's Herbs 
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië.**
