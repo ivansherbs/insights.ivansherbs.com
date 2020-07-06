@@ -8,7 +8,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 * Krachtige ontstekingsremmer
 * Versterkt de antioxiderede werking
 * Verbetert de slaap
-* Verminder de kans op stress
+* Vermindert de kans op stress, angst en burnout klachten
 * Verzorgt de gezondheid van de prostaat
 * Verzorgt het spijsverteringsstelsel
 
@@ -101,7 +101,7 @@ Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit kom
 
 <br>
 
-## Verminder de kans op stress, angst & burnout klachten
+## Vermindert de kans op stress, angst & burnout klachten
 
 ### 11. Stress 
 
