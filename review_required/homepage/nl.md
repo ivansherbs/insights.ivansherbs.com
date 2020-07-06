@@ -13,7 +13,7 @@ Logo + Ivan's Herbs
 * Krachtige ontstekingsremmer
 * Versterkt de antioxiderede werking
 * Verbetert de slaap
-* Vermindert de kans stress
+* Verminder de kans op stress
 * Verzorgt de gezondheid van de prostaat
 * Verzorgt het spijsverteringsstelsel
 
