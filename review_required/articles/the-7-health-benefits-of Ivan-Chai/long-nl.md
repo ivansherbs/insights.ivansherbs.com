@@ -8,7 +8,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 * Krachtige ontstekingsremmer
 * Versterkt de antioxiderede werking
 * Verbetert de slaap
-* Vermindert de kans op stress
+* Verminder de kans op stress
 * Verzorgt de gezondheid van de prostaat
 * Verzorgt het spijsverteringsstelsel
 
