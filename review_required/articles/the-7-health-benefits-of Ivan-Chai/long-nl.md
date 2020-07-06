@@ -101,7 +101,7 @@ Het is algemeen bekend dat koffie drinken de nachtrust kan beïnvloeden. Dit kom
 
 <br>
 
-## Vermindert de kans op stress, angst & burnout klachten
+## Verminder de kans op stress, angst & burnout klachten
 
 ### 11. Stress 
 
