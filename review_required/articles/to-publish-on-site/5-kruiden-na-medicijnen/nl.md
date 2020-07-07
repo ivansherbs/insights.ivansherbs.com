@@ -1,6 +1,6 @@
 # Kruiden na medicijnen
 
-_De producenten van natuurlijke producten zoeken de samenwerking op met farmaceutische organisaties. Het is bekend dat de moderne samenleving op zoek is naar stabiele, constistente en betrouwbare bronnen van medicijnen terwijl complexe chemische stoffen momenteel voorrang krijgen boven ruwe, niet-gelabelde en natuurlijke producten._ 
+_De producenten van natuurlijke producten zoeken de samenwerking op met farmaceutische organisaties. Het is bekend dat de moderne samenleving op zoek is naar stabiele, constistente en betrouwbare bronnen van medicijnen, terwijl complexe chemische stoffen momenteel voorrang krijgen boven ruwe, niet-gelabelde en natuurlijke producten._ 
 
 **Natuurlijke medicatie** waarbij de opbouwfase langer duurt dan bij conventionele medicijnen heeft simpelweg minder bekendheid verkregen in een wereld waarin efficiëntie en effectiviteit een belangrijke rol inneemt; door de toenemende mate van technologie in ons dagelijks leven. Complexe chemische stoffen bieden voor nu een betrouwbaardere oplossing als bron van consitentie. Kruiden hebben nou eenmaal niet dezelfde potentie als de ingrijpende en nauwkeurig afgemeten farmaceutische medicijnen zoals Lorazepam, inclusief bijwerkingen, om zo goed als direct een kalmerend effect te bewerkstelligen. 
 
