@@ -21,7 +21,7 @@ Wij bieden het CHMP steun door het opzetten van Ivan's Herbs; waarbij wij het ge
 <br>
 
 **Community building** <br>
-Wij zijn er niet alleen voor onze progressieve op gezondheid gerichte klanten in West Europa. Wij steunen ruimdenkende gemeenschappen die zich richten op mens en milieu duizenden kilometers afgelegen van de moderne samenleving. Deze bewoners van zogenaamde ecodorpen streven naar een eigen levensstijl zo dicht mogelijk bij de natuur. Hierbij staat het opbouwen van hun bestaan in de ongerepte natuur van de Altaj centraal. 
+Wij zijn er niet alleen voor de vooruitstrevende- en op gezondheid gerichte consument in West Europa. Wij steunen ruimdenkende gemeenschappen die zich richten op mens en milieu duizenden kilometers afgelegen van de moderne samenleving. Deze bewoners van zogenaamde ecodorpen streven naar een eigen levensstijl zo dicht mogelijk bij de natuur. Hierbij staat het opbouwen van hun bestaan in de ongerepte natuur van de Altaj centraal. 
 
 Graag ondersteunen wij deze denkwijzen door samenwerkingsverbanden te vormen om hun levensstijl te behouden. Door het steunen van deze gemeenschappen dragen we bij aan onze samenleving door hun waarden waarin gezondheid en natuur centraal staan in acht te nemen, voor ons eigen bedrijf als voor onze klanten. Industrieën verstoren continu de norm. Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke geneesmiddelen die kunnen worden gebruikt met of in plaats van farmaceutische medicijnen. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
