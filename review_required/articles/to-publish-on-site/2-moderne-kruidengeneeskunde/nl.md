@@ -1,4 +1,4 @@
-# Moderne kruidengeneeskunde
+# Kruidengeneeskunde
 
 _In de hedendaagse samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken door de vele bijwerkingen die kunnen optreden. De vraag naar aanvullende of alternatieve geneesmiddelen op deze farmaceutische medicijnen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dienen deze natuurlijke oplossingen beter te worden geïntroduceerd om als preventieve behandeling te kunnen worden gebruikt._
 
