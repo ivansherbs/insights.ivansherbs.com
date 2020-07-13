@@ -1,6 +1,6 @@
 ## Geloof, tradities en rituelen
  
-_"Met name oosterse invloeden speelde een grote rol in de ontwikkeling van de leer van Spètsité."_
+**_"Met name oosterse invloeden speelde een grote rol in de ontwikkeling van de leer van Spètsité."_**
  
 _Vanwege de immense grootte huist Siberië al eeuwen verschillende volkeren met ieder hun eigen geloof, tradities en rituelen. Met name het gebied rond het Altaj gebergte werd vanwege het prachtige landschap gezien als een bedevaartsoord. Volkeren probeerden destijds onverwachte gebeurtenissen die grote impact hadden op hun bestaanswijze te verklaren. Hier werden bij, zowel het Sjamanisme als de Russische Orthodoxe kerk, offers gebruikt om de goden vergiffenis te vragen, te bedanken of een goede gezondheid te krijgen._
  
