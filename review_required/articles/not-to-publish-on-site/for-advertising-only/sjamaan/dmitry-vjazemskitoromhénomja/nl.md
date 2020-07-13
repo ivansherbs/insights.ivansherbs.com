@@ -1,24 +1,19 @@
 ## Geloof, tradities en rituelen
-
-_**"Met name Oosterse invloeden speelde een grote rol in de ontwikkeling van de leer van Spètsité."**_
-
-Vanwege de immense grootte huist Siberië al eeuwen verschillende volkeren met ieder hun eigen geloof, tradities en rituelen. Met name het gebied rond het Altai gebergte werd vanwege het prachtige landschap gezien als een bedevaartsoord. Volkeren probeerde destijds onverwachtse gebeurtenissen die grote impact hadden op hun bestaanswijze te verklaren. Hierbij werden offers gebruikt om de goden vergiffenis te vragen, te bedanken of een goede gezondheid te krijgen.
-
-**Offers** Volgens Sjamaan Dmitry Vjazemskitoromhénomja is het gebruik van offers ontstaan door invloeden waar rondtrekkende volkeren aan werden blootgesteld. Na het drijven van handel, onderdrukking, rooftochten of uithuwelijking vernieuwde volkeren hun tradities en rituelen. Oude geschriften wijzen erop dat met name vanuit het **westen** het geloof in Goden, oftewel bovennatuurlijke entiteiten, de leidraad vormde in deze veranderingen. Met name gedurende de zomermaanden kreeg de Godin Nikita verreweg de meeste offers; als onveroverde Godin van de vruchtbaarheid. Bescherming tegen de extreme weersomstandigheden werd gevraagd. Zo vertelde de Sjamaan het volgende _"De rondtrekkende volkeren voerden geuroffers uit waarbij met name mirre en wierook werden gebruikt; waarna bekende kruidenelixers, zoals de Siberische kruidenthee Ivan Chai, op anciënniteit van elkander werd gedronken en overgeschonken. Het ritueel werd zeven dagen op rij uitgevoerd; vanzelfsprekend met een goede nachtrust tot gevolg."_
-
-De invloeden vanuit het **oosten** van Siberië waren afkomstig uit de dierenriem aan de sterrenhemel. Met name de zon en planeten werden in centraal Siberië aanbeden. Hiernaast richtte men zich rechtstreeks tot de natuur; waarbij geen fabelachtige dieren werden aanbeden zoals een Draak. De astrologische voorstelling van het hemelgewelf vertelde de volkeren met name of ze zonder ziektes de extreme winter zouden overleven tot aan de volgende zomer. De uitkomst van de sterren vertelde welke geneeskrachtige kruiden uit Siberië ze moesten gebruiken om te overleven. 
-
-**Spètsité** Het verzorgen van de gemoedstoestand speelde een belangrijke rol om het extreme klimaat te kunnen verdragen. In de traditionele volksgeneeskunde is deze leer gericht op het gebruik van kruiden voor het verzorgen van de geest. _"Onder begeleiding van een Sjamaan werd gedurende de zomermaanden gebruik gemaakt van Siberische kruiden voor het brouwen van verschillende kruideninfusies. Ieder familielid droeg zijn of haar bijdrage door overdag tijd te besteden aan het met de hand plukken van de verborgen kruiden langs de vruchtbare oevers van de rivier. De kalmerende werking van de kruiden werd afgeleid uit de smaakintensiteit. De natuurlijk bitter zoete smaak was met name van invloed op de algehele gemoedstoestand; in tegenstelling tot kruidenbrouwsels met een aardse licht zoette nasmaak, waarbij het effect na verloop van tijd eerder was te voelen in het menselijk lichaam."_ aldus Dmitry. 
-
------------------
-
-_Wist je dat...?
-De benaming van de leer van Spètsité is onttrokken uit het Russische woord spetsii; wat staat voor kruiden._
-
-----------------
-
-**Literatuur** Het geloof, offerrituelen en de traditionele volksgeneeskunde hebben grote impact gehad op hedendaagse artikelen. Deze werden als leidraad gebruikt voor verschillende klinische onderzoeken. Het gevoel van vertrouwen bij iedere 'moderne' Sjamaan in oude geschriften is hierdoor de afgelopen jaren flink versterkt; gezien de vele bewezen gezondheidsvoordelen die te vinden zijn in kruiden uit Siberië. 
-
+ 
+_"Met name oosterse invloeden speelde een grote rol in de ontwikkeling van de leer van Spètsité."_
+ 
+_Vanwege de immense grootte huist Siberië al eeuwen verschillende volkeren met ieder hun eigen geloof, tradities en rituelen. Met name het gebied rond het Altaj gebergte werd vanwege het prachtige landschap gezien als een bedevaartsoord. Volkeren probeerden destijds onverwachte gebeurtenissen die grote impact hadden op hun bestaanswijze te verklaren. Hier werden bij, zowel het Sjamanisme als de Russische Orthodoxe kerk, offers gebruikt om de goden vergiffenis te vragen, te bedanken of een goede gezondheid te krijgen._
+ 
+**Offers** Volgens Sjamaan Dmitry Vjazemskitoromhénomja is het gebruik van offers ontstaan door invloeden waar rondtrekkende volkeren aan werden blootgesteld. Na het drijven van handel, onderdrukking, rooftochten of uithuwelijking vernieuwde volkeren hun tradities en rituelen. Oude geschriften wijzen erop dat met name vanuit het **westen** het geloof in Goden, oftewel bovennatuurlijke entiteiten, de leidraad vormde in deze veranderingen. Met name gedurende de zomermaanden kreeg de Godin Nikititajé verreweg de meeste offers; als onveroverde Godin van de vruchtbaarheid. Bescherming tegen de extreme weersomstandigheden werd gevraagd. Zo vertelde de Sjamaan het volgende _"De rondtrekkende volkeren voerden geuroffers uit waarbij met name mirre en wierook werden gebruikt; waarna bekende kruidenelixers, zoals de Siberische kruidenthee Ivan Chai, op anciënniteit van elkander werd gedronken en over geschonken. Het ritueel werd zeven dagen op rij uitgevoerd; vanzelfsprekend met een goede nachtrust tot gevolg."_
+ 
+De invloeden vanuit het **oosten** van Siberië waren afkomstig uit de dierenriem aan de sterrenhemel. Met name de zon en planeten werden in centraal Siberië aanbeden. Hiernaast richtte men zich rechtstreeks tot de natuur; waarbij geen fabelachtige dieren werden aanbeden zoals een draak. De astrologische voorstelling van het hemelgewelf vertelde de volkeren of ze zonder ziektes de extreme winter zouden overleven tot aan de volgende zomer. De uitkomst van de sterren vertelde welke geneeskrachtige kruiden uit Siberië ze moesten gebruiken om te overleven.
+ 
+**Spètsité** Het verzorgen van de gemoedstoestand speelde een belangrijke rol om het extreme klimaat te kunnen verdragen. In de traditionele volksgeneeskunde is deze leer gericht op het gebruik van kruiden voor het verzorgen van de geest. _"Onder begeleiding van een Sjamaan werd gedurende de zomermaanden gebruik gemaakt van Siberische kruiden voor het brouwen van verschillende kruideninfusies. Ieder familielid droeg zijn of haar bijdrage door overdag tijd te besteden aan het met de hand plukken van de verborgen kruiden langs de vruchtbare oevers van de rivier. De kalmerende werking van de kruiden werd afgeleid uit de smaakintensiteit. De natuurlijk bitter zoete smaak was met name van invloed op de algehele gemoedstoestand; in tegenstelling tot kruidenbrouwsels met een aardse licht zoete nasmaak, waarbij het effect na verloop van tijd eerder was te voelen in het menselijk lichaam."_ aldus Dmitry.
+ 
+**Onderdrukking** Gedurende de Sovjet-era is het Sjamanisme, waaronder de leer van Spètsité, onder druk komen te staan. Door de overheid werden de verschillende stromingen als niet-zuiver beschouwd waardoor de uitvoerders ervan werden vervolgd. Het was gebruikelijk om de overtreders tijdelijk in boerderijen van de overheid, ook wel werkkampen, onder te brengen. Binnen de samenleving waren er dan ook gemengde gevoelens bij deze straffen. Zo zagen velen de medische zorg gestuurd door de overheid als onherroepelijk, echter waren veel uitvoerders van het Sjamanisme tevens leden van de Russische Orthodoxe kerk; die de verschillende stromingen ook hadden opgenomen in hun dagelijkse rituelen als onderdeel van het geloof.
+ 
+**Literatuur** Het geloof, offerrituelen en de traditionele volksgeneeskunde hebben grote impact gehad op hedendaagse artikelen. Deze werden als leidraad gebruikt voor verschillende klinische onderzoeken. Het gevoel van vertrouwen bij iedere 'moderne' Sjamaan in oude geschriften is hierdoor de afgelopen jaren flink versterkt; gezien de vele bewezen gezondheidsvoordelen die te vinden zijn in kruiden uit Siberië.
+ 
 * Lees meer over de 7 gezondheidsvoordelen die te vinden zijn in de Siberische kruidenthee Ivan Chai.
-
-[Button Ontdek meer] 
+ 
+[Button Ontdek meer]
