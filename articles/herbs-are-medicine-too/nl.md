@@ -1,4 +1,4 @@
-# Kruiden als medicijn
+# Kruiden zijn ook medicijnen
 
 _Ivan's Herbs richt zich op het gebruik van kruiden om gezondheidsproblemen aan te pakken. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische medicijnen. Van alle goedgekeurde farmaceutische medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560124/). Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel: negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen._
 
