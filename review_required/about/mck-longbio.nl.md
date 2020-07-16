@@ -18,9 +18,3 @@ Michael bracht één jaar door in **Chazhaevka**. Hier leerde hij van de meest e
 
 **Vandaag de dag** blijft Ivan één van Michaels **adviseurs**, waarbij Michael zijn **doel** nastreeft mensen te **informeren en** te **onderwijzen** over de verschillende gezondheidsvoordelen die te vinden zijn in kruiden uit Siberië; om **de kans op ziekten te verminderen** en **gezondheidsproblemen te verzorgen**.
 
-
-Social links: <br>
-facebook: https://www.facebook.com/michael.koch <br>
-twitter: https://twitter.com/thekizoch <br>
-linkedin: https://www.linkedin.com/in/michael-c-koch/ <br>
-instagram https://www.instagram.com/thekizoch/ <br>
