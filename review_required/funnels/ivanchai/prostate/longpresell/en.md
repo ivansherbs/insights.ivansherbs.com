@@ -10,7 +10,7 @@ Other species of *Epilobium* were used to treat prostatitis in Europe after Aust
 A compound in fireweed was shown to **powerfully inhibit prostate cell reproduction** (3, 6, 7).
 
 
-## Address these health issues with fireweed
+## Address these prostate health issues with fireweed
 - Enlarged prostate (also known as **benign prostatic hyperplasia** or BPH)
 - Lower **urinary tract symptoms** related to BPH 
 - High prostate specific antigen (**PSA**) levels
@@ -33,12 +33,12 @@ If your health issues have been remedied, you can stop taking fireweed on a regu
 This therapeutic dose is continually referenced in the Europeans Medicines Agency’s final assessment (1).
 
 
-(Button) **Discover More**
+(Button) **Get an Ivan Chai trial**
 
 
 ## Safety, contraindications and warnings
 
-Fireweed is an *xtremely safe herbal infusion. It can be taken as a herbal infusion in excessive amounts and is **safe for children**.
+Fireweed is an extremely safe herbal infusion. It can be taken as a herbal infusion in excessive amounts and is **safe for children**.
 
 It’s naturally **free of caffeine**, uric acid, oxalic acid, and L-theanine.
 
@@ -58,5 +58,4 @@ In the aftermath of the Russian Revolution of 1917, commercial production ceased
 
 
 
-## Evidence-based Herbal Recipes
-(Button) **Discover More**
+(Button) **Get an Ivan Chai trial**
