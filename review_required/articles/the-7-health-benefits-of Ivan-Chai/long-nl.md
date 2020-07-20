@@ -190,7 +190,7 @@ Hiernaast worden kinderen worden onrustig van suiker. Geef uw kinderen Ivan Chai
 
 <br>
 
-# Conclusie  
+# Onze conclusie  
 
 We leven in een wereld die nooit eerder zo stabiel en toegankelijk is ervaren. Toch ervaren we die wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle gezondheidsproblemen aan te pakken, **_kies je gevechten_**.
 
