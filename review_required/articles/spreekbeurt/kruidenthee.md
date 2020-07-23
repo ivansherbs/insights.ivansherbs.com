@@ -29,5 +29,4 @@ Daarna worden ze in de verpakking gestopt.
 
 De thee die ik het lekkerst vindt moet je veel langer laten trekken. Bij normale thee duurt dit 2-3 minuten. Bij kruidenthee duurt het trekken meestal 7 minuten. Hierdoor wordt de smaak en vooral de gezondheidsvoordelen beter in het water opgenomen. 
 
-**Nawoord** <br>  
-Ik vond het heel leuk om deze presentatie te geven. Ik hoop dat ik jullie heb laten weten dat kruidenthee heel gezond is. Het verbouwen van kruidentheeën gebeurt bijvoorbeeld ook op een schone manier. Dat is iets wat ik zelf heel erg goed vind omdat ik gezondheid en een schone wereld heel erg belangrijk vind. Dit was mijn spreekbeurt. 
+**Nawoord** <br> Ik vond het heel leuk om deze presentatie te geven. Ik hoop dat ik jullie heb laten weten dat kruidenthee heel gezond is. Het verbouwen van kruidentheeën gebeurt bijvoorbeeld ook op een schone manier. Dat is iets wat ik zelf heel erg goed vind omdat ik gezondheid en een schone wereld heel erg belangrijk vind. Dit was mijn spreekbeurt. 
