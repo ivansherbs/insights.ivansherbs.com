@@ -1,8 +1,8 @@
-Need to upload this to a couple of sites like spreekbeurten.info or scholieren.com 
+**Need to upload this to a couple of sites like spreekbeurten.info or scholieren.com 
 
 This one is suitable for Elementary School, we need also one for High School which is more ‘difficult’ when it comes to health benefits and is also focused on health problems.
 
-Subjects to upload it to: Nederlands / Biologie 
+Subjects to upload it to: Nederlands / Biologie
 
 ----------------------------------------------------------
 
