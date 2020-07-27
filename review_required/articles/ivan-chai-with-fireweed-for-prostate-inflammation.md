@@ -44,6 +44,7 @@ In the aftermath of the Russian Revolution of 1917, commercial production ceased
 
 
 Works Cited
+
 Adamczak, Artur, et al. “Fireweed (Epilobium Angustifolium L.): Botany, Phytochemistry and Traditional Uses. A Review.” Sciendo, Sciendo, 1 Sept. 2019, content.sciendo.com/view/journals/hepo/65/3/article-p51.xml.
 
 Anonymous. “Epilobii Herba.” European Medicines Agency, 6 Feb. 2020, www.ema.europa.eu/en/medicines/herbal/epilobii-herba.
