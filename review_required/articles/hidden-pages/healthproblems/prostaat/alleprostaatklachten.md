@@ -9,7 +9,7 @@ Door Ivan’s Insights
 ### Bewezen effectiviteit <br> 
 De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden. Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen. Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. **Vrouwen hebben er ook baat bij.** Trebens raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie). Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen. De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B.. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
  
-Gebruik Ivan Chai als preventieve behandeling tegen de volgende prostaatklachten: _Prostaatontsteking_, een _Vergrote prostaat_ en _Prostaatkanker_
+Gebruik Ivan Chai als preventieve behandeling tegen de volgende prostaatklachten: _Prostaatontsteking_, een _Vergrote prostaat_ en _Prostaatkanker_.
  <br>
  <br>
  
