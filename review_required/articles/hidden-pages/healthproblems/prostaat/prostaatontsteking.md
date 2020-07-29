@@ -6,7 +6,6 @@ Door Ivan’s Insights
  <br>
  <br>
 
-### Prostaatontsteking <br> 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking. Bij een prostaatontsteking wordt de klier direct onder de blaas aangevallen door ongewenste bacteriën. Dit kan verschillende klachten met zich meebrengen die niet direct wijzen op een prostaatontsteking; denk hierbij aan koorts of koude rillingen. Bij heftige symptomen moet men denken aan pijn in de onderbuik, laag in de rug, het gedeelte tussen de penis en anus en pijn gedurende het plassen.
 Bij chronische klachten moet men denken aan zeurende pijn in de onderbuik, aanhoudende lage rugpijn en pijn gedurende het plassen. Wanneer deze klachten worden vergezeld met moeheid, lusteloosheid en zelfs uitputting, raden wij het ten zeerste aan om een uroloog te bezoeken.
  
