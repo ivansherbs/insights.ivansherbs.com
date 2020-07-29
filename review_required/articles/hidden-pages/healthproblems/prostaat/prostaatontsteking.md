@@ -14,11 +14,11 @@ Bij chronische klachten moet men denken aan zeurende pijn in de onderbuik, aanho
 De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden. Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen. Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. **Vrouwen hebben er ook baat bij.** Trebens raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie). Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen. De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B.. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
  <br>
  <br>
-Gebruik Ivan Chai ook als preventieve behandeling tegen een _Vergrote prostaat – Prostaathypertrofie_ en _Prostaatkanker_.
+Gebruik Ivan Chai ook als preventieve behandeling tegen een _Vergrote prostaat_ en _Prostaatkanker_.
  <br>
  <br>
   
-### Vergrote prostaat – Prostaathypertrofie* <br>
+### Vergrote prostaat <br>
 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Een vergrote prostaat is een goedaardige aandoening waarbij de prostaat simpelweg is gaan groeien, echter kan dit leiden tot veel en vaak plassen of juist moeilijk plassen. Hiernaast zijn de symptomen een minder krachtige urinestraal dan gewend die soms wordt onderbroken, niet goed kunnen beginnen met plassen en meer aandrang om weer te plassen.
 
 
