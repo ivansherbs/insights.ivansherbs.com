@@ -9,7 +9,7 @@ Door Ivan’s Insights
 ### Bewezen effectiviteit <br> 
 De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden. Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen. Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. **Vrouwen hebben er ook baat bij.** Trebens raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie). Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen. De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B.. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
  
-Gebruik Ivan Chai als preventieve behandeling tegen de volgende prostaatklachten: _Prostaatontsteking, Vergrote prostaat – Prostaathypertrofie_ en _Prostaatkanker_
+Gebruik Ivan Chai als preventieve behandeling tegen de volgende prostaatklachten: _Prostaatontsteking, Vergrote prostaat_ en _Prostaatkanker_
  <br>
  <br>
  
@@ -18,7 +18,7 @@ Gebruik Ivan Chai als preventieve behandeling tegen de volgende prostaatklachten
 Bij chronische klachten moet men denken aan zeurende pijn in de onderbuik, aanhoudende lage rugpijn en pijn gedurende het plassen. Wanneer deze klachten worden vergezeld met moeheid, lusteloosheid en zelfs uitputting, raden wij het ten zeerste aan om een uroloog te bezoeken.
  
  
-### Vergrote prostaat – Prostaathypertrofie* <br>
+### Vergrote prostaat <br>
 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Een vergrote prostaat is een goedaardige aandoening waarbij de prostaat simpelweg is gaan groeien, echter kan dit leiden tot veel en vaak plassen of juist moeilijk plassen. Hiernaast zijn de symptomen een minder krachtige urinestraal dan gewend die soms wordt onderbroken, niet goed kunnen beginnen met plassen en meer aandrang om weer te plassen.
 
 
@@ -57,8 +57,7 @@ Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of
 ACCORDION MENU>>>
 **Dosering en behandelingskuur** <br> 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
-*Drink **1 kop** voor de maaltijd en **2 keer per dag** voor ten minste **10 dagen**.
-*Voor een **chronisch** gezondheidsprobleem drink **3 keer per dag 1 kop** voor de maaltijd. <br> 
+*Drink **1 kop** voor de maaltijd en **2 keer per dag** voor ten minste **10 dagen**. <br> 
 Deze therapeutische dosering van het Wilgenroosje wordt aangeraden door het European Medicines Agency (EMA). 
  
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect niet direct bij gebruik merkbaar. Wanneer uw klachten zijn verholpen, kunt u stoppen met het gebruik van Ivan Chai. Wij raden het echter aan de kuur, als preventieve behandeling, met regelmaat te herhalen. 
