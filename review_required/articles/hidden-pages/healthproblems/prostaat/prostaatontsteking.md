@@ -123,7 +123,7 @@ Wanneer de Ivan Chai op de gebruikelijke manier wordt geconsumeerd, kunnen de ov
  
 ### Artikelen Ivan’s Insights
  
-Create Gallery with articles: Use same pictures: Let all 6 articles be visible on a mobile phone screen. <br> 
+Create Gallery with articles: Use same pictures: Let all 6 articles be visible on a mobile phone screen (2x3). <br> 
 * Kruidenthee is ook een medicijn
 * Culturele geschiedenis 
 * Kruidengeneeskunde
