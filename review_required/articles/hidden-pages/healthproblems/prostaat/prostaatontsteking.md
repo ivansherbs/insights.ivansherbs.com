@@ -57,8 +57,7 @@ Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of
 ACCORDION MENU>>>
 **Dosering en behandelingskuur** <br> 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
-*Drink **1 kop** voor de maaltijd en **2 keer per dag** voor ten minste **10 dagen**.
-*Voor een **chronisch** gezondheidsprobleem drink **3 keer per dag 1 kop** voor de maaltijd. <br> 
+*Drink **1 kop** voor de maaltijd en **2 keer per dag** voor ten minste **10 dagen**. <br> 
 Deze therapeutische dosering van het Wilgenroosje wordt aangeraden door het European Medicines Agency (EMA). 
  
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect niet direct bij gebruik merkbaar. Wanneer uw klachten zijn verholpen, kunt u stoppen met het gebruik van Ivan Chai. Wij raden het echter aan de kuur, als preventieve behandeling, met regelmaat te herhalen. 
