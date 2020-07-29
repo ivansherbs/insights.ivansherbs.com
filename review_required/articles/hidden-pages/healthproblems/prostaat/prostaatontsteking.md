@@ -109,7 +109,7 @@ In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking 
  
 ACCORDION MENU>>> 
 **Bewaartips** <br> 
-**Hoe bewaard u Ivan's Herbs Ivan Chai 2gr?** <br> 
+**Hoe bewaard u Ivan's Herbs Ivan Chai?** <br> 
 Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de _herbruikbare_ tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum. <br> 
 Wanneer de Ivan Chai op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen eventueel het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee. 
  
