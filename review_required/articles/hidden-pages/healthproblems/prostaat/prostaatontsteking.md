@@ -34,7 +34,6 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
  <br>
  <br>
  
-“Verzorg dagelijks lichaam en geest met kruiden uit Siberië” <br>
  <br>
 (Button Ontdek meer) 
  <br>
