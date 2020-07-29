@@ -4,25 +4,36 @@ _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicij
  
 Door Ivan’s Insights
  
+ 
 ### Bewezen effectiviteit <br> 
 De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd  aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruiden als Ivan Chai centraal stonden. Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. Hiernaast gaat het ook de groei van de prostaat tegen. Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. **Vrouwen hebben er ook baat bij.** Trebens raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen. Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat (Benigne Prostaat Hyperplasie). Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen. De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B.. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het menselijk lichaam worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
  
 Gebruik Ivan Chai als preventieve behandeling tegen de volgende prostaatklachten: _Prostaatontsteking, Vergrote prostaat – Prostaathypertrofie en Prostaatkanker_
  
+ 
 ### Prostaatontsteking <br> 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking. Bij een prostaatontsteking wordt de klier direct onder de blaas aangevallen door ongewenste bacteriën. Dit kan verschillende klachten met zich meebrengen die niet direct wijzen op een prostaatontsteking; denk hierbij aan koorts of koude rillingen. Bij heftige symptomen moet men denken aan pijn in de onderbuik, laag in de rug, het gedeelte tussen de penis en anus en pijn gedurende het plassen.
 Bij chronische klachten moet men denken aan zeurende pijn in de onderbuik, aanhoudende lage rugpijn en pijn gedurende het plassen. Wanneer deze klachten worden vergezeld met moeheid, lusteloosheid en zelfs uitputting, raden wij het ten zeerste aan om een uroloog te bezoeken.
  
+ 
 ### Vergrote prostaat – Prostaathypertrofie* <br>
 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Een vergrote prostaat is een goedaardige aandoening waarbij de prostaat simpelweg is gaan groeien, echter kan dit leiden tot veel en vaak plassen of juist moeilijk plassen. Hiernaast zijn de symptomen een minder krachtige urinestraal dan gewend die soms wordt onderbroken, niet goed kunnen beginnen met plassen en meer aandrang om weer te plassen.
+
 
 ### Prostaatkanker <br> 
 Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen. Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantonen dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
  
+ <br>
+ <br>
 [Create Carousel with 3 creatives Herbal apothecary]
+ <br>
+ <br>
  
 “Verzorg dagelijks lichaam en geest met kruiden uit Siberië” <br>
+ <br>
 (Button Ontdek meer) 
+ <br>
+ <br>
  
 ACCORDION MENU>>>
 **Bereidingswijze** <br>
@@ -38,6 +49,9 @@ Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of
 **Intensiteit:** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
  
+ <br>
+ <br>
+ 
 ACCORDION MENU>>>
 **Dosering en behandelingskuur** <br> 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
@@ -46,6 +60,9 @@ In het algemeen geven de onderstaande doseringen voldoende resultaat:
 Deze therapeutische dosering van het Wilgenroosje wordt aangeraden door het European Medicines Agency (EMA). 
  
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect niet direct bij gebruik merkbaar. Wanneer uw klachten zijn verholpen, kunt u stoppen met het gebruik van Ivan Chai. Wij raden het echter aan de kuur, als preventieve behandeling, met regelmaat te herhalen. 
+ 
+ <br>
+ <br>
  
 ACCORDION MENU>>> 
 **Voorzorgsmaatregelen** <br>  
@@ -85,12 +102,17 @@ In tegenstelling tot farmaceutische medicijnen, is er onvoldoende bekend of de v
 **Rijvaardigheid:** <br>
 In tegenstelling tot farmaceutische medicijnen, heeft Ivan Chai geen bijwerking die duizeligheid kan veroorzaken en daarmee de rijvaardigheid kan beïnvloeden. 
  
+ <br>
+ <br>
+ 
 ACCORDION MENU>>> 
 **Bewaartips** <br> 
 **Hoe bewaard u Ivan's Herbs Ivan Chai 2gr?** <br> 
 Droog bewaren beneden 25 graden Celsius. Buiten bereik van kinderen houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de _herbruikbare_ tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum. <br> 
 Wanneer de Ivan Chai op de gebruikelijke manier wordt geconsumeerd, kunnen de overblijfselen eventueel het milieu in worden gegooid. Doe je medemens hier echter geen pijn mee. 
  
+ <br>
+ <br>
 ------------------------------------------------
  
 (Button Ontdek meer) 
@@ -100,12 +122,12 @@ Wanneer de Ivan Chai op de gebruikelijke manier wordt geconsumeerd, kunnen de ov
 ### Artikelen Ivan’s Insights
  
 Create Gallery with articles: Use same pictures: Let all 6 articles be visible on a mobile phone screen. <br> 
-*Kruidenthee is ook een medicijn
-*Culturele geschiedenis 
-*Kruidengeneeskunde
-*Kruiden voor medicijnen
-*Veilig gebruik van kruiden
-*Kruiden na medicijnen
+* Kruidenthee is ook een medicijn
+* Culturele geschiedenis 
+* Kruidengeneeskunde
+* Kruiden voor medicijnen
+* Veilig gebruik van kruiden
+* Kruiden na medicijnen
  
  
  
