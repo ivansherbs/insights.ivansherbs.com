@@ -2,7 +2,7 @@
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
-**Artikel |** Prostaatklachten <br>
+**Artikel |** Prostaatklachten - leestijd: 3 min <br>
 _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen prostaatklachten._
  
 Door Ivan’s Insights
