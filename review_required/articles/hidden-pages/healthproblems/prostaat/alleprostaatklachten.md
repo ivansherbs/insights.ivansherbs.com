@@ -1,5 +1,8 @@
-## Ivan Chai verzorgt de Gezondheid van de Prostaat
- 
+## Ivan Chai verzorgt de gezondheid van de prostaat
+
+**Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
+
+**Artikel |** Gezondheidsproblemen <br>
 _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen prostaatklachten._
  
 Door Ivan’s Insights
@@ -31,7 +34,6 @@ Bij meer dan 12.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastges
  <br>
  <br>
  
-“Verzorg dagelijks lichaam en geest met kruiden uit Siberië” <br>
  <br>
 (Button Ontdek meer) 
  <br>
