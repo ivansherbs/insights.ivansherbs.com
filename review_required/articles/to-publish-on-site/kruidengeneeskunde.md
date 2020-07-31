@@ -1,6 +1,11 @@
 # Kruidengeneeskunde
 
-_In de hedendaagse samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken door de vele bijwerkingen die kunnen optreden. De vraag naar aanvullende of alternatieve geneesmiddelen op deze farmaceutische medicijnen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dienen deze natuurlijke oplossingen beter te worden geïntroduceerd om als preventieve behandeling te kunnen worden gebruikt._
+**Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
+
+**Artikel |** Kruidengeneeskunde - leestijd: 3 min <br>
+_In de hedendaagse samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken door de vele bijwerkingen die kunnen optreden. De vraag naar alternatieve geneesmiddelen op deze farmaceutische medicijnen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dienen deze natuurlijke oplossingen beter te worden geïntroduceerd om als preventieve behandeling te kunnen worden gebruikt._
+
+Door **Ivan’s Insights**
 
 **Community building** - Een gesprek tussen twee specialisten uit verschillende disciplines vindt plaats. Wat typerend is voor deze vakgebieden is dat community building, in de vorm van verschillende lokale samenwerkingsverbanden, omgangsvormen dan wel denkwijze, centraal staat. De vraag naar kennis om het publiek beter te informeren over het gebruik van traditionele kruidenkunde komt vanuit de kant van de moderne geneeskunde. De weergave vindt plaats in de vorm van een interview met een conventioneel arts en een herborist. Beide werkzaam bij onafhankelijke instituten gericht op het welzijn van de mens. Hieronder een samenvatting van de besproken onderwerpen tussen de directeur hartchirurgie en pediatrie bij UVAhealth en de directeur van de Northeast School of Botanical Medicine. 
 
