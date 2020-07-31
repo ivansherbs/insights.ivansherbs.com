@@ -1,4 +1,4 @@
-## Ivan Chai verzorgt het spijsverteringsstelsel
+## Verminder de kans op buikgriep
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
