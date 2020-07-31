@@ -8,7 +8,7 @@ _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicij
 Door **Ivan’s Insights**
  
 
-Ivan Chai is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. Het heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
+Ivan Chai is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. Het heeft een kalmerende werking wat goed werkt tegen stress, burnout klachten en helpt angst te verminderen. In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
 
 
 ### Stress
