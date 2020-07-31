@@ -1,4 +1,4 @@
-## Ivan Chai werkt als een krachtige ontstekingsremmer
+## Verminder de kans op een blaasontsteking
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
