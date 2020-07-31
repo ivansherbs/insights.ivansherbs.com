@@ -81,7 +81,7 @@ Menstruatiepijn kan worden veroorzaakt door een ontsteking rondom de baarmoeder.
 * Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 * 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
 * In Nederland leven naar schatting 670.000 vrouwen met een hart- of vaatziekten.
-* Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekte ([15](https://www.alzheimer-nederland.nl/dementie), [15.1](https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten%20)).
+* Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekten ([15](https://www.alzheimer-nederland.nl/dementie), [15.1](https://www.hartstichting.nl/hart-en-vaatziekten/feiten-en-cijfers-hart-en-vaatziekten%20)).
 
 Wandelen, lezen, motorrijden of nadenken; voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het menselijk lichaam hebben ieder ook voeding nodig. Het menselijk lichaam kan bij een gebrek aan voeding niet normaal functioneren. Dit functioneren kan worden vergeleken als de werking van een auto. Een auto heeft benzine nodig, het menselijk lichaam zuurstof. De zuurstof die je inademt moet als voedingsstof worden opgenomen in het menselijk lichaam. Dat gebeurt door middel van bloed. Om ervoor te zorgen dat zuurstofarm bloed wordt ververst en direct weer in het lichaam wordt gecirculeerd, heeft het hart deze nobele taak op zich genomen. Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurstof via de bloedvaten.  
 
