@@ -9,8 +9,8 @@ Door **Ivan’s Insights**
  
 Bij Burnout klachten zorgt een gebrek aan activiteit voor oververmoeidheid en zich moeilijk kunnen focussen. Volgens de grote Zorgverzekeraars van Nederland, heeft tussen de 17% en 23% van de werkende mensen last van burnout klachten. Dagelijks hebben hier 1.300.000 mensen last van dit probleem. Dit komt neer op gemiddeld € 2.300.000.000, zeggende: twee miljard en drie honderd miljoen euro, per jaar aan verzuimkosten door werkstress. Recentelijk onderzoek heeft aangetoond dat de kosten gepaard met werkstress in 2019 zelfs zijn opgelopen tot € 2.800.000.000, zeggende: twee miljard en acht honderd miljoen euro.
  
-###Bewezen effectiviteit Ivan Chai
-Ivan Chai is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. Het heeft een kalmerende werking wat goed werkt tegen stress en burnout klachten. In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
+### Bewezen effectiviteit Ivan Chai
+Ivan Chai is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. Het heeft een kalmerende werking wat goed werkt tegen stress, burnout klachten en helpt angst te verminderen. In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
  
 Gebruik Ivan Chai ook als preventieve behandeling tegen _stress_ en _angst_.
  
