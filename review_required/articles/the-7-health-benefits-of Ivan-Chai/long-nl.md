@@ -1,6 +1,11 @@
 # De 7 gezondheidsvoordelen van Ivan Chai
 
+**Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
+
+**Artikel |** Kruidengeneeskunde - leestijd: 17 min <br>
 _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De 7 gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Onze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen. Het informeren van de gezondheidsvoordelen van Ivan Chai is gebaseerd op hedendaagse artikelen en voelt als een tweede natuur voor ons._
+
+Door **Ivan’s Insights**
 
 Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 
