@@ -51,7 +51,7 @@ Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.13](https:/
 
 ### 5. Keelontsteking 
 
-Een keelontsteking wordt veroorzaakt door een infectie met een virus. Slikken gaat vaak lastig en doet zeer. Bij een zwaardere vorm van keelonsteking kunnnen de lympfklieren zijn opgezet. Hiernaast zijn er enkele risicofactoren verbonden aan deze vorm van ontsteking, namelijk roken, schreeuwen en stress. Met name roken en stress kunnen ervoor zorgen dat de weerstand lager is en de kans wordt verhoogd. Farmaceutische medicijnen, zoals antibiotica, hebben geen zin bij een keelontsteking ([14](https://www.gezondheidsnet.nl/griep-en-verkoudheid/keelontsteking)).
+Een keelontsteking wordt veroorzaakt door een infectie met een virus. Slikken gaat vaak lastig en doet zeer. Bij een zwaardere vorm van keelonsteking kunnen de lymfeklieren zijn opgezet. Hiernaast zijn er enkele risicofactoren verbonden aan deze vorm van ontsteking namelijk roken, schreeuwen en stress. Met name roken en stress kunnen ervoor zorgen dat de weerstand lager is en de kans wordt verhoogd. Farmaceutische medicijnen, zoals antibiotica, hebben geen zin bij een keelontsteking ([14](https://www.gezondheidsnet.nl/griep-en-verkoudheid/keelontsteking)).
 
 ### 6. Blaasontsteking
 
