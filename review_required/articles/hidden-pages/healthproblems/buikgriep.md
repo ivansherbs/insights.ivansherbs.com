@@ -1,4 +1,4 @@
-## Verminder de kans op buikgriep
+## Ivan Chai vermindert de kans op buikgriep
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
