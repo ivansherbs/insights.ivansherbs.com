@@ -14,7 +14,7 @@ De mate van stress kan na verloop van tijd groeien. Wanneer dit te lang aanhoudt
  
 _Graag willen wij het volgende meegeven. Stress is een gezondheidsprobleem waar mensen niet van af komen middels geurkaarsen of een douchegel. Het kan simpelweg niet worden omgezet in positieve energie. Het vereist een verandering in jouw levensstijl._
  
-###Bewezen effectiviteit Ivan Chai
+### Bewezen effectiviteit Ivan Chai
 Ivan Chai is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. Het heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
  
 Gebruik Ivan Chai ook als preventieve behandeling tegen _angst_ en _burnout klachten_.
