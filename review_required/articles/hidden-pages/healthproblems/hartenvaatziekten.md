@@ -1,4 +1,4 @@
-## Ivan Chai versterkt de antioxiderede werking
+## Ivan Chai vermindert de kans op hart- en vaatziekten
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
