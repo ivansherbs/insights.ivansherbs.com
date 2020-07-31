@@ -29,7 +29,7 @@ De risicofactoren die de kans op een overtollige hoeveelheid aan schimmels vergr
 
 ### 2. Verkoudheid 
 
-Een verkoudheid begint vaak met een verstopte neus of loopneus. Hoofdpijn is het gevolg wanneer deze symptomen heftiger worden; veroorzaakt door de neusverstopping. Verkoudheid is vaak seizoensgebonden waarbij een ontsteking van de luchtwegen ook vaak voorkomt ([13.9](https://www.dokterdokter.nl/gezond-leven/algemeen/is-het-verkoudheid-of-griep/item30057)). Griep is de agressievere vorm van een verkoudheid, wat gepaard gaat met hoge koorts ([13.10](https://www.thuisarts.nl/griep)).
+Een verkoudheid begint vaak met een verstopte neus of loopneus. Hoofdpijn is het gevolg wanneer deze symptomen heftiger worden; veroorzaakt door de neusverstopping. Verkoudheid is vaak seizoensgebonden waarbij een ontsteking van de luchtwegen ook vaak voorkomt ([13.9](https://www.dokterdokter.nl/gezond-leven/algemeen/is-het-verkoudheid-of-griep/item30057)). 
 
 ### 3. Griep 
 
