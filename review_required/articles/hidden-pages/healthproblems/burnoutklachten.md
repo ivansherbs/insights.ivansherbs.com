@@ -12,7 +12,7 @@ Bij Burnout klachten zorgt een gebrek aan activiteit voor oververmoeidheid en zi
 ###Bewezen effectiviteit Ivan Chai
 Ivan Chai is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. Het heeft een kalmerende werking wat goed werkt tegen stress en burnout klachten. In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
  
-Gebruik Ivan Chai ook als preventieve behandeling tegen een _stress_ en _angst_.
+Gebruik Ivan Chai ook als preventieve behandeling tegen _stress_ en _angst_.
  
 ### Stress
 Stress ontstaat wanneer er in het menselijk lichaam te lang, te veel spanning aanwezig is. Dit kan komen door problemen op werk, een te hoge werkdruk, verlies van je baan, het overlijden van een dierbare of een (chronische) ziekte. 53% van de medewerkers ervaart stress op werk. Een kleine mate van stress hoeft op het eerste gezicht niet voor problemen te verzorgen. Je bent namelijk erg gefocust en actief.
