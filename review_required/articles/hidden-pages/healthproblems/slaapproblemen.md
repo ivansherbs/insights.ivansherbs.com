@@ -1,4 +1,4 @@
-## Ivan Chai verbetert de slaap
+## Ivan Chai vermindert de kans op slaapproblemen
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
