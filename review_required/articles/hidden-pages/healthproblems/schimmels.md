@@ -1,4 +1,4 @@
-## Ivan Chai versterkt de weerstand
+## Ivan Chai vermindert de kans op schimmels
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
