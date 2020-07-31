@@ -14,8 +14,8 @@ Volgens onderzoek van verschillende psychiaters wordt het gevoel van angst verst
  
 Angststoornissen komen procentueel gezien vaker voor bij vrouwen dan bij mannen. Hiernaast voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. Uit onderzoek is gebleken dat het merendeel van de mannen, vrouwen mooier vinden zonder make-up.
  
-###Bewezen effectiviteit Ivan Chai
-Ivan Chai is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. Het heeft een kalmerende werking wat goed werkt tegen stress en helpt de angst te verminderen. In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
+### Bewezen effectiviteit Ivan Chai
+Ivan Chai is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. Het heeft een kalmerende werking wat goed werkt tegen stress, burnout klachten en helpt angst te verminderen. In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
  
 Gebruik Ivan Chai ook als preventieve behandeling tegen een _stress_ en _burnout klachten_.
  
