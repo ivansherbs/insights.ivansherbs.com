@@ -1,4 +1,4 @@
-## Ivan Chai vermindert de kans op een slijmbeursontsteking
+## Voorkom een slijmbeursontsteking
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
