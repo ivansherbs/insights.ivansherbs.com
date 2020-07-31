@@ -1,4 +1,4 @@
-## Ivan Chai werkt als een krachtige ontstekingsremmer
+## Voorkom menstruatiepijn
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
