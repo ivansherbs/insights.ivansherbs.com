@@ -1,4 +1,4 @@
-## Ivan Chai vermindert de kans op een blaasontsteking
+## Voorkom een blaasontsteking
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
