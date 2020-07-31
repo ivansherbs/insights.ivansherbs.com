@@ -1,4 +1,4 @@
-## Ivan Chai werkt als een krachtige ontstekingsremmer
+## Ivan Chai vermindert de kans op keelontsteking
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
