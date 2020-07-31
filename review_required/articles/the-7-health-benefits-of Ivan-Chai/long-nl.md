@@ -29,17 +29,17 @@ De risicofactoren die de kans op een overtollige hoeveelheid aan schimmels vergr
 
 ### 2. Verkoudheid 
 
-Een verkoudheid begint vaak met een verstopte neus of loopneus. Hoofdpijn is het gevolg wanneer deze symptomen heftiger worden; veroorzaakt door de neusverstopping. Verkoudheid is vaak seizoensgebonden waarbij een ontsteking van de luchtwegen ook vaak voorkomt ([13.9](https://www.dokterdokter.nl/gezond-leven/algemeen/is-het-verkoudheid-of-griep/item30057)). 
+Een verkoudheid begint vaak met een verstopte neus of loopneus. Hoofdpijn is het gevolg wanneer deze symptomen heftiger worden; veroorzaakt door de neusverstopping. Verkoudheid is vaak seizoensgebonden waarbij een ontsteking van de luchtwegen ook vaak voorkomt ([13.9](https://www.thuisarts.nl/verkouden)). 
 
 ### 3. Griep 
 
-Begin 2018 heeft de langdurige griepepidemie gezorgd voor het hoogste niveau ziekteverzuim van de afgelopen 10 jaar. Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Met name in de gezondheidszorg met een ziekteverzuimpercentage van 6,5% lag het verzuim aanzienlijk hoger ([13.11](https://www.rtlnieuws.nl/geld-en-werk/artikel/4244466/ziekteverzuim-2018-op-hoogste-niveau-tien-jaar)). Tijdens de wintermaanden heeft het immuunsysteem moeite om zich te verdedigen tegen ziektekiemen. 
+Begin 2018 heeft de langdurige griepepidemie gezorgd voor het hoogste niveau ziekteverzuim van de afgelopen 10 jaar. Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Met name in de gezondheidszorg met een ziekteverzuimpercentage van 6,5% lag het verzuim aanzienlijk hoger ([13.10](https://www.rtlnieuws.nl/geld-en-werk/artikel/4244466/ziekteverzuim-2018-op-hoogste-niveau-tien-jaar)). Tijdens de wintermaanden heeft het immuunsysteem moeite om zich te verdedigen tegen ziektekiemen. 
 
-Het gebruik van farmaceutische medicijnen kan van grote invloed zijn op de gevoeligheid voor griep en andere infecties. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden ([13.12](https://mens-en-gezondheid.infonu.nl/ziekten/44867-bescherming-tegen-griep-tips-om-je-immuniteit-te-versterken.html)). De oorzaak wordt hierbij niet aangepakt. 
+Het gebruik van farmaceutische medicijnen kan van grote invloed zijn op de gevoeligheid voor griep en andere infecties. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden ([13.11](https://mens-en-gezondheid.infonu.nl/ziekten/44867-bescherming-tegen-griep-tips-om-je-immuniteit-te-versterken.html)). De oorzaak wordt hierbij niet aangepakt. 
 
 ### 4. Zwak immuunsysteem
 
-Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.13](https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen))). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([13.14](https://www.mmc.nl/oncologie/aandoening-en-behandeling/chemotherapie/), [13.15](https://www.chemotherapie.nl/wat-is-chemo/effecten-van-chemo)). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steeds de gevolgen in het dagelijkse leven ([13.16](https://zorgnu.avrotros.nl/nieuws/item/passende-zorg-nodig-voor-mensen-die-kanker-overleven/)).
+Bij een tekort aan witte bloedcellen verzwakt het immuunsysteem ([13.12](https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Immuundeficienties-(afweerstoornissen))). Farmaceutische medicijnen en chemotherapie hebben als bijwerking het doden van witte bloedcellen. Deze witte bloedcellen spelen een belangrijke rol in het afweersysteem ([13.13](https://www.mmc.nl/oncologie/aandoening-en-behandeling/chemotherapie/), [13.14](https://www.chemotherapie.nl/wat-is-chemo/effecten-van-chemo)). Van de 800.000 mensen die kanker overleefden, ondervindt daarvan het grootste deel nog steeds de gevolgen in het dagelijkse leven ([13.15](https://zorgnu.avrotros.nl/nieuws/item/passende-zorg-nodig-voor-mensen-die-kanker-overleven/)).
 
 **_Ivan Chai versterkt de weerstand:_**
 
