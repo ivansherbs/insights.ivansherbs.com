@@ -1,4 +1,4 @@
-## Ivan Chai vermindert de kans op keelontsteking
+## Voorkom een keelontsteking
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
