@@ -1,4 +1,4 @@
-## ## Voorkom een verkoudheid of griep
+## Ivan Chai vermindert de kans op een verkoudheid of griep
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
