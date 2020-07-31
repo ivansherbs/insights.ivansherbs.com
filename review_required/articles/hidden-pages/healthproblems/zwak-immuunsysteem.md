@@ -1,4 +1,4 @@
-## Ivan Chai versterkt de weerstand
+## Ivan Chai versterkt een zwak immuunsysteem
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
