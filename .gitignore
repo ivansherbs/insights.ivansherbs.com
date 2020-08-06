@@ -1,3 +1,6 @@
+# Node.js
+node_modules/
+
 # Mac OS
 .DS_Store
 
@@ -9,4 +12,4 @@
 *.swo
 
 # 11ty
-_site
+_site/
