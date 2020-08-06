@@ -7,3 +7,6 @@
 # Vim temporary files
 *.swp
 *.swo
+
+# 11ty
+_site
