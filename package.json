@@ -1,0 +1,23 @@
+{
+  "name": "articles.ivansherbs.com",
+  "version": "1.0.0",
+  "description": "All content in this repository (master branch) is published automatically.",
+  "main": "index.js",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivansherbs/content.ivansherbs.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivansherbs/content.ivansherbs.com/issues"
+  },
+  "homepage": "https://github.com/ivansherbs/content.ivansherbs.com#readme"
+}
