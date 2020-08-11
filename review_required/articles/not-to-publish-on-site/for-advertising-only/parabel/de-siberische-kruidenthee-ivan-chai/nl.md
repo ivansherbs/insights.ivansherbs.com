@@ -2,7 +2,11 @@
 
 **Het parabel van de Siberische Kruidenthee** 
 
-_In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai ontdekten. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met hartklopppingen, rillingen en slapeloosheid tot gevolg. Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar waarbij kennisdeling geschieden om de verstandshouding te versterken._
+**Artikel |** Geschiedenis - leestijd: 4 min <br>
+_In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai herontdekten. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met hartklopppingen, rillingen en slapeloosheid tot gevolg. Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar waarbij kennisdeling geschieden om de verstandshouding te versterken._
+
+Door **Ivan’s Insights**
+
 
 **Ivan Chai** <br> 
 De traditionele Russische volksgeneeskunde is gericht op het gebruik van geneeskrachtige kruiden. Genoodzaakt door het gebrek aan een constante toevoer aan handelsproducten uit verder gelegen gebieden, kent deze volksgeneeskunde vele doordachte rituelen. Gebruiken en tradities werden echter door de afwisseling van economische welvarendheid en hongersnoden vaak vergeten. De traditionele volksgeneeskunde bracht de Siberische monniken al zoekende naar het alternatief; het vergeten kruideninfuus Ivan Chai eeuwenlang beschreven vanwege de krachtige impact op het menselijk lichaam. Het kruideninfuus had de naam te danken aan de veelgebruikte Russische naam 'Ivan', waar de alom bekende term ‘Chai’ werd bijgevoegd om thee aan te duiden. Langzaamaan deed de Siberische kruidenthee haar herintreden tot de alledaagse routines van zowel monniken als landarbeiders. 
