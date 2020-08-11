@@ -3,15 +3,15 @@
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
 **Artikel |** Verkoudheid & Griep - leestijd: 2 min <br>
-_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen verkoudheid of griep._
+_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen virale luchtweginfecties._
  
 Door **Ivan’s Insights**
  
+Men verstaat onder een virale luchtweginfectie een onsteking van het slijmvlies in de luchtwegen; zoals bij een verkoudheid of griep. Een verkoudheid begint vaak met een verstopte neus of loopneus. Hoofdpijn is het gevolg wanneer deze symptomen heftiger worden; veroorzaakt door de neusverstopping. Verkoudheid is vaak seizoensgebonden waarbij een ontsteking van de luchtwegen ook vaak voorkomt.
 
-Een verkoudheid begint vaak met een verstopte neus of loopneus. Hoofdpijn is het gevolg wanneer deze symptomen heftiger worden; veroorzaakt door de neusverstopping. Verkoudheid is vaak seizoensgebonden waarbij een ontsteking van de luchtwegen ook vaak voorkomt. 
+Begin 2018 heeft de langdurige griepepidemie gezorgd voor het hoogste niveau ziekteverzuim van de afgelopen 10 jaar. Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Tijdens de wintermaanden heeft het immuunsysteem moeite om zich te verdedigen tegen ziektekiemen.
 
-Begin 2018 heeft de langdurige griepepidemie gezorgd voor het hoogste niveau ziekteverzuim van de afgelopen 10 jaar. Het ziekteverzuim heeft de afgelopen jaren nog nooit zo hoog gelegen. Met name in de gezondheidszorg met een ziekteverzuimpercentage van 6,5% lag het verzuim aanzienlijk hoger. Tijdens de wintermaanden heeft het immuunsysteem moeite om zich te verdedigen tegen ziektekiemen.
-Het gebruik van farmaceutische medicijnen kan van grote invloed zijn op de gevoeligheid voor griep. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden. De oorzaak wordt hierbij niet aangepakt.
+Het gebruik van farmaceutische medicijnen kan van grote invloed zijn op de gevoeligheid voor griep en andere infecties. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden. De oorzaak wordt hierbij niet aangepakt.
 
 
 ### Bewezen effectiviteit Ivan Chai 
