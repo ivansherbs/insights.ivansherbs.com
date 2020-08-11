@@ -15,6 +15,8 @@ Bij vrouwen boven de 12 jaar komt de blaasontsteking veel voor. Circa 20% van de
 ### Bewezen effectiviteit Ivan Chai 
 Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. De oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen zoals een urineweginfectie.
 
+ Het European Medicines Agency heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties.
+
 
  <br>
  <br>
