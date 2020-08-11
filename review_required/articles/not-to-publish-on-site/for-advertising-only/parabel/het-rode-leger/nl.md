@@ -1,5 +1,11 @@
 ## Het Rode Leger
+
+**put in some text** 
+
+**Artikel |** Geschiedenis - leestijd: 3 min <br>
 _Rusland heeft een rijke geschiedenis waarbij bloeddorstige oorlogen centraal staan voor de vorming van het land. Hongersnoden en een gebrek aan energie waren de voornaamste redenen dat economisch en politieke systemen omver werden geworpen._
+ 
+ Door **Ivan’s Insights**
  
 **Op weg naar samenwerking** <br>
 Na de Russische Revolutie in 1917 kwam het tsaardom ten val en werd de heerschappij binnen de samenleving verschoven. De despotie van tsaren bleek niet opgewassen tegen de overmacht van de fysiek sterkere bolsjewistische manschappen. Het Rode Leger kwam onder leiding van radicale intellectuelen aan de macht. In de jaren voorafgaand aan deze macht heerste er armoede onder het volk. Dit heeft er toe geleid dat in de opeenvolgende jaren het land werd geteisterd door voedseltekorten; wat uiteindelijk leidde tot de Russische Hongersnood. 
@@ -22,7 +28,7 @@ _’Mede door de bereidheid van ons Rode Leger om deel te nemen aan de verschill
 
 _‘Hiernaast zijn er meerdere positieve effecten op het menselijk lichaam, echter hebben deze diepgaand onderzoek nodig voordat we de werking met zekerheid kunnen vaststellen. Aankomende jaren zullen wij de volgende organen centraal stellen in ons onderzoek: ‘_
 * _Hart- en vaatstelsel_
-* _Prostaat._’
+* _Prostaat en urinewegen_’
 
 De Ivan Chai werkte als een katalysator op het Rode Leger. Het Rode Leger had op haar hoogtepunt een omvang van om en nabij de 21 miljoen militairen; allen gevoed door kruiden uit Siberië… 
 
