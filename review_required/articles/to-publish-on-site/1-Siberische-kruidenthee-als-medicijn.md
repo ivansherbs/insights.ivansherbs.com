@@ -1,13 +1,13 @@
-# Kruidenthee is ook een medicijn
+# Siberische kruidenthee als medicijn
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
 **Artikel |** Kruidengeneeskunde - leestijd: 3 min <br>
-_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De 7 gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen meer dan 17 gezondheidsproblemen._
+_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De 7 gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen._
  
 Door **Ivan’s Insights**
 
-Ivan's Herbs richt zich op het gebruik van kruiden om gezondheidsproblemen aan te pakken. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische medicijnen. Van alle goedgekeurde farmaceutische medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560124/). Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel: _negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen._
+Ivan's Herbs richt zich op het gebruik van kruiden om gezondheidsproblemen aan te pakken. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische medicijnen. Van alle goedgekeurde farmaceutische medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560124/). Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel; negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
 
 Ivan’s Herbs biedt bewijs voor de geneeskrachtige werking te vinden in kruiden. Hierbij richten zij zich op het promoten van kruiden uit Siberië met gezondheidsvoordelen en zonder negatieve bijwerkingen voor het menselijk lichaam. Veel gezondheidsproblemen zijn geëvalueerd door het European Medicines Agency (EMA), het Europese equivalent van de Amerikaanse Federal Drug Administration (FDA). Er wordt klinisch dan wel niet-klinisch bewijs geboden om aan te tonen hoe de actieve stoffen in kruiden gezondheidsproblemen aanpakken.
 
