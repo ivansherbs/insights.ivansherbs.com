@@ -12,7 +12,7 @@ Pezen hebben de verbindende taak op zich genomen om spier en bot bij elkaar te h
 Er zijn naast volleybal tal van sporten waarbij snelle, krachtige en explosieve bewegingen worden gebruikt; denk hierbij aan duursporten zoals wielrennen, roeien en hardlopen, maar ook sporten zoals voetbal, tennis en hockey. 
 
 ### Bewezen effectiviteit Ivan Chai 
-Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. De oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen zoals een blaasontsteking.
+Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen zal men snel overstappen op farmaceutische medicijnen. Farmaceutische medicijnen hebben nare bijwerkingen tot gevolg waarmee symptomen worden bestrijdt in plaats van de oorzaak. De oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen zoals een peesontsteking.
 
 
  <br>
