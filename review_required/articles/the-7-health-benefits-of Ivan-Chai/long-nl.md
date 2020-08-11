@@ -7,7 +7,8 @@ _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicij
 
 Door **Ivan’s Insights**
 
-Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
+
+## De Siberische kruidenthee Ivan Chai
 
 * Versterkt de weerstand
 * Krachtige ontstekingsremmer
@@ -17,7 +18,7 @@ Hieronder een overzicht van de 7 gezondheidsvoordelen van Ivan Chai:
 * Verzorgt de gezondheid van de prostaat en urinewegen
 * Verzorgt het spijsverteringsstelsel
 
-Onze pijlers zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding; waarbij de holistische benadering centraal staat. Kleine veranderingen in alledaagse routines kunnen, op korte dan wel lange termijn, winst opleveren voor het menselijk lichaam.
+De pijlers van Ivan's Herbs zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding; waarbij de holistische benadering centraal staat. Kleine veranderingen in alledaagse routines kunnen winst opleveren voor het menselijk lichaam.
 
 Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Ivan's Herbs ondersteund het gebruik van farmaceutische medicatie en waar nodig, juichen wij dit toe. In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. Hieronder de statistieken en onderbouwing van de 7 gezondheidsvoordelen.
 
