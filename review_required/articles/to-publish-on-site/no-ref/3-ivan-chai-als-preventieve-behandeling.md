@@ -1,9 +1,9 @@
-# Kruiden voor medicijnen
+# Ivan Chai als preventieve behandeling 
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
 **Artikel |** Kruidengeneeskunde - leestijd: 3 min <br>
-_Kruiden kunnen worden gebruikt als preventieve behandeling tegen gezondheidsproblemen. Uit onderzoek is gebleken dat het gebruik van kruiden de voorkeur krijgt boven het gebruik van farmaceutische medicijnen. De Wereldgezondheidsorganisatie schat dat 80% van de wereldbevolking gebruik maakt van kruidengeneeskunde bij gebrek aan conventionele geneesmiddelen. In de afgelopen 10 jaar is het gebruik van kruiden met 380% gestegen. Veel conventionele geneesmiddelen vinden hun oorsprong in de kruidengeneeskunde. Kruiden hebben echter niet dezelfde potentie als farmaceutische geneesmiddelen._ 
+_De Siberische kruidenthee Ivan Chai kan worden gebruikt als preventieve behandeling tegen gezondheidsproblemen. Uit onderzoek is gebleken dat het gebruik van kruiden de voorkeur krijgt boven het gebruik van farmaceutische medicijnen. De Wereldgezondheidsorganisatie schat dat 80% van de wereldbevolking gebruik maakt van kruidengeneeskunde bij gebrek aan conventionele geneesmiddelen. In de afgelopen 10 jaar is het gebruik van kruiden met 380% gestegen. Veel conventionele geneesmiddelen vinden hun oorsprong in de kruidengeneeskunde. Kruiden hebben echter niet dezelfde potentie als farmaceutische geneesmiddelen._ 
 
 Door **Ivan’s Insights**
 
