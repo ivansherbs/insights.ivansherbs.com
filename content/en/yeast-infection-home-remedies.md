@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Yeast Infection Home Remedies: What You Need to Know
+title: "Yeast Infection Home Remedies: What You Need to Know"
 ---
 This article will explain many ways to remedy a vaginal yeast infection at home. 
 
