@@ -7,6 +7,7 @@ module.exports = function(eleventyConfig) {
     let mila = require('markdown-it-link-attributes')
 
     let mdOptions = {
+        html: true,
         linkify: true
     };
 
