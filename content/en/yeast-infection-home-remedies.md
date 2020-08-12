@@ -8,18 +8,21 @@ You’ll also learn exactly what a yeast infection is, how to prevent it, even w
 
 Here's a breakdown of the topics I will cover:
 
-- [What is a Yeast Infection?](https://articles.ivansherbs.com/yeast-infection-home-remedies#what-is-a-vaginal-yeast-infection)
+- [What is a Yeast Infection?](https://articles.ivansherbs.com/en/yeast-infection-home-remedies#what-is-a-vaginal-yeast-infection)
   - yeast infection women
+
 - Yeast Infection Home Remedies
 
 - What Causes Yeast Infections?
   - yeast infection causes
+
 - What does a Yeast Infection look like?
   - How do You know if You have a Yeast Infection?
   - show how do i know if i have a yeast infection
   - yeast infection smell
   - yeast infection discharge
   - yeast infection symptoms
+
 - Are Yeast Infections Contagious?
   - write about all general yeast infections
 
@@ -47,14 +50,13 @@ Here's a breakdown of the topics I will cover:
 - Yeast Infection vs BV (Bacterial Vaginosis)
 
 - How Long does a Yeast Infection Last?
-
   - will a yeast infection go away on its own
 
-  Let’s get on with it.
+Let’s get on with it.
 
 ## What is a Yeast Infection?
 
-A yeast infection (also called candidiasis) is fungal infection ons different body parts.
+A yeast infection (also called candidiasis) is fungal infection on different body parts.
 
 The [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/yeast-infection/symptoms-causes/syc-20378999), a trusted academic medical center, defines a vaginal yeast infection as:
 
@@ -66,9 +68,11 @@ Put another way, we define it as a *Candida albicans* overgrowth.
 
 Let's see some fast home remedies that you can do to cure it.
 
+
 ## Yeast Infections Home Remedies
 
 Let's look at 4 ways of how to cure yeast infections at home fast. 
+
 
 **Drink Ivan Chai (fireweed tea)**
 
@@ -91,7 +95,6 @@ If you'd like to our try our Ivan Chai hand-made from 100% fireweed leaves, [you
 To cure yeast infections at home, drink two cups of Ivan Chai daily.
 
 
-
 **Apply Coconut Oil**
 
 Coconut oil is just the fatty oil that comes from coconuts. Among it's other benefits, coconut oil is known to be an anti-fungal.
@@ -101,7 +104,6 @@ This [one study from 2016](https://www.hindawi.com/journals/scientifica/2016/706
 To cure a vaginal yeast infection, you need to apply it. This could be done by applying the oil to a clean tampon and inserting the tampon.
 
 It's recommended that you use pure coconut oil, and prefeably organic. You can tell its 100% coconut oil because it won't have a strong coconut smell to it.
-
 
 
 **Use Wild Oregano**
@@ -119,7 +121,6 @@ I repeat, *do not apply to vaginal area*, as that cause irritation. By applying 
 Another method is to use the essential oil in aromatherapy. Simply put a few drops in your infuser and inhale.
 
 Another word of caution for those will bleeding disorders. Wild oregano is a blood thinner, so don't use it at all if you have blood-clotting issues or are already taking blood thinners.
-
 
 
 **Take Vitamin C**
@@ -143,4 +144,3 @@ High acid levels in your stomach slows down Candida. Candida just hates acid.
 To use Vitamin C as a home remedy, take up 3000 mg per day. Your body can't absorb more than that.
 
 Useful tip: take 1000 mg of Bioflavanoids for every 2000 mg of Vitamin C. It boosts the effectiveness and prolongs the effect.
-
