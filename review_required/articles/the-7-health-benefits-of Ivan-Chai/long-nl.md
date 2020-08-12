@@ -3,7 +3,7 @@
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
 **Artikel |** Siberische kruidenthee - leestijd: 7 min <br>
-_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De 7 gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Onze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen. Het informeren van de gezondheidsvoordelen van Ivan Chai is gebaseerd op hedendaagse artikelen en voelt als een tweede natuur voor ons._
+_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De 7 gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen. Het informeren van de gezondheidsvoordelen van Ivan Chai is gebaseerd op hedendaagse artikelen waarvan de werking wetenschappelijk is geevalueerd door het 'European Medicines Agency' (EMA)._
 
 Door **Ivan’s Insights**
 
@@ -18,9 +18,9 @@ Door **Ivan’s Insights**
 * Verzorgt de gezondheid van de prostaat en urinewegen
 * Verzorgt het spijsverteringsstelsel
 
-De pijlers van Ivan's Herbs zijn gericht op het verzorgen van lichaam en geest. Preventie speelt een grotere rol dan bestrijding; waarbij de holistische benadering centraal staat. Kleine veranderingen in alledaagse routines kunnen winst opleveren voor het menselijk lichaam.
+Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen. Kleine veranderingen in alledaagse routines kunnen winst opleveren voor het menselijk lichaam.
 
-Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Graag willen we benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Ivan's Herbs ondersteund het gebruik van farmaceutische medicatie en waar nodig, juichen wij dit toe. In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. Hieronder de statistieken en onderbouwing van de 7 gezondheidsvoordelen.
+Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Ivan's Herbs wil graag benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Zo ondersteunen wij het gebruik van farmaceutische medicatie en waar nodig, juichen wij dit toe. In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
 
 <br>
 
