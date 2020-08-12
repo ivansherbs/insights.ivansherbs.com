@@ -1,4 +1,4 @@
-# Kruidengeneeskunde
+# Moderne kruidengeneeskunde
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
