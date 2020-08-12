@@ -10,6 +10,8 @@ Door **Ivan’s Insights**
 
 ## De Siberische kruidenthee Ivan Chai
 
+Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen, ter ontspanning of als levenselixer. Kleine veranderingen in alledaagse routines kunnen winst opleveren voor het menselijk lichaam.
+
 * Versterkt de weerstand
 * Krachtige ontstekingsremmer
 * Versterkt de antioxiderede werking
@@ -17,8 +19,6 @@ Door **Ivan’s Insights**
 * Vermindert de kans op stress, angst en burnout klachten
 * Verzorgt de gezondheid van de prostaat en urinewegen
 * Verzorgt het spijsverteringsstelsel
-
-Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen. Kleine veranderingen in alledaagse routines kunnen winst opleveren voor het menselijk lichaam.
 
 Het menselijk lichaam is een intelligent systeem in staat tot zelfregulatie en genezing, waarbij hulp van buiten mag worden omarmt. Ivan's Herbs wil graag benadrukken dat gezondheidsproblemen complex, pijnlijk en beangstigend kunnen zijn. Zo ondersteunen wij het gebruik van farmaceutische medicatie en waar nodig, juichen wij dit toe. In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
 
