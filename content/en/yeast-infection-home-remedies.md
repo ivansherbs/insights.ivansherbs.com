@@ -1,5 +1,7 @@
-# Yeast Infection Home Remedies: What You Need to Know
-
+---
+layout: article.html
+title: Yeast Infection Home Remedies: What You Need to Know
+---
 This article will explain many ways to remedy a vaginal yeast infection at home. 
 
 You’ll also learn exactly what a yeast infection is, how to prevent it, even what it looks like (with pictures!). If you or a friend need relief from yeast infections, this article is your guide.
