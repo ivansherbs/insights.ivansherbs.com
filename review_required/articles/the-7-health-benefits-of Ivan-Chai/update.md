@@ -28,13 +28,13 @@ Hieronder een uiteenzetting van zowel de gezondheidsvoordelen als -problemen.
 
 ## Versterkt de weerstand
 
-### 1. Infecties
+### 1. Schimmelinfecties
 
 Iedereen heeft last van schimmels (o.a. oraal, vaginaal, anaal, voeten). Een overtollige hoeveelheid aan schimmels kan door gebruik van farmaceutische medicijnen, waaronder antibiotica, anticonceptiepil en maagzuurremmers, worden versterkt. Circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.  
 
 De sterke werking van farmaceutische medicijnen zoals antibiotica dood echter niet alleen de ongewenste bacteriën waar gezondheidsproblemen uit voortkomen. Het valt hierbij ook goede bacteriën aan. Zo hebben de statistieken bewezen dat antibiotica hierdoor de grootste boosdoener is van een vaginale schimmelinfectie.
 
-Kijkende naar de rest van het menselijk lichaam hangt een schimmelinfectie niet alleen af van het gebruik van farmaceutische medicijnen. Zo kan een schimmelinfectie in de mond verschillende oorzaken hebben. Denk hierbij aan ontstoken tandvlees door tandplak op de tanden of een open wond door een behandeling bij de tandarts die nog goed moet genezen. De risicofactoren die de kans op een overtollige hoeveelheid aan schimmels vergroot zijn roken, een kunstgebit en diabetes. Vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties.
+Kijkende naar de rest van het menselijk lichaam hangt een schimmelinfectie niet alleen af van het gebruik van farmaceutische medicijnen. Zo kan een schimmelinfectie in de mond verschillende oorzaken hebben. Denk hierbij aan ontstoken tandvlees door tandplak op de tanden of een open wond door een behandeling bij de tandarts die nog goed moet genezen. De risicofactoren die de kans op een overtollige hoeveelheid aan schimmels vergroot zijn roken, een kunstgebit en diabetes. Vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op schimmelinfecties.
 
 ### 2. Virale luchtweginfecties
 
