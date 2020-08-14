@@ -64,7 +64,7 @@ Veel combinaties van natuurlijke medicijnen met farmaceutische medicijnen zijn t
  
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai? 
 Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld: <br>
-*Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
+> Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
  
 **Let op!**
 Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
