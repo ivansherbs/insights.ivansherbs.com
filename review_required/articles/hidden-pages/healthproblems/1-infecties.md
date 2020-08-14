@@ -20,7 +20,7 @@ Denk aan antibiotica, anticonceptiepil en maagzuurremmers. Hierbij een aantal st
 
 Laten we de werking van antibiotica gebruiken als voorbeeld. De sterke werking van antibiotica op jouw lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood waar gezondheidsproblemen uit voortkomen. Het valt hierbij ook goede bacteriën aan! Hierdoor krijgen schimmels, gist en ongewenste bacteriën de kans om te groeien. 
 
-### Zijn er meer manieren waarop je een infectie oploopt?
+### Zijn er meer manieren waardoor je een infectie oploopt?
 Ja. Uiteraard kun je op meer manieren een infectie oplopen. Buiten farmaceutische medicijnen om. Hieronder enkele voorbeelden. 
 
 * Helaas worden goede bacteriën tevens aangevallen door aanraking met een overtollige hoeveelheid aan zeep. Volgens de statistieken zijn antibiotica en zeep de grootste boosdoeners van een vaginale schimmelinfectie. 
