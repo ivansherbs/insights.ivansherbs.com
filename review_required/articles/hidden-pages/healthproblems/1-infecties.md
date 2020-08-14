@@ -1,5 +1,3 @@
-Bolt: opzoeken ubersuggest
-
 ## Infecties: Gebruik Ivan Chai als preventieve (ter voorkoming) of ter behandeling
 
 Door **Ivan’s Insights** 
