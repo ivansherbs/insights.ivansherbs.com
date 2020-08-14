@@ -61,8 +61,8 @@ Goed om te weten! Deze therapeutische dosering van Ivan Chai wordt aangeraden do
 ### Is het effect van Ivan Chai direct merkbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect niet direct bij gebruik voelbaar. Wanneer jouw klachten zijn verholpen, kun je stoppen met het gebruik van Ivan Chai. Wij raden het echter aan de kuur, als preventieve behandeling, met regelmaat te herhalen.
 
-### Welke voorzorgsmaatregelen kan ik nemen?** <br>  
-Veel combinaties van natuurlijke medicijnen met farmaceutische medicijnen zijn tot op heden niet geprobeerd of getest. Wij adviseren het een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met natuurlijke medicijnen in combinatie met farmaceutische medicijnen. Hiernaast raden wij het aan eigen onderzoek te doen om bijwerkingen te voorkomen.
+### Welke voorzorgsmaatregelen kan ik nemen? <br>  
+Veel combinaties van natuurlijke medicijnen met farmaceutische medicijnen zijn tot op heden niet geprobeerd of getest. Wij adviseren het een Vitaliteits- en Gezondheidsdeskundige te raadplegen voorafgaand aan een behandeling met Ivan Chai in combinatie met farmaceutische medicijnen. Hiernaast raden wij het aan eigen onderzoek te doen om bijwerkingen te voorkomen.
  
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai? 
 Er zijn tot op heden geen bekende bijwerkingen van Ivan Chai gemeld: <br>
