@@ -1,4 +1,4 @@
-## Infecties: Gebruik Ivan Chai als preventieve (ter voorkoming) of ter behandeling
+## Infecties: Gebruik Ivan Chai als preventieve of ter behandeling
 
 Door **Ivan’s Insights** 
 
