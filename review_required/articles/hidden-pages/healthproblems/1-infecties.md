@@ -23,9 +23,9 @@ Laten we de werking van antibiotica gebruiken als voorbeeld. De sterke werking v
 ### Zijn er meer manieren waarop je een infectie oploopt?
 Ja. Uiteraard kun je op meer manieren een infectie oplopen. Buiten farmaceutische medicijnen om. Hieronder enkele voorbeelden. 
 
-Helaas worden goede bacteriën tevens aangevallen door aanraking met een overtollige hoeveelheid aan zeep. Volgens de statistieken zijn antibiotica en zeep de grootste boosdoeners van een vaginale schimmelinfectie. 
-Een infectie in de mond kan ook verschillende oorzaken hebben. Denk hierbij aan ontstoken tandvlees door tandplak op de tanden of een open wond door een behandeling bij de tandarts die nog goed moet genezen. 
-Wanneer we kijken naar voetschimmel kan je het oplopen in de kleedkamer of openbare douche. Zo zijn er nog tal van andere voorbeelden. 
+* Helaas worden goede bacteriën tevens aangevallen door aanraking met een overtollige hoeveelheid aan zeep. Volgens de statistieken zijn antibiotica en zeep de grootste boosdoeners van een vaginale schimmelinfectie. 
+* Een infectie in de mond kan ook verschillende oorzaken hebben. Denk hierbij aan ontstoken tandvlees door tandplak op de tanden of een open wond door een behandeling bij de tandarts die nog goed moet genezen. 
+* Wanneer we kijken naar voetschimmel kan je het oplopen in de kleedkamer of openbare douche. Zo zijn er nog tal van andere voorbeelden. 
 
 ### Waardoor vergroot ik de kans op een infectie? 
 
