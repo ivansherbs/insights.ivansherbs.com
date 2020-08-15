@@ -59,19 +59,17 @@ Dus, we hebben zojuist uiteengezet waardoor je een infectie krijgt. Welke medici
 
 De onderzoeken worden uitgevoerd door het European Medicines Agency, kortweg EMA. Zij houden zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Het EMA weet welke stoffen verantwoordelijk zijn voor de werking van Ivan Chai. Laten we ons kort richten op de stoffen met geneeskrachtige werking. Uiteraard tegen infecties. 
 
-### De stoffen vanuit wetenschappelijk perspectief
-
-> Vanuit wetenschappelijk perspectief zijn het de antioxidanten quercetine en Oenotheïne B die in Ivan Chai worden aangetroffen. Deze stoffen hebben een geneeskrachtige werking op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C. Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
+> **De stoffen vanuit wetenschappelijk perspectief** <br> Vanuit wetenschappelijk perspectief zijn het de antioxidanten quercetine en Oenotheïne B die in Ivan Chai worden aangetroffen. Deze stoffen hebben een geneeskrachtige werking op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C. Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
 
 Ivan Chai werkt niet alleen als preventieve of ter behandeling tegen infecties. Onderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen. 
 
 Oke, nu hebben we de wetenschappelijke inslag ook weer gehad. Laten we nu doornemen hoe je deze infecties op eenvoudige wijze preventief of ter behandeling kunt bestrijden met Ivan Chai. We zijn aangekomen bij de praktische informatie.
 
-**Praktische informatie** 
+### Praktische informatie
 
 We beginnen met de vraag:
 
-### Waarvan wordt Ivan Chai gemaakt?
+### Waar wordt Ivan Chai van gemaakt?
 
 Ivan Chai wordt gemaakt van het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt ook wel de Latijnse benaming Epilobium Angustifolium. Het wilgenroosje groeit in de wildernis van Siberië. Van deze plant worden de handgerolde bladeren gefermenteerd. Daarna worden ze gedroogd. En kunnen ze worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. Hieronder een korte omschrijving van de bereidingswijze.
 
