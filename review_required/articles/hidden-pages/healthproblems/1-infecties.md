@@ -1,29 +1,28 @@
-## Infecties: Gebruik Ivan Chai als preventieve of ter behandeling
+## Infecties: Wil jij infecties voorkomen of behandelen?
 
 Door **Ivan’s Insights**
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
 **Artikel |** Infecties - leestijd: 2 min <br>
-_Dit artikel legt je uit hoe je met Ivan Chai een infectie op eenvoudige wijze preventief of ter behandeling kunt gebruiken. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Gebruik de Siberische kruidenthee Ivan Chai als preventieve of ter behandeling tegen infecties._
+_Dit artikel legt je uit waarom je Ivan Chai op eenvoudige wijze kunt gebruiken tegen infecties. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Gebruik het als preventieve of ter behandeling tegen infecties._
  
 > **Bewezen effectiviteit Ivan Chai** <br> De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
-Gedurende het artikel zullen we samen ingaan op hoe infecties ontstaan. En welke farmaceutische medicijnen dit effect versterken. Waarna we de Siberische kruidenthee Ivan Chai als preventieve of ter behandeling samen onder de loep nemen. 
+Gedurende het artikel zullen we samen ingaan op hoe infecties ontstaan. En welke farmaceutische medicijnen dit effect versterken. Waarna we de Siberische kruidenthee Ivan Chai samen onder de loep nemen. 
 
-_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties inclusief eenvoudige natuurlijke behandeling!_
+_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties inclusief eenvoudige natuurlijke behandeling._
 
 ### Inhoud van het artikel
 
 * Waardoor krijg je een infectie?
 * Welke medicijnen versterken dit effect?
-* Welk effect heeft het gebruik van farmaceutische medicijnen?
+* Welk effect heeft het gebruik van medicijnen op infecties?
 * Zijn er meer manieren waardoor je een infectie oploopt?
 * Waardoor vergroot ik de kans op een infectie?
-*  De stoffen vanuit wetenschappelijk perspectief
 
 **Praktische informatie** <br>
-* Waarvan wordt Ivan Chai gemaakt?
+* Waar wordt Ivan Chai van gemaakt?
 * Bereidingswijze
 * Welke dosering en behandelingskuur raden jullie aan?
 * Is het effect van Ivan Chai direct merkbaar?
@@ -34,15 +33,13 @@ _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over
 Laten we beginnen met de allereerste vraag gericht op het krijgen van een infectie. 
 
 ### Waardoor krijg je een infectie?
-
-Het zit als volgt. Een infectie krijg je door een overtollige hoeveelheid aan schimmels. Iedereen heeft namelijk last van schimmels. Hiernaast worden gist en ongewenste bacteriën veelal in kleine getalen bij mensen aangetroffen. Dus ook op jouw lichaam. Een infectie kan verschillende oorzaken hebben. Eén van die oorzaken is het gebruik van farmaceutische medicijnen. Het gebruik van deze farmaceutische medicijnen heeft het volgende effect. Het versterkt de groei van schimmels, gist of ongewenste bacteriën die een infectie veroorzaken.
+Een infectie kun je op verschillende manieren krijgen. Namelijk via schimmels, gist of ongewenste bacteriën. Het zit als volgt. Een infectie kun je krijgen door een overtollige hoeveelheid aan schimmels. Iedereen heeft namelijk last van schimmels. Hiernaast worden gist en ongewenste bacteriën veelal in kleine getalen bij mensen aangetroffen. Dus ook op jouw lichaam. Een infectie kan verschillende oorzaken hebben. Eén van die oorzaken is het gebruik van farmaceutische medicijnen. Het gebruik van deze farmaceutische medicijnen heeft het volgende effect. Het versterkt de groei van schimmels, gist of ongewenste bacteriën die een infectie veroorzaken.
 
 ### Welke medicijnen versterken dit effect?
 Laten we ons richten op veelgebruikte medicijnen. Denk aan antibiotica, anticonceptiepil en maagzuurremmers. Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
-### Welk effect heeft het gebruik van farmaceutische medicijnen?
-
-We gebruiken de werking van antibiotica als voorbeeld. De sterke werking van antibiotica op jouw lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood waar gezondheidsproblemen uit voortkomen. Het valt hierbij ook goede bacteriën aan! Hierdoor krijgen schimmels, gist en ongewenste bacteriën de kans om te groeien.
+### Welk effect heeft het gebruik van medicijnen op infecties?
+Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen, wordt bij gebruik hierdoor het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Maar vermindert de weerstand in jouw lichaam waardoor gezondheidsproblemen kunnen ontstaan. We gebruiken de werking van antibiotica als voorbeeld. De werking van antibiotica op jouw lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Hierdoor krijgen schimmels, gist en ongewenste bacteriën de kans om te groeien. Met infecties tot gevolg. 
 
 ### Zijn er meer manieren waardoor je een infectie oploopt?
 Ja. Uiteraard kun je op meer manieren een infectie oplopen. Buiten farmaceutische medicijnen om. Hieronder enkele voorbeelden:
@@ -52,26 +49,23 @@ Ja. Uiteraard kun je op meer manieren een infectie oplopen. Buiten farmaceutisch
 * Wanneer we kijken naar voetschimmel kan je het oplopen in de kleedkamer of openbare douche. Zo zijn er nog tal van andere voorbeelden.
 
 ### Waardoor vergroot ik de kans op een infectie?
-
-De risicofactoren die de kans op een overtollige hoeveelheid aan infecties vergroot zijn roken, een kunstgebit en diabetes. Vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties.
+Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Te beginnen bij jouw levensstijl. Hierbij moet je denken aan roken. Of een slecht eetpatroon waardoor je last kunt krijgen van diabetes. Hiernaast zijn er ook risicofactoren als gevolg van ouderdom waardoor je een infectie kunt krijgen. Vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties. Net als ouderen met kunstgebit. 
 
 Dus, we hebben zojuist uiteengezet waardoor je een infectie krijgt. Welke medicijnen een versterkend effect veroorzaken. Waarbij volgens onderzoek is aangetoond dat Ivan Chai de groei van schimmels, gist en ongewenste bacteriën verhinderd.
 
-De onderzoeken worden uitgevoerd door het European Medicines Agency, kortweg EMA. Zij houden zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Het EMA weet welke stoffen verantwoordelijk zijn voor de werking van Ivan Chai. Laten we ons kort richten op de stoffen met geneeskrachtige werking. Uiteraard tegen infecties. 
+Overigens, worden de onderzoeken uitgevoerd door het European Medicines Agency, kortweg EMA. Zij houden zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Het EMA weet welke stoffen verantwoordelijk zijn voor de werking van Ivan Chai. Laten we ons kort richten op deze stoffen met geneeskrachtige werking. In dit geval tegen infecties: 
 
-> **De stoffen vanuit wetenschappelijk perspectief** <br> Vanuit wetenschappelijk perspectief zijn het de antioxidanten quercetine en Oenotheïne B die in Ivan Chai worden aangetroffen. Deze stoffen hebben een geneeskrachtige werking op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C. Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
+> Vanuit wetenschappelijk perspectief zijn het de antioxidanten quercetine en Oenotheïne B. Deze stoffen hebben een geneeskrachtige werking op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C. Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
 
 Ivan Chai werkt niet alleen als preventieve of ter behandeling tegen infecties. Onderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen. 
 
-Oke, nu hebben we de wetenschappelijke inslag ook weer gehad. Laten we nu doornemen hoe je deze infecties op eenvoudige wijze preventief of ter behandeling kunt bestrijden met Ivan Chai. We zijn aangekomen bij de praktische informatie.
+Oke, nu we de wetenschappelijke inslag ook weer hebben gehad. Laten we nu doornemen hoe je deze infecties op eenvoudige wijze preventief of ter behandeling kunt bestrijden met Ivan Chai. We zijn aangekomen bij:
 
 ### Praktische informatie
 
-We beginnen met de vraag:
-
 ### Waar wordt Ivan Chai van gemaakt?
 
-Ivan Chai wordt gemaakt van het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt ook wel de Latijnse benaming Epilobium Angustifolium. Het wilgenroosje groeit in de wildernis van Siberië. Van deze plant worden de handgerolde bladeren gefermenteerd. Daarna worden ze gedroogd. En kunnen ze worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. Hieronder een korte omschrijving van de bereidingswijze.
+Ivan Chai wordt gemaakt van het Wilgenroosje. Het European Medicines Agency (EMA) gebruikt ook wel de Latijnse benaming Epilobium Angustifolium. Het Wilgenroosje groeit in de wildernis van Siberië. Van deze plant worden de handgerolde bladeren gefermenteerd. Daarna worden ze gedroogd. En kunnen ze worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. Hieronder een korte omschrijving van de bereidingswijze.
 
 ### Bereidingswijze
 
