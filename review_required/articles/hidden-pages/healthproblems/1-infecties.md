@@ -9,7 +9,7 @@ _Dit artikel legt je uit waarom je Ivan Chai op eenvoudige wijze kunt gebruiken 
  
 > **Bewezen effectiviteit Ivan Chai** <br> De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
-Gedurende het artikel zullen we samen ingaan op hoe infecties ontstaan. En welke farmaceutische medicijnen dit effect versterken. Waarna we de Siberische kruidenthee Ivan Chai samen onder de loep nemen. 
+Gedurende het artikel zullen we samen ingaan op het krijgen van infecties. En welke farmaceutische medicijnen dit effect versterken. Waarna we de Siberische kruidenthee Ivan Chai samen onder de loep nemen. 
 
 _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties inclusief eenvoudige natuurlijke behandeling._
 
@@ -20,6 +20,7 @@ _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over
 * Welk effect heeft het gebruik van medicijnen op infecties?
 * Zijn er meer manieren waardoor je een infectie oploopt?
 * Waardoor vergroot ik de kans op een infectie?
+* Wetenschappelijk onderzoek
 
 **Praktische informatie** <br>
 * Waar wordt Ivan Chai van gemaakt?
@@ -39,7 +40,7 @@ Een infectie kun je op verschillende manieren krijgen. Namelijk via schimmels, g
 Laten we ons richten op veelgebruikte medicijnen. Denk aan antibiotica, anticonceptiepil en maagzuurremmers. Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
 ### Welk effect heeft het gebruik van medicijnen op infecties?
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen, wordt bij gebruik hierdoor het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Maar vermindert de weerstand in jouw lichaam waardoor gezondheidsproblemen kunnen ontstaan. We gebruiken de werking van antibiotica als voorbeeld. De werking van antibiotica op jouw lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Hierdoor krijgen schimmels, gist en ongewenste bacteriën de kans om te groeien. Met infecties tot gevolg. 
+Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan echter zijn dat door gebruik jouw weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. We gebruiken de werking van antibiotica als voorbeeld. De werking van antibiotica op jouw lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Hierdoor krijgen schimmels, gist en ongewenste bacteriën de kans om te groeien. Met infecties tot gevolg. 
 
 ### Zijn er meer manieren waardoor je een infectie oploopt?
 Ja. Uiteraard kun je op meer manieren een infectie oplopen. Buiten farmaceutische medicijnen om. Hieronder enkele voorbeelden:
@@ -53,7 +54,8 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Te b
 
 Dus, we hebben zojuist uiteengezet waardoor je een infectie krijgt. Welke medicijnen een versterkend effect veroorzaken. Waarbij volgens onderzoek is aangetoond dat Ivan Chai de groei van schimmels, gist en ongewenste bacteriën verhinderd.
 
-Overigens, worden de onderzoeken uitgevoerd door het European Medicines Agency, kortweg EMA. Zij houden zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Het EMA weet welke stoffen verantwoordelijk zijn voor de werking van Ivan Chai. Laten we ons kort richten op deze stoffen met geneeskrachtige werking. In dit geval tegen infecties: 
+### Wetenschappelijk onderzoek
+De werking van Ivan Chai wordt bevestigd door het European Medicines Agency, kortweg EMA. Zij houden zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Het EMA weet welke stoffen verantwoordelijk zijn voor de werking van Ivan Chai. Laten we ons kort richten op deze stoffen met geneeskrachtige werking. In dit geval tegen infecties: 
 
 > Vanuit wetenschappelijk perspectief zijn het de antioxidanten quercetine en Oenotheïne B. Deze stoffen hebben een geneeskrachtige werking op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C. Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
 
