@@ -83,7 +83,7 @@ Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wor
 
 Overigens, werkt Ivan Chai niet alleen als preventieve of ter behandeling tegen infecties. Onderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen. 
 
-_Bekijk hieronder hoe eenvoudig de bereidingswijze is voor een behandeling._
+Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is? 
 
 ### Bereidingswijze Ivan Chai
 
