@@ -3,7 +3,7 @@ layout: article.html
 title: Infecties: Wil jij infecties voorkomen of behandelen?
 ---
 
-Door **Ivan’s Insights** Artikel |**Infecties** <br>
+Door **Ivan’s Insights** | Infecties <br>
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
