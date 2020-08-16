@@ -1,4 +1,3 @@
-
 ---
 layout: article.html
 title: Infecties: Wil jij infecties voorkomen of behandelen?
