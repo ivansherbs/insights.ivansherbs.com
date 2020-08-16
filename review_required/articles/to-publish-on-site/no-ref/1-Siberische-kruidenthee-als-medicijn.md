@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Siberische kruidenthee als medicijn
+title: Siberische kruidenthee als natuurlijke behandeling
 ---
 
 Door **Ivan’s Insights** | Kruidengeneeskunde <br>
