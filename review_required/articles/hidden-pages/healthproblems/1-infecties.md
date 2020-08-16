@@ -27,7 +27,7 @@ _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over
 
 **Deel 2: Ivan Chai** <br>
 * Wat is Ivan Chai?
-* Onderzoek EMA
+* Bevindingen EMA
 * Bereidingswijze Ivan Chai
 * Welke dosering en behandelingskuur raden jullie aan?
 * Is het effect van Ivan Chai direct voelbaar?
@@ -73,8 +73,8 @@ Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. Onderzoek 
 ### Wat is Ivan Chai?
 Ivan Chai is een Siberische kruidenthee. En wordt gemaakt van het Wilgenroosje. Het Wilgenroosje groeit in de wildernis van Siberië. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
 
-### Onderzoek EMA
-De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. Uit onderzoek is het volgende gebleken: 
+### Bevindingen EMA
+De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
 > Het zijn de antioxidanten – quercetine en Oenotheïne B –  die een geneeskrachtige werking hebben op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C. Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking. 
