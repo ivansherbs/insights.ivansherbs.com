@@ -11,7 +11,7 @@ _Dit artikel legt je uit waarom je Ivan Chai op eenvoudige wijze kunt gebruiken 
  
 > **Bewezen effectiviteit Ivan Chai** <br> De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
-Het eerste deel van het artikel zullen we ingaan op infecties. En welke farmaceutische medicijnen de groei versterken. Het tweede deel van het artikel zullen we de Siberische kruidenthee Ivan Chai onder de loep nemen. 
+Het eerste deel van het artikel zullen we ingaan op infecties. En de invloed van farmaceutische medicijnen. Het tweede deel van het artikel zullen we de Siberische kruidenthee Ivan Chai onder de loep nemen. 
 
 _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties inclusief een eenvoudige natuurlijke behandeling._
 
@@ -20,7 +20,7 @@ _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over
 **Deel 1: Infecties**
 * Wat is een infectie?
 * Waardoor krijg je een infectie?
-* Welke medicijnen versterken de groei?
+* Welke medicijnen zijn van invloed op infecties?
 * Welk effect heeft het gebruik van medicijnen op infecties?
 * Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
 * Waardoor vergroot ik de kans op een infectie?
@@ -46,7 +46,7 @@ Een infectie kun je oplopen via schimmels, gist of bacteriën.
 Zo heeft iedereen last van schimmels. Een infectie kun je bijvoorbeeld krijgen door een overtollige hoeveelheid aan schimmels. Jammer genoeg, groeien deze schimmels op plekken waar ze het lichaam kunnen beschadigen. Naast schimmels worden er ook gist en ongewenste bacteriën - veelal in kleine getalen - bij mensen aangetroffen. Dus ook op jouw lichaam. 
 Eén van de oorzaken die juist zorgen voor een overtollige hoeveelheid aan micro-organisme, is het gebruik van farmaceutische medicijnen. Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je immuunsysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Wat uiteindelijk kan leiden tot een infectie. 
 
-### Welke medicijnen versterken de groei?
+### Welke medicijnen zijn van invloed op infecties?
 Laten we ons richten op veelgebruikte medicijnen. Denk aan antibiotica, anticonceptiepil en maagzuurremmers. Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
 ### Welk effect heeft het gebruik van medicijnen op infecties?
