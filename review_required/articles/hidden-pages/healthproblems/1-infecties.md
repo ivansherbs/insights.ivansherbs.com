@@ -53,7 +53,7 @@ Laten we ons richten op veelgebruikte medicijnen. Denk aan antibiotica, anticonc
 ### Welk effect heeft het gebruik van medicijnen op infecties?
 Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan echter zijn dat door gebruik – van het medicijn - jouw weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. 
 
-We gebruiken de werking van antibiotica als voorbeeld. De werking van antibiotica op jouw lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Hierdoor krijgen schimmels, gist en ongewenste bacteriën de kans om te groeien. Met infecties tot gevolg. 
+> We gebruiken de werking van antibiotica als voorbeeld. De werking van antibiotica op jouw lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Hierdoor krijgen schimmels, gist en ongewenste bacteriën de kans om te groeien. Met infecties tot gevolg. 
 
 ### Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
 Ja. Het ligt niet alleen aan farmaceutische medicijnen. Hieronder enkele voorbeelden:
