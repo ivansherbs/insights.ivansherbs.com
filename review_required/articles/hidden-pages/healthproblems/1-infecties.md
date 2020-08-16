@@ -44,13 +44,16 @@ Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen h
 ### Waardoor krijg je een infectie?
 Een infectie kun je oplopen via schimmels, gist of bacteriën. 
 Zo heeft iedereen last van schimmels. Een infectie kun je bijvoorbeeld krijgen door een overtollige hoeveelheid aan schimmels. Jammer genoeg, groeien deze schimmels op plekken waar ze het lichaam kunnen beschadigen. Naast schimmels worden er ook gist en ongewenste bacteriën - veelal in kleine getalen - bij mensen aangetroffen. Dus ook op jouw lichaam. 
+
 Eén van de oorzaken die juist zorgen voor een overtollige hoeveelheid aan micro-organisme, is het gebruik van farmaceutische medicijnen. Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je immuunsysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Wat uiteindelijk kan leiden tot een infectie. 
 
 ### Welke medicijnen zijn van invloed op infecties?
 Laten we ons richten op veelgebruikte medicijnen. Denk aan antibiotica, anticonceptiepil en maagzuurremmers. Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
 ### Welk effect heeft het gebruik van medicijnen op infecties?
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan echter zijn dat door gebruik – van het medicijn - jouw weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. We gebruiken de werking van antibiotica als voorbeeld. De werking van antibiotica op jouw lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Hierdoor krijgen schimmels, gist en ongewenste bacteriën de kans om te groeien. Met infecties tot gevolg. 
+Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan echter zijn dat door gebruik – van het medicijn - jouw weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. 
+
+We gebruiken de werking van antibiotica als voorbeeld. De werking van antibiotica op jouw lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Hierdoor krijgen schimmels, gist en ongewenste bacteriën de kans om te groeien. Met infecties tot gevolg. 
 
 ### Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
 Ja. Het ligt niet alleen aan farmaceutische medicijnen. Hieronder enkele voorbeelden:
