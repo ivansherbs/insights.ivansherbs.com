@@ -1,13 +1,15 @@
-# Siberische kruidenthee als medicijn
+---
+layout: article.html
+title: Siberische kruidenthee als medicijn
+---
+
+Door **Ivan’s Insights** | Kruidengeneeskunde <br>
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
-**Artikel |** Kruidengeneeskunde - leestijd: 3 min <br>
 _Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De 7 gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen._
- 
-Door **Ivan’s Insights**
 
-Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of gezondheidsproblemen te verzorgen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische medicijnen. Van alle goedgekeurde farmaceutische medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel; negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
+> Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of gezondheidsproblemen te verzorgen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische medicijnen. Van alle goedgekeurde farmaceutische medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel; negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
 
 Het European Medicines Agency (EMA) onderschrijft de geneeskrachtige werking te vinden in kruiden. Veel ziekten en gezondheidsproblemen zijn geëvalueerd door het Europese equivalent van de Amerikaanse Federal Drug Administration (FDA). Dit onafhankelijke instituut huisvest de 'Committee on Herbal Medicinal Products' (CHMP) wat zich volledig toewijdt aan het verzamelen en beoordelen van wetenschappelijke gegevens over kruiden; waarbij de ontwikkeling, evaluatie en veiligheid van kruiden met gezondheidsvoordelen en zonder negatieve bijwerkingen voor het menselijk lichaam centraal staat. Er wordt klinisch dan wel niet-klinisch bewijs geboden om aan te tonen hoe de actieve stoffen in kruiden de kans op ziekten verminderen en gezondheidsproblemen verzorgen.
 
