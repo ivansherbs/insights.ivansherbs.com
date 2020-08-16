@@ -76,7 +76,9 @@ Ivan Chai is een Siberische kruidenthee. En wordt gemaakt van het Wilgenroosje. 
 ### Onderzoek EMA
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. Uit onderzoek is het volgende gebleken: 
 > Het zijn de antioxidanten – quercetine en Oenotheïne B –  die een geneeskrachtige werking hebben op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C. Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
+
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking. 
+
 > In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten alras een krachtig effect op het menselijk lichaam.
 
 Overigens, werkt Ivan Chai niet alleen als preventieve of ter behandeling tegen infecties. Onderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen. 
