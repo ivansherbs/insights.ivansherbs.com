@@ -9,7 +9,7 @@ Door **Ivan’s Insights** | Kruidengeneeskunde
 
 _In de moderne samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken. Dit met name door de vele bijwerkingen die kunnen optreden. De vraag naar natuurlijke behandelingen - in combinatie met een schoner productieproces - neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dienen natuurlijke behandelingen beter te worden geïntroduceerd om ook preventief te kunnen worden gebruikt._
 
-> _“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige natuurlijke behandelingen die de kans op ziekten verkleinen en gezondheidsproblemen verzorgen.”_ Denk hierbij aan de Siberische kruidenthee Ivan Chai. 
+> _“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige natuurlijke behandelingen die de kans op ziekten verkleinen en gezondheidsproblemen verzorgen.”_ Denk hierbij aan de Siberische kruidenthee Ivan Chai, wat kan worden gebruikt als preventieve of ter behandeling van gezondheidsproblemen. 
 
 ### Community building 
 Een gesprek tussen twee specialisten uit verschillende disciplines vindt plaats. Wat typerend is voor deze vakgebieden is dat community building - in de vorm van verschillende lokale samenwerkingsverbanden omgangsvormen dan wel denkwijze - centraal staat. De vraag naar kennis om het publiek beter te informeren over het gebruik van traditionele kruidenkunde komt vanuit de kant van de moderne geneeskunde. 
