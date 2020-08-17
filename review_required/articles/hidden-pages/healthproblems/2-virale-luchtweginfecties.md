@@ -56,10 +56,10 @@ Er zijn verschillende oorzaken die de kans vergroten. Eén van die oorzaken is h
 Deze medicijnen kunnen van grote invloed zijn op je gevoeligheid voor verkoudheid en griep. 
 
 ### Welk effect heeft het gebruik van medicijnen op virale luchtweginfecties?
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen.
+Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. Laten we dit effect duidelijk maken met een voorbeeld met farmaceutische medicijnen. 
 
-> We gebruiken de werking van antibiotica als voorbeeld. 
-Je hebt in dit voorbeeld last van je darmen. En gebruikt hiervoor antibiotica. De werking van antibiotica op je lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Je lichaam wordt nóg zwakker. Hierdoor krijgen ongewenste bacteriën de kans om aan te vallen. Waardoor je de kans vergroot een virale luchtweginfectie op te lopen. Wanneer de griep vervolgens toeslaat wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden. De symptomen worden hierbij onderdrukt. En het lichaam blijft kwetsbaar voor gezondheidsproblemen. 
+Voorbeeld met farmaceutische medicijnen:
+> Je hebt last van je darmen. En gebruikt hiervoor antibiotica. De werking van antibiotica op je lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Je lichaam wordt nóg zwakker. Hierdoor krijgen ongewenste bacteriën de kans om aan te vallen. Waardoor je de kans vergroot een virale luchtweginfectie op te lopen. Wanneer de griep vervolgens toeslaat - wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden. De symptomen worden hierbij onderdrukt. En het lichaam blijft kwetsbaar voor gezondheidsproblemen. 
 
 ### Waardoor vergroot ik de kans op een virale luchtweginfectie?
 Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Enkele voorbeelden:
