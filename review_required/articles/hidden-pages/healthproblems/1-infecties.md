@@ -28,6 +28,7 @@ _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over
 
 **Deel 2: Ivan Chai** <br>
 * Wat is Ivan Chai?
+* De oorsprong van Ivan Chai
 * Bevindingen EMA
 * Bereidingswijze Ivan Chai
 * Welke dosering en behandelingskuur raden jullie aan?
