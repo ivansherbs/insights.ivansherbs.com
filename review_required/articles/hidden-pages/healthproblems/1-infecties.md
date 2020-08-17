@@ -74,7 +74,9 @@ Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. Onderzoek 
 # Deel 2: Ivan Chai 
 
 ### Wat is Ivan Chai?
-Ivan Chai is een Siberische kruidenthee. En wordt gemaakt van het Wilgenroosje. Het Wilgenroosje groeit in de wildernis van Siberië. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
+> Ivan Chai is een Siberische kruidenthee. En wordt gemaakt van het Wilgenroosje. Het Wilgenroosje groeit in de wildernis van Siberië. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
+
+Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden. Deze kruiden groeien niet alleen in Siberië. Het groeit op meerdere plekken in de wereld. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden. In het Engels staat het Wilgenroosje bekend als Fireweed. Dit komt vanwege het vermogen van deze kruiden om – na bosbranden – snel verbrande gebieden te koloniseren.
 
 ### Bevindingen EMA
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
