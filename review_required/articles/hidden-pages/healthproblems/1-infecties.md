@@ -9,7 +9,8 @@ Door **Ivan’s Insights** | Infecties <br>
 
 _Dit artikel legt je uit waarom je Ivan Chai op eenvoudige wijze kunt gebruiken tegen infecties. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Gebruik het als preventieve of ter behandeling tegen infecties._
  
-> **Bewezen effectiviteit: Versterkt de weerstand** <br> De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
+**Bewezen effectiviteit: Versterkt de weerstand**
+> De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
 Het eerste deel van het artikel zullen we ingaan op infecties. En de invloed van farmaceutische medicijnen. Het tweede deel van het artikel zullen we de Siberische kruidenthee Ivan Chai onder de loep nemen. 
 
@@ -74,9 +75,10 @@ Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. Onderzoek 
 # Deel 2: Ivan Chai 
 
 ### Wat is Ivan Chai?
-> Ivan Chai is een Siberische kruidenthee. En wordt gemaakt van het Wilgenroosje. Het Wilgenroosje groeit in de wildernis van Siberië. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
+> Ivan Chai is een Siberische kruidenthee. En wordt gemaakt van het Wilgenroosje. Het Wilgenroosje groeit in de wildernis van Siberië. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
 
-Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden. Deze kruiden groeien niet alleen in Siberië. Het groeit op meerdere plekken in de wereld. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden. In het Engels staat het Wilgenroosje bekend als Fireweed. Dit komt vanwege het vermogen van deze kruiden om – na bosbranden – snel verbrande gebieden te koloniseren.
+### De oorsprong van Ivan Chai
+Deze geneeskrachtige kruiden groeien in Siberië. En op meerdere plekken in de wereld. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden. In het Engels staat het Wilgenroosje bekend als Fireweed. Dit komt vanwege het vermogen van deze kruiden om – na bosbranden – snel verbrande gebieden te koloniseren.
 
 ### Bevindingen EMA
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
