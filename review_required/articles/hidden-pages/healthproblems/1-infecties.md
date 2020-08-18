@@ -5,7 +5,7 @@ title: Infecties: Wil jij infecties voorkomen of behandelen?
 
 Door **Ivan’s Insights** | Infecties <br>
 
-_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties inclusief een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Gebruik het als preventieve of ter behandeling tegen infecties._
+_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties - inclusief een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Gebruik het als preventieve of ter behandeling tegen infecties._
  
 ### Bewezen effectiviteit: 
 > Ivan Chai - Versterkt de weerstand
