@@ -29,11 +29,16 @@ Het tweede deel van het artikel zullen we de Siberische kruidenthee Ivan Chai on
 **Deel 2: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
   - Bevindingen
-* Bereidingswijze 
+* Bereidingswijze
+  - Smaakbeleving
+  - Intensiteit
 * Welke dosering en behandelingskuur raden jullie aan?
 * Is het effect van Ivan Chai direct voelbaar?
 * Welke voorzorgsmaatregelen kan ik nemen?
 * Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
+  - Contra-indicaties en waarschuwingen
+  - Zwangerschap, borstvoeding & vruchtbaarheid
+  - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
 
 # Deel 1: Infecties 
@@ -84,9 +89,10 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 
 Goed. We hebben zojuist het onderwerp infectie belicht in combinatie met farmaceutische medicijnen. Welke medicijnen een versterkend effect veroorzaken. En wat overige risicofactoren. 
 
-Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. Onderzoek heeft aangetoond dat Ivan Chai de groei van schimmels, gist en ongewenste bacteriën verhinderd. 
+Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. 
 
 # Deel 2: Ivan Chai 
+Verzorg dagelijks lichaam en geest met kruiden uit Siberië.
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
@@ -95,7 +101,7 @@ Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’
 
 Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden. In het Engels staat het Wilgenroosje bekend als Fireweed. Dit komt vanwege het vermogen van deze kruiden om – na bosbranden – snel verbrande gebieden te koloniseren.
 
-**Bevindingen**
+**Bevindingen** <br>
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
 > Het zijn de antioxidanten – quercetine en Oenotheïne B –  die een geneeskrachtige werking hebben op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C. Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
 
@@ -103,7 +109,7 @@ Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wor
 
 > In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten alras een krachtig effect op het menselijk lichaam.
 
-Overigens, werkt Ivan Chai niet alleen als preventieve of ter behandeling tegen infecties. Onderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen. 
+Onderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen. 
 
 Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is? 
 
@@ -117,7 +123,7 @@ De smaakbeleving is als volgt te omschrijven:
 **Smaakbeleving** <br>
 "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
  
-**Intensiteit:** <br>
+**Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
 ### Welke dosering en behandelingskuur raden jullie aan?
@@ -127,16 +133,22 @@ Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
 Goed om te weten! Deze therapeutische dosering van Ivan Chai wordt aangeraden door het European Medicines Agency (EMA).
 
 ### Is het effect van Ivan Chai direct voelbaar?
-In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar. Wanneer jouw klachten zijn verholpen, kun je stoppen met het gebruik van Ivan Chai. Wij raden het echter aan de kuur – als preventieve behandeling – met regelmaat te herhalen.
+In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar. 
+
+Wanneer jouw klachten zijn verholpen, kun je stoppen met het gebruik van Ivan Chai. Wij raden het echter aan de kuur – als preventieve behandeling – met regelmaat te herhalen.
 
 ### Welke voorzorgsmaatregelen kan ik nemen?  
-Veel combinaties - van natuurlijke behandelingen met farmaceutische medicijnen - zijn tot op heden niet geprobeerd of getest. Wij adviseren het een Vitaliteits- en Gezondheidsdeskundige te raadplegen, voorafgaand aan een behandeling met Ivan Chai in combinatie met farmaceutische medicijnen. Hiernaast raden wij het aan eigen onderzoek te doen om bijwerkingen te voorkomen.
+Veel combinaties - van natuurlijke behandelingen met farmaceutische medicijnen - zijn tot op heden niet geprobeerd of getest. 
+
+Wij adviseren het een Vitaliteits- en Gezondheidsdeskundige te raadplegen, voorafgaand aan een behandeling met Ivan Chai in combinatie met farmaceutische medicijnen. 
+
+Hiernaast raden wij het aan eigen onderzoek te doen om bijwerkingen te voorkomen.
  
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld: 
 > Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
  
-**Let op!**
+**Let op!** <br>
 Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst af.
  
 Tot op vandaag zijn de volgende symptomen **niet** bij ons bekend:
@@ -165,4 +177,5 @@ Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelhede
 Ivan Chai heeft geen bijwerkingen die duizeligheid kan veroorzaken. En daarmee de rijvaardigheid kan beïnvloeden.
  
 ### Hoe bewaar je Ivan Chai?
-Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar. Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
+Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar. <br> 
+Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
