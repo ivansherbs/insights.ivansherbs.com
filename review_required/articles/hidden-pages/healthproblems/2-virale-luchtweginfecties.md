@@ -69,11 +69,7 @@ Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
 ### Welk effect heeft het gebruik van medicijnen op luchtweginfecties?
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. Laten we dit duidelijk maken met een voorbeeld. 
-
-Voorbeeld met farmaceutische medicijnen:
-> Je gebruikt antibiotica om een gezondheidsprobleem te verzorgen. De werking van antibiotica op je lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Je weerstand wordt zwakker. 
-> Hierdoor krijgen ongewenste bacteriën de kans om aan te vallen. Waardoor de kans is vergroot een luchtweginfectie op te lopen. Wanneer de griep vervolgens toeslaat - wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden. De symptomen worden hierbij onderdrukt. En het lichaam blijft kwetsbaar voor gezondheidsproblemen. 
+Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt verzorgd. Het kan zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. 
 
 ### Waardoor vergroot ik de kans op een luchtweginfectie?
 Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Enkele voorbeelden:
