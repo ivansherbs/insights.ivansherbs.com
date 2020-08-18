@@ -8,7 +8,6 @@ Door **Ivan’s Insights** | Siberische kruidenthee <br>
 Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De 7 gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. 
 
 # Ivan Chai:
-> <br>
 > 1 - Versterkt de weerstand <br>
 > 2 - Krachtige ontstekingsremmer <br>
 > 3 - Versterkt de antioxiderede werking <br>
