@@ -37,7 +37,7 @@ Het tweede deel van het artikel zullen we de Siberische kruidenthee Ivan Chai on
 * Welke voorzorgsmaatregelen kan ik nemen?
 * Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
   - Contra-indicaties en waarschuwingen
-  - Zwangerschap, borstvoeding & vruchtbaarheid
+  - Zwangerschap, borstvoeding en vruchtbaarheid
   - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
 
@@ -163,7 +163,7 @@ Tot op vandaag zijn de volgende symptomen **niet** bij ons bekend:
 **Contra-indicaties en waarschuwingen** <br>
 Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen. En is veilig voor kinderen.
  
-**Zwangerschap, borstvoeding & vruchtbaarheid** <br>
+**Zwangerschap, borstvoeding en vruchtbaarheid** <br>
 * Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
  
