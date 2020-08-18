@@ -83,9 +83,10 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Enke
 
 Goed. We hebben zojuist het onderwerp luchtweginfecties belicht in combinatie met farmaceutische medicijnen. Het effect van farmaceutische medicijnen. En wat overige risicofactoren.
 
-Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. Onderzoek heeft aangetoond dat Ivan Chai de kans op luchtweginfecties vermindert.
+Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. 
 
 # Deel 2: Ivan Chai
+Verzorg dagelijks lichaam en geest met kruiden uit Siberië.
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
@@ -102,7 +103,7 @@ Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wor
 
 > In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten alras een krachtig effect op het menselijk lichaam.
 
-Overigens, werkt Ivan Chai luchtweginfecties. Onderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen.
+OOnderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen.
 
 Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is?
 
