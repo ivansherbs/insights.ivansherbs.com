@@ -5,10 +5,10 @@ title: Infecties: Wil jij infecties voorkomen of behandelen?
 
 Door **Ivan’s Insights** | Infecties: Schimmels - Gist - Bacterieel
 
-_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties - inclusief eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. Gebruik het als preventieve of ter behandeling tegen infecties._
+_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen._
  
 ### Bewezen effectiviteit: 
-> Ivan Chai - Versterkt de weerstand:
+> Ivan Chai - Versterkt de weerstand
 >
 > De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
