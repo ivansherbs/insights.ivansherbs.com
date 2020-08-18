@@ -69,11 +69,7 @@ Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
 ### Welk effect heeft het gebruik van medicijnen op infecties?
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan echter zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. Laten we dit duidelijk maken met een voorbeeld.
-
-Voorbeeld met farmaceutische medicijnen:
-> Je gebruikt antibiotica om een gezondheidsprobleem te verzorgen. De werking van antibiotica op je lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Je weerstand wordt zwakker. 
-> Hierdoor krijgen de aanwezige schimmels, gist en bacteriën de kans om te groeien. Waardoor de kans is vergroot een infectie op te lopen.
+Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt verzorgd. Het kan echter zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. 
 
 ### Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
 Ja. Het ligt niet alleen aan farmaceutische medicijnen. Hieronder enkele voorbeelden:
