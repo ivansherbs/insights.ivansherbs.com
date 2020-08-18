@@ -20,9 +20,9 @@ _De 7 gezondheidsvoordelen van Ivan Chai zijn gebaseerd op hedendaagse artikelen
 
 ### Inhoud van het artikel
 
-**Deel 1: De 7 gezondheidsvoordelen**
-**Deel 2: 17 gezondheidsproblemen**
-**Deel 3: Smaakbeleving**
+**Deel 1: De 7 gezondheidsvoordelen** <br>
+**Deel 2: 17 gezondheidsproblemen** <br>
+**Deel 3: Smaakbeleving** <br>
 **Deel 4: Onze conclusie**
 
 # Deel 1: De 7 gezondheidsvoordelen
@@ -31,7 +31,9 @@ Gebruik Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te
 
 ### 1. Ivan Chai versterkt de weerstand:
 
-De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
+De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd. V
+anwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. 
+Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
 
 ### 2. Ivan Chai werkt als een krachtige ontstekingsremmer:
 
@@ -73,37 +75,37 @@ Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tege
 Voor meer informatie - klik op het gezondheidsprobleem. 
 
 **Versterkt de weerstand**
-1. Infecties
-  - schimmels, gist, bacterieel
-2. Luchtweginfecties
-  - verkoudheid en griep
-3. Zwak immuunsysteem
+1. Infecties <br>
+  - schimmels, gist, bacterieel <br>
+2. Luchtweginfecties <br>
+  - verkoudheid en griep <br>
+3. Zwak immuunsysteem <br>
 
-**Krachtige ontstekingsremmer**
-4. Menstruatiepijn
-5. Keelontsteking
-6. Peesontsteking
-7. Slijmbeursontsteking
+**Krachtige ontstekingsremmer** <br>
+4. Menstruatiepijn <br>
+5. Keelontsteking <br>
+6. Peesontsteking <br>
+7. Slijmbeursontsteking <br>
 
-**Versterkt de antioxiderede werking**
-8. Hart- en vaatziekten
+**Versterkt de antioxiderede werking** <br>
+8. Hart- en vaatziekten <br>
 
-**Verbetert de slaap**
+**Verbetert de slaap** <br>
 9. Slaapproblemen
 
-**Vermindert de kans op stress, angst en burnout klachten**
-10. Stress
-11. Angst
-12. Burnout klachten
+**Vermindert de kans op stress, angst en burnout klachten** <br>
+10. Stress <br>
+11. Angst <br>
+12. Burnout klachten <br>
 
-**Verzorgt de gezondheid van de prostaat en urinewegen**
-13. Prostaatontsteking
-14. Vergrote prostaat 
-15. Prostaatkanker
-16. Urineweginfectie
+**Verzorgt de gezondheid van de prostaat en urinewegen** <br>
+13. Prostaatontsteking <br>
+14. Vergrote prostaat <br>
+15. Prostaatkanker <br>
+16. Urineweginfectie <br>
 
-**Verzorgt het spijsverteringsstelsel**
-17. Buikgriep
+**Verzorgt het spijsverteringsstelsel** <br>
+17. Buikgriep <br>
 
 ### Smaakbeleving
 
