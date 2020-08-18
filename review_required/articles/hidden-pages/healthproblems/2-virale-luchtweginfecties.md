@@ -171,5 +171,6 @@ Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelhede
 Ivan Chai heeft geen bijwerkingen die duizeligheid kan veroorzaken. En daarmee de rijvaardigheid kan beïnvloeden.
  
 ### Hoe bewaar je Ivan Chai?
-Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar. <br>
+Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
+
 Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden. Gezien de natuurlijke aard kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
