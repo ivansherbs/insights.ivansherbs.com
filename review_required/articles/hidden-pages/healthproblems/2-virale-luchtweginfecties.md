@@ -5,10 +5,10 @@ title: Luchtweginfecties: Hoe voorkom je op eenvoudige wijze verkoudheid of grie
 
 Door **Ivan’s Insights** | Luchtweginfecties <br>
 
-_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties - inclusief eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. Gebruik het als preventieve of ter behandeling tegen luchtweginfecties._
+_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen._
  
-### Bewezen effectiviteit: 
-> Ivan Chai - Versterkt de weerstand: 
+### Bewezen effectiviteit:
+> Ivan Chai - Versterkt de weerstand
 >
 > De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op luchtweginfecties vele malen verminderd.
 
