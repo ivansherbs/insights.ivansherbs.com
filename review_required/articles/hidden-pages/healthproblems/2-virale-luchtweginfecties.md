@@ -5,7 +5,7 @@ title: Virale luchtweginfecties: Hoe voorkom je op eenvoudige wijze verkoudheid 
 
 Door **Ivan’s Insights** | virale luchtweginfecties <br>
 
-_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over virale luchtweginfecties inclusief een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Gebruik het als preventieve of ter behandeling tegen virale luchtweginfecties._
+_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over virale luchtweginfecties - inclusief een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Gebruik het als preventieve of ter behandeling tegen virale luchtweginfecties._
  
 ### Bewezen effectiviteit: 
 > Ivan Chai - Versterkt de weerstand
