@@ -9,7 +9,9 @@ Door **Ivan’s Insights** | virale luchtweginfecties <br>
 
 _Dit artikel legt je uit waarom je Ivan Chai op eenvoudige wijze kunt gebruiken tegen virale luchtweginfecties. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Gebruik het als preventieve of ter behandeling tegen virale luchtweginfecties._
  
-### Bewezen effectiviteit: Versterkt de weerstand
+### Bewezen effectiviteit: 
+> Ivan Chai - Versterkt de weerstand
+
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op virale luchtweginfecties vele malen verminderd.
 
 Het eerste deel van het artikel zullen we ingaan op virale luchtweginfecties. En de invloed van farmaceutische medicijnen. Het tweede deel van het artikel zullen we de Siberische kruidenthee Ivan Chai onder de loep nemen.
@@ -56,10 +58,10 @@ Er zijn verschillende oorzaken die de kans vergroten. Eén van die oorzaken is h
 Deze medicijnen kunnen van grote invloed zijn op je gevoeligheid voor verkoudheid en griep. 
 
 ### Welk effect heeft het gebruik van medicijnen op virale luchtweginfecties?
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. Laten we dit effect duidelijk maken met een voorbeeld met farmaceutische medicijnen. 
+Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem waar je op dat moment aan lijdt bestreden. Het kan zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen. Laten we dit effect duidelijk maken met een voorbeeld. 
 
 Voorbeeld met farmaceutische medicijnen:
-> Je hebt last van je darmen. En gebruikt hiervoor antibiotica. De werking van antibiotica op je lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Je lichaam wordt nóg zwakker. Hierdoor krijgen ongewenste bacteriën de kans om aan te vallen. Waardoor je de kans vergroot een virale luchtweginfectie op te lopen. Wanneer de griep vervolgens toeslaat - wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden. De symptomen worden hierbij onderdrukt. En het lichaam blijft kwetsbaar voor gezondheidsproblemen. 
+> Je gebruikt antibiotica om een gezondheidsprobleem te verzorgen. De werking van antibiotica op je lichaam zorgt ervoor dat dit medicijn niet alleen de ongewenste bacteriën dood. Het valt hierbij ook goede bacteriën aan! Je weerstand wordt zwakker. Hierdoor krijgen ongewenste bacteriën de kans om aan te vallen. Waardoor de kans is vergroot een virale luchtweginfectie op te lopen. Wanneer de griep vervolgens toeslaat - wordt het aanbevolen om bijvoorbeeld paracetamol te nemen om de symptomen te bestrijden. De symptomen worden hierbij onderdrukt. En het lichaam blijft kwetsbaar voor gezondheidsproblemen. 
 
 ### Waardoor vergroot ik de kans op een virale luchtweginfectie?
 Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Enkele voorbeelden:
