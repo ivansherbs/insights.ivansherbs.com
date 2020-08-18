@@ -20,10 +20,10 @@ _De 7 gezondheidsvoordelen van Ivan Chai zijn gebaseerd op hedendaagse artikelen
 
 ### Inhoud van het artikel
 
-**Deel 1: De 7 gezondheidsvoordelen** <br>
-**Deel 2: 17 gezondheidsproblemen** <br>
-**Deel 3: Smaakbeleving** <br>
-**Deel 4: Onze conclusie**
+Deel 1: De 7 gezondheidsvoordelen <br>
+Deel 2: 17 gezondheidsproblemen <br>
+Deel 3: Smaakbeleving <br>
+Deel 4: Onze conclusie
 
 # Deel 1: De 7 gezondheidsvoordelen
 
@@ -75,10 +75,8 @@ Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tege
 Voor meer informatie - klik op het gezondheidsprobleem. 
 
 **Versterkt de weerstand**
-1. Infecties <br>
-  - schimmels, gist, bacterieel <br>
-2. Luchtweginfecties <br>
-  - verkoudheid en griep <br>
+1. Infecties - schimmels, gist, bacterieel<br>  
+2. Luchtweginfecties - verkoudheid en griep <br>
 3. Zwak immuunsysteem <br>
 
 **Krachtige ontstekingsremmer** <br>
