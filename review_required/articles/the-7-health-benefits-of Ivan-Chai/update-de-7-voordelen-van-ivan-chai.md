@@ -1,11 +1,11 @@
 ---
 layout: article.html
-title: De 7 gezondheidsvoordelen van Ivan Chai
+title: De 7 voordelen van Ivan Chai
 ---
 
 Door **Ivan’s Insights** | Siberische kruidenthee <br>
 
-Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De 7 gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. 
+Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. 
 
 # Ivan Chai:
 > 1 - Versterkt de weerstand <br>
@@ -16,18 +16,18 @@ Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medici
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-_De 7 gezondheidsvoordelen van Ivan Chai zijn gebaseerd op hedendaagse artikelen. Waarvan de werking - wetenschappelijk - is geëvalueerd door het 'European Medicines Agency' (EMA)._
+_De 7 voordelen van Ivan Chai zijn gebaseerd op hedendaagse artikelen. Waarvan de werking - wetenschappelijk - is geëvalueerd door het 'European Medicines Agency' (EMA)._
 
 ### Inhoud van het artikel
 
-Deel 1: De 7 gezondheidsvoordelen <br>
-Deel 2: 17 gezondheidsproblemen <br>
+Deel 1: 7 voordelen<br>
+Deel 2: 17 problemen <br>
 Deel 3: Smaakbeleving <br>
 Deel 4: Onze conclusie
 
-# Deel 1: De 7 gezondheidsvoordelen
+# Deel 1: 7 Voordelen
 
-Gebruik Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen, ter ontspanning of als levenselixer.
+Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 ### 1. Ivan Chai versterkt de weerstand:
 
@@ -39,7 +39,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 
 Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectief bij het voorkomen en onderdrukken van je ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal men snel overstappen op farmaceutische medicijnen. 
 
-Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg waarmee vaak symptomen worden bestrijdt in plaats van de oorzaak. De oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel gezondheidsproblemen te verhelpen, zoals menstruatiepijn, keel-, pees- en slijmbeursontstekingen.
+Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg waarmee vaak symptomen worden bestrijdt in plaats van de oorzaak. De oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals menstruatiepijn, keel-, pees- en slijmbeursontstekingen.
 
 ### 3. Ivan Chai versterkt de antioxiderede werking:
 
@@ -63,14 +63,14 @@ Ivan Chai versterkt de anti-tumoractiviteit. Tot op heden (2019) zijn drie onder
 
 Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door het drinken van Ivan Chai. Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in hun dieet ondergaan. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai.
 
-# Deel 2: 17 Gezondheidsproblemen
+# Deel 2: 17 Problemen
 
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië** <br> 
 Het lichaam is een intelligent systeem in staat tot zelfregulatie en genezing. Waarbij hulp van buiten - in de vorm van kruiden - mag worden omarmt. 
 
 De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen.
 
-Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen. 
+Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen 17 problemen. 
 
 Voor meer informatie - klik op het gezondheidsprobleem. 
 
