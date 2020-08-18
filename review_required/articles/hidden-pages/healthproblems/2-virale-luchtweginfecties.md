@@ -24,7 +24,7 @@ _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over
 * Wat is een virale luchtweginfectie?
 * Wanneer krijg je last van een virale luchtweginfectie?
 * Wat vergroot de kans op een virale luchtweginfecties?
-* Welke medicijnen zijn van invloed op infecties?
+* Welke medicijnen zijn van invloed op virale luchtweginfecties?
 * Welk effect heeft het gebruik van medicijnen op virale luchtweginfecties?
 * Waardoor vergroot ik de kans op een virale luchtweginfectie?
 
@@ -58,7 +58,7 @@ Er zijn verschillende oorzaken die de kans vergroten. Eén van die oorzaken is h
 
 Deze medicijnen kunnen van grote invloed zijn op je gevoeligheid voor verkoudheid en griep. 
 
-### Welke medicijnen zijn van invloed op infecties?
+### Welke medicijnen zijn van invloed op virale luchtweginfecties?
 Laten we ons richten op veelgebruikte medicijnen. Denk aan antibiotica, anticonceptiepil en maagzuurremmers. Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
 ### Welk effect heeft het gebruik van medicijnen op virale luchtweginfecties?
