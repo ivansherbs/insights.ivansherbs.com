@@ -11,7 +11,7 @@ Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medici
 > 1 - Versterkt de weerstand <br>
 > 2 - Krachtige ontstekingsremmer <br>
 > 3 - Versterkt de antioxiderede werking <br>
-> 4 - Verbetert de slaap <br>
+> 4 - Verbetert de nachtrust <br>
 > 5 - Vermindert de kans op stress, angst en burnout klachten <br>
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
@@ -54,7 +54,7 @@ Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werki
 
 > Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
-### 4. Ivan Chai verbetert de slaap:
+### 4. Ivan Chai verbetert de nachtrust:
 Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. De medische wereld doet diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
 
 > Het is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. 
@@ -119,7 +119,7 @@ Voor meer informatie - klik op het gezondheidsprobleem.
 ### Versterkt de antioxiderede werking
 8. Hart- en vaatziekten
 
-**Verbetert de slaap** <br>
+### Verbetert de nachtrust
 9. Slaapproblemen
 
 ### Vermindert de kans op stress, angst en burnout klachten
