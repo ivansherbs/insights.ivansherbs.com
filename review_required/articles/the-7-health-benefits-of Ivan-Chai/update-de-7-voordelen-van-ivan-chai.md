@@ -181,7 +181,7 @@ De smaak kun je als volgt omschrijven:
 # Onze conclusie  
 
 _De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. <br> 
-We dwingen je daarom niet om alle gezondheidsproblemen aan te pakken - **kies je gevechten**._
+We dwingen je daarom niet om alle problemen aan te pakken - **kies je gevechten**._
 
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke behandelingen die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen. 
 
