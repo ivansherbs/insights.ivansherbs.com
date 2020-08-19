@@ -28,7 +28,7 @@ Deze opsomming bestaat uit 17 problemen waar je Ivan Chai - als preventieve of t
 
 Vervolgens geven we je een korte omschrijving van de smaakbeleving - uiteraard volgens onze thee experts. 
 
-Tot slot, geven we je onze conclusie. 
+Tot slot, onze conclusie. 
 
 ### Deel 1:
 # 7 Voordelen
@@ -66,15 +66,18 @@ Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werki
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
 ### 4. Ivan Chai verbetert de nachtrust:
+
 Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. <br> 
 De medische wereld doet diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
 
-Het is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. 
+Bovendien, is het een bekend mild kalmerend middel in de traditionele volksgeneeskunde. 
 
 ### 5. Ivan Chai vermindert de kans op stress, angst en burnout klachten:
-Ivan Chai heeft een kalmerende werking - al eeuwen in gebruikt door in traditionele volksgeneeskunde. 
 
-In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking - van Ivan Chai - vooraf aan een zogenaamde opbouwfase.
+Ivan Chai heeft een kalmerende werking - al eeuwen in gebruikt door de traditionele volksgeneeskunde. <br>
+Hedendaags onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat het - in ieder geval - een kalmerend effect heeft op je centrale zenuwstelsel. 
+
+In tegenstelling tot de meeste farmaceutische medicijnen, gaat de kalmerende werking wél vooraf aan een zogenaamde opbouwfase.
 
 ### 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen:
 
