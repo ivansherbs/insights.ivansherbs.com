@@ -239,7 +239,7 @@ These test are *quite accurate*.
 
 A leading provider of test kits, Monistat, claims they are even used by doctors:
 
-![test for yeast infections at home](/Volumes/GoogleDrive/My Drive/1_Site Development/00_Site_Content/2_Articles/yeast-infection-home-remedies/images/test for yeast infections at home.png)
+![test for yeast infections at home](/images/test-for-yeast-infections-at-home.png)
 
 
 
