@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: De 7 voordelen van Ivan Chai
+title: Ivan Chai: 7 voordelen tegen 17 problemen
 ---
 
 Door **Ivan’s Insights** | Siberische kruidenthee <br>
