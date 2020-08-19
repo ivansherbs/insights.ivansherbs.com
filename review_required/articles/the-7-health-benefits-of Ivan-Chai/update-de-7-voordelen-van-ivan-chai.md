@@ -109,9 +109,9 @@ In het volgende deel kun je de opsomming vinden van 17 problemen.
 ### Deel 2:
 # 17 Problemen
 
-_"Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië." <br> 
-Deze Siberische kruidenthee kan worden gebruikt tegen 17 problemen._
+_"Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië"_
 
+Deze Siberische kruidenthee kan worden gebruikt tegen 17 problemen.
 Voor meer informatie - klik op het probleem. 
 
 ### Versterkt de weerstand
