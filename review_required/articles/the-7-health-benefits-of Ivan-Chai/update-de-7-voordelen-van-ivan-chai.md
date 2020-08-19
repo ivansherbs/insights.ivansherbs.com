@@ -178,9 +178,3 @@ De strekking van het verhaal mag duidelijk zijn. De smaak nog niet. Ivan Chai is
 * _"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."_ 
 
 * _"De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."_
-
-* _"De smaak is zacht, komt overeen met zwarte thee en is lichtzoet..."
-
-* _"...ook schijnt het een favoriet te zijn bij kinderen gezien de lichtzoete smaak van de thee."
-
-
