@@ -33,7 +33,7 @@ Tot slot, geven we je onze conclusie.
 ### Deel 1:
 # 7 Voordelen
 
-Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
+_"Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer."_
 
 ### 1. Ivan Chai versterkt de weerstand:
 
@@ -118,7 +118,8 @@ In het volgende deel kun je de opsomming vinden van 17 problemen.
 ### Deel 2:
 # 17 Problemen
 
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Deze Siberische kruidenthee kan - als preventieve of ter behandeling - worden gebruikt tegen 17 problemen. 
+_"Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië." <br> 
+Deze Siberische kruidenthee kan worden gebruikt tegen 17 problemen._
 
 Voor meer informatie - klik op het probleem. 
 
@@ -172,7 +173,8 @@ bespreken we kort de smaakbeleving - uiteraard ná reviews door thee experts.
 ### Deel 3
 # Smaakbeleving
 
-Ivan Chai is door verschillende thee experts geproefd. De smaak kun je als volgt omschrijven:
+_"Ivan Chai is door verschillende thee experts geproefd."_
+De smaak kun je als volgt omschrijven:
 
 >_"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."_ 
 >
@@ -185,7 +187,8 @@ Ivan Chai is door verschillende thee experts geproefd. De smaak kun je als volgt
 ### Deel 4
 # Onze conclusie  
 
-De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle gezondheidsproblemen aan te pakken - **_kies je gevechten_**.
+_De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. <br> 
+We dwingen je daarom niet om alle gezondheidsproblemen aan te pakken - **kies je gevechten**._
 
 Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke behandelingen die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen. 
 
