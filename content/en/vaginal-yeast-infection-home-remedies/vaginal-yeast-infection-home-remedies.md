@@ -14,14 +14,10 @@ Here's a breakdown of the topics I will cover:
 - [Signs of Yeast Infection](https://articles.ivansherbs.com/vaginal-yeast-infection-home-remedies#signs-of-yeast-infection)
 - [Test for Yeast Infections at Home](https://articles.ivansherbs.com/vaginal-yeast-infection-home-remedies#test-for-yeast-infections-at-home)
 - [What Causes Yeast Infections?](https://articles.ivansherbs.com/vaginal-yeast-infection-home-remedies#what-causes-yeast-infections)
-
 - [What does a Yeast Infection look like?](https://articles.ivansherbs.com/vaginal-yeast-infection-home-remedies#what-does-a-yeast-infection-look-like)
 - [Are Yeast Infections Contagious?](https://articles.ivansherbs.com/vaginal-yeast-infection-home-remedies#are-yeast-infections-contagious)
-
 - [Yeast Infection with Sores?](https://articles.ivansherbs.com/vaginal-yeast-infection-home-remedies#yeast-infection-with-sores)
-
 - [How to Prevent a Yeast Infection](https://articles.ivansherbs.com/vaginal-yeast-infection-home-remedies#how-to-prevent-a-yeast-infection)
-
 - [How Long does a Yeast Infection Last?](https://articles.ivansherbs.com/vaginal-yeast-infection-home-remedies#how-long-does-a-yeast-infection-last)
 
 Let’s get on with it.
@@ -277,7 +273,7 @@ It's time to get graphic. Click below to see a vaginal yeast infection picture.
 
 
 
-![what does a yeast infection look like](/Volumes/GoogleDrive/My Drive/1_Site Development/00_Site_Content/2_Articles/yeast-infection-home-remedies/images/what does a yeast infection look like.jpg)
+![what does a yeast infection look like](/images/what does a yeast infection look like.jpg)
 
 Image credit: [Mikael Häggström, 2014](https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg).
 
@@ -323,7 +319,7 @@ Yes, you can spread a yeast infection through sex.
 
 The Office on Women's Health reports a 15% chance for heterosexuals. Read here for more:
 
-![is yeast infection contagious](/Volumes/GoogleDrive/My Drive/1_Site Development/00_Site_Content/2_Articles/yeast-infection-home-remedies/images/is yeast infection contagious.png)
+![is yeast infection contagious](/images/is-yeast-infection-contagious.png)
 
 **Oral Sex**
 
