@@ -74,8 +74,7 @@ Het is een bekend mild kalmerend middel in de traditionele volksgeneeskunde.
 ### 5. Ivan Chai vermindert de kans op stress, angst en burnout klachten:
 Ivan Chai heeft een kalmerende werking - al eeuwen in gebruikt door in traditionele volksgeneeskunde. 
 
-In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking - van Ivan Chai - <br> 
-vooraf aan een zogenaamde opbouwfase.
+In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking - van Ivan Chai - vooraf aan een zogenaamde opbouwfase.
 
 ### 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen:
 
@@ -119,8 +118,7 @@ In het volgende deel kun je de opsomming vinden van 17 problemen.
 ### Deel 2:
 # 17 Problemen
 
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Deze Siberische kruidenthee kan - als preventieve of ter behandeling - <br>
-worden gebruikt tegen 17 problemen. 
+Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Deze Siberische kruidenthee kan - als preventieve of ter behandeling - worden gebruikt tegen 17 problemen. 
 
 Voor meer informatie - klik op het probleem. 
 
