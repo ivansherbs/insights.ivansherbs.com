@@ -82,7 +82,7 @@ Goed. We hebben zojuist het onderwerp luchtweginfecties belicht in combinatie me
 Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. 
 
 # Deel 2: Ivan Chai
-_"Verzorg dagelijks je lichaam en geest met kruidenthee uit Siberië"_
+_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
