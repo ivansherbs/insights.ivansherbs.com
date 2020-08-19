@@ -64,7 +64,7 @@ Ivan Chai heeft een kalmerende werking - al eeuwen in gebruikt door in tradition
 
 In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
 
-> Ivan Chai heeft een positief effect tegen stress, angst en burnout klachten.
+> Ivan Chai heeft een positief effect op stress, angst en burnout klachten.
 
 ### 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen:
 
@@ -100,14 +100,14 @@ Het lichaam is een intelligent systeem in staat tot zelfregulatie en genezing. W
 
 Voor meer informatie - klik op het gezondheidsprobleem. 
 
-**Versterkt de weerstand** <br>
+### Versterkt de weerstand
 1. Infecties - schimmels, gist, bacterieel 
 
 2. Luchtweginfecties - verkoudheid en griep 
 
 3. Zwak immuunsysteem 
 
-**Krachtige ontstekingsremmer** <br>
+### Krachtige ontstekingsremmer
 4. Menstruatiepijn
 
 5. Keelontsteking
@@ -116,20 +116,20 @@ Voor meer informatie - klik op het gezondheidsprobleem.
 
 7. Slijmbeursontsteking 
 
-**Versterkt de antioxiderede werking** <br>
+### Versterkt de antioxiderede werking
 8. Hart- en vaatziekten
 
 **Verbetert de slaap** <br>
 9. Slaapproblemen
 
-**Vermindert de kans op stress, angst en burnout klachten** <br>
+### Vermindert de kans op stress, angst en burnout klachten
 10. Stress
 
 11. Angst
 
 12. Burnout klachten
 
-**Verzorgt de gezondheid van de prostaat en urinewegen** <br>
+### Verzorgt de gezondheid van de prostaat en urinewegen
 13. Prostaatontsteking 
 
 14. Vergrote prostaat
@@ -138,7 +138,7 @@ Voor meer informatie - klik op het gezondheidsprobleem.
 
 16. Urineweginfectie 
 
-**Verzorgt het spijsverteringsstelsel** <br>
+### Verzorgt het spijsverteringsstelsel
 17. Buikgriep 
 
 Goed om te weten: 
@@ -151,11 +151,11 @@ Nu duidelijk is tegen welke 17 problemen Ivan Chai als preventieve of ter behand
 Ivan Chai is door verschillende thee experts geproefd. De smaak kun je als volgt omschreven:
 
 >_"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."_ 
-
+>
 >_"De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."_
-
+>
 >_"De smaak is zacht, komt overeen met zwarte thee en is lichtzoet..."
-
+>
 >_"...ook schijnt het een favoriet te zijn bij kinderen gezien de lichtzoete smaak van de thee."
 
 # Deel 4 - Onze conclusie  
