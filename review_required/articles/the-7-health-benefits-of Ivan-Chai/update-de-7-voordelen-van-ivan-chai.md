@@ -25,7 +25,8 @@ Het eerste deel van het artikel zullen we ingaan op de 7 voordelen van Ivan Chai
 
 Vervolgens geven we je een korte omschrijving van de smaakbeleving - uiteraard volgens onze thee experts. Tot slot, geven we je onze conclusie. 
 
-# Deel 1 - 7 Voordelen
+### Deel 1
+# 7 Voordelen
 
 Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
@@ -88,7 +89,8 @@ Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkom
 
 Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geëlimineerd door een afkooksel te drinken met grote hoeveelheden Ivan Chai.
 
-# Deel 2 - 17 Problemen
+### Deel 2
+# 17 Problemen
 
 Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Deze Siberische kruidenthee kan als preventieve of ter behandeling worden gebruikt tegen 17 problemen. 
 
@@ -142,7 +144,8 @@ Goed om te weten:
 
 Nu duidelijk is tegen welke 17 problemen Ivan Chai als preventieve of ter behandeling kan worden gebruikt, bespreken we kort de smaakbeleving - uiteraard ná reviews door thee experts.  
 
-# Deel 3 - Smaakbeleving
+### Deel 3
+# Smaakbeleving
 
 Ivan Chai is door verschillende thee experts geproefd. De smaak kun je als volgt omschrijven:
 
@@ -154,7 +157,8 @@ Ivan Chai is door verschillende thee experts geproefd. De smaak kun je als volgt
 >
 >_"...ook schijnt het een favoriet te zijn bij kinderen gezien de lichtzoete smaak van de thee."
 
-# Deel 4 - Onze conclusie  
+### Deel 4
+# Onze conclusie  
 
 De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle gezondheidsproblemen aan te pakken - **_kies je gevechten_**.
 
