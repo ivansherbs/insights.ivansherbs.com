@@ -144,11 +144,11 @@ Voor meer informatie - klik op het gezondheidsprobleem.
 Goed om te weten: 
 > De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen.
 
-Nu duidelijk is tegen welke 17 problemen Ivan Chai als preventieve of ter behandeling kan worden gebruikt, bespreken we kort de smaakbeleving - uiteraard na reviews met thee experts.  
+Nu duidelijk is tegen welke 17 problemen Ivan Chai als preventieve of ter behandeling kan worden gebruikt, bespreken we kort de smaakbeleving - uiteraard ná reviews door thee experts.  
 
 # Deel 3 - Smaakbeleving
 
-Ivan Chai is door verschillende thee experts geproefd. De smaak kun je als volgt omschreven:
+Ivan Chai is door verschillende thee experts geproefd. De smaak kun je als volgt omschrijven:
 
 >_"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."_ 
 >
