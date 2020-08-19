@@ -1,11 +1,12 @@
 ---
 layout: article.html
-title: Ivan Chai: 7 voordelen tegen 17 problemen
+title: Ivan Chai: De 7 voordelen tegen 17 problemen
 ---
 
 Door **Ivan’s Insights** | Siberische kruidenthee <br>
 
-Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. 
+Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. <br>
+De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. 
 
 # Ivan Chai:
 > 1 - Versterkt de weerstand <br>
@@ -17,11 +18,17 @@ Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medici
 > 7 - Verzorgt het spijsverteringsstelsel
 
 Goed om te weten: <br>
-_De 7 voordelen van Ivan Chai zijn gebaseerd op hedendaagse artikelen. Waarvan de werking - wetenschappelijk - is geëvalueerd door het 'European Medicines Agency' (EMA)._
+_De 7 voordelen van Ivan Chai zijn gebaseerd op hedendaagse artikelen. <br> 
+Waarvan de werking - wetenschappelijk - is geëvalueerd door het 'European Medicines Agency' (EMA)._
 
-Het eerste deel van het artikel zullen we ingaan op de 7 voordelen van Ivan Chai. Waarna we je in het tweede deel een opsomming geven. Deze opsomming bestaat uit 17 problemen waar je Ivan Chai - als preventieve of ter behandeling - tegen kunt gebruiken. 
+Het eerste deel van het artikel zullen we ingaan op de 7 voordelen van Ivan Chai. 
+Waarna we je in het tweede deel een opsomming geven. 
 
-Vervolgens geven we je een korte omschrijving van de smaakbeleving - uiteraard volgens onze thee experts. Tot slot, geven we je onze conclusie. 
+Deze opsomming bestaat uit 17 problemen waar je Ivan Chai - als preventieve of ter behandeling - tegen kunt gebruiken. 
+
+Vervolgens geven we je een korte omschrijving van de smaakbeleving - uiteraard volgens onze thee experts. 
+
+Tot slot, geven we je onze conclusie. 
 
 ### Deel 1:
 # 7 Voordelen
@@ -33,49 +40,63 @@ Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen,
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd.
 
 Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. 
-Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. 
+Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. <br> 
+Wat vervolgens leidt tot het versterken van je immuunsysteem. 
 
 Door het versterken van je immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
 
 ### 2. Ivan Chai werkt als een krachtige ontstekingsremmer:
 
-Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen. 
+Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. <br> 
+Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen. 
 
-Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Hiermee worden vaak symptomen worden bestrijdt in plaats van de oorzaak. De oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. 
+Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Hiermee worden vaak symptomen worden bestrijdt in plaats van de oorzaak. <br> 
+De oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. 
 
-Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen zoals: menstruatiepijn, keel-, pees- en slijmbeursontstekingen.
+Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen zoals: <br>
+menstruatiepijn, keel-, pees- en slijmbeursontstekingen.
 
 ### 3. Ivan Chai versterkt de antioxiderede werking:
 
-Ivan Chai zit boordevol Polyfenolen! Polyfenolen zitten naast Ivan Chai in een beperkt aantal theeën, zoals Groene thee en Gember thee. 
+Ivan Chai zit boordevol Polyfenolen! Polyfenolen zitten naast Ivan Chai in een beperkt aantal theeën, <br>
+zoals Groene thee en Gember thee. 
 
 Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten. 
 
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
 ### 4. Ivan Chai verbetert de nachtrust:
-Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. De medische wereld doet diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
+Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. <br> 
+De medische wereld doet diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
 
 Het is een bekend mild kalmerend middel in de traditionele volksgeneeskunde. 
 
 ### 5. Ivan Chai vermindert de kans op stress, angst en burnout klachten:
 Ivan Chai heeft een kalmerende werking - al eeuwen in gebruikt door in traditionele volksgeneeskunde. 
 
-In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking van Ivan Chai vooraf aan een zogenaamde opbouwfase.
+In tegenstelling tot de meeste farmaceutische medicijnen gaat de kalmerende werking - van Ivan Chai - <br> 
+vooraf aan een zogenaamde opbouwfase.
 
 ### 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen:
 
-De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd aan onderzoek doen gericht op de medicinale krachten in kruiden. Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruidenthee als Ivan Chai centraal stonden. 
+De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd aan onderzoek doen gericht op de medicinale krachten in kruiden. <br> 
+Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruidenthee als Ivan Chai centraal stonden. 
 
 > Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier. 
 
-Hiernaast gaat het ook de groei van de prostaat tegen. Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. **Vrouwen hebben er ook baat bij.** Trebens raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen. 
+Hiernaast gaat het ook de groei van de prostaat tegen. Ivan Chai is urogenitaal gezien niet alleen goed voor mannen. <br> 
+**Vrouwen hebben er ook baat bij.** Trebens raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen. 
 
-> Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat. 
+> Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. <br> 
+Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat. 
 
-Ivan Chai versterkt de anti-tumoractiviteit. Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankercellen die aantonen dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. 
+Ivan Chai versterkt de anti-tumoractiviteit. Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankercellen. <br> 
+Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En dus de veranderingen hierin aanzienlijk kunnen verlagen. <br>
+Er zijn echter geen studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. 
 
-Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen. De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
+Het antitumor effect is goed bestudeerd en heeft met name een positieve werking op gezonde prostaatcellen. <br> 
+De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. 
+Ivan Chai kan door de positieve werking - die Oenotheïne B heeft op het lichaam - worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
 ### 7. Ivan Chai verzorgt het spijsverteringsstelsel:
 
@@ -83,18 +104,23 @@ Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmkl
 
 Zweren, Gastritis en Colitis kunnen worden verholpen door het drinken van Ivan Chai. 
 
-Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom of die veranderingen in ondergaan in hun dieet. 
+Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkomen. <br>
+Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. <br> 
+Of die veranderingen in ondergaan in hun dieet. 
 
-Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geëlimineerd door een afkooksel te drinken met grote hoeveelheden Ivan Chai.
+Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geëlimineerd. <br> 
+Dit doe je door een afkooksel te drinken met grote hoeveelheden Ivan Chai.
 
-Kortom, het lichaam is een intelligent systeem in staat tot zelfregulatie en genezing. Waarbij hulp van buiten - in de vorm van kruidenthee - mag worden omarmt.
+Kortom, het lichaam is een intelligent systeem in staat tot zelfregulatie en genezing. <br> 
+Waarbij hulp van buiten - in de vorm van kruidenthee - mag worden omarmt.
 
 In het volgende deel kun je de opsomming vinden van 17 problemen.
 
 ### Deel 2:
 # 17 Problemen
 
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Deze Siberische kruidenthee kan - als preventieve of ter behandeling - worden gebruikt tegen 17 problemen. 
+Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Deze Siberische kruidenthee kan - als preventieve of ter behandeling - <br>
+worden gebruikt tegen 17 problemen. 
 
 Voor meer informatie - klik op het probleem. 
 
@@ -142,7 +168,8 @@ Voor meer informatie - klik op het probleem.
 Goed om te weten: 
 > De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen.
 
-Nu duidelijk is tegen welke 17 problemen Ivan Chai als preventieve of ter behandeling kan worden gebruikt, bespreken we kort de smaakbeleving - uiteraard ná reviews door thee experts.  
+Nu duidelijk is tegen welke 17 problemen Ivan Chai als preventieve of ter behandeling kan worden gebruikt, <br>
+bespreken we kort de smaakbeleving - uiteraard ná reviews door thee experts.  
 
 ### Deel 3
 # Smaakbeleving
