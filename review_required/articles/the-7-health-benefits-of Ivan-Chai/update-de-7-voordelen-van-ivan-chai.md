@@ -19,13 +19,11 @@ Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medici
 Goed om te weten: <br>
 _De 7 voordelen van Ivan Chai zijn gebaseerd op hedendaagse artikelen. Waarvan de werking - wetenschappelijk - is geëvalueerd door het 'European Medicines Agency' (EMA)._
 
-### Inhoud van het artikel
-
 Het eerste deel van het artikel zullen we ingaan op de 7 voordelen van Ivan Chai. Waarna we je in het tweede deel een opsomming geven. Deze opsomming bestaat uit 17 problemen waar je Ivan Chai - als preventieve of ter behandeling - tegen kunt gebruiken. 
 
 Vervolgens geven we je een korte omschrijving van de smaakbeleving - uiteraard volgens onze thee experts. Tot slot, geven we je onze conclusie. 
 
-### Deel 1
+### Deel 1:
 # 7 Voordelen
 
 Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
@@ -89,14 +87,16 @@ Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkom
 
 Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geëlimineerd door een afkooksel te drinken met grote hoeveelheden Ivan Chai.
 
-### Deel 2
+Kortom, het lichaam is een intelligent systeem in staat tot zelfregulatie en genezing. Waarbij hulp van buiten - in de vorm van kruidenthee - mag worden omarmt.
+
+In het volgende deel kun je de opsomming vinden van 17 problemen.
+
+### Deel 2:
 # 17 Problemen
 
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Deze Siberische kruidenthee kan als preventieve of ter behandeling worden gebruikt tegen 17 problemen. 
+Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Deze Siberische kruidenthee kan - als preventieve of ter behandeling - worden gebruikt tegen 17 problemen. 
 
-Het lichaam is een intelligent systeem in staat tot zelfregulatie en genezing. Waarbij hulp van buiten - in de vorm van kruidenthee - mag worden omarmt. 
-
-Voor meer informatie - klik op het gezondheidsprobleem. 
+Voor meer informatie - klik op het probleem. 
 
 ### Versterkt de weerstand
 1. Infecties - schimmels, gist, bacterieel 
