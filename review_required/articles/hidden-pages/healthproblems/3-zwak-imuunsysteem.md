@@ -80,11 +80,11 @@ Het tweede deel van het artikel leggen we je meer uit over Ivan Chai.
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 ### De oorsprong van Ivan Chai
-> Ivan Chai is een Siberische kruidenthee. Gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
+> Ivan Chai is een Siberische kruidenthee. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
 
 Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
 
-Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden. In het Engels staat het Wilgenroosje bekend als Fireweed. Dit komt vanwege het vermogen van deze kruiden om – na bosbranden – snel verbrande gebieden te koloniseren.
+Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden. 
 
 **Bevindingen** <br>
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
