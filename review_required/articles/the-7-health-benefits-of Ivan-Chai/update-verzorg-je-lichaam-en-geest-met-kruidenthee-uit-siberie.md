@@ -171,8 +171,8 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zulle
 ### Deel 4:
 # Smaakbeleving
 
-De strekking van het verhaal mag duidelijk zijn. De smaak nog niet. Ivan Chai is door verschillende thee experts geslurpt:
+_De strekking van het verhaal mag duidelijk zijn. De smaak nog niet. Ivan Chai is door verschillende thee experts geslurpt:_
 
-* _"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."_ 
+* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."
 
-* _"De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."_
+* "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
