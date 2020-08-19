@@ -109,8 +109,7 @@ In het volgende deel kun je de opsomming vinden van 17 problemen.
 ### Deel 2:
 # 17 Problemen
 
-_Deze Siberische kruidenthee kan worden gebruikt tegen 17 problemen._
-Voor meer informatie - klik op het probleem. 
+_Deze Siberische kruidenthee kan worden gebruikt tegen 17 problemen. Voor meer informatie - klik op het probleem._
 
 ### Versterkt de weerstand
 1. Infecties - schimmels, gist, bacterieel 
