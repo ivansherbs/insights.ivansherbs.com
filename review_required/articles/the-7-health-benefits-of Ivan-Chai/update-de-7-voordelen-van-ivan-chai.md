@@ -24,10 +24,9 @@ Het eerste deel van het artikel zullen we ingaan op de 7 voordelen van Ivan Chai
 Waarna we je in het tweede deel een opsomming geven. 
 
 Deze opsomming bestaat uit 17 problemen waar je Ivan Chai - als preventieve of ter behandeling - tegen kunt gebruiken. 
+Gevolgd door - deel drie - de strekking van het verhaal.
 
-Vervolgens geven we je een korte omschrijving van de smaakbeleving - gedaan door thee experts. 
-
-Tot slot, onze conclusie. 
+Tot slot, de smaakbeleving - uiteraard door thee experts. 
 
 ### Deel 1:
 # 7 Voordelen
@@ -55,18 +54,16 @@ menstruatiepijn, keel-, pees- en slijmbeursontstekingen.
 
 ### 3. Ivan Chai versterkt de antioxiderede werking:
 
-Ivan Chai zit boordevol Polyfenolen! Polyfenolen zitten naast Ivan Chai in een beperkt aantal theeën, zoals Groene thee en Gember thee. 
-
-Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten. 
+Ivan Chai zit boordevol Polyfenolen! Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten. 
 
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
 ### 4. Ivan Chai verbetert de nachtrust:
 
-Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. <br> 
-De medische wereld doet diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
+Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen.
 
-Bovendien, is het een bekend mild kalmerend middel in de traditionele volksgeneeskunde. 
+In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. Echter doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
+
 
 ### 5. Ivan Chai vermindert de kans op stress, angst en burnout klachten:
 
@@ -161,13 +158,23 @@ Voor meer informatie - klik op het probleem.
 Goed om te weten: 
 > De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen.
 
-Nu duidelijk is tegen welke 17 problemen Ivan Chai - als preventieve of ter behandeling - kan worden gebruikt, bespreken we kort de smaakbeleving. Uiteraard gedaan door thee experts.  
+Nu duidelijk is tegen welke 17 problemen Ivan Chai - als preventieve of ter behandeling - kan worden gebruikt, hieronder onze conclusie. 
 
-### Deel 3
+### Deel 3:
+# Conclusie  
+
+_De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. <br> 
+We dwingen je daarom niet om alle problemen aan te pakken - **kies je gevechten**._
+
+Onze klanten kunnen op ons vertrouwen. We informeren over natuurlijke behandelingen, die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen. 
+
+Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
+
+### Deel 4:
 # Smaakbeleving
 
-_"Ivan Chai is door verschillende thee experts geproefd."_
-De smaak kun je als volgt omschrijven:
+De strekking van het verhaal mag duidelijk zijn. De smaak nog niet. 
+Ivan Chai is door verschillende thee experts geslurpt. waardoor je de smaakbeleving als volgt kunt omschrijven:
 
 >_"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."_ 
 >
@@ -177,12 +184,4 @@ De smaak kun je als volgt omschrijven:
 >
 >_"...ook schijnt het een favoriet te zijn bij kinderen gezien de lichtzoete smaak van de thee."
 
-### Deel 4
-# Onze conclusie  
 
-_De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. <br> 
-We dwingen je daarom niet om alle problemen aan te pakken - **kies je gevechten**._
-
-Onze klanten kunnen op ons vertrouwen hen te informeren over natuurlijke behandelingen die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen. 
-
-Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
