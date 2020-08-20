@@ -24,7 +24,6 @@ Het European Medicines Agency heeft de werking hiervan geëvalueerd en goedgekeu
 ### 1. Ivan Chai versterkt de weerstand:
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd.
-
 Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem.
@@ -87,12 +86,13 @@ Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkom
 
 Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geëlimineerd. Dit doe je door een afkooksel te drinken met grote hoeveelheden Ivan Chai.
 
+
 # 17 Problemen
 
 _De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voor meer informatie - klik op het probleem._
 
 ### Versterkt de weerstand
-1. Infecties - schimmels, gist, bacterieel
+1. Infecties - schimmel, gist, bacterieel
 
 2. Luchtweginfecties - verkoudheid en griep
 
@@ -132,7 +132,6 @@ _De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voo
 ### Verzorgt het spijsverteringsstelsel
 17. Buikgriep
 
-> Let op! De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen.
 
 # Ivan's conclusie   
 
@@ -143,6 +142,7 @@ Onze klanten kunnen op ons vertrouwen. We informeren over natuurlijke behandelin
 
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
+
 # Smaakbeleving
 
 _Ivan Chai is door verschillende thee experts geslurpt:_
@@ -150,4 +150,3 @@ _Ivan Chai is door verschillende thee experts geslurpt:_
 * "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."
 
 * "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
-
