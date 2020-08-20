@@ -87,7 +87,7 @@ Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkom
 Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geëlimineerd. Dit doe je door een afkooksel te drinken met grote hoeveelheden Ivan Chai.
 
 
-# 17 Problemen
+# Tegen 17 Problemen
 
 _De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voor meer informatie - klik op het probleem._
 
