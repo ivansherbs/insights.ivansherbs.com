@@ -5,9 +5,11 @@ title: Ivan Chai: "Verzorg je lichaam en geest met kruidenthee uit Siberië"
 
 Door **Ivan’s Insights** | Siberische kruidenthee <br>
 
-De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. 
+# 7 Voordelen
 
-# Ivan Chai:
+_De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand._
+
+### Ivan Chai:
 > 1 - Versterkt de weerstand <br>
 > 2 - Krachtige ontstekingsremmer <br>
 > 3 - Versterkt de antioxiderede werking <br>
@@ -16,7 +18,7 @@ De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en alg
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-”Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.”
+Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 Eeuwenoude wijsheden uit Siberië hebben de kruidengeneeskunde vormgegeven. Dit gebeurde door de monniken ter hoogte van de Altaj. Het waren de bronnen voor eenvoudige natuurlijke behandelingen met geneeskrachtige werking. 
 
@@ -91,7 +93,7 @@ Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geë
 
 # 17 Problemen
 
-De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voor meer informatie - klik op het probleem.
+_De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voor meer informatie - klik op het probleem._
 
 ### Versterkt de weerstand
 1. Infecties - schimmels, gist, bacterieel
@@ -139,8 +141,8 @@ Goed om te weten:
 
 # Ivan's conclusie   
 
-De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. <br>
-We dwingen je daarom niet om alle problemen aan te pakken - **kies je gevechten**.
+_De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. <br>
+We dwingen je daarom niet om alle problemen aan te pakken - **kies je gevechten**._
 
 Onze klanten kunnen op ons vertrouwen. We informeren over natuurlijke behandelingen, die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
 
@@ -148,7 +150,7 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zulle
 
 # Smaakbeleving
 
-Ivan Chai is door verschillende thee experts geslurpt:_
+_Ivan Chai is door verschillende thee experts geslurpt:_
 
 * "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."
 
