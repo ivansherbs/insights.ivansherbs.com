@@ -137,7 +137,7 @@ De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voor
 Goed om te weten:
 > De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen.
 
-# Behandelmethode  
+# Ivan's conclusie   
 
 De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. <br>
 We dwingen je daarom niet om alle problemen aan te pakken - **kies je gevechten**.
