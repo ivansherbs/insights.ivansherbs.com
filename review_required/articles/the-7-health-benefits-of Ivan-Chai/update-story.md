@@ -19,10 +19,7 @@ _De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en al
 > 7 - Verzorgt het spijsverteringsstelsel
 
 Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
-
-Eeuwenoude wijsheden uit Siberië hebben de kruidengeneeskunde vormgegeven. Dit gebeurde door de monniken ter hoogte van de Altaj. Het waren de bronnen voor eenvoudige natuurlijke behandelingen met geneeskrachtige werking. 
-
-Goed om te weten. Het European Medicines Agency heeft de werking hiervan geëvalueerd en goedgekeurd.
+Het European Medicines Agency heeft de werking hiervan geëvalueerd en goedgekeurd.
 
 ### 1. Ivan Chai versterkt de weerstand:
 
@@ -57,8 +54,7 @@ In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. 
 
 ### 5. Ivan Chai vermindert de kans op stress, angst en burnout klachten:
 
-Ivan Chai heeft een kalmerende werking - al eeuwen in gebruikt door de traditionele volksgeneeskunde. <br>
-Hedendaags onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat het - in ieder geval - een kalmerend effect heeft op je centrale zenuwstelsel.
+Ivan Chai heeft een kalmerende werking. Hedendaags onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
 In tegenstelling tot de meeste farmaceutische medicijnen, gaat de kalmerende werking wél vooraf aan een zogenaamde opbouwfase.
 
@@ -136,7 +132,7 @@ _De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voo
 ### Verzorgt het spijsverteringsstelsel
 17. Buikgriep
 
-Goed om te weten:
+Let op!
 > De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen.
 
 # Ivan's conclusie   
