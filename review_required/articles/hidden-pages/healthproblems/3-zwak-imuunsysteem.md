@@ -80,23 +80,23 @@ Het tweede deel van het artikel leggen we je meer uit over Ivan Chai.
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 ### De oorsprong van Ivan Chai
-> Ivan Chai is een Siberische kruidenthee. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
+> Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
 
 Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
 
-Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden. 
+Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de wildernis van Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden. 
 
 **Bevindingen** <br>
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
 > Het zijn de antioxidanten – quercetine en Oenotheïne B –  die een geneeskrachtige werking hebben op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C. Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
 
-Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
+Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking. 
 
-> In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten alras een krachtig effect op het menselijk lichaam.
+> In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten destijds alras een krachtig effect op het lichaam.
 
-Onderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen.
+Onderzoek heeft aangetoond dat je er meerdere gezondheidsproblemen mee kunt behandelen. 
 
-Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is?
+Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is? 
 
 ### Bereidingswijze
 Totale tijd: ca 7 min
