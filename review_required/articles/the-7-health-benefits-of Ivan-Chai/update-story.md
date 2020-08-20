@@ -132,8 +132,7 @@ _De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voo
 ### Verzorgt het spijsverteringsstelsel
 17. Buikgriep
 
-Let op!
-> De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen.
+> Let op! De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen.
 
 # Ivan's conclusie   
 
