@@ -14,7 +14,7 @@ _De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit bl
 
 Het eerste deel van het artikel zullen we ingaan op infecties. En de invloed van farmaceutische medicijnen. 
 
-Het tweede deel van het artikel zullen we de Siberische kruidenthee Ivan Chai onder de loep nemen. 
+Het tweede deel van het artikel zullen we dieper ingaan op de werking van Ivan Chai. 
 
 ### Inhoud van het artikel
 
@@ -105,7 +105,7 @@ Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wor
 
 > In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten destijds alras een krachtig effect op het lichaam.
 
-Onderzoek heeft aangetoond dat je meerdere gezondheidsproblemen op natuurlijk wijze kunt behandelen. 
+Onderzoek heeft aangetoond dat je er meerdere gezondheidsproblemen mee kunt behandelen. 
 
 Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is? 
 
