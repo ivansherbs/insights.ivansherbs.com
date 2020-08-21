@@ -10,13 +10,9 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 ### Bewezen effectiviteit:
 > Ivan Chai - Versterkt de weerstand
 
-_De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op luchtweginfecties vele malen verminderd._
+De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op luchtweginfecties vele malen verminderd.
 
-Het eerste deel van het artikel zullen we ingaan op luchtweginfecties. En de invloed van farmaceutische medicijnen. 
-
-Het tweede deel van het artikel zullen we de Siberische kruidenthee Ivan Chai onder de loep nemen.
-
-### Inhoud van het artikel
+### Inhoud
 
 **Deel 1: Luchtweginfecties**
 * Wat is een luchtweginfectie?
@@ -77,10 +73,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Enke
 2) Ouderdom - vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op luchtweginfecties. 
 3) Ziekten - mensen met chronische ziekten zijn extra gevoelig voor luchtweginfecties.
 
-Goed. We hebben zojuist het onderwerp luchtweginfecties belicht in combinatie met farmaceutische medicijnen. Het effect van farmaceutische medicijnen. En wat overige risicofactoren.
-
-Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. 
-
+_Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking._
 # Deel 2: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
