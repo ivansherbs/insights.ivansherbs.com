@@ -77,9 +77,10 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 2) Ouderdom - vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties. Net als ouderen met kunstgebit.
 3) Ziekten - mensen met diabetes zijn extra gevoelig voor infecties. 
 
-_Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking._
 # Oplossing: Ivan Chai 
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
+
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking.
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
