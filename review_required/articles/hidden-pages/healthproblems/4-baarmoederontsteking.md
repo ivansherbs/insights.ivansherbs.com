@@ -15,38 +15,38 @@ _Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorko
 ### Inhoud van het artikel
 
 **Deel 1: Baarmoederontsteking**
-1.1 Waardoor krijg je een baarmoederontsteking?
-1.2 Welke symptomen duiden op een baarmoederontsteking? 
-1.3 Welke farmaceutische medicijnen behandelen een baarmoederontsteking? 
-1.4 Welk effect heeft het gebruik van medicijnen op baarmoederontsteking?
-1.5 Welke ongewenste bijwerkingen kan antibiotica bij gebruik met zich meebrengen?
+* Waardoor krijg je een baarmoederontsteking?
+* Welke symptomen duiden op een baarmoederontsteking? 
+* Welke farmaceutische medicijnen behandelen een baarmoederontsteking? 
+* Welk effect heeft het gebruik van medicijnen op baarmoederontsteking?
+* Welke ongewenste bijwerkingen kan antibiotica bij gebruik met zich meebrengen?
 
 **Deel 2: Ivan Chai** <br>
-2.1 De oorsprong van Ivan Chai
+* De oorsprong van Ivan Chai
   - Bevindingen
-2.2 Bereidingswijze
+* Bereidingswijze
   - Smaakbeleving
   - Intensiteit
-2.3 Welke dosering en behandelingskuur raden jullie aan?
-2.4 Is het effect van Ivan Chai direct voelbaar?
-2.5 Welke voorzorgsmaatregelen kan ik nemen?
-2.6 Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
+* Welke dosering en behandelingskuur raden jullie aan?
+* Is het effect van Ivan Chai direct voelbaar?
+* Welke voorzorgsmaatregelen kan ik nemen?
+* Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
   - Contra-indicaties en waarschuwingen
   - Zwangerschap, borstvoeding en vruchtbaarheid
   - Rijvaardigheid
-2.7 Hoe bewaar je Ivan Chai?
+* Hoe bewaar je Ivan Chai?
 
 # Deel 1: Baarmoederontsteking
 Laten we beginnen met de allereerste vraag gericht op een baarmoederontsteking.
 
-### 1.1 Waardoor krijg je een baarmoederontsteking?
+### Waardoor krijg je een baarmoederontsteking?
 Er zijn verschillende oorzaken waardoor - het meest kwetsbare orgaan van je lichaam - een ontsteking kan oplopen. Enkele voorbeelden: 
 * Een spiraaltje - de afgelopen jaren is het gebruik van een spiraaltje - ten opzichte van de anticonceptiepil -  sterk toegenomen. 
 * Een ontsteking via seksueel contact - denk aan chlamydia of gonorroe
 * Een ontsteking die je kunt oplopen na een bevalling - denk aan een deel van de placenta of vliezen die in je baarmoeder achterblijven. Dit weefsel kan onverhoopt voor een nare ontsteking zorgen. 
 
 
-### 1.2 Welke symptomen duiden op een baarmoederontsteking? 
+### Welke symptomen duiden op een baarmoederontsteking? 
 Er zijn verschillende symptomen die wijzen op een baarmoederontsteking:
 * Onregelmatige menstruatie 
 * Pijn in het onderste deel van je buik
@@ -57,14 +57,14 @@ Er zijn verschillende symptomen die wijzen op een baarmoederontsteking:
 * Abnormale vaginale afscheiding of vaginale bloedingen
 * Jeuk in de vagina 
 
-### 1.3 Welke farmaceutische medicijnen behandelen een baarmoederontsteking? 
+### Welke farmaceutische medicijnen behandelen een baarmoederontsteking? 
 Een ontsteking kan worden behandeld met: 
  * Antibiotica
 
-### 1.4 Welk effect heeft het gebruik van antibiotica?
+### Welk effect heeft het gebruik van antibiotica?
 Over het algemeen wordt het gezondheidsprobleem verzorgd. Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Het kan echter zijn dat door gebruik – van het medicijn - ook je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe gezondheidsproblemen.
 
-### 1.5 Welke ongewenste bijwerkingen kan antibiotica bij gebruik - nog meer -  met zich meebrengen?
+### Welke ongewenste bijwerkingen kan antibiotica bij gebruik - nog meer -  met zich meebrengen?
 De volgende bijwerkingen kunnen optreden - meestal na enkele dagen: 
 * Hoofdpijn 
 * Extreme moeheid
@@ -77,7 +77,7 @@ _Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmac
 # Deel 2: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-### 2.1 De oorsprong van Ivan Chai
+### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
 
 Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
@@ -92,7 +92,7 @@ Overigens, heeft onderzoek aangetoond dat je met Ivan Chai meerdere gezondheidsp
 
 Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is?
 
-### 2.2 Bereidingswijze
+### Bereidingswijze
 Totale tijd: ca 7 min
 
 Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken. Wanneer je de Ivan Chai warm drinkt adviseren wij, voor een optimale smaakbeleving, het kruideninfuus te drinken bij 77 graden Celsius.
@@ -105,25 +105,25 @@ De smaakbeleving is als volgt te omschrijven:
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-### 2.3 Welke dosering en behandelingskuur raden jullie aan?
+### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
 
 Goed om te weten! Deze therapeutische dosering van Ivan Chai wordt aangeraden door het European Medicines Agency (EMA).
 
-### 2.4 Is het effect van Ivan Chai direct voelbaar?
+### Is het effect van Ivan Chai direct voelbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar.
 
 Wanneer jouw klachten zijn verholpen, kun je stoppen met het gebruik van Ivan Chai. Wij raden het echter aan de kuur – als preventieve behandeling – met regelmaat te herhalen.
 
-### 2.5 Welke voorzorgsmaatregelen kan ik nemen?  
+### Welke voorzorgsmaatregelen kan ik nemen?  
 Veel combinaties - van natuurlijke behandelingen met farmaceutische medicijnen - zijn tot op heden niet geprobeerd of getest.
 
 Wij adviseren het een Vitaliteits- en Gezondheidsdeskundige te raadplegen, voorafgaand aan een behandeling met Ivan Chai in combinatie met farmaceutische medicijnen.
 
 Hiernaast raden wij het aan eigen onderzoek te doen om bijwerkingen te voorkomen.
  
-### 2.6 Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
+### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
 > Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
  
@@ -155,7 +155,7 @@ Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelhede
 **Rijvaardigheid:** <br>
 Ivan Chai heeft geen bijwerkingen die duizeligheid kan veroorzaken. En daarmee de rijvaardigheid kan beïnvloeden.
  
-### 2.7 Hoe bewaar je Ivan Chai?
+### Hoe bewaar je Ivan Chai?
 Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
 
 Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden.
