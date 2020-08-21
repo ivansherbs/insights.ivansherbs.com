@@ -5,7 +5,7 @@ title: Ivan Chai: "Verzorg je lichaam en geest met kruidenthee uit Siberië"
 
 Door **Ivan’s Insights** | Siberische kruidenthee <br>
 
-## 7 Voordelen
+## Ivan Chai
 
 ### De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand.
 
