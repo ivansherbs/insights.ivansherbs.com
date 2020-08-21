@@ -88,16 +88,14 @@ Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geë
 
 ## Tegen 17 Problemen
 
-_De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voor meer informatie - klik op het probleem._
+_Gebruik Ivan Chai als preventieve of ter behandeling tegen:_
 
-### Versterkt de weerstand
 1. Infecties - schimmel, gist, bacterieel
 
 2. Luchtweginfecties - verkoudheid en griep
 
 3. Zwak immuunsysteem
 
-### Krachtige ontstekingsremmer
 4. Menstruatiepijn
 
 5. Keelontsteking
@@ -106,20 +104,16 @@ _De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voo
 
 7. Slijmbeursontsteking
 
-### Versterkt de antioxiderede werking
 8. Hart- en vaatziekten
 
-### Verbetert de nachtrust
 9. Slaapproblemen
 
-### Vermindert de kans op stress, angst en burnout klachten
 10. Stress
 
 11. Angst
 
 12. Burnout klachten
 
-### Verzorgt de gezondheid van de prostaat en urinewegen
 13. Prostaatontsteking
 
 14. Vergrote prostaat
@@ -128,7 +122,6 @@ _De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voo
 
 16. Urineweginfectie
 
-### Verzorgt het spijsverteringsstelsel
 17. Buikgriep
 
 
