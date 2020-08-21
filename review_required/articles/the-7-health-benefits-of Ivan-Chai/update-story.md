@@ -5,11 +5,10 @@ title: Ivan Chai: "Verzorg je lichaam en geest met kruidenthee uit Siberië"
 
 Door **Ivan’s Insights** | Siberische kruidenthee <br>
 
-# 7 Voordelen
+## 7 Voordelen
 
-_De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand._
+### De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand.
 
-### Ivan Chai:
 > 1 - Versterkt de weerstand <br>
 > 2 - Krachtige ontstekingsremmer <br>
 > 3 - Versterkt de antioxiderede werking <br>
@@ -87,7 +86,7 @@ Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkom
 Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geëlimineerd. Dit doe je door een afkooksel te drinken met grote hoeveelheden Ivan Chai.
 
 
-# Tegen 17 Problemen
+## Tegen 17 Problemen
 
 _De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voor meer informatie - klik op het probleem._
 
@@ -133,7 +132,7 @@ _De Siberische kruidenthee Ivan Chai kan worden gebruikt tegen 17 problemen. Voo
 17. Buikgriep
 
 
-# Ivan's conclusie   
+## Ivan's conclusie   
 
 _De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. <br>
 We dwingen je daarom niet om alle problemen aan te pakken - **kies je gevechten**._
@@ -143,7 +142,7 @@ Onze klanten kunnen op ons vertrouwen. We informeren over natuurlijke behandelin
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
 
-# Smaakbeleving
+## Smaakbeleving
 
 _Ivan Chai is door verschillende thee experts geslurpt:_
 
