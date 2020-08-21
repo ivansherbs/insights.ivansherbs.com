@@ -18,7 +18,7 @@ Het tweede deel van het artikel zullen we dieper ingaan op de werking van Ivan C
 
 ### Inhoud
 
-**Deel 1: Infecties**
+**Probleem: Infectie**
 * Wat is een infectie?
 * Waardoor krijg je een infectie?
 * Welke medicijnen zijn van invloed op infecties?
@@ -26,7 +26,7 @@ Het tweede deel van het artikel zullen we dieper ingaan op de werking van Ivan C
 * Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
 * Waardoor vergroot ik de kans op een infectie?
 
-**Deel 2: Ivan Chai** <br>
+**Oplossing: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
   - Bevindingen
 * Bereidingswijze
@@ -41,7 +41,7 @@ Het tweede deel van het artikel zullen we dieper ingaan op de werking van Ivan C
   - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
 
-# Deel 1: Infecties 
+# Probleem: Infectie 
 Laten we beginnen met de allereerste vraag gericht op infecties. 
 
 ### Wat is een infectie?
@@ -84,7 +84,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 3) Ziekten - mensen met diabetes zijn extra gevoelig voor infecties. 
 
 _Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking._
-# Deel 2: Ivan Chai 
+# Oplossing: Ivan Chai 
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 ### De oorsprong van Ivan Chai
