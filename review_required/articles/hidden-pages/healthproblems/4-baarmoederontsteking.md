@@ -10,8 +10,9 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 ## Bewezen effectiviteit:
 > Ivan Chai - Krachtige ontstekingsremmer 
 
-_ Ivan Chai is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen._
-_Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een baarmoederontsteking._
+Ivan Chai is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
+Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een baarmoederontsteking.
+
 ### Inhoud van het artikel
 
 **Deel 1: Baarmoederontsteking**
