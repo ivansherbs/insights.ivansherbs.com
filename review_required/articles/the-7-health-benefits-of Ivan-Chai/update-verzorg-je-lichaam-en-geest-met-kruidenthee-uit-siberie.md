@@ -15,7 +15,6 @@ Door **Ivan’s Insights** | Siberische kruidenthee <br>
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-Goed om te weten: <br>
 _De 7 voordelen van Ivan Chai zijn gebaseerd op hedendaagse artikelen. Waarvan de werking - wetenschappelijk - is geëvalueerd door het 'European Medicines Agency' (EMA)._
 
 Dit artikel zullen we ingaan op de 7 voordelen van Ivan Chai. We geven je een opsomming tegen welke 17 problemen Ivan Chai als - preventieve of ter behandeling - kan worden gebruikt. Waarna we eindigen met onze conclusie. En smaakbeleving door thee experts. 
