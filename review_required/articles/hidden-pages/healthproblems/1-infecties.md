@@ -80,7 +80,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 # Oplossing: Ivan Chai 
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een infectie.
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
