@@ -76,7 +76,7 @@ It matters because [Vitamin C](anchorlink) is in itself is a remedy for yeast in
 
 Clinical herbalist Michael Cottingham has a great [Youtube video](https://www.youtube.com/watch?v=gtKnuLfgXQ0) on fireweed. He explains the benefits against *Candida albicans,* and shows how to identify fireweed. 
 
-If you'd like to our try our Ivan Chai hand-made from 100% fireweed leaves, [you're welcome to get a trial here](https://www.trial.ivansherbs.com/vaginal-yeast-infection).
+If you'd like to our try our Ivan Chai hand-made from 100% fireweed leaves, [you're welcome to get a trial here](https://trial.ivansherbs.com/products/vaginal-yeast-infection-home-remedy).
 
 *Directions*
 
@@ -381,7 +381,7 @@ Rolled and fermented fireweed leaves are in Ivan Chai. Fireweed is  an anti-fung
 
 Drinking Ivan Chai two to three times daily acts as a preventative remedy. This is especially true during times of stress.
 
-You can [get a trial of Ivan Chai](https://www.trial.ivansherbs.com/vaginal-yeast-infection) from Ivan's Herbs. You'll likely enjoy the natural sweet taste too.
+You can [get a trial of Ivan Chai](https://trial.ivansherbs.com/products/vaginal-yeast-infection-home-remedy) from Ivan's Herbs. You'll likely enjoy the natural sweet taste too.
 
 
 
