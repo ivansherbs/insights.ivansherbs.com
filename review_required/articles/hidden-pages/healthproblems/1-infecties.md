@@ -16,7 +16,7 @@ Het eerste deel van het artikel zullen we ingaan op infecties. En de invloed van
 
 Het tweede deel van het artikel zullen we dieper ingaan op de werking van Ivan Chai. 
 
-### Inhoud van het artikel
+### Inhoud
 
 **Deel 1: Infecties**
 * Wat is een infectie?
@@ -146,18 +146,18 @@ Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst 
  
 Tot op vandaag zijn de volgende symptomen **niet** bij ons bekend:
  
-* _Misselijkheid_
-* _Maagpijn_
-* _Braken (eventueel met bloed)_
-* _Diarree (eventueel met bloed)_
-* _Duizeligheid_
-* _Onwillekeurige bewegingen van de ogen_
-* _Dubbelzien_
-* _Hoofdpijn_
-* _Oorsuizen_
-* _Nierfunctiestoornis_
-* _Verlaagde bloeddruk_
-* _Coma_
+* Misselijkheid
+* Maagpijn
+* Braken (eventueel met bloed)
+* Diarree (eventueel met bloed)
+* Duizeligheid
+* Onwillekeurige bewegingen van de ogen
+* Dubbelzien
+* Hoofdpijn
+* Oorsuizen
+* Nierfunctiestoornis
+* Verlaagde bloeddruk
+* Coma
  
 **Contra-indicaties en waarschuwingen** <br>
 Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen. En is veilig voor kinderen.
