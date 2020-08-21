@@ -13,7 +13,7 @@ Door **Ivan’s Insights** | Siberische kruidenthee <br>
 > 2 - Krachtige ontstekingsremmer <br>
 > 3 - Versterkt de antioxiderede werking <br>
 > 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op stress, angst en burnout klachten <br>
+> 5 - Vermindert de kans op stress, angst en een burnout <br>
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
@@ -50,7 +50,7 @@ Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te over
 
 In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. Echter doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
 
-### 5. Ivan Chai vermindert de kans op stress, angst en burnout klachten:
+### 5. Ivan Chai vermindert de kans op stress, angst en een burnout:
 
 Ivan Chai heeft een kalmerende werking. Hedendaags onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
@@ -88,11 +88,11 @@ Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geë
 
 ## Tegen 17 Problemen
 
-_Gebruik Ivan Chai als preventieve of ter behandeling tegen:_
+_Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:_
 
-1. Infecties - schimmel, gist, bacterieel
+1. Infectie - schimmel, gist, bacterieel
 
-2. Luchtweginfecties - verkoudheid en griep
+2. Luchtweginfectie - verkoudheid en griep
 
 3. Zwak immuunsysteem
 
@@ -112,7 +112,7 @@ _Gebruik Ivan Chai als preventieve of ter behandeling tegen:_
 
 11. Angst
 
-12. Burnout klachten
+12. Burnout
 
 13. Prostaatontsteking
 
