@@ -10,7 +10,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 ### Bewezen effectiviteit: 
 > Ivan Chai - Versterkt de weerstand
 
-_De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd._
+De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
 Het eerste deel van het artikel zullen we ingaan op infecties. En de invloed van farmaceutische medicijnen. 
 
@@ -83,10 +83,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 2) Ouderdom - vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties. Net als ouderen met kunstgebit.
 3) Ziekten - mensen met diabetes zijn extra gevoelig voor infecties. 
 
-Goed. We hebben zojuist het onderwerp infectie belicht in combinatie met farmaceutische medicijnen. Welke medicijnen een versterkend effect veroorzaken. En wat overige risicofactoren. 
-
-Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. 
-
+_Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking._
 # Deel 2: Ivan Chai 
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
