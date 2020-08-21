@@ -36,7 +36,7 @@ Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectief bij het v
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Vaak worden symptomen bestrijdt in plaats van de oorzaak. De oorzaak zal moeten worden aangepakt in plaats van het gevolg. 
 
 Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen zoals: <br>
-menstruatiepijn, keel-, pees- en slijmbeursontstekingen.
+baarmoeder-, keel-, pees- en slijmbeursontstekingen.
 
 ### 3. Ivan Chai versterkt de antioxiderede werking:
 
@@ -96,7 +96,7 @@ _Gebruik Ivan Chai als preventieve of ter behandeling tegen:_
 
 3. Zwak immuunsysteem
 
-4. Menstruatiepijn
+4. Baarmoederontsteking
 
 5. Keelontsteking
 
