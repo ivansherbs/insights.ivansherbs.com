@@ -12,11 +12,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 _De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd._
 
-Het eerste deel van het artikel zullen we ingaan op een zwak immuunsysteem. En de invloed van farmaceutische medicijnen. 
-
-Het tweede deel van het artikel zullen we de Siberische kruidenthee Ivan Chai onder de loep nemen.
-
-### Inhoud van het artikel
+### Inhoud 
 
 **Deel 1: Zwak immuunsysteem**
 * Wat is het immuunsysteem? 
@@ -74,8 +70,7 @@ Slechte spijsvertering
 ### Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
 Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem verzorgd. Het kan zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe ziekten en gezondheidsproblemen.
 
-Het tweede deel van het artikel leggen we je meer uit over Ivan Chai. 
-
+_Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking._
 # Deel 2: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
