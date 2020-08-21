@@ -5,8 +5,7 @@ title: Ivan Chai: "Verzorg je lichaam en geest met kruidenthee uit Siberië"
 
 Door **Ivan’s Insights** | Siberische kruidenthee <br>
 
-Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. <br>
-De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand.
+### Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen. De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand.
 
 # Ivan Chai:
 > 1 - Versterkt de weerstand <br>
@@ -20,16 +19,9 @@ De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en alg
 Goed om te weten: <br>
 _De 7 voordelen van Ivan Chai zijn gebaseerd op hedendaagse artikelen. Waarvan de werking - wetenschappelijk - is geëvalueerd door het 'European Medicines Agency' (EMA)._
 
-Het eerste deel van het artikel zullen we ingaan op de 7 voordelen van Ivan Chai. 
-Waarna we je in het tweede deel een opsomming geven. 
+Dit artikel zullen we ingaan op de 7 voordelen van Ivan Chai. We geven je een opsomming tegen welke 17 problemen Ivan Chai als - preventieve of ter behandeling - kan worden gebruikt. Waarna we eindigen met onze conclusie. En smaakbeleving door thee experts. 
 
-Deze opsomming bestaat uit 17 problemen waar je Ivan Chai - als preventieve of ter behandeling - tegen kunt gebruiken. 
-Gevolgd door - deel drie - de strekking van het verhaal.
-
-Tot slot, de smaakbeleving - uiteraard door thee experts. 
-
-### Deel 1:
-# 7 Voordelen
+## 7 Voordelen
 
 _Gebruik Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer._
 
@@ -50,7 +42,7 @@ Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectief bij het v
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Hiermee worden vaak symptomen worden bestrijdt in plaats van de oorzaak. De oorzaak zal moeten worden aangepakt in plaats van het gevolg. Hierdoor zal men minder snel gedwongen worden kennis te maken met de bijwerkingen. 
 
 Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen zoals: <br>
-menstruatiepijn, keel-, pees- en slijmbeursontstekingen.
+baarmoeder-, keel-, pees- en slijmbeursontstekingen.
 
 ### 3. Ivan Chai versterkt de antioxiderede werking:
 
@@ -101,13 +93,7 @@ Het helpt ontstekingen van de maagwand en de kleinere en grotere darm te voorkom
 
 Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geëlimineerd. Dit doe je door een afkooksel te drinken met grote hoeveelheden Ivan Chai.
 
-Kortom, het lichaam is een intelligent systeem in staat tot zelfregulatie en genezing. <br> 
-Waarbij hulp van buiten - in de vorm van kruidenthee - mag worden omarmt.
-
-In het volgende deel kun je de opsomming vinden van 17 problemen.
-
-### Deel 2:
-# 17 Problemen
+## Tegen 17 Problemen
 
 _Deze Siberische kruidenthee kan worden gebruikt tegen 17 problemen. Voor meer informatie - klik op het probleem._
 
@@ -119,7 +105,7 @@ _Deze Siberische kruidenthee kan worden gebruikt tegen 17 problemen. Voor meer i
 3. Zwak immuunsysteem 
 
 ### Krachtige ontstekingsremmer
-4. Menstruatiepijn
+4. Baarmoederontsteking
 
 5. Keelontsteking
 
@@ -157,8 +143,7 @@ Goed om te weten:
 
 Nu duidelijk is tegen welke 17 problemen Ivan Chai - als preventieve of ter behandeling - kan worden gebruikt, hieronder onze conclusie. 
 
-### Deel 3:
-# Conclusie  
+## Ivan's Conclusie  
 
 _De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. <br> 
 We dwingen je daarom niet om alle problemen aan te pakken - **kies je gevechten**._
@@ -167,8 +152,7 @@ Onze klanten kunnen op ons vertrouwen. We informeren over natuurlijke behandelin
 
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
-### Deel 4:
-# Smaakbeleving
+## Smaakbeleving
 
 _De strekking van het verhaal mag duidelijk zijn. De smaak nog niet. Ivan Chai is door verschillende thee experts geslurpt:_
 
