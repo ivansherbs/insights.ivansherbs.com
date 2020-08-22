@@ -22,7 +22,7 @@ Het European Medicines Agency heeft de werking hiervan geëvalueerd en goedgekeu
 
 ### 1. Ivan Chai versterkt de weerstand:
 
-De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het schimmels, gist en bacteriën verhinderd.
+De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd.
 Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem.
