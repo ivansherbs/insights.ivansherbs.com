@@ -90,8 +90,6 @@ De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzo
 
 Overigens, heeft onderzoek aangetoond dat je met Ivan Chai meerdere gezondheidsproblemen kunt behandelen.
 
-Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is?
-
 ### Bereidingswijze
 Totale tijd: ca 7 min
 
