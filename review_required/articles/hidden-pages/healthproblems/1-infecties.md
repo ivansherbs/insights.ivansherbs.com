@@ -3,7 +3,7 @@ layout: article.html
 title: Infecties: Wil jij infecties voorkomen of behandelen?
 ---
 
-Door **Ivan’s Insights** | Infecties: Schimmels - Gist - Bacterieel
+Door **Ivan’s Insights** | Infecties: schimmels - gist - bacterieel
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
@@ -80,7 +80,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 # Behandeling: Ivan Chai 
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een infectie.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een infectie: schimmel - gist - bacterieel
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
@@ -98,8 +98,6 @@ Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wor
 > In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten destijds alras een krachtig effect op het lichaam.
 
 Onderzoek heeft aangetoond dat je er meerdere gezondheidsproblemen mee kunt behandelen. 
-
-Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is? 
 
 ### Bereidingswijze 
 Totale tijd: ca 7 min 
