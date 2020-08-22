@@ -35,7 +35,7 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
   - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
 
-# Deel 1: Baarmoederontsteking
+# Probleem: Baarmoederontsteking
 Laten we beginnen met de allereerste vraag gericht op een baarmoederontsteking.
 
 ### Waardoor krijg je een baarmoederontsteking?
