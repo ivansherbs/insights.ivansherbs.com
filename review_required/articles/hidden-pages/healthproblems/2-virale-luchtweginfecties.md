@@ -5,7 +5,7 @@ title: Luchtweginfecties: Hoe voorkom je op eenvoudige wijze verkoudheid of grie
 
 Door **Ivan’s Insights** | Luchtweginfecties: verkoudheid - griep <br>
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
+_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen._
  
 ### Bewezen effectiviteit:
 > Ivan Chai - Versterkt de weerstand
