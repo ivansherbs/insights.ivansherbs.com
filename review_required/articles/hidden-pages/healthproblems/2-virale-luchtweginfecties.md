@@ -110,7 +110,7 @@ De smaakbeleving is als volgt te omschrijven:
 
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
-Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
+* Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
 
 Goed om te weten! Deze therapeutische dosering van Ivan Chai wordt aangeraden door het European Medicines Agency (EMA).
 
