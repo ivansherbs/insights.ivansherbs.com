@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Baarmoederontsteking: Preventieve bescherming van je meest kwetsbare orgaan.
+title: Baarmoederontsteking: Preventieve bescherming van je meest kwetsbare orgaan
 ---
 
 Door **Ivan’s Insights** | Baarmoederontsteking
