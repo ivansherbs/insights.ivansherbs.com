@@ -5,22 +5,20 @@ title: Zwak immuunsysteem: Beperk de mate van kwetsbaarheid
 
 Door **Ivan’s Insights** | Zwak immuunsysteem <br>
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
 ### Bewezen effectiviteit: 
 > Ivan Chai - Versterkt de weerstand
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
 
-### Inhoud 
-
-**Deel 1: Zwak immuunsysteem**
+**Probleem: Zwak immuunsysteem**
 * Wat is het immuunsysteem? 
 * Wanneer spreek je van een zwak immuunsysteem? 
 * Wanneer krijg je last van een zwak immuunsysteem?
 * Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
 
-**Deel 2: Ivan Chai** <br>
+**Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
   - Bevindingen
 * Bereidingswijze
@@ -35,7 +33,7 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit bli
   - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
 
-# Deel 1: Zwak immuunsysteem
+# Probleem: Zwak immuunsysteem
 Laten we beginnen met de allereerste vraag gericht op het immuunsysteem.
 
 ### Wat is het immuunsysteem?
@@ -52,13 +50,15 @@ Een sterk immuunsysteem beperkt de mate van kwetsbaarheid.
 ### Wanneer spreek je van een zwak immuunsysteem? 
 We spreken van een zwak immuunsysteem wanneer je lichaam kwetsbaar is voor indringers.
 Er zijn verschillende symptomen die - in combinatie - kunnen wijzen op een zwak immuunsysteem:
-Vermoeidheid
-Vaak last van infecties
-Vaak last van verkoudheid en griep
-Vaak last van allergieën
-Je lichaam herstelt langzaam
-Gevoelig voor spierpijn 
-Slechte spijsvertering 
+* Je heb vaak last van:
+  - infecties
+  - verkoudheid
+  - griep
+  - allergieën
+  - vermoeidheid
+* Je lichaam herstelt langzaam
+* Je bent gevoelig voor spierpijn
+* Je hebt last van een slechte spijsvertering 
 
 ### Wanneer krijg je last van een zwak immuunsysteem?
 * Kort samengevat - bij een tekort aan witte bloedcellen. Witte bloedcellen beschermen het lichaam en vallen indringers aan. Enkele voorbeelden waardoor een tekort kan ontstaan:
@@ -70,9 +70,10 @@ Slechte spijsvertering
 ### Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
 Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem verzorgd. Het kan zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe ziekten en gezondheidsproblemen.
 
-_Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking._
-# Deel 2: Ivan Chai
+# Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
+
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een zwak immuunsysteem.
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
@@ -91,8 +92,6 @@ Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wor
 
 Onderzoek heeft aangetoond dat je er meerdere gezondheidsproblemen mee kunt behandelen. 
 
-Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is? 
-
 ### Bereidingswijze
 Totale tijd: ca 7 min
 
@@ -101,7 +100,9 @@ Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of
 De smaakbeleving is als volgt te omschrijven:
  
 **Smaakbeleving** <br>
-"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+
+* "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
  
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
@@ -133,18 +134,18 @@ Als u medicijnen gebruikt voorgeschreven door uw arts, maak deze kuur dan eerst 
  
 Tot op vandaag zijn de volgende symptomen **niet** bij ons bekend:
  
-* _Misselijkheid_
-* _Maagpijn_
-* _Braken (eventueel met bloed)_
-* _Diarree (eventueel met bloed)_
-* _Duizeligheid_
-* _Onwillekeurige bewegingen van de ogen_
-* _Dubbelzien_
-* _Hoofdpijn_
-* _Oorsuizen_
-* _Nierfunctiestoornis_
-* _Verlaagde bloeddruk_
-* _Coma_
+* Misselijkheid
+* Maagpijn
+* Braken (eventueel met bloed)
+* Diarree (eventueel met bloed)
+* Duizeligheid
+* Onwillekeurige bewegingen van de ogen
+* Dubbelzien
+* Hoofdpijn
+* Oorsuizen
+* Nierfunctiestoornis
+* Verlaagde bloeddruk
+* Coma
  
 **Contra-indicaties en waarschuwingen** <br>
 Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen. En is veilig voor kinderen.
