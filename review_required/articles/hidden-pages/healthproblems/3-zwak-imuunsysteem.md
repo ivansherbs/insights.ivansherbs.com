@@ -68,7 +68,9 @@ Er zijn verschillende symptomen die - in combinatie - kunnen wijzen op een zwak 
   - Slecht werkende darmen - een slechte opname van voedingsstoffen leidt tot een zwak immuunsysteem. 
 
 ### Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Over het algemeen wordt het gezondheidsprobleem verzorgd. Het kan zijn dat door gebruik – van het medicijn - je weerstand vermindert. Hierdoor ben je kwetsbaar voor nieuwe ziekten en gezondheidsproblemen.
+Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen. 
+
+Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe gezondheidsproblemen. Zo zijn er tal van ongewenste bijwerkingen. 
 
 # Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
