@@ -5,7 +5,7 @@ title: Baarmoederontsteking: Preventieve bescherming van je meest kwetsbare orga
 
 Door **Ivan’s Insights** | Baarmoederontsteking
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
+_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen._
  
 ## Bewezen effectiviteit:
 > Ivan Chai - Krachtige ontstekingsremmer 
