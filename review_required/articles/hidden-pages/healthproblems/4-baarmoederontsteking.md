@@ -69,7 +69,7 @@ De volgende bijwerkingen kunnen optreden - meestal na enkele dagen:
 * Extreme moeheid
 * Metaalsmaak in de mond
 * Wazig zicht
-* Geen kracht meer (en pijn in handen)
+* Geen kracht meer (en pijn in je handen)
 * Gedurende de hele dag jezelf slecht voelen. 
 
 # Behandeling: Ivan Chai
