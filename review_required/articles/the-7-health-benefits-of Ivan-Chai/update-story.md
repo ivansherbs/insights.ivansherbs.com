@@ -87,8 +87,9 @@ Volgens de traditionele volksgeneeskunde kunnen zelfs darmparasieten worden geë
 
 
 ## Tegen 17 Problemen
+_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-_Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:_
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie - schimmel, gist, bacterieel
 
