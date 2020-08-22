@@ -91,7 +91,7 @@ _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
-1. Infectie - schimmel, gist, bacterieel
+1. Infectie - schimmel, gist en bacterieel
 
 2. Luchtweginfectie - verkoudheid en griep
 
