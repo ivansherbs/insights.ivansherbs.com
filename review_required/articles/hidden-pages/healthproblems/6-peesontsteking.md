@@ -53,7 +53,7 @@ Er zijn naast volleybal tal van sporten waarbij snelle, krachtige en explosieve 
 Denk hierbij aan duursporten zoals:
 * wielrennen
 * roeien
-* hardlopen
+* hardlopen <br>
 maar ook sporten zoals,
 * voetbal
 * tennis 
