@@ -39,7 +39,7 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit bli
 Laten we beginnen met de allereerste vraag gericht op infecties. 
 
 ### Wat is een infectie?
-Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen het lichaam binnendringt - als reactie hierop beschadigd het weefsel. 
+Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt - als reactie hierop beschadigd het weefsel. 
 
 In dit artikel zul je geïnformeerd worden over micro-organisme in de vorm van schimmels, gist of bacteriën. Deze micro-organismen leven overal op het lichaam. Denk hierbij aan in de mond, op de handen, voeten en in de intieme zone. 
 
@@ -48,11 +48,11 @@ Een infectie kun je oplopen via schimmels, gist of bacteriën.
 
 Zo heeft iedereen last van schimmels. Een infectie kun je bijvoorbeeld krijgen door een overtollige hoeveelheid aan schimmels. 
 
-Jammer genoeg, groeien deze schimmels op plekken waar ze het lichaam kunnen beschadigen. Naast schimmels worden er ook gist en ongewenste bacteriën - veelal in kleine getalen - bij mensen aangetroffen. 
+Jammer genoeg, groeien deze schimmels op plekken waar ze je lichaam kunnen beschadigen. Naast schimmels worden er ook gist en ongewenste bacteriën - veelal in kleine getalen - bij mensen aangetroffen. 
 
 Eén van de oorzaken die juist zorgen voor een overtollige hoeveelheid aan micro-organisme, is het gebruik van farmaceutische medicijnen. 
 
-Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je immuunsysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Wat uiteindelijk kan leiden tot een infectie. 
+Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je immuunsysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Dit kan leiden tot een infectie. 
 
 ### Welke medicijnen zijn van invloed op infecties?
 Laten we ons richten op veelgebruikte medicijnen. Denk aan:
