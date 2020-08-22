@@ -50,11 +50,10 @@ Bij sporten waar je vaak dezelfde snelle, krachtige en explosieve bewegingen maa
 
 Laten we volleybal als voorbeeld nemen. Je schouder komt door dezelfde bewegingen onder druk te staan. Pezen die door deze bewegingen onder druk komen te staan raken hierdoor - na verloop van tijd - geïrriteerd of ontstoken.
 Er zijn naast volleybal tal van sporten waarbij snelle, krachtige en explosieve bewegingen worden gebruikt. <br>
-Denk hierbij aan duursporten zoals:
+Denk hierbij aan sporten zoals:
 * wielrennen
 * roeien
-* hardlopen <br>
-maar ook sporten zoals,
+* hardlopen
 * voetbal
 * tennis 
 * hockey
