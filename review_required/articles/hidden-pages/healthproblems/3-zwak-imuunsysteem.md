@@ -5,7 +5,7 @@ title: Zwak immuunsysteem: Beperk de mate van kwetsbaarheid
 
 Door **Ivan’s Insights** | Zwak immuunsysteem <br>
 
-_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen._
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
 ### Bewezen effectiviteit: 
 > Ivan Chai - Versterkt de weerstand
