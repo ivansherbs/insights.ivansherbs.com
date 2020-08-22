@@ -20,7 +20,7 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit bli
 * Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
 * Waardoor vergroot ik de kans op een infectie?
 
-**Oplossing: Ivan Chai** <br>
+**Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
   - Bevindingen
 * Bereidingswijze
@@ -77,7 +77,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 2) Ouderdom - vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties. Net als ouderen met kunstgebit.
 3) Ziekten - mensen met diabetes zijn extra gevoelig voor infecties. 
 
-# Oplossing: Ivan Chai 
+# Behandeling: Ivan Chai 
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een infectie.
