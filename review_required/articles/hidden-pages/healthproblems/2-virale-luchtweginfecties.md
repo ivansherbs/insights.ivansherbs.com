@@ -3,18 +3,16 @@ layout: article.html
 title: Luchtweginfecties: Hoe voorkom je op eenvoudige wijze verkoudheid of griep?
 ---
 
-Door **Ivan’s Insights** | Luchtweginfecties <br>
+Door **Ivan’s Insights** | Luchtweginfecties: verkoudheid - griep <br>
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
 ### Bewezen effectiviteit:
 > Ivan Chai - Versterkt de weerstand
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op luchtweginfecties vele malen verminderd.
 
-### Inhoud
-
-**Deel 1: Luchtweginfecties**
+**Probleem: Luchtweginfecties**
 * Wat is een luchtweginfectie?
 * Wanneer krijg je last van een luchtweginfectie?
 * Wat vergroot de kans op een luchtweginfecties?
@@ -22,7 +20,7 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit bli
 * Welk effect heeft het gebruik van medicijnen op luchtweginfecties?
 * Waardoor vergroot ik de kans op een luchtweginfectie?
 
-**Deel 2: Ivan Chai** <br>
+**Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
   - Bevindingen
 * Bereidingswijze
@@ -37,7 +35,7 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit bli
   - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
 
-# Deel 1: Luchtweginfecties
+# Probleem: Luchtweginfecties
 Laten we beginnen met de allereerste vraag gericht op luchtweginfecties.
 
 ### Wat is een luchtweginfectie?
@@ -73,9 +71,10 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Enke
 2) Ouderdom - vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op luchtweginfecties. 
 3) Ziekten - mensen met chronische ziekten zijn extra gevoelig voor luchtweginfecties.
 
-_Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking._
-# Deel 2: Ivan Chai
+# Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
+
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een luchtweginfectie: verkoudheid - griep
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai. 
@@ -94,8 +93,6 @@ Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wor
 
 Onderzoek heeft aangetoond dat je er meerdere gezondheidsproblemen mee kunt behandelen. 
 
-Benieuwd hoe eenvoudig de bereidingswijze van Ivan Chai is? 
-
 ### Bereidingswijze 
 Totale tijd: ca 7 min 
 
@@ -104,8 +101,10 @@ Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of
 De smaakbeleving is als volgt te omschrijven:
  
 **Smaakbeleving** <br>
-"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
- 
+* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+
+* "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
+
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
