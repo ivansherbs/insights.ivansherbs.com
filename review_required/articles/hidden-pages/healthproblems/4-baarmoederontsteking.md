@@ -90,7 +90,9 @@ Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de 
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
 > ………………………………………..
 
-Overigens, heeft onderzoek aangetoond dat je met Ivan Chai meerdere gezondheidsproblemen kunt behandelen.
+Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking. In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten destijds alras een krachtig effect op het lichaam.
+
+Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen.
 
 ### Bereidingswijze
 Totale tijd: ca 7 min
