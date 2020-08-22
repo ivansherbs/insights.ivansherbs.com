@@ -3,7 +3,7 @@ layout: article.html
 title: Luchtweginfecties: Hoe voorkom je op eenvoudige wijze verkoudheid of griep?
 ---
 
-Door **Ivan’s Insights** | Luchtweginfecties: verkoudheid - griep <br>
+Door **Ivan’s Insights** | Luchtweginfectie: verkoudheid - griep <br>
 
 _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen._
  
@@ -12,7 +12,7 @@ _Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel. Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op luchtweginfecties vele malen verminderd.
 
-**Probleem: Luchtweginfecties**
+**Probleem: Luchtweginfectie**
 * Wat is een luchtweginfectie?
 * Wanneer krijg je last van een luchtweginfectie?
 * Wat vergroot de kans op een luchtweginfecties?
@@ -35,8 +35,8 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit bli
   - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
 
-# Probleem: Luchtweginfecties
-Laten we beginnen met de allereerste vraag gericht op luchtweginfecties.
+# Probleem: Luchtweginfectie
+Laten we beginnen met de allereerste vraag gericht op een luchtweginfectie.
 
 ### Wat is een luchtweginfectie?
 Men verstaat onder een luchtweginfectie een ontsteking van het slijmvlies in de luchtwegen. Dit komt je waarschijnlijk bekend voor. Maar dan als een verkoudheid of griep. 
