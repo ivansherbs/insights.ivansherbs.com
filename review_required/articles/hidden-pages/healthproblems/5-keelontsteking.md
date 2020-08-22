@@ -5,7 +5,7 @@ title: Keelontsteking: Wat te gebruiken wanneer antibiotica geen zin heeft?
 
 Door **Ivan’s Insights** | Keelontsteking
 
-_Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een keelontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen._
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een keelontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
 ## Bewezen effectiviteit:
 > Ivan Chai - Krachtige ontstekingsremmer
