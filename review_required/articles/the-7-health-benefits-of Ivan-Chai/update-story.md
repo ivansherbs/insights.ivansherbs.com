@@ -48,7 +48,7 @@ Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
 Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen.
 
-In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. Echter doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
+In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden, hoe het helpt bij slaapstoornissen.
 
 ### 5. Ivan Chai vermindert de kans op stress, angst en een burnout:
 
