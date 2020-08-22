@@ -5,7 +5,7 @@ title: Baarmoederontsteking: Preventieve bescherming van je meest kwetsbare orga
 
 Door **Ivan’s Insights** | Baarmoederontsteking
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief op farmaceutische medicijnen.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
 ## Bewezen effectiviteit:
 > Ivan Chai - Krachtige ontstekingsremmer 
@@ -13,16 +13,14 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 Ivan Chai is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een baarmoederontsteking.
 
-### Inhoud
-
-**Deel 1: Baarmoederontsteking**
+**Probleem: Baarmoederontsteking**
 * Waardoor krijg je een baarmoederontsteking?
 * Welke symptomen duiden op een baarmoederontsteking? 
 * Welke farmaceutische medicijnen behandelen een baarmoederontsteking? 
 * Welk effect heeft het gebruik van medicijnen op baarmoederontsteking?
 * Welke ongewenste bijwerkingen kan antibiotica bij gebruik met zich meebrengen?
 
-**Deel 2: Ivan Chai** <br>
+**Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
   - Bevindingen
 * Bereidingswijze
@@ -74,9 +72,10 @@ De volgende bijwerkingen kunnen optreden - meestal na enkele dagen:
 * Geen kracht meer (en pijn in handen)
 * Gedurende de hele dag jezelf slecht voelen. 
 
-_Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking._
-# Deel 2: Ivan Chai
+# Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
+
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking.
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van het Wilgenroosje. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
@@ -101,7 +100,9 @@ Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of
 De smaakbeleving is als volgt te omschrijven:
  
 **Smaakbeleving** <br>
-"Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+
+* "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
  
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
