@@ -54,7 +54,7 @@ Er zijn verschillende symptomen die wijzen op een baarmoederontsteking:
 * Pijn gedurende de seks 
 * Lichte koorts
 * Abnormale vaginale afscheiding of vaginale bloedingen
-* Jeuk in de vagina 
+* Jeuk in je vagina 
 
 ### Welke farmaceutische medicijnen behandelen een baarmoederontsteking? 
 Een ontsteking kan worden behandeld met: 
