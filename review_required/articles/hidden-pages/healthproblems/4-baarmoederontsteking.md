@@ -23,6 +23,7 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
   - Bevindingen
+  - Behandeling tegen 17 problemen
 * Bereidingswijze
   - Smaakbeleving
   - Intensiteit
@@ -87,12 +88,49 @@ Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’
 Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de wildernis van Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden.
 
 **Bevindingen** <br>
-De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
+De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
 > ………………………………………..
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking. In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten destijds alras een krachtig effect op het lichaam.
 
 Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen.
+
+**Behandeling tegen 17 problemen** <br>
+Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
+
+1. Infectie: schimmel - gist - bacterieel
+
+2. Luchtweginfectie: verkoudheid - griep
+
+3. Zwak immuunsysteem
+
+4. Baarmoederontsteking
+
+5. Keelontsteking
+
+6. Peesontsteking
+
+7. Slijmbeursontsteking
+
+8. Hart- en vaatziekten
+
+9. Slaapproblemen
+
+10. Stress
+
+11. Angst
+
+12. Burnout
+
+13. Prostaatontsteking
+
+14. Vergrote prostaat
+
+15. Prostaatkanker
+
+16. Urineweginfectie
+
+17. Buikgriep
 
 ### Bereidingswijze
 Totale tijd: ca 7 min
