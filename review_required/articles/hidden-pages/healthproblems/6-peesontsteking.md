@@ -58,11 +58,11 @@ Denk hierbij aan de gangbare duur-, kracht- en balsporten.
 Er zijn verschillende symptomen die wijzen op een peesontsteking:
 * Je pees doet pijn tijdens inspanningen.
 * Je pees doet pijn tijdens het rusten. 
-* Je pees straalt de pijn uit rondom de plek.
+* Je krijgt last van uitstralingspijn.
 * Je wordt beperkt in je bewegingsvrijheid.
-* Zwelling van de plek.
-* De plek kleurt rood.
-* De plek kan warm aanvoelen. 
+* Zwelling van de pijnlijke plek.
+* De pijnlijke plek kleurt rood.
+* De pijnlijke plek kan warm aanvoelen. 
 
 ### Welke farmaceutische medicijnen behandelen een peesontsteking?
 Een ontsteking kan worden behandeld met:
