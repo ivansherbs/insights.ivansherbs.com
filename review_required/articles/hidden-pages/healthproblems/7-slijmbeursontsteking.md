@@ -62,7 +62,7 @@ Zowel bij mannen als vrouwen komt de slijmbeursontsteking het meest voor op de s
 
 ### Welke farmaceutische medicijnen behandelen een slijmbeursontsteking?
 Een ontsteking kan worden behandeld met:
-* Pijnstillers - deze medicijnen gaan in combinatie met het nemen van rust. Het gevaar van een pijnstiller, is dat je de pijn niet meer voelt. En doorgaat met je dagelijkse bezigheden. Hierdoor blijft je slijmbeurs - zonder dat je er erg in hebt - overbelast.
+* Pijnstillers - dit medicijn gaat in combinatie met het nemen van rust. Het gevaar van een pijnstiller, is dat je de pijn niet meer voelt. En doorgaat met je dagelijkse bezigheden. Hierdoor blijft je slijmbeurs - zonder dat je er erg in hebt - overbelast.
 * Ontstekingsremmers type NSAID - wanneer het nemen van rust niet het gewenste resultaat oplevert. Dit zware type ontstekingsremmer geeft ongewenste bijwerkingen. Vanaf 60 jaar kan dit meerdere problemen veroorzaken. Denk hierbij aan:
   - maag- 
   - darm-
