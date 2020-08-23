@@ -1,6 +1,7 @@
 ---
 layout: article.html
 title: Slijmbeursontsteking: Verzorg je beschermkappen, behoudt soepele gewrichten
+
 ---
 
 Door **IVAN'S INSIGHTS** | Slijmbeursontsteking
@@ -44,7 +45,7 @@ Een ontsteking van de slijmbeurs in één van je gewrichten. Slijmbeurzen kun je
 ### Waardoor krijg je een slijmbeursontsteking?
 Een slijmbeursontsteking krijg je door deze te overbelasten. Het overbelasten gebeurt tijdens dagelijkse bezigheden. Vooral op oudere leeftijd kunnen de meest gangbare activiteiten de beschermkappen al irriteren - denk aan sporten, schilderen of onkruid verwijderen tussen de tegels in de tuin. 
 
-Goed om te weten. Je kunt onderscheid maken tussen een acute of chronische slijmbeursontsteking:
+Door de verscheidenheid aan activiteiten kun je onderscheid maken tussen een acute of chronische slijmbeursontsteking:
 * Acuut: plotselinge druk door vallen of stoten. Of een korte hevige intensieve belasting. 
 * Chronisch: langdurige en lichte overbelasting.
 
@@ -61,9 +62,10 @@ Zowel bij mannen als vrouwen komt de slijmbeursontsteking het meest voor op de s
 
 ### Welke farmaceutische medicijnen behandelen een slijmbeursontsteking?
 Een ontsteking kan worden behandeld met:
-Pijnstillers - pakt niet de ontsteking aan.
-Ontstekingsremmers - pakt niet de pijn aan.
-Ontstekingsremmende pijnstillers - pakt zowel de pijn als de ontsteking aan. Maar geven wél de meeste ongewenste bijwerkingen.
+* Pijnstillers - deze medicijnen gaan in combinatie met het nemen van rust. Het gevaar van een pijnstiller, is dat je de pijn niet meer voelt. En doorgaat met je dagelijkse bezigheden. Hierdoor blijft je slijmbeurs - zonder dat je er erg in hebt - overbelast.
+* Ontstekingsremmers type NSAID - wanneer het nemen van rust niet het gewenste resultaat oplevert. Dit zware type ontstekingsremmer geeft ongewenste bijwerkingen. Vanaf 60 jaar kan dit meerdere problemen veroorzaken. <br> <br> 
+Denk hierbij aan maag-, darm, hart-, vaat- en nierproblemen. 
+* Injectie - Wanneer rust en medicijnen in de vorm van pillen niet het gewenst effect opleveren. Een arts kan rechtstreeks een corticosteroïd injectie injecteren. De bijwerkingen zijn echter vele malen erger. Denk hierbij aan zwelling, uitslag, verkleuring van de huid, hoofdpijn, misselijkheid, spierkrampen, opvliegers en vaginaal bloedverlies. 
 ### Welk effect heeft het gebruik van medicijnen op een slijmbeursontsteking?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van farmaceutische medicijnen ongewenste bijwerkingen met zich meebrengen.
 Het kan zijn dat door gebruik – van het medicijn - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe gezondheidsproblemen. Zo zijn er tal van ongewenste bijwerkingen.
