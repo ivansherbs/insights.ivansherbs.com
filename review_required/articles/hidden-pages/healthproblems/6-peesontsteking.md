@@ -55,9 +55,9 @@ Denk hierbij aan de gangbare duur-, kracht- en balsporten.
 
 ### Welke symptomen duiden op een peesontsteking?
 Er zijn verschillende symptomen die wijzen op een peesontsteking:
-* De pees doet pijn tijdens inspanningen.
-* De pees doet pijn tijdens het rusten. 
-* De pees straalt de pijn uit rondom de plek.
+* Je pees doet pijn tijdens inspanningen.
+* Je pees doet pijn tijdens het rusten. 
+* Je pees straalt de pijn uit rondom de plek.
 * Je wordt beperkt in je bewegingsvrijheid.
 * Zwelling van de plek.
 * De plek kleurt rood.
