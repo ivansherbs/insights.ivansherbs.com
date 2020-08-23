@@ -51,8 +51,7 @@ Bij sporten waar je vaak dezelfde snelle, krachtige en explosieve bewegingen maa
 
 Laten we volleybal als voorbeeld nemen. Je schouder komt door dezelfde bewegingen onder druk te staan. Pezen die door deze bewegingen onder druk komen te staan raken hierdoor - na verloop van tijd - geïrriteerd of ontstoken.
 
-Er zijn naast volleybal tal van sporten waarbij snelle, krachtige en explosieve bewegingen worden gebruikt. <br>
-Denk hierbij aan de gangbare duur-, kracht- en balsporten.
+Er zijn naast volleybal tal van sporten waarbij snelle, krachtige en explosieve bewegingen worden gebruikt. Denk aan de gangbare duur-, kracht- en balsporten.
 
 ### Welke symptomen duiden op een peesontsteking?
 Er zijn verschillende symptomen die wijzen op een peesontsteking:
