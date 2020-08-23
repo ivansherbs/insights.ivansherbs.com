@@ -38,7 +38,7 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit bli
 Laten we beginnen met de allereerste vraag gericht op het immuunsysteem.
 
 ### Wat is het immuunsysteem?
-Het immuunsysteem is het afweersysteem van je lichaam. Het beschermt je tegen ziekten en gezondheidsproblemen. 
+Het immuunsysteem is het afweersysteem van je lichaam. Het beschermt je tegen ziekten en problemen. 
 
 In andere woorden, het immuunsysteem helpt je indringers buiten je lichaam te houden. In dit artikel, verstaan we onder indringers: 
 * schimmels
@@ -71,7 +71,7 @@ Er zijn verschillende symptomen die - in combinatie - kunnen wijzen op een zwak 
 ### Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen. 
 
-Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe gezondheidsproblemen. Zo zijn er tal van ongewenste bijwerkingen. 
+Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen. 
 
 # Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
