@@ -3,7 +3,7 @@ layout: article.html
 title: Peesontsteking: Een veel voorkomende sportblessure
 ---
 
-Door **Ivan’s Insights** | Peesontsteking
+Door **IVAN´S INSIGHTS** | Peesontsteking
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een peesontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
@@ -24,6 +24,7 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
   - Bevindingen
+  - Behandeling tegen 17 problemen
 * Bereidingswijze
   - Smaakbeleving
   - Intensiteit
@@ -50,25 +51,17 @@ Bij sporten waar je vaak dezelfde snelle, krachtige en explosieve bewegingen maa
 
 Laten we volleybal als voorbeeld nemen. Je schouder komt door dezelfde bewegingen onder druk te staan. Pezen die door deze bewegingen onder druk komen te staan raken hierdoor - na verloop van tijd - geïrriteerd of ontstoken.
 Er zijn naast volleybal tal van sporten waarbij snelle, krachtige en explosieve bewegingen worden gebruikt. <br>
-Denk hierbij aan sporten zoals:
-* wielrennen
-* roeien
-* hardlopen
-* voetbal
-* tennis 
-* hockey
+Denk hierbij aan de gangbare duur-, kracht- en balsporten.
 
 ### Welke symptomen duiden op een peesontsteking?
 Er zijn verschillende symptomen die wijzen op een peesontsteking:
-* Pijn: 
-  - ter hoogte van je pees. Meestal een stekende en zeurende pijn. 
-  - tijdens de belasting op je pees.
-  - op den duur óók in rust. 
-  - op den duur - straalt dit uit - rondom je pees.
-* Beperkt worden in je bewegingsvrijheid.
+* De pees doet pijn tijdens inspanningen.
+* De pees doet pijn tijdens het rusten. 
+* De pees straalt de pijn uit rondom de plek.
+* Je wordt beperkt in je bewegingsvrijheid.
 * Zwelling van de plek.
-* De pijnlijke plek kleurt rood.
-* De pijnlijke plek kan warm aanvoelen. 
+* De plek kleurt rood.
+* De plek kan warm aanvoelen. 
 
 ### Welke farmaceutische medicijnen behandelen een peesontsteking?
 Een ontsteking kan worden behandeld met:
@@ -94,7 +87,7 @@ Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’
 Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de wildernis van Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden.
 
 **Bevindingen** <br>
-De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen; waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
+De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. De bevindingen zijn als volgt:
 > ………………………………………..
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking. 
@@ -103,6 +96,7 @@ In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberisc
 
 Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen.
 
+**Behandeling tegen 17 problemen** <br>
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
