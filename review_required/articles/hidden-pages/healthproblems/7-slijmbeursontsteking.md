@@ -19,7 +19,7 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 * Waardoor krijg je een slijmbeursontsteking?
 * Welke symptomen duiden op een slijmbeursontsteking?
 * Welke farmaceutische medicijnen behandelen een slijmbeursontsteking?
-* Welk effect heeft het gebruik van medicijnen op een slijmbeursontsteking?
+
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
   - Bevindingen
