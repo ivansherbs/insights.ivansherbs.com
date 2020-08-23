@@ -44,7 +44,7 @@ Een ontsteking van de slijmbeurs in één van je gewrichten. Slijmbeurzen kun je
 ### Waardoor krijg je een slijmbeursontsteking?
 Een slijmbeursontsteking krijg je door deze te overbelasten. Het overbelasten gebeurt tijdens dagelijkse bezigheden. Vooral op oudere leeftijd kunnen de meest gangbare activiteiten de beschermkappen al irriteren - denk aan sporten, schilderen of onkruid verwijderen tussen de tegels in de tuin. 
 
-Door de verscheidenheid aan activiteiten kun je onderscheid maken tussen een acute of chronische slijmbeursontsteking:
+Goed om te weten. Je kunt onderscheid maken tussen een acute of chronische slijmbeursontsteking:
 * Acuut: plotselinge druk door vallen of stoten. Of een korte hevige intensieve belasting. 
 * Chronisch: langdurige en lichte overbelasting.
 
