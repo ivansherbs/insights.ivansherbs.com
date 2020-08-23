@@ -72,7 +72,7 @@ Een ontsteking kan worden behandeld met:
 ### Welk effect heeft het gebruik van medicijnen op een peesontsteking?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van farmaceutische medicijnen ongewenste bijwerkingen met zich meebrengen. 
 
-Het kan zijn dat door gebruik – van het medicijn - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe gezondheidsproblemen. Zo zijn er tal van ongewenste bijwerkingen. 
+Het kan zijn dat door gebruik – van het medicijn - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen. 
 
 # Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
