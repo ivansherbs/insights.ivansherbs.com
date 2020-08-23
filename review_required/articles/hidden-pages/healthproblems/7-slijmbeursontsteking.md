@@ -80,7 +80,7 @@ Een ontsteking kan worden behandeld met:
   - opvliegers 
   - en vaginaal bloedverlies. 
 
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe gezondheidsproblemen. 
+Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. 
 
 # Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
