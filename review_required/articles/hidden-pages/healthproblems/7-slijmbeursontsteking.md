@@ -113,7 +113,7 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 4. Baarmoederontsteking
 
-5. slijmbeursontsteking
+5. Keelontsteking
 
 6. Peesontsteking
 
