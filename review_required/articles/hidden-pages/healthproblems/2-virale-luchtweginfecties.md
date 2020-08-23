@@ -66,7 +66,7 @@ Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticoncept
 ### Welk effect heeft het gebruik van medicijnen op luchtweginfecties?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen. 
 
-Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe gezondheidsproblemen. Zo zijn er tal van ongewenste bijwerkingen. 
+Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen. 
 
 ### Waardoor vergroot ik de kans op een luchtweginfectie?
 Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Enkele voorbeelden:
