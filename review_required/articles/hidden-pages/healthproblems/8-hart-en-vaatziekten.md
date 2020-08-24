@@ -63,7 +63,7 @@ Er zijn verschillende risicofactoren die de kans vergroten. Deze risico’s zijn
 Deze gevolgen van stress verhogen je kans op een slagaderverkalking. 
 * Erfelijkheid - naast alle bovengenoemde risicofactoren - die zijn te beïnvloeden door het aanpassen van je levensstijl - hebben we tevens te maken met erfelijkheid. Met andere woorden, je hebt erfelijke aanleg om - voor je 65e levensjaar - hart- en vaatziekten op te lopen. 
 
-### Goed om te weten!
+### Goed om te weten
 Het aanpassen van je levensstijl is de eenvoudigste manier om de kans op hart- en vaatziekten te verkleinen. Hierdoor hoef je minder snel kennis te maken met farmaceutische medicijnen die deze problemen bestrijden. 
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen.
