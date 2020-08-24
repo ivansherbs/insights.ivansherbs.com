@@ -21,7 +21,7 @@ Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 * Goed om te weten
 
 **Behandeling: Ivan Chai** <br>
-* Wat is Ivan Chai
+* De oorsprong van Ivan Chai
   - Bevindingen
   - Behandeling tegen 17 problemen
 * Bereidingswijze
@@ -42,8 +42,9 @@ Laten we beginnen met een overzicht. Waarbij we ons de volgende vraag stellen:
 ### Hoeveel impact hebben hart-en vaatziekten in Nederland? 
 * Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 * 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
-* In Nederland leven naar schatting 670.000 vrouwen met een hart- of vaatziekten.
-* Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekten
+* In Nederland leven naar schatting 670.000 vrouwen met hart- of vaatziekten.
+* Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen met hart- of vaatziekten.
+
 ### Waardoor krijg je hart- en vaatziekten?
 Er zijn verschillende risicofactoren die de kans vergroten. Deze risico’s zijn onlosmakend met elkaar verbonden. Hieronder enkele voorbeelden:
 * Roken - vergroot de kans op hart- en vaatziekten op meerdere manieren: 
@@ -77,7 +78,7 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een hart- en vaatziekten.
 
-### Wat is Ivan Chai?
+### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië. 
 
 Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
