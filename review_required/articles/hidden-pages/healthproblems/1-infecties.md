@@ -184,9 +184,10 @@ Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of
 
 Wanneer je de Ivan Chai warm drinkt adviseren wij - voor een optimale smaakbeleving - het kruideninfuus te drinken bij 77 graden Celsius.
 
-De smaakbeleving is als volgt te omschrijven:
- 
+_...en hoe zit het met de smaakbeleving?_ 
+
 ### Smaakbeleving <br>
+De smaakbeleving is als volgt te omschrijven:
 * "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
 
 * "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
@@ -246,7 +247,7 @@ En is veilig voor kinderen.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
  
 **Rijvaardigheid:** <br>
-Ivan Chai heeft geen bijwerkingen die duizeligheid kan veroorzaken. En daarmee de rijvaardigheid kan beïnvloeden.
+Ivan Chai heeft geen bijwerkingen die duizeligheid kan veroorzaken. En daarmee de rijvaardigheid negatief kan beïnvloeden.
  
 ### Hoe bewaar je Ivan Chai?
 Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
