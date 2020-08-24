@@ -136,8 +136,6 @@ De bevindingen zijn als volgt:
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking. 
 
-In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De Siberische monniken merkten destijds een krachtig effect op het lichaam.
-
 Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen.
 
 ### Behandeling tegen 17 problemen <br>
