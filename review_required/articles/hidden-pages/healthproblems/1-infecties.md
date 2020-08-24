@@ -90,10 +90,10 @@ Ja. Het ligt niet alleen aan farmaceutische medicijnen.
 Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wederom enkele voorbeelden:
 
 1) Levensstijl - bijvoorbeeld:
-* roken
-* stress
-* gebrek aan slaap 
-* of een slecht dieet
+  - roken
+  - stress
+  - gebrek aan slaap 
+  - of een slecht dieet
 
 2) Ouderdom - vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties. 
 
