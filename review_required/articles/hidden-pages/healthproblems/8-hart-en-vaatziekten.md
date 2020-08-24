@@ -14,6 +14,7 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 
 Ivan Chai zit boordevol Polyfenolen! Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten.
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
+
 **Probleem: Hart- en vaatziekten**
 * Hoeveel impact hebben hart-en vaatziekten in Nederland? 
 * Waardoor krijg je een hart- en vaatziekten?
