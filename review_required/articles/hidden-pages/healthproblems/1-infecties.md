@@ -43,7 +43,8 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
   - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
 
-**Ivan’s conclusie**
+**Conclusie: Ivan's Insights**
+* Infectie: schimmel - gist - bacterieel
 
 
 # Probleem: Infectie
@@ -258,7 +259,8 @@ Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de v
 
 Gezien de natuurlijke aard kan je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
-# Ivan´s conclusie
+# Conclusie: Ivan's Insights
+### Infectie: schimmel - gist - bacterieel
 
 Het behandelen van een infectie is een must. Of het nou schimmels, gist of bacteriën betreft. Denk niet dat je één van de gelukkigen bent. 
 
