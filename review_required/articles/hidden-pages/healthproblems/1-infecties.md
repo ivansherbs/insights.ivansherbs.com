@@ -97,8 +97,6 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 
 2) Ouderdom - vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties. 
 
-* Net als ouderen met kunstgebit.
-
 3) Ziekten - mensen met diabetes zijn extra gevoelig voor infecties.
 
 ### Goed om te weten
