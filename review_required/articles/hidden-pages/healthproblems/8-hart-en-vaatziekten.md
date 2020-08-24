@@ -56,11 +56,11 @@ Er zijn verschillende risicofactoren die de kans vergroten. Deze risico’s zijn
   - hoge bloeddruk
   - en diabetes
 * Diabetes - is een ziekte. Ziekten kunnen je kans op een hart- of vaatziekte vergroten. 
-* Stress - een kleine mate van stress is oké! Echter kan een overmatige hoeveelheid aan - langdurige - stress leiden tot: 
+* Stress - een kleine mate van stress is oké. De gevolgen van een overmatige hoeveelheid aan - langdurige - stress, kunnen je kans verhogen op een slagaderverkalking: 
+Dit begint met stress in combinatie met:
   - een hoge bloeddruk
   - hoog cholesterolgehalte
   - en ontstekingsreacties <br>
-Deze gevolgen van stress verhogen je kans op een slagaderverkalking. 
 * Erfelijkheid - naast alle bovengenoemde risicofactoren - die zijn te beïnvloeden door het aanpassen van je levensstijl - hebben we tevens te maken met erfelijkheid. Met andere woorden, je hebt erfelijke aanleg om - voor je 65e levensjaar - hart- en vaatziekten op te lopen. 
 
 ### Goed om te weten
