@@ -45,7 +45,7 @@ Laten we beginnen met een overzicht. Waarbij we ons de volgende vraag stellen:
 * In Nederland leven naar schatting 670.000 vrouwen met een hart- of vaatziekten.
 * Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekten
 ### Waardoor krijg je hart- en vaatziekten?
-Er zijn verschillende risicofactoren die de kans vergroten. Deze risico’s zijn onlosmakend met elkaar verbonden. Hieronder 7 voorbeelden:
+Er zijn verschillende risicofactoren die de kans vergroten. Deze risico’s zijn onlosmakend met elkaar verbonden. Hieronder enkele voorbeelden:
 * Roken - vergroot de kans op hart- en vaatziekten op meerdere manieren: 
   - Nicotine verhoogd je hartslag en je bloeddruk. 
   - Je hart heeft zuurstof nodig, door roken neemt koolmonoxide deze plek in. Met als gevolg minder zuurstof in je hart. 
