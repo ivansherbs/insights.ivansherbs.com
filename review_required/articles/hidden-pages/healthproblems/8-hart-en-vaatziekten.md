@@ -14,11 +14,10 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 
 Ivan Chai zit boordevol Polyfenolen! Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten.
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
-
 **Probleem: Hart- en vaatziekten**
 * Hoeveel impact hebben hart-en vaatziekten in Nederland? 
 * Waardoor krijg je een hart- en vaatziekten?
-* Goed om te weten!
+* Goed om te weten
 
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
@@ -51,16 +50,15 @@ Er zijn verschillende risicofactoren die de kans vergroten. Deze risico’s zijn
   - Je hart heeft zuurstof nodig, door roken neemt koolmonoxide deze plek in. Met als gevolg minder zuurstof in je hart. 
   - Je krijgt stuggere bloedvaten. Waardoor cholesterol en vet makkelijker zorgen voor het dichtslibben van bloedvaten. 
 * Hoge bloeddruk - roken, overgewicht, weinig lichaamsbeweging en stress zorgen voor een hoge bloeddruk. Hoe hoger de druk in je bloedvaten - hoe meer kans op een hart- en vaatziekten. 
-* Overgewicht - wanneer je last hebt van overgewicht, heb je een grotere kans op het ontwikkelen van een: 
+* Overgewicht - wanneer je last hebt van overgewicht - door te weinig lichaamsbeweging of een slecht eetpatroon - heb je een grotere kans op het ontwikkelen van een: 
   - hoog cholesterolgehalte
-  - hoge bloeddruk 
-  - en diabetes 
-Overgewicht kun je krijgen door te weinig lichaamsbeweging. Of een slecht eetpatroon. 
+  - hoge bloeddruk
+  - en diabetes
 * Diabetes - is een ziekte. Ziekten kunnen je kans op een hart- of vaatziekte vergroten. 
-* Stress - een kleine mate van stress is oké! Echter kan een overtollige hoeveelheid aan langdurige stress leiden tot: 
-* een hoge bloeddruk
-* hoog cholesterolgehalte
-* ontstekingsreacties
+* Stress - een kleine mate van stress is oké! Echter kan een overmatige hoeveelheid aan - langdurige - stress leiden tot: 
+  - een hoge bloeddruk
+  - hoog cholesterolgehalte
+  - en ontstekingsreacties <br>
 Deze gevolgen van stress verhogen je kans op een slagaderverkalking. 
 * Erfelijkheid - naast alle bovengenoemde risicofactoren - die zijn te beïnvloeden door het aanpassen van je levensstijl - hebben we tevens te maken met erfelijkheid. Met andere woorden, je hebt erfelijke aanleg om - voor je 65e levensjaar - hart- en vaatziekten op te lopen. 
 
@@ -79,9 +77,9 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een hart- en vaatziekten.
 
 ### De oorsprong van Ivan Chai
-> Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië. Van deze kruiden worden de hand gerolde bladeren gefermenteerd. 
+> Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië. 
 
-Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
+Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
 
 Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
 
