@@ -28,11 +28,11 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
-  - Bevindingen
-  - Behandeling tegen 17 problemen
+* Bevindingen
+* Behandeling tegen 17 problemen
 * Bereidingswijze
-  - Smaakbeleving
-  - Intensiteit
+* Smaakbeleving
+* Intensiteit
 * Welke dosering en behandelingskuur raden jullie aan?
 * Is het effect van Ivan Chai direct voelbaar?
 * Welke voorzorgsmaatregelen kan ik nemen?
@@ -126,7 +126,7 @@ Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’
 
 Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de wildernis van Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden.
 
-**Bevindingen** <br>
+### Bevindingen <br>
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA. 
 
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt. 
@@ -142,7 +142,7 @@ In de 17e eeuw waren het de monniken - ter hoogte van de Altaj - die de Siberisc
 
 Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen.
 
-**Behandeling tegen 17 problemen** <br>
+### Behandeling tegen 17 problemen <br>
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -188,12 +188,12 @@ Wanneer je de Ivan Chai warm drinkt adviseren wij - voor een optimale smaakbelev
 
 De smaakbeleving is als volgt te omschrijven:
  
-**Smaakbeleving** <br>
+### Smaakbeleving <br>
 * "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
 
 * "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
  
-**Intensiteit** <br>
+### Intensiteit <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
 ### Welke dosering en behandelingskuur raden jullie aan?
