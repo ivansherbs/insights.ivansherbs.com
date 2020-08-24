@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Hart- en vaatziekten: 
+title: Hart- en vaatziekten: Zie het tijdig aankomen(!)
 ---
 
 Door **IVAN'S INSIGHTS** | Hart- en vaatziekten
