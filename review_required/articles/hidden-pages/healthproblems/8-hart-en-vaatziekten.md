@@ -74,9 +74,7 @@ Bij het aanpassen van je levensstijl - vóór, tijdens of ná een hart- en vaatz
 # Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. 
-
-Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een hart- en vaatziekten.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens hart- en vaatziekten.
 
 ### De oorsprong van Ivan Chai
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië. 
