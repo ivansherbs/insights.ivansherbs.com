@@ -24,7 +24,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * Welk effect heeft het gebruik van medicijnen op infecties?
 * Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
 * Waardoor vergroot ik de kans op een infectie?
-* Goed om te weten 
+* Goed om te weten!
 
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
@@ -99,7 +99,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 
 * Ziekten - mensen met diabetes zijn extra gevoelig voor infecties.
 
-### Goed om te weten
+### Goed om te weten!
 Het aanpassen van je levensstijl is de meest eenvoudige manier om de kans op infecties te verkleinen.
 
  Hierdoor hoef je minder snel kennis te maken met farmaceutische medicijnen die deze problemen bestrijden. 
