@@ -40,6 +40,7 @@ Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 Laten we beginnen met een overzicht. Waarbij we ons de volgende vraag stellen:
 
 ### Hoeveel impact hebben hart-en vaatziekten in Nederland? 
+De statistieken:
 * Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 * 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
 * In Nederland leven naar schatting 670.000 vrouwen met hart- of vaatziekten.
