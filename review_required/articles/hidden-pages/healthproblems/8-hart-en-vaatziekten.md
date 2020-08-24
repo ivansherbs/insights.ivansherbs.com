@@ -21,7 +21,7 @@ Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 * Goed om te weten
 
 **Behandeling: Ivan Chai** <br>
-* De oorsprong van Ivan Chai
+* Wat is Ivan Chai
   - Bevindingen
   - Behandeling tegen 17 problemen
 * Bereidingswijze
@@ -77,7 +77,7 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een hart- en vaatziekten.
 
-### De oorsprong van Ivan Chai
+### Wat is Ivan Chai?
 > Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië. 
 
 Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
