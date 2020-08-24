@@ -6,7 +6,6 @@ title: Infectie: Wil jij infecties voorkomen of behandelen?
 Door **IVAN'S INSIGHTS** | Infectie: schimmel - gist - bacterieel
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. En een eenvoudige natuurlijke behandeling. 
-
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
 ### Bewezen effectiviteit:
@@ -45,7 +44,6 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 
 **Conclusie: Ivan's Insights**
 * Infectie: schimmel - gist - bacterieel
-
 
 # Probleem: Infectie
 Laten we beginnen met de allereerste vraag gericht op infecties.
@@ -280,4 +278,4 @@ Mocht je onverhoopt te maken krijgen met terugkerende infecties, dan is onderzoe
 
 Vergeet niet de strekking uit dit artikel. En ik garandeer je dat je beter in staat bent infecties te verzorgen. 
 
-_Heeft dit artikel je snel geïnformeerd over infectie? En eenvoudige natuurlijke behandeling? Heeft Ivan Chai je geholpen bij het voorkomen en behandelen van infecties?_
+_Heeft dit artikel je snel geïnformeerd over infecties? En eenvoudige natuurlijke behandeling? Heeft Ivan Chai je geholpen bij het voorkomen en behandelen van infecties?_
