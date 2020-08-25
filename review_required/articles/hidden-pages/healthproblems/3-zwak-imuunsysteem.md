@@ -83,7 +83,7 @@ Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medici
 Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
 ### Goed om te weten!
-Het aanpassen van je levensstijl is de meest eenvoudige manier om de kans op zwak immuunsysteem te verkleinen. Je lichaam kan zich beter weren tegen indringers van buitenaf. Hierdoor hoef je minder snel kennis te maken met farmaceutische medicijnen die problemen bestrijden.
+Het aanpassen van je levensstijl is de meest eenvoudige manier om de kans op een zwak immuunsysteem te verkleinen. Je lichaam kan zich beter weren tegen indringers van buitenaf. Hierdoor hoef je minder snel kennis te maken met farmaceutische medicijnen die problemen bestrijden.
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen.
 
