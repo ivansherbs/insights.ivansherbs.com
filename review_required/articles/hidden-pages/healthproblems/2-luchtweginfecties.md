@@ -28,11 +28,11 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
-  - Bevindingen
-  - Behandeling tegen 17 problemen
+* Bevindingen
+* Ivan Chai tegen 17 problemen
 * Bereidingswijze
-  - Smaakbeleving
-  - Intensiteit
+* Smaakbeleving
+* Intensiteit
 * Welke dosering en behandelingskuur raden jullie aan?
 * Is het effect van Ivan Chai direct voelbaar?
 * Welke voorzorgsmaatregelen kan ik nemen?
