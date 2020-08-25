@@ -43,7 +43,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * Hoe bewaar je Ivan Chai?
 
 **Conclusie: Ivan's Insights**
-* Infectie: schimmel - gist - bacterieel
+ * Luchtweginfectie: verkoudheid - griep 
 
 # Probleem: Luchtweginfectie
 Laten we beginnen met de allereerste vraag gericht op een luchtweginfectie.
