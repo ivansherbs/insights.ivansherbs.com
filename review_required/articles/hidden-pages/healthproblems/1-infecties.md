@@ -267,9 +267,7 @@ Gezien de natuurlijke aard kan je het langer bewaren en consumeren dan de uiters
 # Conclusie: Ivan's Insights
 ### Infectie: schimmel - gist - bacterieel
 
-Het behandelen van een infectie is een must. Of het nou schimmels, gist of bacteriën betreft.
-
-Denk niet dat je één van de gelukkigen bent. En dat bij jou de infectie vanzelf overgaat.
+Het behandelen van een infectie is een must. Of het nou schimmels, gist of bacteriën betreft. Denk niet dat je één van de gelukkigen bent. En dat bij jou de infectie vanzelf overgaat.
 
 Probeer infecties preventief te behandelen. De meest eenvoudige manier is het aanpassen van je levensstijl. Met Ivan Chai! Mocht je toch onverhoopt een infectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
