@@ -230,7 +230,7 @@ Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
 **Let op!** <br>
 Als je medicijnen gebruikt voorgeschreven door een arts - maak deze kuur af.
  
-Tot op vandaag zijn de volgende symptomen **niet** bij ons bekend:
+Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
  
 * Misselijkheid
 * Maagpijn
