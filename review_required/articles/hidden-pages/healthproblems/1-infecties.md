@@ -271,7 +271,7 @@ Het behandelen van een infectie is een must. Of het nou schimmels, gist of bacte
 
 Denk niet dat je één van de gelukkigen bent. En dat bij jou de infectie vanzelf overgaat.
 
-Probeer infecties preventief te behandelen. De meest eenvoudige manier is het aanpassen van je levensstijl. Mocht je toch onverhoopt een infectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Probeer infecties preventief te behandelen. De meest eenvoudige manier is het aanpassen van je levensstijl. Met Ivan Chai! Mocht je toch onverhoopt een infectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Vergeet niet dat - na een behandeling - een  infectie kan terugkomen!
 
