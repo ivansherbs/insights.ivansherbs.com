@@ -8,7 +8,7 @@ Door **IVAN'S INSIGHTS** | Infectie: schimmel - gist - bacterieel
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. En een eenvoudige natuurlijke behandeling. 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-### Bewezen effectiviteit:
+### Voordeel:
 > Ivan Chai - Versterkt de weerstand
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. 
@@ -16,6 +16,8 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd.
 Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen - helpt het tegen overgroei van gist in het spijsverteringsstelsel. 
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
+
+# Inhoud van dit artikel 
 
 **Probleem: Infectie**
 * Wat is een infectie?
@@ -29,7 +31,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
 * Bevindingen
-* Behandeling tegen 17 problemen
+* Ivan Chai tegen 17 problemen
 * Bereidingswijze
 * Smaakbeleving
 * Intensiteit
@@ -46,7 +48,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * Infectie: schimmel - gist - bacterieel
 
 # Probleem: Infectie
-Laten we beginnen met de allereerste vraag gericht op infecties.
+Laten ik beginnen met de allereerste vraag gericht op infecties.
 
 ### Wat is een infectie?
 Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt - als reactie hierop beschadigd het weefsel.
@@ -82,9 +84,9 @@ Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. 
 Ja. Het ligt niet alleen aan farmaceutische medicijnen.
 
  Hieronder enkele voorbeelden:
-* Een infectie in de mond kan ook verschillende oorzaken hebben. Denk hierbij aan ontstoken tandvlees door tandplak op de tanden of een open wond door een behandeling bij de tandarts die nog goed moet genezen.
-* Een overtollige hoeveelheid aan zeep kan een vaginale schimmelinfectie veroorzaken. Zeep valt namelijk tevens goede bacteriën aan in de intieme zone. Volgens de statistieken zijn antibiotica en zeep grote boosdoeners van een vaginale schimmelinfectie.
-* Wanneer we kijken naar voetschimmel kan je het oplopen in de kleedkamer of openbare douche. 
+* Een **schimmelinfectie in de mond** kan ook verschillende oorzaken hebben. Denk hierbij aan ontstoken tandvlees door tandplak op de tanden of een open wond door een behandeling bij de tandarts die nog goed moet genezen.
+* Een overtollige hoeveelheid aan zeep kan een **vaginale schimmelinfectie** veroorzaken. Zeep valt namelijk tevens goede bacteriën aan in de intieme zone. Volgens de statistieken zijn antibiotica en zeep grote boosdoeners van een vaginale schimmelinfectie.
+* Wanneer we kijken naar **voetschimmel** kan je het oplopen in de kleedkamer of openbare douche. 
 
 ### Waardoor vergroot ik de kans op een infectie?
 Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wederom enkele voorbeelden:
@@ -95,20 +97,16 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
   - gebrek aan slaap 
   - of een slecht dieet
 
-* Ouderdom - vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties. 
+* Ouderdom - vrouwen na de menopauze hebben - door de levensfase waar ze zich in bevinden - überhaupt een verhoogd risico op infecties. 
 
 * Ziekten - mensen met diabetes zijn extra gevoelig voor infecties.
 
 ### Goed om te weten!
-Het aanpassen van je levensstijl is de meest eenvoudige manier om de kans op infecties te verkleinen.
-
- Hierdoor hoef je minder snel kennis te maken met farmaceutische medicijnen die deze problemen bestrijden. 
+Het aanpassen van je levensstijl is de meest eenvoudige manier om de kans op infecties te verkleinen. Je hoeft minder snel kennis te maken met farmaceutische medicijnen die deze problemen bestrijden. 
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen.
 
-Bij het aanpassen van je levensstijl - vóór, tijdens of ná infecties - zijn er natuurlijke behandelingen beschikbaar. 
-
-Deze behandelingen kunnen preventief tegen of ter behandeling gebruikt worden. 
+Bij het aanpassen van je levensstijl - vóór, tijdens of ná infecties - zijn er natuurlijke behandelingen beschikbaar. Deze behandelingen kunnen preventief tegen of ter behandeling gebruikt worden. Lees snel verder over een behandeling met Ivan Chai. 
 
 # Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
@@ -136,9 +134,21 @@ De bevindingen zijn als volgt:
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking. 
 
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen.
+Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de 7 voordelen die te vinden zijn in Ivan Chai:
 
-### Behandeling tegen 17 problemen <br>
+> 1 - Versterkt de weerstand <br>
+> 2 - Krachtige ontstekingsremmer <br>
+> 3 - Versterkt de antioxiderede werking <br>
+> 4 - Verbetert de nachtrust <br>
+> 5 - Vermindert de kans op stress, angst en een burnout <br>
+> 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
+> 7 - Verzorgt het spijsverteringsstelsel
+
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Het drinken van een kop Siberische kruidenthee! 
+
+Hieronder kun je de lijst met problemen bekijken die de voordelen verzorgen - of bestrijden. 
+
+### Ivan Chai tegen 17 problemen
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -202,9 +212,9 @@ Goed om te weten! Deze therapeutische dosering van Ivan Chai wordt aangeraden do
 ### Is het effect van Ivan Chai direct voelbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar.
 
-Wanneer jouw klachten zijn verholpen, kun je stoppen met het gebruik van Ivan Chai. 
+_...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?_
 
-Ik raad het echter aan de kuur – als preventieve behandeling – met regelmaat te herhalen.
+Ik raad het aan de kuur – als preventieve behandeling – met regelmaat te herhalen.
 
 ### Welke voorzorgsmaatregelen kan ik nemen?  
 Veel combinaties - van natuurlijke behandelingen met farmaceutische medicijnen - zijn tot op heden niet geprobeerd of getest.
@@ -257,22 +267,21 @@ Gezien de natuurlijke aard kan je het langer bewaren en consumeren dan de uiters
 # Conclusie: Ivan's Insights
 ### Infectie: schimmel - gist - bacterieel
 
-Het behandelen van een infectie is een must. Of het nou schimmels, gist of bacteriën betreft. Denk niet dat je één van de gelukkigen bent. 
+Het behandelen van een infectie is een must. Of het nou schimmels, gist of bacteriën betreft. 
 
-En dat bij jou de infectie vanzelf overgaat.
+Denk niet dat je één van de gelukkigen bent. En dat bij jou de infectie vanzelf overgaat.
 
-Probeer infecties preventief te behandelen. De meest eenvoudige manier is het aanpassen van je levensstijl. 
-
-Mocht je toch onverhoopt een infectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode. 
+Probeer infecties preventief te behandelen. De meest eenvoudige manier is het aanpassen van je levensstijl. Mocht je toch onverhoopt een infectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode. 
 
 Vergeet niet dat - na een behandeling - een  infectie kan terugkomen! 
 
-Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een infectie: schimmel - gist - bacterieel.
+Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een infectie: schimmel - gist - bacterieel. 
+
+> Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine.
 
 Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste bacteriën.
 
 Mocht je onverhoopt te maken krijgen met terugkerende infecties, dan is onderzoek doen naar zware farmaceutisch medicijnen - met ongewenste bijwerkingen - de volgende stap.
-
-Vergeet niet de strekking uit dit artikel. En ik garandeer je dat je beter in staat bent infecties te verzorgen. 
+Vergeet vooral niet de strekking uit dit artikel. En ik garandeer je dat je beter in staat bent infecties te verzorgen. 
 
 _Heeft dit artikel je snel geïnformeerd over infecties? En eenvoudige natuurlijke behandeling? Heeft Ivan Chai je geholpen bij het voorkomen en behandelen van infecties?_
