@@ -192,7 +192,7 @@ Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of
 
 Wanneer je de Ivan Chai warm drinkt adviseer ik je - voor een optimale smaakbeleving - het kruideninfuus te drinken bij 77 graden Celsius.
 
-_...en hoe zit het met de smaakbeleving?_
+_...En hoe zit het met de smaakbeleving?_
 
 ### Smaakbeleving <br>
 De smaakbeleving is als volgt te omschrijven:
