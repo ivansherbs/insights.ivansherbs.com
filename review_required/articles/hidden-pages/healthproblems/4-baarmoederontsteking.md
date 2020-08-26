@@ -22,6 +22,7 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 * Welke farmaceutische medicijnen behandelen een baarmoederontsteking?
 * Welk effect heeft het gebruik van medicijnen op baarmoederontsteking?
 * Welke ongewenste bijwerkingen kan antibiotica bij gebruik met zich meebrengen?
+* Goed om te weten!
 
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
