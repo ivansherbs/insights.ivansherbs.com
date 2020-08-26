@@ -7,24 +7,24 @@ Door **IVAN'S INSIGHTS** | Baarmoederontsteking
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-## Voordeel:
-> Ivan Chai - Krachtige ontstekingsremmer
+# Voordeel Ivan Chai
+> Krachtige ontstekingsremmer
 
 Ivan Chai is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een baarmoederontsteking.
 
-# Inhoud van dit artikel
+## Inhoud van dit artikel
 
-**Probleem: Baarmoederontsteking**
+**Baarmoederontsteking**
 * Waardoor krijg je een baarmoederontsteking?
 * Welke symptomen duiden op een baarmoederontsteking?
 * Welke farmaceutische medicijnen behandelen een baarmoederontsteking?
 * Welk effect heeft het gebruik van medicijnen op baarmoederontsteking?
 * Welke ongewenste bijwerkingen kan antibiotica bij gebruik met zich meebrengen?
-* Goed om te weten!
+* Eenvoudige natuurlijke behandeling
 
-**Behandeling: Ivan Chai** <br>
+**Ivan Chai** <br>
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
@@ -39,10 +39,10 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
   - Smaak en geur
   - Intensiteit
   
-**Conclusie: Ivan's Insights**
-* Baarmoederontsteking
+**Ivan's Insights**
+* Over baarmoederontstekingen
 
-# Probleem: Baarmoederontsteking
+# Baarmoederontsteking
 Laten we beginnen met de allereerste vraag gericht op een baarmoederontsteking.
 
 ### Waardoor krijg je een baarmoederontsteking?
@@ -79,7 +79,7 @@ De volgende bijwerkingen kunnen optreden - meestal na enkele dagen:
 * Geen kracht meer (en pijn in je handen)
 * Gedurende de hele dag jezelf slecht voelen.
 
-### Goed om te weten!
+### Eenvoudige natuurlijke behandeling
 De kans om een probleem op te lopen is - in sommige gevallen - te voorzien. Dit is het geval  bij de oorzaken van een baarmoederontsteking. Wanneer je een spiraaltje hebt. Of net een bevalling hebt gehad, is de kans extra groot om een ontsteking op te lopen.
 
 De kans op een ontsteking kun je makkelijk verminderen. Dit doe je door kleine veranderingen door te voeren in je alledaagse routine. 
@@ -96,7 +96,7 @@ Verminder op eenvoudige wijze de kans op het moeten gebruiken van zware farmaceu
 
 Lees snel meer. En begin bijvoorbeeld pas ná de bevalling met het drinken van Ivan Chai. 
 
-# Behandeling: Ivan Chai
+# Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief tegen of ter behandeling bij een baarmoederontsteking.
@@ -130,7 +130,7 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Het drinken van een kop Siberische kruidenthee!
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
 
 Hieronder kun je de lijst met problemen bekijken die de voordelen verzorgen - of bestrijden.
 
@@ -241,8 +241,8 @@ _...En hoe zit het met de **geur**?_ <br>
 ### Intensiteit <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Conclusie: Ivan's Insights
-### Baarmoederontsteking
+# Ivan's Insights
+### Over baarmoederontstekingen
 
 Oók je meest kwetsbare orgaan kan een ontsteking oplopen. Bij gebruik van een spiraaltje. Of vlak na de bevalling. 
 
@@ -252,8 +252,6 @@ MORE COPY............
 
 Wat je kunt doen is de kans op een baarmoederontsteking verminderen. Met Ivan Chai. Drink Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking. 
 
-> Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. 
-
-Mocht je toch onverhoopt een met een baarmoederontsteking rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de farmaceutische behandelmethode.
-
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een baarmoederontsteking te voorkomen. 
+> Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine.Mocht je toch onverhoopt een met een baarmoederontsteking rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de farmaceutische behandelmethode.
+>
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een baarmoederontsteking te voorkomen. 
