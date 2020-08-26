@@ -231,7 +231,7 @@ Het kan voorkomen dat je - gedurende een aantal sessies - nét iets te vaak en i
 
 Je hebt tijd nodig om te herstellen. Met als gevolg - een tijdje op de bank blijven zitten. 
 
-Ontstekingen voorkomen en onderdrukken kan! Via eenvoudige natuurlijke producten.
+Ontstekingen voorkomen en onderdrukken kan! Via eenvoudige natuurlijke behandelingen.
 Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
 
 Probeer voortaan een peesontsteking preventief te behandelen. 
