@@ -241,7 +241,7 @@ _...En hoe zit het met de **geur**?_ <br>
 
 Het is fijn om je niet terug te hoeven houden - zeker niet wanneer je beweegt! Helemaal met de meest gangbare activiteiten. Activiteiten die je dagelijks zou kunnen uitvoeren. 
 
-Het kan zijn dat - naarmate je ouder wordt - je slijmbeurzen sneller geïrriteerd raken. Je wilt blijven bewegen. Maar soms gaat dat niet meer. Het kan zijn dat je slijmbeurzen zijn ontstoken. 
+Het kan zijn dat - naarmate je ouder wordt - je slijmbeurzen sneller geïrriteerd raken. Je wilt blijven bewegen. Maar soms gaat dat niet meer. Als gevolg van een slijmbeursontsteking. 
 
 Om te voorkomen dat dit snel gebeurt, kun je eenvoudige natuurlijke behandelingen tot je nemen. 
 Denk hierbij aan Ivan Chai. Dit is een Siberische kruidenthee. 
