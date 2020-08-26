@@ -251,9 +251,11 @@ De smaakbeleving is als volgt te omschrijven:
 
 Oók je meest kwetsbare orgaan kan een ontsteking oplopen. Bij gebruik van een spiraaltje. Of vlak na de bevalling. 
 
-Wanneer je een ontsteking oploopt, zijn de ongewenste bijwerkingen - door gebruik van farmaceutische medicijnen - vrij heftig. En bijna niet te voorkomen! 
+Wanneer je een ontsteking oploopt, zijn de ongewenste bijwerkingen - door gebruik van farmaceutische medicijnen - vrij heftig. En bijna niet te voorkomen!
 
-Wat je wél kunt doen is de kans op een baarmoederontsteking verminderen. Met Ivan Chai. Drink Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking. 
+MORE COPY............
+
+Wat je kunt doen is de kans op een baarmoederontsteking verminderen. Met Ivan Chai. Drink Ivan Chai preventief tegen of ter behandeling tijdens een baarmoederontsteking. 
 
 > Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. 
 
