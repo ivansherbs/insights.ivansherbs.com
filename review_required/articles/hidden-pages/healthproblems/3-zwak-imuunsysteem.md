@@ -23,6 +23,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * Wanneer spreek je van een zwak immuunsysteem?
 * Wanneer krijg je last van een zwak immuunsysteem?
 * Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
+* Goed om te weten!
 
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
