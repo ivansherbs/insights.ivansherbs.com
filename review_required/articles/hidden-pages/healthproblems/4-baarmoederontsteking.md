@@ -132,8 +132,6 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
 
-Hieronder kun je de lijst met problemen bekijken die de voordelen verzorgen - of bestrijden.
-
 ### Ivan Chai tegen 17 problemen
 Drink Ivan Chai preventief tegen of ter behandeling tijdens een:
 
