@@ -206,7 +206,7 @@ De smaakbeleving is als volgt te omschrijven:
 
 We zijn allemaal wel eens opgestaan met een pijnlijke keel.
 
-Slikken gaat lastig en het doet zelfs een beetje pijn. Je moet vaak hoesten. Door die vervelende kriebel in je keel. En waarschijnlijk heb je ook last van een beetje koorts. 
+Slikken gaat lastig. En het doet zelfs een beetje pijn. Je moet vaak hoesten. Door die vervelende kriebel in je keel. En waarschijnlijk heb je ook last van een beetje koorts. 
 
 Al deze symptomen wijzen op een keelontsteking. 
 
