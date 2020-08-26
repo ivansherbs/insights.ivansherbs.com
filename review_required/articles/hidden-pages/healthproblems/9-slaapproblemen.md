@@ -11,7 +11,8 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 > Verbetert de nachtrust
 
 Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen.
-In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden, hoe het helpt bij slaapstoornissen.
+In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden, hoe het helpt bij slaapstoornissen. Echter heeft onderzoek aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. 
+
 ## Inhoud van dit artikel
 
 **Slaapproblemen**
