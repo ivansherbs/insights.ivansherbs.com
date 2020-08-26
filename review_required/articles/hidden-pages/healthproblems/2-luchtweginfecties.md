@@ -7,8 +7,8 @@ Door **IVAN'S INSIGHTS** | Luchtweginfectie: verkoudheid - griep <br>
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-### Voordeel:
-> Ivan Chai - Versterkt de weerstand
+# Voordeel Ivan Chai
+> Versterkt de weerstand
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd.
 
@@ -16,7 +16,7 @@ Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën ver
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
-# Inhoud van dit artikel
+## Inhoud van dit artikel
 
 **Probleem: Luchtweginfectie**
 * Wat is een luchtweginfectie?
@@ -25,9 +25,9 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * Welke medicijnen zijn van invloed op luchtweginfecties?
 * Welk effect heeft het gebruik van medicijnen op luchtweginfecties?
 * Waardoor vergroot ik de kans op een luchtweginfectie?
-* Goed om te weten!
+* Eenvoudige natuurlijke behandeling
 
-**Behandeling: Ivan Chai** <br>
+**Ivan Chai** <br>
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
@@ -42,10 +42,10 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
   - Smaak en geur
   - Intensiteit
 
-**Conclusie: Ivan's Insights**
- * Luchtweginfectie: verkoudheid - griep 
+**Ivan's Insights**
+ * Over een luchtweginfectie: verkoudheid - griep 
 
-# Probleem: Luchtweginfectie
+# Luchtweginfectie
 Laten we beginnen met de allereerste vraag gericht op een luchtweginfectie.
 
 ### Wat is een luchtweginfectie?
@@ -90,14 +90,14 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 
 * Ziekten - mensen met diabetes zijn extra gevoelig voor infecties.
 
-### Goed om te weten!
+### Eenvoudige natuurlijke behandeling
 Het aanpassen van je levensstijl is de meest eenvoudige manier om de kans op verkoudheid of griep te verkleinen. Je hoeft minder snel kennis te maken met farmaceutische medicijnen die deze problemen bestrijden.
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen.
 
 Bij het aanpassen van je levensstijl - vóór, tijdens of ná een verkoudheid of griep - zijn er natuurlijke behandelingen beschikbaar. Deze behandelingen kunnen preventief tegen of ter behandeling gebruikt worden. Lees snel verder over een behandeling met Ivan Chai.
 
-# Behandeling: Ivan Chai
+# Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief tegen of ter behandeling tijdens een luchtweginfectie: verkoudheid - griep
@@ -133,9 +133,7 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Het drinken van een kop Siberische kruidenthee!
-
-Hieronder kun je de lijst met problemen bekijken die de voordelen verzorgen - of bestrijden.
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
 
 ### Ivan Chai tegen 17 problemen
 Drink Ivan Chai preventief tegen of ter behandeling tijdens een:
@@ -244,8 +242,8 @@ _...En hoe zit het met de **geur**?_ <br>
 ### Intensiteit <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Conclusie: Ivan's Insights
-### Luchtweginfectie: verkoudheid - griep
+# Ivan's Insights
+### Over een luchtweginfectie: verkoudheid - griep
 
 Iedereen heeft wel eens last van een verkoudheid of griep. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan. 
 
@@ -256,11 +254,8 @@ Probeer deze veelvoorkomende luchtweginfecties preventief te behandelen. De mees
 Vergeet niet dat - na een behandeling - een  verkoudheid of griep zo weer terug kan komen!
 
 Drink Ivan Chai preventief tegen of ter behandeling tijdens deze veelvoorkomende luchtweginfecties. 
-
-> Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine.
-
 Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste bacteriën.
 
-Mocht je onverhoopt te maken krijgen met terugkerende luchtweginfecties, dan is onderzoek doen naar zware farmaceutisch medicijnen - met ongewenste bijwerkingen - de volgende stap.
-
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een verkoudheid en griep te verzorgen.
+> Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. Mocht je onverhoopt te maken krijgen met terugkerende luchtweginfecties, dan is onderzoek doen naar zware farmaceutisch medicijnen - met ongewenste bijwerkingen - de volgende stap.
+>
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een verkoudheid en griep te verzorgen.
