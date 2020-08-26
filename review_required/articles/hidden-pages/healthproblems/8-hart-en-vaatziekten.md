@@ -7,18 +7,18 @@ Door **IVAN'S INSIGHTS** | Hart- en vaatziekten
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een hart- en vaatziekten. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-## Bewezen effectiviteit:
-> Ivan Chai - Versterkt de antioxiderede werking
+## Voordeel Ivan Chai:
+> Versterkt de antioxiderede werking
 
 Ivan Chai zit boordevol Polyfenolen! Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten.
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
-**Probleem: Hart- en vaatziekten**
+**Hart- en vaatziekten**
 * Hoeveel impact hebben hart-en vaatziekten in Nederland?
 * Waardoor krijg je een hart- en vaatziekten?
-* Goed om te weten!
+* Eenvoudige natuurlijke behandeling
 
-**Behandeling: Ivan Chai** <br>
+**Ivan Chai** <br>
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
@@ -32,11 +32,11 @@ Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 * Bereidingswijze
   - Smaakbeleving en geur
   - Intensiteit
-  
-**Ivan's Insights**
-* Over hart- en vaatziekten
 
-# Probleem: Hart- en vaatziekten
+# Ivan's Insights
+### Over hart- en vaatziekten
+
+# Hart- en vaatziekten
 Laten we beginnen met een overzicht. Waarbij we ons de volgende vraag stellen:
 
 ### Hoeveel impact hebben hart-en vaatziekten in Nederland?
@@ -65,7 +65,7 @@ Dit begint met stress in combinatie met:
   - en ontstekingsreacties <br>
 * Erfelijkheid - naast alle bovengenoemde risicofactoren - die zijn te beïnvloeden door het aanpassen van je levensstijl - hebben we tevens te maken met erfelijkheid. Met andere woorden, je hebt erfelijke aanleg om - voor je 65e levensjaar - hart- en vaatziekten op te lopen.
 
-### Goed om te weten
+### Eenvoudige natuurlijke behandeling
 Het aanpassen van je levensstijl is dé manier om de kans op hart- en vaatziekten te verkleinen. 
 
 Hierdoor hoef je minder snel kennis te maken met farmaceutische medicijnen die deze problemen bestrijden.
@@ -77,7 +77,7 @@ Bij het aanpassen van je levensstijl - vóór, tijdens of ná een hart- en vaatz
 Denk bijvoorbeeld aan Ivan Chai.
 Met de natuurlijke behandeling Ivan Chai kun je op eenvoudige wijze de kans verminderen op een hart- en vaatziekten.
 
-# Behandeling: Ivan Chai
+# Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen hart- en vaatziekten. 
@@ -111,7 +111,7 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Het drinken van een kop Siberische kruidenthee!
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
 
 ### Behandeling tegen 17 problemen
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
@@ -220,12 +220,12 @@ _...En hoe zit het met de geur?_ <br>
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Conclusie: Ivan's Insights
-### Hart- en vaatziekten
+# Ivan's Insights
+### Over hart- en vaatziekten
 
 Het is moeilijk te herkennen of je last hebt van hart- en vaatziekten. Zonder dat je er erg in hebt kun je er mee rondlopen. 
 
-Wanneer je ouder wordt is het van belang deze problemen te zien aankomen. 
+Naarmate je ouder wordt, is het van belang deze problemen tijdig te zien aankomen!
 
 Bewustwording van deze problemen is een eerste stap richting het preventief behandelen van hart- en vaatziekten. Waarna je rustig je levensstijl kunt omgooien. Mits je dit op tijd doet. 
 
@@ -234,7 +234,6 @@ Dit kan met behulp van eenvoudige natuurlijke producten, die als preventieve beh
 Ivan Chai zit boordevol antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
 Drink Ivan Chai preventief tegen hart- en vaatziekten. 
-Tip! 
-> Neem het drinken van Siberische kruidenthee op in je dagelijkse routine.
-Mocht je toch onverhoopt last krijgen van het hart, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En ik garandeer je dat je beter in staat bent je hart- en vaatziekten te verminderen. 
+> Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van het hart, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+>
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En ik garandeer je dat je beter in staat bent de kans op hart- en vaatziekten te verminderen. 
