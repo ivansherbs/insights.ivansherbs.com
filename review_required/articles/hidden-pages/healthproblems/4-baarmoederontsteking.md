@@ -36,9 +36,9 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
   - Zwangerschap, borstvoeding en vruchtbaarheid
 * Hoe bewaar je Ivan Chai?
 * Bereidingswijze
-* Smaak en geur
-* Intensiteit
-
+  - Smaak en geur
+  - Intensiteit
+  
 **Conclusie: Ivan's Insights**
 * Baarmoederontsteking
 
