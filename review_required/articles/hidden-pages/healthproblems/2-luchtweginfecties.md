@@ -30,17 +30,16 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
-* Bereidingswijze
-* Smaakbeleving
-* Intensiteit
 * Welke dosering en behandelingskuur raden jullie aan?
 * Is het effect van Ivan Chai direct voelbaar?
 * Welke voorzorgsmaatregelen kan ik nemen?
 * Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
-  - Contra-indicaties en waarschuwingen
+* Contra-indicaties en waarschuwingen
   - Zwangerschap, borstvoeding en vruchtbaarheid
-  - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
+* Bereidingswijze
+* Smaakbeleving
+* Intensiteit
 
 **Conclusie: Ivan's Insights**
  * Luchtweginfectie: verkoudheid - griep 
@@ -174,24 +173,6 @@ Drink Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
-### Bereidingswijze
-Totale tijd: ca 7 min
-
-Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
-
-Wanneer je de Ivan Chai warm drinkt adviseer ik je - voor een optimale smaakbeleving - het kruideninfuus te drinken bij 77 graden Celsius.
-
-_...En hoe zit het met de smaakbeleving?_
-
-### Smaakbeleving <br>
-De smaakbeleving is als volgt te omschrijven:
-* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
-
-* "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
- 
-### Intensiteit <br>
-(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
-
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 * Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
@@ -216,7 +197,6 @@ Hiernaast is het verstandig eigen onderzoek te doen om bijwerkingen te voorkomen
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
 > Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
  
-**Let op!** <br>
 Als je medicijnen gebruikt voorgeschreven door een arts - maak deze kuur af.
  
 Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
@@ -234,17 +214,14 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 * Verlaagde bloeddruk
 * Coma
  
-**Contra-indicaties en waarschuwingen** <br>
+### Contra-indicaties en waarschuwingen
 Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen.
 
-En is veilig voor kinderen.
+En is gelukkig veilig voor kinderen.
  
 **Zwangerschap, borstvoeding en vruchtbaarheid** <br>
 * Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
- 
-**Rijvaardigheid:** <br>
-Ivan Chai heeft geen bijwerkingen die duizeligheid kan veroorzaken. En daarmee de rijvaardigheid negatief kan beïnvloeden.
  
 ### Hoe bewaar je Ivan Chai?
 Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
@@ -252,6 +229,24 @@ Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wo
 Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden.
 
 Gezien de natuurlijke aard kan je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
+
+### Bereidingswijze
+Totale tijd: ca 7 min
+
+Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
+
+Wanneer je de Ivan Chai warm drinkt adviseer ik je - voor een optimale smaakbeleving - het kruideninfuus te drinken bij 77 graden Celsius.
+
+_...En hoe zit het met de smaakbeleving?_
+
+### Smaakbeleving <br>
+De smaakbeleving is als volgt te omschrijven:
+* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+
+* "De geur lijkt een beetje op zwarte thee, ietwat aards, houtachtig, maar ook in bezit van zoete tonen”.
+ 
+### Intensiteit <br>
+(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
 # Conclusie: Ivan's Insights
 ### Luchtweginfectie: verkoudheid - griep
@@ -271,9 +266,5 @@ Drink Ivan Chai preventief tegen of ter behandeling tijdens deze veelvoorkomende
 Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste bacteriën.
 
 Mocht je onverhoopt te maken krijgen met terugkerende luchtweginfecties, dan is onderzoek doen naar zware farmaceutisch medicijnen - met ongewenste bijwerkingen - de volgende stap.
-Vergeet vooral niet de strekking uit dit artikel. En ik garandeer je dat je beter in staat bent luchtweginfecties te verzorgen.
 
-_Hoe heeft dit artikel je geïnformeerd over een verkoudheid of griep ? En eenvoudige natuurlijke behandeling? Heeft Ivan Chai je geholpen bij het voorkomen en behandelen van een verkoudheid of griep?_
-
-
-
+Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een verkoudheid en griep te verzorgen.
