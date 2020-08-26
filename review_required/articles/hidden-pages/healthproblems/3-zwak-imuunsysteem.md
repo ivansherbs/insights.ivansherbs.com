@@ -7,7 +7,7 @@ Door **IVAN'S INSIGHTS** | Zwak immuunsysteem <br>
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-### Voordeel Ivan Chai:
+# Voordeel Ivan Chai:
 > Versterkt de weerstand
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. 
@@ -16,7 +16,7 @@ Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën ver
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties, verkoudheid en griep vele malen verminderd.
 
-# Inhoud van dit artikel
+## Inhoud van dit artikel
 
 **Zwak immuunsysteem**
 * Wat is het immuunsysteem?
