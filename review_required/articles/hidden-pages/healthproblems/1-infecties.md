@@ -209,7 +209,6 @@ Hiernaast is het verstandig eigen onderzoek te doen om bijwerkingen te voorkomen
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
 > Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
  
-**Let op!** <br>
 Als je medicijnen gebruikt voorgeschreven door een arts - maak deze kuur af.
  
 Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
@@ -230,15 +229,12 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 **Contra-indicaties en waarschuwingen** <br>
 Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen.
 
-En is veilig voor kinderen.
+En is gelukkig veilig voor kinderen.
  
 **Zwangerschap, borstvoeding en vruchtbaarheid** <br>
 * Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
- 
-**Rijvaardigheid:** <br>
-Ivan Chai heeft geen bijwerkingen die duizeligheid kan veroorzaken. En daarmee de rijvaardigheid negatief kan beïnvloeden.
- 
+
 ### Hoe bewaar je Ivan Chai?
 Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
 
