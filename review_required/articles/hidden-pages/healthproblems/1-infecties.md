@@ -41,7 +41,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * Hoe bewaar je Ivan Chai?
 * Bereidingswijze
   - Smaak en geur
-* Intensiteit
+  - Intensiteit
 
 **Conclusie: Ivan's Insights**
 * Infectie: schimmel - gist - bacterieel
