@@ -146,7 +146,9 @@ In het algemeen geven de onderstaande doseringen voldoende resultaat:
 ### Is het effect van Ivan Chai direct voelbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar.
 
-Wanneer jouw klachten zijn verholpen, kun je stoppen met het gebruik van Ivan Chai. Wij raden het echter aan de kuur – als preventieve behandeling – met regelmaat te herhalen.
+...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?
+
+Ik raad het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
 
 ### Welke voorzorgsmaatregelen kan ik nemen?  
 Veel combinaties - van natuurlijke behandelingen met farmaceutische medicijnen - zijn tot op heden niet geprobeerd of getest.
