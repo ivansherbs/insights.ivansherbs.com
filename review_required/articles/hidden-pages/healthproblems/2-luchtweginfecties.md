@@ -254,7 +254,7 @@ De smaakbeleving is als volgt te omschrijven:
 
 Iedereen heeft wel eens last van een verkoudheid of griep. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan. 
 
-Je bent er extra kwetsbaar voor wanneer je een farmaceutische medicijnen gebruikt - zoals antibiotica, anticonceptiepil of maagzuurremmers. Je een ongezonde levenstijl hebt. Of tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
+Je bent er extra kwetsbaar voor wanneer je een farmaceutische medicijnen gebruikt - zoals antibiotica, anticonceptiepil of maagzuurremmers. Je een ongezonde levensstijl hebt. Of tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
 
 Probeer deze veelvoorkomende luchtweginfecties preventief te behandelen. De meest eenvoudige manier is het aanpassen van je levensstijl. Met Ivan Chai! Mocht je toch onverhoopt een zwaardere vorm van griep oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
