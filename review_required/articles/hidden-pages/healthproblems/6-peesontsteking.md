@@ -7,23 +7,25 @@ Door **IVAN´S INSIGHTS** | Peesontsteking
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een peesontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-## Bewezen effectiviteit:
-> Ivan Chai - Krachtige ontstekingsremmer
+## Voordeel Ivan Chai
+> Krachtige ontstekingsremmer
 
 Ivan Chai is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een peesontsteking.
 
-**Probleem: Peesontsteking**
+## Inhoud van dit artikel
+
+**Peesontsteking**
 * Wat is een peesontsteking?
 * Waardoor krijg je een peesontsteking?
 * Aan welke sporten moet ik denken?
 * Welke symptomen duiden op een peesontsteking?
 * Welke farmaceutische medicijnen behandelen een peesontsteking?
 * Welk effect heeft het gebruik van medicijnen op een peesontsteking?
-* Goed om te weten!
+* Eenvoudige natuurlijke behandeling
 
-**Behandeling: Ivan Chai** <br>
+**Ivan Chai** <br>
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
@@ -38,10 +40,10 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
   - Smaak en geur
   - Intensiteit
   
-**Conclusie: Ivan's Insights**
-* Peesontsteking
+**Ivan's Insights**
+* Over Peesontstekingen
 
-# Probleem: Peesontsteking
+# Peesontsteking
 Laten we beginnen met de allereerste vraag gericht op een peesontsteking.
 
 ### Wat is een peesontsteking?
@@ -78,14 +80,14 @@ Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van farmac
 
 Het kan zijn dat door gebruik – van het medicijn - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
-### Goed om te weten!
+### Eenvoudige natuurlijke behandeling
 Om je lichaam te onderhouden - zodat je kunt blijven sporten - zijn er eenvoudige natuurlijke behandelingen beschikbaar. Denk bijvoorbeeld aan Ivan Chai.
 
 Ivan Chai is een Siberische kruidenthee. Met deze natuurlijke behandeling kun je op eenvoudige wijze de kans verminderen op een peesontsteking. 
 
 Lees snel verder. En kom erachter hoe Ivan Chai bijdraagt aan het onderhouden van je lichaam en geest. 
 
-# Behandeling: Ivan Chai
+# Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een peesontsteking.
@@ -115,9 +117,9 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Het drinken van een kop Siberische kruidenthee!
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine.
 
-### Behandeling tegen 17 problemen
+### Ivan Chai tegen 17 problemen
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -225,8 +227,8 @@ _...En hoe zit het met de **geur**?_ <br>
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Conclusie: Ivan's Insights
-### Peesontsteking
+# Ivan's Insights
+### Over Peesontstekingen
 
 We houden er allemaal van om lekker te kunnen sporten! 
 
@@ -238,8 +240,6 @@ Ontstekingen voorkomen en onderdrukken kan! Via eenvoudige natuurlijke behandeli
 Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
 
 Probeer voortaan een peesontsteking preventief te behandelen. 
-> Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine.
-
-Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
-
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een peesontsteking te voorkomen. 
+> Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+>
+>Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een peesontsteking te voorkomen. 
