@@ -71,7 +71,7 @@ Wanneer je slaapproblemen goed aanpakt, hoef je minder snel kennis te maken met 
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
-Bij het aanpassen van je levensstijl - vóór, tijdens of ná een slaapproblemen - zijn er natuurlijke behandelingen beschikbaar. Gebruik deze behandelingen preventief tegen problemen gericht op het slaapproblemen.
+Bij het aanpassen van je levensstijl - vóór, tijdens of ná een slaapproblemen - zijn er natuurlijke behandelingen beschikbaar. Gebruik deze behandelingen preventief tegen slaapproblemen.
 
 Denk bijvoorbeeld aan Ivan Chai.
 
@@ -225,11 +225,11 @@ _...En hoe zit het met de **geur**?_ <br>
 
 De oorzaak van slaapproblemen zijn heel erg divers. Wellicht te veel om op te noemen. 
 
-Bewustwording waar de slaapproblemen vandaan komen, is een eerste stap richting een goede nachtrust. Hou hierbij rekening met het volgende onderzoek.
+Bewustwording waar de slaapproblemen vandaan komen, is een eerste stap richting een goede nachtrust. Hou hierbij rekening met de uitkomsten van het volgende onderzoek.
 
 Een groot deel van de slapeloosheid wordt veroorzaakt door stress. Met name dit probleem zorgt voor slapeloze nachten.
 
-Waar je waarschijnlijk niet van op de hoogte bent, is dat er ook eenvoudige natuurlijke behandelingen beschikbaar zijn, om slaapproblemen aan te pakken. Denk hierbij aan Ivan Chai. Een Siberische kruidenthee.
+Waar je waarschijnlijk niet van op de hoogte bent, is dat er ook eenvoudige natuurlijke behandelingen beschikbaar zijn - om de nachtrust te verbeteren. Denk hierbij aan Ivan Chai. Een Siberische kruidenthee.
 
 In de traditionele volksgeneeskunde staat deze kruidenthee bekend om zijn kalmerende werking. De medische wereld doet diepgaand onderzoek naar de exacte reden, hoe het helpt bij slaapstoornissen. Echter heeft onderzoek aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. Wat uiteindelijk de kans op stress vermindert. 
 
