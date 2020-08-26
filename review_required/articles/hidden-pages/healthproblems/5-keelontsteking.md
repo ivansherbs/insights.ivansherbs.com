@@ -7,22 +7,24 @@ Door **IVAN'S INSIGHTS** | Keelontsteking
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een keelontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-## Bewezen effectiviteit:
-> Ivan Chai - Krachtige ontstekingsremmer
+# Voordeel Ivan Chai
+> Krachtige ontstekingsremmer
 
 Ivan Chai is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een keelontsteking.
 
-**Probleem: Keelontsteking**
+## Inhoud van dit artikel
+
+**Keelontsteking**
 * Wat is een keelontsteking?
 * Waardoor krijg je een keelontsteking?
 * Welke symptomen duiden op een keelontsteking?
 * Welke farmaceutische medicijnen behandelen een keelontsteking?
 * En wat als ik toch antibiotica wil gebruiken?
-* Goed om te weten!
+* Eenvoudige natuurlijke behandeling
 
-**Behandeling: Ivan Chai** <br>
+**Ivan Chai** <br>
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
@@ -37,10 +39,10 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
   - Smaak en geur
   - Intensiteit
 
-**Conclusie: Ivan's Insights**
-* Keelontsteking
+**Ivan's Insights**
+* Over keelontstekingen
 
-# Probleem: Keelontsteking
+# Keelontsteking
 Laten we beginnen met de allereerste vraag gericht op een keelontsteking.
 
 ### Wat is een keelontsteking?
@@ -66,7 +68,7 @@ Farmaceutische medicijnen - zoals antibiotica - hebben meestal geen zin. Antibio
 ### En wat als ik toch antibiotica wil gebruiken?
 De meeste artsen schrijven géén antibiotica voor. Met een antibioticakuur duren de klachten slechts een halve dag korter. Hiernaast heb je bij gebruik van antibiotica last van ongewenste bijwerkingen.
 
-### Goed om te weten!
+### Eenvoudige natuurlijke behandeling
 Je kunt preventief inspelen op het krijgen van een keelontsteking. Hierdoor verminder je de kans om het op te lopen. En zijn de symptomen veel minder erg. 
 
 Er zijn eenvoudige natuurlijke behandelingen beschikbaar. Deze behandelingen kun je preventief tegen of ter behandeling gebruiken. 
@@ -103,9 +105,9 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Het drinken van een kop Siberische kruidenthee!
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
 
-### Behandeling tegen 17 problemen
+### Ivan Chai tegen 17 problemen
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -212,8 +214,8 @@ _...En hoe zit het met de **geur**?_ <br>
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Conclusie: Ivan's Insights
-### Keelontsteking
+# Ivan's Insights
+### Over keelontstekingen
 
 We zijn allemaal wel eens opgestaan met een pijnlijke keel.
 
@@ -225,8 +227,6 @@ Deze symptomen hoeven nooit ernstig te zijn! Door gebruik te maken van eenvoudig
 
 Probeer voortaan keelontstekingen preventief te behandelen. Door het drinken van Ivan Chai!
 
-> Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine.
-
-Mocht je toch onverhoopt een zwaardere vorm van een keelontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
-
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een keelontsteking te verzorgen.
+> Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een keelontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+>
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een keelontsteking te verzorgen.
