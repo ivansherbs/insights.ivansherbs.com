@@ -37,6 +37,9 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 * Bereidingswijze
   - Smaak en geur
   - Intensiteit
+  
+**Conclusie: Ivan's Insights**
+* Peesontsteking
 
 # Probleem: Peesontsteking
 Laten we beginnen met de allereerste vraag gericht op een peesontsteking.
