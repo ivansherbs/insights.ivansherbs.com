@@ -53,7 +53,7 @@ Veel werknemers zijn onderhevig aan dit probleem. Grote kans dat jij hier ook op
 Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro. Bij Nederlanders met onregelmatige werktijden ligt dit percentage tussen de 42% en 68%. 
 
 ### Waarom wordt dit probleem dan niet actief aangepakt? 
-Het is algemeen bekend dat de de laatste jaren het aantal werknemers met slaapproblemen is gestegen. Slecht 10% van bedrijven pakt dit probleem actief aan.
+De laatste jaren is het aantal werknemers met slaapproblemen gestegen. Slecht 10% van bedrijven pakt dit probleem actief aan.
 
 ### En buiten het bedrijfsleven? 
 Slaapproblemen komen hiernaast niet alleen voor bij werknemers. Arbeidsongeschikten hebben ook te kampen met dit probleem. 
