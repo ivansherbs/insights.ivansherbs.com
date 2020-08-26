@@ -90,7 +90,17 @@ De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzo
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking. 
 
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen.
+Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de 7 voordelen die te vinden zijn in Ivan Chai:
+
+> 1 - Versterkt de weerstand <br>
+> 2 - Krachtige ontstekingsremmer <br>
+> 3 - Versterkt de antioxiderede werking <br>
+> 4 - Verbetert de nachtrust <br>
+> 5 - Vermindert de kans op stress, angst en een burnout <br>
+> 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
+> 7 - Verzorgt het spijsverteringsstelsel
+
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Het drinken van een kop Siberische kruidenthee!
 
 ### Behandeling tegen 17 problemen
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
