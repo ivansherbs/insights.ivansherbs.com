@@ -64,11 +64,11 @@ Farmaceutische medicijnen - zoals antibiotica - hebben meestal geen zin. Antibio
 De meeste artsen schrijven géén antibiotica voor. Met een antibioticakuur duren de klachten slechts een halve dag korter. Hiernaast heb je bij gebruik van antibiotica last van ongewenste bijwerkingen.
 
 ### Goed om te weten!
-Vaak kun je niets doen tegen een keelontsteking. Wél kun je preventief inspelen om het krijgen van een ontsteking. Hierdoor verminder je de kans op het op te lopen. En zijn de symptomen veel minder erg. 
+Je kunt preventief inspelen op het krijgen van een keelontsteking. Hierdoor verminder je de kans om het op te lopen. En zijn de symptomen veel minder erg. 
 
-Zo zijn er eenvoudige natuurlijke behandelingen beschikbaar. Deze behandelingen kunnen preventief tegen of ter behandeling gebruikt worden. 
+Er zijn eenvoudige natuurlijke behandelingen beschikbaar. Deze behandelingen kun je preventief tegen of ter behandeling gebruiken. 
 
-Lees snel verder over een behandeling met Ivan Chai.
+Lees snel verder over een behandeling met Ivan Chai. Een Siberische kruidenthee. 
 
 # Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
