@@ -88,7 +88,9 @@ Om je lichaam preventief te onderhouden - zodat je kunt blijven bewegen - zijn e
 
 Ivan Chai is een Siberische kruidenthee. Met deze natuurlijke behandeling kun je op eenvoudige wijze de kans verminderen op een slijmbeursontsteking.
 
-Lees snel verder. En kom erachter hoe Ivan Chai bijdraagt aan het onderhouden van je lichaam en geest. 
+Lees snel verder. Kom erachter hoe Ivan Chai bijdraagt aan het onderhouden van je lichaam en geest. 
+
+Verzorg je beschermkappen. En behoudt soepele gewrichten!
 
 # Behandeling: Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
