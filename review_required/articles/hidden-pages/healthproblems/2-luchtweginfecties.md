@@ -39,7 +39,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
   - Zwangerschap, borstvoeding en vruchtbaarheid
 * Hoe bewaar je Ivan Chai?
 * Bereidingswijze
-* Smaakbeleving
+* Smaak en geur
 * Intensiteit
 
 **Conclusie: Ivan's Insights**
