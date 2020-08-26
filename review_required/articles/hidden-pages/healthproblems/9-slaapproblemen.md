@@ -20,7 +20,7 @@ In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. 
 * Heeft werkend Nederland last van slaapproblemen?
 * Waarom wordt dit probleem dan niet actief aangepakt? 
 * En buiten het bedrijfsleven? 
-* Waar wordt dit probleem door veroorzaakt? 
+* Waardoor worden slaapproblemen veroorzaakt? 
 * Eenvoudige natuurlijke behandeling
 
 **Ivan Chai** <br>
@@ -58,8 +58,8 @@ De laatste jaren is het aantal werknemers met slaapproblemen gestegen. Slecht 10
 ### En buiten het bedrijfsleven? 
 Slaapproblemen komen hiernaast niet alleen voor bij werknemers. Arbeidsongeschikten hebben ook te kampen met dit probleem. 
 
-### Waar wordt dit probleem dan veroorzaakt? 
-Uit recentelijk onderzoek is tevens gebleken dat een groot deel van de slapeloosheid wordt veroorzaakt door:
+### Waardoor worden slaapproblemen veroorzaakt? 
+Uit recentelijk onderzoek is het volgende gebleken. Een groot deel van de slapeloosheid wordt veroorzaakt door:
 * stress
 
 ### Eenvoudige natuurlijke behandeling
