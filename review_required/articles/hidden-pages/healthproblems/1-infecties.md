@@ -226,7 +226,7 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 * Verlaagde bloeddruk
 * Coma
  
-**Contra-indicaties en waarschuwingen** <br>
+### Contra-indicaties en waarschuwingen <br>
 Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen.
 
 En is gelukkig veilig voor kinderen.
