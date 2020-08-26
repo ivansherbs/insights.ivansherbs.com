@@ -7,7 +7,7 @@ Door **IVAN´S INSIGHTS** | Peesontsteking
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een peesontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-## Voordeel Ivan Chai
+# Voordeel Ivan Chai
 > Krachtige ontstekingsremmer
 
 Ivan Chai is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
