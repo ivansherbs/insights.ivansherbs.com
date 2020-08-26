@@ -32,9 +32,6 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
-* Bereidingswijze
-* Smaakbeleving
-* Intensiteit
 * Welke dosering en behandelingskuur raden jullie aan?
 * Is het effect van Ivan Chai direct voelbaar?
 * Welke voorzorgsmaatregelen kan ik nemen?
@@ -43,6 +40,9 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
   - Zwangerschap, borstvoeding en vruchtbaarheid
   - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
+* Bereidingswijze
+* Smaakbeleving
+* Intensiteit
 
 **Conclusie: Ivan's Insights**
 * Infectie: schimmel - gist - bacterieel
@@ -185,24 +185,6 @@ Drink Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
-### Bereidingswijze
-Totale tijd: ca 7 min
-
-Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
-
-Wanneer je de Ivan Chai warm drinkt adviseer ik je - voor een optimale smaakbeleving - het kruideninfuus te drinken bij 77 graden Celsius.
-
-_...En hoe zit het met de smaakbeleving?_
-
-### Smaakbeleving <br>
-De smaakbeleving is als volgt te omschrijven:
-* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
-
-* "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
- 
-### Intensiteit <br>
-(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
-
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 * Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
@@ -264,6 +246,24 @@ Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de v
 
 Gezien de natuurlijke aard kan je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
+### Bereidingswijze
+Totale tijd: ca 7 min
+
+Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
+
+Wanneer je de Ivan Chai warm drinkt adviseer ik je - voor een optimale smaakbeleving - het kruideninfuus te drinken bij 77 graden Celsius.
+
+_...En hoe zit het met de smaakbeleving?_
+
+### Smaakbeleving <br>
+De smaakbeleving is als volgt te omschrijven:
+* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+
+* "De geur lijkt een beetje op zwarte thee, ietwat aards, houtachtig, maar ook in bezit van zoete tonen”
+ 
+### Intensiteit <br>
+(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
+
 # Conclusie: Ivan's Insights
 ### Infectie: schimmel - gist - bacterieel
 
@@ -273,15 +273,12 @@ Probeer infecties preventief te behandelen. De meest eenvoudige manier is het aa
 
 Vergeet niet dat - na een behandeling - een  infectie kan terugkomen!
 
-Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een infectie: schimmel - gist - bacterieel.
+Drink Ivan Chai preventief tegen of ter behandeling tijdens een infectie: schimmel - gist - bacterieel.
 
 > Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine.
 
 Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste bacteriën.
 
 Mocht je onverhoopt te maken krijgen met terugkerende infecties, dan is onderzoek doen naar zware farmaceutisch medicijnen - met ongewenste bijwerkingen - de volgende stap.
-Vergeet vooral niet de strekking uit dit artikel. En ik garandeer je dat je beter in staat bent infecties te verzorgen.
 
-_Heeft dit artikel je snel geïnformeerd over infecties? En eenvoudige natuurlijke behandeling? Heeft Ivan Chai je geholpen bij het voorkomen en behandelen van infecties?_
-
-
+Verzorg dagelijkse lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent infecties te verzorgen.
