@@ -7,21 +7,23 @@ Door **IVAN'S INSIGHTS** | Slijmbeursontsteking
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een slijmbeursontsteking. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-## Bewezen effectiviteit:
+## Voordeel Ivan Chai
 > Ivan Chai - Krachtige ontstekingsremmer
 
 Ivan Chai is bewezen effectief bij het voorkomen - en onderdrukken - van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een slijmbeursontsteking.
 
-**Probleem: Slijmbeursontsteking**
+## Inhoud van dit artikel
+
+**Slijmbeursontsteking**
 * Wat is een slijmbeursontsteking?
 * Waardoor krijg je een slijmbeursontsteking?
 * Welke symptomen duiden op een slijmbeursontsteking?
 * Welke farmaceutische medicijnen behandelen een slijmbeursontsteking?
-* Goed om te weten!
+* Eenvoudige natuurlijke behandeling
 
-**Behandeling: Ivan Chai** <br>
+**Ivan Chai** <br>
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
@@ -36,10 +38,10 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
   - Smaak en geur
   - Intensiteit
 
-**Conclusie: Ivan's Insights**
-* Slijmbeursontsteking
+**Ivan's Insights**
+* Over slijmbeursontstekingen
 
-# Probleem: Slijmbeursontsteking
+# Slijmbeursontsteking
 Laten we beginnen met de allereerste vraag gericht op een slijmbeursontsteking.
 
 ### Wat is een slijmbeursontsteking?
@@ -85,7 +87,7 @@ Een ontsteking kan worden behandeld met:
 
 Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen.
 
-### Goed om te weten!
+### Eenvoudige natuurlijke behandeling
 
 Om je lichaam preventief te onderhouden - zodat je kunt blijven bewegen - zijn er eenvoudige natuurlijke behandelingen beschikbaar. Denk bijvoorbeeld aan Ivan Chai.
 
@@ -125,9 +127,9 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Het drinken van een kop Siberische kruidenthee!
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
 
-### Behandeling tegen 17 problemen
+### Ivan Chai tegen 17 problemen
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -234,8 +236,8 @@ _...En hoe zit het met de **geur**?_ <br>
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Conclusie: Ivan's Insights
-### Slijmbeursontsteking
+# Ivan's Insights
+### Over slijmbeursontstekingen
 
 Het is fijn om je niet terug te hoeven houden - zeker niet wanneer je beweegt! Helemaal met de meest gangbare activiteiten. Activiteiten die je dagelijks zou kunnen uitvoeren. 
 
@@ -244,12 +246,10 @@ Het kan zijn dat - naarmate je ouder wordt - je slijmbeurzen sneller geïrriteer
 Om te voorkomen dat dit snel gebeurt, kun je eenvoudige natuurlijke behandelingen tot je nemen. 
 Denk hierbij aan Ivan Chai. Dit is een Siberische kruidenthee. 
 
-Drink Ivan Chai preventief tegen of ter behandeling tijdens een slijmbeursontsteking.
-
-> Neem het drinken van Siberische kruidenthee op in je dagelijkse routine.
-
 Door gebruik te maken van Ivan Chai, zorg je ervoor dat ontstekingen effectief worden voorkomen - en onderdrukt.
 
-Mocht je toch onverhoopt een zwaardere vorm van een slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Drink Ivan Chai preventief tegen of ter behandeling tijdens een slijmbeursontsteking.
 
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent je een slijmbeursontsteking te verzorgen. En soepele gewrichten te behouden!
+> Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+>
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent je een slijmbeursontsteking te verzorgen. En soepele gewrichten te behouden!
