@@ -239,10 +239,7 @@ En is gelukkig veilig voor kinderen.
 **Zwangerschap, borstvoeding en vruchtbaarheid**  <br>
 * Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
- 
-**Rijvaardigheid:** <br>
-Ivan Chai heeft geen bijwerkingen die duizeligheid kan veroorzaken. En daarmee de rijvaardigheid negatief kan beïnvloeden.
- 
+  
 ### Hoe bewaar je Ivan Chai?
 Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
 
