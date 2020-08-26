@@ -25,6 +25,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * Welke medicijnen zijn van invloed op luchtweginfecties?
 * Welk effect heeft het gebruik van medicijnen op luchtweginfecties?
 * Waardoor vergroot ik de kans op een luchtweginfectie?
+* Goed om te weten!
 
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
