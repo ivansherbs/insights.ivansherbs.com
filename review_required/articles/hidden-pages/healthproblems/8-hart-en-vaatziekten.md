@@ -13,6 +13,8 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 Ivan Chai zit boordevol Polyfenolen! Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten.
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
+# Inhoud van dit artikel
+
 **Hart- en vaatziekten**
 * Hoeveel impact hebben hart-en vaatziekten in Nederland?
 * Waardoor krijg je een hart- en vaatziekten?
