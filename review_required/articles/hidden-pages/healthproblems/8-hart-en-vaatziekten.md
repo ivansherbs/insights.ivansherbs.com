@@ -7,7 +7,7 @@ Door **IVAN'S INSIGHTS** | Hart- en vaatziekten
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een hart- en vaatziekten. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-# Voordeel Ivan Chai:
+# Voordeel Ivan Chai
 > Versterkt de antioxiderede werking
 
 Ivan Chai zit boordevol Polyfenolen! Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten.
