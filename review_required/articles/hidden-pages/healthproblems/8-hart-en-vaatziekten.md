@@ -77,7 +77,7 @@ Hierdoor hoef je minder snel kennis te maken met farmaceutische medicijnen die d
 Bij het aanpassen van je levensstijl - vóór, tijdens of ná een hart- en vaatziekten - zijn er natuurlijke behandelingen beschikbaar. Gebruik deze behandelingen preventief tegen problemen gericht op het hart. 
 
 Denk bijvoorbeeld aan Ivan Chai.
-Met de natuurlijke behandeling Ivan Chai kun je op eenvoudige wijze de kans verminderen op een hart- en vaatziekten.
+Met de natuurlijke behandeling Ivan Chai kun je op eenvoudige wijze de kans op hart- en vaatziekten verminderen.
 
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
