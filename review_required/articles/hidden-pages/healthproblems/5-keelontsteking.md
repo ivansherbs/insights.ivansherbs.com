@@ -203,8 +203,8 @@ De **smaak** is als volgt te omschrijven:
  
 * "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
 
-_...En hoe zit het met de geur?_ <br>
-* "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
+_...En hoe zit het met de **geur**?_ <br>
+* "De geur lijkt een beetje op zwarte thee, ietwat aards, houtachtig, maar toch ook in bezit van zoete tonen”
  
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
