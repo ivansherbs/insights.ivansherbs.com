@@ -5,7 +5,7 @@ title: Slaapproblemen: het ware probleem tussen twee nachten
 
 Door **IVAN'S INSIGHTS** | Slaapproblemen
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een slaapproblemen. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over slaapproblemen. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
 # Voordeel Ivan Chai
 > Verbetert de nachtrust
