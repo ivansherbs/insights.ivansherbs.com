@@ -23,22 +23,20 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 * Welk effect heeft het gebruik van medicijnen op baarmoederontsteking?
 * Welke ongewenste bijwerkingen kan antibiotica bij gebruik met zich meebrengen?
 
-
 **Behandeling: Ivan Chai** <br>
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
-* Bereidingswijze
-* Smaakbeleving
-* Intensiteit
 * Welke dosering en behandelingskuur raden jullie aan?
 * Is het effect van Ivan Chai direct voelbaar?
 * Welke voorzorgsmaatregelen kan ik nemen?
 * Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
-  - Contra-indicaties en waarschuwingen
+* Contra-indicaties en waarschuwingen
   - Zwangerschap, borstvoeding en vruchtbaarheid
-  - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
+* Bereidingswijze
+* Smaakbeleving
+* Intensiteit
 
 **Conclusie: Ivan's Insights**
 * Baarmoederontsteking
@@ -231,7 +229,7 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 * Verlaagde bloeddruk
 * Coma
  
-Oh.... Nog even over de **Contra-indicaties en waarschuwingen**. <br>
+### Contra-indicaties en waarschuwingen
 Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden gedronken.
 
 En is gelukkig veilig voor kinderen.
@@ -259,3 +257,5 @@ Wat je wél kunt doen is de kans op een baarmoederontsteking verminderen. Met Iv
 > Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. 
 
 Mocht je toch onverhoopt een met een baarmoederontsteking rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de farmaceutische behandelmethode.
+
+Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een baarmoederontsteking te voorkomen. 
