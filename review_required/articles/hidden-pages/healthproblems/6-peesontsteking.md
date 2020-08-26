@@ -35,8 +35,8 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
   - Zwangerschap, borstvoeding en vruchtbaarheid
 * Hoe bewaar je Ivan Chai?
 * Bereidingswijze
-* Smaak en geur
-* Intensiteit
+  - Smaak en geur
+  - Intensiteit
 
 # Probleem: Peesontsteking
 Laten we beginnen met de allereerste vraag gericht op een peesontsteking.
