@@ -170,24 +170,6 @@ Drink Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
-### Bereidingswijze
-Totale tijd: ca 7 min
-
-Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
-
-Wanneer je de Ivan Chai warm drinkt adviseer ik je - voor een optimale smaakbeleving - het kruideninfuus te drinken bij 77 graden Celsius.
-
-_...en hoe zit het met de smaakbeleving?_
-
-### Smaakbeleving <br>
-De smaakbeleving is als volgt te omschrijven:
-* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
-
-* "De geur lijkt een beetje op zwarte thee, heeft een aardse, houtachtige geur en toch ruik ik ook zoete tonen"
- 
-### Intensiteit <br>
-(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
-
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 * Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
@@ -244,6 +226,24 @@ Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wo
 Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden.
 
 Gezien de natuurlijke aard kan je het langer bewaren - en consumeren - dan de uiterste houdbaarheidsdatum.
+
+### Bereidingswijze
+Totale tijd: ca 7 min
+
+Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
+
+Wanneer je de Ivan Chai warm drinkt adviseer ik je - voor een optimale smaakbeleving - het kruideninfuus te drinken bij 77 graden Celsius.
+
+_...en hoe zit het met de smaakbeleving?_
+
+### Smaakbeleving <br>
+De smaakbeleving is als volgt te omschrijven:
+* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+
+* "De geur lijkt een beetje op zwarte thee, heeft een aardse, houtachtige geur en toch ruik ik ook zoete tonen"
+ 
+### Intensiteit <br>
+(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
 # Conclusie: Ivan's Insights
 ### Baarmoederontsteking
