@@ -243,7 +243,7 @@ _...En hoe zit het met de smaakbeleving?_
 De smaakbeleving is als volgt te omschrijven:
 * "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
 
-* "De geur lijkt een beetje op zwarte thee, ietwat aards, houtachtig, maar ook in bezit van zoete tonen”.
+* "De geur lijkt een beetje op zwarte thee, ietwat aards, houtachtig, maar ook in bezit van zoete tonen”
  
 ### Intensiteit <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
