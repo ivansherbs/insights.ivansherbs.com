@@ -7,8 +7,8 @@ Door **IVAN'S INSIGHTS** | Zwak immuunsysteem <br>
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
  
-### Voordeel:
-> Ivan Chai - Versterkt de weerstand
+### Voordeel Ivan Chai:
+> Versterkt de weerstand
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. 
 
@@ -18,14 +18,14 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 
 # Inhoud van dit artikel
 
-**Probleem: Zwak immuunsysteem**
+**Zwak immuunsysteem**
 * Wat is het immuunsysteem?
 * Wanneer spreek je van een zwak immuunsysteem?
 * Wanneer krijg je last van een zwak immuunsysteem?
 * Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
-* Goed om te weten!
+* Eenvoudige natuurlijke behandeling
 
-**Behandeling: Ivan Chai** <br>
+**Ivan Chai** <br>
 * De oorsprong van Ivan Chai
 * Bevindingen
 * Ivan Chai tegen 17 problemen
@@ -40,10 +40,10 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
   - Smaak en geur
   - Intensiteit
 
-**Conclusie: Ivan's Insights**
-* Zwak immuunsysteem
+**Ivan's Insights**
+* Over een zwak immuunsysteem
 
-# Probleem: Zwak immuunsysteem
+# Zwak immuunsysteem
 Laten we beginnen met de allereerste vraag gericht op het immuunsysteem.
 
 ### Wat is het immuunsysteem?
@@ -82,14 +82,14 @@ Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medici
 
 Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
-### Goed om te weten!
+### Eenvoudige natuurlijke behandeling
 Het aanpassen van je levensstijl is de meest eenvoudige manier om de kans op een zwak immuunsysteem te verkleinen. Je lichaam kan zich beter weren tegen indringers van buitenaf. Hierdoor hoef je minder snel kennis te maken met farmaceutische medicijnen die problemen bestrijden.
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen.
 
 Bij het aanpassen van je levensstijl - vóór, tijdens of ná het hebben van een zwak immuunsysteem - zijn er natuurlijke behandelingen beschikbaar. Deze behandelingen kunnen preventief tegen of ter behandeling gebruikt worden. Lees snel verder over een behandeling met Ivan Chai.
 
-# Behandeling: Ivan Chai
+# Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief tegen of ter behandeling tegen een zwak immuunsysteem.
@@ -125,9 +125,7 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Het drinken van een kop Siberische kruidenthee!
-
-Hieronder kun je de lijst met problemen bekijken die de voordelen verzorgen - of bestrijden.
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
 
 ### Ivan Chai tegen 17 problemen
 Drink Ivan Chai preventief tegen of ter behandeling tijdens een:
@@ -236,8 +234,8 @@ _...En hoe zit het met de **geur**?_ <br>
 ### Intensiteit <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Conclusie: Ivan's Insights
-### Zwak immuunsysteem
+# Ivan's Insights
+### Over een zwak immuunsysteem
 
 Beperk de mate van kwetsbaarheid. En versterk je immuunsysteem. 
 
@@ -245,12 +243,10 @@ Niet altijd zijn we gezegend met een goed afweersysteem. Sommige oorzaken zijn t
 
 Het kan zijn dat je gedwongen farmaceutische medicijnen moet gebruiken - met ongewenste bijwerkingen tot gevolg. 
 
-Probeer een zwak immuunsysteem preventief te behandelen. De meest eenvoudige manier is het aanpassen van je levensstijl. Ik kan je de volgende eenvoudige bruikbare tip meegeven: 
-
-> Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine
-
-Drink Ivan Chai preventief tegen of ter behandeling van een zwak immuunsysteem. Mocht je toch onverhoopt een met een zwak immuunsysteem rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
-
 Vergeet niet dat Ivan Chai bewezen effectief is voor het versterken van de weerstand. Waardoor je het kunt gebruiken als alternatief of aanvulling op farmaceutische medicijnen. 
 
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een zwak immuunsysteem te verzorgen.
+Drink Ivan Chai preventief tegen of ter behandeling van een zwak immuunsysteem.
+
+> Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een met een zwak immuunsysteem rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+>
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een zwak immuunsysteem te verzorgen.
