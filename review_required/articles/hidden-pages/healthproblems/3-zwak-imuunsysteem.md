@@ -170,8 +170,6 @@ Drink Ivan Chai preventief tegen of ter behandeling tijdens een:
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 * Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
 
-Goed om te weten! Deze therapeutische dosering van Ivan Chai wordt aangeraden door het European Medicines Agency (EMA).
-
 ### Is het effect van Ivan Chai direct voelbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar.
 
