@@ -36,6 +36,9 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
   - Smaak en geur
   - Intensiteit
 
+**Conclusie: Ivan's Insights**
+* Slijmbeursontsteking
+
 # Probleem: Slijmbeursontsteking
 Laten we beginnen met de allereerste vraag gericht op een slijmbeursontsteking.
 
