@@ -36,9 +36,8 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 * Is het effect van Ivan Chai direct voelbaar?
 * Welke voorzorgsmaatregelen kan ik nemen?
 * Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
-  - Contra-indicaties en waarschuwingen
+* Contra-indicaties en waarschuwingen
   - Zwangerschap, borstvoeding en vruchtbaarheid
-  - Rijvaardigheid
 * Hoe bewaar je Ivan Chai?
 * Bereidingswijze
 * Smaakbeleving
