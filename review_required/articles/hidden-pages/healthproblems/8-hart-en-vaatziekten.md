@@ -115,7 +115,7 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
 
-### Behandeling tegen 17 problemen
+### Ivan Chai tegen 17 problemen
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
