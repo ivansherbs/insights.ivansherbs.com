@@ -33,8 +33,8 @@ Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
   - Smaakbeleving en geur
   - Intensiteit
   
-  **Conclusie: Ivan's Insights**
-* Hart- en vaatziekten
+**Ivan's Insights**
+* Over hart- en vaatziekten
 
 # Probleem: Hart- en vaatziekten
 Laten we beginnen met een overzicht. Waarbij we ons de volgende vraag stellen:
