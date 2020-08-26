@@ -236,15 +236,17 @@ Het is fijn om je niet terug te hoeven houden - zeker niet wanneer je beweegt! H
 
 Het kan zijn dat - naarmate je ouder wordt - je slijmbeurzen sneller geïrriteerd raken. Je wilt blijven bewegen. Maar soms gaat dat niet meer. Het kan zijn dat je slijmbeurzen zijn ontstoken. 
 
-Om te voorkomen dat dit gebeurt, kun je eenvoudige natuurlijke behandelingen tot je nemen. 
+Om te voorkomen dat dit snel gebeurt, kun je eenvoudige natuurlijke behandelingen tot je nemen. 
 Denk hierbij aan Ivan Chai. Dit is een Siberische kruidenthee. 
+
+Drink Ivan Chai preventief tegen of ter behandeling tijdens een slijmbeursontsteking.
 
 > Neem het drinken van Siberische kruidenthee op in je dagelijkse routine.
 
 Door gebruik te maken van Ivan Chai, zorg je ervoor dat ontstekingen effectief worden voorkomen - en onderdrukt.
 
 Mocht je toch onverhoopt een zwaardere vorm van een slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een slijmbeursontsteking te verzorgen.
+Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent je beschermkappen te verzorgen. En soepele gewrichten te behouden!
 
 
 
