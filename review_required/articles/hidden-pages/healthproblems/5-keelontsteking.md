@@ -37,6 +37,9 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
   - Smaak en geur
   - Intensiteit
 
+**Conclusie: Ivan's Insights**
+* Keelontsteking
+
 # Probleem: Keelontsteking
 Laten we beginnen met de allereerste vraag gericht op een keelontsteking.
 
