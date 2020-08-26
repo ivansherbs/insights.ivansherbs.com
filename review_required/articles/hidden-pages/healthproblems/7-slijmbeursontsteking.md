@@ -246,9 +246,5 @@ Drink Ivan Chai preventief tegen of ter behandeling tijdens een slijmbeursontste
 Door gebruik te maken van Ivan Chai, zorg je ervoor dat ontstekingen effectief worden voorkomen - en onderdrukt.
 
 Mocht je toch onverhoopt een zwaardere vorm van een slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent je beschermkappen te verzorgen. En soepele gewrichten te behouden!
 
-
-
-
-
+Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent je een slijmbeursontsteking te verzorgen. En soepele gewrichten te behouden!
