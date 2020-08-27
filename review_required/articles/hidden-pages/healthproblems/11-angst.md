@@ -39,11 +39,11 @@ Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende we
 * Over angst
 
 # Angst
-Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Wat jij op dat moment als een bedreiging of gevaar hebt beschouwt. Je lichaam begeeft zich in opperste staat van paraatheid. Je hart klopt sneller. Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je - op dat moment - in een beklemmende, onaangename emotionele toestand.  
+Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Wat jij op dat moment als een bedreiging - of gevaar - hebt beschouwt. Je lichaam begeeft zich in opperste staat van paraatheid. Je hart klopt sneller. Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je - op dat moment - in een beklemmende, onaangename emotionele toestand.  
 
 Angst komt vaker voor dan je denkt. Je kan erin blijven steken. Of bij het minste en geringste al een klein hartje hebben. 
 
-Zo heb je last van een gevoel van intense angst - waarbij je wilt vluchten. Maar ook lichtere vormen van angst - waarbij je een korte periode last hebt van een opgelaten gevoel. Een vorm hiervan is faalangst. Denk aan die ene keer in een overvolle collegezaal - waarbij de docent een complexe vraag stelde. En vroeg om een uitvoerig betoog. 
+Zo heb je last van een gevoel van intense angst - waarbij je wilt vluchten. Maar ook lichtere vormen van angst - waarbij je een korte periode last hebt van een opgelaten gevoel. Een vorm hiervan is faalangst. Denk aan die ene keer in een overvolle collegezaal - waarbij de docent een complexe vraag stelde. En je vroeg om een uitvoerig betoog. 
 
 Laten we beginnen door dieper in te duiken op deze emotie. En beginnen bij de eerste vraag. 
 
