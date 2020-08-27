@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Angst: … 
+title: Angst: Zie jij het aankomen? 
 ---
 
 Door **IVAN'S INSIGHTS** | Angst
@@ -45,7 +45,7 @@ Je lichaam begeeft zich in opperste staat van paraatheid. Je hart klopt sneller.
 
 Angst komt vaker voor dan je denkt. Je kan erin blijven steken. Of bij het minste en geringste al angst ervaren.
 
-Zo heb je last van een gevoel van intense angst - waarbij je wilt vluchten. Maar ook lichtere vormen van angst - waarbij je een korte periode last hebt van een opgelaten gevoel. Een vorm hiervan is faalangst. Denk aan die ene keer in een overvolle collegezaal - waarbij de docent een complexe vraag stelde. En je vroeg om een uitvoerig betoog. 
+Zo heb je last van een gevoel van intense angst - waarbij je wilt vluchten. Maar ook lichtere vormen van angst - waarbij je een korte periode last hebt van een opgelaten gevoel. Een vorm hiervan is faalangst. Denk aan die ene keer in een overvolle collegezaal - waarbij de docent een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. 
 
 Laten we beginnen door dieper in te duiken op deze emotie. En beginnen bij de eerste vraag. 
 
