@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Stress: 
+title: Stress: Ben jij er al achter hoe het écht voelt?
 ---
 
 Door **IVAN'S INSIGHTS** | Stress
@@ -10,8 +10,8 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 # Voordeel Ivan Chai
 > Vermindert de kans op stress
 
-Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
-In tegenstelling tot de meeste farmaceutische medicijnen, gaat de kalmerende werking wél vooraf aan een zogenaamde opbouwfase.
+Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat het effect heeft op je centrale zenuwstelsel. Hierdoor wordt het stress gevoel vermindert.  
+
 ## Inhoud van dit artikel
 
 **Stress**
@@ -45,7 +45,7 @@ Laten we beginnen met de allereerste vraag gericht op stress.
 ### Hoe ontstaat stress?
 Stress ontstaat wanneer er in je lichaam te lang, te veel spanning aanwezig is. Een kleine mate van stress is oké. En hoeft op het eerste gezicht niet voor problemen te zorgen. Je bent namelijk erg gefocust en actief. 
 
-De mate van stress kan na verloop van tijd groeien. Te lang, een overmatige hoeveelheid aan stress ervaren zorgt voor problemen. 
+De mate van stress kan na verloop van tijd groeien. Te lang, een overmatige hoeveelheid aan stress ervaren zorgt voor problemen. Je staat té lang in de 5de versnelling. 
 
 ### Wat zijn de oorzaken van stress?
 Hierbij moet je denken aan: 
