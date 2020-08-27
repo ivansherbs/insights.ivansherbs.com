@@ -64,8 +64,11 @@ Jaarlijks gaan er ruim 450.000 mensen onder behandeling bij een huisarts voor ee
 Er is onderzoek gedaan door verschillende psychiaters. Die zijn tot de conclusie gekomen dat angst kan worden versterkt door een toenemende mate van: 
 * controle door het management 
 * technologie in het dagelijks leven
-* en stress - wat werkt als een katalysator. Wanneer je gevoelig bent voor angst. 
-Waarden als vertrouwen, overgave en spontaniteit ruilen we in voor achterdocht, controle en angst. Hiernaast wordt er - door verschillende onafhankelijke instituten - beweert dat angst één van de minst handelbare emoties is. Samen met stemmingsstoornissen, zijn dit de meest voorkomende aandoeningen in de psychiatrie. 
+* en stress
+
+Stress werkt als een katalysator. Wanneer je gevoelig bent voor angst. In combinatie met de overige resultaten, worden waarden als vertrouwen, overgave en spontaniteit ingeruild voor achterdocht en controle. Met angst tot gevolg. 
+
+> Verschillende onafhankelijke instituten beweren dat angst één van de minst handelbare emoties is. En is hiermee één van de meest voorkomende aandoeningen in de psychiatrie. Dit probleem begint bij een milde vorm van angst. 
 
 ### Eenvoudige natuurlijke behandeling
 
@@ -75,8 +78,7 @@ Lichtere vormen van angst kun je op eenvoudige wijze verminderen. Waardoor je ze
 
 Zo zijn er tal van mogelijkheden die al bijdragen aan. Denk aan goed voorbereid op pad gaan. Het aanpassen van je dieet. En er zelfverzekerd uitzien. 
 
-> Ter info: Zo voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up. 
-Het merendeel van de mannen, vindt vrouwen mooier zonder make-up
+> Ter info: Zo voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up.
 
 Hiernaast kun je ook gebruik maken van eenvoudige natuurlijke behandelingen. Die gebruikt kunnen worden als alledaags product. 
 
@@ -233,7 +235,7 @@ _...En hoe zit het met de **geur**?_ <br>
 # Ivan's Insights
 ### Over angst
 
-Angst staat bekend in de medische wereld, als een van de minst handelbare emoties. Je kan er plotseling last van krijgen. Zonder enige vorm van waarschuwing. 
+Angst staat bekend in de medische wereld, als één van de minst handelbare emoties. Je kan er plotseling last van krijgen. Zonder enige vorm van waarschuwing. 
 
 Dit kan nare situatie opleveren. Vol hartkloppingen, een hoge bloeddruk en aangespannen spieren. Voor velen een onaangenaam gevoel. Niet voor herhaling vatbaar.  
 
@@ -242,4 +244,3 @@ Er zijn verschillende manieren die al bijdragen aan het verminderen van angst. I
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van ernstige angst, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
 > Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En ik garandeer je dat je beter in staat bent de kans op angst te verminderen.
-
