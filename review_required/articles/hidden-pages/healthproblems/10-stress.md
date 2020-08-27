@@ -58,7 +58,11 @@ Hierbij moet je denken aan:
 Stress ontstaat met name op werk. 53% van de werknemers ervaart stress op de werkvloer. En nemen dit mee naar huis.  
 
 ### Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?
-Wanneer dit te lang aanhoudt kan dit omslaan in verschillende mentale klachten. Denk hierbij aan de volgende gezondheidsproblemen, die hevige impact kunnen hebben op de gemoedstoestand - en daarmee het dagelijks leven: 
+Wanneer dit te lang aanhoudt kan dit omslaan in verschillende mentale klachten. Denk hierbij aan de volgende gezondheidsproblemen, die hevige impact kunnen hebben op de gemoedstoestand - en daarmee het dagelijks leven. Eerst enkele voorbeelden van veelvoorkomende mentale klachten:
+* angst 
+* burnout
+
+Hiernaast kun je ook te maken krijgen met:
 * agressie
 * manie
 * psychose
@@ -228,7 +232,7 @@ _...En hoe zit het met de **geur**?_ <br>
 # Ivan's Insights
 ### Over stress
 
-Stress is een ware sluipmoordenaar. Zonder dat je het door hebt, sta je te lang in de 5de versnelling. Neem je geen rust. Loop je over van het werk. En loop je de kans op ernstige mentale klachten. Het nare van de gevolgen van stress - agressie, manie, psychose en een depressie - is dat je niet weet voor welke mentale klachten je gevoelig bent. Totdat je het hebt. 
+Stress is een ware sluipmoordenaar. Zonder dat je het door hebt, sta je te lang in de 5de versnelling. Neem je geen rust. Loop je over van het werk. En loop je de kans op ernstige mentale klachten. Het nare van de gevolgen van stress - angst en een burnout, maar ook agressie, manie, psychose en een depressie - is dat je niet weet voor welke mentale klachten je gevoelig bent. Totdat je het hebt. 
 
 Leer stress tijdig te herkennen. Verander je levensstijl. En sta open voor natuurlijke behandelingen - in de vorm van een alledaagse producten - zoals Ivan Chai. 
 Natuurlijke behandelingen kunnen de kans op een lichtere vorm van stress - waardoor ongezonde werkstress kan ontstaan - verminderen. 
