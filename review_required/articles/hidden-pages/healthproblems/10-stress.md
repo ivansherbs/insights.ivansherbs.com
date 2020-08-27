@@ -141,7 +141,7 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 8. Hart- en vaatziekten
 
-9. stress
+9. Slaapproblemen
 
 10. Stress
 
