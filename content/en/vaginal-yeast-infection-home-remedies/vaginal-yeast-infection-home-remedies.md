@@ -1,6 +1,8 @@
 ---
 layout: article.html
 title: "Vaginal Yeast Infection Home Remedies: What You Need to Know"
+meta-description: "Learn about vaginal yeast infection home remedies. Read about the signs of a yeast infection, what causes it, what it looks like, and what is a yeast infection."
+meta-tags: "yeast infection sores pictures is yeast infection contagious yeast infection with sores how to prevent yeast infection how long do yeast infections last how do i know if i have a yeast infection what does a yeast infection look like how to cure a yeast infection at home fast yeast infection smell what is a yeast infection yeast infection sores signs of yeast infection what causes yeast infection"
 ---
 
 ![vaginal-yeast-infection-itch](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/vaginal-yeast-infection-itch.jpg)
@@ -9,7 +11,7 @@ title: "Vaginal Yeast Infection Home Remedies: What You Need to Know"
 
 *But what if you knew some effective home remedies to treat and prevent them?*
 
-This article will explain many home remedies for a vaginal yeast infection. You’ll also learn exactly what a yeast infection is, how to prevent it, and even what it looks like. 
+This article will explain many home remedies for a vaginal yeast infection. You’ll also learn signs of a yeast infection, what causes it, what is a yeast infection, and even what it looks like. 
 
 If you or a friend need natural relief from yeast infections, this article is your guide.
 
