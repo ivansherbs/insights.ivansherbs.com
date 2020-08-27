@@ -15,7 +15,7 @@ If you or a friend need natural relief from yeast infections, this article is yo
 
 Here's a breakdown of the topics I will cover:
 
-- [What is a Yeast Infection?](#what-is-a-vaginal-yeast-infection-)
+- [What is a Yeast Infection?](#what-is-a-yeast-infection-)
 - [Yeast Infection Home Remedies](#yeast-infection-home-remedies)
 - [Signs of Yeast Infection](#signs-of-yeast-infection)
 - [Test for Yeast Infections at Home](#test-for-yeast-infections-at-home)
@@ -42,7 +42,7 @@ The technical term is vulvovaginal candidiasis. It's named after the fungus, *Ca
 
 Let's see some fast home remedies that you can do to treat it.
 
-## Yeast Infections Home Remedies
+## Yeast Infection Home Remedies
 
 Let's look at 4 ways of how to remedy yeast infections at home. But before I jump in, I need a disclaimer.
 
@@ -202,7 +202,7 @@ But before you go get a test, you need a signal, right? Read on for some yeast i
 
 
 
-## Signs of a Yeast Infection
+## Signs of Yeast Infection
 
 So you are asking yourself "how do i know if I have a yeast infection?"
 
@@ -283,7 +283,7 @@ Let's learn about the causes now.
 
 
 
-## What Causes Yeast Infections
+## What Causes Yeast Infections?
 
 You want to know what causes it right? Knowing empowers you to prevent it.
 
