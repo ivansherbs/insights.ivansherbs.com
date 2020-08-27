@@ -10,7 +10,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 # Voordeel Ivan Chai
 > Vermindert de kans op stress
 
-Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat het effect heeft op je centrale zenuwstelsel. Hierdoor wordt het stress gevoel vermindert.  
+Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat het effect heeft op je centrale zenuwstelsel. Hierdoor wordt het stressgevoel vermindert.  
 
 ## Inhoud van dit artikel
 
