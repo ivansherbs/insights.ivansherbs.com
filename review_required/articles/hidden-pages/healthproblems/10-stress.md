@@ -63,6 +63,7 @@ Wanneer dit te lang aanhoudt kan dit omslaan in verschillende mentale klachten. 
 * manie
 * psychose
 * en depressie. 
+
 Wanneer bovenstaande mentale klachten opspelen, raad ik het aan om een deskundige te bezoeken om deze klachten te bestrijden. 
 
 Uiteraard wil je bovenstaande mentale klachten vermijden. Dit doe je door de lichtere vormen van stress aan te pakken. Dit kan je doen door het aanpassen van je levensstijl. En het gebruik van eenvoudige natuurlijke behandelingen, zoals Ivan Chai.  
