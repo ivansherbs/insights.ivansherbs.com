@@ -53,7 +53,8 @@ Hierbij moet je denken aan:
 * een te hoge werkdruk
 * verlies van je baan
 * het overlijden van een dierbare 
-* of een (chronische) ziekte. <br>
+* of een (chronische) ziekte.
+
 Stress ontstaat met name op werk. 53% van de werknemers ervaart stress op de werkvloer. En nemen dit mee naar huis.  
 
 ### Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?
