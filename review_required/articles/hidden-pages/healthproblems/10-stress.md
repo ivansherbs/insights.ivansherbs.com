@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Stress: De oorzaak van vele problemen
+title: Stress: 
 ---
 
 Door **IVAN'S INSIGHTS** | Stress
@@ -53,7 +53,7 @@ Hierbij moet je denken aan:
 * een te hoge werkdruk
 * verlies van je baan
 * het overlijden van een dierbare 
-* of een (chronische) ziekte.
+* of een (chronische) ziekte. <br>
 Stress ontstaat met name op werk. 53% van de werknemers ervaart stress op de werkvloer. En nemen dit mee naar huis.  
 
 ### Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?
