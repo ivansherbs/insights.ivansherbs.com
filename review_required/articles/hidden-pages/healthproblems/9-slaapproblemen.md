@@ -11,7 +11,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 > Verbetert de nachtrust
 
 Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen.
-In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden, hoe het helpt bij slaapstoornissen. Echter heeft onderzoek aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. 
+In de traditionele volksgeneeskunde staat het bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden, hoe het helpt bij slaapstoornissen. Onderzoek heeft wél aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. 
 
 ## Inhoud van dit artikel
 
@@ -225,13 +225,13 @@ _...En hoe zit het met de **geur**?_ <br>
 
 De oorzaak van slaapproblemen zijn heel erg divers. Wellicht te veel om op te noemen. 
 
-Bewustwording waar de slaapproblemen vandaan komen, is een eerste stap richting een goede nachtrust. Hou hierbij rekening met de uitkomsten van het volgende onderzoek.
+Bewustwording waar de slaapproblemen vandaan komen, is een eerste stap richting een goede nachtrust. Hierbij kun je rekening houden met de uitkomsten van het volgende onderzoek.
 
 Een groot deel van de slapeloosheid wordt veroorzaakt door stress. Met name dit probleem zorgt voor slapeloze nachten.
 
 Waar je waarschijnlijk niet van op de hoogte bent, is dat er ook eenvoudige natuurlijke behandelingen beschikbaar zijn - om de nachtrust te verbeteren. Denk hierbij aan Ivan Chai. Een Siberische kruidenthee.
 
-In de traditionele volksgeneeskunde staat deze kruidenthee bekend om zijn kalmerende werking. De medische wereld doet diepgaand onderzoek naar de exacte reden, hoe het helpt bij slaapstoornissen. Echter heeft onderzoek aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. Wat uiteindelijk de kans op stress vermindert. 
+In de traditionele volksgeneeskunde staat deze kruidenthee bekend om zijn kalmerende werking. De medische wereld doet diepgaand onderzoek naar de exacte reden, hoe het helpt bij slaapstoornissen. Onderzoek heeft aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. Wat uiteindelijk de kans op stress vermindert. Met als gevolg, het verbeteren van je nachtrust. 
 
 Drink Ivan Chai preventief tegen slaapproblemen.
 Pas hiernaast je levensstijl aan, en sta open voor meer rust in je leven. 
