@@ -49,7 +49,7 @@ Laten we beginnen door dieper in te duiken op deze emotie. En beginnen bij de ee
 
 ### Hoe ontstaat een gevoel van angst?
 Angst kan een gevolg zijn van meerdere factoren. Hieronder enkele voorbeelden:
-* Verleden: 
+* Verleden 
   - **Trauma** - je hebt in het verleden te maken gehad met een schokkende - of ingrijpende - gebeurtenis. Je wordt er constant aan herinnerd. En hebt het nog niet goed verwerkt. Of plekje kunnen geven. 
   - Door **invloeden uit je omgeving** - denk hierbij aan gezinsinvloeden. Waardoor je angst voor iets overneemt van - bijvoorbeeld - je ouders. 
 * Heden
