@@ -315,7 +315,7 @@ It's time to get graphic. Scroll below to see a vaginal yeast infection picture.
 
 ![what does a yeast infection look like](/Volumes/GoogleDrive/My Drive/1_Site Development/00_Site_Content/2_Articles/yeast-infection-home-remedies/images/what does a yeast infection look like.jpg)
 
-Image credit: [Mikael Häggström, 2014](https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg).
+*Image credit: [Mikael Häggström, 2014](https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg).*
 
 If you closed your eyes, no problem. I'll describe the yeast infection discharge for you.
 
@@ -455,7 +455,7 @@ So cut stress, get enough sleep, and exercise. Your immune system will improve a
 
 The vagina is a self-cleaning system. Don't douche it.
 
-A popular Slideshare on women's hygiene confirms this:
+A popular [Slideshare on women's hygiene](https://www.slideshare.net/doctortvrao/vaginal-hygienewhat-every-women-should-know#22) confirms this:
 
 ![douching-vaginal-yeast-infections](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/douching-vaginal-yeast-infections.png)
 
