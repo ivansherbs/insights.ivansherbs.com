@@ -1,11 +1,13 @@
 ---
 layout: article.html
 title: Reference Article
+meta:
+  description: This is the HTML meta description used also by search engines
+  keywords: reference article, sample article, example article, documentation
 publish:
   author: If not provided, Ivan's Insights will be used
   date: Aug 28, 2020
 ---
-
 [[toc]]
 
 # Formatting
