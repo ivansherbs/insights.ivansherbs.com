@@ -128,8 +128,8 @@ resourceDomain: https://vc.ivansherbs.com
                                 <div class="blog-details">
                                     <div class="space-25"></div>
                                     <ul class="news-meta">
-                                        <li><span class="lnr lnr-user"></span> By Admin</li>
-                                        <li><span class="lnr lnr-clock"></span> Feb 26, 2018</li>
+                                        <li><span class="lnr lnr-user"></span> By {{ publish.author | default: "Ivan's Insights" }}</li>
+                                        <li><span class="lnr lnr-clock"></span> {{ publish.date }}</li>
                                     </ul>
                                     <div class="space-25"></div>
                                     {{ content }}
