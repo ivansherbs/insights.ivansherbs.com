@@ -75,7 +75,7 @@ Er is onderzoek gedaan door verschillende psychiaters. Die zijn tot de conclusie
 * technologie in het dagelijks leven
 * en stress
 
-Stress werkt als een katalysator. Wanneer je gevoelig bent voor angst. In combinatie met de overige resultaten, worden waarden als vertrouwen, overgave en spontaniteit ingeruild voor achterdocht en controle. Met angst tot gevolg. 
+Stress werkt als een katalysator op angst. Helemaal dan, worden waarden als vertrouwen, overgave en spontaniteit ingeruild voor achterdocht en controle. Met angst tot gevolg. 
 
 > Verschillende onafhankelijke instituten beweren dat angst één van de minst handelbare emoties is. En is hiermee één van de meest voorkomende aandoeningen in de psychiatrie. Simpelgezegd, zie je dit probleem meestal niet aankomen. 
 
