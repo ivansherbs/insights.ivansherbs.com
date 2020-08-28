@@ -42,7 +42,7 @@ Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende we
 # Burn-out
 ...En opeens is het zover. 
 
-Je bent gedreven, ambitieus en enthousiast. Je krijgt veel verantwoordelijkheid op werk, er zijn immers taken genoeg. En die dynamische omgeving, dat zit wel goed. De tijd gaat snel. En je hebt het gevoel dat je carriere aan het maken bent. Zonder erover na te denken, maak je overuren. Neem je taken over van je zieke collega. Regel je de bedrijfsborrel. En zit je in de personeelsvertegenwoordiging. 
+Je bent gedreven, ambitieus en enthousiast. Je krijgt veel verantwoordelijkheid op werk - er zijn immers taken genoeg. En die dynamische werkomgeving, dat zit wel goed. De tijd gaat snel. En je hebt het gevoel dat je carriere aan het maken bent. Zonder erover na te denken - maak je overuren. Neem je taken over van je zieke collega. Regel je de bedrijfsborrel. En zit je in de personeelsvertegenwoordiging. 
 
 Wanneer je opgaat in het werkende leven, is rust nemen in sommige gevallen geen optie. 
 
