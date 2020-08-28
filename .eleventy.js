@@ -1,8 +1,8 @@
 module.exports = function(eleventyConfig) {
 
-    // *******************************
-    // md configuration and extensions
-    // *******************************
+    // *************************************
+    // Markdown extensions and configuration
+    // *************************************
     let mdit = require("markdown-it");
 
     let mdOptions = {
@@ -13,11 +13,11 @@ module.exports = function(eleventyConfig) {
     let md = mdit(mdOptions);
 
     // use link attributes (like open in new tab using target _blank)
-    let mila = require('markdown-it-link-attributes');
+    let mila = require("markdown-it-link-attributes");
     md.use(mila, {
         attrs: {
-            target: '_blank',
-            rel: 'noopener'
+            target: "_blank",
+            rel: "noopener"
         }
     });
 
@@ -30,6 +30,11 @@ module.exports = function(eleventyConfig) {
     // set the configured md as the content generator engine for md files
     eleventyConfig.setLibrary("md", md);
 
+    // ************************
+    // RSS plugin configuration
+    // ************************
+    let pluginRss = require("@11ty/eleventy-plugin-rss");
+    eleventyConfig.addPlugin(pluginRss);
 
     // **********************
     // eleventy configuration

@@ -1,0 +1,36 @@
+---
+permalink: en/articles.xml
+eleventyExcludeFromCollections: true
+metadata:
+  title: Ivan's Herbs Articles
+  subtitle: TODO All you need to know in order to stay healthy
+  url: http://articles.ivansherbs.com/en
+  feedUrl: https://example.com/en/articles.xml
+  author:
+    name: Ivan's Herbs
+email: contact@ivansherbs.com
+filterTag: article-en
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>{{ metadata.feedUrl }}</id>
+  <title>{{ metadata.title }}</title>
+  <subtitle>{{ metadata.subtitle }}</subtitle>
+  <link rel="self" type="application/atom+xml" href="{{ metadata.feedUrl }}"/>
+  <link rel="alternate" type="text/html" href="{{ metadata.url }}"/>
+  <updated>{{ collections[filterTag] | rssLastUpdatedDate }}</updated>
+  <author>
+    <name>{{ metadata.author.name }}</name>
+    <email>{{ metadata.author.email }}</email>
+  </author>
+  {%- for post in collections[filterTag] %}
+  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ absolutePostUrl }}"/>
+    <updated>{{ post.date | rssDate }}</updated>
+    <id>{{ absolutePostUrl }}</id>
+    <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+  </entry>
+  {%- endfor %}
+</feed>
