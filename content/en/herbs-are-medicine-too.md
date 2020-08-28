@@ -1,5 +1,7 @@
-# Herbs are Medicine too
-
+---
+layout: article.html
+title: Herbs Are Medicine Too
+---
 Ivan's Herbs makes use of natural resources in the form of Herbs to address Health concerns. Herbs work similar to pharmaceutical medicines. Of all the approved drugs in the last 30 years, up to 50% are derived directly or indirectly from plants [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560124/). One advantage is that negative side effects are rare. Negative side effects, if they do occur, are less severe.
 
 We provide scientific evidence for each herbal recipe. Many of the health issues have been evaluated by the European Medicines Agency (EMA), which is the European equivalent of the United States' Federal Drug Administration (FDA). In other cases we provide clinical and non-clinical evidence to support how herbal recipes address a specific health issue. 
