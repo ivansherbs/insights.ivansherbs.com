@@ -1,8 +1,12 @@
 ---
 layout: article.html
 title: "Vaginal Yeast Infection Home Remedies: What You Need to Know"
-meta-description: "Learn about vaginal yeast infection home remedies. Read about the signs of a yeast infection, what causes it, what it looks like, and what is a yeast infection."
-meta-tags: "yeast infection sores pictures is yeast infection contagious yeast infection with sores how to prevent yeast infection how long do yeast infections last how do i know if i have a yeast infection what does a yeast infection look like how to cure a yeast infection at home fast yeast infection smell what is a yeast infection yeast infection sores signs of yeast infection what causes yeast infection"
+meta:
+  description: "Master yeast infection home remedies. Learn the signs of a vaginal yeast infection, what causes it, how long it lasts, and what it is."
+  keywords: "yeastinfection, womenshealth, womenshealthcare, womenshealthproblems, womenshealthandfitness"
+publish:
+  author: Michael Koch
+  date: August 26, 2020
 ---
 
 ![vaginal-yeast-infection-itch](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/vaginal-yeast-infection-itch.jpg)
@@ -11,7 +15,7 @@ meta-tags: "yeast infection sores pictures is yeast infection contagious yeast i
 
 *But what if you knew some effective home remedies to treat and prevent them?*
 
-This article will explain many home remedies for a vaginal yeast infection. You’ll also learn signs of a yeast infection, what causes it, what is a yeast infection, and even what it looks like. 
+This article will explain many home remedies for a vaginal yeast infection. You’ll also learn signs of a yeast infection, what causes it, how long it lasts, and what it is. 
 
 If you or a friend need natural relief from yeast infections, this article is your guide.
 
@@ -313,13 +317,11 @@ Going deeper into each of the causes of a yeast infection can get messy. I'll sa
 
 ## What does a Yeast Infection look like?
 
-It's time to get graphic. Scroll below to see a vaginal yeast infection picture.
+It's time to get graphic. 
 
-![what does a yeast infection look like](/Volumes/GoogleDrive/My Drive/1_Site Development/00_Site_Content/2_Articles/yeast-infection-home-remedies/images/what does a yeast infection look like.jpg)
+A pelvic examination shows what a yeast infection looks like up close. Click on this link if you'd like to see [a picture (graphic content)](https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg).
 
-*Image credit: [Mikael Häggström, 2014](https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg).*
-
-If you closed your eyes, no problem. I'll describe the yeast infection discharge for you.
+If you closed your eyes or didn't click, no problem. I'll describe the yeast infection discharge for you.
 
 
 
@@ -457,11 +459,13 @@ So cut stress, get enough sleep, and exercise. Your immune system will improve a
 
 The vagina is a self-cleaning system. Don't douche it.
 
-A popular [Slideshare on women's hygiene](https://www.slideshare.net/doctortvrao/vaginal-hygienewhat-every-women-should-know#22) confirms this:
+The [Office of Women's Health](https://www.womenshealth.gov/a-z-topics/douching) has a page confirming this:
 
 ![douching-vaginal-yeast-infections](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/douching-vaginal-yeast-infections.png)
 
-So don't use scented hygiene products that change the balance of bacteria. That means don't use scented soaps, tampons, sprays, pads, etc. 
+So don't use scented hygiene products that change the balance of bacteria. 
+
+That means don't use scented soaps, tampons, sprays, pads, etc. 
 
 
 
@@ -576,7 +580,7 @@ Stay on the safe side and call your doctor once you think you have a yeast infec
 
 If signs of yeast infection are still there after one to two weeks, call your doctor again.
 
-For recurring yeast infections remember to stay dry. Get natural anti-fungals in your system like [Ivan Chai](https://shop.ivansherbs.com/products/vaginal-yeast-infection-home-remedy) and *Lactobacillus acidophilus*.
+For recurring yeast infections remcember to stay dry. Get natural anti-fungals in your system like [Ivan Chai](https://shop.ivansherbs.com/products/vaginal-yeast-infection-home-remedy) and *Lactobacillus acidophilus*.
 
 For recurring yeast infections, a more serious pharmaceutical drug is worth investigating.
 
