@@ -17,6 +17,7 @@ The front matter data is placed at the beginning of the article in YAML ([specif
 ```
 ---
 layout: article.html
+tags: article-en
 title: Reference Article
 meta:
   description: This is the HTML meta description used also by search engines
@@ -46,6 +47,13 @@ This information is visible for the user on the article page.
 
 * `publish.author` - the author of the article. If not provided, `Ivan's Insights` will be used as default.
 * `publish.date` - the date when this article was published. You can use any string/format you want as no validation is performed. If not provided, the date is not visible on the article page.
+
+## Atom Feed
+
+We have are generating one Atom feed per language. In order to have an article added to the language Atom feed, one has to use one of the following `tags` in the front matter:
+
+* `tags: article-en` - will add the article to the English Atom feed
+* `tags: article-nl` - will add the article to the Dutch Atom feed
 
 # Formatting
 
@@ -127,6 +135,6 @@ This is a __bold text__ (using `_` syntax) and this is an *italics text* (used `
       1. Numbered list sub-sub-item 2 (using same numbers)
 1. Numbered list item 2 (using same numbers)
 
-# Complete Documentation
+## Complete Markdown documentation
 
 For a complete Markdown documentation check out the [CommonMark Spec](https://spec.commonmark.org/current/).
