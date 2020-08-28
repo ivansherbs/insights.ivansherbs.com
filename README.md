@@ -1,6 +1,6 @@
 # Ivan's Herbs Site Content
 
-All content in this repository (master branch) is published automatically.
+All content in this repository (`master` branch) is published automatically.
 
 Use the [GitHub flow](https://guides.github.com/introduction/flow/) to propose changes to this repo. The `master` branch is protected.
 

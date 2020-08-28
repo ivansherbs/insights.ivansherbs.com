@@ -9,15 +9,11 @@ resourceDomain: https://vc.ivansherbs.com
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-K8K4QBL');</script>
-    <!-- End Google Tag Manager -->
-    
+
+    <meta name=”description” content="{{ meta.description }}">
+    <meta name=”keywords” content="{{ meta.keywords }}">
+    <meta name=”author” content="{{ publish.author | default: 'Ivan\'s Insights' }}">
+
     <title>{{ title }} | Ivan's Herbs</title>
 
     <!-- Favicon -->
@@ -53,6 +49,14 @@ resourceDomain: https://vc.ivansherbs.com
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K8K4QBL');</script>
+    <!-- End Google Tag Manager -->
 </head>
 
 <body data-spy="scroll" data-target="#main_menu" data-offset="70">
@@ -63,7 +67,7 @@ resourceDomain: https://vc.ivansherbs.com
         </div>
     </div>
     <!-- End Preloader -->
-    
+
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K8K4QBL"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -142,8 +146,8 @@ resourceDomain: https://vc.ivansherbs.com
                                 <div class="blog-details">
                                     <div class="space-25"></div>
                                     <ul class="news-meta">
-                                        <li><span class="lnr lnr-user"></span> By Admin</li>
-                                        <li><span class="lnr lnr-clock"></span> Feb 26, 2018</li>
+                                        <li><span class="lnr lnr-user"></span> By {{ publish.author | default: "Ivan's Insights" }}</li>
+                                        <li><span class="lnr lnr-clock"></span> {{ publish.date }}</li>
                                     </ul>
                                     <div class="space-25"></div>
                                     {{ content }}
