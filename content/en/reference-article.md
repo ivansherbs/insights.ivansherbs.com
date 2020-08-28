@@ -10,6 +10,43 @@ publish:
 ---
 [[toc]]
 
+# Front Matter Information
+
+The front matter data is placed at the beginning of the article in YAML ([specification](https://yaml.org/spec/1.2/spec.html) and [example](https://yaml.org/spec/1.2/spec.html#id2761803)) format:
+
+```
+---
+layout: article.html
+title: Reference Article
+meta:
+  description: This is the HTML meta description used also by search engines
+  keywords: reference article, sample article, example article, documentation
+publish:
+  author: If not provided, Ivan's Insights will be used
+  date: Aug 28, 2020
+---
+... here goes the article Markdown content ...
+```
+
+## Mandatory fields
+
+* `layout` - tells the page renderer to use this layout for this article. Check the [`_includes`](https://github.com/ivansherbs/articles.ivansherbs.com/blob/master/content/_includes) directory for available layouts.
+* `title` - this is the main title of the article used both as the browser tab title as well as the main title header in the article
+
+## Metadata
+
+This information is hidden from the user but relevant for robots like: SEO, RSS, search engines, etc.
+
+* `meta.description` - a relevant article description used in the HTML description meta tag.
+* `meta.keywords` - relevant article keywords used in the HTML keywords meta tag.
+
+## Publishing data
+
+This information is visible for the user on the article page.
+
+* `publish.author` - the author of the article. If not provided, `Ivan's Insights` will be used as default.
+* `publish.date` - the date when this article was published. You can use any string/format you want as no validation is performed. If not provided, the date is not visible on the article page.
+
 # Formatting
 
 ## Headings
