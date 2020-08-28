@@ -61,7 +61,7 @@ Je ben er helemaal klaar mee. En zit vanaf nu vele male liever thuis op de bank.
 Laten we dit probleem - wat op de werkvloer ontstaat - eens even beter leren begrijpen. En beginnen bij de allereerste vraag.
 
 ### Wat is een burn-out? 
-Bij een burn-out wisselt een periode van veel inspanning zich in - voor een periode waarbij je volledig uitgeput bent. En waarbij je jezelf moeilijk kunnen focussen. Met als gevolg dat je jezelf mentaal, emotioneel en lichamelijk volledig machteloos voelt. Deze symptomen maken een burn-out een energiestoornis.
+Bij een burn-out wisselt een periode van veel inspanning zich in - voor een periode waarbij je volledig uitgeput bent. En waarbij je jezelf moeilijk kan focussen. Met als gevolg dat je jezelf mentaal, emotioneel en lichamelijk volledig machteloos voelt. Deze symptomen maken een burn-out een energiestoornis.
 
 > Zowel man, vrouw, jong en oud hebben last van een burnout
 
