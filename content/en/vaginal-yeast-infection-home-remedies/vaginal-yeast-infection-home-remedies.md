@@ -1,10 +1,19 @@
 ---
 layout: article.html
 title: "Vaginal Yeast Infection Home Remedies: What You Need to Know"
-meta-description: "Learn about vaginal yeast infection home remedies. Read about the signs of a yeast infection, what causes it, what it looks like, and what is a yeast infection."
-meta-tags: "yeast infection sores pictures is yeast infection contagious yeast infection with sores how to prevent yeast infection how long do yeast infections last how do i know if i have a yeast infection what does a yeast infection look like how to cure a yeast infection at home fast yeast infection smell what is a yeast infection yeast infection sores signs of yeast infection what causes yeast infection"
+meta:
+  description: Learn about vaginal yeast infection home remedies. Read about the signs of a yeast infection, what causes it, what it looks like, and what is a yeast infection.
+  keywords: yeast infection sores pictures, yeast infection contagious yeast infection with sores, how to prevent yeast infection, how long do yeast infections last, how do i know if i have a yeast infection, what does a yeast infection look like, how to cure a yeast infection at home fast, yeast infection smell, what is a yeast infection, yeast infection sores, signs of yeast infection, what causes yeast infection
 ---
+# TODOs
 
+* add TOC
+* fix image links
+* add headings
+* use block quotes
+* uniform list styles (see [Reference Article](https://articles.ivansherbs.com/en/reference-article/)
+* no more than 3 consecutive line breaks (2 for paragraphs, 3 for main sections for source visibility)
+---
 ![vaginal-yeast-infection-itch](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/vaginal-yeast-infection-itch.jpg)
 
 [Three out of four women](https://www.womenshealth.gov/a-z-topics/vaginal-yeast-infections#:~:text=Women%20and%20girls%20of%20all,have%20two%20or%20more%20infections.) will get a vaginal yeast infection during their lifetime.
