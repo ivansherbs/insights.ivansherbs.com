@@ -17,7 +17,7 @@ Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende we
 **Burn-out**
 * Wat is een burn-out? 
 * Komt dit probleem vaak voor?
-* Wat heeft burn-out te maken met een stress?
+* Wat heeft een burn-out te maken met stress?
 * Is dit dan ook vergelijkbaar met een bore-out? 
 * Eenvoudige natuurlijke behandeling
 
@@ -74,7 +74,7 @@ Om de statistieken even aan te vullen.
 
 Burn-out klachten kosten de Nederlandse economie gemiddeld € 2.800.000.000, zeggende: twee miljard en acht honderd miljoen euro, per jaar aan verzuimkosten, als gevolg van stress. 
 
-### Wat heeft burn-out te maken met een stress?
+### Wat heeft een burn-out te maken met stress?
 
 Alles. Een burn-out is het gevolg van een overmatige hoeveelheid aan stress. Meestal veroorzaakt door werk. Wanneer je voor lange periode, te hard werkt - kan het zijn dat je door een overmatige hoeveelheid aan stress, je hersencapaciteit overbelast. 
 
@@ -106,10 +106,14 @@ Wanneer je het gevoel herkent. Zal je een levensstijl moeten vinden, waarbij je 
 
 Wanneer je stress goed aanpakt, hoef je minder snel kennis te maken met de gevolgen - het krijgen van een burn-out. 
 Wat je hierbij kan helpen - wanneer je een lichtere vorm van stress herkent - is het gebruik van eenvoudige natuurlijke behandelingen. Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
+
 Hiermee verminder je de kans op ongezonde werkstress. Om de kalmerende werking op je centrale zenuwstelsel. Overigens veel gebruikt in de traditionele volksgeneeskunde. Bewezen effectief door hedendaags onderzoek.
+
 Wanneer je stress - en hiermee een burn-out - goed aanpakt, hoef je minder snel kennis te maken met de farmaceutische medicijnen die deze problemen bestrijden.
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
+
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out. 
+
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
