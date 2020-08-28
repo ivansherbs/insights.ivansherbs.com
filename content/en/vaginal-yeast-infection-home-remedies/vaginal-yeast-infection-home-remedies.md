@@ -433,7 +433,7 @@ Here's an excerpt from a well respected [journal on plant medicine](https://phyt
 
 
 
-In short, fireweed acts againts yeast.
+In short, fireweed acts against yeast.
 
 Drink Ivan Chai two to three times daily to use it as a preventative remedy. This is especially true during times of stress. 
 
@@ -445,7 +445,7 @@ You can [get a trial of Ivan Chai](https://shop.ivansherbs.com/products/vaginal-
 
 It's common sense, and it's proven by studies. Reduce stress levels and yeast infections occur less often.
 
-A well regarded [journal of women's health](https://www.tandfonline.com/doi/abs/10.1080/01674820601168176) published a concrete finding. Have a look at the conclusion of the study (note that RVVC stands for Recurrent vulvovaginal candidiasis):
+A well regarded [journal of women's health](https://www.tandfonline.com/doi/abs/10.1080/01674820601168176) published a concrete finding. Have a look at the conclusion of the study (note that RVVC stands for recurrent vulvovaginal candidiasis):
 
 ![stress-causes-vaginal-yeast-infections](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/stress-causes-vaginal-yeast-infections.png)
 
