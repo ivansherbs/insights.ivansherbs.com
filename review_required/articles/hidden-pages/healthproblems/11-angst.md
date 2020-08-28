@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Angst: Zie jij het aankomen? 
+title: Angst: Zie jij het wél aankomen? 
 ---
 
 Door **IVAN'S INSIGHTS** | Angst
@@ -43,13 +43,18 @@ Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. 
 
 Je lichaam begeeft zich in opperste staat van paraatheid. Je hart klopt sneller. Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je - op dat moment - in een beklemmende, onaangename emotionele toestand.  
 
-Angst komt vaker voor dan je denkt. Je kan erin blijven steken. Of bij het minste en geringste al angst ervaren.
+Angst komt vaker voor dan je denkt. Je kunt bij het minste en geringste al angst ervaren. Of je kan er - voor langer tijd - in blijven steken.
 
 Zo heb je last van een gevoel van intense angst - waarbij je wilt vluchten. Maar ook lichtere vormen van angst - waarbij je een korte periode last hebt van een opgelaten gevoel. 
 
 Een vorm hiervan is faalangst. Denk aan die ene keer in een overvolle collegezaal - waarbij de docent een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. 
 
-Laten we beginnen door dieper in te duiken op deze emotie. En beginnen bij de eerste vraag. 
+Of sociale angst. De angst om eigenlijk echt te zeggen wat je ergens van vind. Op de werkvloer. Of tijdens een presentatie met de gehele afdeling. 
+
+Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. En andere kleine beestjes met meer dan vier poten. 
+
+Wellicht een fijne gedachten. Op angst kun je je niet voorbereiden. 
+Laten we deze emotie beter leren begrijpen. En beginnen bij de allereerste vraag. 
 
 ### Hoe ontstaat een gevoel van angst?
 Angst kan een gevolg zijn van meerdere factoren. Hieronder enkele voorbeelden:
@@ -72,7 +77,7 @@ Er is onderzoek gedaan door verschillende psychiaters. Die zijn tot de conclusie
 
 Stress werkt als een katalysator. Wanneer je gevoelig bent voor angst. In combinatie met de overige resultaten, worden waarden als vertrouwen, overgave en spontaniteit ingeruild voor achterdocht en controle. Met angst tot gevolg. 
 
-> Verschillende onafhankelijke instituten beweren dat angst één van de minst handelbare emoties is. En is hiermee één van de meest voorkomende aandoeningen in de psychiatrie. Dit probleem begint bij een milde vorm van angst. 
+> Verschillende onafhankelijke instituten beweren dat angst één van de minst handelbare emoties is. En is hiermee één van de meest voorkomende aandoeningen in de psychiatrie. Simpelgezegd, zie je dit probleem meestal niet aankomen. 
 
 ### Eenvoudige natuurlijke behandeling
 
@@ -239,9 +244,9 @@ _...En hoe zit het met de **geur**?_ <br>
 # Ivan's Insights
 ### Over angst
 
-Angst staat bekend in de medische wereld, als één van de minst handelbare emoties. Je kan er plotseling last van krijgen. Zonder enige vorm van waarschuwing. 
+Angst staat in de medische wereld bekend, als één van de minst handelbare emoties. Je kan er plotseling last van krijgen. Zonder enige vorm van waarschuwing. Je ziet het gewoon niet aankomen. 
 
-Dit kan nare situatie opleveren. Vol hartkloppingen, een hoge bloeddruk en aangespannen spieren. Voor velen een onaangenaam gevoel. Niet voor herhaling vatbaar.  
+Dit kan nare situaties opleveren. Vol hartkloppingen, een hoge bloeddruk en aangespannen spieren. Voor velen een onaangenaam gevoel. Niet voor herhaling vatbaar.  
 
 Er zijn verschillende manieren die al bijdragen aan het verminderen van angst. Ik beveel je bij deze Ivan Chai aan. Om de kalmerende werking op je centrale zenuwstelsel. Veel gebruikt in de traditionele volksgeneeskunde. En bewezen effectief door hedendaags onderzoek. 
 
