@@ -56,6 +56,8 @@ Gek genoeg, overkomt dit toch meer dan 1.000.000 mensen per dag in Nederland.
 
 Met een burn-out als gevolg. 
 
+Je ben er helemaal klaar mee. En zit vanaf nu vele male liever thuis op de bank. 
+
 Laten we dit probleem - wat op de werkvloer ontstaat - eens even beter leren begrijpen. En beginnen bij de allereerste vraag.
 
 ### Wat is een burn-out? 
