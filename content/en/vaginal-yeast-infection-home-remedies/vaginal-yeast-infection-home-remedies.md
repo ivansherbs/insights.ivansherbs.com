@@ -2,13 +2,21 @@
 layout: article.html
 title: "Vaginal Yeast Infection Home Remedies: What You Need to Know"
 meta:
-  description: "Master yeast infection home remedies. Learn the signs of a vaginal yeast infection, what causes it, how long it lasts, and what it is."
-  keywords: "yeastinfection, womenshealth, womenshealthcare, womenshealthproblems, womenshealthandfitness"
+  description: Master yeast infection home remedies. Learn the signs of a vaginal yeast infection, what causes it, how long it lasts, and what it is.
+  keywords: yeast infection, women's health, women's health care, women's health problems, women's health and fitness
 publish:
   author: Michael Koch
   date: August 26, 2020
 ---
+# TODOs
 
+* add TOC Markdown and remove manual TOC
+* fix image links
+* add headings
+* use block quotes
+* uniform list styles (see [Reference Article](https://articles.ivansherbs.com/en/reference-article/)
+* no more than 3 consecutive line breaks (2 for paragraphs, 3 for main sections for source visibility)
+---
 ![vaginal-yeast-infection-itch](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/vaginal-yeast-infection-itch.jpg)
 
 [Three out of four women](https://www.womenshealth.gov/a-z-topics/vaginal-yeast-infections#:~:text=Women%20and%20girls%20of%20all,have%20two%20or%20more%20infections.) will get a vaginal yeast infection during their lifetime.
