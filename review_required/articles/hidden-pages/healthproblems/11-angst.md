@@ -45,7 +45,6 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
-* [Welke voorzorgsmaatregelen kan ik nemen?](#welke-voorzorgsmaatregelen-kan-ik-nemen)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
 * [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
@@ -181,15 +180,8 @@ In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een z
 
 _...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?_
 
-Ik raad het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
+Wij raden het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
 
-### Welke voorzorgsmaatregelen kan ik nemen?  
-Veel combinaties - van natuurlijke behandelingen met farmaceutische medicijnen - zijn tot op heden niet geprobeerd of getest.
-
-Voorafgaand aan een behandeling met Ivan Chai - in combinatie met farmaceutische medicijnen - raad ik het aan een deskundige te raadplegen.
-
-Hiernaast raden wij het aan eigen onderzoek te doen om bijwerkingen te voorkomen.
- 
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
 > Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
