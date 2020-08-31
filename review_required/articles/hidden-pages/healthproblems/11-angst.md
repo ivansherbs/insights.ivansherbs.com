@@ -8,7 +8,7 @@ publish:
 # Voordeel Ivan Chai
 > Vermindert de kans op angst
 
-_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai effect heeft, op je centrale zenuwstelsel. Hierdoor wordt het angstgevoel vermindert._
+_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai effect heeft, op je centrale zenuwstelsel. Hierdoor kan de kans op het angstgevoel worden vermindert._
 
 # Zie jij het wél aankomen? 
 Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Wat jij op dat moment als een bedreiging - of gevaar - hebt beschouwt. 
