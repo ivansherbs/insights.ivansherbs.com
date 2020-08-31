@@ -8,7 +8,7 @@ publish:
 # Voordeel Ivan Chai
 > Vermindert de kans op een burn-out
 
-_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai, effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert._
+_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai effect heeft, op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert._
 
 # Opgeven is géén optie
 ...En opeens is het zover.
@@ -50,7 +50,6 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 * [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
-* [Welke voorzorgsmaatregelen kan ik nemen?](#welke-voorzorgsmaatregelen-kan-ik-nemen)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
 * [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
