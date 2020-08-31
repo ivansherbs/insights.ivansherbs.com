@@ -56,8 +56,6 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
   [- Zwangerschap, borstvoeding en vruchtbaarheid](#zwangerschap,-borstvoeding-en-vruchtbaarheid)
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai-)
 * [Bereidingswijze](#bereidingswijze)
-  [- Smaakbeleving en geur](#smaakbeleving-en-geur]
-  [- Intensiteit](#intensiteit)
 
 [**Ivan's Insights**](#ivan’s-insights) <br>
 * [Over een burn-out](#over-een-burn-out)
