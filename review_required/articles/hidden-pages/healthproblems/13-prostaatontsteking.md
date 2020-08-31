@@ -248,7 +248,7 @@ Problemen die je - met een beetje geluk - kunt verzorgen. En geen pijn doen. Of 
 
 Gelukkig zijn er eenvoudige natuurlijke behandelingen beschikbaar. Die problemen kunnen verzorgen. En de kans op ziekten verminderen. 
 
-Zo kun je Ivan Chai drinken - preventief of ter behandeling - tegen prostaatklachten. 
+Zo kun je Ivan Chai preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
