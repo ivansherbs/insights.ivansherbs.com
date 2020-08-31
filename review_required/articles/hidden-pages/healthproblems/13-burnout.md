@@ -1,14 +1,16 @@
 ---
 layout: article.html
 title: Burn-out: Opgeven is géén optie
+publish:
+  Author: **IVAN'S INSIGHTS** | Burn-out
 ---
+
 # Voordeel Ivan Chai
 > Vermindert de kans op een burn-out
 
 Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai, effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert.
 
-Door **IVAN'S INSIGHTS** | Burn-out
-
+# Opgeven is géén optie
 ...En opeens is het zover.
 
 Je bent gedreven, ambitieus en enthousiast. Je krijgt veel verantwoordelijkheid. Er is werk in overvloed. En die dynamische werkomgeving - dat zit wel goed! 
@@ -35,32 +37,33 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 
 ## Inhoud van dit artikel
 
-**Burn-out**
-* Wat is een burn-out?
-* Komt dit probleem vaak voor?
-* Wat heeft een burn-out te maken met stress?
-* Is dit dan ook vergelijkbaar met een bore-out?
-* Eenvoudige natuurlijke behandeling
+[**Burn-out**](#burn-out) <br>
+* [Wat is een burn-out?](#wat-is-een-burn-out-)
+* [Komt dit probleem vaak voor?](#komt-dit-probleem-vaak-voor-)
+* [Wat heeft een burn-out te maken met stress?](#wat-heeft-een-burn-out-te-maken-met-stress-)
+* [Is dit dan ook vergelijkbaar met een bore-out?](#is-dit-dan-ook-vergelijkbaar-met-een-bore-out-)
+* [Eenvoudige natuurlijke behandeling](#eenvoudige-natuurlijke-behandeling)
 
-**Ivan Chai** <br>
-* De oorsprong van Ivan Chai
-* Bevindingen
-* Ivan Chai tegen 17 problemen
-* Welke dosering en behandelingskuur raden jullie aan?
-* Is het effect van Ivan Chai direct voelbaar?
-* Welke voorzorgsmaatregelen kan ik nemen?
-* Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
-* Contra-indicaties en waarschuwingen
-  - Zwangerschap, borstvoeding en vruchtbaarheid
-* Hoe bewaar je Ivan Chai?
-* Bereidingswijze
-  - Smaakbeleving en geur
-  - Intensiteit
+[**Ivan Chai**](#ivan-chai)<br>
+* [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
+* [Bevindingen](#bevindingen)
+* [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
+* [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan-)
+* [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar-)
+* [Welke voorzorgsmaatregelen kan ik nemen?](#welke-voorzorgsmaatregelen-kan-ik-nemen-)
+* [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai-)
+* [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
+  [- Zwangerschap, borstvoeding en vruchtbaarheid](#zwangerschap,-borstvoeding-en-vruchtbaarheid)
+* [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai-)
+* [Bereidingswijze](#bereidingswijze)
+  [- Smaakbeleving en geur](#smaakbeleving-en-geur]
+  [- Intensiteit](#intensiteit)
 
-**Ivan's Insights** <br>
-* Over een burn-out
+[**Ivan's Insights**](#ivan’s-insights) <br>
+* [Over een burn-out](#over-een-burn-out)
 
 # Burn-out
+> burn-out (de; m; meervoud: burn-outs) 1. toestand van geestelijke uitputting ten gevolge van langdurige stress
 
 ### Wat is een burn-out?
 Bij een burn-out wisselt een periode van veel inspanning zich in - voor een periode waarbij je volledig uitgeput bent. En waarbij je jezelf moeilijk kan focussen. Met als gevolg dat je jezelf mentaal, emotioneel en lichamelijk volledig machteloos voelt. Deze symptomen maken een burn-out een energiestoornis.
@@ -263,7 +266,3 @@ Verander je levensstijl. En sta open voor natuurlijke behandelingen, in de vorm 
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige burn-out, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
 > Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En ik garandeer je dat je beter in staat bent de kans op een burn-out te verminderen.
-
-
-
-
