@@ -249,8 +249,8 @@ Angst staat in de medische wereld bekend, als één van de minst handelbare emot
 
 Dit kan nare situaties opleveren. Vol hartkloppingen, een hoge bloeddruk en aangespannen spieren. Voor velen een onaangenaam gevoel. Niet voor herhaling vatbaar.  
 
-Er zijn verschillende manieren die al bijdragen aan het verminderen van angst. Ik beveel je bij deze Ivan Chai aan. Om de kalmerende werking op je centrale zenuwstelsel. Veel gebruikt in de traditionele volksgeneeskunde. En bewezen effectief door hedendaags onderzoek. 
+Er zijn verschillende manieren die al bijdragen aan het verminderen van angst. Wij bevelen je bij deze Ivan Chai aan. Om de kalmerende werking op je centrale zenuwstelsel. Veel gebruikt in de traditionele volksgeneeskunde. En bewezen effectief door hedendaags onderzoek. 
 
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van ernstige angst, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En ik garandeer je dat je beter in staat bent de kans op angst te verminderen.
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En wij garanderen je dat je beter in staat bent de kans op angst te verminderen.
