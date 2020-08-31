@@ -8,7 +8,7 @@ publish:
 # Voordeel Ivan Chai
 > Vermindert de kans op een burn-out
 
-Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai, effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert.
+_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai, effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert._
 
 # Opgeven is géén optie
 ...En opeens is het zover.
@@ -61,7 +61,7 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 * [Over een burn-out](#over-een-burn-out)
 
 # Burn-out
-> burn-out (de; m; meervoud: burn-outs) 1. toestand van geestelijke uitputting ten gevolge van langdurige stress
+> (de; m; meervoud: burn-outs) 1. toestand van geestelijke uitputting ten gevolge van langdurige stress
 
 ### Wat is een burn-out?
 Bij een burn-out wisselt een periode van veel inspanning zich in - voor een periode waarbij je volledig uitgeput bent. En waarbij je jezelf moeilijk kan focussen. Met als gevolg dat je jezelf mentaal, emotioneel en lichamelijk volledig machteloos voelt. Deze symptomen maken een burn-out een energiestoornis.
