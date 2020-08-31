@@ -1,12 +1,12 @@
 ---
 layout: article.html
-title: Prostaatontsteking | Voorkom het weggooien van tijd
+title: Prostaatontsteking | Bescherm de gezondheid van je prostaat
 publish:
   Author: IVAN'S INSIGHTS
 ---
 
 # Voordeel Ivan Chai
-> Verzorgt de gezondheid van de prostaat en urinewegen
+> Verzorgt de gezondheid van de prostaat
 
 _Ivan Chai is na duizenden recensies van mannen effectief bevonden. Deze Siberische kruidenthee verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier._
 
@@ -16,14 +16,15 @@ Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthe
 Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen.
 
 # Voorkom het weggooien van tijd
-Sommige dagelijkse bezigheid kosten naarmate je ouder wordt onnodig veel tijd.
+Sommige dagelijkse bezigheid kosten naarmate je ouder wordt onnodig veel tijd.  
 
 Niets mis mee, je bent er alleen voor je gevoel té veel mee bezig. Niet alleen fysiek. Oók mentaal zit het je dwars. Eén van die problemen is een prostaatontsteking. 
 
 Het komt veel voor bij oudere mannen. En gelukkig is het te behandelen. Op meerdere manieren.  
 
-Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. En toevallig een **alledaags product** namelijk:
-* Ivan Chai. Een Siberische kruidenthee.
+Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. Als alternatief. Of als aanvulling op farmaceutische medicijnen. 
+
+Het gaat om een alledaags product. Namelijk Ivan Chai. Een Siberische kruidenthee.
 
 Een natuurlijke behandeling die preventief of ter behandeling gebruikt kan worden - tegen een prostaatontsteking.
 
