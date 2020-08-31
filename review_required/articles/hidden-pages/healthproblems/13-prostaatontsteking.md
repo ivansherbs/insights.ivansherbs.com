@@ -93,7 +93,8 @@ Namelijk Ivan Chai. Een Siberische kruidenthee.
 
 Hiermee verzorg je de gezondheid van de prostaat. En verminder je de kans op een prostaatontsteking. 
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
+Deze natuurlijke behandeling kan - in overleg - ook als aanvullig op farmaceutische medicijnen worden gebruikt tegen prostaatklachten.
+
 **Bewezen effectiviteit** <br>
 > Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
 Wanneer je een prostaatontsteking goed verzorgt, hoef je minder snel kennis te maken met de farmaceutische medicijnen die deze problemen bestrijden.
