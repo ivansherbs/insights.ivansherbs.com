@@ -57,7 +57,7 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai-)
 * [Bereidingswijze](#bereidingswijze)
 
-[**Ivan's Insights**](#ivan’s-insights) <br>
+[**Ivan's Insights**](#ivan-s-insights) <br>
 * [Over een burn-out](#over-een-burn-out)
 
 # Burn-out
@@ -263,4 +263,4 @@ Verander je levensstijl. En sta open voor natuurlijke behandelingen, in de vorm 
 
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige burn-out, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En ik garandeer je dat je beter in staat bent de kans op een burn-out te verminderen.
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En wij garanderen je dat je beter in staat bent de kans op een burn-out te verminderen.
