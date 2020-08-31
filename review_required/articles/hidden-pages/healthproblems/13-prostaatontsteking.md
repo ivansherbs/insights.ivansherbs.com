@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Prostaatontsteking | Voorkom het weggooien van tijd met kruidenthee
+title: Prostaatontsteking | Voorkom het weggooien van tijd
 publish:
   Author: IVAN'S INSIGHTS
 ---
@@ -13,25 +13,19 @@ _Ivan Chai is na duizenden recensies van mannen effectief bevonden, voor het ver
 Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek, gericht op de geneeskrachtige werking in kruiden.
 
 Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
-Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen. 
+Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen.
 
-# Voorkom het weggooien van tijd met kruidenthee
-Je kent het wel… 
+# Voorkom het weggooien van tijd
+Sommige dagelijkse bezigheid kosten naarmate je ouder wordt onnodig veel tijd.
 
-je moet even snel plassen. Echter kost deze dagelijkse bezigheid - de afgelopen periode - onnodig veel tijd...
-
-Je merkt dat je een dagje ouder wordt. 
-
-Niets mis mee, je bent er alleen voor je gevoel te veel mee bezig. Niet alleen fysiek. Oók mentaal ben je er constant mee bezig. 
-
-Je hebt namelijk last van prostaatklachten. 
+Niets mis mee, je bent er alleen voor je gevoel té veel mee bezig. Niet alleen fysiek. Oók mentaal zit het je dwars. Eén van die problemen is een prostaatontsteking. 
 
 Het komt veel voor bij oudere mannen. En gelukkig is het te behandelen. Op meerdere manieren.  
 
-Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. En toevallig een **alledaags product** namelijk: 
-* Ivan Chai. Een Siberische kruidenthee. 
+Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. En toevallig een **alledaags product** namelijk:
+* Ivan Chai. Een Siberische kruidenthee.
 
-Een natuurlijke behandeling die preventief of ter behandeling gebruikt kan worden - tegen een prostaatontsteking. 
+Een natuurlijke behandeling die preventief of ter behandeling gebruikt kan worden - tegen een prostaatontsteking.
 
 Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
@@ -62,23 +56,23 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 # Prostaatontsteking
 
-### Hoeveel mannen hebben last van de prostaat? 
+### Hoeveel mannen hebben last van de prostaat?
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking.
-### Wat is een prostaatontsteking? 
-Een ontsteking van de klier direct onder de blaas. Deze klier wordt bij een ontsteking aangevallen door ongewenste bacteriën. 
-### Aan welke symptomen moet ik denken bij een prostaatontsteking? 
+### Wat is een prostaatontsteking?
+Een ontsteking van de klier direct onder de blaas. Deze klier wordt bij een ontsteking aangevallen door ongewenste bacteriën.
+### Aan welke symptomen moet ik denken bij een prostaatontsteking?
 Er zijn verschillende symptomen die kunnen wijzen op een prostaatontsteking. Die niet altijd direct wijzen op een prostaatontsteking; denk hierbij aan:
-* koorts 
-* of koude rillingen. 
+* koorts
+* of koude rillingen.
 
 Bij heftige symptomen moet men denken aan:
 * pijn in de onderbuik,
 * laag in de rug
-* het gedeelte tussen de penis en anus 
+* het gedeelte tussen de penis en anus
 * gedurende het plassen:
   - pijn
   - of een brandend gevoel.
-### En bij chronische klachten? 
+### En bij chronische klachten?
 Bij chronische klachten moet men denken aan zeurende pijn in de onderbuik, aanhoudende lage rugpijn en pijn gedurende het plassen. Ook moeheid, lusteloosheid en zelfs uitputting, kunnen we rekenen tot de klachten.
 
 ### Welk effect heeft het gebruik van farmaceutische medicijnen op een prostaatontsteking?
@@ -87,11 +81,11 @@ Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medici
 Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
 ### Eenvoudige natuurlijke behandeling
-Voor het voorkomen van prostaatklachten is er eenvoudige natuurlijke behandeling beschikbaar. 
+Voor het voorkomen van prostaatklachten is er eenvoudige natuurlijke behandeling beschikbaar.
 
-Namelijk Ivan Chai. Een Siberische kruidenthee. 
+Namelijk Ivan Chai. Een Siberische kruidenthee.
 
-Hiermee verzorg je de gezondheid van de prostaat. En verminder je de kans op een prostaatontsteking. 
+Hiermee verzorg je de gezondheid van de prostaat. En verminder je de kans op een prostaatontsteking.
 
 **Bewezen effectiviteit** <br>
 > Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
@@ -99,7 +93,7 @@ Wanneer je een prostaatontsteking goed verzorgt, hoef je minder snel kennis te m
 
 Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem.
 
-Deze natuurlijke behandeling kan - in overleg - ook als aanvullig op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is ook het versterken van je weerstand. 
+Deze natuurlijke behandeling kan - in overleg - ook als aanvullig op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is ook het versterken van je weerstand.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verzorgen van een prostaatontsteking.
 
@@ -242,11 +236,11 @@ _...En hoe zit het met de **geur**?_ <br>
 # Inzichten
 ### Over een prostaatontsteking
 
-We worden allemaal een dagje ouder. En daar komen problemen van. Fysiek dan wel mentaal. 
+We worden allemaal een dagje ouder. En daar komen problemen van. Fysiek dan wel mentaal.
 
-Problemen die je - met een beetje geluk - kunt verzorgen. En geen pijn doen. Of waar je mee kunt leren leven. 
+Problemen die je met een beetje geluk kunt verzorgen. En geen pijn doen. Of waar je mee kunt leren leven.
 
-Gelukkig zijn er eenvoudige natuurlijke behandelingen beschikbaar. Die problemen kunnen verzorgen. En de kans op ziekten verminderen. 
+Gelukkig zijn er eenvoudige natuurlijke behandelingen beschikbaar. Die problemen kunnen verzorgen. En de kans op ziekten verminderen.
 
 Zo kun je Ivan Chai preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
