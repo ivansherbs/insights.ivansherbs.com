@@ -2,7 +2,7 @@
 layout: article.html
 title: Burn-out: Opgeven is géén optie
 publish:
-  Author: **IVAN'S INSIGHTS** | Burn-out
+  Author: IVAN'S INSIGHTS
 ---
 
 # Voordeel Ivan Chai
