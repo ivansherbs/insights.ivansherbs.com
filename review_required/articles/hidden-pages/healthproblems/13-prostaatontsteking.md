@@ -8,7 +8,7 @@ publish:
 # Voordeel Ivan Chai
 > Verzorgt de gezondheid van de prostaat en urinewegen
 
-_Ivan Chai is na duizenden recensies van mannen effectief bevonden, voor het verhelpen van de zwelling - en ontsteking - van de prostaatklier._
+_Ivan Chai is na duizenden recensies van mannen effectief bevonden. Deze Siberische kruidenthee verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier._
 
 Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek, gericht op de geneeskrachtige werking in kruiden.
 
@@ -117,7 +117,7 @@ De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzo
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
 De bevindingen zijn als volgt: <br>
-> Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel. Wat helpt een prostaatontsteking te verminderen.
+> Ivan Chai verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier._
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
