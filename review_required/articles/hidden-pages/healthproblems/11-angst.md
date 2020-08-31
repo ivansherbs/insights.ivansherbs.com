@@ -1,44 +1,17 @@
 ---
 layout: article.html
-title: Angst: Zie jij het wél aankomen? 
+title: Angst | Zie jij het wél aankomen? 
+publish:
+  Author: IVAN'S INSIGHTS
 ---
 
-Door **IVAN'S INSIGHTS** | Angst
-
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
- 
 # Voordeel Ivan Chai
 > Vermindert de kans op angst
 
-Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat het effect heeft op je centrale zenuwstelsel. Hierdoor wordt je angstgevoel vermindert en onderdrukt. 
 
-## Inhoud van dit artikel
+_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai, effect heeft op je centrale zenuwstelsel. Hierdoor wordt het angstgevoel vermindert._
 
-**Angst**
-* Hoe ontstaat een gevoel van angst?
-* Is angst in Nederland een zorgwekkend probleem? 
-* Zijn er omstandigheden die het gevoel activeren?
-* Eenvoudige natuurlijke behandeling
-
-**Ivan Chai** <br>
-* De oorsprong van Ivan Chai
-* Bevindingen
-* Ivan Chai tegen 17 problemen
-* Welke dosering en behandelingskuur raden jullie aan?
-* Is het effect van Ivan Chai direct voelbaar?
-* Welke voorzorgsmaatregelen kan ik nemen?
-* Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
-* Contra-indicaties en waarschuwingen
-  - Zwangerschap, borstvoeding en vruchtbaarheid
-* Hoe bewaar je Ivan Chai?
-* Bereidingswijze
-  - Smaakbeleving en geur
-  - Intensiteit
-
-**Ivan's Insights** <br>
-* Over angst
-
-# Angst
+# Zie jij het wél aankomen? 
 Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Wat jij op dat moment als een bedreiging - of gevaar - hebt beschouwt. 
 
 Je lichaam begeeft zich in opperste staat van paraatheid. Je hart klopt sneller. Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je - op dat moment - in een beklemmende, onaangename emotionele toestand.  
@@ -54,7 +27,38 @@ Of sociale angst. De angst om eigenlijk echt te zeggen wat je ergens van vind. O
 Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. En andere kleine beestjes met meer dan vier poten. 
 
 Wellicht een fijne gedachten. Op angst kun je je niet voorbereiden. 
-Laten we deze emotie beter leren begrijpen. En beginnen bij de allereerste vraag. 
+Laten we deze emotie beter leren begrijpen. 
+
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
+ 
+## Inhoud van dit artikel
+
+[**Angst**](#angst)<br>
+* [Hoe ontstaat een gevoel van angst?](#Hoe-ontstaat-een-gevoel-van-angst)
+* [Is angst in Nederland een zorgwekkend probleem?](#Is-angst-in-Nederland-een-zorgwekkend-probleem)
+* [Zijn er omstandigheden die het gevoel activeren?](#Zijn-er-omstandigheden-die-het-gevoel-activeren)
+* [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
+
+[**Ivan Chai**](#ivan-chai)<br>
+* [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
+* [Bevindingen](#bevindingen)
+* [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
+* [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
+* [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
+* [Welke voorzorgsmaatregelen kan ik nemen?](#welke-voorzorgsmaatregelen-kan-ik-nemen)
+* [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
+* [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
+* [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
+* [Bereidingswijze](#bereidingswijze)
+
+[**Inzichten**](#inzichten)<br>
+* [Over angst](#over-angst)
+
+**Ivan's Insights** <br>
+* Over angst
+
+# Angst
+(de; m; meervoud: angsten) 1. gevoel van beklemming, vrees, onveiligheid of onzekerheid: iets met angst en beven tegemoetzien er erg tegen opzien, het vrezen; hij stond duizend angsten uit; in angst zitten
 
 ### Hoe ontstaat een gevoel van angst?
 Angst kan een gevolg zijn van meerdere factoren. Hieronder enkele voorbeelden:
@@ -241,7 +245,7 @@ _...En hoe zit het met de **geur**?_ <br>
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Ivan's Insights
+# Inzichten
 ### Over angst
 
 Angst staat in de medische wereld bekend, als één van de minst handelbare emoties. Je kan er plotseling last van krijgen. Zonder enige vorm van waarschuwing. Je ziet het gewoon niet aankomen. 
