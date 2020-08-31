@@ -53,7 +53,6 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 * [Welke voorzorgsmaatregelen kan ik nemen?](#welke-voorzorgsmaatregelen-kan-ik-nemen)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
 * [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
-  [- Zwangerschap, borstvoeding en vruchtbaarheid](#zwangerschap,-borstvoeding-en-vruchtbaarheid)
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
 * [Bereidingswijze](#bereidingswijze)
 
