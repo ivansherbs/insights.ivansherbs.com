@@ -35,8 +35,6 @@ Een natuurlijke behandeling die preventief of ter behandeling gebruikt kan worde
 
 Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
-Graag informeren we je over deze eenvoudige natuurlijke behandeling. Om de gezondheid van je prostaat te verzorgen. 
-
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een prostaatontsteking. En een eenvoudige natuurlijke behandeling.
 
 ## Inhoud van dit artikel
