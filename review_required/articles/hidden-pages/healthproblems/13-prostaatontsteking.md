@@ -28,7 +28,7 @@ Je hebt namelijk last van prostaatklachten.
 
 Het komt veel voor bij oudere mannen. En gelukkig is het te behandelen. Op meerdere manieren.  
 
-Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. En toevallig ook een **alledaags product** namelijk: 
+Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. En toevallig een **alledaags product** namelijk: 
 * Ivan Chai. Een Siberische kruidenthee. 
 
 Een natuurlijke behandeling die preventief of ter behandeling gebruikt kan worden - tegen een prostaatontsteking. 
