@@ -99,7 +99,7 @@ Wanneer je een prostaatontsteking goed verzorgt, hoef je minder snel kennis te m
 
 Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem.
 
-Deze natuurlijke behandeling kan - in overleg - ook als aanvullig op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is het versterken van de weerstand. 
+Deze natuurlijke behandeling kan - in overleg - ook als aanvullig op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is ook het versterken van de weerstand. 
 
 Lees verder hoe Ivan Chai je kan helpen bij het verzorgen van een prostaatontsteking.
 
