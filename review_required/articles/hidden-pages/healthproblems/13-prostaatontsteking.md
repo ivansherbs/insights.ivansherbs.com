@@ -15,7 +15,7 @@ Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft
 Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
 Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen.
 
-# Voorkom het weggooien van tijd
+# Bescherm de gezondheid van je prostaat
 Sommige dagelijkse bezigheid kosten naarmate je ouder wordt onnodig veel tijd.  
 
 Niets mis mee, je bent er alleen voor je gevoel té veel mee bezig. Niet alleen fysiek. Oók mentaal zit het je dwars. Eén van die problemen is een prostaatontsteking. 
