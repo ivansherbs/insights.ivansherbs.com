@@ -38,23 +38,23 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 ## Inhoud van dit artikel
 
 [**Burn-out**](#burn-out) <br>
-* [Wat is een burn-out?](#wat-is-een-burn-out-)
-* [Komt dit probleem vaak voor?](#komt-dit-probleem-vaak-voor-)
-* [Wat heeft een burn-out te maken met stress?](#wat-heeft-een-burn-out-te-maken-met-stress-)
-* [Is dit dan ook vergelijkbaar met een bore-out?](#is-dit-dan-ook-vergelijkbaar-met-een-bore-out-)
+* [Wat is een burn-out?](#wat-is-een-burn-out)
+* [Komt dit probleem vaak voor?](#komt-dit-probleem-vaak-voor)
+* [Wat heeft een burn-out te maken met stress?](#wat-heeft-een-burn-out-te-maken-met-stress)
+* [Is dit dan ook vergelijkbaar met een bore-out?](#is-dit-dan-ook-vergelijkbaar-met-een-bore-out)
 * [Eenvoudige natuurlijke behandeling](#eenvoudige-natuurlijke-behandeling)
 
 [**Ivan Chai**](#ivan-chai)<br>
 * [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
 * [Bevindingen](#bevindingen)
 * [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
-* [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan-)
-* [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar-)
-* [Welke voorzorgsmaatregelen kan ik nemen?](#welke-voorzorgsmaatregelen-kan-ik-nemen-)
-* [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai-)
+* [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
+* [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
+* [Welke voorzorgsmaatregelen kan ik nemen?](#welke-voorzorgsmaatregelen-kan-ik-nemen)
+* [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
 * [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
   [- Zwangerschap, borstvoeding en vruchtbaarheid](#zwangerschap,-borstvoeding-en-vruchtbaarheid)
-* [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai-)
+* [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
 * [Bereidingswijze](#bereidingswijze)
 
 [**Inzichten**](#inzichten)<br>
