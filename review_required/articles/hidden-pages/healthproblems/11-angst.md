@@ -25,7 +25,7 @@ Of sociale angst. De angst om eigenlijk écht te zeggen wat je ergens van vind. 
 
 Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. En andere kleine beestjes met meer dan vier poten.
 
-Wellicht een fijne gedachten. Op angst kun je je niet voorbereiden. Zoals in een ziekenhuis. Waarbij de emoties hoog opspelen door het eventueel kunnen lijden van van pijn. Oók bij lichtere operaties. 
+Wellicht een fijne gedachten. Op angst kun je je niet voorbereiden. Zoals in een ziekenhuis. Waarbij de emoties hoog opspelen door het eventueel kunnen lijden van pijn. Oók bij lichtere operaties. 
 
 Laten we deze emotie beter leren begrijpen. 
 
