@@ -57,7 +57,7 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai-)
 * [Bereidingswijze](#bereidingswijze)
 
-[**Ivan's Insights**](#ivan-s-insights) <br>
+[**Ivan's Insights**](#ivan's-insights)<br>
 * [Over een burn-out](#over-een-burn-out)
 
 # Burn-out
