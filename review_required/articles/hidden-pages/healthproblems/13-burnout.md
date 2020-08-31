@@ -1,24 +1,45 @@
 ---
 layout: article.html
-title: Burn-out: Terugschakelen voor eigen bestwil
+title: Burn-out: Opgeven is géén optie
 ---
-
-Door **IVAN'S INSIGHTS** | Burn-out
-
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een burn-out. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
- 
 # Voordeel Ivan Chai
 > Vermindert de kans op een burn-out
 
-Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat het effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert.
+Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai, effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert.
+
+Door **IVAN'S INSIGHTS** | Burn-out
+
+...En opeens is het zover.
+
+Je bent gedreven, ambitieus en enthousiast. Je krijgt veel verantwoordelijkheid. Er is werk in overvloed. En die dynamische werkomgeving - dat zit wel goed! 
+
+De tijd gaat snel. En je hebt het gevoel dat je carrière aan het maken bent. Zonder erover na te denken maak je overuren.
+
+Wanneer je opgaat in het werkende leven, is het nemen van rust géén optie.
+
+_...want waarom zou je?_
+
+Vergeet niet dat je hier naast óók nog buiten werk om sport, avonden uit gaat. En op de behoefte van het thuisfront moet inspelen.
+
+Je wordt geleefd. En staat - van dag tot dag - veel te lang in de 5de versnelling.
+
+Gek genoeg, overkomt dit toch meer dan 1.000.000 mensen per dag in Nederland.
+
+Met een burn-out als gevolg.
+
+Laten we dit probleem - wat op de werkvloer ontstaat - eens even beter leren begrijpen.
+ 
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een burn-out. En een eenvoudige natuurlijke behandeling. 
+
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
 
 ## Inhoud van dit artikel
 
 **Burn-out**
-* Wat is een burn-out? 
+* Wat is een burn-out?
 * Komt dit probleem vaak voor?
 * Wat heeft een burn-out te maken met stress?
-* Is dit dan ook vergelijkbaar met een bore-out? 
+* Is dit dan ook vergelijkbaar met een bore-out?
 * Eenvoudige natuurlijke behandeling
 
 **Ivan Chai** <br>
@@ -40,50 +61,31 @@ Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende we
 * Over een burn-out
 
 # Burn-out
-...En opeens is het zover. 
 
-Je bent gedreven, ambitieus en enthousiast. Je krijgt veel verantwoordelijkheid op werk - er zijn immers taken genoeg. En die dynamische werkomgeving, dat zit wel goed. De tijd gaat snel. En je hebt het gevoel dat je carriere aan het maken bent. Zonder erover na te denken - maak je overuren. Neem je taken over van je zieke collega. Regel je de bedrijfsborrel. En zit je in de personeelsvertegenwoordiging. 
-
-Wanneer je opgaat in het werkende leven, is rust nemen in sommige gevallen geen optie. 
-
-_...want waarom zou je?_ 
-
-Vergeet niet dat je hiernaast ook nog - buiten werk om - sport - avonden uit gaat. En op de behoefte van de familie moet inspelen. 
-
-Je wordt geleefd. En staat veel te lang in de 5de versnelling. 
-
-Gek genoeg, overkomt dit toch meer dan 1.000.000 mensen per dag in Nederland. 
-
-Met een burn-out als gevolg. 
-
-Je ben er helemaal klaar mee. En zit vanaf nu vele male liever thuis op de bank. 
-
-Laten we dit probleem - wat op de werkvloer ontstaat - eens even beter leren begrijpen. En beginnen bij de allereerste vraag.
-
-### Wat is een burn-out? 
+### Wat is een burn-out?
 Bij een burn-out wisselt een periode van veel inspanning zich in - voor een periode waarbij je volledig uitgeput bent. En waarbij je jezelf moeilijk kan focussen. Met als gevolg dat je jezelf mentaal, emotioneel en lichamelijk volledig machteloos voelt. Deze symptomen maken een burn-out een energiestoornis.
 
 > Zowel man, vrouw, jong en oud hebben last van een burnout
 
 ### Komt dit probleem veel voor?
-Ja. Volgens de grote Zorgverzekeraars van Nederland, is dit een ernstig probleem. Ongeveer 17% tot 23% van de werkende mensen heeft last van burn-out klachten. 
+Ja. Volgens de grote Zorgverzekeraars van Nederland, is dit een ernstig probleem. Ongeveer 17% tot 23% van de werkende mensen heeft last van burn-out klachten.
 
-> Dagelijks hebben 1.300.000 mensen hiermee te maken. 
+> Dagelijks hebben 1.300.000 mensen hiermee te maken.
 
-Om de statistieken even aan te vullen. 
+Om de statistieken even aan te vullen.
 
-Burn-out klachten kosten de Nederlandse economie gemiddeld € 2.800.000.000, zeggende: twee miljard en acht honderd miljoen euro, per jaar aan verzuimkosten, als gevolg van stress. 
+Burn-out klachten kosten de Nederlandse economie gemiddeld € 2.800.000.000, zeggende: twee miljard en acht honderd miljoen euro, per jaar aan verzuimkosten, als gevolg van stress.
 
 ### Wat heeft een burn-out te maken met stress?
 
-Alles. Een burn-out is het gevolg van een overmatige hoeveelheid aan stress. Meestal veroorzaakt door werk. Wanneer je voor lange periode, te hard werkt - kan het zijn dat je door een overmatige hoeveelheid aan stress, je hersencapaciteit overbelast. 
+Alles. Een burn-out is het gevolg van een overmatige hoeveelheid aan stress. Meestal veroorzaakt door werk. Wanneer je voor lange periode, te hard werkt - kan het zijn dat je door een overmatige hoeveelheid aan stress, je hersencapaciteit overbelast.
 
-Laten we een eenvoudige vergelijking maken. 
+Laten we een eenvoudige vergelijking maken.
 
-Je kunt het vergelijken met het rijden in een auto. Deze auto heeft een paar maanden achter elkaar - zonder pauze - 180 kilometer per uur op de teller staan. Ondanks dat de auto snel gaat, wordt de motor overbelast. Terugschakelen is gewenst om schade te doen voorkomen. 
+Je kunt het vergelijken met het rijden in een auto. Deze auto heeft een paar maanden achter elkaar - zonder pauze - 180 kilometer per uur op de teller staan. Ondanks dat de auto snel gaat, wordt de motor overbelast. Terugschakelen is gewenst om schade te doen voorkomen.
 
-### Is dit dan ook vergelijkbaar met een bore-out? 
-Ja. De gevolgen zijn vergelijkbaar. Echter verschilt de oorzaak. 
+### Is dit dan ook vergelijkbaar met een bore-out?
+Ja. De gevolgen zijn vergelijkbaar. Echter verschilt de oorzaak.
 
 Bij een **burn-out** heb je op werk:
 * verantwoordelijkheden
@@ -91,28 +93,29 @@ Bij een **burn-out** heb je op werk:
 * veel uitdaging
 * een dynamische - veeleisende - werkomgeving.
 
-Bij een **bore-out** heb je op werk: 
+Bij een **bore-out** heb je op werk:
 * geen verantwoordelijkheid
 * weinig te doen
-* weinig uitdaging 
+* weinig uitdaging
 * en te veel routine.
 
-Beide, met hetzelfde energieniveau tot gevolg. 
+Beide, met hetzelfde energieniveau tot gevolg.
 
 ### Eenvoudige natuurlijke behandeling
-Een burn-out is een probleem, wat ontstaat op de werkvloer. Als gevolg van een overmatige hoeveelheid aan stress. Wanneer je dit probleem wilt voorkomen, zul je moeten beginnen met het herkennen, en controleren van stress. 
+Een burn-out is een probleem, wat ontstaat op de werkvloer. Als gevolg van een overmatige hoeveelheid aan stress. Wanneer je dit probleem wilt voorkomen, zul je moeten beginnen met het herkennen, en controleren van stress.
 
 Wanneer je het gevoel herkent. Zal je een levensstijl moeten vinden, waarbij je je energieniveau gelijkmatig uitgespreid over je werk-privéleven. Waarbij het nemen van rust - om je hoofd leeg te maken - óók een plek op de agenda verkrijgt.  
 
-Wanneer je stress goed aanpakt, hoef je minder snel kennis te maken met de gevolgen - het krijgen van een burn-out. 
-Wat je hierbij kan helpen - wanneer je een lichtere vorm van stress herkent - is het gebruik van eenvoudige natuurlijke behandelingen. Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
+Wanneer je stress goed aanpakt, hoef je minder snel kennis te maken met de gevolgen - het krijgen van een burn-out.
 
-Hiermee verminder je de kans op ongezonde werkstress. Om de kalmerende werking op je centrale zenuwstelsel. Overigens veel gebruikt in de traditionele volksgeneeskunde. Bewezen effectief door hedendaags onderzoek.
+Wat je hierbij kan helpen - wanneer je een lichtere vorm van stress herkent - is het gebruik van eenvoudige natuurlijke behandelingen. Denk hierbij aan Ivan Chai. Een Siberische kruidenthee.
 
-Wanneer je stress - en hiermee een burn-out - goed aanpakt, hoef je minder snel kennis te maken met de farmaceutische medicijnen die deze problemen bestrijden.
+Hiermee verminder je de kans op ongezonde werkstress. Omdat het een kalmerende werking heeft op je centrale zenuwstelsel. Overigens veel gebruikt in de traditionele volksgeneeskunde. Bewezen effectief door hedendaags onderzoek.
+
+Wanneer je stress - en hiermee een burn-out - goed aanpakt, en controleert, hoef je minder snel kennis te maken met de farmaceutische medicijnen die deze problemen bestrijden. 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
-Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out. 
+Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out.
 
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
@@ -144,7 +147,7 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 > 2 - Krachtige ontstekingsremmer <br>
 > 3 - Versterkt de antioxiderede werking <br>
 > 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op een burn-out, een burn-out en een burn-out <br>
+> 5 - Vermindert de kans op stress, angst en een burn-out <br>
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
@@ -175,7 +178,7 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 11. Angst
 
-12. burn-out
+12. Burn-out
 
 13. Prostaatontsteking
 
@@ -189,21 +192,14 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
-* Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
+* Drink 1 kop vóór de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
 
 ### Is het effect van Ivan Chai direct voelbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar.
 
 _...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?_
 
-Ik raad het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
-
-### Welke voorzorgsmaatregelen kan ik nemen?  
-Veel combinaties - van natuurlijke behandelingen met farmaceutische medicijnen - zijn tot op heden niet geprobeerd of getest.
-
-Voorafgaand aan een behandeling met Ivan Chai - in combinatie met farmaceutische medicijnen - raad ik het aan een deskundige te raadplegen.
-
-Hiernaast raden wij het aan eigen onderzoek te doen om bijwerkingen te voorkomen.
+Wij raden het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
  
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
@@ -260,12 +256,14 @@ _...En hoe zit het met de **geur**?_ <br>
 # Ivan's Insights
 ### Over een burn-out
 
-Ik kan het niet vaak genoeg zeggen. Een burn-out is een gevolg van ongezonde stress. Leer stress tijdig te herkennen. Geef aan jezelf toe dat je ermee rondloopt. En voorkom hiermee - op langere termijn - een burn-out. 
+Wij kunnen het niet vaak genoeg herhalen. Een burn-out is een gevolg van ongezonde stress. Leer stress tijdig te herkennen. Geef aan jezelf toe dat je ermee rondloopt. En voorkom hiermee op langere termijn een burn-out.
 
-Verander je levensstijl. En sta open voor natuurlijke behandelingen - in de vorm van een alledaagse producten - zoals Ivan Chai. Natuurlijke behandelingen kunnen de kans op een lichtere vorm van stress - waardoor ongezonde werkstress kan ontstaan - verminderen
+Verander je levensstijl. En sta open voor natuurlijke behandelingen, in de vorm van een alledaagse producten - zoals Ivan Chai. Natuurlijke behandelingen kunnen de kans op een lichtere vorm van stress - waaruit een burnout kan ontstaan - verminderen.
 
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige burn-out, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
 > Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En ik garandeer je dat je beter in staat bent de kans op een burn-out te verminderen.
+
+
 
 
