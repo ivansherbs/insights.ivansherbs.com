@@ -7,7 +7,9 @@ publish:
 
 # Voordeel Ivan Chai
 > Verzorgt de gezondheid van de prostaat en urinewegen
-Ivan Chai is na duizenden recensies van mannen effectief bevonden, voor het verhelpen van de zwelling - en ontsteking - van de prostaatklier.
+
+_Ivan Chai is na duizenden recensies van mannen effectief bevonden, voor het verhelpen van de zwelling - en ontsteking - van de prostaatklier._
+
 Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek, gericht op de geneeskrachtige werking in kruiden.
 
 Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
