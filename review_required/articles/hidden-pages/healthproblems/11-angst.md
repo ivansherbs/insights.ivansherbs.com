@@ -8,25 +8,25 @@ publish:
 # Voordeel Ivan Chai
 > Vermindert de kans op angst
 
-
-_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai, effect heeft op je centrale zenuwstelsel. Hierdoor wordt het angstgevoel vermindert._
+_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai effect heeft, op je centrale zenuwstelsel. Hierdoor wordt het angstgevoel vermindert._
 
 # Zie jij het wél aankomen? 
 Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Wat jij op dat moment als een bedreiging - of gevaar - hebt beschouwt. 
 
 Je lichaam begeeft zich in opperste staat van paraatheid. Je hart klopt sneller. Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je - op dat moment - in een beklemmende, onaangename emotionele toestand.  
 
-Angst komt vaker voor dan je denkt. Je kunt bij het minste en geringste al angst ervaren. Of je kan er - voor langer tijd - in blijven steken.
+Angst komt vaker voor dan je denkt. Je kunt bij het minste en geringste al angst ervaren. Of je kan er voor langer tijd in blijven steken.
 
 Zo heb je last van een gevoel van intense angst - waarbij je wilt vluchten. Maar ook lichtere vormen van angst - waarbij je een korte periode last hebt van een opgelaten gevoel. 
 
 Een vorm hiervan is faalangst. Denk aan die ene keer in een overvolle collegezaal - waarbij de docent een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. 
 
-Of sociale angst. De angst om eigenlijk echt te zeggen wat je ergens van vind. Op de werkvloer. Of tijdens een presentatie met de gehele afdeling. 
+Of sociale angst. De angst om eigenlijk écht te zeggen wat je ergens van vind. Op de werkvloer. In een vergadering. Of tijdens een presentatie met de gehele afdeling. 
 
-Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. En andere kleine beestjes met meer dan vier poten. 
+Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. En andere kleine beestjes met meer dan vier poten.
 
-Wellicht een fijne gedachten. Op angst kun je je niet voorbereiden. 
+Wellicht een fijne gedachten. Op angst kun je je niet voorbereiden. Zoals in een ziekenhuis. Waarbij de emoties hoog opspelen door het eventueel kunnen lijden van van pijn. Oók bij lichtere operaties. 
+
 Laten we deze emotie beter leren begrijpen. 
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
@@ -53,9 +53,6 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 [**Inzichten**](#inzichten)<br>
 * [Over angst](#over-angst)
-
-**Ivan's Insights** <br>
-* Over angst
 
 # Angst
 (de; m; meervoud: angsten) 1. gevoel van beklemming, vrees, onveiligheid of onzekerheid: iets met angst en beven tegemoetzien er erg tegen opzien, het vrezen; hij stond duizend angsten uit; in angst zitten
