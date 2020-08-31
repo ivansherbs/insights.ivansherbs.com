@@ -57,7 +57,7 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai-)
 * [Bereidingswijze](#bereidingswijze)
 
-[**Ivan's Insights**](#ivan's-insights)<br>
+[**Inzichten**](#inzichten)<br>
 * [Over een burn-out](#over-een-burn-out)
 
 # Burn-out
@@ -254,7 +254,7 @@ _...En hoe zit het met de **geur**?_ <br>
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Ivan's Insights
+# Inzichten
 ### Over een burn-out
 
 Wij kunnen het niet vaak genoeg herhalen. Een burn-out is een gevolg van ongezonde stress. Leer stress tijdig te herkennen. Geef aan jezelf toe dat je ermee rondloopt. En voorkom hiermee op langere termijn een burn-out.
