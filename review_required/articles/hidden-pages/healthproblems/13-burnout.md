@@ -17,7 +17,7 @@ Je bent gedreven, ambitieus en enthousiast. Je krijgt veel verantwoordelijkheid.
 
 De tijd gaat snel. En je hebt het gevoel dat je carrière aan het maken bent. Zonder erover na te denken maak je overuren.
 
-Wanneer je opgaat in het werkende leven, is het nemen van rust géén optie.
+Echter, wanneer je opgaat in het werkende leven, is het nemen van rust géén optie.
 
 _...want waarom zou je?_
 
