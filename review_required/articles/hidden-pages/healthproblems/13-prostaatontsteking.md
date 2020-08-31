@@ -61,9 +61,9 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Over een prostaatontsteking](#over-een-prostaatontsteking)
 
 # Prostaatontsteking
-pros·taat (de; m; meervoud: prostaten) **1. klier die bij mannen de urinebuis ringvormig omgeeft**
+> pros·taat (de; m; meervoud: prostaten) 1. klier die bij mannen de urinebuis ringvormig omgeeft
 
-ont·ste·king (de; v; meervoud: ontstekingen) 1. het laten ontbranden **2. plaatselijke aandoening van weefsel, lichaamsdelen die gepaard gaat met roodheid, zwelling en pijn** 3. onderdeel waarmee iets tot ontbranding of ontploffing wordt gebracht
+> ont·ste·king (de; v; meervoud: ontstekingen) 1. het laten ontbranden 2. plaatselijke aandoening van weefsel, lichaamsdelen die gepaard gaat met roodheid, zwelling en pijn 3. onderdeel waarmee iets tot ontbranding of ontploffing wordt gebracht
 
 ### Hoeveel mannen hebben last van de prostaat? 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking.
