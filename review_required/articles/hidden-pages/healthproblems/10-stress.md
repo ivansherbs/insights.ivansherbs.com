@@ -15,7 +15,7 @@ We kennen allemaal het gevoel dat je het maximale uit je dag wilt halen. Je hebt
 
 Je staat uitgerust op. Bent fysiek fit. Hebt je dagplanning netjes op orde. Overziet alle deadlines. Werkt hard. Je krijgt veel gedaan. En je carrière gaat erop vooruit. 
 
-En wat betreft die werkdruk - waar iedereen last van heeft. Die heb je voor nu onder controlle. Hard werken is leuk, het geeft een fijn gevoel. 
+En wat betreft die werkdruk - waar iedereen last van heeft. Die heb je voor je gevoel onder controlle. Hard werken is leuk, het geeft een fijn gevoel. 
 
 Dag in dag uit krijg je meer gedaan. En voor je het weet, neem je je werk mee naar huis. 
 
