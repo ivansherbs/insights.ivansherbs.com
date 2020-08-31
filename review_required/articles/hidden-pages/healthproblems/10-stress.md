@@ -1,56 +1,67 @@
 ---
 layout: article.html
-title: Stress: Ben jij er al achter hoe het écht voelt?
+title: Stress | Ben jij er al achter hoe het écht voelt?
+publish:
+  Author: IVAN'S INSIGHTS
 ---
 
-Door **IVAN'S INSIGHTS** | Stress
-
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over stress. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
- 
 # Voordeel Ivan Chai
 > Vermindert de kans op stress
 
-Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat het effect heeft op je centrale zenuwstelsel. Hierdoor wordt het stressgevoel vermindert.  
+_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai effect heeft, op je centrale zenuwstelsel. Hierdoor kan de kans op stress worden vermindert._
+
+# Ben jij er al achter hoe het écht voelt?
+We kennen allemaal het gevoel dat je het maximale uit je dag wilt halen. Je hebt immers bergen met werk liggen. 
+
+Je staat uitgerust op. Bent fysiek fit. Hebt je dagplanning netjes op orde. Overziet alle deadlines. Werkt hard. Je krijgt veel gedaan. En je carrière gaat erop vooruit. 
+
+En wat betreft die werkdruk - waar iedereen last van heeft. Die heb je voor nu onder controlle. Hard werken is leuk, het geeft een fijn gevoel. 
+
+Dag in dag uit krijg je meer gedaan. En voor je het weet, neem je je werk mee naar huis. 
+
+In je hoofd. Wel zo fijn.
+
+Alle werkgerelateerd problemen overzie je. En met vakantie gaan. Doen we wel op een later moment. Wanneer het uitkomt. Is wel zo handig.
+
+En zonder dat je het door hebt loop je - té lang - rond met een overmatige hoeveelheid aan stress. 
+
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over stress. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
 
 ## Inhoud van dit artikel
 
-**Stress**
-* Hoe ontstaat stress?
-* Wat zijn de oorzaken van stress?
-* Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?
-* Eenvoudige natuurlijke behandeling
+[**Stress**](#stress)
+* [Hoe ontstaat stress?](#Hoe-ontstaat-stress)
+* [Wat zijn de oorzaken van stress?](#Wat-zijn-de-oorzaken-van-stress)
+* [Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?](#Wat-kan-er-gebeuren-wanneer-je-té-lang-met-veel-stress-rondloopt)
+* [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
 
-**Ivan Chai** <br>
-* De oorsprong van Ivan Chai
-* Bevindingen
-* Ivan Chai tegen 17 problemen
-* Welke dosering en behandelingskuur raden jullie aan?
-* Is het effect van Ivan Chai direct voelbaar?
-* Welke voorzorgsmaatregelen kan ik nemen?
-* Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
-* Contra-indicaties en waarschuwingen
-  - Zwangerschap, borstvoeding en vruchtbaarheid
-* Hoe bewaar je Ivan Chai?
-* Bereidingswijze
-  - Smaakbeleving en geur
-  - Intensiteit
+[**Ivan Chai**](#ivan-chai)<br>
+* [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
+* [Bevindingen](#bevindingen)
+* [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
+* [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
+* [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
+* [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
+* [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
+* [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
+* [Bereidingswijze](#bereidingswijze)
 
-**Ivan's Insights** <br>
-* Over stress
+[**Inzichten**](#inzichten)<br>
+* [Over stress](#over-stress)
 
 # Stress
-
-Laten we beginnen met de allereerste vraag gericht op stress.
+stress (de; m) 1. aanhoudende geestelijke druk; = spanning
 
 ### Hoe ontstaat stress?
-Stress ontstaat wanneer er in je lichaam te lang, te veel spanning aanwezig is. Een kleine mate van stress is oké. En hoeft op het eerste gezicht niet voor problemen te zorgen. Je bent namelijk erg gefocust en actief. 
+Stress ontstaat wanneer er in je lichaam te lang, te veel spanning aanwezig is. Een kleine mate van stress is oké. En hoeft op het eerste gezicht niet voor problemen te zorgen. Je bent namelijk erg gefocust en actief.
 
 De mate van stress kan na verloop van tijd groeien. Te lang, een overmatige hoeveelheid aan stress ervaren zorgt voor problemen. Je staat té lang in de 5de versnelling. 
 
 ### Wat zijn de oorzaken van stress?
 Hierbij moet je denken aan: 
+* een hoge werkdruk
 * problemen op werk
-* een te hoge werkdruk
+* geen rust willen nemen
 * verlies van je baan
 * het overlijden van een dierbare 
 * of een (chronische) ziekte.
@@ -168,14 +179,7 @@ In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een z
 
 _...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?_
 
-Ik raad het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
-
-### Welke voorzorgsmaatregelen kan ik nemen?  
-Veel combinaties - van natuurlijke behandelingen met farmaceutische medicijnen - zijn tot op heden niet geprobeerd of getest.
-
-Voorafgaand aan een behandeling met Ivan Chai - in combinatie met farmaceutische medicijnen - raad ik het aan een deskundige te raadplegen.
-
-Hiernaast raden wij het aan eigen onderzoek te doen om bijwerkingen te voorkomen.
+Wij raden het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
  
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
@@ -232,11 +236,11 @@ _...En hoe zit het met de **geur**?_ <br>
 # Ivan's Insights
 ### Over stress
 
-Stress is een ware sluipmoordenaar. Zonder dat je het door hebt, sta je te lang in de 5de versnelling. Neem je geen rust. Loop je over van het werk. En loop je de kans op ernstige mentale klachten. Het nare van de gevolgen van stress - angst en een burnout, maar ook agressie, manie, psychose en een depressie - is dat je niet weet voor welke mentale klachten je gevoelig bent. Totdat je het hebt. 
+Stress is een ware sluipmoordenaar. Zonder dat je het door hebt, sta je te lang in de 5de versnelling. Neem je geen rust. Loop je over van het werk. En loop je de kans op ernstige mentale klachten. Het nare van de gevolgen van stress - angst en een burnout, maar ook agressie, manie, psychose en een depressie - is dat je niet weet voor welke mentale klachten je gevoelig bent. Totdat je het hebt.
 
 Leer stress tijdig te herkennen. Verander je levensstijl. En sta open voor natuurlijke behandelingen - in de vorm van een alledaagse producten - zoals Ivan Chai. 
 Natuurlijke behandelingen kunnen de kans op een lichtere vorm van stress - waardoor ongezonde werkstress kan ontstaan - verminderen. 
 
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van ernstige stress, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En ik garandeer je dat je beter in staat bent de kans op stress te verminderen.
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En wij garanderen je dat je beter in staat bent de kans op stress te verminderen.
