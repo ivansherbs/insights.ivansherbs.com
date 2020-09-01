@@ -16,29 +16,28 @@ Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthe
 Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen.
 
 # Bescherm de gezondheid van je prostaat
-Sommige dagelijkse bezigheid kosten naarmate je ouder wordt onnodig veel tijd.  
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijn”_
 
-Niets mis mee, je bent er alleen voor je gevoel té veel mee bezig. Niet alleen fysiek. Oók mentaal zit het je dwars. Eén van die problemen is een prostaatontsteking. 
+Wanneer je ouder wordt, weet je dat sommige dagelijkse bezigheid meer tijd gaat kosten. Zo zie je sommige problemen aankomen. Zo krijgen mannen op latere leeftijd meer kans op prostaatklachten.
 
-Het komt veel voor bij oudere mannen. En gelukkig is het te behandelen. Op meerdere manieren.  
+Een probleem om al rekening mee te houden op ‘jongere’ leeftijd. 
+
+Om de statistieken er maar even gelijk bij te pakken. 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking.
+
+Een prostaatontsteking komt dus veel voor bij oudere mannen. En gelukkig is het te behandelen. Op meerdere manieren.  
 
 Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. Als alternatief. Of als aanvulling op farmaceutische medicijnen. 
 
-Het gaat om een alledaags product. Namelijk Ivan Chai. Een Siberische kruidenthee.
-
-Een natuurlijke behandeling die preventief of ter behandeling gebruikt kan worden - tegen een prostaatontsteking.
-
-Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
+Oftewel, drink Ivan Chai preventief tegen een prostaatontsteking. Of om je mentaal en fysiek te ondersteunen bij gebruik van farmaceutische medicijnen. 
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een prostaatontsteking. En een eenvoudige natuurlijke behandeling.
 
 ## Inhoud van dit artikel
 
 [**Prostaatontsteking**](#prostaatontsteking)<br>
-* [Hoeveel mannen hebben last van de prostaat?](#Hoeveel-mannen-hebben-last-van-de-prostaat)
 * [Wat is een prostaatontsteking?](#Wat-is-een-prostaatontsteking)
-* [Aan welke symptomen moet ik denken bij een prostaatontsteking?](#Aan-welke-symptomen-moet-ik-denken-bij-een-prostaatontsteking)
 * [En bij chronische klachten?](#En-bij-chronische-klachten)
+* [Welk effect heeft het gebruik van farmaceutische medicijnen op een prostaatontsteking?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen- op-een-prostaatontsteking)
 * [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
 
 [**Ivan Chai**](#ivan-chai)<br>
@@ -57,11 +56,9 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 # Prostaatontsteking
 
-### Hoeveel mannen hebben last van de prostaat?
-30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking.
 ### Wat is een prostaatontsteking?
 Een ontsteking van de klier direct onder de blaas. Deze klier wordt bij een ontsteking aangevallen door ongewenste bacteriën.
-### Aan welke symptomen moet ik denken bij een prostaatontsteking?
+
 Er zijn verschillende symptomen die kunnen wijzen op een prostaatontsteking. Die niet altijd direct wijzen op een prostaatontsteking; denk hierbij aan:
 * koorts
 * of koude rillingen.
@@ -73,8 +70,9 @@ Bij heftige symptomen moet men denken aan:
 * gedurende het plassen:
   - pijn
   - of een brandend gevoel.
+
 ### En bij chronische klachten?
-Bij chronische klachten moet men denken aan zeurende pijn in de onderbuik, aanhoudende lage rugpijn en pijn gedurende het plassen. Ook moeheid, lusteloosheid en zelfs uitputting, kunnen we rekenen tot de klachten.
+Bij chronische klachten worden bovenstaande klachten vergezeld door een zeurende pijn in de onderbuik, aanhoudende lage rugpijn en pijn gedurende het plassen. Ook moeheid, lusteloosheid en zelfs uitputting, kunnen we rekenen tot de klachten.
 
 ### Welk effect heeft het gebruik van farmaceutische medicijnen op een prostaatontsteking?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
@@ -94,7 +92,7 @@ Wanneer je een prostaatontsteking goed verzorgt, hoef je minder snel kennis te m
 
 Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem.
 
-Deze natuurlijke behandeling kan - in overleg - ook als aanvullig op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is ook het versterken van je weerstand.
+Deze natuurlijke behandeling kan - in overleg - ook als aanvulling op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is ook het versterken van je weerstand.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verzorgen van een prostaatontsteking.
 
@@ -241,10 +239,11 @@ We worden allemaal een dagje ouder. En daar komen problemen van. Fysiek dan wel 
 
 Problemen die je met een beetje geluk kunt verzorgen. En geen pijn doen. Of waar je mee kunt leren leven.
 
-Gelukkig zijn er eenvoudige natuurlijke behandelingen beschikbaar. Die problemen kunnen verzorgen. En de kans op ziekten verminderen.
+Gelukkig zijn er eenvoudige natuurlijke behandelingen beschikbaar. Die problemen kunnen verzorgen. En de kans op ziekten verminderen. 
 
 Zo kun je Ivan Chai preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
 > Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een prostaatontsteking te verminderen.
+
