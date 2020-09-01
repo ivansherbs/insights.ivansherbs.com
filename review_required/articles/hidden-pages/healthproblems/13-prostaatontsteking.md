@@ -8,10 +8,10 @@ publish:
 # Voordeel Ivan Chai
 > Verzorgt de gezondheid van de prostaat
 
-_Ivan Chai is na duizenden recensies van mannen effectief bevonden. Deze Siberische kruidenthee verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier. Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek, gericht op de geneeskrachtige werking in kruiden._
+_Ivan Chai is na duizenden recensies van mannen effectief bevonden. Deze Siberische kruidenthee verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier. 
 
-_Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
-Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen._
+Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek, gericht op de geneeskrachtige werking in kruiden. Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
+Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen.
 
 # Bescherm de gezondheid van je prostaat
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijn”_
