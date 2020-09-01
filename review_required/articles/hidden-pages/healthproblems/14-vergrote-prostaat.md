@@ -8,24 +8,22 @@ publish:
 # Voordeel Ivan Chai
 > Verzorgt de gezondheid van de prostaat
 
-Ivan Chai gaat de groei van de prostaat tegen. Het is na duizenden recensies van mannen effectief bevonden. Deze Siberische kruidenthee gaat niet alleen de groei van de prostaat tegen. Het verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier.
-
-Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek, gericht op de geneeskrachtige werking in kruiden. Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
+Ivan Chai gaat de groei van de prostaat tegen. Het is na duizenden recensies van mannen effectief bevonden. Deze Siberische kruidenthee gaat niet alleen de groei van de prostaat tegen. Het helpt ook tegen een zwelling en ontsteking van de prostaatklier.
 
 # Een goedaardige aandoening
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-Iedereen heeft te kampen met problemen. Echter zijn niet alle problemen ‘slecht’ voor je lichaam. Zo zijn er ook tal van problemen die als goedaardig worden beschouwd.
+Iedereen heeft te kampen met problemen. Echter zijn niet alle problemen ‘slecht’ voor je lichaam. Zo zijn er ook tal van problemen die als een goedaardige aandoening worden beschouwd.
 
 Eén van die problemen is een vergrote prostaat.
 
 > 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat.
 
-Dit goedaardige probleem kan je wel belemmeren in je dagelijkse bezigheden. Het is dus een probleem om al rekening mee te houden op ‘jongere’ leeftijd.
+Een vergrote prostaat komt veel voor bij oudere mannen. En gelukkig is het te behandelen. Op meerdere manieren.  
 
-Een vergrote prostaat komt dus veel voor bij oudere mannen. En gelukkig is het te behandelen. Op meerdere manieren.  
+Dit probleem kan je belemmeren in je dagelijkse bezigheden. Het is dus verstandig er al rekening mee te houden op ‘jongere’ leeftijd.
 
-Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. Als alternatief. Of als aanvulling op farmaceutische medicijnen met ongewenste bijwerkingen.
+Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige natuurlijke behandeling. Als alternatief. Of als aanvulling op farmaceutische medicijnen met ongewenste bijwerkingen.
 
 Oftewel, drink Ivan Chai preventief tegen een prostaatontsteking. Of om je fysiek en mentaal te ondersteunen bij gebruik van farmaceutische medicijnen.
 
@@ -51,30 +49,22 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 # Inzichten
 ### Over een vergrote prostaat
 
-Een vergrote prostaat is een goedaardige aandoening waarbij de prostaat simpelweg is gaan groeien, echter kan dit leiden tot veel en vaak plassen. Of juist moeilijk plassen.
+Een vergrote prostaat is een goedaardige aandoening waarbij de prostaat - simpelweg - is gaan groeien. Echter kan dit probleem leiden tot veel en vaak plassen. Of juist moeilijk plassen.
 
-Hiernaast kun je last krijgen van een minder krachtige urinestraal dan gewend, die soms wordt onderbroken, niet goed kunnen beginnen met plassen en meer aandrang om weer te plassen.
+Hiernaast kun je last krijgen van een minder krachtige urinestraal. Je kunt niet goed beginnen met plassen. Wordt soms onbedoeld onderbroken. Of krijgt juist aandrang om weer te plassen.
 
-Goedaardige problemen kunnen de dagelijkse bezigheden op een negatieve manier beïnvloeden. Dit is niet fijn. En je wil er eigenlijk zo snel mogelijk van af.
-
-Nu je weet dat er natuurlijke behandeling beschikbaar is - in de vorm van een alledaags product - raden wij het aan om open te staan voor kleine aanpassingen in dagelijkse routines. 
-
-Oftewel, het drinken van de Siberische kruidenthee Ivan Chai.
-
-Waarmee je preventief problemen bestrijdt.
-
-Zowel goedaardig als kwaadaardig.
+Goedaardige aandoeningen kunnen de dagelijkse bezigheden op een negatieve manier beïnvloeden. Dit is niet fijn. En je wil er eigenlijk zo snel mogelijk van af.
 
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige vergrote prostaat, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een vergrote prostaat te verminderen. Of te behandelen. 
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een vergrote prostaat te verminderen. Of te behandelen.
 
 ### Welk effect heeft het gebruik van farmaceutische medicijnen?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
 Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Zo zijn er tal van ongewenste bijwerkingen. Die je kwetsbaar maken voor nieuwe problemen. Zoals een zwak immuunsysteem.
 
-Ivan Chai als natuurlijke behandeling kan - in overleg - ook als aanvulling op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is ook het versterken van je weerstand.
+Ivan Chai als natuurlijke behandeling kan - in overleg - ook als aanvulling op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is het versterken van je weerstand.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verzorgen van een vergrote prostaat.
 
@@ -100,6 +90,8 @@ Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke 
 De bevindingen zijn als volgt: <br>
 > Ivan Chai gaat de groei van de prostaat tegen.
 
+Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek gericht op de geneeskrachtige werking in kruiden. Eén van haar onderzoeken richtte zij zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd hierbij gebruikt als natuurlijke behandeling.
+
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
 Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de 7 voordelen die te vinden zijn in Ivan Chai:
@@ -108,7 +100,7 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 > 2 - Krachtige ontstekingsremmer <br>
 > 3 - Versterkt de antioxiderede werking <br>
 > 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op stress, angst en een vergrote prostaat <br>
+> 5 - Vermindert de kans op stress, angst en een burnout <br>
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
@@ -141,7 +133,7 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 12. Burn - out
 
-13. vergrote prostaat
+13. Prostaatontsteking
 
 14. Vergrote prostaat
 
@@ -210,7 +202,7 @@ De **smaak** is als volgt te omschrijven:
 
 _...En hoe zit het met de **geur**?_ <br>
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
- 
-**Intensiteit** <br>
-(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
+
+
+
 
