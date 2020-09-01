@@ -61,7 +61,7 @@ Bij heftige symptomen moet men denken aan:
   - in de onderbuik,
   - laag in de rug
   - het gedeelte tussen de penis en anus
-* Of gedurende het plassen:
+* of gedurende het plassen:
   - pijn
   - of een brandend gevoel.
 
