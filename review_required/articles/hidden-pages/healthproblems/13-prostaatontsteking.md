@@ -16,7 +16,7 @@ Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen.
 # Bescherm de gezondheid van je prostaat
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijn”_
 
-Wanneer je ouder wordt, weet je dat dagelijkse bezigheid meer tijd gaat kosten. Zo kunnen dagelijkse bezigheden ook een probleem opleveren. Mannen op latere leeftijd weten dat ze meer kans hebben op prostaatklachten.
+Wanneer je ouder wordt, weet je dat dagelijkse bezigheden meer tijd gaan kosten. Zo kunnen dagelijkse bezigheden - naar mate je ouder wordt - ook een probleem opleveren. Mannen op latere leeftijd weten dat ze meer kans hebben op problemen gericht op de prostaat.
 
 Een probleem om al rekening mee te houden op ‘jongere’ leeftijd. 
 
