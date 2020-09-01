@@ -51,7 +51,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 # Inzichten
 ### Over een vergrote prostaat
 
-Een vergrote prostaat is een goedaardige aandoening waarbij de prostaat simpelweg is gaan groeien, echter kan dit leiden tot veel en vaak plassen of juist moeilijk plassen.
+Een vergrote prostaat is een goedaardige aandoening waarbij de prostaat simpelweg is gaan groeien, echter kan dit leiden tot veel en vaak plassen. Of juist moeilijk plassen.
 
 Hiernaast kun je last krijgen van een minder krachtige urinestraal dan gewend, die soms wordt onderbroken, niet goed kunnen beginnen met plassen en meer aandrang om weer te plassen.
 
