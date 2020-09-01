@@ -32,8 +32,8 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 ## Inhoud van dit artikel
 
-[**Prostaatontsteking**](#prostaatontsteking)<br>
-* [Wat is een prostaatontsteking?](#Wat-is-een-prostaatontsteking)
+[**Inzichten**](#inzichten)<br>
+* [Over een prostaatontsteking](#over-een-prostaatontsteking)
 * [Zijn de symptomen anders bij chronische klachten?](#Zijn-de-symptomen-anders-bij-chronische-klachten)
 * [Welk effect heeft het gebruik van farmaceutische medicijnen op een prostaatontsteking?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
 * [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
@@ -49,25 +49,31 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
 * [Bereidingswijze](#bereidingswijze)
 
-[**Inzichten**](#inzichten)<br>
-* [Over een prostaatontsteking](#over-een-prostaatontsteking)
+# Inzichten
+### Over een prostaatontsteking
 
-# Prostaatontsteking
+Een prostaatontsteking is een ontsteking van de klier, direct onder de blaas. Deze klier wordt bij een ontsteking aangevallen door ongewenste bacteriën.
 
-### Wat is een prostaatontsteking?
-Een ontsteking van de klier direct onder de blaas. Deze klier wordt bij een ontsteking aangevallen door ongewenste bacteriën.
-
-Er zijn verschillende symptomen die kunnen wijzen op een prostaatontsteking. Die niet altijd direct wijzen op een prostaatontsteking; denk hierbij aan:
-* koorts
-* of koude rillingen.
+Er zijn verschillende symptomen die kunnen wijzen op een prostaatontsteking. Die niet altijd direct wijzen op een prostaatontsteking. Denk hierbij aan koorts. Of koude rillingen.
 
 Bij heftige symptomen moet men denken aan:
-* pijn in de onderbuik,
-* laag in de rug
-* het gedeelte tussen de penis en anus
-* gedurende het plassen:
+* pijn 
+  - in de onderbuik,
+  - laag in de rug
+  - het gedeelte tussen de penis en anus
+* Of gedurende het plassen:
   - pijn
   - of een brandend gevoel.
+
+Prostaatklachen kunnen de dagelijkse bezigheden op een negatieve manier beinvloeden. 
+
+Dit soort problemen kun je prefentief behandelen, met een eenvoudige natuurlijke behandelingen. In de vorm van een alledaags product. Namelijke Siberische kruidenthee. 
+
+Zo kun je de Siberische kruidenthee Ivan Chai preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
+
+> Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+>
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een prostaatontsteking te verminderen. Of te behandelen. 
 
 ### Zijn de symptomen anders bij chronische klachten?
 Bij chronische klachten worden bovenstaande klachten vergezeld door een zeurende pijn in de onderbuik, aanhoudende lage rugpijn en pijn gedurende het plassen. Ook moeheid, lusteloosheid en zelfs uitputting, kunnen we rekenen tot de klachten.
@@ -229,19 +235,3 @@ _...En hoe zit het met de **geur**?_ <br>
  
 **Intensiteit** <br>
 (Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
-
-# Inzichten
-### Over een prostaatontsteking
-
-We worden allemaal een dagje ouder. En daar komen problemen van. Fysiek dan wel mentaal.
-
-Problemen die je met een beetje geluk kunt verzorgen. En geen pijn doen. Of waar je mee kunt leren leven.
-
-Gelukkig zijn er eenvoudige natuurlijke behandelingen beschikbaar. Die problemen kunnen verzorgen. En de kans op ziekten verminderen. 
-
-Zo kun je Ivan Chai preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
-
-> Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
->
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een prostaatontsteking te verminderen.
-
