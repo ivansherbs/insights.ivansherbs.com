@@ -13,7 +13,7 @@ Ivan Chai gaat de groei van de prostaat tegen. Het is na duizenden recensies van
 Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek, gericht op de geneeskrachtige werking in kruiden. Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
 
 # Een goedaardige aandoening
-_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijn”_
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Iedereen heeft te kampen met problemen. Echter zijn niet alle problemen ‘slecht’ voor je lichaam. Zo zijn er ook tal van problemen die als goedaardig worden beschouwd.
 
