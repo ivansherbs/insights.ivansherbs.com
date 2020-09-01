@@ -72,9 +72,7 @@ Zowel goedaardig als kwaadaardig.
 ### Welk effect heeft het gebruik van farmaceutische medicijnen?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
-Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
-
-Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem.
+Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Zo zijn er tal van ongewenste bijwerkingen. Die je kwetsbaar maken voor nieuwe problemen. Zoals een zwak immuunsysteem.
 
 Ivan Chai als natuurlijke behandeling kan - in overleg - ook als aanvulling op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is ook het versterken van je weerstand.
 
