@@ -14,7 +14,7 @@ Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft
 Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen.
 
 # Bescherm de gezondheid van je prostaat
-_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijn”_
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Wanneer je ouder wordt, weet je dat dagelijkse bezigheden meer tijd gaan kosten. Zo kunnen dagelijkse bezigheden - naar mate je ouder wordt - ook een probleem opleveren. Mannen op latere leeftijd weten dat ze meer kans hebben op problemen gericht op de prostaat.
 
