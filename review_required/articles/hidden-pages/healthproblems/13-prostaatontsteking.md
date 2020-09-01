@@ -26,7 +26,7 @@ Om de statistieken er maar even gelijk bij te pakken. 30% van de mannen ouder da
 
 Een prostaatontsteking komt dus veel voor bij oudere mannen. En gelukkig is het te behandelen. Op meerdere manieren.  
 
-Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. Als alternatief. Of als aanvulling op farmaceutische medicijnen. 
+Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. Als alternatief. Of als aanvulling op farmaceutische medicijnen met ongewenste bijwerkingen.  
 
 Oftewel, drink Ivan Chai preventief tegen een prostaatontsteking. Of om je fysiek en mentaal te ondersteunen bij gebruik van farmaceutische medicijnen. 
 
