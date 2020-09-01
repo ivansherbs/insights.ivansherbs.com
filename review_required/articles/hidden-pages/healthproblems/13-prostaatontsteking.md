@@ -67,7 +67,7 @@ Bij heftige symptomen moet men denken aan:
 
 Een prostaatontsteking kan de dagelijkse bezigheden op een negatieve manier beïnvloeden. 
 
-Dit soort problemen kun je prefentief behandelen, met een eenvoudige natuurlijke behandelingen. In de vorm van een alledaags product. Namelijke Siberische kruidenthee. 
+Dit probleem kun je prefentief behandelen, met een eenvoudige natuurlijke behandelingen. In de vorm van een alledaags product. Namelijke Siberische kruidenthee. 
 
 Zo kun je de Siberische kruidenthee Ivan Chai preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
