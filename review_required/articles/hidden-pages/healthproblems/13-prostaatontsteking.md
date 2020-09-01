@@ -28,7 +28,7 @@ Een prostaatontsteking komt dus veel voor bij oudere mannen. En gelukkig is het 
 
 Je kunt gaan voor farmaceutische medicijnen - met ongewenste bijwerkingen. Of gaan voor een eenvoudige en natuurlijke behandeling. Als alternatief. Of als aanvulling op farmaceutische medicijnen. 
 
-Oftewel, drink Ivan Chai preventief tegen een prostaatontsteking. Of om je mentaal en fysiek te ondersteunen bij gebruik van farmaceutische medicijnen. 
+Oftewel, drink Ivan Chai preventief tegen een prostaatontsteking. Of om je fysiek en mentaal te ondersteunen bij gebruik van farmaceutische medicijnen. 
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een prostaatontsteking. En een eenvoudige natuurlijke behandeling.
 
