@@ -35,7 +35,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 [**Inzichten**](#inzichten) <br>
 * [Over een vergrote prostaat](#over-een-vergrote-prostaat)
-* [Welk effect heeft het gebruik van farmaceutische medicijnen op een vergrote prostaat?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
+* [Welk effect heeft het gebruik van farmaceutische medicijnen?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
 
 [**Ivan Chai**](#ivan-chai)<br>
 * [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
