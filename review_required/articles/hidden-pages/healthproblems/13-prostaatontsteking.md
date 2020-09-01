@@ -65,7 +65,7 @@ Bij heftige symptomen moet men denken aan:
   - pijn
   - of een brandend gevoel.
 
-Prostaatklachen kunnen de dagelijkse bezigheden op een negatieve manier beinvloeden. 
+Een prostaatontsteking kan de dagelijkse bezigheden op een negatieve manier beïnvloeden. 
 
 Dit soort problemen kun je prefentief behandelen, met een eenvoudige natuurlijke behandelingen. In de vorm van een alledaags product. Namelijke Siberische kruidenthee. 
 
