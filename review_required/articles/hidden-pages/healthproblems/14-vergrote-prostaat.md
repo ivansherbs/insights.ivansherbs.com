@@ -36,7 +36,6 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 ## Inhoud van dit artikel
 
 [**Vergrote prostaat**](#vergrote prostaat)<br>
-* [Wat is een vergrote prostaat?](#Wat-is-een-vergrote prostaat)
 * [Welk effect heeft het gebruik van farmaceutische medicijnen op een vergrote prostaat?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
 * [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
 
@@ -56,7 +55,6 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 # Vergrote prostaat
 
-### Wat is een vergrote prostaat?
 Een vergrote prostaat is een goedaardige aandoening waarbij de prostaat simpelweg is gaan groeien, echter kan dit leiden tot veel en vaak plassen of juist moeilijk plassen. 
 
 Hiernaast kun je last krijgen van een minder krachtige urinestraal dan gewend, die soms wordt onderbroken, niet goed kunnen beginnen met plassen en meer aandrang om weer te plassen.
