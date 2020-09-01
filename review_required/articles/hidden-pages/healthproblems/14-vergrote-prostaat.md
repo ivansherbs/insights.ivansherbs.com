@@ -35,11 +35,11 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 ## Inhoud van dit artikel
 
-[**Vergrote prostaat**](#vergrote prostaat)<br>
+* [**Vergrote prostaat**](#vergrote prostaat) <br>
 * [Welk effect heeft het gebruik van farmaceutische medicijnen op een vergrote prostaat?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
 * [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
 
-[**Ivan Chai**](#ivan-chai)<br>
+* [**Ivan Chai**](#ivan-chai)<br>
 * [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
 * [Bevindingen](#bevindingen)
 * [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
