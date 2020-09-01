@@ -20,7 +20,8 @@ Wanneer je ouder wordt, weet je dat dagelijkse bezigheden meer tijd gaan kosten.
 
 Een probleem om al rekening mee te houden op ‘jongere’ leeftijd. 
 
-Om de statistieken er maar even gelijk bij te pakken. 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking.
+Om de statistieken er maar even gelijk bij te pakken. 
+> 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking.
 
 Een prostaatontsteking komt dus veel voor bij oudere mannen. En gelukkig is het te behandelen. Op meerdere manieren.  
 
