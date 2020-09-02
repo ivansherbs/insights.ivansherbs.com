@@ -10,9 +10,6 @@ publish:
 
 Ivan Chai is na duizenden recensies van mannen effectief bevonden. Deze Siberische kruidenthee verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier. 
 
-Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek naar de geneeskrachtige werking in kruiden. Eén van haar onderzoeken richtte zij zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
-Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen.
-
 # Bescherm de gezondheid van je prostaat
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
