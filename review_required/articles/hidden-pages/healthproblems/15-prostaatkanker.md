@@ -19,7 +19,7 @@ De statistiek die ze met zekerheid kunnen meenemen als risicofactor is de leefti
 
 > Vóór je 50ste is prostaatkanker zeer zeldzaam. Bescherm daarom je prostaat preventief. 
 
-Gelukkig groeit prostaatkanker vaak langzaam. En merken mannen niet eens dat ze er last van hebben. Vaak komt dit probleem pas aan het licht bij een medische controle. Of wanneer de persoon al dood is. 
+Prostaatkanker groeit vaak langzaam. Soms merken mannen niet eens dat ze er last van hebben. Vaak komt dit probleem pas aan het licht bij een medische controle. Of wanneer de persoon al dood is. 
 
 Prostaatkanker kan in sommige gevallen wel degelijk de dagelijkse bezigheden flink dwarsbomen. Wanneer mannen de symptomen echt herkennen, ervaren ze duidelijk de symptomen. 
 
