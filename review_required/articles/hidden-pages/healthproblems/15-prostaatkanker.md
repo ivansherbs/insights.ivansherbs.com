@@ -40,7 +40,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [7 voordelen](#7-voordelen)
 * [Tegen 17 problemen](#ivan-chai-tegen-17-problemen)
 
-[**Behandeling**] 
+[**Natuurlijke behandeling**](#Natuurlijke-behandeling)
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
@@ -150,7 +150,7 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
-# Behandeling 
+# Natuurlijke behandeling 
 
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
