@@ -67,7 +67,7 @@ Dit probleem kun je prefentief behandelen, met een eenvoudige natuurlijke behand
 
 Deze Siberische kruidenthee kun je preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een prostaatontsteking te verminderen. Of te behandelen. 
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een prostaatontsteking te verminderen. Of te behandelen. 
 
 Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
