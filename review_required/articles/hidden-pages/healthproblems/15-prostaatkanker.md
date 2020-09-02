@@ -13,7 +13,7 @@ Ivan Chai versterkt de anti-tumoractiviteit. Het antitumor effect is goed bestud
 # Een onopgemerkt probleem
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. De medische wereld tast nog in het duister. Bij het samenstellen van een lijst met risicofactoren, kan er 1 statistiek met zekerheid worden opgeschreven. 
+Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. De medische wereld tast nog volop in het duister. Bij het samenstellen van een lijst met risicofactoren, kan er 1 statistiek met zekerheid worden opgeschreven. 
 
 De statistiek die ze met zekerheid kunnen meenemen als risicofactor is de leeftijd. Vooral oudere mannen hebben last van dit probleem. 
 
