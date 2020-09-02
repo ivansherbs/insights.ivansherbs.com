@@ -108,7 +108,7 @@ Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te v
 > 2 - Krachtige ontstekingsremmer <br>
 > 3 - Versterkt de antioxiderede werking <br>
 > 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op stress, angst en een prostaatontsteking <br>
+> 5 - Vermindert de kans op stress, angst en een burnout <br>
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
