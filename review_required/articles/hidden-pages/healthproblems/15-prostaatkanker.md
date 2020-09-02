@@ -150,7 +150,7 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
-#Behandeling 
+# Behandeling 
 
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
