@@ -97,7 +97,7 @@ Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te v
 
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
 
-### Ivan Chai tegen 17 problemen
+### Tegen 17 problemen
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
