@@ -35,10 +35,10 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Over een vergrote prostaat](#over-een-vergrote-prostaat)
 * [Welk effect heeft het gebruik van farmaceutische medicijnen?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
 
+
 [**Ivan Chai**](#ivan-chai)<br>
-* [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
-* [Bevindingen](#bevindingen)
-* [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
+* [7 voordelen](#7-voordelen)
+* [Tegen 17 problemen](#ivan-chai-tegen-17-problemen)
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
@@ -68,39 +68,32 @@ Ivan Chai als natuurlijke behandeling kan - in overleg - ook als aanvulling op f
 
 Lees verder hoe Ivan Chai je kan helpen bij het verzorgen van een vergrote prostaat.
 
+Ontdek de 7 voordelen van Ivan Chai.
+
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een vergrote prostaat.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een prostaatontsteking.
 
-### De oorsprong van Ivan Chai
-> Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië.
-
-Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
-
-Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
-
-Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de wildernis van Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden.
-
-**Bevindingen** <br>
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
-De bevindingen zijn als volgt: <br>
+De bevindingen tegen een prostaatontsteking zijn als volgt: <br>
 > Ivan Chai gaat de groei van de prostaat tegen.
-
-Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek gericht op de geneeskrachtige werking in kruiden. Eén van haar onderzoeken richtte zij zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd hierbij gebruikt als natuurlijke behandeling.
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de 7 voordelen die te vinden zijn in Ivan Chai:
+Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
+
+### 7 voordelen
+Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen, ter ontspanning of als levenselixer. De voordelen zijn als volgt:
 
 > 1 - Versterkt de weerstand <br>
 > 2 - Krachtige ontstekingsremmer <br>
 > 3 - Versterkt de antioxiderede werking <br>
 > 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op stress, angst en een burnout <br>
+> 5 - Vermindert de kans op stress, angst en een prostaatontsteking <br>
 > 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7 - Verzorgt het spijsverteringsstelsel
 
@@ -202,7 +195,3 @@ De **smaak** is als volgt te omschrijven:
 
 _...En hoe zit het met de **geur**?_ <br>
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
-
-
-
-
