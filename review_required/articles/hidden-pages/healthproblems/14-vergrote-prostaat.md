@@ -77,7 +77,7 @@ De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzo
 
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
-De bevindingen tegen een prostaatontsteking zijn als volgt: <br>
+De bevindingen tegen een vergrote protaat zijn als volgt: <br>
 > Ivan Chai gaat de groei van de prostaat tegen.
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
