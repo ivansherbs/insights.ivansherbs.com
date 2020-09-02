@@ -58,9 +58,10 @@ Bij circa 10.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgestel
 Je kunt prostaatkanker lastig herkennen aan de symptomen. De symptomen van kanker zijn vergelijkbaar met die van een vergrote prostaat. 
 Denk aan de volgende symptomen:
 * veel en vaak plassen
-* of juist moeilijk plassen.
+* juist moeilijk plassen
+* of een brandend gevoel bij het plassen. 
 
-Hiernaast kun je last krijgen van een minder krachtige urinestraal. Je kunt niet goed beginnen met plassen. Wordt soms onbedoeld onderbroken. Of krijgt juist aandrang om weer te plassen.
+Hiernaast kun je last krijgen van een minder krachtige urinestraal. Je kunt niet goed beginnen. Wordt soms onbedoeld onderbroken. Of krijgt juist aandrang om weer te plassen.
 
 
 ### Hoe kun je prostaatkanker constateren?
