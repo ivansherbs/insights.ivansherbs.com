@@ -40,7 +40,8 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
 
 [**Ivan Chai**](#ivan-chai)<br>
-* [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
+* [7 voordelen](#7-voordelen)
+* [Tegen 17 problemen](#ivan-chai-tegen-17-problemen)
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
@@ -92,7 +93,7 @@ Hiermee verzorg je de gezondheid van de prostaat. En verminder je de kans op een
 > Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
 Wanneer je een prostaatontsteking goed verzorgt, hoef je minder snel kennis te maken met de farmaceutische medicijnen die deze problemen bestrijden.
 
-Wanneer je farmaceutische medicijnen gebruikt tegen een prostaatonsteking, kun je - in overleg - Ivan Chai drinken als aanvulling op deze medicijnen. Eén van de voordelen is óók het versterken van je weerstand.
+Wanneer je farmaceutische medicijnen gebruikt tegen een prostaatonsteking, kun je - in overleg met een deskundige - Ivan Chai drinken als aanvulling op deze medicijnen. Eén van de voordelen is óók het versterken van je weerstand.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verzorgen van een prostaatontsteking.
 
@@ -112,7 +113,10 @@ De bevindingen tegen een prostaatontsteking zijn als volgt: <br>
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de 7 voordelen die te vinden zijn in Ivan Chai:
+Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen te vinden in Ivan Chai.
+
+### 7 voordelen
+Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen, ter ontspanning of als levenselixer. De voordelen zijn als volgt:
 
 > 1 - Versterkt de weerstand <br>
 > 2 - Krachtige ontstekingsremmer <br>
@@ -124,7 +128,7 @@ Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit 
 
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
 
-### Ivan Chai tegen 17 problemen
+### Tegen 17 problemen
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
