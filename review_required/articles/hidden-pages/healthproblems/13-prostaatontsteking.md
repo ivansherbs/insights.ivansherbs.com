@@ -34,7 +34,6 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Over een prostaatontsteking](#over-een-prostaatontsteking)
 * [Zijn de symptomen anders bij chronische klachten?](#Zijn-de-symptomen-anders-bij-chronische-klachten)
 * [Welk effect heeft het gebruik van farmaceutische medicijnen?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
-* [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
 
 [**Ivan Chai**](#ivan-chai)<br>
 * [7 voordelen](#7-voordelen)
