@@ -53,12 +53,16 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 # Inzichten
 ### Over prostaatkanker
-Bij circa 10.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50, lopen een vergrote kans om prostaatkanker op te lopen.
+Bij circa 10.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50 hebben meer kans om prostaatkanker op te lopen.
 
 Je kunt prostaatkanker lastig herkennen aan de symptomen. De symptomen van kanker zijn vergelijkbaar met die van een vergrote prostaat. 
+Denk aan de volgende symptomen:
+* veel en vaak plassen
+* of juist moeilijk plassen.
 
-Denk aan veel en vaak plassen. Of juist moeilijk plassen.
 Hiernaast kun je last krijgen van een minder krachtige urinestraal. Je kunt niet goed beginnen met plassen. Wordt soms onbedoeld onderbroken. Of krijgt juist aandrang om weer te plassen.
+
+
 ### Hoe kun je prostaatkanker constateren?
 Laten we dit antwoord inleiden door je een korte uitleg te geven over PSA-waarden. PSA staat voor ‘prostaatspecifiek antigeen’. Dit is een eiwit dat in je bloed voorkomt. Het klierweefsel van je prostaat maakt deze eiwit aan. 
 
