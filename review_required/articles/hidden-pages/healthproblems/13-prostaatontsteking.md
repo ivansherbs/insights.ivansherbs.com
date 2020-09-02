@@ -10,7 +10,7 @@ publish:
 
 Ivan Chai is na duizenden recensies van mannen effectief bevonden. Deze Siberische kruidenthee verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier. 
 
-Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek, gericht op de geneeskrachtige werking in kruiden. Eén van haar onderzoeken richtte zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
+Dit onderzoek is uitgevoerd door de Zwitserse kruidkundige M. Trebens. Zij heeft haar leven gewijd aan onderzoek naar de geneeskrachtige werking in kruiden. Eén van haar onderzoeken richtte zij zich vrij specifiek op de prostaat. Kruidenthee als Ivan Chai werd gebruikt als natuurlijke behandeling.
 Fijne bijkomstigheid, het gaat óók de groei van de prostaat tegen.
 
 # Bescherm de gezondheid van je prostaat
@@ -40,8 +40,6 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
 
 [**Ivan Chai**](#ivan-chai)<br>
-* [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
-* [Bevindingen](#bevindingen)
 * [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
@@ -68,9 +66,9 @@ Bij heftige symptomen moet men denken aan:
 
 Een prostaatontsteking kan de dagelijkse bezigheden op een negatieve manier beïnvloeden. 
 
-Dit probleem kun je prefentief behandelen, met een eenvoudige natuurlijke behandelingen. In de vorm van een alledaags product. Namelijke Siberische kruidenthee. 
+Dit probleem kun je prefentief behandelen, met een eenvoudige natuurlijke behandelingen. In de vorm van een alledaags product. Denk aan Ivan Chai. 
 
-Zo kun je de Siberische kruidenthee Ivan Chai preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
+Deze Siberische kruidenthee kun je preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
 > Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 >
@@ -82,7 +80,7 @@ Bij chronische klachten worden bovenstaande klachten vergezeld door een zeurende
 ### Welk effect heeft het gebruik van farmaceutische medicijnen?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
-Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
+Het kan zijn dat door gebruik – van medicijnen - je ook kwetsbaarder bent voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
 ### Eenvoudige natuurlijke behandeling
 Voor het voorkomen van prostaatklachten is er eenvoudige natuurlijke behandeling beschikbaar.
@@ -91,37 +89,26 @@ Namelijk Ivan Chai. Een Siberische kruidenthee.
 
 Hiermee verzorg je de gezondheid van de prostaat. En verminder je de kans op een prostaatontsteking.
 
-**Bewezen effectiviteit** <br>
 > Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
 Wanneer je een prostaatontsteking goed verzorgt, hoef je minder snel kennis te maken met de farmaceutische medicijnen die deze problemen bestrijden.
 
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem.
-
-Deze natuurlijke behandeling kan - in overleg - ook als aanvulling op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is ook het versterken van je weerstand.
+Wanneer je farmaceutische medicijnen gebruikt tegen een prostaatonsteking, kun je - in overleg - Ivan Chai drinken als aanvulling op deze medicijnen. Eén van de voordelen is óók het versterken van je weerstand.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verzorgen van een prostaatontsteking.
+
+Ontdek de 7 voordelen van Ivan Chai.
 
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een prostaatontsteking.
 
-### De oorsprong van Ivan Chai
-> Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië.
-
-Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
-
-Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
-
-Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de wildernis van Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden.
-
-**Bevindingen** <br>
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
-De bevindingen zijn als volgt: <br>
-> Ivan Chai verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier._
+De bevindingen tegen een prostaatontsteking zijn als volgt: <br>
+> Ivan Chai verzorgt de zwelling - en helpt tegen een ontsteking - van de prostaatklier.
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
@@ -233,6 +220,3 @@ De **smaak** is als volgt te omschrijven:
 
 _...En hoe zit het met de **geur**?_ <br>
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
- 
-**Intensiteit** <br>
-(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
