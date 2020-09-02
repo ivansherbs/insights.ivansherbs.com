@@ -62,18 +62,16 @@ Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverh
 ### Welk effect heeft het gebruik van farmaceutische medicijnen?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
-Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Zo zijn er tal van ongewenste bijwerkingen. Die je kwetsbaar maken voor nieuwe problemen. Zoals een zwak immuunsysteem.
+Het kan zijn dat door gebruik – van medicijnen - je ook kwetsbaarder bent voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
-Ivan Chai als natuurlijke behandeling kan - in overleg - ook als aanvulling op farmaceutische medicijnen worden gebruikt tegen prostaatklachten. Eén van de voordelen is het versterken van je weerstand.
-
-Lees verder hoe Ivan Chai je kan helpen bij het verzorgen van een vergrote prostaat.
+Wanneer je farmaceutische medicijnen gebruikt tegen een prostaatonsteking, kun je - in overleg met een deskundige - Ivan Chai drinken als aanvulling op deze medicijnen.
 
 Ontdek de 7 voordelen van Ivan Chai.
 
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een prostaatontsteking.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een vergrote prostaat.
 
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
