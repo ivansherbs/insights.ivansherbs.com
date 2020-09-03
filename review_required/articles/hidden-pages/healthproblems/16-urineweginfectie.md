@@ -28,10 +28,10 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 [**Inzichten**](#inzichten) <br>
 * [Over een urineweginfectie](#over-een-urineweginfectie)
 * [Hebben zowel mannen als vrouwen last van dit probleem?](#Hebben-zowel-mannen-als-vrouwen-last-van-dit-probleem)
-* Waarom is dit probleem van invloed op de kwaliteit van je leven?(#Waarom-is-dit-probleem-van-invloed-op-de-kwaliteit-van-je-leven)
-* Komt een urineweginfectie dan alleen door seks?(#Komt-een-urineweginfectie-dan-alleen-door-seks)
-* Hoe kom je aan ongewenste bacteriën?(#Hoe-kom-je-aan-ongewenste-bacteriën)
-* Zijn er bepaalde risicofactoren?(#Zijn-er-bepaalde-risicofactoren)
+* [Waarom is dit probleem van invloed op de kwaliteit van je leven?](#Waarom-is-dit-probleem-van-invloed-op-de-kwaliteit-van-je-leven)
+* [Komt een urineweginfectie dan alleen door seks?](#Komt-een-urineweginfectie-dan-alleen-door-seks)
+* [Hoe komen ongewenste bacteriën in je lichaam?](#Hoe-komen-ongewenste-bacterien-in-je-lichaam)
+* [Zijn er bepaalde risicofactoren?](#Zijn-er-bepaalde-risicofactoren)
 
 [**Ivan Chai**](#ivan-chai)<br>
 * [7 voordelen](#7-voordelen)
@@ -72,12 +72,11 @@ De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit r
 Wat uiteindelijk van invloed is op de kwaliteit van het leven van jou en je partner. 
 
 ### Komt een urineweginfectie dan alleen door seks?
-Nee. natuurlijk zijn er meerdere oorzaken voor een urineweginfectie. 
+Nee, natuurlijk zijn er meerdere oorzaken voor een urineweginfectie. 
 
 Bij vrouwen is de urinebuis nou eenmaal korter dan bij mannen. Hierdoor hebben ongewenste bacteriën sneller toegang tot de blaas. Die kunnen komen uit het maag-darmkanaal. Bacteriën gaan ongezien nou eenmaal graag aan de wandel. 
 
-### Hoe kom je aan ongewenste bacteriën? 
-
+### Hoe komen ongewenste bacterien in je lichaam? 
 Nou nu komt het. Eén van de belangrijkste veroorzakers van een urineweginfectie is de E. coli-bacterie - een bacterie afkomstig uit besmet voedsel. Afkomstig uit rundvlees, varkensvlees en kip. Deze bacterie reist mee met je eten. En komt er als een wandelende darmbacterie uit. 
 
 ### Zijn er bepaalde risicofactoren?
