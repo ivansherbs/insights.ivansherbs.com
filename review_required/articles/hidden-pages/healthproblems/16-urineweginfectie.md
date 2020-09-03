@@ -54,7 +54,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 Een urineweginfectie is een verzamelnaam voor zowel een blaasontsteking als een nierbekkenontsteking. Bij een infectie wordt het slijmvlies aan de binnenkant van de urinewegen geïnfecteerd.
 
 De urinewegen bestaan uit de blaas, nierbekken, urineleider en de urethra. Bij een infectie worden de urinewegen aangevallen door ongewenste bacteriën.
-Van alle urineweginfectie komt een blaasontsteking het meest voor. 
+Van alle urineweginfecties komt een blaasontsteking het meest voor. 
 
 Wanneer na verloop van tijd een blaasontsteking zich verplaatst naar de hogere urinewegen - door het verplaatsen van de ongewenste bacteriën - kan men last krijgen van een nierbekkenontsteking.
 
