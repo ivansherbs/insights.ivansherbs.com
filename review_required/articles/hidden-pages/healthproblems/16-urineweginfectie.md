@@ -28,9 +28,9 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 [**Inzichten**](#inzichten) <br>
 * [Over een urineweginfectie](#over-een-urineweginfectie)
 * [Hebben zowel mannen als vrouwen last van dit probleem?](#Hebben-zowel-mannen-als-vrouwen-last-van-dit-probleem)
-* Waarom is dit probleem van invloed op mijn relatie?(#Waarom is dit probleem van invloed op mijn relatie)
-* Hoe kom ik aan ongewenste bacteriën?(#Hoe-kom-ik-aan-ongewenste-bacteriën)
-* Zijn er nog bepaalde risicofactoren?(#Zijn-er nog-bepaalde-risicofactoren)
+* Waarom is dit probleem van invloed op je relatie?(#Waarom-is-dit-van-invloed-op-je-relatie)
+* Hoe kom je aan ongewenste bacteriën?(#Hoe-kom-je-aan-ongewenste-bacteriën)
+* Zijn er bepaalde risicofactoren?(#Zijn-er-bepaalde-risicofactoren)
 
 [**Ivan Chai**](#ivan-chai)<br>
 * [7 voordelen](#7-voordelen)
@@ -65,7 +65,7 @@ Vrouwen hebben nou eenmaal vaak last van een blaasontsteking. Bij vrouwen boven 
 
 * Circa 20% van de vrouwen heeft hier jaarlijks mee te maken!
 
-### Waarom is dit probleem van invloed op mijn relatie? 
+### Waarom is dit probleem van invloed op je relatie? 
 De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. 
 Wat uiteindelijk van invloed is op de kwaliteit van het leven van jou en je partner. 
 ### Komt een urineweginfectie dan alleen door seks?
@@ -73,11 +73,11 @@ Nee. natuurlijk zijn er meerdere oorzaken voor een urineweginfectie.
 
 Bij vrouwen is de urinebuis nou eenmaal korter dan bij mannen. Hierdoor hebben ongewenste bacteriën sneller toegang tot de blaas. Die kunnen komen uit het maag-darmkanaal. Bacteriën gaan ongezien nou eenmaal graag aan de wandel. 
 
-### Hoe kom ik aan ongewenste bacteriën? 
+### Hoe kom je aan ongewenste bacteriën? 
 
 Nou nu komt het. Eén van de belangrijkste veroorzakers van een urineweginfectie is de E. coli-bacterie - een bacterie afkomstig uit besmet voedsel. Afkomstig uit rundvlees, varkensvlees en kip. Deze bacterie reist mee met je eten. En komt er als een wandelende darmbacterie uit. 
 
-### Zijn er nog bepaalde risicofactoren?
+### Zijn er bepaalde risicofactoren?
 Ja. Tijdens de zwangerschap en vrouwen in de menopauze hebben meer kans op een urineweginfectie. Dit heeft dan weer te maken met het oestrogeengehalte.
 
 Dus. 
