@@ -62,7 +62,7 @@ Wanneer na verloop van tijd een blaasontsteking zich verplaatst naar de hogere u
 
 Bij vrouwen komt een urineweginfectie het meest voor. Bij mannen bijna nooit. 
 
-Vrouwen hebben nou eenmaal vaak last van een blaasontsteking. Bij vrouwen boven de 12 komt dit probleem vaak voor. Om de statistieken er even bij te pakken: 
+Vrouwen hebben nou eenmaal vaak last van een blaasontsteking. Dit begint bij vrouwen vanaf 12 jaar. Om de statistieken er even bij te pakken: 
 
 * Circa 20% van de vrouwen heeft hier jaarlijks mee te maken!
 
