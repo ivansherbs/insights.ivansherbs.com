@@ -200,7 +200,9 @@ En is gelukkig veilig voor kinderen.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
  
 # Tot slot 
-Graag willen we nog even benadrukken dat je meer tijd voor jezelf mag nemen om tot rust te komen. 
+_"Het maakt niet uit hoe langzaam je gaat, zolang je maar niet stopt"_ 
+
+Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen. 
 Geniet van je overheerlijke kop Ivan Chai. 
 
 ### Bereidingswijze
