@@ -154,7 +154,7 @@ Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbreng
 
 Het holistische perspectief bestrijkt het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. De mens wordt in zijn totaliteit benaderd. Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken liggen er eenvoudige natuurlijke behandelingen voor de hand."
 
-De eenvoudige natuurlijke behandelingen hebben de vorm van alledaagse producten. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet hoeft om te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken. 
+Deze eenvoudige natuurlijke behandelingen hebben de vorm van alledaagse producten. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet om hoeft te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken. 
 
 In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
