@@ -28,7 +28,8 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 [**Inzichten**](#inzichten) <br>
 * [Over een urineweginfectie](#over-een-urineweginfectie)
 * [Hebben zowel mannen als vrouwen last van dit probleem?](#Hebben-zowel-mannen-als-vrouwen-last-van-dit-probleem)
-* Waarom is dit probleem van invloed op je relatie?(#Waarom-is-dit-van-invloed-op-je-relatie)
+* Waarom is dit probleem van invloed op de kwaliteit van je leven?(#Waarom-is-dit-probleem-van-invloed-op-de-kwaliteit-van-je-leven)
+* Komt een urineweginfectie dan alleen door seks?(#Komt-een-urineweginfectie-dan-alleen-door-seks)
 * Hoe kom je aan ongewenste bacteriën?(#Hoe-kom-je-aan-ongewenste-bacteriën)
 * Zijn er bepaalde risicofactoren?(#Zijn-er-bepaalde-risicofactoren)
 
@@ -65,9 +66,11 @@ Vrouwen hebben nou eenmaal vaak last van een blaasontsteking. Bij vrouwen boven 
 
 * Circa 20% van de vrouwen heeft hier jaarlijks mee te maken!
 
-### Waarom is dit probleem van invloed op je relatie? 
+### Waarom is dit probleem van invloed op de kwaliteit van het leven? 
 De grootste risicofactor voor het krijgen van een blaasontsteking is seks. Uit recentelijk onderzoek is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. 
+
 Wat uiteindelijk van invloed is op de kwaliteit van het leven van jou en je partner. 
+
 ### Komt een urineweginfectie dan alleen door seks?
 Nee. natuurlijk zijn er meerdere oorzaken voor een urineweginfectie. 
 
