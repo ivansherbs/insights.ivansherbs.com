@@ -49,7 +49,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Toevoegen aan winkelwagen](#Toevoegen-aan-winkelwagen)
 
 # Inzichten
-### Over urineweginfectie
+### Over een urineweginfectie
 
 Een urineweginfectie is een verzamelnaam voor zowel een blaasontsteking als een nierbekkenontsteking. Bij een infectie wordt het slijmvlies aan de binnenkant van de urinewegen geïnfecteerd.
 
