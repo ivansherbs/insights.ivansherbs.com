@@ -46,7 +46,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 [**Tot slot**](#Tot-slot)
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
 * [Bereidingswijze](#bereidingswijze)
-* [Toevoegen aan winkelwagen](#Toevoegen-aan-winkelwagen)
+* [Waar te koop](#Waar-te-koop)
 
 # Inzichten
 ### Over een urineweginfectie
@@ -124,6 +124,8 @@ De voordelen zijn als volgt:
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
 
 ### Tegen 17 problemen
+_”Het voorkomen van problemen draagt niet alleen bij aan de gezondheid... het bespaart ook een hoop tijd, moeite en energie”_ 
+
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -237,6 +239,6 @@ Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven t
 
 Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
-### Toevoegen aan winkelwagen
+### Waar te koop
 
 
