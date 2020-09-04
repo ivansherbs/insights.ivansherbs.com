@@ -66,7 +66,7 @@ De voorspelbaarheid is afhankelijk van de volgende factoren.
 
 Hiernaast kan buikgriep ook worden veroorzaakt door het radicaal veranderen van je dieet.
 
-Nu we weten wat de voorspeller zijn van buikgriep, laten we het probleem beter leren begrijpen. En dit problemen opdelen in maag-, en darmklachten. 
+Nu we weten wat de voorspellers zijn van buikgriep, laten we het probleem beter leren begrijpen. En dit problemen opdelen in maag-, en darmklachten. 
 
 ### Wat zijn maagklachten?
 We spreken van maagklachten wanneer alleen het maagslijmvlies is ontstoken. Dit noemen we in medische termen Gastritis. De symptomen variëren van misselijkheid, pijn in de maagstreek, tot een opgeblazen gevoel in combinatie met hoofdpijn.
