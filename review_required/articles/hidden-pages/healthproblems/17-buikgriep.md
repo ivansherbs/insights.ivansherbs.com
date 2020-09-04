@@ -119,7 +119,9 @@ Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen 
 
 Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. Of die veranderingen in hun dieet ondergaan. 
 
-Oók kan een maagzweer worden behandelt met Ivan Chai
+Oók kan een maagzweer worden behandelt met Ivan Chai. 
+
+Tot slot, voor de reizigres onder ons. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai
 
 Tip
 > Darmklachten veroorzaakt door farmaceutische medicijnen worden voornamelijk bestreden met behulp van antibiotica uit de farmaceutische industrie. Deze medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. Natuurlijke behandelingen zoals Ivan Chai kunnen óók als aanvulling dienen op deze medicijnen om bijvoorbeeld de weerstand te versterken. 
