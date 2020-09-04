@@ -17,9 +17,9 @@ Deze Siberische kruidenthee kan hiernaast ook spijsverteringsonevenwichtigheden 
 # Een voorspelbaar probleem 
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-Het kan je overal overkomen. En vaak wordt gedacht dat het onverwachts komt opzetten. 
+Wist je dat je het krijgen van buikgriep vaak kunt voorspellen? 
 
-Goed om te weten, is dat je het oplopen van buikgriep vaak kunt voorspellen. Door logisch na te denken. Je kunt het hierdoor preventief behandelen met een eenvoudige natuurlijke behandeling. Hiermee verklein je de kans dat je met dit probleem rondloopt. 
+Door logisch na te denken wat voor periode er voor de boeg staat. Kun je het preventief behandelen met een eenvoudige natuurlijke behandeling. Hiermee verklein je de kans dat je met dit probleem rondloopt. 
 
 Benieuwd naar de voorspelbaarheid van buikgriep waardoor je het preventief kunt behandelen? 
 
