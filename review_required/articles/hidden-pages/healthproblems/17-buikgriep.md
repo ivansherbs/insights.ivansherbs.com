@@ -90,13 +90,13 @@ Ja. Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darm
 
 De meest voorkomende ontstekingen zijn virale- of bacteriële-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door bijvoorbeeld te lang stil zitten.
 
-Eenmaal last van darmklachten. Let hierbij altijd op dat je niet uitdroogt, vooral als diarreeklachten samengaan met overgeven en koorts. Je kunt uitdroging voorkomen door vaak kleine beetjes water te drinken. 
+**Eenmaal last van darmklachten.** Let hierbij altijd op dat je niet uitdroogt, vooral als diarreeklachten samengaan met overgeven en koorts. Je kunt uitdroging voorkomen door vaak kleine beetjes water te drinken. 
 
 Of voorkom de uitdroging door het drinken van Ivan Chai. En profiteer van de 7 voordelen. 
 
 > Verzorg je lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een buikgriep te verminderen.
 
-Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van buikgriep, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van ernstige buikgriep, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Ivan Chai bevat meerdere voordelen die niet alleen het spijsverteringsstelsel verzorgen. Ontdek de 7 voordelen van Ivan Chai.
 
