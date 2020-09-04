@@ -23,7 +23,7 @@ Door logisch na te denken wat voor periode er voor de boeg staat. Kun je het pre
 
 Benieuwd naar de voorspelbaarheid van buikgriep waardoor je het preventief kunt behandelen? 
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over buikgriep. En een eenvoudige natuurlijke behandeling.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over buikgriep. En een eenvoudige natuurlijke behandeling.
 
 ## Inhoud van dit artikel
 
