@@ -10,7 +10,7 @@ publish:
 
 Ivan Chai vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm. 
 
-Hiernaast dient het om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom (PDS). Of die veranderingen ondergaan in hun dieet. 
+Deze Siberische kruidenthee kan hiernaast ook spijsverteringsonevenwichtigheden stabiliseren. Met name voor mensen met een prikkelbaar darmsyndroom (PDS). Of die veranderingen ondergaan in hun dieet. 
 
 > Volgens de statistieken is 75% van de PDS patiënten vrouw. 
 
