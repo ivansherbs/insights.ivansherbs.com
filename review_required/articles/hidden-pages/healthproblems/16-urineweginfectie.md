@@ -90,7 +90,7 @@ Nu we dit weten…
 
 Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een urineweginfectie, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Ivan Chai bevat meerdere voordelen die niet alleen de gezondheid van de prostaat verzorgen. Ontdek de 7 voordelen van Ivan Chai.
+Ivan Chai bevat meerdere voordelen die niet alleen de gezondheid van de urinewegen verzorgen. Ontdek de 7 voordelen van Ivan Chai.
 
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
