@@ -135,13 +135,13 @@ _"Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te
 
 De voordelen zijn als volgt:
 
-> 1 - Versterkt de weerstand <br>
-> 2 - Krachtige ontstekingsremmer <br>
-> 3 - Versterkt de antioxiderede werking <br>
-> 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op stress, angst en een burnout <br>
-> 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
-> 7 - Verzorgt het spijsverteringsstelsel
+> 1. Versterkt de weerstand <br>
+> 2. Krachtige ontstekingsremmer <br>
+> 3. Versterkt de antioxiderede werking <br>
+> 4. Verbetert de nachtrust <br>
+> 5. Vermindert de kans op stress, angst en een burnout <br>
+> 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
+> 7. Verzorgt het spijsverteringsstelsel
 
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
 
