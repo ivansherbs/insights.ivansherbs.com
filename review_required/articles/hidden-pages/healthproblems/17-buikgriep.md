@@ -19,10 +19,9 @@ _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Het kan je overal overkomen. En vaak wordt gedacht dat het onverwachts komt opzetten. 
 
-Het fijne is dat je het oplopen van buikgriep vaak kunt voorspellen. 
-Door logisch na te denken. 
+Het fijne is dat je het oplopen van buikgriep vaak kunt voorspellen. Door logisch na te denken. 
 
-Waardoor je het preventief kunt behandelen. Met een eenvoudige natuurlijke behandeling. Hiermee verklein je de kans dat je met buikgriep rondloopt. 
+Je kunt het hierdoor preventief behandelen met een eenvoudige natuurlijke behandeling. Hiermee verklein je de kans dat je met buikgriep rondloopt. 
 
 Benieuwd naar de voorspelbaarheid van buikgriep waardoor je het preventief kunt behandelen? 
 
@@ -70,18 +69,23 @@ De voorspelbaarheid is afhankelijk van de volgende factoren.
 Hiernaast kan buikgriep ook worden veroorzaakt door het radicaal veranderen van je dieet.
 
 Nu we weten wat de voorspeller zijn van buikgriep, laten we het probleem beter leren begrijpen. En dit problemen opdelen in maag-, en darmklachten. 
+
 ### Wat zijn maagklachten?
 We spreken van maagklachten wanneer alleen het maagslijmvlies is ontstoken. Dit noemen we in medische termen Gastritis. De symptomen variëren van misselijkheid, pijn in de maagstreek, tot een opgeblazen gevoel in combinatie met hoofdpijn.
+
 ### Komt dit probleem veel voor? 
 Van alle Nederlanders heeft 1 op de 4 mensen wel eens last van de maag. Naast Gastritis zijn er ook klachten die bekend staan als functionele maagklachten. 
 Voorbeelden van functionele maagklachten zijn een maagzweer, last van brandend maagzuur of een ontstoken maagwand.
+
 ### Wat zijn darmklachten?
 De darmen hebben zo nu en dan ook te kampen met ontstekingen maar dan gericht op het slijmvlies. Dit noemen we in medische termen colitis. 
 Bij symptomen moet je met name denken aan borrelende darmen, misselijkheid, diarree en koorts, weinig eetlust, duizeligheid, hoofdpijn en anale jeuk. 
 De meest voorkomende vorm van darmklachten is het prikkelbare darm syndroom: 
 > 75% van de patiënten is vrouw.
+
 Onderzoek heeft aangetoond dat stress, een gebrek aan vezels, vocht, beweging of een onregelmatig leven behoren tot de oorzaken die leiden tot darmklachten. 
-> Je kunt last hebben van verschillende soorten diarree; acute-, langdurige- en reizigersdiarree. 
+
+> Er zijn verschillende soorten diarree; acute-, langdurige- en reizigersdiarree. 
 
 ### Is er ook wel eens sprake van chronische darmklachten? 
 Ja. Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand. In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis'. 
