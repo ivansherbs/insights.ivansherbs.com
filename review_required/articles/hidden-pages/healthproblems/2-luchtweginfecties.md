@@ -19,7 +19,9 @@ Iedereen heeft wel eens last van een verkoudheid of griep. En iedereen weet het.
 Wist je dat... <br> 
 je extra kwetsbaar bent voor deze problemen wanneer je  farmaceutische medicijnen gebruikt. Denk hierbij aan antibiotica, anticonceptiepil of maagzuurremmers. 
 
-Hiernaast uiteraard wanneer je een ongezonde levensstijl hebt. Of tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
+Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. 
+
+Hiernaast loop je een verkoudheid of griep op door de bekende oorzaken. Zoals wanneer je een ongezonde levensstijl hebt. Of tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
 
 Drink Ivan Chai preventief tegen of ter behandeling tijdens deze veelvoorkomende luchtweginfecties. 
 Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste bacteriën.
