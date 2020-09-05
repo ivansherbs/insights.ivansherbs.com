@@ -19,9 +19,9 @@ Dit zijn de bevindingen uit grootschalig Europees onderzoek. Het heeft zelfs zov
 
 Het is dus niet alleen jouw probleem, maar ook die van je partner. 
 
-Laten we deze bevindingen kort uitleggen. 
+Benieuwd naar de bevindingen? 
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een urineweginfectie. En een eenvoudige natuurlijke behandeling.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een urineweginfectie. En een eenvoudige natuurlijke behandeling.
 
 ## Inhoud van dit artikel
 
