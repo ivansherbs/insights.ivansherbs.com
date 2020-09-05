@@ -26,7 +26,7 @@ Hiernaast loop je een verkoudheid of griep op door de bekende oorzaken. Zoals wa
 Drink Ivan Chai preventief tegen of ter behandeling tijdens deze veelvoorkomende luchtweginfecties. 
 Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste bacteriën.
 
-Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. Mocht je onverhoopt te maken krijgen met terugkerende luchtweginfecties, dan is onderzoek doen naar zware farmaceutisch medicijnen - met ongewenste bijwerkingen - de volgende stap.
+Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. Mocht je onverhoopt te maken krijgen met terugkerende luchtweginfecties, dan is onderzoek doen naar farmaceutisch medicijnen - met ongewenste bijwerkingen - de volgende stap.
 
 > Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent een verkoudheid en griep te verzorgen.
 
