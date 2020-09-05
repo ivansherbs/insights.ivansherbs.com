@@ -14,13 +14,11 @@ Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën ver
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
 ### Hoe voorkom je op eenvoudige wijze verkoudheid of griep?
-Iedereen heeft wel eens last van een verkoudheid of griep. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan. 
+Iedereen heeft wel eens last van een verkoudheid of griep. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan. Zo zijn er de bekende, maar ook onbekende oorzaken voor vatbaarheid.
 
-Wist je dat... <br> 
+Wist je dat... 
 
-...nou komt het... 
-
-je extra kwetsbaar bent voor deze problemen wanneer je  farmaceutische medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers?
+je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers?
 
 Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. 
 
