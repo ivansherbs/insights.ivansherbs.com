@@ -22,7 +22,7 @@ Zoals het minder goed werken van je spijsvertering door ouderdom. Je lichaam kan
 
 Het kan zijn dat je gedwongen farmaceutische medicijnen moet gebruiken met ongewenste bijwerkingen. Die weer van invloed zijn op de kwetsbaarheid van je lichaam. 
 
-Gelukkig zijn er eenvoudige alledaagse producten beschikbaar die je kwetsbaarheid beschermen.
+Gelukkig zijn er eenvoudige alledaagse producten beschikbaar die je minder kwetsbaar maken.
 
 Drink Ivan Chai preventief tegen een zwak immuunsysteem. Of om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
 
@@ -34,7 +34,7 @@ Benieuwd naar het voorkomen van een kwetsbaar immuunsysteem?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. 
  
- ## Inhoud van dit artikel
+## Inhoud van dit artikel
 
 [**Inzichten**](#inzichten) <br>
 * [Over een zwak immuunsysteem](#over-een-zwak-immuunsysteem)
