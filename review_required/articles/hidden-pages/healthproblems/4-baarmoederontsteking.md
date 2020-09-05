@@ -40,7 +40,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 ## Inhoud van dit artikel
 
-[**Baarmoederontsteking**](#baarmoederontsteking)
+[**Inzichten**](#baarmoederontsteking)
 * [Over een baarmoederontsteking?](#over-een-baarmoederontsteking)
 * [Welke symptomen duiden op een baarmoederontsteking?](#Welke-symptomen-duiden-op-een-baarmoederontsteking)
 * [Welke farmaceutische medicijnen behandelen een baarmoederontsteking?](#Welke-farmaceutische-medicijnen-behandelen-een-baarmoederontsteking)
