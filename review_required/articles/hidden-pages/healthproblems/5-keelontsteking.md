@@ -7,7 +7,7 @@ title: Keelontsteking: Wat te gebruiken wanneer antibiotica geen zin heeft?
 # Voordeel Ivan Chai
 > Krachtige ontstekingsremmer
 
-Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
+Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een keelontsteking.
 
@@ -107,7 +107,7 @@ De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzo
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
 De bevindingen zijn als volgt:
-> Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. 
+> Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. 
 
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
