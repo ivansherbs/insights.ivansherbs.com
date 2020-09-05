@@ -17,7 +17,10 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 Iedereen heeft wel eens last van een verkoudheid of griep. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan. 
 
 Wist je dat... <br> 
-je extra kwetsbaar bent voor deze problemen wanneer je  farmaceutische medicijnen gebruikt. Denk hierbij aan antibiotica, anticonceptiepil of maagzuurremmers. 
+
+...nou komt het... 
+
+je extra kwetsbaar bent voor deze problemen wanneer je  farmaceutische medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers?
 
 Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. 
 
