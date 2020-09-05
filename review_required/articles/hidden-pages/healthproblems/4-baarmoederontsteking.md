@@ -68,8 +68,8 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 Er zijn verschillende oorzaken waardoor je meest kwetsbare orgaan een ontsteking kan oplopen. Enkele voorbeelden:
 * **Een spiraaltje** - de afgelopen jaren is het gebruik van een spiraaltje sterk toegenomen. Meer dan 17% van de vrouwen heeft een spiraaltje. 
 * Een ontsteking die je kunt oplopen **ná een bevalling** 
-  - Hierbij moet je denken aan een deel van de placenta of vliezen die in je baarmoeder achterblijven. Dit weefsel kan onverhoopt voor een nare ontsteking zorgen.
-  - Of een ontsteking als gevolg van een keizersnede. Ongeveer 16% van de moeders hebben hun kind op de wereld gezet middels een keizersnede. 
+  - Hierbij moet je denken aan een deel van de **placenta of vliezen** die in je baarmoeder achterblijven. Dit weefsel kan onverhoopt voor een nare ontsteking zorgen.
+  - Of een ontsteking als gevolg van een **keizersnede**. Ongeveer 16% van de moeders hebben hun kind op de wereld gezet middels een keizersnede. 
   - Mocht je onverhoopt een **curettage** ondergaan vanwege onderzoek, dan heb je een verhoogde kans op een baarmoederontsteking. 
 
 ### Welke symptomen duiden op een baarmoederontsteking?
