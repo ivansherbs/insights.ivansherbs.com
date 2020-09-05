@@ -16,7 +16,9 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 # Beperk de mate van kwetsbaarheid
 ...door het versterken van je immuunsysteem.
 
-Je bent niet altijd gezegend met een goed afweersysteem. Sommige oorzaken zijn te voorzien zoals een tekort aan vitamine. Maar er zijn ook oorzaken waar we ons lastig tegen kunnen verweren. Het minder goed werken van je spijsvertering door ouderdom. Je lichaam kan voedingsstoffen niet voor altijd goed blijven opnemen. Of op jongere leeftijd kan een ernstige ziekte je dagelijkse leven blijvend beïnvloeden. Met nieuwe leefgewoontes tot gevolg. 
+Je bent niet altijd gezegend met een goed afweersysteem. Sommige oorzaken zijn te voorzien zoals een tekort aan vitamine. Maar er zijn ook oorzaken waar we ons lastig tegen kunnen verweren. 
+
+Zoals het minder goed werken van je spijsvertering door ouderdom. Je lichaam kan voedingsstoffen niet voor altijd goed blijven opnemen. Of op jongere leeftijd kan een ernstige ziekte je dagelijkse leven blijvend beïnvloeden. Met nieuwe leefgewoontes tot gevolg. 
 
 Het kan zijn dat je gedwongen farmaceutische medicijnen moet gebruiken met ongewenste bijwerkingen. Die weer van invloed zijn op de kwetsbaarheid van je lichaam. 
 
