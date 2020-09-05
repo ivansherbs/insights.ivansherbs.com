@@ -37,7 +37,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
  ## Inhoud van dit artikel
 
 [**Inzichten**](#inzichten) <br>
-* [Over een zwak immuunsysteem](#over-een-zwak-imuunsysteem)
+* [Over een zwak immuunsysteem](#over-een-zwak-immuunsysteem)
 * [Wanneer spreek je van een zwak immuunsysteem?](#Wanneer-spreek-je-van-een-zwak-immuunsysteem)
 * [Wanneer krijg je last van een zwak immuunsysteem?](#Wanneer-krijg-je-last-van-een-zwak-immuunsysteem)
 * [Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-een-zwak-immuunsysteem)
