@@ -21,7 +21,7 @@ Het kan voorkomen dat je nét iets te vaak én intensief je spieren hebt belasts
 
 We hebben het in dit artikel over je pezen. 
 
-Pezen mogen het vuile werk op zich mogen nemen wanneer jij lekker aan het sporten bent geslagen. Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te voorduren. Ze moeten de spieren immers vasthouden aan het bot. Hierdoor kunnen ook zij geïrriteerd raken.
+Pezen mogen het vuile werk op zich mogen nemen wanneer jij lekker aan het sporten bent geslagen. Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te voorduren. Ze moeten de spieren immers vasthouden aan het bot. Hierdoor kunnen zij ook geïrriteerd raken.
 
 Wanneer dit gebeurt zenden zij een signaal. Dit ervaar jij als pijn. Deze pijn kan je langdurig beperken in je dagelijkse bezigheden. Vervolgens moet je rust nemen om hiervan te herstellen. Dit kost jammer genoeg tijd. 
 
