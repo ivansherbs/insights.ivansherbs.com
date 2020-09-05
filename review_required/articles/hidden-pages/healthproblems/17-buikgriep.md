@@ -144,7 +144,7 @@ De voordelen zijn als volgt:
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
 
 ### Tegen 17 problemen
-_”Het voorkomen van problemen draagt niet alleen bij aan de gezondheid... het bespaart ook een hoop tijd, moeite en energie”_
+_”Het voorkomen van problemen draagt niet alleen bij aan de gezondheid... het bespaart ook een hoop moeite en energie”_
 
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
