@@ -8,9 +8,7 @@ publish:
 # Voordeel Ivan Chai
 > Ivan Chai verzorgt het spijsverteringsstelsel
 
-Ivan Chai vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm. 
-
-Deze Siberische kruidenthee kan hiernaast ook spijsverteringsonevenwichtigheden stabiliseren. Met name voor mensen met een prikkelbaar darmsyndroom (PDS). Of die veranderingen ondergaan in hun dieet. 
+Ivan Chai vermindert de kans op **maag- en darmklachten**. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm. Deze Siberische kruidenthee kan hiernaast ook **spijsverteringsonevenwichtigheden stabiliseren**. Met name voor mensen met een **prikkelbaar darmsyndroom (PDS)**. Of die veranderingen ondergaan in hun dieet. 
 
 > Volgens de statistieken is 75% van de PDS patiënten vrouw. 
 
