@@ -16,7 +16,10 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 ### Hoe voorkom je op eenvoudige wijze verkoudheid of griep?
 Iedereen heeft wel eens last van een verkoudheid of griep. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan. 
 
-**Wist je dat** je bent er extra kwetsbaar voor wanneer je een farmaceutische medicijnen gebruikt - zoals antibiotica, anticonceptiepil of maagzuurremmers. Je een ongezonde levensstijl hebt. Of tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
+Wist je dat... <br> 
+je extra kwetsbaar bent voor deze problemen wanneer je  farmaceutische medicijnen gebruikt. Denk hierbij aan antibiotica, anticonceptiepil of maagzuurremmers. 
+
+Hiernaast uiteraard wanneer je een ongezonde levensstijl hebt. Of tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
 
 Drink Ivan Chai preventief tegen of ter behandeling tijdens deze veelvoorkomende luchtweginfecties. 
 Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste bacteriën.
