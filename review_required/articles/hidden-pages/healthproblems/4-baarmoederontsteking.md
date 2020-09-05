@@ -13,7 +13,7 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 
 # Preventieve bescherming van je meest kwetsbare orgaan
 
-Oók je meest kwetsbare orgaan kan een ontsteking oplopen. En hiermee bedoelen we uiteraard je baarmoeder. Zonder baarmoeder, géén kinderen. Nog een reden om deze goed te verzorgen! 
+Oók je meest kwetsbare orgaan kan een ontsteking oplopen. En hiermee bedoelen we uiteraard je baarmoeder. Zonder baarmoeder, géén kinderen. Nog een reden om deze goed te verzorgen! Want bij een heftige en terugkerende baarmoederontsteking, kun je onvruchtbaar worden. 
 
 Uiteraard wil niet iedere vrouw direct aan de kinderen. Heel begrijpelijk. En gebruikt hiervoor in sommige gevallen een spiraaltje. 
 
@@ -66,8 +66,11 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 ### Over een baarmoederontsteking
 
 Er zijn verschillende oorzaken waardoor je meest kwetsbare orgaan een ontsteking kan oplopen. Enkele voorbeelden:
-* **Een spiraaltje** - de afgelopen jaren is het gebruik van een spiraaltje sterk toegenomen. En dat van de anticonceptiepil sterk gedaal
-* Een ontsteking die je kunt oplopen na **een bevalling** - denk aan een deel van de placenta of vliezen die in je baarmoeder achterblijven. Dit weefsel kan onverhoopt voor een nare ontsteking zorgen.
+* **Een spiraaltje** - de afgelopen jaren is het gebruik van een spiraaltje sterk toegenomen. Meer dan 17% van de vrouwen heeft een spiraaltje. 
+* Een ontsteking die je kunt oplopen **ná een bevalling** 
+  - Hierbij moet je denken aan een deel van de placenta of vliezen die in je baarmoeder achterblijven. Dit weefsel kan onverhoopt voor een nare ontsteking zorgen.
+  - Of een ontsteking als gevolg van een keizersnede. Ongeveer 16% van de moeders hebben hun kind op de wereld gezet middels een keizersnede. 
+  - Mocht je onverhoopt een **curettage** ondergaan vanwege onderzoek, dan heb je een verhoogde kans op een baarmoederontsteking. 
 
 ### Welke symptomen duiden op een baarmoederontsteking?
 Er zijn verschillende symptomen die wijzen op een baarmoederontsteking:
