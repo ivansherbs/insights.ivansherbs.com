@@ -81,7 +81,7 @@ De meest voorkomende vorm van darmklachten is het prikkelbare darm syndroom:
 
 Onderzoek heeft aangetoond dat stress, een gebrek aan vezels, vocht, beweging of een onregelmatig leven behoren tot de oorzaken die leiden tot darmklachten. 
 
-> Er zijn verschillende soorten diarree; acute-, langdurige- en reizigersdiarree. 
+> Er zijn verschillende soorten diarree, namelijk acute-, langdurige- en reizigersdiarree. 
 
 ### Is er ook wel eens sprake van chronische darmklachten? 
 Ja. Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand. In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis'. 
