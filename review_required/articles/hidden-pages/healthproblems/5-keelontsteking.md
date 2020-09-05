@@ -14,23 +14,29 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 # Wat te gebruiken wanneer antibiotica geen zin heeft?
 We zijn allemaal wel eens opgestaan met een pijnlijke keel. Het lijkt erop dat je een keelontsteking hebt. 
 
-Je herkent de symptomen. 
+Slikken gaat lastig. En het doet zelfs een beetje pijn. 
 
-Slikken gaat lastig. En het doet zelfs een beetje pijn. Oók moet je vaak hoesten. 
+Oók moet je vaak hoesten. 
 
-Die vervelende kriebel in je keel heeft je de halve nacht wakker gehouden. En waarschijnlijk heb je nu ook nog eens last van een beetje koorts. 
+En die vervelende kriebel in je keel heeft je de halve nacht wakker gehouden. En nu heb je ook nog eens last van een beetje koorts. 
 
-Vermoeid sta je op en kijk je in de spiegel.  
+De wekker gaat. 
 
-Inderdaad. Je realiseert je dat je een keelontsteking hebt opgelopen. 
+Vermoeid sta je op en kijk je in de spiegel. 
+
+Vreselijk. Je ziet er niet uit. Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt met de seconde alsmaar erger. Vermoeit denk je nog maar een keer na over de symptomen. 
+
+...en inderdaad. 
+
+Je realiseert je dat je wel een keelontsteking moet hebben opgelopen.
 
 Maar nu komt het...
 
-Het fijne is dat deze symptomen nooit meer ernstig hoeven zijn! 
+Het fijne is dat deze symptomen nooit meer zo ernstig hoeven zijn! 
 
-_...maar hoe?_
+_...maar hoe dan?_
 
-Door gebruik te maken van eenvoudige natuurlijke behandelingen. Zo zorg je ervoor dat ontstekingen effectief worden voorkomen. Of onderdrukt. 
+Door gebruik te maken van eenvoudige natuurlijke behandelingen. Denk aan Ivan Chai. Een Siberische kruidenthee. Zo zorg je ervoor dat ontstekingen effectief worden voorkomen. Of onderdrukt. 
 
 > Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En we garanderen je dat je beter in staat bent een keelontsteking te verzorgen.
 
