@@ -17,7 +17,7 @@ Een urineweginfectie is van invloed op je relatie! Uiteraard niet op een positie
 
 Dit zijn de bevindingen uit grootschalig Europees onderzoek. Het heeft zelfs zoveel impact, dat dit probleem zelfs van invloed is op de kwaliteit van je leven. 
 
-Niet alleen de jouwe, maar ook die van je partner. 
+Het is dus niet alleen jouw probleem, maar ook die van je partner. 
 
 Laten we deze bevindingen kort uitleggen. 
 
