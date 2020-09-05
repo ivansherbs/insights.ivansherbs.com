@@ -23,7 +23,7 @@ Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste 
 
 > Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. Mocht je onverhoopt te maken krijgen met terugkerende luchtweginfecties, dan is onderzoek doen naar zware farmaceutisch medicijnen - met ongewenste bijwerkingen - de volgende stap.
 
-Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een verkoudheid en griep te verzorgen.
+Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent een verkoudheid en griep te verzorgen.
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling.
 
