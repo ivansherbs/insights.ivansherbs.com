@@ -62,12 +62,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 
 # Inzichten
-###Over een keelontsteking
-
-Laten we bij het begin beginnen. En een keelontsteking eens even goed onder de loep nemen. We beginnen met de volgende vraag. Om misverstanden te voorkomen. 
-
-_Wanneer spreken we van een keelontsteking?_
-
+### Over een keelontsteking
 Je spreekt van een keelontsteking wanneer de wand van je keel is ontstoken. Hierbij kunnen we onderscheid maken tussen een acute of chronische keelontsteking. Een acute keelontsteking ontstaat plotseling. En duurt meestal een week of twee. Een chronische keelontsteking houdt voor langere tijd aan. Of komt steeds weer terug. 
 
 ### Waardoor krijg je een keelontsteking?
