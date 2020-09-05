@@ -122,9 +122,9 @@ Oók kan een maagzweer worden behandelt met Ivan Chai.
 Tot slot, voor de reizigres onder ons. Darmparasieten kunnen zelfs geëlimineerd worden door een afkooksel te drinken met grote hoeveelheden Ivan Chai
 
 Tip
-> Darmklachten veroorzaakt door farmaceutische medicijnen worden voornamelijk bestreden met behulp van antibiotica uit de farmaceutische industrie. Deze medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. Natuurlijke behandelingen zoals Ivan Chai kunnen óók als aanvulling dienen op deze medicijnen om bijvoorbeeld de weerstand te versterken. 
+> Darmklachten veroorzaakt door farmaceutische medicijnen, worden voornamelijk bestreden met behulp van antibiotica uit de farmaceutische industrie. Deze medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. Natuurlijke behandelingen zoals Ivan Chai kunnen óók als aanvulling dienen op deze medicijnen, om bijvoorbeeld de weerstand te versterken. 
 
-Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
+Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeu.wen genuttigd vanwege de geneeskrachtige werking.
 
 Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
 
