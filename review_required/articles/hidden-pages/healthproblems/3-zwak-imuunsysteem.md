@@ -26,13 +26,13 @@ Gelukkig zijn er eenvoudige alledaagse producten beschikbaar die je kwetsbaarhei
 
 Drink Ivan Chai preventief tegen een zwak immuunsysteem. Of om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
 
-Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een met een zwak immuunsysteem rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
-
 > Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En we garanderen je dat je beter in staat bent een zwak immuunsysteem te verzorgen.
+
+Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een met een zwak immuunsysteem rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Benieuwd naar het voorkomen van een kwetsbaar immuunsysteem? 
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. 
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. 
  
  ## Inhoud van dit artikel
 
