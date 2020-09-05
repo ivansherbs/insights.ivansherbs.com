@@ -70,7 +70,7 @@ Er zijn verschillende oorzaken waardoor je meest kwetsbare orgaan een ontsteking
 * Een ontsteking die je kunt oplopen **ná een bevalling** 
   - Hierbij moet je denken aan een deel van de **placenta of vliezen** die in je baarmoeder achterblijven. Dit weefsel kan onverhoopt voor een nare ontsteking zorgen.
   - Of een ontsteking als gevolg van een **keizersnede**. Ongeveer 16% van de moeders hebben hun kind op de wereld gezet middels een keizersnede. 
-  - Mocht je onverhoopt een **curettage** ondergaan vanwege onderzoek, dan heb je een verhoogde kans op een baarmoederontsteking. 
+* Mocht je onverhoopt een **curettage** ondergaan vanwege onderzoek, dan heb je een verhoogde kans op een baarmoederontsteking. 
 
 ### Welke symptomen duiden op een baarmoederontsteking?
 Er zijn verschillende symptomen die wijzen op een baarmoederontsteking:
