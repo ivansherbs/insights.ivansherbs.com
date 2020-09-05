@@ -25,7 +25,7 @@ Uiteraard willen we om je orgaan te beschermen, gebruik maken van een eenvoudig 
 
 Wanneer eenmaal het moment is gekomen om kinderen te krijgen, hopelijk baarmoederontsteking vrij, is de periode ná de bevalling tevens een moment waarbij je baarmoeder extra kwetsbaar is voor ontstekingen. Hoe dit komt lees je verderop in het artikel. 
 
-Mocht je overhoopt een ontsteking oplopen. Want er zijn uiteraard meerdere factoren die een risico kunnen spelen. Dan zal een arts  je farmaceutische medicijnen meegeven om dit probleem te bestrijden. Deze hebben ongewenste bijwerkingen. En zijn gezien de kwetsbaarheid van je orgaan vrij heftig. En bijna niet te voorkomen!
+Mocht je overhoopt een ontsteking oplopen. Want er zijn uiteraard meerdere factoren die een risico kunnen spelen. Dan zal een arts  je farmaceutische medicijnen meegeven om dit probleem te bestrijden. Deze hebben ongewenste bijwerkingen. En zijn gezien de kwetsbaarheid van je orgaan vrij heftig.
 
 Goed om te weten! <br> 
 Drink Ivan Chai niet alleen preventief tegen een baarmoederontsteking. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
