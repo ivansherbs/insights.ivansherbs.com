@@ -18,19 +18,19 @@ Slikken gaat lastig. En het doet zelfs een beetje pijn.
 
 Oók moet je vaak hoesten. 
 
-En die vervelende kriebel in je keel heeft je de halve nacht wakker gehouden. En nu heb je ook nog eens last van een beetje koorts. 
+En die vervelende kriebel in je keel heeft je de halve nacht wakker gehouden. 
 
-De wekker gaat. 
+En nu heb je ook nog eens last van een beetje koorts. 
 
-Vermoeid sta je op en kijk je in de spiegel. 
+De wekker gaat. Vermoeid sta je op en kijk je in de spiegel. 
 
-Vreselijk. Je ziet er niet uit. Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt met de seconde alsmaar erger. Vermoeit denk je nog maar een keer na over de symptomen. 
+Vreselijk. Je ziet er niet uit. 
+
+Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt met de seconde alsmaar erger. Vermoeit denk je nog maar een keer na over de symptomen. 
 
 ...en inderdaad. 
 
-Je realiseert je dat je wel een keelontsteking moet hebben opgelopen.
-
-Maar nu komt het...
+Je realiseert je dat je wel een keelontsteking moet hebben opgelopen. Maar nu komt het...
 
 Het fijne is dat deze symptomen nooit meer zo ernstig hoeven zijn! 
 
