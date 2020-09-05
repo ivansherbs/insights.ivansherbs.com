@@ -19,7 +19,8 @@ Slikken gaat lastig. En het doet zelfs een beetje pijn. Oók moet je vaak hoeste
 Inderdaad. Je realiseert je dat je een keelontsteking hebt opgelopen. 
 
 Maar nu komt het...
-Het fijne is dat deze symptomen hoeven nooit ernstig hoeven zijn! 
+
+Het fijne is dat deze symptomen nooit meer ernstig hoeven zijn! 
 
 _...maar hoe?_
 
