@@ -9,34 +9,36 @@ title: Peesontsteking: Een veel voorkomende sportblessure
 
 Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 
-Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een peesontsteking.
+Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te voorkomen, zoals een peesontsteking.
 
 # Een veel voorkomende sportblessure
 
-We houden er allemaal van om lekker te kunnen sporten! Het is goed voor de gezondheid van je lichaam én voor je gemoedstoestand. 
+We houden er allemaal van om lekker te kunnen sporten! Het is goed voor de gezondheid van je lichaam én je gemoedstoestand. Zo komen er stoffen vrij waar je gelukkiger van wordt. 
 
 Méér dan de helft van de Nederlanders sport wekelijks. 
 
-Het kan voorkomen dat je nét iets te vaak én intensief je spieren hebt belasts. Dit kan nare gevolgen hebben voor je lichaam. Ook voor delen van het lichaam waar je niet zo snel aan denkt. 
+Echter kan het voorkomen dat je nét iets te vaak én intensief je spieren hebt belasts. Dit kan nare gevolgen hebben voor je lichaam. Ook voor delen van het lichaam waar je niet zo snel aan denkt. 
 
 We hebben het in dit artikel over je pezen. 
 
-Pezen mogen het vuile werk op zich mogen nemen wanneer jij lekker aan het sporten bent geslagen. Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te voorduren. Ze moeten de spieren immers vasthouden aan het bot. Hierdoor kunnen zij ook geïrriteerd raken.
+Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent geslagen. Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te voorduren. Zij hebben de taak de spieren vast te houden aan het bot. Wanneer een pees langdurig onder hevige druk komt te staan, kan die geïrriteerd raken. 
 
-Wanneer dit gebeurt zenden zij een signaal. Dit ervaar jij als pijn. Deze pijn kan je langdurig beperken in je dagelijkse bezigheden. Vervolgens moet je rust nemen om hiervan te herstellen. Dit kost jammer genoeg tijd. 
+Meestal gebeurt dit na verloop van tijd door herhaaldelijke overbelasting. Soms gebeurt dit acuut. Door bijvoorbeeld een verkeerde explosieve beweging. 
+
+Wanneer dit gebeurt zendt je pees een signaal. Dit ervaar jij als pijn. Deze pijn kan je langdurig beperken in je dagelijkse bezigheden. Je zult rust moeten nemen om hiervan te herstellen. En dit kost jammer genoeg tijd. 
 
 Met als gevolg dat je niet kunt sporten. En thuis op de bank zit. 
 
-Probeer voortaan een peesontsteking preventief te behandelen. Ontstekingen kan je voorkomen én onderdrukken. Op een eenvoudige natuurlijke manier. 
+Probeer voortaan een peesontsteking preventief te behandelen. Ontstekingen kan je voorkomen én onderdrukken. Met een zo eenvoudige én natuurlijke mogeljk product. 
 
 Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
 
 Goed om te weten! <br>
 Drink Ivan Chai niet alleen preventief tegen een peesontsteking. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
 
->Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En we garanderen je dat je beter in staat bent een peesontsteking te verzorgen. 
+> Graag willen we het volgende benadrukken. Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een peesontsteking te voorkomen. Of te verzorgen. 
 
-Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Wil je meer weten over een peesontsteking? en hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
 
