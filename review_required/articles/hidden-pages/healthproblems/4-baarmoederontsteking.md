@@ -30,7 +30,7 @@ Mocht je overhoopt een ontsteking oplopen. Want er zijn uiteraard meerdere facto
 Goed om te weten! <br> 
 Drink Ivan Chai niet alleen preventief tegen een baarmoederontsteking. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent een baarmoederontsteking te voorkomen. Of te verzorgen. 
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent een baarmoederontsteking te voorkomen. Of te verzorgen. 
 
 Mocht je toch onverhoopt een met een baarmoederontsteking rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de farmaceutische behandelmethode.
 
