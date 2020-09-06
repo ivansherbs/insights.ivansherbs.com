@@ -21,11 +21,11 @@ Waar vrouwen zich op dagelijkse basis minder bewust van zijn, is dat het rondlop
 
 Hoogtijd om extra maatregelen te treffen om ontstekingen preventief te behandelen. Het spiraaltje is immers een risicofactor geworden voor je meest kwetsbare orgaan!
 
-Uiteraard willen we om je orgaan te beschermen, gebruik maken van een eenvoudig en zo natuurlijk mogelijk product. Dit kan middels Ivan Chai. Een Siberische kruidenthee. 
+Je wil bij het beschermen van je baarmoeder gebruik maken van een eenvoudig én zo natuurlijk mogelijk product. Dit kan middels Ivan Chai. Een Siberische kruidenthee. 
 
-Wanneer eenmaal het moment is gekomen om kinderen te krijgen, hopelijk baarmoederontsteking vrij, is de periode ná de bevalling tevens een moment waarbij je baarmoeder extra kwetsbaar is voor ontstekingen. Hoe dit komt lees je verderop in het artikel. 
+Wanneer eenmaal het moment is gekomen om kinderen te krijgen, hopelijk baarmoederontsteking vrij, is de periode ná de bevalling tevens een moment waarbij je baarmoeder extra kwetsbaar is voor een ontsteking. Hoe dit komt lees je verderop in het artikel. 
 
-Mocht je overhoopt een ontsteking oplopen. Want er zijn uiteraard meerdere factoren die een risico kunnen spelen. Dan zal een arts  je farmaceutische medicijnen meegeven om dit probleem te bestrijden. Deze hebben ongewenste bijwerkingen. En zijn gezien de kwetsbaarheid van je orgaan vrij heftig.
+Mocht je overhoopt een ontsteking oplopen. Want er zijn uiteraard meerdere factoren die een risico kunnen spelen. Dan zal een deskundige je farmaceutische medicijnen meegeven om dit probleem te bestrijden. Deze hebben ongewenste bijwerkingen. En zijn gezien de kwetsbaarheid van je orgaan vrij heftig.
 
 Goed om te weten! <br> 
 Drink Ivan Chai niet alleen preventief tegen een baarmoederontsteking. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
@@ -70,7 +70,7 @@ Er zijn verschillende oorzaken waardoor je meest kwetsbare orgaan een ontsteking
 * Een ontsteking die je kunt oplopen **ná een bevalling** 
   - Hierbij moet je denken aan een deel van de **placenta of vliezen** die in je baarmoeder achterblijven. Dit weefsel kan onverhoopt voor een nare ontsteking zorgen.
   - Of een ontsteking als gevolg van een **keizersnede**. Ongeveer 16% van de moeders hebben hun kind op de wereld gezet middels een keizersnede. 
-* Mocht je onverhoopt een **curettage** ondergaan vanwege onderzoek, dan heb je een verhoogde kans op een baarmoederontsteking. 
+* Mocht je onverhoopt een **curettage** ondergaan vanwege onderzoek, dan heb je tevens een verhoogde kans op een baarmoederontsteking. 
 
 ### Welke symptomen duiden op een baarmoederontsteking?
 Er zijn verschillende symptomen die wijzen op een baarmoederontsteking:
