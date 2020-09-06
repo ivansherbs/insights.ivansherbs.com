@@ -9,7 +9,7 @@ title: Baarmoederontsteking: Preventieve bescherming van je meest kwetsbare orga
 
 Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 
-Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een baarmoederontsteking.
+Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verzorgen, zoals een baarmoederontsteking.
 
 # Preventieve bescherming van je meest kwetsbare orgaan
 
