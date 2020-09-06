@@ -32,9 +32,9 @@ Het is verstandig te proberen infecties preventief te behandelen. De meest eenvo
 
 Vergeet niet dat een infectie makkelijk kan terugkomen.
 
-> Verzorg dagelijkse lichaam en geest met kruidenthee uit Siberië. En we garanderen je dat je beter in staat bent infecties te verzorgen.
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent infecties te verzorgen.
 
-Neem het drinken van een kop Siberische kruidenthee op in je dagelijkse routine. Mocht je onverhoopt te maken krijgen met terugkerende infecties, dan is onderzoek doen naar zware farmaceutisch medicijnen - met ongewenste bijwerkingen - de volgende stap.
+Mocht je onverhoopt te maken krijgen met terugkerende infecties, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Ben jij benieuwd hoe je een infectie oploopt? 
 
