@@ -13,11 +13,11 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 
 # Een veel voorkomende sportblessure
 
-We houden er allemaal van om lekker te kunnen sporten! Het is goed voor de gezondheid van je lichaam én je gemoedstoestand. Zo komen er stoffen vrij waar je gelukkiger van wordt. 
+We houden er allemaal van om lekker te kunnen sporten! Het is goed voor de gezondheid van je lichaam én je gemoedstoestand. Zo komen er stoffen bij vrij waar je gelukkiger van wordt. 
 
 Méér dan de helft van de Nederlanders sport wekelijks. 
 
-Echter kan het voorkomen dat je nét iets te vaak én intensief je spieren hebt belasts. Dit kan nare gevolgen hebben voor je lichaam. Ook voor delen van het lichaam waar je niet zo snel aan denkt. 
+Echter kan het voorkomen dat je nét iets te vaak én intensief je spieren hebt belasts. Dit kan nare gevolgen hebben voor je lichaam. Ook voor onderdelen van het lichaam waar je niet zo snel aan denkt. 
 
 We hebben het in dit artikel over je pezen. 
 
@@ -27,9 +27,9 @@ Meestal gebeurt dit na verloop van tijd door herhaaldelijke overbelasting. Soms 
 
 Wanneer dit gebeurt zendt je pees een signaal. Dit ervaar jij als pijn. Deze pijn kan je langdurig beperken in je dagelijkse bezigheden. Je zult rust moeten nemen om hiervan te herstellen. En dit kost jammer genoeg tijd. 
 
-Met als gevolg dat je niet kunt sporten. En thuis op de bank zit. 
+Het gevolg van dit probleem is dat jij even niet kunt sporten. En thuis op de bank zit. 
 
-Probeer voortaan een peesontsteking preventief te behandelen. Ontstekingen kan je voorkomen én onderdrukken. Met een zo eenvoudige én natuurlijke mogeljk product. 
+Probeer voortaan een peesontsteking preventief te behandelen. Ontstekingen kan je voorkomen én onderdrukken. Met een zo eenvoudig én natuurlijk mogeljk product. 
 
 Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
 
