@@ -36,7 +36,7 @@ Vergeet niet dat een infectie makkelijk kan terugkomen.
 
 Mocht je onverhoopt te maken krijgen met terugkerende infecties, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Ben jij benieuwd hoe je een infectie oploopt? 
+_Ben jij benieuwd hoe je een infectie oploopt? _
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. En een eenvoudige natuurlijke behandeling.
 
