@@ -31,7 +31,7 @@ Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste 
 
 Mocht je toch onverhoopt een zwaardere vorm van een luchtweginfectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-_Eenvoudig een verkoudheid of griep voorkomen?_
+Eenvoudig een verkoudheid of griep voorkomen?
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling.
 
