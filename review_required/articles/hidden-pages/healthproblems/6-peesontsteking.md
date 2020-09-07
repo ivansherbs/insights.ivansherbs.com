@@ -40,7 +40,7 @@ Drink Ivan Chai niet alleen preventief tegen een peesontsteking. Maar ook om je 
 
 Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-_Wil je meer weten over een peesontsteking? en hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?_
+Wil je meer weten over een peesontsteking? en hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een peesontsteking. En een eenvoudige natuurlijke behandeling. 
 
