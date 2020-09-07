@@ -36,8 +36,8 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 
 ## Inhoud van dit artikel
 
-[**Inzichten**](#inzichten) <br>
-* [Hoeveel impact hebben hart-en vaatziekten in Nederland?](#Hoeveel-impact-hebben-hart-en-vaatziekten-in-Nederland)
+[**Inzichten**](#inzichten)<br>
+* [Over hart-en vaatziekten](#over-hart-en-vaatziekten)
 * [Waardoor krijg je een hart- en vaatziekten?](#Waardoor-krijg-je-een-hart-en-vaatziekten)
 
 [**Ivan Chai**](#ivan-chai)<br>
@@ -56,6 +56,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Waar te koop](#Waar-te-koop)
 
 # Inzichten
+### Over hart-en vaatziekten
 Laten we om een beter beeld te krijgen beginnen met een overzicht. We stellen ons voor het gemak de volgende vraag:
 
 _Hoeveel impact hebben hart-en vaatziekten in Nederland?_
