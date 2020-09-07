@@ -41,7 +41,7 @@ Drink Ivan Chai niet alleen preventief tegen een slijmbeursontsteking. Maar ook 
 
 Mocht je toch onverhoopt een zwaardere vorm van een slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-_Wil je meer weten over het behoud van soepele gewrichten?_
+Wil je meer weten over het behoud van soepele gewrichten?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een slijmbeursontsteking. En een eenvoudige natuurlijke behandeling.
 
