@@ -34,7 +34,7 @@ Drink Ivan Chai niet alleen preventief tegen een baarmoederontsteking. Maar ook 
 
 Mocht je toch onverhoopt een met een baarmoederontsteking rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de farmaceutische behandelmethode.
 
-_Lees snel meer over dit probleem. We geven je handige tips. Begin bijvoorbeeld vóór je zwangerschap. En pas ná de bevalling met het drinken van Ivan Chai._
+Lees snel meer over dit probleem. We geven je handige tips. Begin bijvoorbeeld vóór je zwangerschap. En pas ná de bevalling met het drinken van Ivan Chai.
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. En een eenvoudige natuurlijke behandeling. 
 
