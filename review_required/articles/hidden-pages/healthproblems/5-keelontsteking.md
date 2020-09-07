@@ -18,11 +18,13 @@ Slikken gaat lastig. En het doet zelfs een beetje pijn. Oók moet je vaak hoeste
 
 En die vervelende kriebel in je keel... heeft je de halve nacht wakker gehouden. 
 
-En nu heb je óók nog eens last van een beetje koorts. 
+En nu heb je óók nog eens last van een beetje koorts. Je ligt in bed en je probeert wederom te gaan slapen. 
 
-Plots gaat de wekker. 
+Plots gaat de wekker. De dag begint. 
 
 Vermoeid sta je op, loop je naar de badkamer en kijk je in de spiegel. 
+
+Je kijkt jezelf eens even goed aan. 
 
 Vreselijk...
 Je ziet er niet uit. 
@@ -33,19 +35,13 @@ Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt 
 
 Je gevoel vertelt je dat je wel een keelontsteking moet hebben opgelopen. 
 
-nou komt het...
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En we garanderen je dat je beter in staat bent een keelontsteking te voorkomen. Of te verzorgen.
 
-_Wist je dat_ je deze symptomen preventief kunt behandelen? Door gebruik te maken van een eenvoudig én natuurlijke product?
-
-Denk aan Ivan Chai. Een Siberische kruidenthee. Zo zorg je ervoor dat ontstekingen effectief worden voorkomen. Of onderdrukt. 
-
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En we garanderen je dat je beter in staat bent een keelontsteking te voorkomen. of te verzorgen.
+Drink Ivan Chai niet alleen preventief tegen een keelontsteking. Maar ook om je fysiek en mentaal te ondersteunen wanneer je al een pijnlijke keel hebt. 
 
 Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een keelontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-_Lees snel meer over dit probleem. En nog beter. Hoe je deze nare symptomen nooit meer zo ernstig ervaart._
-
-Drink Ivan Chai niet alleen preventief tegen een keelontsteking. Maar ook om je fysiek en mentaal te ondersteunen wanneer je al een pijnlijke keel hebt. 
+_Lees snel meer over dit probleem. En nog beter. Hoe je deze nare symptomen heel eenvoudig voorkomt._
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een keelontsteking. En een eenvoudige natuurlijke behandeling.
 
