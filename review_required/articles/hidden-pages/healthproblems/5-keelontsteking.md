@@ -30,7 +30,9 @@ Vreselijk...
 
 Je ziet er niet uit...
 
-Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt met de seconde alsmaar erger. Vermoeit denk je nog maar een keer na over de symptomen. 
+Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt met de seconde alsmaar erger. 
+
+Vermoeit denk je nog maar een keer na over de symptomen. 
 
 ...en inderdaad. 
 
