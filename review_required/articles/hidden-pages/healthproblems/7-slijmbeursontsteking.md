@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Slijmbeursontsteking: Verzorg je beschermkappen, behoudt soepele gewrichten
+title: Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
   Author: IVAN'S INSIGHTS
 ---
 
