@@ -16,7 +16,7 @@ Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt! En al
 
 Activiteiten die je op dagelijkse basis uitvoert. 
 
-Je wil graag blijven sporten en je overheerlijke recepten blijven koken. Of een simpel wasje draaien. En wanneer het mooi weer is wil je graag naar buiten. Om te wandelen door de natuur. Of om heerlijk een middagje te tuinieren. Waarbij je de planten verpot en onkruid verwijdert tussen de tegels in de tuin. 
+Je wil graag blijven sporten en je overheerlijke recepten blijven koken. Of een simpel wasje draaien. En wanneer het mooi weer is wil je graag naar buiten. Om te wandelen door de natuur. Of om heerlijk een middagje te tuinieren. Waarbij je het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin. 
 
 Echter wordt je ook een dagje ouder. Niets aan te doen. Aan het ouder worden zitten wél enkele consequenties verbonden. 
 
