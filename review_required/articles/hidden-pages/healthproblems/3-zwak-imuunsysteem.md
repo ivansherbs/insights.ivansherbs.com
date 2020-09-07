@@ -30,7 +30,7 @@ Drink Ivan Chai preventief tegen een zwak immuunsysteem. Of om je fysiek en ment
 
 Mocht je toch onverhoopt een met een zwak immuunsysteem rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-_Benieuwd hoe Siberische kruidenthee van invloed is op je immuunsysteem?_
+Benieuwd hoe Siberische kruidenthee van invloed is op je immuunsysteem?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak immuunsysteem. En een eenvoudige natuurlijke behandeling. 
  
