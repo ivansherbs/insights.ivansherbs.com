@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Peesontsteking: Een veel voorkomende sportblessure
+title: Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
   Author: IVAN'S INSIGHTS
 ---
 
