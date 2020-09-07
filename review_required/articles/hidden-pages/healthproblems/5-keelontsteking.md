@@ -20,14 +20,15 @@ En die vervelende kriebel in je keel... heeft je de halve nacht wakker gehouden.
 
 En nu heb je óók nog eens last van een beetje koorts. Je ligt in bed en je probeert wederom te gaan slapen. 
 
-Plots gaat de wekker. De dag begint. 
+Plots gaat de wekker... De dag begint. 
 
 Vermoeid sta je op, loop je naar de badkamer en kijk je in de spiegel. 
 
 Je kijkt jezelf eens even goed aan. 
 
 Vreselijk...
-Je ziet er niet uit. 
+
+Je ziet er niet uit...
 
 Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt met de seconde alsmaar erger. Vermoeit denk je nog maar een keer na over de symptomen. 
 
