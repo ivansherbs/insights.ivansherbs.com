@@ -1,48 +1,63 @@
 ---
 layout: article.html
-title: Hart- en vaatziekten: Zie het tijdig aankomen!
+title: Hart- en vaatziekten | Zie het tijdig aankomen!
+  Author: IVAN'S INSIGHTS
 ---
 
-Door **IVAN'S INSIGHTS** | Hart- en vaatziekten
-
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een hart- en vaatziekten. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
- 
 # Voordeel Ivan Chai
 > Versterkt de antioxiderede werking
 
-Ivan Chai zit boordevol Polyfenolen! Polyfenolen fungeren als de verbindingen die verantwoordelijk zijn voor de werking van antioxidanten.
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
+
+# Zie het tijdig aankomen!
+
+Het is moeilijk te herkennen of je last hebt van hart- en vaatziekten. Zonder dat je er erg in hebt kun je er mee rondlopen. 
+
+Naarmate je ouder wordt is het van belang deze problemen tijdig te zien aankomen!
+
+Bewustwording van deze problemen is een eerste stap richting het preventief behandelen van hart- en vaatziekten. Hierna kun je rustig je levensstijl veranderen. 
+
+Mits je dit op tijd doet!
+
+Dit kan met behulp van een eenvoudig én natuurlijk product. Zoals Ivan Chai. Een Siberische kruidenthee. 
+
+Ivan Chai zit boordevol antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
+
+Goed om te weten!
+Drink Ivan Chai niet alleen preventief tegen hart- en vaatziekten. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
+
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent hart- en vaatziekten te voorkomen.
+
+Mocht je toch onverhoopt een hart- en vaatziekten oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een hart- en vaatziekten. En een eenvoudige natuurlijke behandeling. 
 
 ## Inhoud van dit artikel
 
-**Hart- en vaatziekten**
-* Hoeveel impact hebben hart-en vaatziekten in Nederland?
-* Waardoor krijg je een hart- en vaatziekten?
-* Eenvoudige natuurlijke behandeling
+[**Inzichten**](#inzichten) <br>
+* [Hoeveel impact hebben hart-en vaatziekten in Nederland?](#Hoeveel-impact-hebben-hart-en-vaatziekten-in-Nederland)
+* [Waardoor krijg je een hart- en vaatziekten?](#Waardoor-krijg-je-een-hart-en-vaatziekten)
 
-**Ivan Chai** <br>
-* De oorsprong van Ivan Chai
-* Bevindingen
-* Ivan Chai tegen 17 problemen
-* Welke dosering en behandelingskuur raden jullie aan?
-* Is het effect van Ivan Chai direct voelbaar?
-* Welke voorzorgsmaatregelen kan ik nemen?
-* Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
-* Contra-indicaties en waarschuwingen
-  - Zwangerschap, borstvoeding en vruchtbaarheid
-* Hoe bewaar je Ivan Chai?
-* Bereidingswijze
-  - Smaakbeleving en geur
-  - Intensiteit
+[**Ivan Chai**](#ivan-chai)<br>
+* [7 voordelen](#7-voordelen)
+* [Tegen 17 problemen](#ivan-chai-tegen-17-problemen)
 
-**Ivan's Insights** <br>
-* Over hart- en vaatziekten
+[**Natuurlijke behandeling**](#Natuurlijke-behandeling)
+* [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
+* [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
+* [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
+* [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
 
-# Hart- en vaatziekten
-Laten we beginnen met een overzicht. Waarbij we ons de volgende vraag stellen:
+[**Tot slot**](#Tot-slot)
+* [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
+* [Bereidingswijze](#bereidingswijze)
+* [Waar te koop](#Waar-te-koop)
 
-### Hoeveel impact hebben hart-en vaatziekten in Nederland?
-De statistieken:
+# Inzichten
+Laten we om een beter beeld te krijgen beginnen met een overzicht. We stellen ons voor het gemak de volgende vraag:
+
+_Hoeveel impact hebben hart-en vaatziekten in Nederland?_
+
 * Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 * 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
 * In Nederland leven naar schatting 670.000 vrouwen met hart- of vaatziekten.
@@ -67,55 +82,40 @@ Dit begint met stress in combinatie met:
   - en ontstekingsreacties <br>
 * Erfelijkheid - naast alle bovengenoemde risicofactoren - die zijn te beïnvloeden door het aanpassen van je levensstijl - hebben we tevens te maken met erfelijkheid. Met andere woorden, je hebt erfelijke aanleg om - voor je 65e levensjaar - hart- en vaatziekten op te lopen.
 
-### Eenvoudige natuurlijke behandeling
-Het aanpassen van je levensstijl is dé manier om de kans op hart- en vaatziekten te verkleinen. 
-
-Hierdoor hoef je minder snel kennis te maken met farmaceutische medicijnen die deze problemen bestrijden.
-
-> Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen.
-
-Bij het aanpassen van je levensstijl - vóór, tijdens of ná een hart- en vaatziekten - zijn er natuurlijke behandelingen beschikbaar. Gebruik deze behandelingen preventief tegen problemen gericht op het hart. 
-
-Denk bijvoorbeeld aan Ivan Chai.
-Met de natuurlijke behandeling Ivan Chai kun je op eenvoudige wijze de kans op hart- en vaatziekten verminderen.
-
-# Ivan Chai
+## Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen hart- en vaatziekten. 
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een buikgriep.
 
-### De oorsprong van Ivan Chai
-> Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië.
-
-Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
-
-Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
-
-Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de wildernis van Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden.
-
-**Bevindingen** <br>
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
-De bevindingen zijn als volgt: <br>
-> ………………………………………..
+De bevindingen zijn als volgt:
+> Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
-Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
+Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de 7 voordelen die te vinden zijn in Ivan Chai:
+Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
 
-> 1 - Versterkt de weerstand <br>
-> 2 - Krachtige ontstekingsremmer <br>
-> 3 - Versterkt de antioxiderede werking <br>
-> 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op stress, angst en een burnout <br>
-> 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
-> 7 - Verzorgt het spijsverteringsstelsel
+### 7 voordelen
+_"Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen, ter ontspanning of als levenselixer"_
 
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
+De voordelen zijn als volgt:
 
-### Ivan Chai tegen 17 problemen
+> 1. Versterkt de weerstand <br>
+> 2. Krachtige ontstekingsremmer <br>
+> 3. Versterkt de antioxiderede werking <br>
+> 4. Verbetert de nachtrust <br>
+> 5. Vermindert de kans op stress, angst en een burnout <br>
+> 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
+> 7. Verzorgt het spijsverteringsstelsel
+
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
+
+### Tegen 17 problemen
+_”Het voorkomen van problemen draagt niet alleen bij aan de gezondheid... het bespaart ook een hoop moeite en energie”_
+
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -140,7 +140,7 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 11. Angst
 
-12. Burnout
+12. Burn - out
 
 13. Prostaatontsteking
 
@@ -152,23 +152,27 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
+# Natuurlijke behandeling
+_“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige natuurlijke behandelingen - om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen”_
+
+Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen. Kleine veranderingen in alledaagse handelingen bieden hierbij al soelaas, in je zoektocht naar het behalen van je doelstellingen. Hiernaast kun je het lichaam bekijken vanuit holistisch perspectief.
+
+Het holistische perspectief bestrijkt het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. De mens wordt in zijn totaliteit benaderd. Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken liggen er eenvoudige natuurlijke behandelingen voor de hand."
+
+Deze eenvoudige natuurlijke behandelingen hebben de vorm van alledaagse producten. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet hoeft om te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken.
+
+In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. In andere woorden, één kop Ivan Chai maakt niet het verschil.
+
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
-* Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
+* Drink 1 kop vóór de maaltijd. En 2 keer per dag. Voor ten minste 10 dagen. <br>
 
 ### Is het effect van Ivan Chai direct voelbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar.
 
 _...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?_
 
-Ik raad het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
-
-### Welke voorzorgsmaatregelen kan ik nemen?  
-Veel combinaties - van natuurlijke behandelingen met farmaceutische medicijnen - zijn tot op heden niet geprobeerd of getest.
-
-Voorafgaand aan een behandeling met Ivan Chai - in combinatie met farmaceutische medicijnen - raad ik het aan een deskundige te raadplegen.
-
-Hiernaast raden wij het aan eigen onderzoek te doen om bijwerkingen te voorkomen.
+Wij raden het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
  
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
@@ -192,23 +196,22 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 * Coma
  
 ### Contra-indicaties en waarschuwingen
-Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen. 
+Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen.
 
 En is gelukkig veilig voor kinderen.
  
 **Zwangerschap, borstvoeding en vruchtbaarheid** <br>
-* Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
+* Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
  
-### Hoe bewaar je Ivan Chai?
-Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
+# Tot slot
+_"Het maakt niet uit hoe langzaam je gaat, zolang je maar niet stopt"_
 
-Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden.
-
-Gezien de natuurlijke aard kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
+Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
+Geniet van je overheerlijke kop Ivan Chai.
 
 ### Bereidingswijze
-Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken. 
+Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
 
 Wanneer je de thee warm drinkt adviseren wij - voor een optimale smaakbeleving - het te drinken bij 77 graden Celsius.
 
@@ -218,24 +221,12 @@ De **smaak** is als volgt te omschrijven:
 
 _...En hoe zit het met de **geur**?_ <br>
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
- 
-**Intensiteit** <br>
-(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Ivan's Insights
-### Over hart- en vaatziekten
+### Hoe bewaar je Ivan Chai?
+Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden - in verband met verstikkingsgevaar.
 
-Het is moeilijk te herkennen of je last hebt van hart- en vaatziekten. Zonder dat je er erg in hebt kun je er mee rondlopen. 
+Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
 
-Naarmate je ouder wordt, is het van belang deze problemen tijdig te zien aankomen!
+Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
-Bewustwording van deze problemen is een eerste stap richting het preventief behandelen van hart- en vaatziekten. Waarna je rustig je levensstijl kunt omgooien. Mits je dit op tijd doet. 
-
-Dit kan met behulp van eenvoudige natuurlijke producten, die als preventieve behandeling gebruikt kunnen worden! Zoals Ivan Chai. Een Siberische kruidenthee.  
-
-Ivan Chai zit boordevol antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
-
-Drink Ivan Chai preventief tegen hart- en vaatziekten. 
-> Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van het hart, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
->
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En ik garandeer je dat je beter in staat bent de kans op hart- en vaatziekten te verminderen. 
+### Waar te koop
