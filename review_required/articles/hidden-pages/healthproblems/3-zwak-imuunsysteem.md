@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Zwak immuunsysteem: Beperk de mate van kwetsbaarheid
+title: Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
   Author: IVAN'S INSIGHTS
 ---
 
