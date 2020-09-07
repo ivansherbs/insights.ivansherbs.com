@@ -44,7 +44,7 @@ Drink Ivan Chai niet alleen preventief tegen een keelontsteking. Maar ook om je 
 
 Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een keelontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-_Lees snel meer over dit probleem. En nog beter. Hoe je deze nare symptomen heel eenvoudig voorkomt._
+Lees snel meer over dit probleem. En nog beter. Hoe je deze nare symptomen heel eenvoudig voorkomt.
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een keelontsteking. En een eenvoudige natuurlijke behandeling.
 
