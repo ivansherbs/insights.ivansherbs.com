@@ -14,18 +14,17 @@ Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkom
 # Wat te gebruiken wanneer antibiotica geen zin heeft?
 We zijn allemaal wel eens opgestaan met een pijnlijke keel. Je kent het nare gevoel. 
 
-Slikken gaat lastig. En het doet zelfs een beetje pijn. 
-
-Oók moet je vaak hoesten. 
+Slikken gaat lastig. En het doet zelfs een beetje pijn. Oók moet je vaak hoesten. 
 
 En die vervelende kriebel in je keel... heeft je de halve nacht wakker gehouden. 
 
 En nu heb je óók nog eens last van een beetje koorts. 
 
-Plots gaat de wekker. Vermoeid sta je op, loop je naar de badkamer en kijk je in de spiegel. 
+Plots gaat de wekker. 
+
+Vermoeid sta je op, loop je naar de badkamer en kijk je in de spiegel. 
 
 Vreselijk...
-
 Je ziet er niet uit. 
 
 Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt met de seconde alsmaar erger. Vermoeit denk je nog maar een keer na over de symptomen. 
@@ -34,15 +33,13 @@ Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt 
 
 Je gevoel vertelt je dat je wel een keelontsteking moet hebben opgelopen. 
 
-Maar nu komt het...
+nou komt het...
 
-Het fijne is dat deze symptomen nooit meer zo ernstig hoeven zijn! 
+_Wist je dat_ je deze symptomen preventief kunt behandelen? Door gebruik te maken van een eenvoudig én natuurlijke product?
 
-_...maar hoe kom je hierbij?_
+Denk aan Ivan Chai. Een Siberische kruidenthee. Zo zorg je ervoor dat ontstekingen effectief worden voorkomen. Of onderdrukt. 
 
-Door gebruik te maken van een eenvoudig én natuurlijke product. Denk aan Ivan Chai. Een Siberische kruidenthee. Zo zorg je ervoor dat ontstekingen effectief worden voorkomen. Of onderdrukt. Hierdoor wordt je keelonsteking preventief behandelt. 
-
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En we garanderen je dat je beter in staat bent een keelontsteking te verzorgen.
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En we garanderen je dat je beter in staat bent een keelontsteking te voorkomen. of te verzorgen.
 
 Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een keelontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
