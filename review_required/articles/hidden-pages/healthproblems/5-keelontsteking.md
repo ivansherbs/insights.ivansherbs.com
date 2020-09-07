@@ -12,37 +12,41 @@ Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontsteking
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een keelontsteking.
 
 # Wat te gebruiken wanneer antibiotica geen zin heeft?
-We zijn allemaal wel eens opgestaan met een pijnlijke keel. Het lijkt erop dat je een keelontsteking hebt. 
+We zijn allemaal wel eens opgestaan met een pijnlijke keel. Je kent het nare gevoel. 
 
 Slikken gaat lastig. En het doet zelfs een beetje pijn. 
 
 Oók moet je vaak hoesten. 
 
-En die vervelende kriebel in je keel heeft je de halve nacht wakker gehouden. 
+En die vervelende kriebel in je keel... heeft je de halve nacht wakker gehouden. 
 
-En nu heb je ook nog eens last van een beetje koorts. 
+En nu heb je óók nog eens last van een beetje koorts. 
 
-De wekker gaat. Vermoeid sta je op en kijk je in de spiegel. 
+Plots gaat de wekker. Vermoeid sta je op, loop je naar de badkamer en kijk je in de spiegel. 
 
-Vreselijk. Je ziet er niet uit. 
+Vreselijk...
+
+Je ziet er niet uit. 
 
 Je haar zit door de war. Je ogen hangen op half 7. En die pijn in je keel wordt met de seconde alsmaar erger. Vermoeit denk je nog maar een keer na over de symptomen. 
 
 ...en inderdaad. 
 
-Je realiseert je dat je wel een keelontsteking moet hebben opgelopen. Maar nu komt het...
+Je gevoel vertelt je dat je wel een keelontsteking moet hebben opgelopen. 
+
+Maar nu komt het...
 
 Het fijne is dat deze symptomen nooit meer zo ernstig hoeven zijn! 
 
-_...maar hoe dan?_
+_...maar hoe kom je hierbij?_
 
-Door gebruik te maken van eenvoudige natuurlijke behandelingen. Denk aan Ivan Chai. Een Siberische kruidenthee. Zo zorg je ervoor dat ontstekingen effectief worden voorkomen. Of onderdrukt. 
+Door gebruik te maken van een eenvoudig én natuurlijke product. Denk aan Ivan Chai. Een Siberische kruidenthee. Zo zorg je ervoor dat ontstekingen effectief worden voorkomen. Of onderdrukt. Hierdoor wordt je keelonsteking preventief behandelt. 
 
 > Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En we garanderen je dat je beter in staat bent een keelontsteking te verzorgen.
 
 Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een keelontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Lees snel meer over dit probleem. En nog beter. Hoe je de symptomen nooit meer zo ernstig ervaart. 
+_Lees snel meer over dit probleem. En nog beter. Hoe je deze nare symptomen nooit meer zo ernstig ervaart._
 
 Drink Ivan Chai niet alleen preventief tegen een keelontsteking. Maar ook om je fysiek en mentaal te ondersteunen wanneer je al een pijnlijke keel hebt. 
 
@@ -108,7 +112,6 @@ Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke 
 
 De bevindingen zijn als volgt:
 > Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. 
-
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
