@@ -30,7 +30,7 @@ Drink Ivan Chai niet alleen preventief tegen hart- en vaatziekten. Maar ook om j
 
 Mocht je toch onverhoopt een hart- en vaatziekten oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Benieuwd naar de impact van hart- en vaatziekten?
+_Benieuwd naar de impact van hart- en vaatziekten?_
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een hart- en vaatziekten. En een eenvoudige natuurlijke behandeling. 
 
