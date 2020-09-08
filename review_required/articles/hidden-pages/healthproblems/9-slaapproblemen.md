@@ -11,7 +11,7 @@ Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te ove
 
 # Stress als katalysator op een slaapprobleem
 
-Iedereen heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker. En heb je gedwongen een zogenaamde 'plafonddienst' gedraaid. Gelukkig hoeven voor jou hoef je dan niet gelijk te spreken van een slaapprobleem.
+Iedereen heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker. En heb je gedwongen een zogenaamde 'plafonddienst' gedraaid. Gelukkig voor jou hoef je dan niet gelijk te spreken van een slaapprobleem.
 
 We spreken wél van een slaapprobleem wanneer je méér dan 2 keer per week, meerdere weken op rij, slecht slaapt. En hierdoor gedurende de week overdag niet normaal kunt functioneren.
 
