@@ -26,9 +26,7 @@ Kortom, in Nederland zijn slaapstoornissen een groeiend én zorgwekkend probleem
 Laten we de statistieken er gelijk even bij pakken.
 > 20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen.
 
-Wat ook het vermelden waard is. Dit probleem is dus ook van invloed op je prestatie op werk. Kun je nagaan hoeveel invloed dit probleem heeft op de Nederlandse economie!
-
-_[Benieuwd hoeveel dit probleem de Nederlandse economie kost]?_(#Heeft-werkend-Nederland-last-van-slaapproblemen)
+Wat ook het vermelden waard is. Dit probleem is dus ook van invloed op je prestatie op werk. Kun je nagaan hoeveel invloed dit probleem heeft op de Nederlandse economie. 
 
 Om je nachtrust te verbeteren zijn er tal van tips te vinden. Waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk product.
 
@@ -84,8 +82,6 @@ Ja. Veel werknemers zijn onderhevig aan dit probleem. Grote kans dat jij hier op
 Naar schatting kosten slaapproblemen de Nederlandse economie jaarlijks € 4.500.000.000, zeggende: vier miljard en vijf honderd miljoen euro.
 
 De laatste jaren is het aantal werknemers met slaapproblemen gestegen. Slecht 10% van bedrijven pakt dit probleem actief aan.
-
-[_Terug naar boven 'Stress als katalysator op een slaapprobleem'_](#Wat-bij-elkaar-weer-van-invloed-is-op-de-Nederlandse-economie)
 
 Slaapproblemen komen hiernaast niet alleen voor bij werknemers. Arbeidsongeschikten hebben ook te kampen met dit probleem.
 
