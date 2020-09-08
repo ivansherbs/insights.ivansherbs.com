@@ -34,7 +34,7 @@ Gelukkig overzie je daarom wél alle werkgerelateerd problemen gemakkelijk.
 
 En met vakantie gaan. Dat doen we wel op een later moment. En wanneer het uitkomt. Want dat is wel zo handig. Momenteel heb je geen ruimte in je agenda. 
 
-Zonder dat je het door hebt neem je gewoon geen rust meer. En loop je rond met een overmatige hoeveelheid aan stress.
+Zonder dat je het door hebt neem je gewoon geen rust meer.
 
 Stress is een ware sluipmoordenaar. Je staat zo maanden té lang in de 5de versnelling. 
 Tot het omslagpunt is bereikt. Want opeens heb je het door. 
