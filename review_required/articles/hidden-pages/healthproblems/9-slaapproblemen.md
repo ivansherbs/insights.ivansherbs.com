@@ -21,7 +21,7 @@ Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning.
 
 Je hoofd kan gedurende de nacht geen rust vinden door alle drukte. Je valt hierdoor moeilijk in slaap valt. Veel Nederlanders hebben dus niet door dat ze langzaam ook een slaapprobleem opdoen. 
 
-Kortom, in Nederland zijn slaapstoornissen een groeiend én zorgwekkend probleem. Mede mogelijk gemaakt door een toenemende mate van stress onder de bevolking. Wat letterlijk werkt als een katalysator op een slaapprobleem. Een slaapprobleem is van invloed op je dagelijkse functioneren. 
+Kortom, in Nederland zijn slaapstoornissen een groeiend én zorgwekkend probleem. Mede mogelijk gemaakt door een toenemende mate van stress onder de bevolking. Wat letterlijk werkt als katalysator op een slaapprobleem. Een slaapprobleem is van invloed op je dagelijkse functioneren. 
 
 Laten we de statistieken er gelijk even bij pakken.
 > 20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen.
