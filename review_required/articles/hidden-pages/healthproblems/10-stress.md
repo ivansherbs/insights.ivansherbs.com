@@ -103,9 +103,11 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 
 # Stress
 ### Over stress 
-Onze dikke van dale omschrijft stress op de volgende manier: 
+Onze dikke Van Dale omschrijft stress op de volgende manier: 
 
 _stress_ (de; m) 1. aanhoudende geestelijke druk; = spanning
+
+Wat echter niet in de Van Dale staat, is dat stress wordt veroorzaakt door het stresshormoon cortisol. Cortisol is vergelijkbaar met adrenaline. Stress heb je bijna niet van de ene op de andere dag. Je bouwt het meestal langzaam op. 
 
 ### Hoe ontstaat stress?
 Stress ontstaat wanneer er in je lichaam te lang, te veel spanning aanwezig is. Een kleine mate van stress is oké. En hoeft op het eerste gezicht niet voor problemen te zorgen. Je bent namelijk erg gefocust en actief.
