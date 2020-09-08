@@ -65,6 +65,7 @@ Waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk pro
 
 Denk aan Ivan Chai. Een Siberische kruidenthee. 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een stress te voorkomen.
+
 Mocht je toch onverhoopt met een overmatige hoeveelheid aan stress rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode
 
 Goed om te weten. Wanneer je open staat voor een eenvoudig én natuurlijk product als Ivan Chai. En hiermee de kans op stress vermindert, hoef je minder snel kennis te maken met de farmaceutische medicijnen die deze problemen bestrijden.
