@@ -1,9 +1,9 @@
 ---
 layout: article.html
-title: Ivan Chai: "Verzorg je lichaam en geest met kruidenthee uit Siberië"
+title: Ivan Chai | Verzorg je lichaam en geest met kruidenthee uit Siberië
+  Author: IVAN'S INSIGHTS
 ---
-
-Door **Ivan’s Insights** | Siberische kruidenthee <br>
+# Ivan Chai
 
 _De 7 voordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Gebruik Ivan Chai als eenvoudige natuurlijke behandeling tegen 17 problemen._
 
