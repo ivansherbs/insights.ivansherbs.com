@@ -103,12 +103,8 @@ De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzo
 
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
-De bevindingen zijn als volgt:
-
 De bevindingen zijn als volgt: <br>
-> Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen.
-
-In de traditionele volksgeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. Onderzoek heeft wél aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. Waardoor de kans op stress wordt vermindert.
+> Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen.In de traditionele volksgeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. Onderzoek heeft wél aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. Waardoor de kans op stress wordt vermindert.
 
 Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
