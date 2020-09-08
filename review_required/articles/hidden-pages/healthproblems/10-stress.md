@@ -80,7 +80,7 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 
 ## Inhoud van dit artikel
 
-[**Inzichten**](#stress)
+[**Inzichten**](#inzichten)
 * [Over stress](#over-stress)
 * [Hoe ontstaat stress?](#Hoe-ontstaat-stress)
 * [Wat zijn de oorzaken van stress?](#Wat-zijn-de-oorzaken-van-stress)
