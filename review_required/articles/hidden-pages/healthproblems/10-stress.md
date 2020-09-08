@@ -45,7 +45,7 @@ Het thuisfront krijgt tevens al tijden niet de nodige aandacht die het verdient.
 
 Je komt tot de realisatie dat je stijf staat van de cortisol. En dat je zwaar gespannen bent.  
 
-Je bent er nu eindelijk achter hoe stress voelt. 
+Je bent er nu eindelijk achter hoe stress écht voelt. 
 
 Waar veel mensen niet bij stilstaan is dat langdurige stress kan leiden tot nog heftigere problemen. Hierbij moet je denken aan angst en een burnout.
 
