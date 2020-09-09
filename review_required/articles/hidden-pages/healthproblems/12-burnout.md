@@ -21,7 +21,8 @@ Hoe heeft het zover kunnen komen? Vraag je jezelf dan af.
 
 Je hebt laten zien dat je gedreven, ambitieus en enthousiast bent. Je krijgt veel verantwoordelijkheid. En er is werk in overvloed om jezelf te bewijzen. 
 
-En wat betreft die dynamische werkomgeving... dat zit wel goed.
+En wat betreft die dynamische werkomgeving... dat zit wel f
+.
 
 De tijd gaat snel. En alle deadlines werk je achter elkaar weg. 
 
@@ -55,8 +56,10 @@ Waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk pro
 
 Denk aan Ivan Chai. Een Siberische kruidenthee.
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een burn-out te voorkomen.
+
 Mocht je toch onverhoopt met een overmatige hoeveelheid aan stress rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
-Wanneer je een burn-out voorkomt, hoef je minder  snel kennis te maken met de farmaceutische medicijnen die dit probleem bestrijdt. 
+
+Goed om te weten. Wanneer je een burn-out voorkomt, hoef je minder  snel kennis te maken met de farmaceutische medicijnen die dit probleem bestrijdt. 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out.
