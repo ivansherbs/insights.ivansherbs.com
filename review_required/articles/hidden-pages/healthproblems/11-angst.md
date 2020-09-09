@@ -42,9 +42,9 @@ Wellicht een fijne gedachten. Op angst kun je je ook vaak niet voorbereiden. Zoa
 
 Waarbij de emoties hoog opspelen door het eventueel kunnen lijden van pijn. Oók bij lichtere operaties. Of wanneer je van je arts weer moet leren lopen na het scheuren van je enkelbanden. 
 
-Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. vliegtuigen, honden. etc.
+Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. Of honden. etc.
 
-Oke we kunnen nog even doorgaan. Over verschillende vormen van angst. 
+Oke, we kunnen nog even doorgaan. Over de verschillende vormen van angst. 
 
 Maar de vraag blijft. Kun je er wat tegen doen? 
 
