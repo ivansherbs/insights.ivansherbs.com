@@ -4,10 +4,6 @@ title: Ivan's Herbs | Verzorg je lichaam en geest met kruidenthee uit Siberië
   Author: IVAN'S INSIGHTS
 ---
 # Ivan Chai
-
-_De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer._
-
-## 7 Voordelen
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 > 1. [Versterkt de weerstand](#1.-Ivan-Chai-versterkt-de-weerstand)
@@ -19,12 +15,18 @@ _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 > 7. [Verzorgt het spijsverteringsstelsel](#Ivan-Chai-Verzorgt-het-spijsverteringsstelsel)
 
 Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
-Dit artikel informeert je over de 7 voordelen en bevat verder:
 
+## Inhoud van dit artikel
+[**Inzichten**](#inzichten)
+* [Over 7 voordelen](#over-7-voordelen)
 * [Behandeling tegen 17 problemen](#Behandeling-tegen-17-problemen)
 * [Ivan's conclusie](#Ivan's-conclusie)
 * [Smaakbeleving](#Smaakbeleving)
 * [Waar te koop](#waar-te-koop)
+
+# Inzichten
+## Over 7 voordelen
+De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=sharing
 
@@ -107,7 +109,7 @@ Tot slot, voor de reizigres onder ons. Darmparasieten kunnen zelfs geëlimineerd
 
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
 
-## Behandeling tegen 17 problemen
+# Behandeling tegen 17 problemen
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
@@ -148,7 +150,7 @@ Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmace
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
-## Ivan's conclusie   
+# Ivan's conclusie   
 
 _"De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten"_
 
@@ -158,12 +160,14 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zulle
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 
-## Smaakbeleving
+# Smaakbeleving
 
 _"Door ondekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_ 
 
-Ivan Chai is door verschillende thee experts geslurpt:
+Ivan Chai is door verschillende thee experts geslurpt. De smaak en geur kun je als volgt omschrijven:
 
-* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met **traditionele zwarte thee**, echter met een van nature licht zoete smaak."
+* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
 
-* "De geur lijkt een beetje op zwarte thee, heeft een ietwat aardse, houtachtige geur en toch ruik ik ook zoete tonen."
+* "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
+
+## Waar te koop 
