@@ -90,9 +90,6 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Bereidingswijze](#bereidingswijze)
 * [Waar te koop](#Waar-te-koop)
 
-[**Inzichten**](#inzichten)<br>
-* [Over angst](#over-angst)
-
 # Inzichten
 ### Over een burnout
 Onze dikke Van Dale omschrijft een burn-out op de volgende manier:
@@ -139,7 +136,7 @@ Beide, met hetzelfde energieniveau tot gevolg.
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen angst.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een burn-out.
 
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
