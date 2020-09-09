@@ -10,6 +10,7 @@ title: Angst | Zie jij het wél aankomen?
 Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai een rustgevend effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op het angstgevoel vermindert.
 
 # Zie jij het wél aankomen?
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Angst is een emotie die we allen een keer hebben ervaren. De één heftiger dan de ander. 
 
