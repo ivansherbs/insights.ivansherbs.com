@@ -13,11 +13,12 @@ Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën ver
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
-### Voorkom onnodige weefselschade
+# Voorkom onnodige weefselschade
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade.
 
-Ooit nagedacht waar je last kunt krijgen van bijvoorbeeld schimmels? 
+Ooit nagedacht waar je allemaal last kunt krijgen van bijvoorbeeld schimmels? 
 
 Je kunt ze krijgen op verschillende plekken op het lichaam. Ze zitten letterlijk op je huid. 
 Ook deze onzichtbare wezens hebben plekken gevonden waar ze het liefst wonen. Over het algemeen gaan ze voor warme vochtige plekken. De favoriete plekken van schimmels zijn dan ook de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen. 
