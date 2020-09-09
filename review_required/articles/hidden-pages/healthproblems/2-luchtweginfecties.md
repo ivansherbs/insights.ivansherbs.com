@@ -13,7 +13,9 @@ Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën ver
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
-### Hoe voorkom je op eenvoudige wijze verkoudheid of griep?
+# Hoe voorkom je op eenvoudige wijze verkoudheid of griep?
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
+
 Iedereen heeft wel eens last van een verkoudheid of griep. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan. Zo zijn er de bekende, maar ook onbekende oorzaken voor vatbaarheid.
 
 Wist je dat... 
