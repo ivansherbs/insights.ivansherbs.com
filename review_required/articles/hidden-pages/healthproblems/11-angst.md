@@ -71,7 +71,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
  
 ## Inhoud van dit artikel
 
-[**Inzichten**](#in)<br>
+[**Inzichten**](#inzichten)<br>
 * [Over angst](#over-angst)
 * [Hoe ontstaat een gevoel van angst?](#Hoe-ontstaat-een-gevoel-van-angst)
 * [Is angst in Nederland een zorgwekkend probleem?](#Is-angst-in-Nederland-een-zorgwekkend-probleem)
