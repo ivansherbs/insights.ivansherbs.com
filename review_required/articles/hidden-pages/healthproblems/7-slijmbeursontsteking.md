@@ -12,6 +12,8 @@ Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekinge
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een slijmbeursontsteking.
 
 # Verzorg je beschermkappen, behoudt soepele gewrichten
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
+
 Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt! En al helemaal met de meest gangbare activiteiten.
 
 Activiteiten die je op dagelijkse basis uitvoert. 
