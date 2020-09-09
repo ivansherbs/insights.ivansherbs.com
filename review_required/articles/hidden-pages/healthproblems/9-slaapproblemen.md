@@ -10,6 +10,7 @@ title: Slaapproblemen | Stress als katalysator op een slaapprobleem
 Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen.
 
 # Stress als katalysator op een slaapprobleem
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Iedereen heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker. En heb je gedwongen een zogenaamde 'plafonddienst' gedraaid. Gelukkig voor jou hoef je dan niet gelijk te spreken van een slaapprobleem.
 
