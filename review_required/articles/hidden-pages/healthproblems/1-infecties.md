@@ -16,9 +16,7 @@ Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstof
 # Voorkom onnodige weefselschade
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-Een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade.
-
-Ooit nagedacht waar je allemaal last kunt krijgen van bijvoorbeeld schimmels? 
+Een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade. Ooit nagedacht waar je allemaal last kunt krijgen van bijvoorbeeld schimmels? 
 
 Je kunt ze krijgen op verschillende plekken op het lichaam. Ze zitten letterlijk op je huid. 
 Ook deze onzichtbare wezens hebben plekken gevonden waar ze het liefst wonen. Over het algemeen gaan ze voor warme vochtige plekken. De favoriete plekken van schimmels zijn dan ook de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen. 
