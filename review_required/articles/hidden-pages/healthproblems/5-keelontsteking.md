@@ -12,8 +12,9 @@ Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontsteking
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verhelpen, zoals een keelontsteking.
 
 # Wat te gebruiken wanneer antibiotica geen zin heeft?
-We zijn allemaal wel eens opgestaan met een pijnlijke keel. Je kent het nare gevoel. 
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
+We zijn allemaal wel eens opgestaan met een pijnlijke keel. Je kent het nare gevoel. 
 Slikken gaat lastig. En het doet zelfs een beetje pijn. Oók moet je vaak hoesten. 
 
 En die vervelende kriebel in je keel... heeft je de halve nacht wakker gehouden. 
