@@ -1,7 +1,6 @@
 ---
 layout: article.html
 title: Prostaatkanker | Een onopgemerkt probleem
-publish:
   Author: IVAN'S INSIGHTS
 ---
 
@@ -44,7 +43,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 [**Tot slot**](#Tot-slot)
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
 * [Bereidingswijze](#bereidingswijze)
-* [Toevoegen aan winkelwagen](#Toevoegen-aan-winkelwagen)
+* [Waar te koop](#Waar-te-koop)
 
 # Inzichten
 ### Over prostaatkanker
@@ -82,16 +81,16 @@ Ivan Chai bevat meerdere voordelen die niet alleen de gezondheid van de prostaat
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen prostaatkanker.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een prostaatkanker.
 
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
-De bevindingen tegen prostaatkanker zijn als volgt: <br>
+De bevindingen zijn als volgt: <br>
 > De verbinding die volgens onderzoek het anti-tumor activiteit versterkt is Oenotheïne B. De positieve werking die Oenotheïne B heeft op de prostaat, kan de kans op prostaatkanker verkleinen.
 
-Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
+Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
 Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
 
@@ -100,17 +99,19 @@ _"Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te
 
 De voordelen zijn als volgt:
 
-> 1 - Versterkt de weerstand <br>
-> 2 - Krachtige ontstekingsremmer <br>
-> 3 - Versterkt de antioxiderede werking <br>
-> 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op stress, angst en een burnout <br>
-> 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
-> 7 - Verzorgt het spijsverteringsstelsel
+> 1. Versterkt de weerstand <br>
+> 2. Krachtige ontstekingsremmer <br>
+> 3. Versterkt de antioxiderede werking <br>
+> 4. Verbetert de nachtrust <br>
+> 5. Vermindert de kans op stress, angst en een burnout <br>
+> 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
+> 7. Verzorgt het spijsverteringsstelsel
 
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
 
 ### Tegen 17 problemen
+_”Het voorkomen van problemen draagt niet alleen bij aan de gezondheid... het bespaart ook een hoop moeite en energie”_
+
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -147,20 +148,20 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
-# Natuurlijke behandeling 
+# Natuurlijke behandeling
 _“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige natuurlijke behandelingen - om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen”_
 
-Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen. Kleine veranderingen in alledaagse handelingen bieden hierbij al soelaas, in je zoektocht naar het behalen van je doelstellingen. Hiernaast kun je het lichaam bekijken vanuit holistisch perspectief. 
+Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen. Kleine veranderingen in alledaagse handelingen bieden hierbij al soelaas, in je zoektocht naar het behalen van je doelstellingen. Hiernaast kun je het lichaam bekijken vanuit holistisch perspectief.
 
 Het holistische perspectief bestrijkt het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. De mens wordt in zijn totaliteit benaderd. Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken liggen er eenvoudige natuurlijke behandelingen voor de hand."
 
-Deze eenvoudige natuurlijke behandelingen hebben de vorm van alledaagse producten. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet hoeft om te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken. 
+Deze eenvoudige natuurlijke behandelingen hebben de vorm van alledaagse producten. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet hoeft om te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken.
 
 In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
-* Drink één kop vóór de maaltijd. En twee keer per dag. Voor ten minste tien dagen. <br>
+* Drink 1 kop vóór de maaltijd. En 2 keer per dag. Voor ten minste 10 dagen. <br>
 
 ### Is het effect van Ivan Chai direct voelbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar.
@@ -199,11 +200,11 @@ En is gelukkig veilig voor kinderen.
 * Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
  
-# Tot slot 
-_"Het maakt niet uit hoe langzaam je gaat, zolang je maar niet stopt"_ 
+# Tot slot
+_"Het maakt niet uit hoe langzaam je gaat, zolang je maar niet stopt"_
 
-Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen. 
-Geniet van je overheerlijke kop Ivan Chai. 
+Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
+Geniet van je overheerlijke kop Ivan Chai.
 
 ### Bereidingswijze
 Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
@@ -224,4 +225,4 @@ Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven t
 
 Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
-### Toevoegen aan winkelwagen
+### Waar te koop
