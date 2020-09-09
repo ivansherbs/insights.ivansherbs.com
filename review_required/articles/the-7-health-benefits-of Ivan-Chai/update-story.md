@@ -20,7 +20,7 @@ Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goe
 [**Inzichten**](#inzichten)
 * [Over 7 voordelen](#over-7-voordelen)
 * [Behandeling tegen 17 problemen](#Behandeling-tegen-17-problemen)
-* [Ivan's conclusie](#Ivan's-conclusie)
+* [Ivan's conclusie](#Ivans-conclusie)
 * [Smaakbeleving](#Smaakbeleving)
 * [Waar te koop](#waar-te-koop)
 
