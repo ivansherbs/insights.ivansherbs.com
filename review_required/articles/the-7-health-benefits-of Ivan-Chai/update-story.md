@@ -6,13 +6,13 @@ title: Ivan's Herbs | Verzorg je lichaam en geest met kruidenthee uit Siberië
 # Ivan Chai
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-> 1. [Versterkt de weerstand](#1.-Ivan-Chai-versterkt-de-weerstand)
-> 2. [Krachtige ontstekingsremmer](#Ivan-Chai-werkt-als-een-Krachtige-ontstekingsremmer)
-> 3. [Versterkt de antioxiderede werking](#Ivan-Chai-Versterkt-de-antioxiderede-werking)
-> 4. [Verbetert de nachtrust](#Ivan-Chai-Verbetert-de-nachtrust)
-> 5. [Vermindert de kans op stress, angst en een burnout](#Ivan-Chai-Vermindert-de-kans-op-stress,-angst-en-een-burnout)
-> 6. [Verzorgt de gezondheid van de prostaat en urinewegen](#Ivan-Chai-Verzorgt-de-gezondheid-van-de-prostaat-en-urinewegen)
-> 7. [Verzorgt het spijsverteringsstelsel](#Ivan-Chai-Verzorgt-het-spijsverteringsstelsel)
+> 1. Versterkt de weerstand
+> 2. Krachtige ontstekingsremmer
+> 3. Versterkt de antioxiderede werking
+> 4. Verbetert de nachtrust
+> 5. Vermindert de kans op stress, angst en een burnout
+> 6. Verzorgt de gezondheid van de prostaat en urinewegen
+> 7. Verzorgt het spijsverteringsstelsel
 
 Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
 
