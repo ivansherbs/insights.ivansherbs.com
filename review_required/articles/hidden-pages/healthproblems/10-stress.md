@@ -1,7 +1,6 @@
 ---
 layout: article.html
 title: Stress | Ben jij er al achter hoe het écht voelt?
-publish:
   Author: IVAN'S INSIGHTS
 ---
 
