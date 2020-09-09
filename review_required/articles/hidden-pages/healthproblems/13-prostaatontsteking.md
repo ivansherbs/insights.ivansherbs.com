@@ -12,7 +12,7 @@ Ivan Chai is na duizenden recensies van mannen effectief bevonden. Deze Siberisc
 # Bescherm de gezondheid van je prostaat
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-Wanneer je ouder wordt, weet je dat dagelijkse bezigheden meer tijd gaan kosten. Zo kunnen dagelijkse bezigheden - naar mate je ouder wordt - ook een probleem opleveren. Mannen op latere leeftijd weten dat ze meer kans hebben op problemen gericht op de prostaat.
+Wanneer je ouder wordt weet je dat dagelijkse bezigheden meer tijd gaan kosten. Zo kunnen weet je dat naar mate je ouder wordt deze bezigheden ook een probleem kunnen opleveren. Mannen op latere leeftijd weten dat ze meer kans hebben op problemen gericht op de prostaat.
 
 Een probleem om al rekening mee te houden op ‘jongere’ leeftijd. 
 
@@ -92,7 +92,7 @@ Ontdek de 7 voordelen van Ivan Chai.
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen angst.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een prostaatontsteking.
 
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
