@@ -1,7 +1,6 @@
 ---
 layout: article.html
 title: Angst | Zie jij het wél aankomen?
-publish:
   Author: IVAN'S INSIGHTS
 ---
 
