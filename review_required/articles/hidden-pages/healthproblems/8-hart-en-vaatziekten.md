@@ -10,9 +10,9 @@ title: Hart- en vaatziekten | Zie het tijdig aankomen!
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
 # Zie het tijdig aankomen!
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Het is moeilijk te herkennen of je last hebt van hart- en vaatziekten. Zonder dat je er erg in hebt kun je er mee rondlopen. 
-
 Naarmate je ouder wordt is het van belang deze problemen tijdig te zien aankomen!
 
 Bewustwording van deze problemen is een eerste stap richting het preventief behandelen van hart- en vaatziekten. Hierna kun je rustig je levensstijl veranderen. 
