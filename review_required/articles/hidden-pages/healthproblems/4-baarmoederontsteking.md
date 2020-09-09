@@ -12,6 +12,7 @@ Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontsteking
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verzorgen, zoals een baarmoederontsteking.
 
 # Preventieve bescherming van je meest kwetsbare orgaan
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Oók je meest kwetsbare orgaan kan een ontsteking oplopen. En hiermee bedoelen we uiteraard je baarmoeder. Zonder baarmoeder, géén kinderen. Nog een reden om deze goed te verzorgen! Want bij een heftige en terugkerende baarmoederontsteking, kun je onvruchtbaar worden. 
 
