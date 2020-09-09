@@ -10,6 +10,7 @@ title: Burn-out | Opgeven is géén optie
 _Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai een rustgevend effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert._
 
 # Opgeven is géén optie
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 We kunnen het niet vaak genoeg herhalen. Een burn-out is een gevolg van een lange periode aan overbelasting. Meestal ontstaat een burn-out op de werkvloer. Laten we dit probleem eens even beter leren begrijpen. 
 
