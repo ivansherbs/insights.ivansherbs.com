@@ -10,6 +10,7 @@ title: Stress | Ben jij er al achter hoe het écht voelt?
 _Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai een rustgevend effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op stress vermindert._
 
 # Ben jij er al achter hoe het écht voelt?
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 We kennen allemaal het gevoel dat je het maximale uit je dag wilt halen. Je hebt immers bergen met werk liggen. En die deadlines naderen. 
 
