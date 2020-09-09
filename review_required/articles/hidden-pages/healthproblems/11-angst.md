@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Angst | Zie jij het wél aankomen? 
+title: Angst | Zie jij het wél aankomen?
 publish:
   Author: IVAN'S INSIGHTS
 ---
@@ -8,133 +8,159 @@ publish:
 # Voordeel Ivan Chai
 > Vermindert de kans op angst
 
-_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai effect heeft, op je centrale zenuwstelsel. Hierdoor kan de kans op het angstgevoel worden vermindert._
+Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai een rustgevend effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op het angstgevoel vermindert.
 
-# Zie jij het wél aankomen? 
-Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Wat jij op dat moment als een bedreiging - of gevaar - hebt beschouwt. 
+# Zie jij het wél aankomen?
 
-Je lichaam begeeft zich in opperste staat van paraatheid. Je hart klopt sneller. Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je - op dat moment - in een beklemmende, onaangename emotionele toestand.  
+Angst is een emotie die we allen een keer hebben ervaren. De één heftiger dan de ander. 
 
-Angst komt vaker voor dan je denkt. Je kunt bij het minste en geringste al angst ervaren. Of je kan er voor langer tijd in blijven steken.
+Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Wat jij op dat moment als een bedreiging of gevaar hebt beschouwt. 
 
-Zo heb je last van een gevoel van intense angst - waarbij je wilt vluchten. Maar ook lichtere vormen van angst - waarbij je een korte periode last hebt van een opgelaten gevoel. 
+Je lichaam begeeft zich in opperste staat van paraatheid. Je hart gaat sneller kloppen. Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je op dat moment in een beklemmende, onaangename emotionele toestand.
 
-Een vorm hiervan is faalangst. Denk aan die ene keer in een overvolle collegezaal - waarbij de docent een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. 
+Veel mannen denken dat ze geen angst kennen.
 
-Of sociale angst. De angst om eigenlijk écht te zeggen wat je ergens van vind. Op de werkvloer. In een vergadering. Of tijdens een presentatie met de gehele afdeling. 
+Gek genoeg komt angst op dagelijkse basis vaker voor dan je denkt. Voor jouw beeldvorming, bespreken we een paar herkenbare voorbeelden. 
 
-Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. En andere kleine beestjes met meer dan vier poten.
+Te beginnen met sociale angst. Hierbij speelt de angst om eigenlijk écht te kunnen zeggen wat je ergens van vindt een belangrijke rol. Dit gebeurt vaak op de werkvloer. In een vergadering. Of tijdens een presentatie met de gehele afdeling. Uiteraard liggen de verhoudingen van dit fenomeen wel ietsje complexer. We proberen het uit te leggen met een paar voorbeelden.
 
-Wellicht een fijne gedachten. Op angst kun je je niet voorbereiden. Zoals in een ziekenhuis. Waarbij de emoties hoog opspelen door het eventueel kunnen lijden van pijn. Oók bij lichtere operaties. 
+* Dit fenomeen kan worden veroorzaakt door zogenaamd groepsdenken. Waarbij een groep intelligente mensen zodanig wordt beïnvloed door groepsprocessen, dat de kwaliteit van de besluitvorming vermindert. Wanneer je als persoon hier op reageert, kijkt iedereen je wellicht verbaasd en een beetje geïrriteerd aan. En waar had jij het over? 
 
-Laten we deze emotie beter leren begrijpen. 
+* Het besluitvormingsproces kan worden beïnvloed door besluitvorming gebaseerd op eensgezindheid onder de groepsleden. Het rationeel denken waarbij kritische overwegingen de leidraad vormen, worden simpelweg opzij gezet. Hierbij weegt het ‘meeste stemmen gelden principe’ het zwaarst. Dus waarom zou je een opmerking maken?
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. En een eenvoudige natuurlijke behandeling. Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
+* Anderzijds kan rationeel denken ook de boventoon zetten, waarbij organisationele doelstellingen voorrang verkrijgen boven emotionele beslissingen. Het nadeel van organisaties met deze denkwijze is dat werknemers hun empathisch vermogen met de organisatie waar zij voor werken kwijt raken. Met andere woorden, je krijgt het gevoel dat je een nummertje bent. Je mag blij zijn hier een bijdrage aan te leveren. Dus hou je mond maar gewoon. 
+
+* Tot slot. Rationele beslissing kunnen het onderspit delven wanneer er sprake is van sociale druk. Hierbij drukt een peergroup (lees: het management en de langst zittende werknemers) meestal bewust, maar ook onbewust, druk uit op een kleinere groep óf een bepaald persoon om het gedrag te veranderen. Hierbij spelen de normen en gedragingen van de dominante groep een belangrijke rol. Zowel in positieve als negatieve zin. En kan de macht van de niet-dominante groepsleden op eenvoudige wijze worden ingeperkt. Reageren hierop heeft niet-dominante groepsleden geen zin. Er wordt toch niet geluisterd. Nadeel voor de peergroup is echter dat wanneer er geen overeenstemming kan worden gevonden tussen beide groepen, dat de betrokkenheid met de dag wordt verminderd. Met als gevolg, dat jij je tijd uitzit. 
+
+Ook al klinkt angst vrij extreem, dit zijn vormen van angst op dagelijkse basis. En zoals je ziet zijn dit voorbeelden waarbij er voor langere tijd angst heerst. En zul je dit na verloop van tijd ook zien aankomen. Door de ervaring die je opdoet op in het werkende leven. 
+
+Echter zijn er meerdere vormen van angst. Zo heb je last van een gevoel van intense angst waarbij je plotseling wilt vluchten. Wellicht een extreem voorbeeld. Maar wat gaat er door je heen wanneer iemand je horloge probeert af te pakken. 
+
+Maar ook lichtere vormen van angst waarbij je een korte periode last hebt van een opgelaten gevoel. Een vorm hiervan is faalangst. Tevens een vorm van angst op dagelijkse basis. Denk aan die ene keer in een overvolle collegezaal. Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. 
+
+Wellicht een fijne gedachten. Op angst kun je je ook vaak niet voorbereiden. Zoals in een ziekenhuis. 
+
+Waarbij de emoties hoog opspelen door het eventueel kunnen lijden van pijn. Oók bij lichtere operaties. Of wanneer je van je arts weer moet leren lopen na het scheuren van je enkelbanden. 
+
+Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. vliegtuigen, honden. etc.
+
+Oke we kunnen nog even doorgaan. Over verschillende vormen van angst. 
+
+Maar de vraag blijft. Kun je er wat tegen doen? 
+
+Ja, echter gaat dit op natuurlijke wijze, buiten gebruik om van farmaceutische medicijnen, niet snel. Veel vormen van angst kun je niet van de ene op de andere dag kwijt raken. Wat je echter wel kunt doen is lichtere vormen van angst op eenvoudige wijze verminderen. Waardoor je zelfverzekerder door het leven gaat. Zo zijn er tal van mogelijkheden die al bijdragen aan. Denk aan goed voorbereid op pad gaan. Het aanpassen van je dieet. En er zelfverzekerd uitzien.
+
+Simpel voorbeeld is het opdoen van make-up. Zo voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up.
+
+Er zijn tal van voorbeelden te noemen. 
+
+Echter, waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk product om dit probleem te bestrijden.
+
+Denk aan Ivan Chai. Een Siberische kruidenthee. 
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een stress te voorkomen.
+Mocht je toch onverhoopt met een overmatige hoeveelheid aan stress rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+
+Goed om te weten. Bestrijd lichtere vormen van angst en vermijd het gebruik van farmaceutische medicijnen.
+
+> Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
+
+Lees verder hoe Ivan Chai je kan helpen bij het verminderen angst.
+
+Laten we deze emotie beter leren begrijpen.
+
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. En een eenvoudige natuurlijke behandeling.
  
 ## Inhoud van dit artikel
 
-[**Angst**](#angst)<br>
+[**Inzichten**](#in)<br>
+* [Over angst](#over-angst)
 * [Hoe ontstaat een gevoel van angst?](#Hoe-ontstaat-een-gevoel-van-angst)
 * [Is angst in Nederland een zorgwekkend probleem?](#Is-angst-in-Nederland-een-zorgwekkend-probleem)
 * [Zijn er omstandigheden die het gevoel activeren?](#Zijn-er-omstandigheden-die-het-gevoel-activeren)
 * [Eenvoudige natuurlijke behandeling](#Eenvoudige-natuurlijke-behandeling)
 
 [**Ivan Chai**](#ivan-chai)<br>
-* [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
-* [Bevindingen](#bevindingen)
-* [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
+* [7 voordelen](#7-voordelen)
+* [Tegen 17 problemen](#ivan-chai-tegen-17-problemen)
+
+[**Natuurlijke behandeling**](#Natuurlijke-behandeling)
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
 * [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
+
+[**Tot slot**](#Tot-slot)
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
 * [Bereidingswijze](#bereidingswijze)
+* [Waar te koop](#Waar-te-koop)
 
 [**Inzichten**](#inzichten)<br>
 * [Over angst](#over-angst)
 
-# Angst
-(de; m; meervoud: angsten) 1. gevoel van beklemming, vrees, onveiligheid of onzekerheid: iets met angst en beven tegemoetzien er erg tegen opzien, het vrezen; hij stond duizend angsten uit; in angst zitten
+# Inzichten
+### Over angst
+
+Onze dikke Van Dale omschrijft angst op de volgende manier:
+
+(de; m; meervoud: angsten) 1. gevoel van beklemming, vrees, onveiligheid of onzekerheid: iets met angst en beven tegemoet zien er erg tegenop zien, het vrezen; hij stond duizend angsten uit; in angst zitten
 
 ### Hoe ontstaat een gevoel van angst?
 Angst kan een gevolg zijn van meerdere factoren. Hieronder enkele voorbeelden:
-* Verleden 
-  - **Trauma** - je hebt in het verleden te maken gehad met een schokkende - of ingrijpende - gebeurtenis. Je wordt er constant aan herinnerd. En hebt het nog niet goed verwerkt. Of plekje kunnen geven. 
-  - Door **invloeden uit je omgeving** - denk hierbij aan gezinsinvloeden. Waardoor je angst voor iets overneemt van - bijvoorbeeld - je ouders. 
+* Verleden
+  - **Trauma** - je hebt in het verleden te maken gehad met een schokkende - of ingrijpende - gebeurtenis. Je wordt er constant aan herinnerd. En hebt het nog niet goed verwerkt. Of plekje kunnen geven.
+  - Door **invloeden uit je omgeving** - denk hierbij aan gezinsinvloeden. Waardoor je angst voor iets overneemt van - bijvoorbeeld - je ouders.
 * Heden
-  - **Mentale gesteldheid** - je kan je in een situatie begeven - een moment of meerdere dagen dan wel maanden op rij - waarbij je de situatie waarin je je begeeft niet de baas kunt. Hierdoor ervaar je onzekerheid waardoor je angstig door het leven gaat. 
+  - **Mentale gesteldheid** - je kan je in een situatie begeven - een moment of meerdere dagen dan wel maanden op rij - waarbij je de situatie waarin je je begeeft niet de baas kunt. Hierdoor ervaar je onzekerheid waardoor je angstig door het leven gaat.
 * Toekomst
-  - **Bangmakerij** - je bent bang door verhalen uit je omgeving. Een simpel voorbeeld kan zijn vliegangst. En niet een vliegtuig in durven stappen. 
+  - **Bangmakerij** - je bent bang door verhalen uit je omgeving. Een simpel voorbeeld kan zijn vliegangst. En niet een vliegtuig in durven stappen.
 
-### Is angst in Nederland een zorgwekkend probleem? 
+### Is angst in Nederland een zorgwekkend probleem?
 Jaarlijks gaan er ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen.
 
 ### Zijn er omstandigheden die het gevoel activeren?
-Er is onderzoek gedaan door verschillende psychiaters. Die zijn tot de conclusie gekomen dat angst kan worden versterkt door een toenemende mate van: 
-* controle door het management 
+Er is onderzoek gedaan door verschillende psychiaters. Die zijn tot de conclusie gekomen dat angst kan worden versterkt door een toenemende mate van:
+* controle door het management
 * technologie in het dagelijks leven
 * en stress
 
-Stress werkt als een katalysator op angst. Helemaal dan, worden waarden als vertrouwen, overgave en spontaniteit ingeruild voor achterdocht en controle. Met angst tot gevolg. 
+Stress werkt als een katalysator op angst. Helemaal dan, worden waarden als vertrouwen, overgave en spontaniteit ingeruild voor achterdocht en controle. Met angst tot gevolg.
 
-> Verschillende onafhankelijke instituten beweren dat angst één van de minst handelbare emoties is. En is hiermee één van de meest voorkomende aandoeningen in de psychiatrie. Simpelgezegd, zie je dit probleem meestal niet aankomen. 
+> Verschillende onafhankelijke instituten beweren dat angst één van de minst handelbare emoties is. En is hiermee één van de meest voorkomende aandoeningen in de psychiatrie. Simpelgezegd, zie je dit probleem meestal niet aankomen.
 
-### Eenvoudige natuurlijke behandeling
-
-Angst is een emotie die we allen een keer hebben ervaren. De één heftiger dan de ander. Je ziet het aankomen, voor langere tijd. Of je krijgt plotseling last van angst. 
-
-Lichtere vormen van angst kun je op eenvoudige wijze verminderen. Waardoor je zelfverzekerder door het leven gaat. 
-
-Zo zijn er tal van mogelijkheden die al bijdragen aan. Denk aan goed voorbereid op pad gaan. Het aanpassen van je dieet. En er zelfverzekerd uitzien. 
-
-> Ter info: Zo voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up.
-
-Hiernaast kun je ook gebruik maken van eenvoudige natuurlijke behandelingen. Die gebruikt kunnen worden als alledaags product. 
-
-Denk aan Ivan Chai. Een Siberische kruidenthee. Hiermee verminder je de kans op ongezonde angst.
-
-Bestrijd lichtere vormen van angst en vermijd het gebruik van farmaceutische medicijnen. 
-> Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
-
-Lees verder hoe Ivan Chai je kan helpen bij het verminderen angst.
-
-# Ivan Chai
+## Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief of ter behandeling tegen angst.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen angst.
 
-### De oorsprong van Ivan Chai
-> Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië.
-
-Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
-
-Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
-
-Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de wildernis van Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden.
-
-**Bevindingen** <br>
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
 De bevindingen zijn als volgt: <br>
-> Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel. Wat helpt angst te verminderen. 
+Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai een rustgevend effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op het angstgevoel vermindert.
 
-Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
+Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de 7 voordelen die te vinden zijn in Ivan Chai:
+Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
 
-> 1 - Versterkt de weerstand <br>
-> 2 - Krachtige ontstekingsremmer <br>
-> 3 - Versterkt de antioxiderede werking <br>
-> 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op angst, angst en een burnout <br>
-> 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
-> 7 - Verzorgt het spijsverteringsstelsel
+### 7 voordelen
+_"Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen, ter ontspanning of als levenselixer"_
+
+De voordelen zijn als volgt:
+
+> 1. Versterkt de weerstand <br>
+> 2. Krachtige ontstekingsremmer <br>
+> 3. Versterkt de antioxiderede werking <br>
+> 4. Verbetert de nachtrust <br>
+> 5. Vermindert de kans op stress, angst en een burnout <br>
+> 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
+> 7. Verzorgt het spijsverteringsstelsel
 
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
 
-### Ivan Chai tegen 17 problemen
+### Tegen 17 problemen
+_”Het voorkomen van problemen draagt niet alleen bij aan de gezondheid... het bespaart ook een hoop moeite en energie”_
+
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -159,7 +185,7 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 11. Angst
 
-12. Burnout
+12. Burn - out
 
 13. Prostaatontsteking
 
@@ -171,9 +197,20 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
+# Natuurlijke behandeling
+_“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige natuurlijke behandelingen - om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen”_
+
+Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen. Kleine veranderingen in alledaagse handelingen bieden hierbij al soelaas, in je zoektocht naar het behalen van je doelstellingen. Hiernaast kun je het lichaam bekijken vanuit holistisch perspectief.
+
+Het holistische perspectief bestrijkt het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. De mens wordt in zijn totaliteit benaderd. Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken liggen er eenvoudige natuurlijke behandelingen voor de hand."
+
+Deze eenvoudige natuurlijke behandelingen hebben de vorm van alledaagse producten. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet hoeft om te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken.
+
+In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. In andere woorden, één kop Ivan Chai maakt niet het verschil.
+
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
-* Drink 1 kop voor de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
+* Drink 1 kop vóór de maaltijd. En 2 keer per dag. Voor ten minste 10 dagen. <br>
 
 ### Is het effect van Ivan Chai direct voelbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar.
@@ -181,7 +218,7 @@ In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een z
 _...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?_
 
 Wij raden het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
-
+ 
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
 > Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
@@ -209,15 +246,14 @@ Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelhede
 En is gelukkig veilig voor kinderen.
  
 **Zwangerschap, borstvoeding en vruchtbaarheid** <br>
-* Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
+* Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
  
-### Hoe bewaar je Ivan Chai?
-Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
+# Tot slot
+_"Het maakt niet uit hoe langzaam je gaat, zolang je maar niet stopt"_
 
-Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden.
-
-Gezien de natuurlijke aard kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
+Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
+Geniet van je overheerlijke kop Ivan Chai.
 
 ### Bereidingswijze
 Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
@@ -230,19 +266,12 @@ De **smaak** is als volgt te omschrijven:
 
 _...En hoe zit het met de **geur**?_ <br>
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
- 
-**Intensiteit** <br>
-(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Inzichten
-### Over angst
+### Hoe bewaar je Ivan Chai?
+Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden - in verband met verstikkingsgevaar.
 
-Angst staat in de medische wereld bekend, als één van de minst handelbare emoties. Je kan er plotseling last van krijgen. Zonder enige vorm van waarschuwing. Je ziet het gewoon niet aankomen. 
+Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
 
-Dit kan nare situaties opleveren. Vol hartkloppingen, een hoge bloeddruk en aangespannen spieren. Voor velen een onaangenaam gevoel. Niet voor herhaling vatbaar.  
+Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
-Er zijn verschillende manieren die al bijdragen aan het verminderen van angst. Wij bevelen je bij deze Ivan Chai aan. Om de kalmerende werking op je centrale zenuwstelsel. Veel gebruikt in de traditionele volksgeneeskunde. En bewezen effectief door hedendaags onderzoek. 
-
-> Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van ernstige angst, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
->
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En wij garanderen je dat je beter in staat bent de kans op angst te verminderen.
+### Waar te koop
