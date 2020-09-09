@@ -1,68 +1,100 @@
 ---
 layout: article.html
 title: Burn-out | Opgeven is géén optie
-publish:
   Author: IVAN'S INSIGHTS
 ---
 
 # Voordeel Ivan Chai
 > Vermindert de kans op een burn-out
 
-_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai effect heeft, op je centrale zenuwstelsel. Hierdoor kan de kans op een burn-out worden vermindert._
+_Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai een rustgevend effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert._
 
 # Opgeven is géén optie
-...En opeens is het zover.
 
-Je bent gedreven, ambitieus en enthousiast. Je krijgt veel verantwoordelijkheid. Er is werk in overvloed. En die dynamische werkomgeving - dat zit wel goed! 
+We kunnen het niet vaak genoeg herhalen. Een burn-out is een gevolg van een lange periode aan overbelasting. Meestal ontstaat een burn-out op de werkvloer. Laten we dit probleem eens even beter leren begrijpen. 
 
-De tijd gaat snel. En je hebt het gevoel dat je carrière aan het maken bent. Zonder erover na te denken maak je overuren.
+Want zonder dat je er erg in hebt is het zover. 
 
-Echter, wanneer je opgaat in het werkende leven, is het nemen van rust géén optie.
+> Bij een burn-out is je lichaam fysiek én mentaal helemaal uitgeput. Het liefst zit je thuis op de bank. 
 
-_...want waarom zou je?_
+Hoe heeft het zover kunnen komen? Vraag je jezelf af. 
 
-Vergeet niet dat je hier naast óók nog buiten werk om sport, avonden uit gaat. En op de behoefte van het thuisfront moet inspelen.
+Je hebt laten zien dat je gedreven, ambitieus en enthousiast bent. Je krijgt veel verantwoordelijkheid. En er is werk in overvloed om jezelf te bewijzen. 
 
-Je wordt geleefd. En staat - van dag tot dag - veel te lang in de 5de versnelling.
+En wat betreft die dynamische werkomgeving... dat zit wel goed.
+
+De tijd gaat snel. En alle deadlines werk je achter elkaar weg. 
+
+Je bent competitief ingesteld waardoor je voor je gevoel nét even iets meer geeft dan jouw collega’s. Je hebt het gevoel dat je echt carrière aan het maken bent. En zonder erover na te denken maak je overuren. 
+
+Je wordt geleefd. En hebt geen behoefte aan rust. 
+
+...want waarom zou je?
+
+Opgeven is géén optie.
+
+Vergeet niet dat je buiten werk om óók nog sport én avonden uit gaat. Je staat van dag tot dag veel te lang in de 5de versnelling. Met een burn-out als gevolg.
+
+En iedereen weet eigenlijk wel hoe je een burn-out voorkomt. Het moeilijke aan dit verhaal is echter het tijdig nemen van rust. Ook wel de allereerste stap richting het voorkomen van een burn-out. 
+
+Maar goed... 
+
+Laten we je maar gelijk vertellen wat er aan de hand is. Je was verslaafd aan werk. De cortisol die zorgt voor de adrenaline in je lichaam, heeft ervoor gezorgd dat je wil blijven doorgaan. 
+
+Je zal in het vervolg een levensstijl moeten vinden waarbij je je energieniveau gelijkmatig uitgespreid over je werk én je privéleven. 
+
+Waarbij het nemen van rust om je hoofd leeg te maken, óók een plek op de agenda verkrijgt.  
+
+Wanneer je stress goed aanpakt, hoef je minder snel kennis te maken met de gevolgen. Het krijgen van een burn-out.
+
+Klinkt makkelijker gezegd dan gedaan. 
 
 Gek genoeg, overkomt dit toch meer dan 1.000.000 mensen per dag in Nederland.
 
-Met een burn-out als gevolg.
+Waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk product om dit probleem te bestrijden.
 
-Laten we dit probleem - wat op de werkvloer ontstaat - eens even beter leren begrijpen.
+Denk aan Ivan Chai. Een Siberische kruidenthee.
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een burn-out te voorkomen.
+Mocht je toch onverhoopt met een overmatige hoeveelheid aan stress rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Wanneer je een burn-out voorkomt, hoef je minder  snel kennis te maken met de farmaceutische medicijnen die dit probleem bestrijdt. 
+> Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
+
+Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out.
  
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een burn-out. En een eenvoudige natuurlijke behandeling. 
-
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een burn-out. En een eenvoudige natuurlijke behandeling.
 
 ## Inhoud van dit artikel
 
-[**Burn-out**](#burn-out) <br>
-* [Wat is een burn-out?](#wat-is-een-burn-out)
+[**Inzichten**](#inzichten) <br>
+* [Over een burn-out?](#Over-een-burn-out)
 * [Komt dit probleem vaak voor?](#komt-dit-probleem-vaak-voor)
 * [Wat heeft een burn-out te maken met stress?](#wat-heeft-een-burn-out-te-maken-met-stress)
 * [Is dit dan ook vergelijkbaar met een bore-out?](#is-dit-dan-ook-vergelijkbaar-met-een-bore-out)
-* [Eenvoudige natuurlijke behandeling](#eenvoudige-natuurlijke-behandeling)
 
 [**Ivan Chai**](#ivan-chai)<br>
-* [De oorsprong van Ivan Chai](#de-oorsprong-van-ivan-chai)
-* [Bevindingen](#bevindingen)
-* [Ivan Chai tegen 17 problemen](#ivan-chai-tegen-17-problemen)
+* [7 voordelen](#7-voordelen)
+* [Tegen 17 problemen](#ivan-chai-tegen-17-problemen)
+
+[**Natuurlijke behandeling**](#Natuurlijke-behandeling)
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
 * [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
+
+[**Tot slot**](#Tot-slot)
 * [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
 * [Bereidingswijze](#bereidingswijze)
+* [Waar te koop](#Waar-te-koop)
 
 [**Inzichten**](#inzichten)<br>
-* [Over een burn-out](#over-een-burn-out)
+* [Over angst](#over-angst)
 
-# Burn-out
+# Inzichten
+### Over een burnout
+Onze dikke Van Dale omschrijft een burn-out op de volgende manier:
 > (de; m; meervoud: burn-outs) 1. toestand van geestelijke uitputting ten gevolge van langdurige stress
 
-### Wat is een burn-out?
-Bij een burn-out wisselt een periode van veel inspanning zich in - voor een periode waarbij je volledig uitgeput bent. En waarbij je jezelf moeilijk kan focussen. Met als gevolg dat je jezelf mentaal, emotioneel en lichamelijk volledig machteloos voelt. Deze symptomen maken een burn-out een energiestoornis.
+Bij een burn-out wisselt een periode van veel inspanning zich in voor een periode waarbij je volledig uitgeput bent. En waarbij je jezelf moeilijk kan focussen. Met als gevolg dat je jezelf mentaal, emotioneel en lichamelijk volledig machteloos voelt. Deze symptomen maken een burn-out een energiestoornis.
 
 > Zowel man, vrouw, jong en oud hebben last van een burnout
 
@@ -100,59 +132,40 @@ Bij een **bore-out** heb je op werk:
 
 Beide, met hetzelfde energieniveau tot gevolg.
 
-### Eenvoudige natuurlijke behandeling
-Een burn-out is een probleem, wat ontstaat op de werkvloer. Als gevolg van een overmatige hoeveelheid aan stress. Wanneer je dit probleem wilt voorkomen, zul je moeten beginnen met het herkennen, en controleren van stress.
-
-Wanneer je het gevoel herkent. Zal je een levensstijl moeten vinden, waarbij je je energieniveau gelijkmatig uitgespreid over je werk-privéleven. Waarbij het nemen van rust - om je hoofd leeg te maken - óók een plek op de agenda verkrijgt.  
-
-Wanneer je stress goed aanpakt, hoef je minder snel kennis te maken met de gevolgen - het krijgen van een burn-out.
-
-Wat je hierbij kan helpen - wanneer je een lichtere vorm van stress herkent - is het gebruik van eenvoudige natuurlijke behandelingen. Denk hierbij aan Ivan Chai. Een Siberische kruidenthee.
-
-Hiermee verminder je de kans op ongezonde werkstress. Omdat het een kalmerende werking heeft op je centrale zenuwstelsel. Overigens veel gebruikt in de traditionele volksgeneeskunde. Bewezen effectief door hedendaags onderzoek.
-
-Wanneer je stress - en hiermee een burn-out - goed aanpakt, en controleert, hoef je minder snel kennis te maken met de farmaceutische medicijnen die deze problemen bestrijden. 
-> Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
-
-Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out.
-
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Gebruik Ivan Chai preventief of ter behandeling tegen een burn-out.
+Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen angst.
 
-### De oorsprong van Ivan Chai
-> Ivan Chai is een Siberische kruidenthee. Het wordt gemaakt van kruiden uit Siberië.
-
-Van deze kruiden worden de hand gerolde bladeren gefermenteerd. Na het fermenteren worden ze gedroogd. Waarna ze kunnen worden gebruikt voor het zetten van de Siberische kruidenthee Ivan Chai.
-
-Ivan Chai heeft de naam te danken aan de veelgebruikte Russische naam ‘Ivan’. Waar de alom bekende term ‘Chai’ werd toegevoegd om thee aan te duiden.
-
-Deze geneeskrachtige kruiden - waar Ivan Chai van wordt gemaakt - groeien in de wildernis van Siberië. Met name langs de vruchtbare oevers van rivieren. En voedselrijke terreinen zoals heide of bosgebieden.
-
-**Bevindingen** <br>
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
 De bevindingen zijn als volgt: <br>
-> Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel. Wat helpt een burn-out te verminderen.
+Ivan Chai heeft een kalmerende werking. Onderzoek ondersteund deze bevindingen. En heeft aangetoond dat het drinken van Ivan Chai een rustgevend effect heeft op je centrale zenuwstelsel. Hierdoor wordt de kans op een burn-out vermindert.
 
-Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt – in Siberië - al eeuwen genuttigd vanwege de geneeskrachtige werking.
+Hedendaagse onderzoeken bevestigen hierbij eeuwenoude bevindingen. Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
 
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de 7 voordelen die te vinden zijn in Ivan Chai:
+Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
 
-> 1 - Versterkt de weerstand <br>
-> 2 - Krachtige ontstekingsremmer <br>
-> 3 - Versterkt de antioxiderede werking <br>
-> 4 - Verbetert de nachtrust <br>
-> 5 - Vermindert de kans op stress, angst en een burn-out <br>
-> 6 - Verzorgt de gezondheid van de prostaat en urinewegen <br>
-> 7 - Verzorgt het spijsverteringsstelsel
+### 7 voordelen
+_"Drink Ivan Chai om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen, ter ontspanning of als levenselixer"_
+
+De voordelen zijn als volgt:
+
+> 1. Versterkt de weerstand <br>
+> 2. Krachtige ontstekingsremmer <br>
+> 3. Versterkt de antioxiderede werking <br>
+> 4. Verbetert de nachtrust <br>
+> 5. Vermindert de kans op stress, angst en een burnout <br>
+> 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
+> 7. Verzorgt het spijsverteringsstelsel
 
 Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
 
-### Ivan Chai tegen 17 problemen
+### Tegen 17 problemen
+_”Het voorkomen van problemen draagt niet alleen bij aan de gezondheid... het bespaart ook een hoop moeite en energie”_
+
 Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 1. Infectie: schimmel - gist - bacterieel
@@ -177,7 +190,7 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 11. Angst
 
-12. Burn-out
+12. Burn - out
 
 13. Prostaatontsteking
 
@@ -189,9 +202,20 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
+# Natuurlijke behandeling
+_“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige natuurlijke behandelingen - om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen”_
+
+Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen. Kleine veranderingen in alledaagse handelingen bieden hierbij al soelaas, in je zoektocht naar het behalen van je doelstellingen. Hiernaast kun je het lichaam bekijken vanuit holistisch perspectief.
+
+Het holistische perspectief bestrijkt het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. De mens wordt in zijn totaliteit benaderd. Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken liggen er eenvoudige natuurlijke behandelingen voor de hand."
+
+Deze eenvoudige natuurlijke behandelingen hebben de vorm van alledaagse producten. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet hoeft om te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken.
+
+In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. In andere woorden, één kop Ivan Chai maakt niet het verschil.
+
 ### Welke dosering en behandelingskuur raden jullie aan?
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
-* Drink 1 kop vóór de maaltijd en 2 keer per dag voor ten minste 10 dagen. <br>
+* Drink 1 kop vóór de maaltijd. En 2 keer per dag. Voor ten minste 10 dagen. <br>
 
 ### Is het effect van Ivan Chai direct voelbaar?
 In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een zogenaamde opbouwfase. Hierdoor is het effect bij gebruik niet direct voelbaar.
@@ -227,15 +251,14 @@ Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelhede
 En is gelukkig veilig voor kinderen.
  
 **Zwangerschap, borstvoeding en vruchtbaarheid** <br>
-* Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen om het gebruik te vermijden.
+* Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
  
-### Hoe bewaar je Ivan Chai?
-Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Hiernaast wordt het aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
+# Tot slot
+_"Het maakt niet uit hoe langzaam je gaat, zolang je maar niet stopt"_
 
-Bewaar de Ivan Chai in de herbruikbare tube ter bescherming tegen vocht. Op de verpakking staat aangegeven tot wanneer de Ivan Chai gebruikt kan worden.
-
-Gezien de natuurlijke aard kan het langer worden bewaard en geconsumeerd dan de uiterste houdbaarheidsdatum.
+Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
+Geniet van je overheerlijke kop Ivan Chai.
 
 ### Bereidingswijze
 Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
@@ -248,17 +271,12 @@ De **smaak** is als volgt te omschrijven:
 
 _...En hoe zit het met de **geur**?_ <br>
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
- 
-**Intensiteit** <br>
-(Create complicated looking circle diagram with lot of numbers to point out flavour intensity: https://en.wikipedia.org/wiki/Circle_diagram#/media/File:Circle_diagram.jpg)
 
-# Inzichten
-### Over een burn-out
+### Hoe bewaar je Ivan Chai?
+Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden - in verband met verstikkingsgevaar.
 
-Wij kunnen het niet vaak genoeg herhalen. Een burn-out is een gevolg van ongezonde stress. Leer stress tijdig te herkennen. Geef aan jezelf toe dat je ermee rondloopt. En voorkom hiermee op langere termijn een burn-out.
+Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
 
-Verander je levensstijl. En sta open voor natuurlijke behandelingen, in de vorm van een alledaagse producten - zoals Ivan Chai. Natuurlijke behandelingen kunnen de kans op een lichtere vorm van stress - waaruit een burnout kan ontstaan - verminderen.
+Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
-> Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige burn-out, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
->
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. Pas je levensstijl aan. En wij garanderen je dat je beter in staat bent de kans op een burn-out te verminderen.
+### Waar te koop
