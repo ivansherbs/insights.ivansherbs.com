@@ -17,7 +17,7 @@ Want zonder dat je er erg in hebt is het zover.
 
 > Bij een burn-out is je lichaam fysiek én mentaal helemaal uitgeput. Het liefst zit je thuis op de bank. 
 
-Hoe heeft het zover kunnen komen? Vraag je jezelf af. 
+Hoe heeft het zover kunnen komen? Vraag je jezelf dan af. 
 
 Je hebt laten zien dat je gedreven, ambitieus en enthousiast bent. Je krijgt veel verantwoordelijkheid. En er is werk in overvloed om jezelf te bewijzen. 
 
