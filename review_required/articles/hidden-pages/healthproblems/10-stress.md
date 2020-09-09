@@ -20,35 +20,32 @@ Je werkt hard. Je werk gefocused. Je krijgt veel gedaan. En wat betreft die werk
 
 Die heb je onder controle...
 
-Hard werken is leuk.
+Hard werken is hartstikke leuk.
 
 En voor je gevoel gaat je carrière erop vooruit.
 
 Dag in dag uit krijg je meer gedaan. En voor je het weet… 
 
-Neem je je werk mee naar huis. Letterlijk en figuurlijk. 
-
-In je hoofd. 
+Neem je je werk mee naar huis. Letterlijk en figuurlijk. In je hoofd. 
 
 Gelukkig overzie je daarom wél alle werkgerelateerd problemen gemakkelijk. 
 
-En met vakantie gaan. Dat doen we wel op een later moment. En wanneer het uitkomt. Want dat is wel zo handig. Momenteel heb je geen ruimte in je agenda. 
+En met vakantie gaan. Dat doen we wel op een later moment. Wanneer het uitkomt. Want dat is wel zo handig. Momenteel heb je namelijk géén ruimte in je agenda. 
 
-Zonder dat je het door hebt neem je gewoon geen rust meer.
+Zonder dat je het door hebt ben je alleen maar aan het werk.
 
 Stress is een ware sluipmoordenaar. Je staat zo maanden té lang in de 5de versnelling. 
 Tot het omslagpunt is bereikt. Want opeens heb je het door. 
 
-Je bent vaak moe maar kan niet slapen. Je hebt aan het einde van de dag vaker hoofdpijn. En je kan je hoofd maar niet leegmaken. 
+Je komt tot het besef dat je aan het einde van de dag vaker hoofdpijn hebt. Je bent vaak moe maar kan niet slapen. En je hoofd kun je maar niet leegmaken. 
 
-Het thuisfront krijgt tevens al tijden niet de nodige aandacht die het verdient.
+Het thuisfront en je omgeving krijgen tevens al tijden niet de nodige aandacht die het verdient.
 
 Je komt tot de realisatie dat je stijf staat van de cortisol. En dat je zwaar gespannen bent.  
 
 Je bent er nu eindelijk achter hoe stress écht voelt. 
 
 Waar veel mensen niet bij stilstaan is dat langdurige stress kan leiden tot nog heftigere problemen. Hierbij moet je denken aan angst en een burnout.
-
 Maar ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie. 
 
 De gevolgen van stress zijn echter niet te overzien. Want je weet niet voor welke problemen je gevoelig bent. Totdat je het hebt. 
@@ -107,7 +104,7 @@ Onze dikke Van Dale omschrijft stress op de volgende manier:
 
 _stress_ (de; m) 1. aanhoudende geestelijke druk; = spanning
 
-Wat echter niet in de Van Dale staat, is dat stress wordt veroorzaakt door het stresshormoon cortisol. Cortisol is vergelijkbaar met adrenaline. Stress heb je bijna niet van de ene op de andere dag. Je bouwt het meestal langzaam op. 
+Wat echter niet in de Van Dale staat, is dat stress wordt veroorzaakt door het stresshormoon cortisol. Cortisol is vergelijkbaar met adrenaline. Stress heb je bijna niet van de ene op de andere dag. Over het algemeen bouw je het meestal langzaam op. 
 
 ### Hoe ontstaat stress?
 Stress ontstaat wanneer er in je lichaam te lang, te veel spanning aanwezig is. Een kleine mate van stress is oké. En hoeft op het eerste gezicht niet voor problemen te zorgen. Je bent namelijk erg gefocust en actief.
