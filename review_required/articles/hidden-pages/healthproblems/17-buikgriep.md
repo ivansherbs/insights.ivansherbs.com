@@ -16,7 +16,13 @@ _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Wist je dat je het krijgen van buikgriep vaak kunt voorspellen? 
 
-Door logisch na te denken wat voor periode er voor de boeg staat. Kun je het preventief behandelen met een eenvoudige natuurlijke behandeling. Hiermee verklein je de kans dat je met dit probleem rondloopt. 
+Door logisch na te denken wat voor periode er voor de boeg staat. Je kunt het daarom zo goed als preventief behandelen met een eenvoudig én natuurlijk product. 
+
+Denk aan Ivan Chai. Een Siberische kruidenthee. 
+
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent buikgriep te voorkomen.
+
+Mocht je toch onverhoopt met zware bruikgriep rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Benieuwd naar de voorspelbaarheid van buikgriep waardoor je het preventief kunt behandelen? 
 
