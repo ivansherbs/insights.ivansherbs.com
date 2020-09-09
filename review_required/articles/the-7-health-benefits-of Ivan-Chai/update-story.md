@@ -10,7 +10,7 @@ _De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en al
 ## 7 Voordelen
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-> 1. [Versterkt de weerstand](#Ivan-Chai-versterkt-de-weerstand)
+> 1. [Versterkt de weerstand](#1.-Ivan-Chai-versterkt-de-weerstand)
 > 2. [Krachtige ontstekingsremmer](#Ivan-Chai-werkt-als-een-Krachtige-ontstekingsremmer)
 > 3. [Versterkt de antioxiderede werking](#Ivan-Chai-Versterkt-de-antioxiderede-werking)
 > 4. [Verbetert de nachtrust](#Ivan-Chai-Verbetert-de-nachtrust)
