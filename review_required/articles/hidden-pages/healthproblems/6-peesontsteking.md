@@ -11,10 +11,10 @@ Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontsteking
 
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te voorkomen, zoals een peesontsteking.
 
-# Een veel voorkomende sportblessure
+# De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 We houden er allemaal van om lekker te kunnen sporten! Het is goed voor de gezondheid van je lichaam én je gemoedstoestand. Zo komen er stoffen bij vrij waar je gelukkiger van wordt. 
-
 Méér dan de helft van de Nederlanders sport wekelijks. 
 
 Echter kan het voorkomen dat je nét iets te vaak én intensief je spieren hebt belasts. Dit kan nare gevolgen hebben voor je lichaam. Ook voor onderdelen van het lichaam waar je niet zo snel aan denkt. 
