@@ -1,7 +1,6 @@
 ---
 layout: article.html
 title: Urineweginfectie | Voorkom relatieproblemen 
-publish:
   Author: IVAN'S INSIGHTS
 ---
 
