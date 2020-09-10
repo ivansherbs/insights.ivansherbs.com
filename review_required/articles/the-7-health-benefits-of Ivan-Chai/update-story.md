@@ -39,7 +39,7 @@ _Ben jij benieuwd hoe je een infectie oploopt?_
 
 1. Infectie | Voorkom onnodige weefselschade
 
-2. Luchtweginfectie| Verzorg een verkoudheid of griep. En voor de babies onder ons pseudokroep.
+2. Luchtweginfectie| Verzorg een verkoudheid of griep. En voor babies pseudokroep.
 
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
@@ -167,7 +167,7 @@ Hieronder nog even kort een overzicht. Mocht je toch nog meer willen weten.
 [Versterkt de weerstand](#Versterkt-de-weerstand)
 
 1. Infectie | Voorkom onnodige weefselschade
-2. Luchtweginfectie| Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?
+2. Luchtweginfectie | Verzorg een verkoudheid of griep. En voor babies pseudokroep.
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
 [Krachtige ontstekingsremmer](#krachtige-ontstekingsremmer)
