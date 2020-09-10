@@ -29,8 +29,7 @@ Ontdek de 7 voordelen tegen 17 problemen. Het voorkomen van problemen draagt nie
 
 Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
 
-[**Inzichten**](#inzichten) <br>
-[Over Ivan Chai](#over-ivan-chai)
+[## Over Ivan Chai](#over-ivan-chai)
 * [Versterkt de weerstand](#Versterkt-de-weerstand)
 
 1. Infectie | Voorkom onnodige weefselschade
@@ -73,7 +72,6 @@ Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
 * [Smaakbeleving](#Smaakbeleving)
 * [Waar te koop](#waar-te-koop)
 
-# Inzichten
 ## Over Ivan Chai
 De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
