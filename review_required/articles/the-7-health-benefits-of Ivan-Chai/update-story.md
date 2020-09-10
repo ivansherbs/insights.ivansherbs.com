@@ -29,7 +29,7 @@ Ontdek de 7 voordelen tegen 17 problemen. Het voorkomen van problemen draagt nie
 
 Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
 
-[## Over Ivan Chai](#over-ivan-chai)
+## [Over Ivan Chai](#over-ivan-chai)
 * [Versterkt de weerstand](#Versterkt-de-weerstand)
 
 1. Infectie | Voorkom onnodige weefselschade
