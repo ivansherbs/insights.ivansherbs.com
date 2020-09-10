@@ -25,11 +25,11 @@ Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kan
 
 Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Wanneer je problemen wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, raden wij je het volgende aan: 
 
-Ontdek de 7 voordelen tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
+Ontdek de 7 voordelen van Ivan Chai tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
 
 Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
 
-## [Over Ivan Chai](#over-ivan-chai)
+## Ontdek Ivan Chai
 * [Versterkt de weerstand](#Versterkt-de-weerstand)
 
 1. Infectie | Voorkom onnodige weefselschade
@@ -70,9 +70,8 @@ Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
 
 * [Ivan's conclusie](#Ivans-conclusie)
 * [Smaakbeleving](#Smaakbeleving)
-* [Waar te koop](#waar-te-koop)
 
-## Over Ivan Chai
+## Ontdek Ivan Chai
 De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 
@@ -232,5 +231,3 @@ Ivan Chai is door verschillende thee experts geslurpt. De smaak en geur kun je a
 * "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
 
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
-
-## Waar te koop 
