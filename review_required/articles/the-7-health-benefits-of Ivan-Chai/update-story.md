@@ -32,41 +32,41 @@ Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
 [Over Ivan Chai](#over-ivan-chai)
 * Versterkt de weerstand 
 
-  1. Infectie | [Voorkom onnodige weefselschade](#Voorkom-onnodige-weefselschade)
-  2. Luchtweginfectie| [Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?](#Hoe-voorkom-je-op-eenvoudige-wijze-verkoudheid-of-griep-En-verzorg-je-pseudokroep)
-  3. Zwak immuunsysteem | [Beperk de mate van kwetsbaarheid](#Beperk-de-mate-van-kwetsbaarheid)
+1. Infectie | [Voorkom onnodige weefselschade](#Voorkom-onnodige-weefselschade)
+2. Luchtweginfectie| [Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?](#Hoe-voorkom-je-op-eenvoudige-wijze-verkoudheid-of-griep-En-verzorg-je-pseudokroep)
+3. Zwak immuunsysteem | [Beperk de mate van kwetsbaarheid](#Beperk-de-mate-van-kwetsbaarheid)
 
 * Krachtige ontstekingsremmer
 
-  4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
-  5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
-  6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
-  7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
+4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
+5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
+6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
   
 * Versterkt de antioxiderede werking
 
-  8. Hart- en vaatziekten | Zie het tijdig aankomen!
+8. Hart- en vaatziekten | Zie het tijdig aankomen!
 
 * Verbetert de nachtrust
 
-  9. Slaapproblemen | Stress als katalysator op een slaapprobleem
+9. Slaapproblemen | Stress als katalysator op een slaapprobleem
 
 * Vermindert de kans op stress, angst en een burnout
 
-  10. Stress | Ben jij er al achter hoe het écht voelt?
-  11. Angst | Zie jij het wél aankomen?
-  12. Burnout | Opgeven is géén optie
+10. Stress | Ben jij er al achter hoe het écht voelt?
+11. Angst | Zie jij het wél aankomen?
+12. Burnout | Opgeven is géén optie
   
 * Verzorgt de gezondheid van de prostaat en urinewegen
 
-  13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
-  14. Vergrote prostaat | Een goedaardige aandoening
-  15. Prostaatkanker | Een onopgemerkt probleem
-  16. Urineweginfectie | Voorkom relatieproblemen
+13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
+14. Vergrote prostaat | Een goedaardige aandoening
+15. Prostaatkanker | Een onopgemerkt probleem
+16. Urineweginfectie | Voorkom relatieproblemen
 
 * Verzorgt het spijsverteringsstelsel
 
-  17. Buikgriep | Een voorspelbaar probleem 
+17. Buikgriep | Een voorspelbaar probleem 
 
 * [Ivan's conclusie](#Ivans-conclusie)
 * [Smaakbeleving](#Smaakbeleving)
