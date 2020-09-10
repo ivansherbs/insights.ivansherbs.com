@@ -23,11 +23,17 @@ Ivan's Insights bundelt artikelen met als doel je snel te informeren over proble
 
 Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kans op ziekten te verkleinen én problemen te verzorgen. 
 
-Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Wanneer je problemen wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, raden wij je het volgende aan: 
+Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. 
 
-Ontdek de 7 voordelen van Ivan Chai tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
+Wanneer je problemen wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, dan raden wij je het volgende aan: 
 
-Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
+Ontdek de 7 voordelen van Ivan Chai tegen 17 problemen. 
+
+Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
+
+Behoefte aan meer diepgang? 
+
+Lees per probleem het bijbehorende artikel.
 
 ## Ontdek Ivan Chai
 * [Versterkt de weerstand](#Versterkt-de-weerstand)
