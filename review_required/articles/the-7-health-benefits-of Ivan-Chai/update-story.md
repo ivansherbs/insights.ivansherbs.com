@@ -21,19 +21,11 @@ _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan's Insights bundelt artikelen met als doel je snel te informeren over problemen. En eenvoudige natuurlijke behandelingen. Binnen deze behandelingen staat met name kruidenthee uit Siberië centraal.
 
-Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kans op ziekten te verkleinen én problemen te verzorgen. 
+Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kans op ziekten te verkleinen én problemen te verzorgen. Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Wanneer je problemen wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, dan raden wij je het volgende aan: 
 
-Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. 
+Ontdek de 7 voordelen van Ivan Chai tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
 
-Wanneer je problemen wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, dan raden wij je het volgende aan: 
-
-Ontdek de 7 voordelen van Ivan Chai tegen 17 problemen. 
-
-Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
-
-Behoefte aan meer diepgang? 
-
-Lees per probleem het bijbehorende artikel.
+Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
 
 ## Ontdek Ivan Chai
 * [Versterkt de weerstand](#Versterkt-de-weerstand)
@@ -85,13 +77,11 @@ https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=shari
 
 ### 1. Ivan Chai versterkt de weerstand
 
-De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
+De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
-Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem.
+Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op de volgende problemen vele malen verminderd. 
 
-Door het versterken van je immuunsysteem wordt de kans op de volgende problemen vele malen verminderd. 
-
-Ben jij benieuwd hoe je een infectie oploopt?
+_Ben jij benieuwd hoe je een infectie oploopt?_
 
 1. Infectie | Voorkom onnodige weefselschade
 
@@ -108,7 +98,7 @@ Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontsteking
 
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verzorgen.
 
-Ben jij benieuwd hoe je preventief een ontsteking behandelt?
+_Ben jij benieuwd hoe je preventief een ontsteking behandelt?_
 
 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
 
@@ -123,11 +113,9 @@ https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=shari
 
 ### 3. Ivan Chai versterkt de antioxiderede werking
 
-Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. 
+Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel. 
 
-Antioxidanten hebben een positieve werking op je hart- en vaatstelsel. 
-
-Benieuwd naar de impact van hart- en vaatziekten?
+_Benieuwd naar de impact van hart- en vaatziekten?_
 
 8. Hart- en vaatziekten | Zie het tijdig aankomen!
 
@@ -140,7 +128,7 @@ Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te ove
 
 In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
 
-Wil jij je nachtrust bevorderen?
+_Wil jij je nachtrust bevorderen?_
 
 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
 
@@ -153,7 +141,7 @@ Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneesk
 
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-Benieuwd naar de invloed van coritisol op jouw geest?
+_Benieuwd naar de invloed van coritisol op jouw geest?_
 
 10. Stress | Ben jij er al achter hoe het écht voelt?
 
@@ -184,7 +172,7 @@ Het antitumor effect is goed bestudeerd en heeft met name een positieve werking 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B.
 Ivan Chai kan door de positieve werking - die Oenotheïne B heeft op het lichaam - worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
-Benieuwd naar een probleem waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?
+_Benieuwd naar een klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?_
 
 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
 
@@ -199,19 +187,13 @@ https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=shari
 
 ### 7. Ivan Chai verzorgt het spijsverteringsstelsel
 
-Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen.
+Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Gastritis en Colitis kunnen allemaal worden verholpen door het drinken van Ivan Chai.
 
-Gastritis en Colitis kunnen allemaal worden verholpen door het drinken van Ivan Chai.
-
-Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm.
-
-Het dient om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. Of die veranderingen in hun dieet ondergaan.
-
-Oók kan een maagzweer worden behandelt met Ivan Chai.
+Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm. Het dient namelijk om je spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. Of die veranderingen in hun dieet ondergaan. Oók kan een maagzweer worden behandelt met Ivan Chai.
 
 Tot slot, voor de reizigres onder ons. Darmparasieten kunnen zelfs geëlimineerd worden door grote hoeveelheden Ivan Chai te drinken. 
 
-Geen zin om op vakantie in verlegenheid te worden gebracht?
+_Geen zin om op vakantie in verlegenheid te worden gebracht?_
 
 17. Buikgriep | Een voorspelbaar probleem 
 
