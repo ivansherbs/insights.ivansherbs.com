@@ -16,19 +16,16 @@ _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
 
-## Overzicht Ivan's Insights
+# Ontdek Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan's Insights bundelt artikelen met als doel je snel te informeren over problemen. En eenvoudige natuurlijke behandelingen. Binnen deze behandelingen staat met name kruidenthee uit Siberië centraal.
-
-Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kans op ziekten te verkleinen én problemen te verzorgen. Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Wanneer je problemen wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, dan raden wij je het volgende aan: 
-
-Ontdek de 7 voordelen van Ivan Chai tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
-
-
-# Ontdek Ivan Chai
 De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
+Lees snel verder en ontdek wat voor een effect de 7 voordelen van Ivan Chai hebben op jouw lichaam en geest. 
+
+_Behoefte aan meer diepgang?_ 
+
+Lees per probleem het bijbehorende artikel.
 
 https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=sharing
 
@@ -157,45 +154,51 @@ _Geen zin om op vakantie in verlegenheid te worden gebracht?_
 
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
 
-## _Behoefte aan meer diepgang?_ 
+## Overzicht Ivan's Insights
 
-Lees per probleem het bijbehorende artikel.
+Ivan's Insights bundelt artikelen met als doel je snel te informeren over problemen. En eenvoudige natuurlijke behandelingen. Binnen deze behandelingen staat met name kruidenthee uit Siberië centraal.
 
-**[Versterkt de weerstand]**(#Versterkt-de-weerstand)
+Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kans op ziekten te verkleinen én problemen te verzorgen. Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Wanneer je problemen wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, dan raden wij je het volgende aan: 
+
+Ontdek de 7 voordelen van Ivan Chai tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
+
+Hieronder nog even kort een overzicht. Mocht je toch nog meer willen weten. 
+
+[Versterkt de weerstand](#Versterkt-de-weerstand)
 
 1. Infectie | Voorkom onnodige weefselschade
 2. Luchtweginfectie| Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
-**[Krachtige ontstekingsremmer]**(#krachtige-ontstekingsremmer)
+[Krachtige ontstekingsremmer](#krachtige-ontstekingsremmer)
 
 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
 5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
 6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
 7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
   
-**[Versterkt de antioxiderede werking]**(#Versterkt-de-antioxiderede-werking)
+[Versterkt de antioxiderede werking](#Versterkt-de-antioxiderede-werking)
 
 8. Hart- en vaatziekten | Zie het tijdig aankomen!
 
-**[Verbetert de nachtrust]**(#Verbetert-de-nachtrust)
+[Verbetert de nachtrust](#Verbetert-de-nachtrust)
 
 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
 
-**[Vermindert de kans op stress, angst en een burnout]**(#Vermindert-de-kans-op-stress-angst-en-een-burnout)
+[Vermindert de kans op stress, angst en een burnout](#Vermindert-de-kans-op-stress-angst-en-een-burnout)
 
 10. Stress | Ben jij er al achter hoe het écht voelt?
 11. Angst | Zie jij het wél aankomen?
 12. Burnout | Opgeven is géén optie
   
-**[Verzorgt de gezondheid van de prostaat en urinewegen]**(#Verzorgt-de-gezondheid-van-de-prostaat-en-urinewegen)
+[Verzorgt de gezondheid van de prostaat en urinewegen](#Verzorgt-de-gezondheid-van-de-prostaat-en-urinewegen)
 
 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
 14. Vergrote prostaat | Een goedaardige aandoening
 15. Prostaatkanker | Een onopgemerkt probleem
 16. Urineweginfectie | Voorkom relatieproblemen
 
-**[Verzorgt het spijsverteringsstelsel]**(#verzorgt-het-spijsverteringsstelsel)
+[Verzorgt het spijsverteringsstelsel](#verzorgt-het-spijsverteringsstelsel)
 
 17. Buikgriep | Een voorspelbaar probleem 
 
