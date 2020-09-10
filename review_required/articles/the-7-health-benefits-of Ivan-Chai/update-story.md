@@ -157,11 +157,10 @@ _Geen zin om op vakantie in verlegenheid te worden gebracht?_
 
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
 
-_Behoefte aan meer diepgang?_ 
+## _Behoefte aan meer diepgang?_ 
 
 Lees per probleem het bijbehorende artikel.
 
-# Ontdek Ivan Chai
 **[Versterkt de weerstand]**(#Versterkt-de-weerstand)
 
 1. Infectie | Voorkom onnodige weefselschade
