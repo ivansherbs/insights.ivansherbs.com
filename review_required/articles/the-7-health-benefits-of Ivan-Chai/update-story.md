@@ -22,7 +22,7 @@ Ivan's Insights bundelt artikelen met als doel je snel te informeren over proble
 
 Als gevolg van problemen komt iedereen gedurende het leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Voor een gezonder en sterker lichaam en geest raden wij je het volgende aan.
 
-_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
+_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ontdek de 7 voordelen tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
 
