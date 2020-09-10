@@ -126,7 +126,7 @@ Het antitumor effect is goed bestudeerd en heeft met name een positieve werking 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B.
 Ivan Chai kan door de positieve werking - die Oenotheïne B heeft op het lichaam - worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
-_Benieuwd naar een klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?_
+_Benieuwd naar de klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?_
 
 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
 
