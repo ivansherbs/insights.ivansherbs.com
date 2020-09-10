@@ -33,11 +33,11 @@ Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
   - Versterkt de weerstand
   
 1. Infectie | Voorkom onnodige weefselschade
-   2. Luchtweginfectie| Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?
-   3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
+2. Luchtweginfectie| Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?
+3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
   - Krachtige ontstekingsremmer
-   4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
+  4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
    5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
    6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
    7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
