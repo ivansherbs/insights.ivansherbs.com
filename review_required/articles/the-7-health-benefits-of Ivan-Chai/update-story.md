@@ -68,9 +68,9 @@ Lees per probleem het bijbehorende artikel.
 
 17. Buikgriep | Een voorspelbaar probleem 
 
-# [Tot slot](#tot-slot)
-Ivan's conclusie
-Smaakbeleving
+**[Ivan's conclusie](#ivans-conclusie)
+
+**[Smaakbeleving](#smaakbeleving)
 
 # Ontdek Ivan Chai
 De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
@@ -203,9 +203,7 @@ _Geen zin om op vakantie in verlegenheid te worden gebracht?_
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
-# Tot slot
-
-### Ivan's conclusie   
+## Ivan's conclusie   
 
 _"De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten"_
 
@@ -215,7 +213,7 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zulle
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 
-### Smaakbeleving
+## Smaakbeleving
 
 _"Door ondekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_ 
 
