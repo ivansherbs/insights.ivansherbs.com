@@ -17,14 +17,13 @@ _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
 
 ## Overzicht Ivan's Insights
+_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ivan's Insights bundelt artikelen met als doel je snel te informeren over problemen. En eenvoudige natuurlijke behandelingen. Binnen deze behandelingen staat met name kruidenthee uit Siberië centraal.
 
 Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kans op ziekten te verkleinen én problemen te verzorgen. 
 
 Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Wanneer je problemen wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, raden wij je het volgende aan: 
-
-_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Ontdek de 7 voordelen tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
 
