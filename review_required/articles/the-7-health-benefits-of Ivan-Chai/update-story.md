@@ -29,49 +29,50 @@ _Behoefte aan meer diepgang?_
 
 Lees per probleem het bijbehorende artikel.
 
-## Ontdek Ivan Chai
-* [Versterkt de weerstand](#Versterkt-de-weerstand)
+# Ontdek Ivan Chai
+**[Versterkt de weerstand]**(#Versterkt-de-weerstand)
 
 1. Infectie | Voorkom onnodige weefselschade
 2. Luchtweginfectie| Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
-* [Krachtige ontstekingsremmer](#krachtige-ontstekingsremmer)
+**[Krachtige ontstekingsremmer]**(#krachtige-ontstekingsremmer)
 
 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
 5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
 6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
 7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
   
-* [Versterkt de antioxiderede werking](#Versterkt-de-antioxiderede-werking)
+**[Versterkt de antioxiderede werking]**(#Versterkt-de-antioxiderede-werking)
 
 8. Hart- en vaatziekten | Zie het tijdig aankomen!
 
-* [Verbetert de nachtrust](#Verbetert-de-nachtrust)
+**[Verbetert de nachtrust]**(#Verbetert-de-nachtrust)
 
 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
 
-* [Vermindert de kans op stress, angst en een burnout](#Vermindert-de-kans-op-stress-angst-en-een-burnout)
+**[Vermindert de kans op stress, angst en een burnout]**(#Vermindert-de-kans-op-stress-angst-en-een-burnout)
 
 10. Stress | Ben jij er al achter hoe het écht voelt?
 11. Angst | Zie jij het wél aankomen?
 12. Burnout | Opgeven is géén optie
   
-* [Verzorgt de gezondheid van de prostaat en urinewegen](#Verzorgt-de-gezondheid-van-de-prostaat-en-urinewegen)
+**[Verzorgt de gezondheid van de prostaat en urinewegen]**(#Verzorgt-de-gezondheid-van-de-prostaat-en-urinewegen)
 
 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
 14. Vergrote prostaat | Een goedaardige aandoening
 15. Prostaatkanker | Een onopgemerkt probleem
 16. Urineweginfectie | Voorkom relatieproblemen
 
-* [Verzorgt het spijsverteringsstelsel](#verzorgt-het-spijsverteringsstelsel)
+**[Verzorgt het spijsverteringsstelsel]**(#verzorgt-het-spijsverteringsstelsel)
 
 17. Buikgriep | Een voorspelbaar probleem 
 
-* [Ivan's conclusie](#Ivans-conclusie)
-* [Smaakbeleving](#Smaakbeleving)
+# [Tot slot](#tot-slot)
+Ivan's conclusie
+Smaakbeleving
 
-## Ontdek Ivan Chai
+# Ontdek Ivan Chai
 De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 
@@ -87,7 +88,7 @@ _Ben jij benieuwd hoe je een infectie oploopt?_
 
 1. Infectie | Voorkom onnodige weefselschade
 
-2. Luchtweginfectie| Hoe voorkom je op eenvoudige wijze verkoudheid, griep of pseudokroep?
+2. Luchtweginfectie| Verzorg een verkoudheid of griep. En voor de babies onder ons pseudokroep.
 
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
@@ -202,7 +203,9 @@ _Geen zin om op vakantie in verlegenheid te worden gebracht?_
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
-# Ivan's conclusie   
+# Tot slot
+
+### Ivan's conclusie   
 
 _"De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten"_
 
@@ -212,7 +215,7 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zulle
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 
-# Smaakbeleving
+### Smaakbeleving
 
 _"Door ondekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_ 
 
