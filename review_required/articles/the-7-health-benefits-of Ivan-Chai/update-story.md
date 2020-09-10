@@ -20,7 +20,7 @@ Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goe
 
 Ivan's Insights bundelt artikelen met als doel je snel te informeren over problemen. En een eenvoudige natuurlijke behandeling. Binnen deze behandelingen staat met name kruidenthee uit Siberië centraal. Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kans op ziekten te verkleinen én problemen te verzorgen. 
 
-Als gevolg van problemen komt iedereen gedurende het leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Voor een gezonder en sterker lichaam en geest raden wij je het volgende aan.
+Als gevolg van problemen komt iedereen gedurende het leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Wanneer je problemen wilt wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, raden wij je het volgende aan: 
 
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
@@ -29,40 +29,46 @@ Ontdek de 7 voordelen tegen 17 problemen. Het voorkomen van problemen draagt nie
 Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
 
 [**Inzichten**](#inzichten)
-* [Over Ivan Chai](#over-ivan-chai)
-  - Versterkt de weerstand
-  
-1. Infectie | Voorkom onnodige weefselschade
-2. Luchtweginfectie| Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?
-3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
+[Over Ivan Chai](#over-ivan-chai)
+* Versterkt de weerstand 
 
-  - Krachtige ontstekingsremmer
+  1. Infectie | [Voorkom onnodige weefselschade](#Voorkom-onnodige-weefselschade]
+  2. Luchtweginfectie| [Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?](#Hoe-voorkom-je-op-eenvoudige-wijze-verkoudheid-of-griep-En-verzorg-je-pseudokroep)
+  3. Zwak immuunsysteem | [Beperk de mate van kwetsbaarheid](#Beperk-de-mate-van-kwetsbaarheid)
+
+* Krachtige ontstekingsremmer
+
   4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
-   5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
-   6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
-   7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
+  5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
+  6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+  7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
   
-  - Versterkt de antioxiderede werking
-   8. Hart- en vaatziekten | Zie het tijdig aankomen!
+* Versterkt de antioxiderede werking
 
-  - Verbetert de nachtrust
-   9. Slaapproblemen | Stress als katalysator op een slaapprobleem
+  8. Hart- en vaatziekten | Zie het tijdig aankomen!
 
-  - Vermindert de kans op stress, angst en een burnout
-   10. Stress | Ben jij er al achter hoe het écht voelt?
-   11. Angst | Zie jij het wél aankomen?
-   12. Burnout | Opgeven is géén optie
+* Verbetert de nachtrust
+
+  9. Slaapproblemen | Stress als katalysator op een slaapprobleem
+
+* Vermindert de kans op stress, angst en een burnout
+
+  10. Stress | Ben jij er al achter hoe het écht voelt?
+  11. Angst | Zie jij het wél aankomen?
+  12. Burnout | Opgeven is géén optie
   
-  - Verzorgt de gezondheid van de prostaat en urinewegen
-   13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
-   14. Vergrote prostaat | Een goedaardige aandoening
-   15. Prostaatkanker | Een onopgemerkt probleem
-   16. Urineweginfectie | Voorkom relatieproblemen
-  
-  - Verzorgt het spijsverteringsstelsel
-   17. Buikgriep | Een voorspelbaar probleem 
+* Verzorgt de gezondheid van de prostaat en urinewegen
 
-* [Ivan's Inzichten](#Ivans-inzichten)
+  13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
+  14. Vergrote prostaat | Een goedaardige aandoening
+  15. Prostaatkanker | Een onopgemerkt probleem
+  16. Urineweginfectie | Voorkom relatieproblemen
+
+* Verzorgt het spijsverteringsstelsel
+
+  17. Buikgriep | Een voorspelbaar probleem 
+
+* [Ivan's conclusie](#Ivans-conclusie)
 * [Smaakbeleving](#Smaakbeleving)
 * [Waar te koop](#waar-te-koop)
 
@@ -208,7 +214,7 @@ Geen zin om op vakantie in verlegenheid te worden gebracht?
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
-# Ivan's Inzichten   
+# Ivan's conclusie   
 
 _"De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten"_
 
