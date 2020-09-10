@@ -25,7 +25,9 @@ Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kan
 
 Ontdek de 7 voordelen van Ivan Chai tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
 
-Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
+_Behoefte aan meer diepgang?_ 
+
+Lees per probleem het bijbehorende artikel.
 
 ## Ontdek Ivan Chai
 * [Versterkt de weerstand](#Versterkt-de-weerstand)
