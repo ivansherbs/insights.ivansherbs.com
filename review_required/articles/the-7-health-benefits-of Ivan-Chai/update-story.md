@@ -32,7 +32,7 @@ Behoefte aan meer diepgang? Lees per probleem het bijbehorende artikel.
 [Over Ivan Chai](#over-ivan-chai)
 * Versterkt de weerstand 
 
-  1. Infectie | [Voorkom onnodige weefselschade](#Voorkom-onnodige-weefselschade]
+  1. Infectie | [Voorkom onnodige weefselschade](#Voorkom-onnodige-weefselschade)
   2. Luchtweginfectie| [Hoe voorkom je op eenvoudige wijze verkoudheid of griep? En verzorg je pseudokroep?](#Hoe-voorkom-je-op-eenvoudige-wijze-verkoudheid-of-griep-En-verzorg-je-pseudokroep)
   3. Zwak immuunsysteem | [Beperk de mate van kwetsbaarheid](#Beperk-de-mate-van-kwetsbaarheid)
 
