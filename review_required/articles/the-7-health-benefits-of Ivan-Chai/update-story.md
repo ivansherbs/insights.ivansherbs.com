@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: IVAN'S INSIGHTS | Verzorg je lichaam en geest met kruidenthee uit Siberië
-  Author: Ivan Aljeksandrivítski
+  Author: Ivan Aljeksandrivnjítski
 ---
 # 7 voordelen
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
@@ -21,21 +21,29 @@ _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
-Lees snel verder en ontdek wat voor een effect de 7 voordelen van Ivan Chai hebben op jouw lichaam en geest. 
+Lees snel verder en ontdek wat voor een effect de 7 voordelen van Ivan Chai hebben op jouw lichaam en geest.
 
-_Behoefte aan meer diepgang?_ 
+Behoefte aan meer diepgang?
 
-Lees per probleem het bijbehorende artikel.
+Lees dan per probleem het bijbehorende artikel.
 
-https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=sharing
+
+https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
+
 
 ### 1. Ivan Chai versterkt de weerstand
 
+Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. Dit verdedigen doet je immuunsysteem. Om je immuunsysteem te versterken heb je de juiste voedingsstoffen nodig. Ivan Chai helpt je om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
+
+De werking kunnen we als volgt kort omschrijven.
+
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
-Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op de volgende problemen vele malen verminderd. 
+Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. 
 
-_Ben jij benieuwd hoe je een infectie oploopt?_
+Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd.
+
+Ben jij benieuwd hoe je bijvoorbeeld een infectie oploopt?
 
 1. Infectie | Voorkom onnodige weefselschade
 
@@ -44,15 +52,18 @@ _Ben jij benieuwd hoe je een infectie oploopt?_
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
 
-https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
+https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=sharing
+
 
 ### 2. Ivan Chai werkt als een krachtige ontstekingsremmer
+
+Een ontsteking kun je op veel verschillende manieren oplopen. Dit kan door een aanval van ongewenste onzichtbare indringers. Het beoefenen van sport. Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. Op natuurlijke wijze zoals een bevalling. Of voorbehoedsmiddelen zoals een spiraaltje. 
 
 Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 
 Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verzorgen.
 
-_Ben jij benieuwd hoe je preventief een ontsteking behandelt?_
+Ben jij benieuwd hoe je preventief een ontsteking behandelt?
 
 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
 
@@ -63,39 +74,54 @@ _Ben jij benieuwd hoe je preventief een ontsteking behandelt?_
 7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
 
 
-https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
+https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
+
 
 ### 3. Ivan Chai versterkt de antioxiderede werking
 
+Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding niet normaal functioneren. Je lichaam kan 3 dagen zonder voeding. 1 dag zonder water. Hoe je het went of keert, het lichaam heeft zuurstof nodig. De zuurstof die je inademt moet als voedingsstof worden opgenomen in het menselijk lichaam. Dat gebeurt door middel van bloed. Om ervoor te zorgen dat zuurstofarm bloed wordt ververst en direct weer in het lichaam wordt gecirculeerd, heeft het hart deze nobele taak op zich genomen. Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurstof via de bloedvaten.
+
 Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel. 
 
-_Benieuwd naar de impact van hart- en vaatziekten?_
+Meer informatie over hart- en vaatziekten?
 
 8. Hart- en vaatziekten | Zie het tijdig aankomen!
 
 
-https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
+https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
+
 
 ### 4. Ivan Chai verbetert de nachtrust
 
-Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen. 
+Slaapproblemen hebben meer impact op je dan op het eerste gezicht lijkt. Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie en bent lusteloos. Slaapproblemen zijn een groeiend en zorgwekkend probleem op de werkvloer. 
 
-In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
+Een goede nachtrust helpt je lichaam en geest om te herstellen. En zorgt ervoor dat je overdag productiever bent. 
 
-_Wil jij je nachtrust bevorderen?_
+Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen.
+
+In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
+
+Wil jij je nachtrust bevorderen?
 
 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
 
 
-https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
+https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
+
 
 ### 5. Ivan Chai vermindert de kans op stress, angst en een burnout
+
+Stress is een ware sluipmoordenaar. Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom een overmatige hoeveelheid aan langdurige stress.
+
+Goed om te weten. Een beetje stress is oké. Het zorgt ervoor dat je erg gefocust en actief bent. 
+
+Leer stress tijdig herkennen. En controleer een lichte mate van stress. 
 
 Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
 
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-_Benieuwd naar de invloed van coritisol op jouw geest?_
+Benieuwd naar de invloed van cortisol op jouw geest?
 
 10. Stress | Ben jij er al achter hoe het écht voelt?
 
@@ -104,11 +130,13 @@ _Benieuwd naar de invloed van coritisol op jouw geest?_
 12. Burnout | Opgeven is géén optie
 
 
-https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
+https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
+
 
 ### 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
 
-De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd aan onderzoek doen gericht op de medicinale krachten in kruiden. <br>
+De Zwitserse kruidkundige M. Trebens heeft haar leven gewijd aan onderzoek doen gericht op de medicinale krachten in kruiden.
+
 Zo heeft ze onderzoek gedaan vrij specifiek gericht op de prostaat waarbij kruidenthee als Ivan Chai centraal stonden.
 
 > Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
@@ -126,7 +154,7 @@ Het antitumor effect is goed bestudeerd en heeft met name een positieve werking 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B.
 Ivan Chai kan door de positieve werking - die Oenotheïne B heeft op het lichaam - worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
-_Benieuwd naar de klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?_
+Benieuwd naar de klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?
 
 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
 
@@ -134,49 +162,115 @@ _Benieuwd naar de klachten waar 30% van de mannen ouder dan 50 jaar mee te kampe
 
 15. Prostaatkanker | Een onopgemerkt probleem
 
-16. Urineweginfectie | Voorkom relatieproblemen 
+16. Urineweginfectie | Voorkom relatieproblemen
 
 
-https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
+https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
+
 
 ### 7. Ivan Chai verzorgt het spijsverteringsstelsel
 
+Ai! 
+
+Je moet alweer voor de zoveelste keer naar het toilet. Je maag en darmen gaan wederom als een jekko te keer. 
+
+Het liefst zou je nu weer gewoon een solide bolus kunnen draaien. Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt. Met een eenvoudig én natuurlijk product. 
+
+Het is te voorspellen wanneer je last gaat krijgen van buikgriep. 
+
 Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Gastritis en Colitis kunnen allemaal worden verholpen door het drinken van Ivan Chai.
 
-Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm. Het dient namelijk om je spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. Of die veranderingen in hun dieet ondergaan. Oók kan een maagzweer worden behandelt met Ivan Chai.
+Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm. 
 
-Tot slot, voor de reizigres onder ons. Darmparasieten kunnen zelfs geëlimineerd worden door grote hoeveelheden Ivan Chai te drinken. 
+Het dient om je spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. 
 
-_Geen zin om op vakantie in verlegenheid te worden gebracht?_
+Of die veranderingen in hun dieet ondergaan. 
 
-17. Buikgriep | Een voorspelbaar probleem 
+Oók kan een maagzweer worden behandelt met Ivan Chai.
+
+Tot slot, voor wanneer je het onverhoopt mocht overkomen. Darmparasieten kunnen zelfs geëlimineerd worden door grote hoeveelheden Ivan Chai te drinken.
+
+Oók geen zin om op vakantie in verlegenheid te worden gebracht?
+
+17. Buikgriep | Een voorspelbaar probleem
+
+
+https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
+
+
+# Siberische kruidenthee als alledaags product 
+_“Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie”_ 
+
+Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen!
+
+Kleine veranderingen in alledaagse handelingen bieden hierbij al soelaas. Het holistische perspectief kan hierbij houvast bieden voor het doorvoeren van deze veranderingen.
+
+Het holistische perspectief bestrijkt namelijk het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand én alle relevante factoren die van invloed zijn op het gedrag. 
+
+De mens wordt in zijn totaliteit benaderd. 
+
+We bedoelen hiermee de lichamelijke, mentale, sociale en emotionele kant. 
+
+Om deze kanten te versterken liggen er eenvoudige én natuurlijke alledaagse producten voor de hand. 
+
+Het fijne is dat de traditionele kruidengeneeskunde de deur heeft geopend naar gebruik van deze eenvoudige én natuurlijke alledaagse producten. 
+
+Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
+
+Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen én problemen te verzorgen. Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. 
+
+Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een kleine opsomming te maken. 
+
+Denk aan antibiotica, maagzuurremmers en de anticonceptiepil. 
+
+Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen. Voor een gezonder en sterker lichaam en geest. Voor het voorkomen en verzorgen van problemen. 
+
+Echter, in tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
+
+In andere woorden, één kop Ivan Chai maakt niet het verschil.
+
+Het fijne van dit product, is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. Iedereen drinkt immers thee. 
 
 
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
 
+
+## Ivan's conclusie   
+
+_"De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten"_
+
+Onze klanten kunnen op ons vertrouwen. We informeren je over eenvoudige én natuurlijke producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
+
+Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
+
+
+https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
+
+
 ## Overzicht Ivan's Insights
 
-Ivan's Insights bundelt artikelen met als doel je snel te informeren over problemen. En eenvoudige natuurlijke behandelingen. Binnen deze behandelingen staat met name kruidenthee uit Siberië centraal.
+Ivan's Insights is een blog met als doel je snel te informeren over problemen. Deze problemen gaan over je lichaam en geest. Gelukkig voor jou bieden we hierbij ook een oplossing aan om deze problemen te voorkomen of te verzorgen. 
 
-Waar wij je op willen wijzen is het gebruik van Siberische kruidenthee om de kans op ziekten te verkleinen én problemen te verzorgen. Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen. Wanneer je problemen wilt voorkomen óf onderhevig bent aan farmaceutische medicijnen, dan raden wij je het volgende aan: 
+Hieronder een kort overzicht van de blogs per voordeel én gevolgd door de problemen. 
 
-Ontdek de 7 voordelen van Ivan Chai tegen 17 problemen. Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
-
-Hieronder nog even kort een overzicht. Mocht je toch nog meer willen weten. 
-
-[Versterkt de weerstand](#Versterkt-de-weerstand)
+[Versterkt de weerstand](#Versterkt-de-weerstand) 
 
 1. Infectie | Voorkom onnodige weefselschade
+
 2. Luchtweginfectie | Verzorg een verkoudheid of griep. En voor babies pseudokroep.
+
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
 [Krachtige ontstekingsremmer](#krachtige-ontstekingsremmer)
 
 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
+
 5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
+
 6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+
 7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
-  
+ 
 [Versterkt de antioxiderede werking](#Versterkt-de-antioxiderede-werking)
 
 8. Hart- en vaatziekten | Zie het tijdig aankomen!
@@ -188,38 +282,53 @@ Hieronder nog even kort een overzicht. Mocht je toch nog meer willen weten.
 [Vermindert de kans op stress, angst en een burnout](#Vermindert-de-kans-op-stress-angst-en-een-burnout)
 
 10. Stress | Ben jij er al achter hoe het écht voelt?
+
 11. Angst | Zie jij het wél aankomen?
+
 12. Burnout | Opgeven is géén optie
-  
+ 
 [Verzorgt de gezondheid van de prostaat en urinewegen](#Verzorgt-de-gezondheid-van-de-prostaat-en-urinewegen)
 
 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
+
 14. Vergrote prostaat | Een goedaardige aandoening
+
 15. Prostaatkanker | Een onopgemerkt probleem
+
 16. Urineweginfectie | Voorkom relatieproblemen
 
 [Verzorgt het spijsverteringsstelsel](#verzorgt-het-spijsverteringsstelsel)
 
-17. Buikgriep | Een voorspelbaar probleem 
+17. Buikgriep | Een voorspelbaar probleem
 
-https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
-
-## Ivan's conclusie   
-
-_"De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten"_
-
-Onze klanten kunnen op ons vertrouwen. We informeren je over eenvoudige én natuurlijke producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
-
-Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 
-## Smaakbeleving
 
-_"Door ondekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_ 
+# Tot slot
+_"Door ontdekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_
 
-Ivan Chai is door verschillende thee experts geslurpt. De smaak en geur kun je als volgt omschrijven:
+Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
 
+Geniet van je overheerlijke kop Ivan Chai.
+
+### Bereidingswijze
+Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
+
+Wanneer je de thee warm drinkt adviseren wij - voor een optimale smaakbeleving - het te drinken bij 77 graden Celsius.
+
+De **smaak** is als volgt te omschrijven:
+ 
 * "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
 
+_...En hoe zit het met de **geur**?_ <br>
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
+
+### Hoe bewaar je Ivan Chai?
+Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden - in verband met verstikkingsgevaar.
+
+Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
+
+Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
+
+# Waar te koop
