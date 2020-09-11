@@ -80,6 +80,7 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 * [Welke medicijnen zijn van invloed op luchtweginfecties?](#Welke-medicijnen-zijn-van-invloed-op-luchtweginfecties)
 * [Welk effect heeft het gebruik van medicijnen op luchtweginfecties?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-luchtweginfecties)
 * [Waardoor vergroot ik de kans op een luchtweginfectie?](#Waardoor-vergroot-ik-de-kans-op-een-luchtweginfectie)
+* [Tips voor het drinken van Ivan Chai met kinderen](#Tips-voor-het-drinken-van-Ivan-Chai-met-kinderen)
 
 [**Ivan Chai**](#ivan-chai)<br>
 * [7 voordelen](#7-voordelen)
@@ -140,9 +141,8 @@ Er zijn verschillende risicofactoren die de kans op een luchtweginfectie vergrot
 
 * Ziekten - mensen met diabetes zijn extra gevoelig voor luchtweginfecties.
 
-### Wanneer we kijken naar kinderen van 1-5 jaar dan is de kans dat zij Pseudokroep ontlopen zeer klein. Hebben jullie nog tips voor het drinken van Ivan Chai? 
-
-Ja. Het drinken van Ivan Chai van de ene op de andere dag kan als heftig worden ervaren door je kind. We hebben het volgende advies om ervoor te zorgen dat je kind na verloop van tijd Ivan Chai drinkt. Uiteraard voor het versterken van de weerstand. 
+### Tips voor het drinken van Ivan Chai met kinderen
+Het drinken van Ivan Chai van de ene op de andere dag kan als heftig worden ervaren door je kind. We hebben de volgende tips om ervoor te zorgen dat je kind na verloop van tijd Ivan Chai drinkt. Uiteraard voor het versterken van de weerstand. 
 
 * Ons advies is om in beginsel Ivan Chai koel te drinken. Begin eerst met het flesje voor een kwart gevuld met Ivan Chai en leng de rest aan met water. 
 * Vul het flesje over een tijdsspanne van een maand steeds meer met Ivan Chai totdat je het flesje in zijn geheel kunt vullen. Uiteraard nog steeds koel. 
