@@ -63,7 +63,9 @@ https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=shari
 
 ### 2. Ivan Chai werkt als een krachtige ontstekingsremmer
 
-Een ontsteking kun je op veel verschillende manieren oplopen. Dit kan door een aanval van ongewenste onzichtbare indringers. Het beoefenen van sport. Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. Op natuurlijke wijze zoals een bevalling. Of voorbehoedsmiddelen zoals een spiraaltje. 
+Een ontsteking kun je op veel verschillende manieren oplopen. 
+
+Je kan het oplopen door een aanval van ongewenste onzichtbare indringers. Het intensief beoefenen van sport waarbij delen van het lichaam worden overbelast. Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. Je kan het op natuurlijke wijze oplopen zoals ná een bevalling. Of door gebruik van voorbehoedsmiddelen zoals een spiraaltje. 
 
 Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
 
@@ -85,7 +87,9 @@ https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=shari
 
 ### 3. Ivan Chai versterkt de antioxiderede werking
 
-Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding niet normaal functioneren. Je lichaam kan drie dagen zonder voeding. En één dag zonder water. Hoe je het went of keert, het lichaam heeft zuurstof nodig.
+Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. 
+
+Je lichaam kan drie dagen zonder voeding. En één dag zonder water. Hoe je het went of keert, het lichaam heeft 24/7 zuurstof nodig.
 
 De zuurstof die je inademt moet als voedingsstof worden opgenomen in het lichaam. Dat gebeurt door middel van bloed. Om ervoor te zorgen dat zuurstofarm bloed wordt ververst en direct weer in het lichaam wordt gecirculeerd, heeft het hart deze nobele taak op zich genomen. 
 
@@ -103,13 +107,15 @@ https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=shari
 
 ### 4. Ivan Chai verbetert de nachtrust
 
-Slaapproblemen hebben meer impact op je dan op het eerste gezicht lijkt. Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie en bent lusteloos. Slaapproblemen zijn een groeiend en zorgwekkend probleem op de werkvloer. 
+Slaapproblemen hebben meer impact op je leven dan op het eerste gezicht lijkt. Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie én bent lusteloos. Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend probleem is op de werkvloer. 
 
 Een goede nachtrust helpt je lichaam en geest om te herstellen. En zorgt ervoor dat je overdag productiever bent. 
 
+Het drinken van Siberische kruidenthee kan helpen bij dit probleem. 
+
 Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen.
 
-In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
+In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
 
 Wil jij je nachtrust bevorderen?
 
@@ -125,7 +131,7 @@ Stress is een ware sluipmoordenaar. Voor je het weet loop je té lang rond met e
 
 Goed om te weten. Een beetje stress is oké. Het zorgt ervoor dat je erg gefocust en actief bent. 
 
-Leer stress tijdig herkennen. En controleer een lichte mate van stress. 
+Leer stress tijdig herkennen. En controleer hiermee een lichte mate van stress om problemen te voorkomen. 
 
 Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
 
@@ -213,17 +219,21 @@ _“Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het 
 
 Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen!
 
-Kleine veranderingen in alledaagse handelingen bieden hierbij al soelaas. Het holistische perspectief kan hierbij houvast bieden voor het doorvoeren van deze veranderingen.
+Om te beginnen brengen kleine veranderingen in alledaagse handelingen hierbij al soelaas. Het holistische perspectief kan hierbij houvast bieden voor het doorvoeren van deze veranderingen.
 
 Het holistische perspectief bestrijkt namelijk het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand én alle relevante factoren die van invloed zijn op het gedrag. 
 
 De mens wordt in zijn totaliteit benaderd. 
 
-We bedoelen hiermee de lichamelijke, mentale, sociale en emotionele kant. 
+Wij richten ons hierbij op de lichamelijke, mentale, sociale en emotionele kant. 
 
 Om deze kanten te versterken liggen er eenvoudige én natuurlijke alledaagse producten voor de hand. 
 
-Het fijne is dat de traditionele kruidengeneeskunde de deur heeft geopend naar gebruik van deze eenvoudige én natuurlijke alledaagse producten. 
+Deze producten bestaan al eeuwen, echter moet in de moderne samenleving de bewustwording hiervan nog worden gecreëerd. 
+
+Het fijne is dat door de jaren heen dit mede mogelijk is gemaakt door de traditionele kruidengeneeskunde. 
+
+De traditionele kruidengeneeskunde heeft de deur geopend naar gebruik van deze eenvoudige én natuurlijke alledaagse producten. 
 
 Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
 
@@ -239,8 +249,11 @@ Echter, in tegenstelling tot de meeste farmaceutische medicijnen gaat de werking
 
 In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
-Het fijne van dit product, is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. Iedereen drinkt immers thee. 
+Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. Iedereen drinkt immers thee.
 
+Dit stelt jou in de gelegenheid de volgende keuze te maken. 
+
+_**Drink ik voortaan thee mét of zonder voordelen voor lichaam en geest?**_
 
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
 
@@ -254,11 +267,40 @@ Onze klanten kunnen op ons vertrouwen. We informeren je over eenvoudige én natu
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
 
+https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
+
+
+# Tot slot
+_"Door ontdekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_
+
+Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
+
+Geniet van je overheerlijke kop Ivan Chai.
+
+### Bereidingswijze
+Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
+
+Wanneer je de thee warm drinkt adviseren wij - voor een optimale smaakbeleving - het te drinken bij 77 graden Celsius.
+
+De **smaak** is als volgt te omschrijven:
+ 
+* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+
+_...En hoe zit het met de **geur**?_ <br>
+* "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
+
+### Hoe bewaar je Ivan Chai?
+Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden - in verband met verstikkingsgevaar.
+
+Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
+
+Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
+
+
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
 
 ## Overzicht Ivan's Insights
-
 Ivan's Insights is een blog met als doel je snel te informeren over problemen. Deze problemen gaan over je lichaam en geest. Gelukkig voor jou bieden we hierbij ook een oplossing aan om deze problemen te voorkomen of te verzorgen. 
 
 Hieronder een kort overzicht van de blogs per voordeel én gevolgd door de problemen. 
@@ -310,35 +352,3 @@ Hieronder een kort overzicht van de blogs per voordeel én gevolgd door de probl
 [Verzorgt het spijsverteringsstelsel](#verzorgt-het-spijsverteringsstelsel)
 
 17. Buikgriep | Een voorspelbaar probleem
-
-
-https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
-
-
-# Tot slot
-_"Door ontdekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_
-
-Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
-
-Geniet van je overheerlijke kop Ivan Chai.
-
-### Bereidingswijze
-Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
-
-Wanneer je de thee warm drinkt adviseren wij - voor een optimale smaakbeleving - het te drinken bij 77 graden Celsius.
-
-De **smaak** is als volgt te omschrijven:
- 
-* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
-
-_...En hoe zit het met de **geur**?_ <br>
-* "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
-
-### Hoe bewaar je Ivan Chai?
-Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden - in verband met verstikkingsgevaar.
-
-Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
-
-Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
-
-# Waar te koop
