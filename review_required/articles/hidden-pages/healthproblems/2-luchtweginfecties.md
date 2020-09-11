@@ -69,7 +69,7 @@ Eenvoudig een verkoudheid of griep voorkomen? Of Pseudokroep verzorgen?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. 
 
-> Lees snel en ontvang tips voor het drinken van Ivan Chai met kinderen! 
+> Lees snel verder en ontvang tips voor het drinken van Ivan Chai met kinderen! 
 
 ## Inhoud van dit artikel
 
