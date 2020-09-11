@@ -16,19 +16,23 @@ _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Ter info. Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
 
+
+https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
+
+
 # Ontdek Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
-Lees snel verder en ontdek wat voor een effect de 7 voordelen van Ivan Chai hebben op jouw lichaam en geest.
+Lees snel verder en ontdek wat voor een effect de 7 voordelen van Ivan Chai hebben op je lichaam en geest.
 
 Behoefte aan meer diepgang?
 
 Lees dan per probleem het bijbehorende artikel.
 
 
-https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
+https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=sharing
 
 
 ### 1. Ivan Chai versterkt de weerstand
@@ -54,7 +58,7 @@ Ben jij benieuwd hoe je bijvoorbeeld een infectie oploopt?
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
 
-https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=sharing
+https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
 
 
 ### 2. Ivan Chai werkt als een krachtige ontstekingsremmer
@@ -76,7 +80,7 @@ Ben jij benieuwd hoe je preventief een ontsteking behandelt?
 7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
 
 
-https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
+https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
 
 
 ### 3. Ivan Chai versterkt de antioxiderede werking
@@ -94,7 +98,7 @@ Meer informatie over hart- en vaatziekten?
 8. Hart- en vaatziekten | Zie het tijdig aankomen!
 
 
-https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
+https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
 
 
 ### 4. Ivan Chai verbetert de nachtrust
@@ -112,7 +116,7 @@ Wil jij je nachtrust bevorderen?
 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
 
 
-https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
+https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 
 
 ### 5. Ivan Chai vermindert de kans op stress, angst en een burnout
@@ -136,7 +140,7 @@ Benieuwd naar de invloed van cortisol op jouw geest?
 12. Burnout | Opgeven is géén optie
 
 
-https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
+https://drive.google.com/file/d/1cYkHPZuKMwM4aAo8MVjsExHR18cLMTnw/view?usp=sharing
 
 
 ### 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
@@ -171,7 +175,7 @@ Benieuwd naar de klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen
 16. Urineweginfectie | Voorkom relatieproblemen
 
 
-https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
+https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
 
 
 ### 7. Ivan Chai verzorgt het spijsverteringsstelsel
@@ -243,7 +247,7 @@ https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=shari
 
 ## Ivan's conclusie   
 
-_"De wereld is nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten"_
+_"We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten"_
 
 Onze klanten kunnen op ons vertrouwen. We informeren je over eenvoudige én natuurlijke producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
 
