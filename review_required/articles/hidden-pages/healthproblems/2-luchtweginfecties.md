@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Luchtweginfecties | Hoe voorkom je op eenvoudige wijze verkoudheid of griep?
+title: Luchtweginfecties | Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
   Author: IVAN'S INSIGHTS
 ---
 
@@ -9,33 +9,67 @@ title: Luchtweginfecties | Hoe voorkom je op eenvoudige wijze verkoudheid of gri
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd.
 
-Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen - helpt het tegen overgroei van gist in het spijsverteringsstelsel.
+Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
-# Hoe voorkom je op eenvoudige wijze verkoudheid of griep?
+# Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-Iedereen heeft wel eens last van een verkoudheid of griep. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan. Zo zijn er de bekende, maar ook onbekende oorzaken voor vatbaarheid.
+Iedereen heeft wel eens last van een luchtweginfectie. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan.
 
-Wist je dat... 
+Meestal kun je er niet veel tegen doen, zoals tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. Dit effect kan worden versterkt door een ongezonde levensstijl. 
 
-je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers?
+Soms kun je er ook niet veel tegen doen. Je bent bijvoorbeeld ook extra vatbaar voor dit soort problemen bij gebruik van farmaceutische medicijnen. 
 
-Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. 
+> Wist je dat… je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers?
 
-Hiernaast loop je een verkoudheid of griep op door de bekende oorzaken. Zoals wanneer je een ongezonde levensstijl hebt. Of tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
+Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. Dit komt door de ongewenste bijwerkingen van medicijnen. Zo kunnen ze je immuunsysteem aantasten. 
 
-Drink Ivan Chai preventief tegen of ter behandeling tijdens deze veelvoorkomende luchtweginfecties. 
-Ivan Chai is bewezen effectief tegen de groei van schimmels, gist en ongewenste bacteriën.
+Dus… 
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent een verkoudheid en griep te verzorgen. 
+Extra voedingsstoffen zijn altijd welkom. Helemaal gedurende de wintermaanden én wanneer je medicijnen gebruikt. Zo houdt je je lichaam en geest zo lang mogelijk gezond.
 
-Mocht je toch onverhoopt een zwaardere vorm van een luchtweginfectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Hetzelfde geldt overigens voor kinderen. 
 
-Eenvoudig een verkoudheid of griep voorkomen?
+Oók zij hebben extra voedingsstoffen nodig. 
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. En een eenvoudige natuurlijke behandeling.
+Het begint al op jonge leeftijd wanneer kinderen last kunnen krijgen van pseudokroep. Dus dan moet je denken aan de leeftijd 1-5 jaar. 
+
+Laten we een vergelijking maken waarom het verstandig is kinderen zo snel mogelijk thee (met voordelen) te leren drinken. 
+
+Oke, gaan we. 
+
+Pseudokroep wordt weliswaar veroorzaakt door een virus. Dit komt erop neer dat wanneer het virus in de buurt is, je kind het hoogstwaarschijnlijk zal oplopen.
+
+Vergelijk een luchtweginfectie bij een kind van 1 jaar, met een luchtweginfectie bij jezelf. Je zal de symptomen van dit probleem minder heftig ervaren wanneer jezelf beschikt over een sterke weerstand. En wanneer je lichaam in staat is beter voedingsstoffen op te nemen. Je lichaam vecht hierdoor beter tegen het virus. En je bent weer sneller beter. 
+
+Dit geldt dus ook voor  je kind van 1 jaar met Pseudokroep. 
+
+Kortom, je kunt je kinderen niet vroeg genoeg laten kennismaken met eenvoudige én natuurlijke producten die het opnemen van voedingsstoffen bevorderen. 
+
+En het geeft jullie ook de gelegenheid samen even te theeleuten met elkaar. Gezellig met opa en oma erbij.
+
+Om het even van een andere kant te bekijken.
+
+Net als jij heeft je kind water nodig. Thee bestaat voornamelijk uit water. Waarom drinken jullie geen water met voordelen voor het lichaam en geest? 
+
+Simpel gezegd, makkelijk gedaan. 
+
+Denk aan Ivan Chai. Een Siberische kruidenthee. 
+
+Door je kind al op vroege leeftijd kennis te laten maken met thee drinken versterkt jullie weerstand. 
+
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent een verkoudheid en griep te verzorgen.
+
+Mocht jij, of je oogappeltje, toch onverhoopt een zwaardere vorm van een luchtweginfectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+
+Eenvoudig een verkoudheid of griep voorkomen? Of Pseudokroep verzorgen? 
+
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. 
+
+> Lees snel verder voor tips over Ivan Chai drinken met kinderen! 
 
 ## Inhoud van dit artikel
 
@@ -51,7 +85,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [7 voordelen](#7-voordelen)
 * [Tegen 17 problemen](#ivan-chai-tegen-17-problemen)
 
-[**Natuurlijke behandeling**](#Natuurlijke-behandeling)
+[**Siberische kruidenthee als alledaags product**](#Siberische-kruidenthee-als-alledaags-product)
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
@@ -63,7 +97,7 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 * [Waar te koop](#Waar-te-koop)
 
 # Inzichten
- ### Over een verkoudheid of griep 
+ ### Over een verkoudheid of griep
 
 Men verstaat onder een luchtweginfectie een ontsteking van het slijmvlies in de luchtwegen. Dit komt je waarschijnlijk bekend voor. Maar dan als een verkoudheid of griep.
 
@@ -94,7 +128,7 @@ Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medici
 Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
 ### Waardoor vergroot ik de kans op een luchtweginfectie?
-Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wederom enkele voorbeelden:
+Er zijn verschillende risicofactoren die de kans op een luchtweginfectie vergroten. Wederom enkele voorbeelden:
 
 * Levensstijl - bijvoorbeeld:
   - roken
@@ -102,14 +136,24 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
   - gebrek aan slaap
   - of een slecht dieet
 
-* Ouderdom - vrouwen na de menopauze hebben - door de levensfase waar ze zich in bevinden - überhaupt een verhoogd risico op infecties.
+* Ouderdom - vrouwen na de menopauze hebben - door de levensfase waar ze zich in bevinden - überhaupt een verhoogd risico op luchtweginfecties.
 
-* Ziekten - mensen met diabetes zijn extra gevoelig voor infecties.
+* Ziekten - mensen met diabetes zijn extra gevoelig voor luchtweginfecties.
+
+### Wanneer we kijken naar kinderen van 1-5 jaar dan is de kans dat zij Pseudokroep ontlopen zeer klein. Hebben jullie nog tips voor het drinken van Ivan Chai? 
+
+Ja. Het drinken van Ivan Chai van de ene op de andere dag kan als heftig worden ervaren door je kind. We hebben het volgende advies om ervoor te zorgen dat je kind na verloop van tijd Ivan Chai drinkt. Uiteraard voor het versterken van de weerstand. 
+
+* Ons advies is om in beginsel Ivan Chai koel te drinken. Begin eerst met het flesje voor een kwart gevuld met Ivan Chai en leng de rest aan met water. 
+* Vul het flesje over een tijdsspanne van een maand steeds meer met Ivan Chai totdat je het flesje in zijn geheel kunt vullen. Uiteraard nog steeds koel. 
+* Voordat een peuter een volwaardig theeleut is, zul je de Ivan Chai ook steeds warmer kunnen gaan serveren. Net als melk, geef je de Ivan Chai een niet hogere temperatuur mee dan 30 graden. 
+* Drink de Ivan Chai zonder suiker. 
+* Tot slot, neem de tijd.
 
 # Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
-Ivan Chai is de natuurlijke behandeling als alternatief of aanvulling op farmaceutische medicijnen. Drink Ivan Chai preventief of ter behandeling tegen een luchtweginfectie.
+Drink Ivan Chai preventief of ter behandeling tegen een luchtweginfectie.
 
 De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency - kortweg EMA.
 
@@ -177,14 +221,14 @@ Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
 
 17. Buikgriep
 
-# Natuurlijke behandeling
-_“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige natuurlijke behandelingen - om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen”_
+# Siberische kruidenthee als alledaags product
+_“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van alledaagse producten om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen”_
 
 Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen. Kleine veranderingen in alledaagse handelingen bieden hierbij al soelaas, in je zoektocht naar het behalen van je doelstellingen. Hiernaast kun je het lichaam bekijken vanuit holistisch perspectief.
 
-Het holistische perspectief bestrijkt het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. De mens wordt in zijn totaliteit benaderd. Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken liggen er eenvoudige natuurlijke behandelingen voor de hand."
+Het holistische perspectief bestrijkt het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. De mens wordt in zijn totaliteit benaderd. Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken liggen er eenvoudig én natuurlijk product voor de hand."
 
-Deze eenvoudige natuurlijke behandelingen hebben de vorm van alledaagse producten. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet hoeft om te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken.
+Dit eenvoudige en natuurlijke product heeft de vorm van alledaagse product. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet hoeft om te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken.
 
 In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
