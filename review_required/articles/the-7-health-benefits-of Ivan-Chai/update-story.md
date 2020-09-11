@@ -233,7 +233,7 @@ Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een 
 
 Denk aan antibiotica, maagzuurremmers en de anticonceptiepil. 
 
-Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen. Voor een gezonder en sterker lichaam en geest. Voor het voorkomen en verzorgen van problemen. 
+Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen. Voor een gezonder lichaam én een sterkere geest. Voor het voorkomen van ziekten én verzorgen van problemen. 
 
 Echter, in tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
 
