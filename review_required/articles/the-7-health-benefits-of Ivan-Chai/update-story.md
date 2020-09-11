@@ -14,7 +14,7 @@ _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 > 6. Verzorgt de gezondheid van de prostaat en urinewegen
 > 7. Verzorgt het spijsverteringsstelsel
 
-Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
+Ter info. Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
 
 # Ontdek Ivan Chai
 _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
@@ -33,7 +33,9 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 
 ### 1. Ivan Chai versterkt de weerstand
 
-Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. Dit verdedigen doet je immuunsysteem. Om je immuunsysteem te versterken heb je de juiste voedingsstoffen nodig. Ivan Chai helpt je om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
+Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. Dit verdedigen doet je immuunsysteem. 
+
+Om je immuunsysteem te versterken heb je de juiste voedingsstoffen nodig. Ivan Chai helpt je om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
 
 De werking kunnen we als volgt kort omschrijven.
 
@@ -79,7 +81,11 @@ https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=shari
 
 ### 3. Ivan Chai versterkt de antioxiderede werking
 
-Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding niet normaal functioneren. Je lichaam kan 3 dagen zonder voeding. 1 dag zonder water. Hoe je het went of keert, het lichaam heeft zuurstof nodig. De zuurstof die je inademt moet als voedingsstof worden opgenomen in het menselijk lichaam. Dat gebeurt door middel van bloed. Om ervoor te zorgen dat zuurstofarm bloed wordt ververst en direct weer in het lichaam wordt gecirculeerd, heeft het hart deze nobele taak op zich genomen. Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurstof via de bloedvaten.
+Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding niet normaal functioneren. Je lichaam kan drie dagen zonder voeding. En één dag zonder water. Hoe je het went of keert, het lichaam heeft zuurstof nodig.
+
+De zuurstof die je inademt moet als voedingsstof worden opgenomen in het lichaam. Dat gebeurt door middel van bloed. Om ervoor te zorgen dat zuurstofarm bloed wordt ververst en direct weer in het lichaam wordt gecirculeerd, heeft het hart deze nobele taak op zich genomen. 
+
+Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurstof via de bloedvaten.
 
 Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel. 
 
