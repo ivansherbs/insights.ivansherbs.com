@@ -157,7 +157,7 @@ Prostaatklachten zijn een veelvoorkomend probleem. Laten we de statiestieken er 
 
 Gelukkig kunnen deze klachten preventief worden behandelt. In andere woorden, jou kans op prostaatklachten kan worden vermindert. 
 
-Voordat we verder ingaan op de voordelen, laten we je eerst even kennis laten maken met Maria Treben. 
+Voordat we verder ingaan op de voordelen, laten we je eerst even kennis maken met Maria Treben. 
 
 De Zwitserse Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden. Ze heeft bekendheid verkregen door het geven van vele seminars en presentaties bij verschillende conferenties.
 
