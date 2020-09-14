@@ -18,57 +18,80 @@ Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. 
 
 Je lichaam begeeft zich in opperste staat van paraatheid. Je hart gaat sneller kloppen. Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je op dat moment in een beklemmende, onaangename emotionele toestand.
 
-Veel mannen denken dat ze geen angst kennen.
+Veel mensen denken dat ze geen angst kennen. En er nooit mee te maken hebben.
 
-Gek genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt. Voor jouw beeldvorming, bespreken we een paar herkenbare voorbeelden. 
+Waar mensen snel aan denken bij angst is een gevoel waarbij je plosteling wilt vluchten. Allleen wanneer iemand bijvoorbeeld je horloge probeert af te pakken gaat er een gevoel van angst door je heen. Dit is niet waar. 
 
-Te beginnen met sociale angst. Hierbij speelt de angst om eigenlijk écht te kunnen zeggen wat je ergens van vindt een belangrijke rol. Dit gebeurt vaak op de werkvloer. In een vergadering. Of tijdens een presentatie met de gehele afdeling. Uiteraard liggen de verhoudingen van dit fenomeen wel ietsje complexer. 
+Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt. 
 
 We proberen het uit te leggen met een paar voorbeelden.
 
-* Dit fenomeen kan worden veroorzaakt door zogenaamd groepsdenken. Dat wil zeggen dat een groep intelligente mensen zodanig wordt beïnvloed door groepsprocessen, dat de kwaliteit van de besluitvorming vermindert. Wanneer je als persoon hier op reageert, kijkt iedereen je wellicht verbaasd en een beetje geïrriteerd aan. En waar had jij het over..? Dit besluitvormingsproces kan worden beïnvloed door besluitvorming gebaseerd op eensgezindheid onder de groepsleden. Het rationeel denken waarbij kritische overwegingen de leidraad vormen worden simpelweg opzij gezet. Hierbij weegt het ‘meeste stemmen gelden principe’ het zwaarst. Dus waarom zou je een opmerking maken? 
+Te beginnen met sociale angst. 
 
-* Hiernaast kunnen organisationele doelstellingen voorrang verkrijgen boven persoonlijke motieven. Het nadeel van organisaties met deze denkwijze is dat werknemers hun empathisch vermogen met de organisatie waar zij voor werken kwijt raken. Met andere woorden, je krijgt het gevoel dat je een nummertje bent. Je mag blij zijn hier een bijdrage aan te leveren. Dus hou je mond maar gewoon. Door tegenspreken van organisationele doelstellingen kun je je ongemakkelijk gaan voelen. Er kunnen immers een hoop reacties volgen. 
+Hierbij speelt de angst om eigenlijk écht te kunnen zeggen wat je ergens van vindt een belangrijke rol. Dit gebeurt vaak op de werkvloer. In een vergadering. Of tijdens een presentatie met de gehele afdeling. 
 
-* Tot slot. Rationele beslissing kunnen het onderspit delven wanneer er sprake is van sociale druk. Hierbij drukt een peergroup (lees: het management en de langst zittende werknemers) meestal bewust druk uit op een kleinere groep óf een bepaald persoon om het gedrag te veranderen. Hierbij spelen de normen en gedragingen van de dominante groep een belangrijke rol. Zowel in positieve als negatieve zin. En kan de vrijheid van de niet-dominante groepsleden op eenvoudige wijze worden ingeperkt. Reageren hierop door niet-dominante groepsleden heeft geen zin. Er wordt toch niet geluisterd. Wanneer je toch besluit hierop te reageren kan je nóg meer vrijheid worden afgenomen. Of in sommige gevallen komt de baanzekerheid op het spel te staan. 
+Uiteraard liggen de verhoudingen van dit fenomeen wel ietsje complexer. 
 
-Ook al klinkt angst vrij extreem, dit zijn vormen van angst op dagelijkse basis. En zoals je ziet zijn dit voorbeelden waarbij er voor langere tijd angst heerst. En zul je dit na verloop van tijd ook zien aankomen. Door de ervaring die je opdoet op in het werkende leven. 
+* Dit fenomeen kan worden veroorzaakt door zogenaamd groepsdenken. Dat wil zeggen dat een groep intelligente mensen zodanig wordt beïnvloed door groepsprocessen, dat de kwaliteit van de besluitvorming vermindert. Wanneer je als persoon hier op reageert, kijkt iedereen je wellicht verbaasd en een beetje geïrriteerd aan. En waar had jij het over..? Dit besluitvormingsproces kan worden beïnvloed door besluitvorming gebaseerd op eensgezindheid onder de groepsleden. Het rationeel denken waarbij kritische overwegingen de leidraad vormen worden simpelweg opzij gezet. Hierbij weegt het ‘meeste stemmen gelden principe’ het zwaarst. Dus waarom zou je een opmerking maken? Je wil immers ook niet dom overkomen. 
 
-Echter zijn er meerdere vormen van angst. Zo heb je last van een gevoel van intense angst waarbij je plotseling wilt vluchten. Wellicht een extreem voorbeeld. Maar wat gaat er door je heen wanneer iemand je horloge probeert af te pakken. 
+* Hiernaast kunnen organisationele doelstellingen voorrang verkrijgen boven persoonlijke motieven. Het nadeel van organisaties met deze denkwijze is dat werknemers hun empathisch vermogen met de organisatie waar zij voor werken kwijt raken. Met andere woorden, je krijgt het gevoel dat je een nummertje bent. Je mag blij zijn hier een bijdrage aan te leveren. Dus hou je mond maar gewoon. Door tegenspreken van organisationele doelstellingen kun je je ongemakkelijk gaan voelen. Er kunnen immers een hoop reacties volgen... Wanneer je in opstand komt, doe je dit niet liever alleen. 
 
-Maar ook lichtere vormen van angst waarbij je een korte periode last hebt van een opgelaten gevoel. Een vorm hiervan is faalangst. Tevens een vorm van angst op dagelijkse basis. Denk aan die ene keer in een overvolle collegezaal. Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. 
+* Rationele beslissing kunnen het onderspit delven wanneer er sprake is van sociale druk. Hierbij drukt een peergroup (lees: het management en de langst zittende werknemers) meestal bewust druk uit op een kleinere groep óf een bepaald persoon om het gedrag te veranderen. Hierbij spelen de normen en gedragingen van de dominante groep een belangrijke rol. Zowel in positieve als negatieve zin. En kan de vrijheid van de niet-dominante groepsleden op eenvoudige wijze worden ingeperkt. Reageren hierop door niet-dominante groepsleden heeft geen zin. Er wordt toch niet geluisterd. Wanneer je toch besluit hierop te reageren kan je vrijheid nóg meer worden afgenomen. Of in sommige gevallen komt de baanzekerheid op het spel te staan. 
 
-Wellicht een fijne gedachten. Op angst kun je je ook vaak niet voorbereiden. Zoals in een ziekenhuis. 
+Bovenstaande voorbeelden spelen zich af op de werkvloer. Echter zijn er ook vergelijkbare situaties buiten de werkvloer. Angst is namelijk een emotie van alle leeftijden. 
+* Zo is er angst om ergens voor het eerst aan mee te doen. Denk aan kinderen die vriendje moeten maken. Of voor het eerst aan een teamsport meedoen én het spel niet snappen. 
 
-Waarbij de emoties hoog opspelen door het eventueel kunnen lijden van pijn. Oók bij lichtere operaties. Of wanneer je van je arts weer moet leren lopen na het scheuren van je enkelbanden. 
+Ook al klinkt angst vrij extreem, dit zijn voorbeelden van angst op dagelijkse basis. 
 
-Ook hebben we angst in de vorm van een fobie. Zoals angst voor spinnen. Of honden. etc.
+Lichtere vormen van angst kunnen zich uiten op verschillende manieren. 
 
-Oke, we kunnen nog even doorgaan. Over de verschillende vormen van angst. 
+Naast sociale angst, bestaat bijvoorbeeld faalangst. Tevens een vorm van angst op dagelijkse basis. 
 
-Maar de vraag blijft. Kun je er wat tegen doen? 
+Denk aan die ene keer in een overvolle collegezaal. Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen.
 
-Ja, echter gaat dit op natuurlijke wijze, buiten gebruik om van farmaceutische medicijnen, niet snel. Veel vormen van angst kun je niet van de ene op de andere dag kwijt raken. Wat je echter wel kunt doen is lichtere vormen van angst op eenvoudige wijze verminderen. Waardoor je zelfverzekerder door het leven gaat. Zo zijn er tal van mogelijkheden die al bijdragen aan. Denk aan goed voorbereid op pad gaan. Het aanpassen van je dieet. En er zelfverzekerd uitzien.
+Wellicht een fijne gedachten. Op angst kun je je vaak niet voorbereiden. 
 
-Simpel voorbeeld is het opdoen van make-up. Zo voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up.
+Zoals in een ziekenhuis. 
 
-Er zijn tal van voorbeelden te noemen. 
+De emoties kunnen hoog opspelen wanneer er eventueel pijn kan worden geleden. Oók bij lichtere operaties. Of wanneer je van je arts weer moet leren lopen na het scheuren van je enkelbanden. 
+
+Of wat dachten we van angst in de vorm van een fobie. Zoals angst voor spinnen. Of honden...
+
+Oke, het is duidelijk. We kunnen nog even doorgaan. Er zijn veel verschillende vormen van angst. En ja. Het komt op dagelijkse basis meer voor dan je denkt.  
+
+Maar de vraag blijft. 
+
+Kun je er wat tegen doen? 
+
+Ja, echter gaat dit op natuurlijke wijze, buiten het gebruik  van farmaceutische medicijnen om, niet snel. 
+
+Veel vormen van angst kun je niet van de ene op de andere dag kwijt raken. Wat je echter wel kunt doen is lichtere vormen van angst op eenvoudige wijze verminderen. Waardoor je zelfverzekerder door het leven gaat. Zo zijn er tal van mogelijkheden die al bijdragen aan. 
+
+Denk aan goed voorbereid op pad gaan. Het aanpassen van je dieet. En er zelfverzekerd uitzien.
+
+Simpel voorbeeld is het opdoen van make-up. 
+
+> Zo voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up.
+
+Er zijn tal van voorbeelden te noemen. Een combinatie van verschillende factoren zorgen ervoor dat je gevoel van angst, of die van je kinderen, minder wordt. 
 
 Echter, waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk product om dit probleem te bestrijden.
 
 Denk aan Ivan Chai. Een Siberische kruidenthee. 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een stress te voorkomen.
-Mocht je toch onverhoopt met een overmatige hoeveelheid aan stress rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent angst te voorkomen.
+
+Mocht je toch onverhoopt met een overmatige hoeveelheid aan angst rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Goed om te weten. Bestrijd lichtere vormen van angst en vermijd het gebruik van farmaceutische medicijnen.
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
-Lees verder hoe Ivan Chai je kan helpen bij het verminderen angst.
+Lees verder hoe Ivan Chai je kan helpen bij het verminderen van angst.
 
-Laten we deze emotie beter leren begrijpen.
+Benieuwd hoeveel mensen last hebben van angst? 
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. En een eenvoudige natuurlijke behandeling.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. En een eenvoudige natuurlijke behandeling.
  
 ## Inhoud van dit artikel
 
