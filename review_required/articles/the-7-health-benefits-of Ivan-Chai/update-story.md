@@ -31,7 +31,7 @@ Ontdek de 7 voordelen van Ivan Chai tegen de 17 problemen.
 https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=sharing
 
 
-# 1. Ivan Chai versterkt de weerstand
+## 1. Ivan Chai versterkt de weerstand
 
 Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. Dit verdedigen doet je immuunsysteem. 
 
@@ -49,7 +49,7 @@ Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterke
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
 
 
-# 2. Ivan Chai werkt als een krachtige ontstekingsremmer
+## 2. Ivan Chai werkt als een krachtige ontstekingsremmer
 
 Een ontsteking kun je op veel verschillende manieren oplopen. 
 
@@ -71,7 +71,7 @@ Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
 
 
-# 3. Ivan Chai versterkt de antioxiderede werking
+## 3. Ivan Chai versterkt de antioxiderede werking
 
 Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. 
 
@@ -91,7 +91,7 @@ Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de w
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
 
 
-# 4. Ivan Chai verbetert de nachtrust
+## 4. Ivan Chai verbetert de nachtrust
 
 Slaapproblemen hebben meer impact op je leven dan op het eerste gezicht lijkt. Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie én bent lusteloos. Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend probleem is op de werkvloer. 
 
@@ -106,7 +106,7 @@ In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmere
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 
 
-# 5. Ivan Chai vermindert de kans op stress, angst en een burnout
+## 5. Ivan Chai vermindert de kans op stress, angst en een burnout
 
 Stress is een ware sluipmoordenaar. Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom daarom een overmatige hoeveelheid aan langdurige stress.
 
@@ -122,7 +122,7 @@ Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmer
 https://drive.google.com/file/d/1cYkHPZuKMwM4aAo8MVjsExHR18cLMTnw/view?usp=sharing
 
 
-# 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
+## 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
 
 Statement. Prostaatklachten zijn een veelvoorkomend probleem. 
 
@@ -182,7 +182,7 @@ Graag willen we tot slot het volgende belichten.
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
 
 
-# 7. Ivan Chai verzorgt het spijsverteringsstelsel
+## 7. Ivan Chai verzorgt het spijsverteringsstelsel
 
 Ai! 
 
@@ -215,7 +215,7 @@ Tot slot, voor wanneer je het onverhoopt mocht overkomen. Sommige darmparasieten
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
 
 
-# Siberische kruidenthee als alledaags product 
+## Siberische kruidenthee als alledaags product 
 _“Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie”_ 
 
 Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen!
