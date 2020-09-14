@@ -360,7 +360,7 @@ Ivan's Insights is een blog met als doel je snel te informeren over problemen.
 
 Deze problemen gaan over je lichaam en geest. Gelukkig voor jou geven we niet alleen inzichten. Oók bespreken we de behandeling om deze problemen te voorkomen of te verzorgen. 
 
-Hieronder een kort overzicht van de voordelen. Gevolgd door een artikel per probleem. 
+Hieronder een kort overzicht van de voordelen van Ivan Chai. Gevolgd door een artikel per probleem. 
 
 **Versterkt de weerstand**
 
