@@ -45,7 +45,7 @@ Ook al klinkt angst vrij extreem, dit zijn voorbeelden van angst op dagelijkse b
 
 Lichtere vormen van angst kunnen zich uiten op verschillende manieren. 
 
-Naast sociale angst, bestaat bijvoorbeeld faalangst. Tevens een vorm van angst op dagelijkse basis. 
+Naast sociale angst bestaat bijvoorbeeld faalangst. Tevens een vorm van angst op dagelijkse basis. 
 
 Denk aan die ene keer in een overvolle collegezaal. Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen.
 
