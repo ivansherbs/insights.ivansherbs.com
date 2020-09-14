@@ -27,7 +27,7 @@ De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en alg
 
 Lees snel verder en ontdek wat voor een effect de 7 voordelen van Ivan Chai hebben op je lichaam en geest.
 
-Behoefte aan meer diepgang?
+Behoefte aan meer diepgang? 
 
 Lees dan per probleem het bijbehorende artikel.
 
@@ -65,13 +65,21 @@ https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=shari
 
 Een ontsteking kun je op veel verschillende manieren oplopen. 
 
-Je kan het oplopen door een aanval van ongewenste onzichtbare indringers. Het intensief beoefenen van sport waarbij delen van het lichaam worden overbelast. Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. Je kan het op natuurlijke wijze oplopen zoals ná een bevalling. Of door gebruik van voorbehoedsmiddelen zoals een spiraaltje. 
+Voor jou beeldvorming bespreken we een paar voorbeelden. 
 
-Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op farmaceutische medicijnen.
+Je kan het oplopen door een aanval van ongewenste onzichtbare indringers. Het intensief beoefenen van sport waarbij delen van het lichaam worden overbelast. Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. 
 
-Farmaceutische medicijnen hebben ongewenste bijwerkingen tot gevolg. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te verzorgen.
+Je hebt een verhoogt risico op ontstekingen ná een bevalling. Of door gebruik van voorbehoedsmiddelen zoals een spiraaltje. 
 
-Ben jij benieuwd hoe je preventief een ontsteking behandelt?
+Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken. 
+
+Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen. 
+
+En vergeet niet dat je het óók kunt drinken als aanvulling op farmaceutische medicijnen! 
+
+Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen. 
+
+Wil jij meer achtergrond informatie over ontstekingen?
 
 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
 
@@ -89,11 +97,15 @@ https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=shari
 
 Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. 
 
-Je lichaam kan drie dagen zonder voeding. En één dag zonder water. Hoe je het went of keert, het lichaam heeft 24/7 zuurstof nodig.
+Je lichaam kan drie dagen zonder voeding. En één dag zonder water. Hoe je het went of keert, je lichaam heeft 24/7 zuurstof nodig.
 
-De zuurstof die je inademt moet als voedingsstof worden opgenomen in het lichaam. Dat gebeurt door middel van bloed. Om ervoor te zorgen dat zuurstofarm bloed wordt ververst en direct weer in het lichaam wordt gecirculeerd, heeft het hart deze nobele taak op zich genomen. 
+De zuurstof die je inademt moet als een voedingsstof worden opgenomen in het lichaam. Dat gebeurt door middel van bloed. Om ervoor te zorgen dat zuurstofarm bloed wordt ververst en direct weer in het lichaam wordt gecirculeerd, heeft het hart deze nobele taak op zich genomen. 
 
 Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurstof via de bloedvaten.
+
+Door een alledaags product als Siberische kruidenthee te drinken wordt dit gehele zuurstofproces versoepelt. Met als gevolg dat je minder vatbaarbent voor hart- en vaatziekten
+
+Benieuwd waarom?
 
 Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel. 
 
@@ -117,7 +129,7 @@ Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te ove
 
 In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
 
-Wil jij je nachtrust bevorderen?
+Wil jij je nachtrust bevorderen? Lees snel meer. 
 
 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
 
@@ -127,7 +139,7 @@ https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=shari
 
 ### 5. Ivan Chai vermindert de kans op stress, angst en een burnout
 
-Stress is een ware sluipmoordenaar. Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom een overmatige hoeveelheid aan langdurige stress.
+Stress is een ware sluipmoordenaar. Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom daarom een overmatige hoeveelheid aan langdurige stress.
 
 Goed om te weten. Een beetje stress is oké. Het zorgt ervoor dat je erg gefocust en actief bent. 
 
@@ -151,21 +163,35 @@ https://drive.google.com/file/d/1cYkHPZuKMwM4aAo8MVjsExHR18cLMTnw/view?usp=shari
 
 ### 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
 
-Prostaatklachten zijn een veelvoorkomend probleem. Laten we de statiestieken er gelijk even bij pakken. 
+Statement. Prostaatklachten zijn een veelvoorkomend probleem. 
+
+Laten we voor de duidelijkheid de statiestieken er gelijk even bij pakken. 
 
 > 30% van de mannen van 50 jaar en ouder heeft prostaatklachten. 
 
-Gelukkig kunnen deze klachten preventief worden behandelt. In andere woorden, jou kans op prostaatklachten kan worden vermindert. 
+Gelukkig kunnen deze klachten preventief worden behandelt. In andere woorden, de kans dat jij prostaatklachten oploopt kan worden vermindert. 
 
-Voordat we verder ingaan op de voordelen, laten we je eerst even kennis maken met Maria Treben. 
+Voordat we verder ingaan op de prostaatklachten en de voordelen van Ivan Chai, laten we je voor het belang van het verhaal eerst even kennis maken met Maria Treben. 
 
-De Zwitserse Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden. Ze heeft bekendheid verkregen door het geven van vele seminars en presentaties bij verschillende conferenties.
+De Zwitserse Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden. Ze heeft bekendheid verkregen door het geven van vele seminars en presentaties bij verschillende conferenties. Hier worden de bevindingen uit onderzoek uitvoerig besproken. 
 
-Nu is het lastige aan dit vakgebied dat bij kruidengeneeskunde het moeilijk is om de werkzaamheid aan te tonen. Dit is alléén mogelijk bij grootschalig klinisch onderzoek. 
+Nu is het lastige aan het vakgebied kruidengeneeskunde dat het moeilijk is om je bevinding te bewijzen. 
 
-Om de werkzaamheid aan te tonen heeft Treben grootschalig klinisch onderzoek gedaan naar prostaatklachten. 
+Er is gelukkig een manier. 
+
+Namelijk met grootschalig klinisch onderzoek. Met duizenden patiënten om het onderzoek kracht bij te zetten. 
+
+Dit is een arbeidsintensief proces waarbij het onderzoek tevens afhankelijk is van de welwillendheid van de al die patiënten om het onderzoek succesvol af te ronden.
+ 
+Deze onderzoek zijn vaak langdurig. Hierbij moet je denken aan jaren om de effectiviteit van de behandeling te kunnen aantonen. 
+
+En daarom mogen we van geluk spreken van onderzoekers als Maria Treben die zich hiervoor inzetten. 
+
+Om de werkzaamheid van Ivan Chai tegen prostaatklachten aan te tonen heeft Treben meerdere keren grootschalig klinisch onderzoek verricht.
 
 En met succes!
+
+De bevindingen van haar onderzoek hebben het volgende aangetoond. 
 
  > Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
 
@@ -188,6 +214,9 @@ Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankerc
 
 Het antitumor effect is echter wél goed bestudeerd én heeft met name een positieve werking op gezonde prostaatcellen. De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking - die Oenotheïne B heeft op het lichaam - worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
+Graag willen we tot slot nog het volgende belichten. 
+* Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen. 
+
 Benieuwd naar de klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?
 
 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
@@ -208,9 +237,13 @@ Ai!
 
 Je moet alweer voor de zoveelste keer naar het toilet. Je maag en darmen gaan wederom als een jekko te keer. 
 
-Het liefst zou je nu weer gewoon 'op normale wijze' op de doos willen zitten. Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt. Met een eenvoudig én natuurlijk product. 
+Het liefst zou je nu weer op 'normale wijze' op de doos willen zitten. Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt. Met een eenvoudig én natuurlijk product. 
 
-Waar je misschien niet van op de hoogte bent is dat het te voorspellen is wanneer je last gaat krijgen van buikgriep. 
+Waar je misschien niet van op de hoogte bent is het volgende.
+
+Het is te voorspellen wanneer je last gaat krijgen van buikgriep! Je kunt hierdoor preventief een behandeling starten met Ivan Chai. Om de kans én de symptomen op eenvoudige en natuurlijke wijze te verminderen. 
+
+Want.. 
 
 Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Gastritis en Colitis kunnen allemaal worden verholpen door het drinken van Ivan Chai.
 
@@ -218,13 +251,17 @@ Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen 
 
 Het dient om je spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. 
 
-Of die veranderingen in hun dieet ondergaan. 
+> 75% van de patiënten van het prikkelbare darmsyndroom is vrouw
+
+Of die veranderingen ondergaan in hun dieet. 
 
 Oók kan een maagzweer worden behandelt met Ivan Chai.
 
 Tot slot, voor wanneer je het onverhoopt mocht overkomen. Darmparasieten kunnen zelfs geëlimineerd worden door grote hoeveelheden Ivan Chai te drinken.
 
-Oók geen zin om op vakantie in verlegenheid te worden gebracht?
+Oók geen zin om in het dagelijks leven in verlegenheid te worden gebracht?
+
+Lees dan snel even verder. 
 
 17. Buikgriep | Een voorspelbaar probleem
 
@@ -267,7 +304,7 @@ Echter, in tegenstelling tot de meeste farmaceutische medicijnen gaat de werking
 
 In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
-Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. Iedereen drinkt immers thee.
+Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. **Iedereen drinkt immers thee.**
 
 Dit stelt jou in de gelegenheid de volgende keuze te maken. 
 
@@ -318,12 +355,14 @@ Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiters
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
 
-## Overzicht Ivan's Insights
-Ivan's Insights is een blog met als doel je snel te informeren over problemen. Deze problemen gaan over je lichaam en geest. Gelukkig voor jou bieden we hierbij ook een oplossing aan om deze problemen te voorkomen of te verzorgen. 
+## Over Ivan's Insights
+Ivan's Insights is een blog met als doel je snel te informeren over problemen. 
 
-Hieronder een kort overzicht van de blogs per voordeel én gevolgd door de problemen. 
+Deze problemen gaan over je lichaam en geest. Gelukkig voor jou geven we niet alleen inzichten. Oók bespreken we de behandeling om deze problemen te voorkomen of te verzorgen. 
 
-[Versterkt de weerstand](#Versterkt-de-weerstand) 
+Hieronder een kort overzicht van de voordelen. Gevolgd door een artikel per probleem. 
+
+**Versterkt de weerstand**
 
 1. Infectie | Voorkom onnodige weefselschade
 
@@ -331,7 +370,7 @@ Hieronder een kort overzicht van de blogs per voordeel én gevolgd door de probl
 
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
-[Krachtige ontstekingsremmer](#krachtige-ontstekingsremmer)
+**Krachtige ontstekingsremmer**
 
 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
 
@@ -341,15 +380,15 @@ Hieronder een kort overzicht van de blogs per voordeel én gevolgd door de probl
 
 7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
  
-[Versterkt de antioxiderede werking](#Versterkt-de-antioxiderede-werking)
+**Versterkt de antioxiderede werking**
 
 8. Hart- en vaatziekten | Zie het tijdig aankomen!
 
-[Verbetert de nachtrust](#Verbetert-de-nachtrust)
+**Verbetert de nachtrust**
 
 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
 
-[Vermindert de kans op stress, angst en een burnout](#Vermindert-de-kans-op-stress-angst-en-een-burnout)
+**Vermindert de kans op stress, angst en een burnout**
 
 10. Stress | Ben jij er al achter hoe het écht voelt?
 
@@ -357,7 +396,7 @@ Hieronder een kort overzicht van de blogs per voordeel én gevolgd door de probl
 
 12. Burnout | Opgeven is géén optie
  
-[Verzorgt de gezondheid van de prostaat en urinewegen](#Verzorgt-de-gezondheid-van-de-prostaat-en-urinewegen)
+**Verzorgt de gezondheid van de prostaat en urinewegen**
 
 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
 
@@ -367,6 +406,6 @@ Hieronder een kort overzicht van de blogs per voordeel én gevolgd door de probl
 
 16. Urineweginfectie | Voorkom relatieproblemen
 
-[Verzorgt het spijsverteringsstelsel](#verzorgt-het-spijsverteringsstelsel)
+**Verzorgt het spijsverteringsstelsel**
 
 17. Buikgriep | Een voorspelbaar probleem
