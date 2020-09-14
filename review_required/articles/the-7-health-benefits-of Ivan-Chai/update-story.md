@@ -214,7 +214,7 @@ Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankerc
 
 Het antitumor effect is echter wél goed bestudeerd én heeft met name een positieve werking op gezonde prostaatcellen. De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking - die Oenotheïne B heeft op het lichaam - worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
-Graag willen we tot slot nog het volgende belichten. 
+Graag willen we tot slot het volgende belichten. 
 * Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen. 
 
 Benieuwd naar de klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?
