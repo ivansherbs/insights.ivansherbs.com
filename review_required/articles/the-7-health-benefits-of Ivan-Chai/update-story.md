@@ -25,17 +25,13 @@ _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
-Lees snel verder en ontdek wat voor een effect de 7 voordelen van Ivan Chai hebben op je lichaam en geest.
-
-Behoefte aan meer diepgang? 
-
-Lees dan per probleem het bijbehorende artikel.
+Ontdek de 7 voordelen van Ivan Chai tegen de 17 problemen.
 
 
 https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=sharing
 
 
-### 1. Ivan Chai versterkt de weerstand
+# 1. Ivan Chai versterkt de weerstand
 
 Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. Dit verdedigen doet je immuunsysteem. 
 
@@ -49,19 +45,11 @@ Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van 
 
 Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd.
 
-Ben jij benieuwd hoe je bijvoorbeeld een infectie oploopt?
-
-1. Infectie | Voorkom onnodige weefselschade
-
-2. Luchtweginfectie | Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
-
-3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
-
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
 
 
-### 2. Ivan Chai werkt als een krachtige ontstekingsremmer
+# 2. Ivan Chai werkt als een krachtige ontstekingsremmer
 
 Een ontsteking kun je op veel verschillende manieren oplopen. 
 
@@ -79,21 +67,11 @@ En vergeet niet dat je het óók kunt drinken als aanvulling op farmaceutische m
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen. 
 
-Wil jij meer achtergrond informatie over ontstekingen?
-
-4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
-
-5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
-
-6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
-
-7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
-
 
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
 
 
-### 3. Ivan Chai versterkt de antioxiderede werking
+# 3. Ivan Chai versterkt de antioxiderede werking
 
 Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. 
 
@@ -109,15 +87,11 @@ Benieuwd waarom?
 
 Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel. 
 
-Meer informatie over hart- en vaatziekten?
-
-8. Hart- en vaatziekten | Zie het tijdig aankomen!
-
 
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
 
 
-### 4. Ivan Chai verbetert de nachtrust
+# 4. Ivan Chai verbetert de nachtrust
 
 Slaapproblemen hebben meer impact op je leven dan op het eerste gezicht lijkt. Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie én bent lusteloos. Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend probleem is op de werkvloer. 
 
@@ -129,15 +103,10 @@ Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te ove
 
 In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
 
-Wil jij je nachtrust bevorderen? Lees snel meer. 
-
-9. Slaapproblemen | Stress als katalysator op een slaapprobleem
-
-
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 
 
-### 5. Ivan Chai vermindert de kans op stress, angst en een burnout
+# 5. Ivan Chai vermindert de kans op stress, angst en een burnout
 
 Stress is een ware sluipmoordenaar. Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom daarom een overmatige hoeveelheid aan langdurige stress.
 
@@ -149,19 +118,11 @@ Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneesk
 
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-Benieuwd naar de invloed van cortisol op jouw geest?
-
-10. Stress | Ben jij er al achter hoe het écht voelt?
-
-11. Angst | Zie jij het wél aankomen?
-
-12. Burnout | Opgeven is géén optie
-
 
 https://drive.google.com/file/d/1cYkHPZuKMwM4aAo8MVjsExHR18cLMTnw/view?usp=sharing
 
 
-### 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
+# 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
 
 Statement. Prostaatklachten zijn een veelvoorkomend probleem. 
 
@@ -217,21 +178,11 @@ Het antitumor effect is echter wél goed bestudeerd én heeft met name een posit
 Graag willen we tot slot het volgende belichten. 
 * Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen. 
 
-Benieuwd naar de klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?
-
-13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
-
-14. Vergrote prostaat | Een goedaardige aandoening
-
-15. Prostaatkanker | Een onopgemerkt probleem
-
-16. Urineweginfectie | Voorkom relatieproblemen
-
 
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
 
 
-### 7. Ivan Chai verzorgt het spijsverteringsstelsel
+# 7. Ivan Chai verzorgt het spijsverteringsstelsel
 
 Ai! 
 
@@ -241,7 +192,8 @@ Het liefst zou je nu weer op 'normale wijze' op de doos willen zitten. Had dit p
 
 Waar je misschien niet van op de hoogte bent is het volgende.
 
-Het is te voorspellen wanneer je last gaat krijgen van buikgriep! Je kunt hierdoor preventief een behandeling starten met Ivan Chai. Om de kans én de symptomen op eenvoudige en natuurlijke wijze te verminderen. 
+Het is te voorspellen wanneer je last gaat krijgen van buikgriep!
+Start met deze kennis preventief een behandeling met Ivan Chai. Verminder de kans én de symptomen op eenvoudige en natuurlijke wijze.
 
 Want.. 
 
@@ -257,13 +209,7 @@ Of die veranderingen ondergaan in hun dieet.
 
 Oók kan een maagzweer worden behandelt met Ivan Chai.
 
-Tot slot, voor wanneer je het onverhoopt mocht overkomen. Darmparasieten kunnen zelfs geëlimineerd worden door grote hoeveelheden Ivan Chai te drinken.
-
-Geen zin om in het dagelijks leven in verlegenheid te worden gebracht?
-
-Lees dan snel even verder. 
-
-17. Buikgriep | Een voorspelbaar probleem
+Tot slot, voor wanneer je het onverhoopt mocht overkomen. Sommige darmparasieten kunnen zelfs worden geëlimineerd door grote hoeveelheden Ivan Chai te drinken.
 
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
@@ -313,11 +259,14 @@ _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor li
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
 
 
-## Ivan's conclusie   
+# Ivan's conclusie   
+_"Neemt uw tijd te baat te vroeg is beter dan te laat"_
 
-_"We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten"_
+We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten.
 
-Onze klanten kunnen op ons vertrouwen. We informeren je over eenvoudige én natuurlijke producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
+Onze klanten kunnen op ons vertrouwen. 
+
+We informeren je over eenvoudige én natuurlijke producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
 
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
@@ -335,7 +284,7 @@ Geniet van je overheerlijke kop Ivan Chai.
 ### Bereidingswijze
 Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
 
-Wanneer je de thee warm drinkt adviseren wij - voor een optimale smaakbeleving - het te drinken bij 77 graden Celsius.
+Voor een optimale smaakbeleving adviseren wij de Ivan Chai te drinken bij 77 graden Celsius.
 
 De **smaak** is als volgt te omschrijven:
  
@@ -345,7 +294,7 @@ _...En hoe zit het met de **geur**?_ <br>
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
 
 ### Hoe bewaar je Ivan Chai?
-Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden - in verband met verstikkingsgevaar.
+Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
 
 Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
 
@@ -355,57 +304,93 @@ Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiters
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
 
-## Over Ivan's Insights
-Ivan's Insights is een blog met als doel je snel te informeren over problemen. 
+# Over Ivan's Insights
+_"Een blog om 17 alledaagse problemen bespreekbaar te maken"_ 
 
-Deze problemen gaan over je lichaam en geest. Gelukkig voor jou geven we niet alleen inzichten. Oók bespreken we de behandeling om deze problemen te voorkomen of te verzorgen. 
-
-Hieronder een kort overzicht van de voordelen van Ivan Chai. Gevolgd door een artikel per probleem. 
+Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. 
+Ontdek de inzichten en laat je informeren. 
 
 **Versterkt de weerstand**
 
+Ben jij benieuwd hoe je bijvoorbeeld een infectie oploopt?
+
+
 1. Infectie | Voorkom onnodige weefselschade
 
-2. Luchtweginfectie | Verzorg een verkoudheid of griep. En voor babies pseudokroep.
+
+2. Luchtweginfectie | Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+
 
 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 
+
 **Krachtige ontstekingsremmer**
+
+Wil jij meer achtergrond informatie over ontstekingen?
+
 
 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
 
+
 5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
+
 
 6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
 
+
 7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
+
  
 **Versterkt de antioxiderede werking**
 
+Meer informatie over hart- en vaatziekten?
+
+
 8. Hart- en vaatziekten | Zie het tijdig aankomen!
+
 
 **Verbetert de nachtrust**
 
+Wil jij je nachtrust bevorderen? Lees snel meer. 
+
+
 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
+
 
 **Vermindert de kans op stress, angst en een burnout**
 
+Benieuwd naar de invloed van cortisol op jouw geest?
+
+
 10. Stress | Ben jij er al achter hoe het écht voelt?
+
 
 11. Angst | Zie jij het wél aankomen?
 
+
 12. Burnout | Opgeven is géén optie
+
  
 **Verzorgt de gezondheid van de prostaat en urinewegen**
 
+Benieuwd naar de klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?
+
+
 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
+
 
 14. Vergrote prostaat | Een goedaardige aandoening
 
+
 15. Prostaatkanker | Een onopgemerkt probleem
+
 
 16. Urineweginfectie | Voorkom relatieproblemen
 
+
 **Verzorgt het spijsverteringsstelsel**
+
+Geen zin om in het dagelijks leven in verlegenheid te worden gebracht?
+
 
 17. Buikgriep | Een voorspelbaar probleem
