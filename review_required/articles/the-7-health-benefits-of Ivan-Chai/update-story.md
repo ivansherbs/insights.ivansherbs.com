@@ -251,7 +251,7 @@ Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen 
 
 Het dient om je spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. 
 
-> 75% van de patiënten van het prikkelbare darmsyndroom is vrouw
+> 75% van de patiënten van het prikkelbare darmsyndroom is vrouw!
 
 Of die veranderingen ondergaan in hun dieet. 
 
