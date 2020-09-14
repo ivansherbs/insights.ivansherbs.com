@@ -259,7 +259,7 @@ Oók kan een maagzweer worden behandelt met Ivan Chai.
 
 Tot slot, voor wanneer je het onverhoopt mocht overkomen. Darmparasieten kunnen zelfs geëlimineerd worden door grote hoeveelheden Ivan Chai te drinken.
 
-Oók geen zin om in het dagelijks leven in verlegenheid te worden gebracht?
+Geen zin om in het dagelijks leven in verlegenheid te worden gebracht?
 
 Lees dan snel even verder. 
 
