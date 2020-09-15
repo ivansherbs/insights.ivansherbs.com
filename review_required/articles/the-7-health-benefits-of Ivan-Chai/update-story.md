@@ -297,7 +297,7 @@ De favoriete plekken van schimmels zijn dan ook de mond, handen en voeten. Maar 
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
 ### Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
-Wist je dat… je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers...._(lees meer)_
+Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...._(lees meer)_
 
 ## 3. Zwak immuunsysteem
 
