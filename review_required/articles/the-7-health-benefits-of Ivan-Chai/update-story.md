@@ -296,13 +296,13 @@ Ontdek de inzichten en laat je informeren.
 Ben jij benieuwd hoe je infectie voorkomt?
 
 1. Infectie | 
-  - Voorkom onnodige weefselschade
+Voorkom onnodige weefselschade
 
 2. Luchtweginfectie | 
-  - Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
 
 3. Zwak immuunsysteem | 
-  - Beperk de mate van kwetsbaarheid
+Beperk de mate van kwetsbaarheid
 
 
 **Krachtige ontstekingsremmer**
@@ -310,16 +310,16 @@ Ben jij benieuwd hoe je infectie voorkomt?
 Wil jij meer informatie over het verzorgen van ontstekingen?
 
 4. Baarmoederontsteking | 
-  - Preventieve bescherming van je meest kwetsbare orgaan
+Preventieve bescherming van je meest kwetsbare orgaan
 
 5. Keelontsteking | 
-  - Wat te gebruiken wanneer antibiotica geen zin heeft?
+Wat te gebruiken wanneer antibiotica geen zin heeft?
 
 6. Peesontsteking | 
-  - De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
 
 7. Slijmbeursontsteking | 
-  - Verzorg je beschermkappen, behoudt soepele gewrichten
+Verzorg je beschermkappen, behoudt soepele gewrichten
 
  
 **Versterkt de antioxiderede werking**
@@ -327,7 +327,7 @@ Wil jij meer informatie over het verzorgen van ontstekingen?
 Waardoor krijgt je hart- en vaatziekten?
 
 8. Hart- en vaatziekten | 
-  - Zie het tijdig aankomen!
+Zie het tijdig aankomen!
 
 
 **Verbetert de nachtrust**
@@ -335,7 +335,7 @@ Waardoor krijgt je hart- en vaatziekten?
 Wil jij je nachtrust bevorderen? 
 
 9. Slaapproblemen | 
-  - Stress als katalysator op een slaapprobleem
+Stress als katalysator op een slaapprobleem
 
 
 **Vermindert de kans op stress, angst en een burnout**
@@ -343,13 +343,13 @@ Wil jij je nachtrust bevorderen?
 Benieuwd naar de invloed van cortisol op jouw geest?
 
 10. Stress | 
-  - Ben jij er al achter hoe het écht voelt?
+Ben jij er al achter hoe het écht voelt?
 
 11. Angst | 
-  - Zie jij het wél aankomen?
+Zie jij het wél aankomen?
 
 12. Burnout | 
-  - Opgeven is géén optie
+Opgeven is géén optie
 
  
 **Verzorgt de gezondheid van de prostaat en urinewegen**
@@ -357,16 +357,16 @@ Benieuwd naar de invloed van cortisol op jouw geest?
 Hoe verminder je de kans op klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?
 
 13. Prostaatontsteking | 
-  - Bescherm de gezondheid van je prostaat
+Bescherm de gezondheid van je prostaat
 
 14. Vergrote prostaat | 
-  - Een goedaardige aandoening
+Een goedaardige aandoening
 
 15. Prostaatkanker | 
-  - Een onopgemerkt probleem
+Een onopgemerkt probleem
 
 16. Urineweginfectie | 
-  - Voorkom relatieproblemen
+Voorkom relatieproblemen
 
 
 **Verzorgt het spijsverteringsstelsel**
@@ -374,4 +374,4 @@ Hoe verminder je de kans op klachten waar 30% van de mannen ouder dan 50 jaar me
 Geen zin om in het dagelijks leven in verlegenheid te worden gebracht?
 
 17. Buikgriep | 
-  - Een voorspelbaar probleem
+Een voorspelbaar probleem
