@@ -322,7 +322,7 @@ Wat te gebruiken wanneer antibiotica geen zin heeft?
 
 6. Peesontsteking |
 
-https://drive.google.com/file/d/1J8inUSY_ztORnyVf7xowhsHBs3YkEY9P/view?usp=sharing
+https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
 
 De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
 
