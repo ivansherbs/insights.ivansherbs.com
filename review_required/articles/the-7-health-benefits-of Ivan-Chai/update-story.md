@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: IVAN'S INSIGHTS | Verzorg je lichaam en geest met kruidenthee uit Siberië
-  Author: Ivan Aleksandrivnjítski
+  Author: Ivan Aljeksandrivnjítski
 ---
 # 7 voordelen
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
@@ -28,7 +28,7 @@ De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en alg
 Ontdek de 7 voordelen van Ivan Chai tegen de 17 problemen.
 
 
-https://drive.google.com/file/d/1MeNKBEpO7RcxeBQjpqsWa_KsrsRmDdUR/view?usp=sharing
+https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 
 
 ## 1. Ivan Chai versterkt de weerstand
