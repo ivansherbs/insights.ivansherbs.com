@@ -290,11 +290,6 @@ _"Een blog om 17 alledaagse problemen bespreekbaar te maken"_
 Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. 
 Ontdek de inzichten en laat je informeren. 
 
-
-**Versterkt de weerstand**
-
-Ben jij benieuwd hoe je infectie voorkomt?
-
 1. Infectie |
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
@@ -312,11 +307,6 @@ Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
 
 Beperk de mate van kwetsbaarheid
-
-
-**Krachtige ontstekingsremmer**
-
-Wil jij meer informatie over het verzorgen van ontstekingen?
 
 4. Baarmoederontsteking |
 
@@ -342,21 +332,11 @@ https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=shari
 
 Verzorg je beschermkappen, behoudt soepele gewrichten
 
- 
-**Versterkt de antioxiderede werking**
-
-Waardoor krijgt je hart- en vaatziekten?
-
 8. Hart- en vaatziekten |
 
 https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
 
 Zie het tijdig aankomen!
-
-
-**Verbetert de nachtrust**
-
-Wil jij je nachtrust bevorderen?
 
 9. Slaapproblemen |
 
@@ -364,16 +344,9 @@ https://drive.google.com/file/d/1K49pLlFl74WGqkJsi2PDit3y0mxZz-1f/view?usp=shari
 
 Stress als katalysator op een slaapprobleem
 
-
-**Vermindert de kans op stress, angst en een burnout**
-
-Benieuwd naar de invloed van cortisol op jouw geest?
-
 10. Stress |
 
 https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
-
-Ben jij er al achter hoe het écht voelt?
 
 11. Angst |
 
@@ -387,17 +360,11 @@ https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=shari
 
 Opgeven is géén optie
 
- 
-**Verzorgt de gezondheid van de prostaat en urinewegen**
-
-Hoe verminder je de kans op klachten waar 30% van de mannen ouder dan 50 jaar mee te kampen heeft?
-
 13. Prostaatontsteking |
 
 https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
 
 Bescherm de gezondheid van je prostaat
-
 
 14. Vergrote prostaat |
 
@@ -416,11 +383,6 @@ Een onopgemerkt probleem
 https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
 
 Voorkom relatieproblemen
-
-
-**Verzorgt het spijsverteringsstelsel**
-
-Geen zin om in het dagelijks leven in verlegenheid te worden gebracht?
 
 17. Buikgriep |
 
