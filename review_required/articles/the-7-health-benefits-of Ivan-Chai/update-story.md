@@ -107,7 +107,7 @@ Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneesk
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
 
-https://drive.google.com/file/d/1cYkHPZuKMwM4aAo8MVjsExHR18cLMTnw/view?usp=sharing
+https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
 
 
 ## 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
@@ -149,7 +149,7 @@ Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel.
 
 Ivan Chai versterkt de anti-tumoractiviteit. 
 
-Let op!
+**Let op!**
 
 Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En dus de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
 
