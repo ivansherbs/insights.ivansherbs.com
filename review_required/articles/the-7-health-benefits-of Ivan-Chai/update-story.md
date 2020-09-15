@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: IVAN'S INSIGHTS | Verzorg je lichaam en geest met kruidenthee uit Siberië
-  Author: Ivan Aldrivnjítski
+  Author: Ivan Aleksandrivnjítski
 ---
 # 7 voordelen
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
