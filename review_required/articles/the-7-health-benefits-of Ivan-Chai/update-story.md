@@ -290,29 +290,25 @@ Ontdek de inzichten en laat je informeren.
 # 1. Infectie |
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
-
 ## Voorkom onnodige weefselschade
 De favoriete plekken van schimmels zijn dan ook de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...(lees meer)
 
 # 2. Luchtweginfectie |
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
-
 ## Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
-Wist je dat… je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers...(lees meer)
+Wist je dat… je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers... (lees meer)
 
 # 3. Zwak immuunsysteem |
-Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...(lees meer)
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
-
 ## Beperk de mate van kwetsbaarheid
+Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen... (lees meer)
 
-4. Baarmoederontsteking |
-
+# 4. Baarmoederontsteking |
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
+## Preventieve bescherming van je meest kwetsbare orgaan
 
-Preventieve bescherming van je meest kwetsbare orgaan
 
 5. Keelontsteking |
 
