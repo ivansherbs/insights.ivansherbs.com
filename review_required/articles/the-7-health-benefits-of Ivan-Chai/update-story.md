@@ -298,6 +298,7 @@ Ben jij benieuwd hoe je infectie voorkomt?
 1. Infectie |
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
+
 Voorkom onnodige weefselschade
 
 2. Luchtweginfectie |
@@ -309,6 +310,7 @@ Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
 3. Zwak immuunsysteem |
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
+
 Beperk de mate van kwetsbaarheid
 
 
@@ -319,21 +321,25 @@ Wil jij meer informatie over het verzorgen van ontstekingen?
 4. Baarmoederontsteking |
 
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
+
 Preventieve bescherming van je meest kwetsbare orgaan
 
 5. Keelontsteking |
 
 https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
+
 Wat te gebruiken wanneer antibiotica geen zin heeft?
 
 6. Peesontsteking |
 
 https://drive.google.com/file/d/1J8inUSY_ztORnyVf7xowhsHBs3YkEY9P/view?usp=sharing
+
 De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
 
 7. Slijmbeursontsteking |
 
 https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
+
 Verzorg je beschermkappen, behoudt soepele gewrichten
 
  
@@ -344,6 +350,7 @@ Waardoor krijgt je hart- en vaatziekten?
 8. Hart- en vaatziekten |
 
 https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
+
 Zie het tijdig aankomen!
 
 
@@ -354,6 +361,7 @@ Wil jij je nachtrust bevorderen?
 9. Slaapproblemen |
 
 https://drive.google.com/file/d/1K49pLlFl74WGqkJsi2PDit3y0mxZz-1f/view?usp=sharing
+
 Stress als katalysator op een slaapprobleem
 
 
@@ -364,16 +372,19 @@ Benieuwd naar de invloed van cortisol op jouw geest?
 10. Stress |
 
 https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
+
 Ben jij er al achter hoe het écht voelt?
 
 11. Angst |
 
 https://drive.google.com/file/d/1pUsSnTLrOTVf84iart49qug78Mxo5mV9/view?usp=sharing
+
 Zie jij het wél aankomen?
 
 12. Burnout |
 
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
+
 Opgeven is géén optie
 
  
@@ -384,22 +395,26 @@ Hoe verminder je de kans op klachten waar 30% van de mannen ouder dan 50 jaar me
 13. Prostaatontsteking |
 
 https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
+
 Bescherm de gezondheid van je prostaat
 
 
 14. Vergrote prostaat |
 
 https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
+
 Een goedaardige aandoening
 
 15. Prostaatkanker |
 
 https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing
+
 Een onopgemerkt probleem
 
 16. Urineweginfectie |
 
 https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
+
 Voorkom relatieproblemen
 
 
@@ -410,4 +425,5 @@ Geen zin om in het dagelijks leven in verlegenheid te worden gebracht?
 17. Buikgriep |
 
 https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
+
 Een voorspelbaar probleem
