@@ -22,9 +22,6 @@ Hoe heeft het zover kunnen komen? Vraag je jezelf dan af.
 
 Je hebt laten zien dat je gedreven, ambitieus en enthousiast bent. Je krijgt veel verantwoordelijkheid. En er is werk in overvloed om jezelf te bewijzen. 
 
-En wat betreft die dynamische werkomgeving... dat zit wel f
-.
-
 De tijd gaat snel. En alle deadlines werk je achter elkaar weg. 
 
 Je bent competitief ingesteld waardoor je voor je gevoel nét even iets meer geeft dan jouw collega’s. Je hebt het gevoel dat je echt carrière aan het maken bent. En zonder erover na te denken maak je overuren. 
