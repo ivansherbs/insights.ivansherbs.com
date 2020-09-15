@@ -291,79 +291,79 @@ Ontdek de inzichten en laat je informeren.
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 ### Voorkom onnodige weefselschade
-De favoriete plekken van schimmels zijn dan ook de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen..._(lees meer)_
+De favoriete plekken van schimmels zijn dan ook de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...._(lees meer)_
 
 ## 2. Luchtweginfectie
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
 ### Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
-Wist je dat… je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers..._(lees meer)_
+Wist je dat… je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers...._(lees meer)_
 
 ## 3. Zwak immuunsysteem
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
 ### Beperk de mate van kwetsbaarheid
-Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen..._(lees meer)_
+Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...._(lees meer)_
 
 ## 4. Baarmoederontsteking
 
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
 ### Preventieve bescherming van je meest kwetsbare orgaan
-Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoederontsteking. Oók vrouwen die net zijn bevallen..._(lees meer)_
+Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoederontsteking. Oók vrouwen die net zijn bevallen...._(lees meer)_
 
 ## 5. Keelontsteking
 
 https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
 ### Wat te gebruiken wanneer antibiotica geen zin heeft?
-Je kent de symptomen maar al te goed wanneer het weer zo ver is..._(lees meer)_
+Je kent de symptomen maar al te goed wanneer het weer zo ver is...._(lees meer)_
 
 ## 6. Peesontsteking
 
 https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
 ### De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
-Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent geslagen..._(lees meer)_
+Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent geslagen...._(lees meer)_
 
 ## 7. Slijmbeursontsteking
 
 https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
 ### Verzorg je beschermkappen, behoudt soepele gewrichten
-Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken..._(lees meer)_
+Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken...._(lees meer)_
 
 ## 8. Hart- en vaatziekten
 
 https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
 ### Zie het tijdig aankomen!
-Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de kans vergroten..._(lees meer)_
+Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de kans vergroten...._(lees meer)_
 
 ## 9. Slaapproblemen
 
 https://drive.google.com/file/d/1K49pLlFl74WGqkJsi2PDit3y0mxZz-1f/view?usp=sharing
 ### Stress als katalysator op een slaapprobleem
-20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen..._(lees meer)_
+20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen...._(lees meer)_
 
 ## 10. Stress
 
 https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
 ### Ben jij er al achter hoe het écht voelt?
-Veel mensen hebben geen idee hoe een overmatige hoeveelheid aan stress voelt. Tot het omslagpunt is bereikt. De gevolgen kunnen heftiger uitpakken dat je verwacht..._(lees meer)_
+Veel mensen hebben geen idee hoe een overmatige hoeveelheid aan stress voelt. Tot het omslagpunt is bereikt. De gevolgen kunnen heftiger uitpakken dat je verwacht...._(lees meer)_
 
 ## 11. Angst
 
 https://drive.google.com/file/d/1pUsSnTLrOTVf84iart49qug78Mxo5mV9/view?usp=sharing
 ### Zie jij het wél aankomen?
-Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt..._(lees meer)_
+Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt...._(lees meer)_
 
 ## 12. Burnout
 
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
 ### Opgeven is géén optie
-Laten we je maar gelijk vertellen wat er aan de hand is..._(lees meer)_
+Laten we je maar gelijk vertellen wat er aan de hand is...._(lees meer)_
 
 ## 13. Prostaatontsteking
 
 https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
 ### Bescherm de gezondheid van je prostaat
-30% van de mannen ouder dan 50 jaar heeft problemen met plassen..._(lees meer)_
+30% van de mannen ouder dan 50 jaar heeft problemen met plassen...._(lees meer)_
 
 ## 14. Vergrote prostaat
 
@@ -375,18 +375,18 @@ Niet alle problemen zijn slecht voor je lichaam. Wel kunnen ze als vervelend wor
 
 https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing
 ### Een onopgemerkt probleem
-Prostaatkanker groeit zo langzaam dat mannen vaak niet eens merken dat ze ermee rondlopen..._(lees meer)_
+Prostaatkanker groeit zo langzaam dat mannen vaak niet eens merken dat ze ermee rondlopen...._(lees meer)_
 
 ## 16. Urineweginfectie
 
 https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
 ### Voorkom relatieproblemen
-Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking! Verdiep je in de risicofactoren..._(lees meer)_
+Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking! Verdiep je in de risicofactoren...._(lees meer)_
 
 ## 17. Buikgriep
 
 https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
 ### Een voorspelbaar probleem
-Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw..._(lees meer)_
+Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw...._(lees meer)_
 
 # Waar te koop
