@@ -126,9 +126,9 @@ Er is gelukkig een manier.
 
 Namelijk met grootschalig klinisch onderzoek. Echter moeten duizenden patiënten bereidwillig zijn het onderzoek kracht bij te zetten. Dit is een arbeidsintensief proces waarbij het onderzoek tevens afhankelijk is van de welwillendheid van de al die patiënten om het onderzoek succesvol af te ronden.
  
-Klinische onderzoek kosten veel tijd. Hierbij moet je denken aan jaren om de effectiviteit van de behandeling te kunnen aantonen.vEn daarom mogen we van geluk spreken van onderzoekers als Maria Treben die zich hiervoor inzetten. 
+Klinische onderzoek kosten veel tijd. Hierbij moet je denken aan jaren om de effectiviteit van een behandeling te kunnen aantonen. Daarom mogen we van geluk spreken van onderzoekers als Maria Treben die zich hiervoor inzetten. 
 
-Om de werkzaamheid van Ivan Chai tegen prostaatklachten aan te tonen heeft Treben meerdere keren grootschalig klinisch onderzoek verricht.
+Om de werkzaamheid van Ivan Chai tegen prostaatklachten aan te tonen heeft Maria Treben meerdere keren grootschalig klinisch onderzoek verricht.
 
 En met succes!
 
@@ -141,7 +141,7 @@ Mooi bijkomend voordeel is dat het óók de groei van de prostaat tegen gaat. En
 Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen. <br>
 **Vrouwen hebben er ook baat bij.** 
 
-Treben raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen.
+Maria Treben raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen.
 
 > Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat.
 
