@@ -1,10 +1,10 @@
 ---
 layout: article.html
-title: IVAN'S INSIGHTS | Verzorg je lichaam en geest met kruidenthee uit Siberië
-  Author: Ivan Aljeksandrivnjítski
+title: Ivan Chai| Ontdek de 7 voordelen
+  Author: IVAN'S INSIGHTS
 ---
 # 7 voordelen
-_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
+_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 > 1. Versterkt de weerstand
 > 2. Krachtige ontstekingsremmer
@@ -16,16 +16,13 @@ _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
 
-
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
 
 
 # Ontdek Ivan Chai
-_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
-
-Ontdek de 7 voordelen van Ivan Chai tegen de 17 problemen.
+De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer. 
 
 
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
@@ -290,23 +287,26 @@ _"Een blog om 17 alledaagse problemen bespreekbaar te maken"_
 Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. 
 Ontdek de inzichten en laat je informeren. 
 
-1. Infectie |
+# 1. Infectie |
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 
-Voorkom onnodige weefselschade
+## Voorkom onnodige weefselschade
+De favoriete plekken van schimmels zijn dan ook de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...(lees meer)
 
-2. Luchtweginfectie |
+# 2. Luchtweginfectie |
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
 
-Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+## Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+Wist je dat… je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers...(lees meer)
 
-3. Zwak immuunsysteem |
+# 3. Zwak immuunsysteem |
+Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...(lees meer)
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
 
-Beperk de mate van kwetsbaarheid
+## Beperk de mate van kwetsbaarheid
 
 4. Baarmoederontsteking |
 
@@ -389,3 +389,6 @@ Voorkom relatieproblemen
 https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
 
 Een voorspelbaar probleem
+
+
+# Waar te koop
