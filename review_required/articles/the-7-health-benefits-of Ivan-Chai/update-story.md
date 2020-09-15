@@ -327,7 +327,7 @@ Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent
 
 https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
 ### Verzorg je beschermkappen, behoudt soepele gewrichten
-Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken...._(lees meer)_
+Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken. Je wil immers wel gewoon blijven sporten, tuinieren of een stukje wandelen...._(lees meer)_
 
 ## 8. Hart- en vaatziekten
 
