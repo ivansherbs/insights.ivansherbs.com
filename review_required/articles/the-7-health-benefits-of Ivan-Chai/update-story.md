@@ -12,15 +12,17 @@ Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en al
 Mede door deze bevinding kun je dit eenvoudige én natuurlijke product gebruiken tegen 17 problemen.
 
 
+
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
 > foto | De oorsprong van Ivan Chai ligt in Siberië, ten noorden van de Altaj. 
+
 
 
 Mocht je alvast benieuwd zijn naar de smaak? 
 
 De smaak van Ivan Chai is vergelijkbaar met traditionele zwarte thee. Echter de fijne bijkomstigheid is de niet-bittere, maar juist licht zoete smaak die het toevoegen van suiker overbodig maakt. 
 
-Lees snel verder en ontdek de 7 voordelen van Ivan Chai. 
+Lees snel verder en ontdek de 7 voordelen.
 
 
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
