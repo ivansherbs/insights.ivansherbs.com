@@ -14,7 +14,7 @@ _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 > 6. Verzorgt de gezondheid van de prostaat en urinewegen
 > 7. Verzorgt het spijsverteringsstelsel
 
-Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd. Ivan Chai bevat 7 voordelen tegen 17 problemen.
+Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
 
 
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
@@ -119,7 +119,7 @@ https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=shari
 
 Statement. Prostaatklachten zijn een veelvoorkomend probleem. Laten we voor de duidelijkheid de statiestieken er gelijk even bij pakken. 
 
-> 30% van de mannen van 50 jaar en ouder heeft prostaatklachten. 
+30% van de mannen van 50 jaar en ouder heeft prostaatklachten. 
 
 Gelukkig kunnen deze klachten preventief worden behandelt. In andere woorden, de kans dat jij prostaatklachten oploopt kan worden vermindert. Voordat we verder ingaan op de prostaatklachten en de voordelen van Ivan Chai, laten we je voor het belang van het verhaal eerst even kennis maken met Maria Treben. 
 
@@ -139,16 +139,21 @@ En met succes!
 
 De bevindingen van haar onderzoek hebben het volgende aangetoond. 
 
- > Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
+* Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
 
 Mooi bijkomend voordeel is dat het óók de groei van de prostaat tegen gaat. En dat het de urinewegen verzorgd. 
+
+
+https://drive.google.com/file/d/1bxFOJs2758W4NdoCYsKMyOMZwPbI4is2/view?usp=sharing
+> foto | Voordeel van een extreem Siberisch landklimaat. De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben de kruiden uit deze regio een verbazingwekkend sterke geneeskrachtige werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld.
+
 
 Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen. <br>
 **Vrouwen hebben er ook baat bij.** 
 
 Maria Treben raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen.
 
-> Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat.
+* Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat.
 
 Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel. 
 
