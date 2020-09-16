@@ -5,29 +5,22 @@ title: Ivan Chai| Ontdek de 7 voordelen
 ---
 **_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_**
 
-_De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee versterkt je weerstand én heeft een onstekingsremmende werking. Hiernaast heeft het een positive effect op je hart- en vaatstelsel. Door de kalmerende werking op je centrale zenuwstelsel wordt de kans op stress, angst & een burn-out tevens vermindert; met als positieve bijkomstigheid het verbeteren van je nachtrust. Eén van de belangrijkstse voordelen voor de man is de verzorging van de prostaat. Volgens de statistieken krijgt >30% van iedere man boven de 45 jaar te kampen met prostaatklachten. Bij zowel mannen als vrouwen de urinewegen verzorgd. Drink tot slot Ivan Chai om óók je spijsverteringsstelstel te verzorgen. 
+**Ontdek de 7 voordelen van Ivan Chai. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.**
 
-De smaak van Ivan Chai is vergelijkbaar met traditionele zwarte thee. Echter de fijne bijkomstigheid is de niet-bittere, maar juist licht zoete smaak die het toevoegen van suiker overbodig maakt. 
+Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. 
 
-Nog even kort een overzicht van de 7 voordelen. 
-
-> 1. Versterkt de weerstand
-> 2. Krachtige ontstekingsremmer
-> 3. Versterkt de antioxiderede werking
-> 4. Verbetert de nachtrust
-> 5. Vermindert de kans op stress, angst en een burnout
-> 6. Verzorgt de gezondheid van de prostaat en urinewegen
-> 7. Verzorgt het spijsverteringsstelsel
-
-Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
+Mede door deze bevinding kun je dit eenvoudige én natuurlijke product gebruiken tegen 17 problemen.
 
 
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
 > foto | De oorsprong van Ivan Chai ligt in Siberië, ten noorden van de Altaj. 
 
 
-# 7 voordelen 
-Drink Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
+Mocht je alvast benieuwd zijn naar de smaak? 
+
+De smaak van Ivan Chai is vergelijkbaar met traditionele zwarte thee. Echter de fijne bijkomstigheid is de niet-bittere, maar juist licht zoete smaak die het toevoegen van suiker overbodig maakt. 
+
+Lees snel verder en ontdek de 7 voordelen van Ivan Chai. 
 
 
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
