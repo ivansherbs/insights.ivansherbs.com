@@ -318,132 +318,116 @@ https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=shari
 ### 1. Infectie | Voorkom onnodige weefselschade
 De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...
 
-_lees meer over infecties_
+_Lees meer over infecties_
 
-## 2. Luchtweginfectie
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
-### Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+### 2. Luchtweginfectie | Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
 Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
 
-_lees meer over luchtweginfecties_
+_Lees meer over luchtweginfecties_
 
-## 3. Zwak immuunsysteem
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
-### Beperk de mate van kwetsbaarheid
+### 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
 Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...
 
 _Lees meer over je immuunsysteem_
 
-## 4. Baarmoederontsteking
 
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
-### Preventieve bescherming van je meest kwetsbare orgaan
+### 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
 Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoederontsteking. Oók vrouwen die net zijn bevallen...
 
 _Lees meer over een baarmoederontsteking_
 
-## 5. Keelontsteking
 
 https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
-### Wat te gebruiken wanneer antibiotica geen zin heeft?
+### 5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
 Je kent de symptomen maar al te goed wanneer het weer zo ver is...
 
 _Lees meer over een keelontsteking_
 
-## 6. Peesontsteking
 
 https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
-### De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+### 6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
 Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent geslagen...
 
 _Lees meer over een peesontsteking_
 
-## 7. Slijmbeursontsteking
 
 https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
-### Verzorg je beschermkappen, behoudt soepele gewrichten
+### 7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
 Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken. Je wil immers wel gewoon blijven sporten, tuinieren of een stukje wandelen...
 
 _Lees meer over een slijmbeursontsteking_
 
-## 8. Hart- en vaatziekten
 
 https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
-### Zie het tijdig aankomen!
+### 8. Hart- en vaatziekten | Zie het tijdig aankomen!
 Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de kans vergroten...
 
 _Lees meer over hart- en vaatziekten_
 
-## 9. Slaapproblemen
 
 https://drive.google.com/file/d/1K49pLlFl74WGqkJsi2PDit3y0mxZz-1f/view?usp=sharing
-### Stress als katalysator op een slaapprobleem
+### 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
 20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen...
 
 _Lees meer over slaapproblemen_
 
-## 10. Stress
 
 https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
-### Ben jij er al achter hoe het écht voelt?
+### 10. Stress | Ben jij er al achter hoe het écht voelt?
 Veel mensen hebben geen idee hoe een overmatige hoeveelheid aan stress voelt. Tot het omslagpunt is bereikt. De gevolgen kunnen heftiger uitpakken dat je verwacht...
 
 _Lees meer over stress_
 
-## 11. Angst
 
 https://drive.google.com/file/d/1pUsSnTLrOTVf84iart49qug78Mxo5mV9/view?usp=sharing
-### Zie jij het wél aankomen?
+### 11. Angst | Zie jij het wél aankomen?
 Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt...
 
 _Lees meer over angst_
 
-## 12. Burn-out
 
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
-### Opgeven is géén optie
+### 12. Burn-out | Opgeven is géén optie
 Laten we je maar gelijk vertellen wat er aan de hand is...
 
 _Lees meer over een burn-out_
 
-## 13. Prostaatontsteking
 
 https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
-### Bescherm de gezondheid van je prostaat
+### 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen...
 
 _Lees meer over een prostaatontsteking_
 
-## 14. Vergrote prostaat
 
 https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
-### Een goedaardige aandoening
+### 14. Vergrote prostaat | Een goedaardige aandoening
 Niet alle problemen zijn slecht voor je lichaam. Wel kunnen ze als vervelend worden ervaren. En je wil er eigenlijk zo snel mogelijk van af...
 
 _Lees meer over een vergrote prostaat_
 
-## 15. Prostaatkanker
 
 https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing
-### Een onopgemerkt probleem
+### 15. Prostaatkanker | Een onopgemerkt probleem
 Prostaatkanker groeit zo langzaam dat mannen vaak niet eens merken dat ze ermee rondlopen...
 
 _Lees meer over prostaatkanker_
 
-## 16. Urineweginfectie
 
 https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
-### Voorkom relatieproblemen
+### 16. Urineweginfectie | Voorkom relatieproblemen
 Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking! Verdiep je in de risicofactoren...
 
 _Lees meer over een urineweginfectie_
 
-## 17. Buikgriep
 
 https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
-### Een voorspelbaar probleem
+### 17. Buikgriep | Een voorspelbaar probleem
 Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw...
 
 _Lees meer over buikgriep_
