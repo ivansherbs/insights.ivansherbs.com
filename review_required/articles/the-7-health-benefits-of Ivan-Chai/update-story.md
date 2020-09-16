@@ -304,7 +304,7 @@ Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiters
 
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
-> foto | Geniet na het zien van de oorsprong en verwerking van Ivan Chai extra van je kop Siberische kruidenthee. 
+> foto | Ontdek nu zelf de smaak van Ivan Chai. 
 
 
 # Over Ivan's Insights
