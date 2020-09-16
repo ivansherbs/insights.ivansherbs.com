@@ -18,7 +18,7 @@ Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goe
 
 
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
-> foto | De oorsprong van Ivan Chai ligt in Siberië, ten noorden van het ALtaj gebergte. 
+> foto | De oorsprong van Ivan Chai ligt in Siberië, ten noorden van de Altaj. 
 
 
 # Ontdek Ivan Chai
@@ -112,7 +112,7 @@ Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmer
 
 
 https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
-> foto | Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer kan worden geoogst. In de winter ligt hier namelijk een dik pak sneeuw.
+> foto | Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer (+30°C) kan worden geoogst. In de winter (-40°C) ligt hier namelijk een dik pak sneeuw.
 
 
 ## 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
@@ -325,7 +325,7 @@ https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=shari
 ### 2. Luchtweginfectie | Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
 Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
 
-_Lees meer over luchtweginfecties_
+_Lees meer over een verkoudheid, griep en pseudokroep_
 
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
