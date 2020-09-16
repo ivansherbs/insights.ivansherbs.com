@@ -18,7 +18,7 @@ Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goe
 
 
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
-> Foto | De oorsprong van Ivan Chai ligt in Siberië, ten noorden van het ALtaj gebergte. 
+> foto| De oorsprong van Ivan Chai ligt in Siberië, ten noorden van het ALtaj gebergte. 
 
 
 # Ontdek Ivan Chai
