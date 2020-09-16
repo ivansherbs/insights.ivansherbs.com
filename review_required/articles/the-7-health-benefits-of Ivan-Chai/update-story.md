@@ -16,16 +16,19 @@ _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
 
+
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
+> De oorsprong van Ivan Chai ligt in Siberië, ten noorden van het ALtaj gebergte. 
 
 
 # Ontdek Ivan Chai
-_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
+_**"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”**_
 
-De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer. 
+_De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en algehele gemoedstoestand. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer._
 
 
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
+> De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
 
 
 ## 1. Ivan Chai versterkt de weerstand
@@ -42,16 +45,16 @@ Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterke
 
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
+> Zowel mannelijke als vrouwelijke theeplukkers staan dagelijks vroeg op om de verse kruiden te plukken. 
 
 
 ## 2. Ivan Chai werkt als een krachtige ontstekingsremmer
 
-Een ontsteking kun je op veel verschillende manieren oplopen. Voor jou beeldvorming bespreken we een paar voorbeelden. 
+Een ontsteking kun je op veel verschillende manieren oplopen. Voor jou beeldvorming nemen we een paar voorbeelden door. 
 
-Je kan het oplopen door een aanval van ongewenste onzichtbare indringers. Het intensief beoefenen van sport waarbij delen van het lichaam worden overbelast. Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. 
+Je kan het oplopen door een aanval van ongewenste onzichtbare indringers. Het intensief beoefenen van sport waarbij delen van het lichaam worden overbelast. Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. Je hebt een verhoogt risico op ontstekingen ná een bevalling. Of door gebruik van voorbehoedsmiddelen zoals een spiraaltje. 
 
-Je hebt een verhoogt risico op ontstekingen ná een bevalling. Of door gebruik van voorbehoedsmiddelen zoals een spiraaltje. 
-Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken. 
+Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken. Drink Ivan Chai om de normale gang van zaken te beschermen.
 
 Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen. En vergeet niet dat je het óók kunt drinken als aanvulling op farmaceutische medicijnen! 
 
@@ -59,6 +62,7 @@ Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd
 
 
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
+> Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de theeplukkers in de gelegenheid een kwaliteitscontrole uit te voeren.
 
 
 ## 3. Ivan Chai versterkt de antioxiderede werking
@@ -77,6 +81,7 @@ Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de w
 
 
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
+> De bladeren van de kruiden worden met de hand gerold. Vervolgens wordt het bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
 
 
 ## 4. Ivan Chai verbetert de nachtrust
@@ -89,7 +94,9 @@ Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te ove
 
 In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
 
+
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
+> In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. 
 
 
 ## 5. Ivan Chai vermindert de kans op stress, angst en een burnout
@@ -105,6 +112,7 @@ Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmer
 
 
 https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
+> Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer kan worden geoogst. In de winter ligt hier namelijk een dik pak sneeuw.
 
 
 ## 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
@@ -157,6 +165,7 @@ Graag willen we tot slot het volgende belichten.
 
 
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
+> Het plukken van de kruiden is een intensief proces. De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt. 
 
 
 ## 7. Ivan Chai verzorgt het spijsverteringsstelsel
@@ -190,6 +199,7 @@ Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten 
 
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
+> Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
 
 
 ## Siberische kruidenthee als alledaags product 
@@ -233,7 +243,9 @@ Dit stelt jou in de gelegenheid de volgende keuze te maken.
 
 _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**_
 
+
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
+> Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken van de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
 
 
 # Ivan's conclusie   
@@ -249,6 +261,7 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zulle
 
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
+> De laatste kwaliteitscontrole vindt plaats middels een ceremonie. De smaakbeleving staat hierbij centraal.
 
 
 # Tot slot
@@ -279,114 +292,148 @@ Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiters
 
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
+> Geniet na het zien van de oorsprong en verwerking van Ivan Chai extra van je kop Siberische kruidenthee. 
 
 
 # Over Ivan's Insights
 _"Een blog om 17 alledaagse problemen bespreekbaar te maken"_ 
 
-Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. 
+Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. En kun je voorkomen of verzorgen middels het drinken van Ivan Chai.  
+
 Ontdek de inzichten en laat je informeren. 
 
 ## 1. Infectie
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 ### Voorkom onnodige weefselschade
-De favoriete plekken van schimmels zijn dan ook de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...._(lees meer)_
+De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...
+
+_lees meer over infecties_
 
 ## 2. Luchtweginfectie
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
 ### Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
-Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...._(lees meer)_
+Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
+
+_lees meer over luchtweginfecties_
 
 ## 3. Zwak immuunsysteem
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
 ### Beperk de mate van kwetsbaarheid
-Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...._(lees meer)_
+Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...
+
+_Lees meer over je immuunsysteem_
 
 ## 4. Baarmoederontsteking
 
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
 ### Preventieve bescherming van je meest kwetsbare orgaan
-Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoederontsteking. Oók vrouwen die net zijn bevallen...._(lees meer)_
+Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoederontsteking. Oók vrouwen die net zijn bevallen...
+
+_Lees meer over een baarmoederontsteking_
 
 ## 5. Keelontsteking
 
 https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
 ### Wat te gebruiken wanneer antibiotica geen zin heeft?
-Je kent de symptomen maar al te goed wanneer het weer zo ver is...._(lees meer)_
+Je kent de symptomen maar al te goed wanneer het weer zo ver is...
+
+_Lees meer over een keelontsteking_
 
 ## 6. Peesontsteking
 
 https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
 ### De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
-Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent geslagen...._(lees meer)_
+Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent geslagen...
+
+_Lees meer over een peesontsteking_
 
 ## 7. Slijmbeursontsteking
 
 https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
 ### Verzorg je beschermkappen, behoudt soepele gewrichten
-Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken. Je wil immers wel gewoon blijven sporten, tuinieren of een stukje wandelen...._(lees meer)_
+Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken. Je wil immers wel gewoon blijven sporten, tuinieren of een stukje wandelen...
+
+_Lees meer over een slijmbeursontsteking_
 
 ## 8. Hart- en vaatziekten
 
 https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
 ### Zie het tijdig aankomen!
-Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de kans vergroten...._(lees meer)_
+Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de kans vergroten...
+
+_Lees meer over hart- en vaatziekten_
 
 ## 9. Slaapproblemen
 
 https://drive.google.com/file/d/1K49pLlFl74WGqkJsi2PDit3y0mxZz-1f/view?usp=sharing
 ### Stress als katalysator op een slaapprobleem
-20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen...._(lees meer)_
+20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen...
+
+_Lees meer over slaapproblemen_
 
 ## 10. Stress
 
 https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
 ### Ben jij er al achter hoe het écht voelt?
-Veel mensen hebben geen idee hoe een overmatige hoeveelheid aan stress voelt. Tot het omslagpunt is bereikt. De gevolgen kunnen heftiger uitpakken dat je verwacht...._(lees meer)_
+Veel mensen hebben geen idee hoe een overmatige hoeveelheid aan stress voelt. Tot het omslagpunt is bereikt. De gevolgen kunnen heftiger uitpakken dat je verwacht...
+
+_Lees meer over stress_
 
 ## 11. Angst
 
 https://drive.google.com/file/d/1pUsSnTLrOTVf84iart49qug78Mxo5mV9/view?usp=sharing
 ### Zie jij het wél aankomen?
-Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt...._(lees meer)_
+Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt...
 
-## 12. Burnout
+_Lees meer over angst_
+
+## 12. Burn-out
 
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
 ### Opgeven is géén optie
-Laten we je maar gelijk vertellen wat er aan de hand is...._(lees meer)_
+Laten we je maar gelijk vertellen wat er aan de hand is...
+
+_Lees meer over een burn-out_
 
 ## 13. Prostaatontsteking
 
 https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
 ### Bescherm de gezondheid van je prostaat
-30% van de mannen ouder dan 50 jaar heeft problemen met plassen...._(lees meer)_
+30% van de mannen ouder dan 50 jaar heeft problemen met plassen...
+
+_Lees meer over een prostaatontsteking_
 
 ## 14. Vergrote prostaat
 
 https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
 ### Een goedaardige aandoening
-Niet alle problemen zijn slecht voor je lichaam. Wel kunnen ze als vervelend worden ervaren. En je wil er eigenlijk zo snel mogelijk van af...._(lees meer)_
+Niet alle problemen zijn slecht voor je lichaam. Wel kunnen ze als vervelend worden ervaren. En je wil er eigenlijk zo snel mogelijk van af...
+
+_Lees meer over een vergrote prostaat_
 
 ## 15. Prostaatkanker
 
 https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing
 ### Een onopgemerkt probleem
-Prostaatkanker groeit zo langzaam dat mannen vaak niet eens merken dat ze ermee rondlopen...._(lees meer)_
+Prostaatkanker groeit zo langzaam dat mannen vaak niet eens merken dat ze ermee rondlopen...
+
+_Lees meer over prostaatkanker_
 
 ## 16. Urineweginfectie
 
 https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
 ### Voorkom relatieproblemen
-Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking! Verdiep je in de risicofactoren...._(lees meer)_
+Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking! Verdiep je in de risicofactoren...
+
+_Lees meer over een urineweginfectie_
 
 ## 17. Buikgriep
 
 https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
 ### Een voorspelbaar probleem
-Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw...._(lees meer)_
+Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw...
 
-# Waar te koop
+_Lees meer over buikgriep_
