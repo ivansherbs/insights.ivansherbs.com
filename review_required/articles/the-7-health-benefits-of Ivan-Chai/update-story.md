@@ -45,7 +45,7 @@ Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterke
 
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
-> foto | De bewonders van Chazhaevka staan vroeg op om de kruiden te plukken in de wildernis van Siberië.
+> foto | De seizoensarbeiders van Chazhaevka staan vroeg op om de kruiden te plukken in de wildernis van Siberië.
 
 
 ## 2. Ivan Chai werkt als een krachtige ontstekingsremmer
