@@ -45,7 +45,7 @@ Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterke
 
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
-> foto | Zowel mannelijke als vrouwelijke theeplukkers staan dagelijks vroeg op om de verse kruiden te plukken. 
+> foto | De bewonders van Chazhaevka staan vroeg op om de kruiden te plukken in de wildernis van Siberië.
 
 
 ## 2. Ivan Chai werkt als een krachtige ontstekingsremmer
@@ -62,7 +62,7 @@ Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd
 
 
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
-> foto | Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de theeplukkers in de gelegenheid een kwaliteitscontrole uit te voeren.
+> foto | Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de meest ervaren 'tea master' in de gelegenheid een kwaliteitscontrole uit te voeren.
 
 
 ## 3. Ivan Chai versterkt de antioxiderede werking
@@ -81,7 +81,7 @@ Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de w
 
 
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
-> foto | De bladeren van de kruiden worden met de hand gerold. Vervolgens wordt het bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
+> foto | De bladeren van de kruiden worden met de hand gerold. Vervolgens worden de bladeren bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
 
 
 ## 4. Ivan Chai verbetert de nachtrust
@@ -314,10 +314,8 @@ Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen
 
 Ontdek de inzichten en laat je informeren. 
 
-## 1. Infectie
-
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
-### Voorkom onnodige weefselschade
+### 1. Infectie | Voorkom onnodige weefselschade
 De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...
 
 _lees meer over infecties_
