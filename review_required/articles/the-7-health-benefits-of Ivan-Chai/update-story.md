@@ -14,7 +14,7 @@ _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 > 6. Verzorgt de gezondheid van de prostaat en urinewegen
 > 7. Verzorgt het spijsverteringsstelsel
 
-Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
+Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd. Ivan Chai bevat 7 voordelen tegen 17 problemen.
 
 
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
@@ -202,7 +202,7 @@ https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=shari
 > foto | Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
 
 
-## Siberische kruidenthee als alledaags product 
+## Alledaags product tegen 17 problemen 
 _“Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie”_ 
 
 Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen!
