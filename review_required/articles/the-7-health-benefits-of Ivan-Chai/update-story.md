@@ -188,7 +188,7 @@ Waar je misschien niet van op de hoogte bent is het volgende.
 Het is te voorspellen wanneer je last gaat krijgen van buikgriep!
 Start met deze kennis preventief een behandeling met Ivan Chai. Verminder de kans én de symptomen op eenvoudige en natuurlijke wijze.
 
-Want.. 
+want.. 
 
 Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Gastritis en Colitis kunnen allemaal worden verholpen door het drinken van Ivan Chai.
 
@@ -196,7 +196,7 @@ Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen 
 
 Het dient om je spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. 
 
-> 75% van de patiënten van het prikkelbare darmsyndroom is vrouw!
+* 75% van de patiënten van het prikkelbare darmsyndroom is vrouw.
 
 Of die veranderingen ondergaan in hun dieet. 
 
