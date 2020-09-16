@@ -18,7 +18,7 @@ Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goe
 
 
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
-> De oorsprong van Ivan Chai ligt in Siberië, ten noorden van het ALtaj gebergte. 
+> Foto | De oorsprong van Ivan Chai ligt in Siberië, ten noorden van het ALtaj gebergte. 
 
 
 # Ontdek Ivan Chai
@@ -28,7 +28,7 @@ _De 7 voordelen van Ivan Chai hebben een krachtige impact op je gezondheid en al
 
 
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
-> De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
+> Foto | De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
 
 
 ## 1. Ivan Chai versterkt de weerstand
@@ -45,7 +45,7 @@ Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterke
 
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
-> Zowel mannelijke als vrouwelijke theeplukkers staan dagelijks vroeg op om de verse kruiden te plukken. 
+> Foto | Zowel mannelijke als vrouwelijke theeplukkers staan dagelijks vroeg op om de verse kruiden te plukken. 
 
 
 ## 2. Ivan Chai werkt als een krachtige ontstekingsremmer
@@ -62,7 +62,7 @@ Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd
 
 
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
-> Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de theeplukkers in de gelegenheid een kwaliteitscontrole uit te voeren.
+> Foto | Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de theeplukkers in de gelegenheid een kwaliteitscontrole uit te voeren.
 
 
 ## 3. Ivan Chai versterkt de antioxiderede werking
@@ -81,7 +81,7 @@ Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de w
 
 
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
-> De bladeren van de kruiden worden met de hand gerold. Vervolgens wordt het bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
+> Foto | De bladeren van de kruiden worden met de hand gerold. Vervolgens wordt het bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
 
 
 ## 4. Ivan Chai verbetert de nachtrust
@@ -96,7 +96,7 @@ In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmere
 
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
-> In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. 
+> Foto | In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. 
 
 
 ## 5. Ivan Chai vermindert de kans op stress, angst en een burnout
@@ -112,7 +112,7 @@ Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmer
 
 
 https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
-> Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer kan worden geoogst. In de winter ligt hier namelijk een dik pak sneeuw.
+> Foto | Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer kan worden geoogst. In de winter ligt hier namelijk een dik pak sneeuw.
 
 
 ## 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
@@ -165,7 +165,7 @@ Graag willen we tot slot het volgende belichten.
 
 
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
-> Het plukken van de kruiden is een intensief proces. De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt. 
+> Foto | Het plukken van de kruiden is een intensief proces. De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt. 
 
 
 ## 7. Ivan Chai verzorgt het spijsverteringsstelsel
@@ -199,7 +199,7 @@ Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten 
 
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
-> Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
+> Foto | Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
 
 
 ## Siberische kruidenthee als alledaags product 
@@ -245,7 +245,7 @@ _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor li
 
 
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
-> Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken van de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
+> Foto | Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken van de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
 
 
 # Ivan's conclusie   
@@ -261,7 +261,7 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zulle
 
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
-> De laatste kwaliteitscontrole vindt plaats middels een ceremonie. De smaakbeleving staat hierbij centraal.
+> Foto | De laatste kwaliteitscontrole vindt plaats middels een ceremonie. De smaakbeleving staat hierbij centraal.
 
 
 # Tot slot
@@ -292,7 +292,7 @@ Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiters
 
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
-> Geniet na het zien van de oorsprong en verwerking van Ivan Chai extra van je kop Siberische kruidenthee. 
+> Foto | Geniet na het zien van de oorsprong en verwerking van Ivan Chai extra van je kop Siberische kruidenthee. 
 
 
 # Over Ivan's Insights
