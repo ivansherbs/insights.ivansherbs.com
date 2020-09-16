@@ -225,6 +225,11 @@ De traditionele kruidengeneeskunde heeft de deur geopend naar gebruik van deze e
 
 Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
 
+
+https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
+> foto | Ivan Chai bevat 7 voordelen tegen 17 problemen.
+
+
 Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen én problemen te verzorgen. Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. 
 
 Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een kleine opsomming te maken. 
@@ -245,7 +250,7 @@ _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor li
 
 
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
-> foto | Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken van de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
+> foto | Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken naar de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
 
 
 # Ivan's conclusie   
