@@ -5,9 +5,11 @@ title: Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare org
 ---
 Oók je meest kwetsbare orgaan kan een ontsteking oplopen. En hiermee bedoelen we uiteraard je baarmoeder. 
 
+Deze dien je goed te verzorgen om narigheid te voorkomen. De reden is als volgt. 
+
 Wanneer je baarmoeder eenmaal een onsteking heeft opgelopen kun je rekenen op een zeer heftige periode. Deze doen ongeloofelijk veel pijn. En de farmaceutische medicijnen hebben gezien de kwetsbaarheid van dit orgaan extra heftige bijwerkingen. 
 
-Bij deze heftige en terugkerende baarmoederontstekingen, kun je zelfs onvruchtbaar worden. En zonder baarmoeder, géén kinderen. 
+Hiernaast kun je bij deze heftige en terugkerende baarmoederontstekingen zelfs onvruchtbaar worden. En zonder vruchtbare baarmoeder, géén kinderen. 
 
 Nog een reden om deze goed te verzorgen!
 
@@ -17,13 +19,7 @@ Waar vrouwen zich op dagelijkse basis minder bewust van zijn, is dat het rondlop
 
 Wist je dat...
 
-een spiraatje de kans op een baarmoederontsteking verhoogd met 17%? 
-
-Voor jouw beeldvorming, zo goed als 1 op de 5 vrouwen met een spiraaltje krijgt een baarmoederontsteking... 
-
-Dus...
-
-Tot zo ver de statistieken. 
+meer dan 17% van de vrouwen rondloopt met een spiraaltje?
 
 Hoogtijd om extra maatregelen te treffen om ontstekingen preventief te behandelen. Het spiraaltje is immers een risicofactor geworden voor je meest kwetsbare orgaan!
 
