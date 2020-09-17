@@ -61,13 +61,13 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 
 ## Inhoud van dit artikel
 
-* [Over een verkoudheid of griep en pseudokroep](#over-een-verkoudheid-of-griep-en-pseudokroep)
+* [Over een verkoudheid of griep](#over-een-verkoudheid-of-griep)
 * [Wanneer krijg je last van een luchtweginfectie?](#Wanneer-krijg-je-last-van-een-luchtweginfectie)
 * [Wat vergroot de kans op een luchtweginfecties?](#Wat-vergroot-de-kans-op-een-luchtweginfecties)
 * [Welke medicijnen zijn van invloed op luchtweginfecties?](#Welke-medicijnen-zijn-van-invloed-op-luchtweginfecties)
 * [Welk effect heeft het gebruik van medicijnen op luchtweginfecties?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-luchtweginfecties)
 * [Waardoor vergroot ik de kans op een luchtweginfectie?](#Waardoor-vergroot-ik-de-kans-op-een-luchtweginfectie)
-*[Over pseudokroep](#over-pseudokroep)
+* [Over pseudokroep](#over-pseudokroep)
 * [Tips voor het drinken van Ivan Chai met kinderen](#Tips-voor-het-drinken-van-Ivan-Chai-met-kinderen)
 * [Waarom Ivan Chai?](#waarom-ivan-chai?)
 
@@ -75,7 +75,9 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 
 Men verstaat onder een luchtweginfectie een ontsteking van het slijmvlies in de luchtwegen. Dit komt je waarschijnlijk bekend voor. Maar dan als een verkoudheid of griep.
 
-Een verkoudheid begint vaak met een verstopte neus of loopneus. Hoofdpijn is het gevolg wanneer deze symptomen heftiger worden, veroorzaakt door de neusverstopping. Verkoudheid is vaak seizoensgebonden. Waarbij een ontsteking van de luchtwegen ook vaak voorkomt. De agressieve variant van verkoudheid, noemen we ook wel griep.
+Een verkoudheid begint vaak met een verstopte neus of loopneus. Hoofdpijn is het gevolg wanneer deze symptomen heftiger worden, veroorzaakt door de neusverstopping. Verkoudheid is vaak seizoensgebonden. Waarbij een ontsteking van de luchtwegen ook vaak voorkomt. 
+
+De agressieve variant van verkoudheid, noemen we ook wel griep.
 
 > Ter info: de afgelopen jaren heeft het niveau ziekteverzuim door zware verkoudheid en griep epidemieën nog nooit zo hoog gelegen.
 
