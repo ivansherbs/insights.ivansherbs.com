@@ -27,7 +27,11 @@ Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vr
 
 En nu vraag je je waarschijnlijk af waar dit door komt?
 
-Dit komt met name door de menstruatie óf gebruik van bepaalde farmaceutische medicijnen. Zoals de anticonceptiepil. Maar ook seksuele opwinding, zwangerschap en de overgang zijn hierop van invloed.
+Dit komt met name door de menstruatie óf gebruik van bepaalde farmaceutische medicijnen. 
+
+Zoals de anticonceptiepil. 
+
+Maar ook seksuele opwinding, zwangerschap en de overgang zijn hierop van invloed.
 
 Om het niet te wetenschappelijk te maken laten we de details achterwege.
 
