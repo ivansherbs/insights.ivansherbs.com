@@ -55,7 +55,9 @@ Het gebruik van farmaceutische medicijnen, of het nou antibiotica is of de antic
 
 En wanneer je het hebt opgelopen.
 
-Denk dan vervolgens niet dat je één van de gelukkigen bent. En dat bij jou de infectie vanzelf overgaat. Je moet een infectie behandelen.
+Denk dan vervolgens niet dat je één van de gelukkigen bent. En dat bij jou de infectie vanzelf overgaat. 
+
+Je moet een infectie behandelen.
 
 Beter nog, het voorkomen van een infectie behoort ook tot de mogelijkheden.
 
