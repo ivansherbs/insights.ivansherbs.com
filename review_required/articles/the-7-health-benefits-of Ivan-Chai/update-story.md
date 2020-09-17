@@ -12,7 +12,7 @@ Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en al
 Dit alledaags product wordt in Siberië al eeuwen gedronken vanwege de geneeskrachtige werking. Voor we overgaan op de 7 voordelen hierbij eerst de korte versie van de geschiedenis van Ivan Chai. 
 
 <br>
-<br>
+
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
 > foto | De oorsprong van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
 <br>
