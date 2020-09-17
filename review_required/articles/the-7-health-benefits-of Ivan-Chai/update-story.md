@@ -7,28 +7,31 @@ title: Ivan Chai| Ontdek de 7 voordelen
 
 **Ontdek de 7 voordelen van Ivan Chai. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.**
 
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. 
-
-Mede door deze bevinding kun je dit eenvoudige én natuurlijke product gebruiken tegen 17 problemen.
-
+Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd én goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke product gebruiken tegen 17 problemen.
 
 
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
-> foto | De oorsprong van Ivan Chai ligt in Siberië, ten noorden van de Altaj. 
+> foto | De oorsprong van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
+<br>
+<br>
+<br>
+Dit alledaags product wordt in Siberië al eeuwen gedronken vanwege de geneeskrachtige werking. Voor we overgaan op de 7 voordelen hierbij eerst de korte versie van de geschiedenis van Ivan Chai. 
 
+In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met hartklopppingen, rillingen en slapeloosheid tot gevolg. 
 
+Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar. Kennisdeling tussen monniken en landarbeiders geschieden om de verstandshouding te versterken. 
 
-Mocht je alvast benieuwd zijn naar de smaak? 
+Eenvoudige én natuurlijke producten met een krachtige werking op het lichaam waren vanuit de Siberische monniken dé manier om de harmonie te bewaren. 
 
-De smaak van Ivan Chai is vergelijkbaar met traditionele zwarte thee. Echter de fijne bijkomstigheid is de niet-bittere, maar juist licht zoete smaak die het toevoegen van suiker overbodig maakt. 
+Dit geschiedde middels kruidentheeën als Ivan Chai.
 
 Lees snel verder en ontdek de 7 voordelen.
 
-
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 > foto | De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
-
-
+<br>
+<br>
+<br>
 ## 1. Ivan Chai versterkt de weerstand
 
 Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. Dit verdedigen doet je immuunsysteem. 
@@ -44,8 +47,9 @@ Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterke
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
 > foto | De seizoensarbeiders van Chazhaevka staan vroeg op om de kruiden te plukken in de wildernis van Siberië.
-
-
+<br>
+<br>
+<br>
 ## 2. Ivan Chai werkt als een krachtige ontstekingsremmer
 
 Een ontsteking kun je op veel verschillende manieren oplopen. Voor jou beeldvorming nemen we een paar voorbeelden door. 
@@ -61,8 +65,9 @@ Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd
 
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
 > foto | Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de meest ervaren 'tea master' in de gelegenheid een kwaliteitscontrole uit te voeren.
-
-
+<br>
+<br>
+<br>
 ## 3. Ivan Chai versterkt de antioxiderede werking
 
 Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. 
@@ -80,8 +85,9 @@ Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de w
 
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
 > foto | De bladeren van de kruiden worden met de hand gerold. Vervolgens worden de bladeren bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
-
-
+<br>
+<br>
+<br>
 ## 4. Ivan Chai verbetert de nachtrust
 
 Slaapproblemen hebben meer impact op je leven dan op het eerste gezicht lijkt. Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie én bent lusteloos. Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend probleem is op de werkvloer. 
@@ -95,8 +101,9 @@ In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmere
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 > foto | In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. 
-
-
+<br>
+<br>
+<br>
 ## 5. Ivan Chai vermindert de kans op stress, angst en een burnout
 
 Stress is een ware sluipmoordenaar. Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom daarom een overmatige hoeveelheid aan langdurige stress.
@@ -111,8 +118,9 @@ Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmer
 
 https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
 > foto | Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer (+30°C) kan worden geoogst. In de winter (-40°C) ligt hier namelijk een dik pak sneeuw.
-
-
+<br>
+<br>
+<br>
 ## 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
 
 Statement. Prostaatklachten zijn een veelvoorkomend probleem. Laten we voor de duidelijkheid de statiestieken er gelijk even bij pakken. 
@@ -171,8 +179,9 @@ Graag willen we tot slot het volgende belichten.
 
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
 > foto | Het plukken van de kruiden is een intensief proces. De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt. 
-
-
+<br>
+<br>
+<br>
 ## 7. Ivan Chai verzorgt het spijsverteringsstelsel
 
 Ai! 
@@ -205,8 +214,9 @@ Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten 
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
 > foto | Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
-
-
+<br>
+<br>
+<br>
 ## Alledaags product tegen 17 problemen 
 _“Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie”_ 
 
@@ -233,8 +243,9 @@ Denk hierbij aan Ivan Chai. Een Siberische kruidenthee.
 
 https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
 > foto | Ivan Chai bevat 7 voordelen tegen 17 problemen.
-
-
+<br>
+<br>
+<br>
 Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen én problemen te verzorgen. Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. 
 
 Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een kleine opsomming te maken. 
@@ -256,8 +267,9 @@ _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor li
 
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
 > foto | Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken naar de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
-
-
+<br>
+<br>
+<br>
 # Ivan's conclusie   
 _"Neemt uw tijd te baat te vroeg is beter dan te laat"_
 
@@ -272,8 +284,9 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zulle
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 > foto | De laatste kwaliteitscontrole vindt plaats middels een ceremonie. De smaakbeleving staat hierbij centraal.
-
-
+<br>
+<br>
+<br>
 # Tot slot
 _"Door ontdekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_
 
@@ -303,8 +316,9 @@ Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiters
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 > foto | Ontdek nu zelf de smaak van Ivan Chai. 
-
-
+<br>
+<br>
+<br>
 # Over Ivan's Insights
 _"Een blog om 17 alledaagse problemen bespreekbaar te maken"_ 
 
