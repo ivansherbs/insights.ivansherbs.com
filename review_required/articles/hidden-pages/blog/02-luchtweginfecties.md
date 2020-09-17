@@ -132,6 +132,8 @@ Echter wat zeer typerend is voor pseudokroep is de zogenaamde blafhoest én bij 
 
 Overbodig om te vermelden huilt je kind dan ook extra veel.
 
+Goed om te weten. Ivan Chai heeft een kalmerende werking op je centrale zenuwstelsel. Dit vermindert de kans op stress, angst en een burn-out. Of het ook goed werkt tegen huilende kinderen is nog geen onderzoek over bekend. 
+
 ### Tips voor het drinken van Ivan Chai met kinderen
 Het drinken van Ivan Chai van de ene op de andere dag kan als heftig worden ervaren door je kind. We hebben de volgende tips om ervoor te zorgen dat je kind na verloop van tijd Ivan Chai drinkt. 
 
