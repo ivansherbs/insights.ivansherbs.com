@@ -161,7 +161,7 @@ Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk product wat gebr
 
 > Drink Ivan Chai preventief of ter behandeling tegen infecties.
 
-In andere woorden, drink Ivan Chai preventief tegen problemen. En drink het als aanvulling voor farmaceutische medicijnen.
+In andere woorden, drink Ivan Chai preventief tegen problemen. Of drink het als aanvulling op farmaceutische medicijnen.
 
 Om bijwerkingen te bestrijden. Voor een gezonder lichaam en een sterkere geest.
 
