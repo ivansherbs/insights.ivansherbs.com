@@ -5,7 +5,7 @@ title: Infectie | Voorkom onnodige weefselschade
 ---
 Een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade. Ooit nagedacht waar je allemaal last kunt krijgen van bijvoorbeeld schimmels?
 
-Laten we het maar gelijk verklappen. 
+Laten we het gelijk maar verklappen. 
 
 Je kunt ze overal op het lichaam krijgen. Ze zitten letterlijk op je huid. En richten bij een overtollige hoeveelheid weefselschade aan.
 
@@ -21,7 +21,9 @@ Wanneer de omstandigheden de micro organismen gunstig gezind zijn. Kunnen zij zi
 
 Met name vaginale schimmelinfecties zijn dan ook vanwege het aangename klimaat in de intieme zone, een veel voorkomend probleem. Bij een kleine overtolligheid aan deze micro organismen kunnen ze je al flink te grazen nemen! 
 
-Om heel even kort bij dit onderwerp te blijven hangen. Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen. Want het is mede te verklaren door het het veranderen van je hormoonspiegel. Je immuunsysteem is op dat moment wat zwakker waardoor schimmels zich makkelijker vrij kunnen bewegen en vermenigvuldigen. 
+Om heel even kort bij dit onderwerp te blijven hangen. 
+
+Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen. Want het is mede te verklaren door het het veranderen van je hormoonspiegel. Je immuunsysteem is op dat moment wat zwakker waardoor schimmels zich makkelijker vrij kunnen bewegen en vermenigvuldigen. 
 
 En nu vraag je je waarschijnlijk af waar dit door komt?
 
@@ -138,6 +140,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 
 
 ### Waarom Ivan Chai?
+Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. 
 
 Een oud Russisch gezegde uit de 17de eeuw luidt als volgt.
 
