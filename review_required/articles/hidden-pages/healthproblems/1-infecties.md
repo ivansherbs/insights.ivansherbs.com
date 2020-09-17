@@ -147,7 +147,7 @@ De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzo
 Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen - waaronder kruiden. Binnen het EMA wordt ook wel de Latijnse benaming Epilobium Angustifolium gebruikt.
 
 De bevindingen zijn als volgt:
-> Het zijn de antioxidanten – quercetine en Oenotheïne B –  die een geneeskrachtige werking hebben op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C.
+> Het zijn de antioxidanten quercetine en Oenotheïne B die een geneeskrachtige werking hebben op schimmel-, gist- en bacteriële infecties. Hiernaast hebben studies aangetoond dat Ivan Chai rijk is aan vitamine C.
 >
 > Het fijne aan vitamine C is dat het op zichzelf een remedie is tegen schimmelinfecties.
 
