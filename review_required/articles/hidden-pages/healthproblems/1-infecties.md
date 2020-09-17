@@ -1,39 +1,63 @@
 ---
 layout: article.html
-title: Infectie: schimmel - gist - bacterieel | Voorkom onnodige weefselschade
+title: Infectie | Voorkom onnodige weefselschade
   Author: IVAN'S INSIGHTS
 ---
+Een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade. Ooit nagedacht waar je allemaal last kunt krijgen van bijvoorbeeld schimmels?
 
-# Voordeel Ivan Chai
-> Versterkt de weerstand
+Je kunt ze overal op het lichaam krijgen. Ze zitten namelijk letterlijk op je huid. En richten bij een overtollige hoeveelheid weefselschade aan.
 
-De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd.
+Deze onzichtbare wezens hebben plekken gevonden waar ze het liefst wonen. En geef ze is ongelijk. Oók zij willen het zich zo comfortabel mogelijk maken.
 
-Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen - helpt het tegen overgroei van gist in het spijsverteringsstelsel.
+Over het algemeen gaan ze daarom voor warme en vochtige plekken. De plekken waar schimmels graag leven zijn dan ook de mond, handen en voeten.
 
-Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
+Maar bij vrouwen is vooral de intieme zone doelwit van deze micro-organismen. Met als gevolg een vaginale schimmelinfectie.
 
-# Voorkom onnodige weefselschade
-_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
+Een vaginale schimmelinfectie is dan ook een veel voorkomend probleem. Hierbij kunnen deze micro organismen je flink te grazen nemen.
 
-Een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade. Ooit nagedacht waar je allemaal last kunt krijgen van bijvoorbeeld schimmels? 
+Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen. 
 
-Je kunt ze krijgen op verschillende plekken op het lichaam. Ze zitten letterlijk op je huid. 
-Ook deze onzichtbare wezens hebben plekken gevonden waar ze het liefst wonen. Over het algemeen gaan ze voor warme vochtige plekken. De favoriete plekken van schimmels zijn dan ook de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen. 
+Het is mede te verklaren door het het veranderen van je hormoonspiegel. Hierdoor hebben schimmels de mogelijkheid zich vrij te bewegen. En nu vraag je je waarschijnlijk af waar dit door komt? 
 
-Het behandelen van een infectie is daarom een must. Je wil niet met té veel schimmels rondlopen. Dit met name om weefselschade te voorkomen. Dit geldt overigens niet alleen voor schimmels. Want of het nou schimmels, gist of ongewenste bacteriën betreft. Ze vallen je aan. Wanneer ze dit met veel doen, krijg je een infectie. 
+Dit komt met name door menstruatie óf gebruik van bepaalde farmaceutische medicijnen. Zoals de anticonceptiepil. Maar ook seksuele opwinding, zwangerschap en de overgang zijn hierop van invloed. 
 
-> Het gebruik van farmaceutische medicijnen vergroot de kans op een infectie
+Om het niet te wetenschappelijk te maken laten we de details achterwege. 
 
-Denk niet dat je één van de gelukkigen bent. En dat bij jou de infectie vanzelf overgaat.
+Waar het om gaat is het volgende.
 
-Het is verstandig te proberen infecties preventief te behandelen. De meest eenvoudige manier is het aanpassen van je levensstijl. Mocht je toch onverhoopt een infectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Man of vrouw… 
 
-Vergeet niet dat een infectie makkelijk kan terugkomen.
+het behandelen van een infectie is een must.
+
+Je wil niet met té veel schimmels rondlopen. Dit met name om weefselschade te voorkomen. Dit geldt overigens niet alleen voor schimmels. 
+
+Want of het nou schimmels, gist of ongewenste bacteriën betreft. Ze vallen je aan. 
+
+Wanneer ze dit met veel doen, krijg je een infectie.
+
+Laten we het maar nog een keer herhalen. 
+
+Man of vrouw… 
+
+Het gebruik van farmaceutische medicijnen, of het nou antibiotica is of de anticonceptiepil, het vergroot de kans op een infectie. 
+
+En wanneer je het hebt opgelopen. 
+
+Denk niet dat je één van de gelukkigen bent. En dat bij jou de infectie vanzelf overgaat. Je moet een infectie behandelen. 
+
+Beter nog, het voorkomen van een infectie behoort ook tot de mogelijkheden. 
+
+Wellicht overbodig om te melden. 
+
+Het voorkomen en verzorgen van infecties kan met eenvoudige én natuurlijke producten. 
+
+Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent infecties te verzorgen.
 
-Mocht je onverhoopt te maken krijgen met terugkerende infecties, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Mocht je toch onverhoopt een zware infectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+
+Vergeet niet dat een infectie makkelijk kan terugkomen.
 
 Ben jij benieuwd hoe je een infectie oploopt?
 
@@ -53,21 +77,16 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 * [7 voordelen](#7-voordelen)
 * [Tegen 17 problemen](#ivan-chai-tegen-17-problemen)
 
-[**Natuurlijke behandeling**](#Natuurlijke-behandeling)
+[**Behandeling**](#behandeling)<br>
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
 * [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
 
-[**Tot slot**](#Tot-slot)
-* [Hoe bewaar je Ivan Chai?](#hoe-bewaar-je-ivan-chai)
-* [Bereidingswijze](#bereidingswijze)
-* [Waar te koop](#Waar-te-koop)
-
 # Inzichten
 ### Over een infectie
 
-Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt - als reactie hierop beschadigd het weefsel.
+Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt. Als reactie hierop beschadigd het weefsel.
 
 In dit artikel zul je geïnformeerd worden over micro-organisme in de vorm van schimmels, gist of bacteriën. Deze micro-organismen leven overal op het lichaam. Denk hierbij aan in de mond, op de handen, voeten en in de intieme zone.
 
@@ -76,7 +95,7 @@ Een infectie kun je oplopen via schimmels, gist of bacteriën.
 
 Zo heeft iedereen last van schimmels! Een infectie kun je krijgen door een overtollige hoeveelheid aan schimmels.
 
-Jammer genoeg, groeien deze schimmels op plekken waar ze je lichaam kunnen beschadigen. Naast schimmels worden er ook gist en ongewenste bacteriën - veelal in kleine getalen - bij mensen aangetroffen.
+Jammer genoeg, groeien deze schimmels op plekken waar ze je lichaam kunnen beschadigen. Naast schimmels worden er ook gist en ongewenste bacteriën bij mensen aangetroffen.
 
 _Aan welke oorzaken moet ik dan denken?_ <br>
 Eén van de oorzaken die juist zorgen voor een overtollige hoeveelheid aan micro-organisme, is het gebruik van farmaceutische medicijnen.
@@ -94,7 +113,7 @@ Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticoncept
 ### Welk effect heeft het gebruik van medicijnen op infecties?
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
-Het kan zijn dat door gebruik – van medicijnen - ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
+Het kan zijn dat door gebruik ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
 ### Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
 Ja. Het ligt niet alleen aan farmaceutische medicijnen.
@@ -113,9 +132,9 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
   - gebrek aan slaap
   - of een slecht dieet
 
-* Ouderdom - vrouwen na de menopauze hebben - door de levensfase waar ze zich in bevinden - überhaupt een verhoogd risico op infecties.
+* Ouderdom en vrouwen na de menopauze hebben door de levensfase waar ze zich in bevinden überhaupt een verhoogd risico op infecties.
 
-* Ziekten - mensen met diabetes zijn extra gevoelig voor infecties.
+* Ziekten Mensen met diabetes zijn extra gevoelig voor infecties.
 
 
 # Ivan Chai
@@ -149,55 +168,10 @@ De voordelen zijn als volgt:
 > 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
 > 7. Verzorgt het spijsverteringsstelsel
 
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. Er zijn zelfs vele problemen waar je deze Siberische kruidenthee tegen kunt gebruiken. Hieronder een opsomming.
+Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine. 
 
-### Tegen 17 problemen
-_”Het voorkomen van problemen draagt niet alleen bij aan de gezondheid... het bespaart ook een hoop moeite en energie”_
-
-Gebruik Ivan Chai preventief tegen of ter behandeling tijdens een:
-
-1. Infectie: schimmel - gist - bacterieel
-
-2. Luchtweginfectie: verkoudheid - griep
-
-3. Zwak immuunsysteem
-
-4. Baarmoederontsteking
-
-5. Keelontsteking
-
-6. Peesontsteking
-
-7. Slijmbeursontsteking
-
-8. Hart- en vaatziekten
-
-9. Slaapproblemen
-
-10. Stress
-
-11. Angst
-
-12. Burn - out
-
-13. Prostaatontsteking
-
-14. Vergrote prostaat
-
-15. Prostaatkanker
-
-16. Urineweginfectie
-
-17. Buikgriep
-
-# Natuurlijke behandeling
-_“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige natuurlijke behandelingen - om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen”_
-
-Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen. Kleine veranderingen in alledaagse handelingen bieden hierbij al soelaas, in je zoektocht naar het behalen van je doelstellingen. Hiernaast kun je het lichaam bekijken vanuit holistisch perspectief.
-
-Het holistische perspectief bestrijkt het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. De mens wordt in zijn totaliteit benaderd. Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken liggen er eenvoudige natuurlijke behandelingen voor de hand."
-
-Deze eenvoudige natuurlijke behandelingen hebben de vorm van alledaagse producten. Het fijne hiervan is dat jij je levensstijl hierdoor niet compleet hoeft om te gooien. Iedereen drinkt immers thee. Op langere termijn kan het drinken van Ivan Chai - met 7 voordelen tegen 17 problemen - de gezondheid en algehele gemoedstoestand versterken.
+# Behandeling 
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
@@ -210,7 +184,7 @@ In tegenstelling tot farmaceutische medicijnen maakt Ivan Chai gebruik van een z
 
 _...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?_
 
-Wij raden het aan de kuur – als preventieve behandeling – met regelmaat te herhalen
+Wij raden het aan de kuur als preventieve behandeling met regelmaat te herhalen
  
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 Er zijn tot op heden geen bijwerkingen van Ivan Chai gemeld:
@@ -241,30 +215,4 @@ En is gelukkig veilig voor kinderen.
 **Zwangerschap, borstvoeding en vruchtbaarheid** <br>
 * Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
- 
-# Tot slot
-_"Het maakt niet uit hoe langzaam je gaat, zolang je maar niet stopt"_
 
-Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
-Geniet van je overheerlijke kop Ivan Chai.
-
-### Bereidingswijze
-Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
-
-Wanneer je de thee warm drinkt adviseren wij - voor een optimale smaakbeleving - het te drinken bij 77 graden Celsius.
-
-De **smaak** is als volgt te omschrijven:
- 
-* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
-
-_...En hoe zit het met de **geur**?_ <br>
-* "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
-
-### Hoe bewaar je Ivan Chai?
-Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden - in verband met verstikkingsgevaar.
-
-Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
-
-Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
-
-### Waar te koop
