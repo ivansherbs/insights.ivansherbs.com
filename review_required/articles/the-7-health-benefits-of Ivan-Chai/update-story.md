@@ -29,7 +29,7 @@ Dit geschiedde middels kruidentheeën als Ivan Chai.
 Lees snel verder en ontdek de 7 voordelen.
 
 <br>
-<br>
+
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 > foto | De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
 <br>
@@ -48,7 +48,7 @@ Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van 
 Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd.
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
 > foto | De seizoensarbeiders van Chazhaevka staan vroeg op om de kruiden te plukken in de wildernis van Siberië.
 <br>
@@ -67,7 +67,7 @@ Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontsteking
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen. 
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
 > foto | Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de meest ervaren 'tea master' in de gelegenheid een kwaliteitscontrole uit te voeren.
 <br>
@@ -88,7 +88,7 @@ Benieuwd waarom?
 Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel. 
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
 > foto | De bladeren van de kruiden worden met de hand gerold. Vervolgens worden de bladeren bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
 <br>
@@ -105,7 +105,7 @@ Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te ove
 In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 > foto | In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. 
 <br>
@@ -123,7 +123,7 @@ Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneesk
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
 > foto | Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer (+30°C) kan worden geoogst. In de winter (-40°C) ligt hier namelijk een dik pak sneeuw.
 <br>
@@ -158,7 +158,7 @@ De bevindingen van haar onderzoek hebben het volgende aangetoond.
 Mooi bijkomend voordeel is dat het óók de groei van de prostaat tegen gaat. En dat het de urinewegen verzorgd. 
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1bxFOJs2758W4NdoCYsKMyOMZwPbI4is2/view?usp=sharing
 > foto | Voordeel van een extreem Siberisch landklimaat. De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben de kruiden uit deze regio een verbazingwekkend sterke geneeskrachtige werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld.
 <br>
@@ -187,7 +187,7 @@ Graag willen we tot slot het volgende belichten.
 * Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen. 
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
 > foto | Het plukken van de kruiden is een intensief proces. De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt. 
 <br>
@@ -223,7 +223,7 @@ Oók kan een maagzweer worden behandelt met Ivan Chai.
 Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten kunnen zelfs worden geëlimineerd door grote hoeveelheden Ivan Chai te drinken.
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
 > foto | Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
 <br>
@@ -253,7 +253,7 @@ De traditionele kruidengeneeskunde heeft de deur geopend naar gebruik van deze e
 Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
 > foto | Ivan Chai bevat 7 voordelen tegen 17 problemen.
 <br>
@@ -278,7 +278,7 @@ Dit stelt jou in de gelegenheid de volgende keuze te maken.
 _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**_
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
 > foto | Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken naar de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
 <br>
@@ -296,7 +296,7 @@ We informeren je over eenvoudige én natuurlijke producten die kunnen worden geb
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 > foto | De laatste kwaliteitscontrole vindt plaats middels een ceremonie. De smaakbeleving staat hierbij centraal.
 <br>
@@ -329,7 +329,7 @@ Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven t
 Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
 <br>
-<br>
+
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 > foto | Ontdek nu zelf de smaak van Ivan Chai. 
 <br>
