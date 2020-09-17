@@ -220,8 +220,6 @@ Lees meer over een behandeling met Ivan Chai
 
 
 
-Mocht je eerst wat meer inzichten verkrijgen gericht op de 7 voordelen van Ivan Chai? 
-
 ### Ivan Chai | Ontdek de 7 voordelen
 
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt….
