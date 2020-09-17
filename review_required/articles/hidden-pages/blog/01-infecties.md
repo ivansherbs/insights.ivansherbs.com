@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Infectie | Voorkom onnodige weefselschade
+title: Infectie| Voorkom onnodige weefselschade
   Author: IVAN'S INSIGHTS
 ---
 Een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade. Ooit nagedacht waar je allemaal last kunt krijgen van bijvoorbeeld schimmels?
