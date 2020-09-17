@@ -37,15 +37,15 @@ https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 
 ## 1. Ivan Chai versterkt de weerstand
 
-Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. Dit verdedigen doet je immuunsysteem. 
-Om je immuunsysteem te versterken heb je de juiste voedingsstoffen nodig. Ivan Chai helpt je om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
+Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. Dit verdedigen doet je afweersysteem. 
+Om je afweersysteem te versterken heb je de juiste voedingsstoffen nodig. Ivan Chai helpt je om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
 
 De werking kunnen we als volgt kort omschrijven.
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. 
-Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd.
+Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
 <br>
 
@@ -357,10 +357,10 @@ _Lees meer over een verkoudheid, griep en pseudokroep_
 
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
-### 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
+### 3. Zwak afweersysteem | Beperk de mate van kwetsbaarheid
 Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...
 
-_Lees meer over je immuunsysteem_
+_Lees meer over je afweersysteem?
 
 
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
