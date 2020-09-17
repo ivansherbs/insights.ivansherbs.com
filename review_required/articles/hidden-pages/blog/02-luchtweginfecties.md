@@ -212,13 +212,13 @@ Lees onderstaande blog.
 _”Een blog om 17 alledaagse problemen bespreekbaar te maken”_
 
 https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
-### Behandeling | Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?’
-In het algemeen geven de onderstaande doseringen voldoende resultaat…
-
-_Lees meer over een behandeling met Ivan Chai_
-
-https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
 ### Ivan Chai | Ontdek de 7 voordelen
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
 
 _Lees meer over de 7 voordelen_
+
+https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
+### Behandeling | Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?’
+In het algemeen geven de onderstaande doseringen voldoende resultaat…
+
+_Lees meer over een behandeling met Ivan Chai_
