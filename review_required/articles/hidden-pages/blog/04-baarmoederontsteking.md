@@ -5,9 +5,9 @@ title: Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare org
 ---
 Oók je meest kwetsbare orgaan kan een ontsteking oplopen. En hiermee bedoelen we uiteraard je baarmoeder. 
 
-Wanneer je baarmoeder eenmaal een onsteking heeft opgelopen kun je rekenen op een zeer heftige periode. Deze doen ongeloofelijk veel pijn en de farmaceutische medicijnen zijn gezien de kwetsbaarheid van dit orgaan extra heftig. 
+Wanneer je baarmoeder eenmaal een onsteking heeft opgelopen kun je rekenen op een zeer heftige periode. Deze doen ongeloofelijk veel pijn. En de farmaceutische medicijnen hebben gezien de kwetsbaarheid van dit orgaan extra heftige bijwerkingen. 
 
-Bij heftige en terugkerende baarmoederontstekingen, kun je zelfs onvruchtbaar worden. En zonder baarmoeder, géén kinderen. 
+Bij deze heftige en terugkerende baarmoederontstekingen, kun je zelfs onvruchtbaar worden. En zonder baarmoeder, géén kinderen. 
 
 Nog een reden om deze goed te verzorgen!
 
