@@ -13,7 +13,7 @@ Wat de reden ook mag zijn.
 
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
-Graag geven we je advies over de behandeling
+Graag geven we je advies
 * ter voorkoming
 * ter behandeling
 * of als aanvulling op farmaceutische medicijnen. 
