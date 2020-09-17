@@ -80,9 +80,8 @@ Lees onderstaande blog.
 
 _”Een blog om 17 alledaagse problemen bespreekbaar te maken”_ 
 
-
+https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
 ### Ivan Chai | Ontdek de 7 voordelen
+Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
 
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt….
-
-Lees meer over de 7 voordelen 
+_Lees meer over de 7 voordelen_
