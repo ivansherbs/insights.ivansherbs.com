@@ -72,6 +72,16 @@ En is gelukkig veilig voor kinderen.
 
 Ivan Chai is een Siberische kruidenthee. Een eenvoudig én natuurlijk alledaags product.
 
+Overtuigd? Kijk dan snel bij. 
+
+# Waar te koop
+
+https://drive.google.com/file/d/1kxpW0O8iRQY9gLV6zMnjjnd1ypCM9923/view?usp=sharing
+
+Bekijk de winkels 
+
+<br>
+
 Toch nog even de 7 voordelen van Ivan Chai doornemen voordat je een behandeling aangaat? 
 
 Lees onderstaande blog. 
