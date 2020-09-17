@@ -67,6 +67,7 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 * [Welke medicijnen zijn van invloed op luchtweginfecties?](#Welke-medicijnen-zijn-van-invloed-op-luchtweginfecties)
 * [Welk effect heeft het gebruik van medicijnen op luchtweginfecties?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-luchtweginfecties)
 * [Waardoor vergroot ik de kans op een luchtweginfectie?](#Waardoor-vergroot-ik-de-kans-op-een-luchtweginfectie)
+
 * [Over pseudokroep](#over-pseudokroep)
 * [Tips voor het drinken van Ivan Chai met kinderen](#Tips-voor-het-drinken-van-Ivan-Chai-met-kinderen)
 * [Waarom Ivan Chai?](#waarom-ivan-chai?)
