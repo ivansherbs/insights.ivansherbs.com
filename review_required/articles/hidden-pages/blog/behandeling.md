@@ -14,11 +14,11 @@ Wat de reden ook mag zijn.
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
 
 Graag geven we je advies
-* ter voorkoming
-* ter behandeling
+* ter voorkoming van problemen
+* ter behandeling van problemen
 * of als aanvulling op farmaceutische medicijnen. 
 
-Voor het versterken van lichaam en geest. 
+Voor een gezond lichaam en een sterke geest. 
 
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
