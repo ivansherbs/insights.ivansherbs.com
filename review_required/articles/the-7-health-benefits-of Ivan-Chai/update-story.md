@@ -459,3 +459,10 @@ https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=shari
 Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw...
 
 _Lees meer over buikgriep_
+
+
+https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
+### Behandeling | Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?’
+In het algemeen geven de onderstaande doseringen voldoende resultaat….
+
+_Lees meer over een behandeling met Ivan Chai_
