@@ -45,7 +45,7 @@ Mocht je toch onverhoopt een met een baarmoederontsteking rondlopen, ga verstand
 
 Lees snel meer over dit probleem. We geven je handige tips. Begin bijvoorbeeld vóór je zwangerschap. En pas ná de bevalling met het drinken van Ivan Chai.
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. Wat kan worden voorkomen of behandelt met een eenvoudig én natuurlijk alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
 ## Inhoud van dit artikel
 
