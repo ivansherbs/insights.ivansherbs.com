@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
+title: Baarmoederontsteking| Preventieve bescherming van je meest kwetsbare orgaan
   Author: IVAN'S INSIGHTS
 ---
 Oók je meest kwetsbare orgaan kan een ontsteking oplopen. En hiermee bedoelen we uiteraard je baarmoeder. 
