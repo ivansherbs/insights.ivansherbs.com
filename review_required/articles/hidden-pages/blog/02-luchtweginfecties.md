@@ -159,7 +159,7 @@ Denk aan Ivan Chai.
 
 Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk product wat gebruikt kan worden alternatief of aanvulling op farmaceutische medicijnen.
 
-> Drink Ivan Chai preventief of ter behandeling tegen infecties.
+> Drink Ivan Chai preventief of ter behandeling tegen luchtweginfecties.
 
 In andere woorden, drink Ivan Chai preventief tegen problemen. Of drink het als aanvulling op farmaceutische medicijnen.
 
