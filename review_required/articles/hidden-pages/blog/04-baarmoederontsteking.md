@@ -105,7 +105,7 @@ _"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
 
 Uiteraard hadden de Russen destijd geen verstand van de farmaceutische industrie. Wel wisten ze dat geneeskrachtige kruiden werden geoogst en verspreid vanuit Siberië. Door monniken in samenwerking met landarbeiders. Van deze geneeskrachtige kruiden kon thee worden gezet.
 
-Zoals Ivan Chai.
+Denk aan Ivan Chai.
 
 Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk product wat gebruikt kan worden alternatief of aanvulling op farmaceutische medicijnen.
 
