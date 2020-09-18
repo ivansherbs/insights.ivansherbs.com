@@ -69,7 +69,7 @@ Mocht je toch onverhoopt een met een zwak afweersysteem rondlopen, ga verstandig
 
 Benieuwd hoe Siberische kruidenthee van invloed is op je afweersysteem?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak afweersysteem. En een eenvoudige natuurlijke behandeling.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak afweersysteem. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
  
 ## Inhoud van dit artikel
 
