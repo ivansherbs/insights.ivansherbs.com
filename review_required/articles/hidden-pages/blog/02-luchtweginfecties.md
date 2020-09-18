@@ -23,7 +23,7 @@ Hetzelfde geldt overigens voor kinderen.
 
 Oók zij hebben extra voedingsstoffen nodig.
 
-Het begint al op jonge leeftijd wanneer kinderen last kunnen krijgen van pseudokroep. Dus dan moet je denken aan de leeftijd 1-5 jaar.
+Het begint al op jonge leeftijd wanneer kinderen last kunnen krijgen van pseudokroep. Dus dan moet je denken aan de leeftijd 1-6 jaar.
 
 Laten we een vergelijking maken waarom het verstandig is kinderen zo snel mogelijk thee (met voordelen) te leren drinken.
 
@@ -121,7 +121,7 @@ Er zijn verschillende risicofactoren die de kans op een luchtweginfectie vergrot
 
 Tot slot belichten we graag nog even kort pseudokroep voor de ouders onder ons. 
 
-Pseudokroep is een ziekte voor kinderen van ongeveer 1-5 jaar oud. 
+Pseudokroep is een ziekte voor kinderen van ongeveer 1-6 jaar oud. 
 
 Als ouder is het goed om te weten dat 35% van de patiënten pseudokroep krijgt in de periode oktober tot en met december. 
 
