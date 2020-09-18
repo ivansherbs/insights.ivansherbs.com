@@ -75,7 +75,7 @@ Vergeet niet dat een infectie makkelijk kan terugkomen.
 
 Ben jij benieuwd hoe je een infectie oploopt?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. Wat kan worden voorkomen of behandelt met een eenvoudig én natuurlijk alledaags product.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
 ## Inhoud van dit artikel
 
