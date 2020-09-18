@@ -109,7 +109,7 @@ Denk aan Ivan Chai.
 
 Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk product wat gebruikt kan worden alternatief of aanvulling op farmaceutische medicijnen.
 
-> Drink Ivan Chai preventief of ter behandeling tegen infecties.
+> Drink Ivan Chai preventief of ter behandeling tegen baarmoederontsteking.
 
 In andere woorden, drink Ivan Chai preventief tegen problemen. En vergeet niet dat je het óók kunt drinken als aanvulling op farmaceutische medicijnen!
 
