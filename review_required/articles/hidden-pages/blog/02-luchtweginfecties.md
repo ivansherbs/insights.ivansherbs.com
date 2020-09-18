@@ -55,9 +55,9 @@ Mocht jij, of je oogappeltje, toch onverhoopt een zwaardere vorm van een luchtwe
 
 Eenvoudig een verkoudheid of griep voorkomen? Of Pseudokroep verzorgen?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. Wat kan worden voorkomen of behandelt met een eenvoudig én natuurlijk alledaags product.
 
-> Lees snel verder en ontvang tips voor het drinken van Ivan Chai met kinderen!
+> Lees snel verder en ontvang óók tips voor het drinken van Ivan Chai met kinderen!
 
 ## Inhoud van dit artikel
 
