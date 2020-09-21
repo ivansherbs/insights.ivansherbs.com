@@ -8,7 +8,9 @@ Artikel| **Ivan Chai**
 
 **_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_**
 
-Ontdek de 7 voordelen van Ivan Chai. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
+Ontdek de 7 voordelen van Ivan Chai. 
+
+Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. 
 * Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd én goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
@@ -40,8 +42,9 @@ https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 
 ## 1. Ivan Chai versterkt de weerstand
 
-Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. Dit verdedigen doet je afweersysteem. 
-Om je afweersysteem te versterken heb je de juiste voedingsstoffen nodig. 
+Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. 
+
+Dit verdedigen doet je afweersysteem. Om je afweersysteem te versterken heb je de juiste voedingsstoffen nodig. 
 
 * Ivan Chai helpt je om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
 
@@ -86,7 +89,9 @@ https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=shari
 
 ## 3. Ivan Chai versterkt de antioxiderede werking
 
-Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. 
+Voor alles wat je doet heb je voedingstoffen nodig. 
+
+Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. 
 
 Je lichaam kan drie dagen zonder voeding. En één dag zonder water. Hoe je het went of keert, je lichaam heeft 24/7 zuurstof nodig.
 
@@ -107,7 +112,9 @@ https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=shari
 
 ## 4. Ivan Chai verbetert de nachtrust
 
-Slaapproblemen hebben meer impact op je leven dan op het eerste gezicht lijkt. Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie én bent lusteloos. Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend probleem is op de werkvloer. 
+Slaapproblemen hebben meer impact op je leven dan op het eerste gezicht lijkt. 
+
+Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie én bent lusteloos. Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend probleem is op de werkvloer. 
 
 Een goede nachtrust helpt je lichaam en geest om te herstellen. En zorgt ervoor dat je overdag productiever bent. Het drinken van Siberische kruidenthee kan helpen bij dit probleem. 
 
@@ -118,13 +125,15 @@ In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmere
 <br>
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
-> SIBERIË | Svetlana Petrovayé is één van de vrouwelijke theeplukkers. _"In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking."_
+> SIBERIË | Svetlana Petrovayé is één van de vrouwelijke 'tea masters'. _"In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking."_
 <br>
 <br>
 
 ## 5. Ivan Chai vermindert de kans op stress, angst en een burnout
 
-Stress is een ware sluipmoordenaar. Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom daarom een overmatige hoeveelheid aan langdurige stress.
+Stress is een ware sluipmoordenaar. 
+
+Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom daarom een overmatige hoeveelheid aan langdurige stress.
 
 Goed om te weten. Een beetje stress is oké. Het zorgt ervoor dat je erg gefocust en actief bent. 
 
@@ -142,7 +151,9 @@ https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=shari
 
 ## 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
 
-Statement. Prostaatklachten zijn een veelvoorkomend probleem. Laten we voor de duidelijkheid de statiestieken er gelijk even bij pakken. 
+Statement. Prostaatklachten zijn een veelvoorkomend probleem. 
+
+Laten we voor de duidelijkheid de statiestieken er gelijk even bij pakken. 
 
 30% van de mannen van 50 jaar en ouder heeft prostaatklachten. 
 
