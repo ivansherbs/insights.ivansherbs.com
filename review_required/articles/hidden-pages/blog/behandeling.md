@@ -94,127 +94,181 @@ Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen
 
 Ontdek de inzichten en laat je informeren. 
 
-https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
-### Ivan Chai | Ontdek de 7 voordelen
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
-
-_Lees meer over de 7 voordelen_
-
-
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
-### 1. Infectie | Voorkom onnodige weefselschade
+### Voorkom onnodige weefselschade
+
+Artikel| **Infectie**
+
 De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...
 
-_Lees meer over infecties_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
-### 2. Luchtweginfectie | Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+### Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+
+Artikel| **Luchtweginfectie**
+
 Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
 
-_Lees meer over een verkoudheid, griep en pseudokroep_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
-### 3. Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
+### Beperk de mate van kwetsbaarheid
+
+Artikel| **Zwak afweersysteem**
+
 Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...
 
-_Lees meer over je immuunsysteem_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
-### 4. Baarmoederontsteking | Preventieve bescherming van je meest kwetsbare orgaan
+### Preventieve bescherming van je meest kwetsbare orgaan
+
+Artikel| **Baarmoederontsteking**
+
 Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoederontsteking. Oók vrouwen die net zijn bevallen...
 
-_Lees meer over een baarmoederontsteking_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
-### 5. Keelontsteking | Wat te gebruiken wanneer antibiotica geen zin heeft?
+### Wat te gebruiken wanneer antibiotica geen zin heeft?
+
+Artikel| **Keelontsteking**
+
 Je kent de symptomen maar al te goed wanneer het weer zo ver is...
 
-_Lees meer over een keelontsteking_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
-### 6. Peesontsteking | De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+### De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+
+Artikel| **Peesontsteking**
+
 Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent geslagen...
 
-_Lees meer over een peesontsteking_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
-### 7. Slijmbeursontsteking | Verzorg je beschermkappen, behoudt soepele gewrichten
+### Verzorg je beschermkappen, behoudt soepele gewrichten
+
+Artikel| **Slijmbeursontsteking**
+
 Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken. Je wil immers wel gewoon blijven sporten, tuinieren of een stukje wandelen...
 
-_Lees meer over een slijmbeursontsteking_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
-### 8. Hart- en vaatziekten | Zie het tijdig aankomen!
+### Zie het tijdig aankomen!
+
+Artikel| **Hart- en vaatziekten**
+
 Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de kans vergroten...
 
-_Lees meer over hart- en vaatziekten_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1K49pLlFl74WGqkJsi2PDit3y0mxZz-1f/view?usp=sharing
-### 9. Slaapproblemen | Stress als katalysator op een slaapprobleem
+### Stress als katalysator op een slaapprobleem
+
+Artikel| **Slaapproblemen**
+
 20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen...
 
-_Lees meer over slaapproblemen_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
-### 10. Stress | Ben jij er al achter hoe het écht voelt?
+### Ben jij er al achter hoe het écht voelt?
+
+Artikel| **Stress**
+
 Veel mensen hebben geen idee hoe een overmatige hoeveelheid aan stress voelt. Tot het omslagpunt is bereikt. De gevolgen kunnen heftiger uitpakken dat je verwacht...
 
-_Lees meer over stress_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1pUsSnTLrOTVf84iart49qug78Mxo5mV9/view?usp=sharing
-### 11. Angst | Zie jij het wél aankomen?
+### Zie jij het wél aankomen?
+
+Artikel| **Angst**
+
 Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt...
 
-_Lees meer over angst_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
-### 12. Burn-out | Opgeven is géén optie
+### Opgeven is géén optie
+
+Artikel| **Burn-out**
+
 Laten we je maar gelijk vertellen wat er aan de hand is...
 
-_Lees meer over een burn-out_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
-### 13. Prostaatontsteking | Bescherm de gezondheid van je prostaat
+### Bescherm de gezondheid van je prostaat
+
+Artikel| **Prostaatontsteking**
+
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen...
 
-_Lees meer over een prostaatontsteking_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
-### 14. Vergrote prostaat | Een goedaardige aandoening
+### Een goedaardige aandoening
+
+Artikel| **Vergrote prostaat**
+
 Niet alle problemen zijn slecht voor je lichaam. Wel kunnen ze als vervelend worden ervaren. En je wil er eigenlijk zo snel mogelijk van af...
 
-_Lees meer over een vergrote prostaat_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing
-### 15. Prostaatkanker | Een onopgemerkt probleem
+### Een onopgemerkt probleem
+
+Artikel| **Prostaatkanker**
+
 Prostaatkanker groeit zo langzaam dat mannen vaak niet eens merken dat ze ermee rondlopen...
 
-_Lees meer over prostaatkanker_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
-### 16. Urineweginfectie | Voorkom relatieproblemen
+### Voorkom relatieproblemen
+
+Artikel| **Urineweginfectie**
+
 Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking! Verdiep je in de risicofactoren...
 
-_Lees meer over een urineweginfectie_
+_Ontdek meer inzichten_
 
 
 https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
-### 17. Buikgriep | Een voorspelbaar probleem
+### Een voorspelbaar probleem
+
+Artikel| **Buikgriep**
+
 Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw...
 
-_Lees meer over buikgriep_
+_Ontdek meer inzichten_
+
+
+https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
+### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
+
+Behandeling| **Ivan Chai**
+
+In het algemeen geven de onderstaande doseringen voldoende resultaat….
+
+_Ontdek meer over een behandeling met Ivan Chai_
