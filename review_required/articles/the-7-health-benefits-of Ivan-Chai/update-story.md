@@ -10,9 +10,8 @@ Artikel| **Ivan Chai**
 
 Ontdek de 7 voordelen van Ivan Chai. Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd én goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke product gebruiken tegen 17 problemen.
-
-Dit alledaags product wordt in Siberië al duizenden jaren gedronken vanwege de geneeskrachtige werking. 
+Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. 
+* Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd én goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
 
 <br>
 
@@ -20,6 +19,7 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 > SIBERIË | De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
 <br>
 <br>
+
 
 In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met hartklopppingen, rillingen en slapeloosheid tot gevolg. 
 
