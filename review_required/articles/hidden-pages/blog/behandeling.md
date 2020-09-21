@@ -1,8 +1,10 @@
 ---
 layout: article.html
-title: Behandeling| Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?
+title: Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?
   Author: IVAN'S INSIGHTS
 ---
+Behandeling| **Ivan Chai**
+
 Goed, het kan gebeuren dat je met een probleem rondloopt. Of dat je het gevoel hebt kwetsbaar te zijn voor bepaalde problemen. 
 
 Lichamelijke of geestelijk. 
