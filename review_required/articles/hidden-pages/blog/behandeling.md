@@ -86,7 +86,6 @@ Bekijk de winkels
 
 Toch nog even de 7 voordelen van Ivan Chai doornemen voordat je een behandeling aangaat? 
 
-Lees onderstaande blog. 
 
 # Ivan’s Insights
 
@@ -95,6 +94,17 @@ _”Een blog om 17 alledaagse problemen bespreekbaar te maken”_
 Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. En kun je voorkomen of verzorgen middels het drinken van Ivan Chai.  
 
 Ontdek de inzichten en laat je informeren. 
+
+
+https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
+### Ontdek de 7 voordelen
+
+Artikel| **Ivan Chai**
+
+Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
+
+_Ontdek meer inzichten_
+
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 ### Voorkom onnodige weefselschade
