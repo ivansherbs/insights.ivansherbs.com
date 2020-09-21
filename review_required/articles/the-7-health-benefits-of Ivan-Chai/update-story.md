@@ -364,6 +364,16 @@ Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen
 
 Ontdek de inzichten en laat je informeren. 
 
+https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
+### Ontdek de 7 voordelen
+
+Artikel| **Ivan Chai**
+
+Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
+
+Ontdek meer inzichten
+
+
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 ### Voorkom onnodige weefselschade
 
@@ -371,7 +381,7 @@ Artikel| **Infectie**
 
 De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
@@ -381,7 +391,7 @@ Artikel| **Luchtweginfectie**
 
 Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
@@ -391,7 +401,7 @@ Artikel| **Zwak afweersysteem**
 
 Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
@@ -401,7 +411,7 @@ Artikel| **Baarmoederontsteking**
 
 Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoederontsteking. Oók vrouwen die net zijn bevallen...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
@@ -411,7 +421,7 @@ Artikel| **Keelontsteking**
 
 Je kent de symptomen maar al te goed wanneer het weer zo ver is...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
@@ -421,7 +431,7 @@ Artikel| **Peesontsteking**
 
 Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent geslagen...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
@@ -431,7 +441,7 @@ Artikel| **Slijmbeursontsteking**
 
 Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken. Je wil immers wel gewoon blijven sporten, tuinieren of een stukje wandelen...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
@@ -441,7 +451,7 @@ Artikel| **Hart- en vaatziekten**
 
 Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de kans vergroten...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1K49pLlFl74WGqkJsi2PDit3y0mxZz-1f/view?usp=sharing
@@ -451,7 +461,7 @@ Artikel| **Slaapproblemen**
 
 20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
@@ -461,7 +471,7 @@ Artikel| **Stress**
 
 Veel mensen hebben geen idee hoe een overmatige hoeveelheid aan stress voelt. Tot het omslagpunt is bereikt. De gevolgen kunnen heftiger uitpakken dat je verwacht...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1pUsSnTLrOTVf84iart49qug78Mxo5mV9/view?usp=sharing
@@ -471,7 +481,7 @@ Artikel| **Angst**
 
 Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
@@ -481,7 +491,7 @@ Artikel| **Burn-out**
 
 Laten we je maar gelijk vertellen wat er aan de hand is...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
@@ -491,7 +501,7 @@ Artikel| **Prostaatontsteking**
 
 30% van de mannen ouder dan 50 jaar heeft problemen met plassen...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
@@ -501,7 +511,7 @@ Artikel| **Vergrote prostaat**
 
 Niet alle problemen zijn slecht voor je lichaam. Wel kunnen ze als vervelend worden ervaren. En je wil er eigenlijk zo snel mogelijk van af...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing
@@ -511,7 +521,7 @@ Artikel| **Prostaatkanker**
 
 Prostaatkanker groeit zo langzaam dat mannen vaak niet eens merken dat ze ermee rondlopen...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
@@ -521,7 +531,7 @@ Artikel| **Urineweginfectie**
 
 Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking! Verdiep je in de risicofactoren...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
@@ -531,7 +541,7 @@ Artikel| **Buikgriep**
 
 Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw...
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 
 https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
@@ -541,4 +551,4 @@ Behandeling| **Ivan Chai**
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat….
 
-_Ontdek meer over een behandeling met Ivan Chai_
+Ontdek meer over een behandeling met Ivan Chai
