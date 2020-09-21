@@ -1,8 +1,10 @@
 ---
 layout: article.html
-title: Baarmoederontsteking| Preventieve bescherming van je meest kwetsbare orgaan
+title: Preventieve bescherming van je meest kwetsbare orgaan
   Author: IVAN'S INSIGHTS
 ---
+Artikel| Baarmoederontsteking
+
 Oók je meest kwetsbare orgaan kan een ontsteking oplopen. En hiermee bedoelen we uiteraard je baarmoeder. 
 
 Deze dien je goed te verzorgen om narigheid te voorkomen. De reden is als volgt. 
@@ -161,13 +163,19 @@ Lees onderstaande blog.
 _”Een blog om 17 alledaagse problemen bespreekbaar te maken”_
 
 https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
-### Ivan Chai | Ontdek de 7 voordelen
+### Ontdek de 7 voordelen
+
+Artikel| **Ivan Chai**
+
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
 
-_Lees meer over de 7 voordelen_
+_Ontdek meer inzichten_
 
 https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
-### Behandeling | Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?’
+### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
+
+Behandeling| **Ivan Chai**
+
 In het algemeen geven de onderstaande doseringen voldoende resultaat…
 
-_Lees meer over een behandeling met Ivan Chai_
+_Ontdek meer over een behandeling met Ivan Chai_
