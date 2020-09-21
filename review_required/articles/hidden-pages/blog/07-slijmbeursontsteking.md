@@ -3,7 +3,7 @@ layout: article.html
 title: Verzorg je beschermkappen, behoudt soepele gewrichten
   Author: IVAN'S INSIGHTS
 ---
-Artikel| **Slijmbeursontsteking**
+artikel| **Slijmbeursontsteking**
 
 Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al helemaal met de meest gangbare activiteiten!
 
