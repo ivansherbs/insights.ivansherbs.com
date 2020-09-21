@@ -3,7 +3,7 @@ layout: article.html
 title: Stress als katalysator op een slaapprobleem
   Author: IVAN'S INSIGHTS
 ---
-Artikel| **Slaapproblemen**
+artikel| **Slaapproblemen**
 
 Iedereen heeft wel eens minder lekker geslapen dan de nacht ervoor. 
 
