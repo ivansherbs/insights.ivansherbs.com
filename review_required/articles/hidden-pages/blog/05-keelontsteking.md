@@ -3,7 +3,7 @@ layout: article.html
 title: Wat te gebruiken wanneer antibiotica geen zin heeft?
  Author: IVAN'S INSIGHTS
 ---
-Artikel| **Keelontsteking**
+artikel| **Keelontsteking**
 
 We zijn allemaal wel eens opgestaan met een pijnlijke keel. Je kent het onaangename gevoel.
 
