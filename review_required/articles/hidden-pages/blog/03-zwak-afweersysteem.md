@@ -3,7 +3,7 @@ layout: article.html
 title: Beperk de mate van kwetsbaarheid
   Author: IVAN'S INSIGHTS
 ---
-Artikel| **Zwak afweersysteem**
+artikel| **Zwak afweersysteem**
 
 Je afweersysteem beschermt je lichaam tegen ziekten. Jammer genoeg, ben je niet altijd gezegend met een goed afweersysteem!
 
