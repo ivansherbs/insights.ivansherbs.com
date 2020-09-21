@@ -3,7 +3,7 @@ layout: article.html
 title: Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
   Author: IVAN'S INSIGHTS
 ---
-Artikel| **Luchtweginfectie**
+artikel| **Luchtweginfectie**
 
 Iedereen heeft wel eens last van een luchtweginfectie. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan.
 
