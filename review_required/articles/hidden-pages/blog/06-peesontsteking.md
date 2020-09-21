@@ -202,4 +202,5 @@ Behandeling| **Ivan Chai**
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat…
 
-_Ontdek meer over een behandeling met Ivan Chai_
+_Ontdek meer inzichten__
+
