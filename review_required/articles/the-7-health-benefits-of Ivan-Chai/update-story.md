@@ -4,7 +4,7 @@ title: Ontdek de 7 voordelen
   Author: IVAN'S INSIGHTS
 ---
 
-## Artikel| **Ivan Chai**
+Artikel| **Ivan Chai**
 
 **_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_**
 
