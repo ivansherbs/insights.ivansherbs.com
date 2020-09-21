@@ -189,7 +189,7 @@ Artikel| **Ivan Chai**
 
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
 
-_Ontdek meer inzichten_
+Ontdek meer inzichten
 
 https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
 ### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
@@ -198,5 +198,5 @@ Behandeling| **Ivan Chai**
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat…
 
-_Ontdek meer inzichten__
+Ontdek meer inzichten
 
