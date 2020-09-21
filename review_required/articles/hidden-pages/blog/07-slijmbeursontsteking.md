@@ -11,9 +11,11 @@ Activiteiten die je op dagelijkse basis uitvoert.
 
 Je wil graag sporten en je overheerlijke recepten blijven koken. 
 
-Je moet in staat zijn een simpel wasje te draaien. En wanneer het mooi weer is wil je graag naar buiten. 
+Je moet in staat zijn een simpel wasje te draaien. 
 
-Om heerlijk te wandelen door de natuur. Zet die stappenteller maar aan! 
+En wanneer het mooi weer is wil je graag naar buiten. 
+
+Om hééérlijk te wandelen door de natuur. Zet die stappenteller maar gauw aan! 
 
 Of wat dacht je van een middagje tuinieren?
 
