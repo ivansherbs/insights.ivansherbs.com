@@ -11,13 +11,17 @@ Het is goed voor de gezondheid van je lichaam én je gemoedstoestand. Zo ben je 
 
 Je voelt je simpelweg beter en zit lekkerder in je vel. Dit wordt veroorzaakt door het volgende.
 
-En ja, dit is een complexer proces dan we nu doen laten overkomen. Voor de uitleg gaan we niet in op de detail. 
+En ja, dit is een proces is complexer dan we nu doen laten overkomen. Voor de uitleg gaan we dan ook niet in op de detail. 
 
-Sport zorg voor een boost van de neurotransmitters... juist ja neurotransmitters. 
+Om te beginnen.
 
-Dan hebben we het niet alleen over een dopamine boost waardoor je meer geluk voelt. Sport zorgt er voor dat de serotonine waarde stijgt. Wat weer van groot belang is bij de aanmaak van melatonine. Als reactie hierop stijgt óók nog de endorfine in je lichaam. 
+Sport zorgt voor een boost van de neurotransmitters... 
 
-Goed, we gaan snel verder. 
+Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Bij langdurige sporten verhoog je de waarde van deze stoffen.
+
+Dan hebben we het niet alleen over de befaamde dopamine boost waardoor je meer geluk voelt. Sport zorgt er voor dat ook de serotonine waarde stijgt. Wat weer van groot belang is bij de aanmaak van melatonine. En als reactie hierop stijgt óók nog de endorfine in je lichaam. 
+
+Goed, om het overzicht te bewaren gaan we snel verder. 
 
 Neurotransmitters hebben ieder hun eigenaardigheden. Endorfine werkt bijvoorbeeld verslavend. 
 
@@ -39,7 +43,9 @@ Waar je gedurende het hardlopen niet bij stilstaat “ha-ha” is dat endorfine 
 
 Je pijngrens wordt simpelweg verlegd. 
 
-Dan kan die gelukkigmakend endorfine boost er wel voor zorgen dat je wil blijven sporten. Je maakt sommige onderdelen van je lichaam gewoon kapot. 
+Overigens, kan dit ´runners high´ effect ook snel opkomen zetten bij sporten zoals wielrennen en roeien. 
+
+Die gelukkigmakend endorfine boost kan er wel voor zorgen dat je wil blijven sporten. Je maakt sommige onderdelen van je lichaam gewoon kapot. 
 
 Dit geldt ook voor onderdelen van het lichaam waar je niet zo snel aan denkt. 
 
