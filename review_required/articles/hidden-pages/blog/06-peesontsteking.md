@@ -3,7 +3,7 @@ layout: article.html
 title: De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
   Author: IVAN'S INSIGHTS
 ---
-Artikel| **Peesontsteking**
+artikel| **Peesontsteking**
 
 We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks.
 
