@@ -101,7 +101,7 @@ Simpel voorbeeld is het opdoen van make-up.
 
 Er zijn tal van voorbeelden te noemen. Een combinatie van verschillende factoren zorgen ervoor dat je gevoel van angst, of die van je kinderen, minder wordt.
 
-Echter, waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk alledaags product om dit probleem te bestrijden.
+Waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk alledaags product om dit probleem te bestrijden.
 
 Denk aan Ivan Chai. Een Siberische kruidenthee.
 
