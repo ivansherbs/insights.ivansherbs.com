@@ -3,7 +3,7 @@ layout: article.html
 Title: Zie jij het wél aankomen?
   Author: IVAN'S INSIGHTS
 ---
-artikel| Angst
+artikel| **Angst**
 
 Angst is een emotie die we allen een keer hebben ervaren. De één heftiger dan de ander.
 
@@ -13,9 +13,9 @@ Je lichaam begeeft zich in opperste staat van paraatheid. Je hart gaat sneller k
 
 Je begeeft je op dat moment in een beklemmende, onaangename emotionele toestand.
 
-Veel mensen denken dat ze geen angst kennen. En er nooit mee te maken hebben. 
+Veel mensen denken dat ze geen angst kennen. En er nooit mee te maken hebben.
 
-Dit is niet waar. Het komt namelijk vaker voor dan je denkt. 
+Dit is niet waar. Het komt namelijk veel vaker voor dan je denkt. 
 
 Laten we onze Van Dale er eens bijpakken. 
 
@@ -33,7 +33,7 @@ Echter zijn er ook lichtere vormen van angst.
 
 Angst kent namelijk vele verschillende vormen. Ook vaak minder heftig dan je denkt. Maar wel makkelijk te verbergen. 
 
-En grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt.
+En grappig genoeg komen deze lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt. En hier gaan we het over hebben. 
 
 We proberen het uit te leggen met een paar voorbeelden.
 
@@ -63,13 +63,13 @@ Ook jij had hier last van.
 
 Het klinkt inderdaad allemaal vrij extreem, maar dit zijn voorbeelden van angst op dagelijkse basis. 
 
-En laten we het nog maar een keer herhalen. Deze lichtere vormen van angst zijn in sommige gevallen makkelijk te verbergen. 
+En laten we het nog maar een keer herhalen. Deze lichtere vormen van angst zijn in de meeste gevallen makkelijk te verbergen. 
 
 Laten we nu we bezig zijn nog maar een paar voorbeelden doornemen. 
 
 Naast sociale angst bestaat bijvoorbeeld faalangst. Tevens een vorm van angst op dagelijkse basis.
 
-Denk aan die ene keer in een overvolle collegezaal. Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen. Om vervolgens met eer en geweten weer plaats te nemen. Waarbij je het gevoel hebt overgehouden iedereen de les te hebt gelezen. 
+Denk aan die ene keer in een overvolle collegezaal. Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen. Om vervolgens met eer en geweten weer plaats te mogen nemen. Waarbij je het gevoel hebt overgehouden iedereen de les te hebt gelezen. 
 
 Wellicht een fijne gedachten. Op angst kun je je vaak niet voorbereiden.
 
@@ -129,7 +129,7 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 
 ### Over angst
 
-Om je nu op een andere manier naar de definitie van onze dikke Van Dale te laten kijken. 
+Om je nu op een andere manier naar de definitie van onze dikke Van Dale te laten kijken.
 Hierbij nogmaals de omschrijving van angst.
 
 Angst (de; m; meervoud: angsten) 
