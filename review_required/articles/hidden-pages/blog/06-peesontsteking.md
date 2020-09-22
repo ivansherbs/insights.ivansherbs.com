@@ -9,21 +9,25 @@ We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van d
 
 Het is goed voor de gezondheid van je lichaam én je gemoedstoestand. Zo ben je overdag fitter én komen er stoffen bij vrij waar je gelukkiger van wordt. 
 
-Je voelt je simpelweg beter en zit lekkerder in je vel. Dit wordt veroorzaakt door het volgende.
+Het nadeel is echter dat wanneer je vaak sport dit verslavend kan werken, waardoor je onderdelen van je lichaam overbelast. Met ontstekingen tot gevolg. 
 
-En ja, dit is een proces is complexer dan we nu doen laten overkomen. Voor de uitleg gaan we dan ook niet in op de detail. 
+Hoe dat in z'n werking gaat, gaan we je in dit artikel vertellen. 
+
+Sport zorgt ervoor dat je beter in je vel zit. Dit wordt veroorzaakt door het volgende.
+
+En ja, dit proces is complexer dan we nu doen laten overkomen. Voor de uitleg gaan we dan ook niet in op de detail. 
 
 Om te beginnen.
 
 Sport zorgt voor een boost van de neurotransmitters... 
 
-Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Bij langdurige sporten verhoog je de waarde van deze stoffen.
+Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Bij langdurige sporten verhoog je de waarde van deze stoffen. Met een verandering van je gemoedstoestand tot gevolg. 
 
-Dan hebben we het niet alleen over de befaamde dopamine boost waardoor je meer geluk voelt. Sport zorgt er voor dat ook de serotonine waarde stijgt. Wat weer van groot belang is bij de aanmaak van melatonine. En als reactie hierop stijgt óók nog de endorfine in je lichaam. 
+Bij een boost van de neurotransmitters hebben we het niet alleen over de befaamde dopamine boost waardoor je meer geluk voelt. Sport zorgt er voor dat ook de serotonine waarde stijgt. Wat weer van groot belang is bij de aanmaak van melatonine. En als reactie hierop stijgt óók nog de endorfine in je lichaam. 
 
-Goed, om het overzicht te bewaren gaan we snel verder. 
+Goed, om het overzicht te bewaren gaan we snel verder. En houden we het bij deze bij endorfine. 
 
-Neurotransmitters hebben ieder hun eigenaardigheden. Endorfine werkt bijvoorbeeld verslavend. 
+Neurotransmitters hebben ieder hun eigenaardigheden. Zo werkt Endorfine bijvoorbeeld verslavend. 
 
 Je kunt hierdoor periodes in je leven ervaren dat je meer wil sporten. 
 
@@ -45,9 +49,9 @@ Je pijngrens wordt simpelweg verlegd.
 
 Overigens, kan dit ´runners high´ effect ook snel opkomen zetten bij sporten zoals wielrennen en roeien. 
 
-Die gelukkigmakend endorfine boost kan er wel voor zorgen dat je wil blijven sporten. Je maakt sommige onderdelen van je lichaam gewoon kapot. 
+Die gelukkigmakend endorfine boost kan er dan vervolgens wel voor zorgen dat je wil blijven sporten. Je maakt sommige onderdelen van je lichaam gewoon kapot. 
 
-Dit geldt ook voor onderdelen van het lichaam waar je niet zo snel aan denkt. 
+Dit geldt óók voor onderdelen van je lichaam waar je niet zo snel aan denkt. 
 
 Waar we het in dit artikel over gaan hebben zijn je pezen. 
 
