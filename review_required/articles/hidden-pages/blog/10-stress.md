@@ -161,7 +161,7 @@ Uiteraard hadden de Russen destijd geen verstand van de farmaceutische industrie
 
 Denk aan Ivan Chai.
 
-Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk product wat gebruikt kan worden alternatief of aanvulling op farmaceutische medicijnen.
+Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk alledaags product wat gebruikt kan worden alternatief of aanvulling op farmaceutische medicijnen.
 
 > Drink Ivan Chai preventief of ter behandeling tegen stress.
 
