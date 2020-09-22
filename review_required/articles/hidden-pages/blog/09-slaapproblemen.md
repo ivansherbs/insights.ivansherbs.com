@@ -86,6 +86,8 @@ Wanneer we bovenstaande kort samenvatten komen we op het volgende neer.
 
 Dopamine zorgt voor een opgewekt gevoel. Stress voor adrenaline. 
 
+Deze gevoelens versterken elkaar.
+
 En heel simpel gezegd.
 
 Bij te veel van beide slaap je niet lekker.
