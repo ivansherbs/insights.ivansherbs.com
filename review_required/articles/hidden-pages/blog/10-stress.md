@@ -3,7 +3,7 @@ layout: article.html
 title: Ben jij er al achter hoe het écht voelt?
   Author: IVAN'S INSIGHTS
 ---
-artikel| Stress
+artikel| **Stress**
 
 We kennen allemaal het gevoel dat je het maximale uit je dag wilt halen. Je hebt immers bergen met werk liggen. 
 
@@ -29,11 +29,11 @@ Want dat is wel zo handig. Hierdoor ben je overal van op de hoogte. Goed voorber
 
 Echter… 
 
-Zonder dat je het door hebt ben je alleen maar aan het werk. En waar je geen rekening mee houdt is het gevoel en de symptomen van stress. 
+Zonder dat je het door hebt ben je alleen maar met werk bezig. En waar je geen rekening mee houdt is het gevoel en de symptomen van stress. 
 
 Dit is ook niet vreemd want het is ook niet van de ene op de andere dag direct voelbaar. 
 
-Stress is wat dat betreft een ware sluipmoordenaar. Het bouwt langzaam op. 
+Stress is wat dat betreft een ware sluipmoordenaar. Het bouwt langzaam op. Heel langzaam. 
 
 Hierbij moet je denken aan enkele maanden. 
 
