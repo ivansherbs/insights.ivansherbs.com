@@ -9,7 +9,7 @@ Ivan’s Herbs zorgt ervoor dat we er zijn voor de gezondheid van iedere klant. 
 
 Om je alvast een tipje van de sluier te geven over de smaakbeleving inclusief te voorkomen problemen, hieronder een overzicht van de aankomende producten.
 
-De omschrijving van de smaakbeleving is rechtstreeks afkomstig van één van onze Siberische ‘tea masters’ Svetlana Petrovayé. 
+De omschrijving is rechtstreeks afkomstig van één van onze Siberische ‘tea masters’ Svetlana Petrovayé. 
 
 [ADD PICTURE NEW TUBE] 
 
