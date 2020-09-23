@@ -302,7 +302,7 @@ Dit stelt jou in de gelegenheid de volgende keuze te maken.
 
 _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**_
 
-interview| [Holistische benadering](#…zonder-probleem-bereikte-Ivan-de-top)
+interview| [Holistische benadering](#zonder-probleem-bereikte-Ivan-de-top)
 
 <br>
 
