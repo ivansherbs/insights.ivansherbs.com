@@ -55,6 +55,8 @@ De werking kunnen we als volgt kort omschrijven.
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. 
 Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
+problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-en-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
+
 <br>
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
@@ -80,6 +82,8 @@ En vergeet niet dat je het óók kunt drinken als aanvulling op farmaceutische m
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen. 
 
+problemen| [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten)
+
 <br>
 
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
@@ -103,6 +107,8 @@ Benieuwd waarom?
 
 * Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel. 
 
+problemen| [Hart- en vaatziekten](#Zie-het-tijdig-aankomen)
+
 <br>
 
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
@@ -121,6 +127,8 @@ Een goede nachtrust helpt je lichaam en geest om te herstellen. En zorgt ervoor 
 * Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen.
 
 In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
+
+problemen| [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem)
 
 <br>
 
@@ -141,6 +149,8 @@ Leer stress tijdig herkennen. En controleer hiermee een lichte mate van stress o
 
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
+
+problemen| [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wel-aankomen) [Burn-out](#Opgeven-is-geen-ptie)
 
 <br>
 
@@ -210,6 +220,8 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 Graag willen we tot slot het volgende belichten. 
 * Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen. 
 
+problemen| [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen)
+
 <br>
 
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
@@ -243,6 +255,8 @@ Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen 
 Hiernaast kan je last krijgen van je spijsverteringsstelsel wanneer je veranderingen ondergaan in je dieet. 
 
 Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten kunnen zelfs worden geëlimineerd door grote hoeveelheden Ivan Chai te drinken.
+
+problemen| [Buikgriep](#een-voorspelbaar-probleem)
 
 <br>
 
