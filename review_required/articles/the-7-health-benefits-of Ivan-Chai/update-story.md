@@ -282,6 +282,8 @@ https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=shari
 <br>
 <br>
 
+**Waarom Ivan Chai?** 
+
 Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen én problemen te verzorgen. Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. 
 
 Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een kleine opsomming te maken. 
@@ -300,7 +302,7 @@ Dit stelt jou in de gelegenheid de volgende keuze te maken.
 
 _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**_
 
-interview| [Verminder de kans op problemen](#)
+interview| [Holistische benadering](#…zonder-probleem-bereikte-Ivan-de-top)
 
 <br>
 
@@ -547,6 +549,16 @@ artikel| **Buikgriep**
 Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw...
 
 [Ontdek meer inzichten](#)
+
+
+https://drive.google.com/file/d/1ZAACIYC7e3kI8iV3i1ukDcfksB99q7FK/view?usp=sharing
+### …zonder probleem bereikte Ivan de top 
+
+interview| **Holistische benadering**
+
+Ivan was de oudste van de expeditie groep. Michael was gefascineerd door het doorzettingsvermogen van deze herborist (63)...
+
+[Ontdek meer over de holistische benadering](#)
 
 
 https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
