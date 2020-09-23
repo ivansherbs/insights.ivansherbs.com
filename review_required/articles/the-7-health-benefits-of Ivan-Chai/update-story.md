@@ -327,7 +327,7 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken.
 
 Wij zullen dat zeker ook doen.
 
-behandeling| [Ivan Chai](#Hoe-vaak-en-wanneer-drink-je-Ivan-Chai-tegen-een-probleem]
+behandeling| [Hoe vaak en wanneer?](#Hoe-vaak-en-wanneer-drink-je-Ivan-Chai-tegen-een-probleem]
 
 <br>
 
@@ -566,7 +566,7 @@ behandeling| **Ivan Chai**
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat...
 
-[Ontdek meer over een behandeling met Ivan Chai](#)
+[Ontdek meer over Ivan Chai](#)
 
 
 [ AD NEW PICTURE ] 
