@@ -55,7 +55,7 @@ De werking kunnen we als volgt kort omschrijven.
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. 
 Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
-problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-en-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
+problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
 
 <br>
 
@@ -150,7 +150,7 @@ Leer stress tijdig herkennen. En controleer hiermee een lichte mate van stress o
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-problemen| [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wel-aankomen) [Burn-out](#Opgeven-is-geen-ptie)
+problemen| [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie)
 
 <br>
 
