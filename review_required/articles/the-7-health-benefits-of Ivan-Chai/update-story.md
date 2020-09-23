@@ -31,9 +31,9 @@ Eenvoudige én natuurlijke alledaagse producten met een krachtige werking op het
 
 Dit geschiedde middels kruidentheeën als Ivan Chai.
 
-Lees snel verder en ontdek de 7 voordelen.
+artikel| [Geschiedenis](#De-culturele-geschiendenis-van-Ivan-Chai)
 
-artikel| [Geschiedenis](#)
+Lees snel verder en ontdek de 7 voordelen.
 
 <br>
 
@@ -564,6 +564,16 @@ Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom
 Ontdek meer inzichten
 
 
+https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
+### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
+
+behandeling| **Ivan Chai**
+
+In het algemeen geven de onderstaande doseringen voldoende resultaat...
+
+Ontdek meer over een behandeling met Ivan Chai
+
+
 https://drive.google.com/file/d/1HUqEYJ240wZxDkBb-2G6fABELDCxWwBw/view
 ### De culturele geschiendenis van Ivan Chai
 
@@ -573,12 +583,6 @@ In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische k
 
 Ontdek meer inzichten
 
+<br>
 
-https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
-### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
-
-behandeling| **Ivan Chai**
-
-In het algemeen geven de onderstaande doseringen voldoende resultaat...
-
-Ontdek meer over een behandeling met Ivan Chai
+[Terug naar boven](#Lees-snel-verder-en-ontdek-de-7-voordelen)
