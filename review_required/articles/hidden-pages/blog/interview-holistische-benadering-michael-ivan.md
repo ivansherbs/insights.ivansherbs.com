@@ -5,7 +5,7 @@ Title: …zonder probleem bereikte Ivan de top
 ---
 interview| **Holistische benadering**
 
-“Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op 17 gezondheidsproblemen te verminderen”_, vertelt Ivan Alexandrovitsj.
+“Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op 17 gezondheidsproblemen te verminderen”, vertelt Ivan Alexandrovitsj.
 
 De oprichter van Ivan's Herbs, Michael Koch, is al ruim 7 jaar bezig met het bestuderen van de geneeskrachtige werking in kruiden. Gedurende de rondreis van zijn leven besloot Michael zijn kennis en kunde hierover te vergroten. Hij verbleef één jaar in Chazhaevka; een Siberische ecodorp ver weg van de bewoonde wereld. 
 
