@@ -4,7 +4,7 @@ title: Een goedaardige aandoening
 publish:
   Author: IVAN'S INSIGHTS
 ---
-artikel| Vergrote prostaat
+artikel| **Vergrote prostaat**
 
 Iedereen heeft te kampen met problemen. 
 
