@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Nieuwe kruidenmelanges
+title: Nieuwe smaken
   Author: IVAN'S INSIGHTS
 ---
 artikel| **Productinnovatie**
