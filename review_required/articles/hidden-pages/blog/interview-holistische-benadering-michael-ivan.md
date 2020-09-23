@@ -22,9 +22,9 @@ https://drive.google.com/file/d/15Nuy_SfQeh9R22tHgEhwE43RsC6W_7IV/view?usp=shari
 
 <br>
 
-_Michael_ **Welke veranderingen in jouw levensstijl hebben voor zo'n gezond en sterk lichaam gezorgd?** 
+_Michael_  **Welke veranderingen in jouw levensstijl hebben voor zo'n gezond en sterk lichaam gezorgd?** 
 
-_Ivan_ "Sinds ik 37 jaar oud ben heb ik besloten mijn levensstijl om te gooien. Mijn lichaam en geest waren uitgeput door een overmatige hoeveelheid aan werkstress. Doorgaan op deze wijze betekende mijn ondergang. Om te beginnen ging ik op zoek naar het veranderen van mijn voedingspatroon.”
+_Ivan_  "Sinds ik 37 jaar oud ben heb ik besloten mijn levensstijl om te gooien. Mijn lichaam en geest waren uitgeput door een overmatige hoeveelheid aan werkstress. Doorgaan met mijn levensstijl betekende mijn ondergang. Om te beginnen ging ik op zoek naar het veranderen van mijn voedingspatroon.”
 
 “In mijn land (Rusland) werd het delen van kennis niet gestimuleerd, waardoor ik mijn heil heb moeten zoeken in de traditionele volksgeneeskunde.”
 
