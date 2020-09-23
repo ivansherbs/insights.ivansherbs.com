@@ -33,7 +33,7 @@ Dit geschiedde middels kruidentheeën als Ivan Chai.
 
 Lees snel verder en ontdek de 7 voordelen.
 
-artikel| [Geschiedenis]
+artikel| [Geschiedenis](#)
 
 <br>
 
