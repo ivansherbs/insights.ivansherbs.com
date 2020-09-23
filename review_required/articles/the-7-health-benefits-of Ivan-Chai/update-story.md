@@ -574,7 +574,7 @@ https://drive.google.com/file/d/1HUqEYJ240wZxDkBb-2G6fABELDCxWwBw/view
 
 artikel| **Geschiedenis**
 
-In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai herontdekten. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met hartklopppingen, rillingen en slapeloosheid tot gevolg. Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken...
+In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai herontdekten. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met hartkloppingen, rillingen en slapeloosheid tot gevolg. Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken...
 
 [Ontdek meer inzichten](#)
 
