@@ -70,7 +70,6 @@ https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=shari
 
 Een ontsteking kun je op veel verschillende manieren oplopen. Voor jou beeldvorming nemen we een paar voorbeelden door. 
 
-* Je kan het oplopen door een aanval van ongewenste onzichtbare indringers. 
 * Het intensief beoefenen van sport waarbij delen van het lichaam worden overbelast. 
 * Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. 
 * Je hebt een verhoogt risico op ontstekingen ná een bevalling. 
