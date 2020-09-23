@@ -137,7 +137,7 @@ https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=shari
 <br>
 <br>
 
-## 5. Ivan Chai vermindert de kans op stress, angst en een burnout
+## 5. Ivan Chai vermindert de kans op stress, angst en een burn-out
 
 Stress is een ware sluipmoordenaar. 
 
