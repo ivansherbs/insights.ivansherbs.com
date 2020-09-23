@@ -33,7 +33,7 @@ Dit geschiedde middels kruidentheeën als Ivan Chai.
 
 Lees snel verder en ontdek de 7 voordelen.
 
-artikel| [Geschiedenis](#De-culturele-geschiedenis-van-ivan-chai)
+artikel| [Geschiedenis]
 
 <br>
 
@@ -314,6 +314,8 @@ Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet ho
 Dit stelt jou in de gelegenheid de volgende keuze te maken. 
 
 _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**_
+
+
 
 <br>
 
