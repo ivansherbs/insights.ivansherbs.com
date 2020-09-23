@@ -163,35 +163,21 @@ https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=shari
 
 ## 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
 
-Statement. Prostaatklachten zijn een veelvoorkomend probleem. 
+Prostaatklachten zijn een veelvoorkomend probleem.
 
-Laten we voor de duidelijkheid de statiestieken er gelijk even bij pakken. 
+30% van de mannen van 50 jaar en ouder heeft prostaatklachten.
 
-30% van de mannen van 50 jaar en ouder heeft prostaatklachten. 
+Gelukkig kunnen deze klachten preventief worden behandelt. In andere woorden, de kans dat jij met prostaatklachten rondloopt kan worden vermindert. 
 
-Gelukkig kunnen deze klachten preventief worden behandelt. In andere woorden, de kans dat jij prostaatklachten oploopt kan worden vermindert. Voordat we verder ingaan op de prostaatklachten en de voordelen van Ivan Chai, laten we je voor het belang van het verhaal eerst even kennis maken met Maria Treben. 
+Er is met name gebruik gemaakt van grootschalig klinisch onderzoek om aan te tonen dat Ivan Chai werkt tegen verschillende prostaatklachten. 
 
-De Zwitserse Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden. Ze heeft bekendheid verkregen door het geven van vele seminars en presentaties bij verschillende conferenties. Hier worden de bevindingen uit onderzoek uitvoerig besproken. 
-
-Nu is het lastige aan het vakgebied kruidengeneeskunde dat het moeilijk is om je bevinding te bewijzen. 
-
-Er is gelukkig een manier. 
-
-Namelijk met grootschalig klinisch onderzoek. Echter moeten duizenden patiënten bereidwillig zijn het onderzoek kracht bij te zetten. Dit is een arbeidsintensief proces waarbij het onderzoek tevens afhankelijk is van de welwillendheid van de al die patiënten om het onderzoek succesvol af te ronden.
- 
-Klinische onderzoek kosten veel tijd. Hierbij moet je denken aan jaren om de effectiviteit van een behandeling te kunnen aantonen. Daarom mogen we van geluk spreken van onderzoekers als Maria Treben die zich hiervoor inzetten. 
-
-Om de werkzaamheid van Ivan Chai tegen prostaatklachten aan te tonen heeft Maria Treben meerdere keren grootschalig klinisch onderzoek verricht.
-
-En met succes!
-
-De bevindingen van haar onderzoek hebben het volgende aangetoond. 
+De bevindingen van langdurig klinisch onderzoek hebben het volgende aangetoond.
 
 * Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
+* Ivan Chai gaat óók de groei van de prostaat tegen.
 
-Mooi bijkomend voordeel
-* Ivan Chai gaat óók de groei van de prostaat tegen. 
-* Ivan Chai verzorgt de urinewegen. 
+Mooi bijkomende voordeel. 
+* Ivan Chai verzorgt de urinewegen.
 
 <br>
 
@@ -201,26 +187,28 @@ https://drive.google.com/file/d/1bxFOJs2758W4NdoCYsKMyOMZwPbI4is2/view?usp=shari
 <br>
 
 Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen. <br>
-**Vrouwen hebben er ook baat bij.** 
+**Vrouwen hebben er ook baat bij.**
 
-Maria Treben raadt Ivan Chai ook aan voor urineweginfecties, cystitis, nier- en blaasproblemen.
+Ivan Chai is ook te raden tegen urineweginfecties, cystitis, nier- en blaasproblemen.
 
 * Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat.
 
-Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel. 
+Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel.
 
-* Ivan Chai versterkt de anti-tumoractiviteit. 
+* Ivan Chai versterkt de anti-tumoractiviteit.
 
 **Let op!**
 
 Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En dus de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
 
-Het antitumor effect is echter wél goed bestudeerd én heeft met name een positieve werking op gezonde prostaatcellen. 
+Het antitumor effect is echter wél goed bestudeerd én heeft met name een positieve werking op gezonde prostaatcellen.
 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam, worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
-Graag willen we tot slot het volgende belichten. 
-* Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen. 
+Graag willen we tot slot het volgende belichten.
+* Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. 
+
+Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen.
 
 problemen| [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen)
 
