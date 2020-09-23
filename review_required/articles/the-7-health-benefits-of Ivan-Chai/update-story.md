@@ -258,7 +258,7 @@ https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=shari
 ## Alledaags product tegen 17 problemen 
 _“Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie”_ 
 
-Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen!
+Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen.
 
 Om te beginnen brengen kleine veranderingen in alledaagse handelingen hierbij al soelaas. Het holistische perspectief kan hierbij houvast bieden voor het doorvoeren van deze veranderingen.
 
@@ -303,9 +303,7 @@ Dit stelt jou in de gelegenheid de volgende keuze te maken.
 
 _**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**_
 
-
-artikel| [Nieuwe smaken](#nieuwe-smaken)
-
+interview| [Verminder de kans op problemen](#)
 
 <br>
 
@@ -317,13 +315,19 @@ https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=shari
 # Ivan's conclusie   
 _"Neemt uw tijd te baat te vroeg is beter dan te laat"_
 
-We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. Kies je gevechten.
+We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. 
+
+Kies je gevechten.
 
 Onze klanten kunnen op ons vertrouwen. 
 
-We informeren je over eenvoudige én natuurlijke producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
+We informeren je over eenvoudige én natuurlijke alledaagse producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
 
-Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
+Ons advies aan de farmaceutische industrie is om te blijven ontdekken. 
+
+Wij zullen dat zeker ook doen.
+
+behandeling| [Ivan Chai](#Hoe-vaak-en-wanneer-drink-je-Ivan-Chai-tegen-een-probleem]
 
 <br>
 
@@ -358,7 +362,7 @@ Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven t
 
 Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
-behandeling| [Ivan Chai](#Hoe-vaak-en-wanneer-drink-je-Ivan-Chai-tegen-een-probleem]
+artikel| [Nieuwe smaken](#nieuwe-smaken)
 
 <br>
 
