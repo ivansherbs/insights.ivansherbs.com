@@ -88,6 +88,7 @@ En met succes!
 De bevindingen van haar onderzoek hebben het volgende aangetoond.
 * Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
 * Ivan Chai gaat óók de groei van de prostaat tegen.
+
 Mooi bijkomend voordeel
 * Ivan Chai verzorgt de urinewegen.
 
