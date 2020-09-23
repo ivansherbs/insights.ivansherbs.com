@@ -52,7 +52,7 @@ _Ivan_  "Sinds ik 37 jaar oud ben heb ik besloten mijn levensstijl om te gooien.
 
 **Het gebruik van kruiden om gezondheidsproblemen aan te pakken klinkt als een alternatieve geneeswijze. Wat is jouw visie hierop?**
 
-"Kruiden kunnen op verschillende manieren worden gebruikt. Dagelijks drink ik bijvoorbeeld Ivan Chai, een kruidenthee gemaakt door kruiden uit Siberië. De plant waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld, echter heeft alleen de plant uit deze regio een sterk heilzame werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld."
+"Kruiden kunnen op verschillende manieren worden gebruikt. Dagelijks drink ik bijvoorbeeld Ivan Chai, een kruidenthee gemaakt door kruiden uit Siberië. De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld, echter hebben alleen de kruiden uit deze regio een sterk heilzame werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld."
 
 _'Ivan is overigens een veelvoorkomende naam in Rusland, mocht je denken dat ik de kruidenthee naar mijzelf heb vernoemd.'_
 
