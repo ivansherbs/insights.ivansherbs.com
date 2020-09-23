@@ -94,8 +94,6 @@ Mooi bijkomend voordeel
 
 > Verzorg je lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een vergrote prostaat te verminderen. 
 
-Of te behandelen.
-
 Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige vergrote prostaat, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Graag willen we tot slot het volgende belichten.
