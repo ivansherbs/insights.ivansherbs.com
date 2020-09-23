@@ -3,7 +3,7 @@ layout: article.html
 title: Nieuwe kruidenmelanges
   Author: IVAN'S INSIGHTS
 ---
-artikel| **Product innovatie**
+artikel| **Productinnovatie**
 
 Ivan’s Herbs zorgt ervoor dat we er zijn voor de gezondheid van iedere klant. Naast het aanbieden van Ivan Chai, houden wij ook rekening met variatie om de smaakbeleving te blijven verrassen. 
 
