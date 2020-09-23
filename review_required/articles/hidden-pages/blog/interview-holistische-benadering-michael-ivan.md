@@ -30,9 +30,9 @@ _Ivan_  "Sinds ik 37 jaar oud ben heb ik besloten mijn levensstijl om te gooien.
 
 “Een ware ontdekkingsreis.”
 
-“Ik heb mij destijds gefocused op het gebruik van meer plantaardige en natuurlijke producten. Het veranderen van mijn alledaagse routine heeft hierbij een belangrijke rol gespeeld om mijn 'nieuwe levensstijl' aan te houden.”
+“Ik heb mij destijds gefocused op het gebruik van meer plantaardige en natuurlijke producten. Het veranderen van mijn alledaagse routine heeft een belangrijke rol gespeeld om mijn 'nieuwe levensstijl' aan te houden.”
 
-“Het nemen van tijd voor de handelingen die ik uitvoer spelen een belangrijk rol. Hiernaast heb ik het menselijk lichaam bekeken vanuit een holistisch perspectief om de kans op gezondheidsproblemen te verkleinen."
+“Het nemen van tijd voor de handelingen die ik uitvoer spelen hierbij een belangrijk rol. Hiernaast heb ik het menselijk lichaam bekeken vanuit een holistisch perspectief om de kans op gezondheidsproblemen te verkleinen."
 
 **Wat wordt bedoeld met het holistische perspectief?**
 
