@@ -52,6 +52,8 @@ Eenvoudige én natuurlijke alledaagse producten met een krachtige werking op het
 
 Dit geschiedde middels kruidentheeën als Ivan Chai.
 
+Op zoek naar meer verdieping? 
+
 artikel| [Geschiedenis](#De-culturele-geschiendenis-van-Ivan-Chai)
 
 Lees snel verder en ontdek de 7 voordelen.
