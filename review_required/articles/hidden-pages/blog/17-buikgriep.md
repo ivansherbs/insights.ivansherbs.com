@@ -88,7 +88,9 @@ Voor het preventief behandelen van buikgriep, geven we je het volgende advies.
 
 Denk aan Ivan Chai. Een Siberische kruidenthee.
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent buikgriep te verzorgen.
+
 Mocht je toch onverhoopt een zwaardere vorm van buikgriep oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+
 Op zoek naar meer inzichten? 
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over buikgriep. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
