@@ -22,7 +22,7 @@ problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-v
 [ADD PICTURE NEW TUBE] 
 
 ### Happy Moon 
-_“The mixture of Happy Moon was once used in love potions. This infusion is derived directly from nature which gives it a powerful flowery taste. This infusion is famous for relieving menstrual pain and cramps.”_
+_“The mixture of Happy Moon was once used in love potions. This infusion is derived directly from nature which gives it a powerful flowery taste. Drink this famous herbal tea for relieving menstrual pain and cramps.”_
 
 problemen| [Menstruatiepijn](#)
 
