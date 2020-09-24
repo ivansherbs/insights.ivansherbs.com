@@ -18,7 +18,9 @@ Het kruidenelixer had de naam te danken aan de veelgebruikte Russische naam 'Iva
 
 De Siberische monniken en landarbeiders merkten alras een krachtig effect op het menselijk lichaam. Het alternatief voor koffie was gevonden waarbij de populariteit al snel groeide in westelijke richting. 
 
-De controle en onderdrukking van de Russische regering heeft ertoe geleid dat de naamsbekendheid al snel werd vergroot onder de boerenmassa. Na duurzaam gebruik verminderde de lichamelijke klachten zoals beschreven in de traditionele volksgeneeskunde. De herontdekte Siberische kruidenthee Ivan Chai werd al snel enorm populair. Net als de zinspreuk 'Verzorg dagelijks je lichaam en geest met kruidenthee uit Siberië' om men eraan te herinneren het lichaam als geest op eenvoudige manier te versterken gedurende de veelal erbarmelijke omstandigheden. 
+De controle en onderdrukking van de Russische regering heeft ertoe geleid dat de naamsbekendheid al snel werd vergroot onder de boerenmassa. Na duurzaam gebruik verminderde de lichamelijke klachten zoals beschreven in de traditionele volksgeneeskunde. 
+
+De herontdekte Siberische kruidenthee Ivan Chai werd al snel enorm populair. Net als de zinspreuk 'Verzorg dagelijks je lichaam en geest met kruidenthee uit Siberië' om men eraan te herinneren het lichaam als geest op eenvoudige manier te versterken gedurende de veelal erbarmelijke omstandigheden. 
 
 **Populariteit** <br>
 De elite, de hogere kringen aan het Russische hof in St.-Petersburg, zag potentie in het gewilde kruid. De Russische tsaren waren na verloop van tijd bekend met Ivan Chai voor het versterken van lichaam en geest. 
