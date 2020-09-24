@@ -15,34 +15,26 @@ Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problem
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. 
 
 [1. Versterkt de weerstand](#ivan-chai-Versterkt-de-weerstand)<br>
-problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
 
 [2. Krachtige ontstekingsremmer](#ivan-chai-werkt-als-een-Krachtige-ontstekingsremmer) <br>
-problemen| [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) 
 
 [3. Versterkt de antioxiderede werking](#ivan-chai-Versterkt-de-antioxiderede-werking) <br>
-problemen| [Hart- en vaatziekten](#Zie-het-tijdig-aankomen)
 
 [4. Verbetert de nachtrust](#ivan-chai-Verbetert-de-nachtrust)<br>
-problemen| [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) 
 
 [5. Vermindert de kans op stress, angst en een burnout](#ivan-chai-Vermindert-de-kans-op-stress-angst-en-een-burnout)<br>
-problemen| [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie)
 
 [6. Verzorgt de gezondheid van de prostaat en urinewegen](#ivan-chai-Verzorgt-de-gezondheid-van-de-prostaat-en-urinewegen)<br>
-problemen| [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen)
+
 
 [7. Verzorgt het spijsverteringsstelsel](#ivan-chai-Verzorgt-het-spijsverteringsstelsel)
-problemen| [Buikgriep](#een-voorspelbaar-probleem)
 <br>
 <br>
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
 > SIBERIË | De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
 <br>
 <br>
-* Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd én goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
-
-problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
+* Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd én goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
 
 <br>
 <br>
