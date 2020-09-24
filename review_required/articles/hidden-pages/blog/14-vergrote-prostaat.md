@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Een goedaardige aandoening
+title: Een goedaardige aandoening met ongewenste gevolgen
 publish:
   Author: IVAN'S INSIGHTS
 ---
