@@ -14,20 +14,19 @@ Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problem
 
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. 
 
-[1. Versterkt de weerstand](##ivan-chai-versterkt-de-weerstand)<br>
+[1. Versterkt de weerstand](#)
 
-[2. Krachtige ontstekingsremmer](##ivan-chai-werkt-als-een-krachtige-ontstekingsremmer) <br>
+[2. Krachtige ontstekingsremmer](#)
 
-[3. Versterkt de antioxiderede werking](##ivan-chai-versterkt-de-antioxiderede-werking) <br>
+[3. Versterkt de antioxiderede werking](#)
 
-[4. Verbetert de nachtrust](##ivan-chai-verbetert-de-nachtrust)<br>
+[4. Verbetert de nachtrust](#)
 
-[5. Vermindert de kans op stress, angst en een burnout](##ivan-chai-vermindert-de-kans-op-stress-angst-en-een-burnout)<br>
+[5. Vermindert de kans op stress, angst en een burnout](#)
 
-[6. Verzorgt de gezondheid van de prostaat en urinewegen](##ivan-chai-verzorgt-de-gezondheid-van-de-prostaat-en-urinewegen)<br>
+[6. Verzorgt de gezondheid van de prostaat en urinewegen](#)
 
-
-[7. Verzorgt het spijsverteringsstelsel](#ivan-chai-verzorgt-het-spijsverteringsstelsel)
+[7. Verzorgt het spijsverteringsstelsel](#)
 
 <br>
 <br>
