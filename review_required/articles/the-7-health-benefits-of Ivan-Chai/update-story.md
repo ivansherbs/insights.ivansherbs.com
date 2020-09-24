@@ -28,8 +28,10 @@ Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en al
 
 
 [7. Verzorgt het spijsverteringsstelsel](#ivan-chai-Verzorgt-het-spijsverteringsstelsel)
+
 <br>
 <br>
+
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
 > SIBERIË | De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
 <br>
