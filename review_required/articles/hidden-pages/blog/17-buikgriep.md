@@ -50,7 +50,7 @@ Denk aan medicijnen als de anticonceptiepil en de morning-afterpil.
 
 **Tip 2.**
 
-Ga je op vakantie? 
+Laten we ons nu even bedenken of je op vakantie gaat?
 
 Zo ja. 
 
@@ -77,6 +77,8 @@ Dit maakt buikgriep een voorspelbaar probleem.
 Voor we het vergeten! 
 
 **Tip 3.**
+
+Ga je binnenkort op dieet? 
 
 Buikgriep kan ook worden veroorzaakt door het radicaal veranderen van je dieet. 
 
