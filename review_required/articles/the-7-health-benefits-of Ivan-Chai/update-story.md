@@ -35,9 +35,7 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 > SIBERIË | De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
 <br>
 <br>
-* Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. 
-
-Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
+* Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
 
 [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
 
