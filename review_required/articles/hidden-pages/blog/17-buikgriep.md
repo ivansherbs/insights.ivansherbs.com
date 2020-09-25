@@ -84,7 +84,19 @@ Buikgriep kan ook worden veroorzaakt door het radicaal veranderen van je dieet.
 
 Dit komt minder vaak voor, maar bestaat wel. 
 
-Wanneer de zomer eraan komt gooien veel strandliefhebbers namelijk rigoureus hun dieet om voor hun ideale strandlichaam. 
+Wanneer de zomer eraan komt gooien veel strandliefhebbers namelijk rigoureus hun dieet om voor hun ideale strandlichaam. Met buikkrampen tot gevolg. 
+
+Al moeten we ook de realiteit onder ogen zien dat niet alle rigoureuze veranderingen van dieet te zijn voorzien. 
+
+Het tegenovergestelde kan ook effect hebben op je spijsverteringsstelsel.
+
+Je kunt namelijk ook gewoon heel gezond eten en jezelf eens te buiten gaan aan een snelle vette hap van de snackbar. Of een niet nader te noemen fastfoodketen. 
+
+Of je eet iets wat je even niet bent gewend maar wel heel erg lekker vind. Zoals een keer heel erg pittig eten. Hierdoor heeft je maag weer eens iets anders te verduren dan die vegetarische rode bieten wortel burger. Of die overheerlijke licht in kcal spelt vrije verse quinoa salade.
+
+Ook dit kan negatieve gevolgen hebben voor je spijsverteringsstelsel. 
+
+Je weet waar we het over hebben. 
 
 Voor het preventief behandelen van buikgriep, geven we je het volgende advies. 
 
