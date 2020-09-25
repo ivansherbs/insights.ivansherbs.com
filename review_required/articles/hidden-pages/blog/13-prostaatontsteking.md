@@ -17,7 +17,7 @@ De bewering als volgt.
 
 _Er is geen touw aan vast te knopen of je op latere leeftijd te maken krijgt met een prostaatontsteking._
 
-Deze bewering interpreteren wij op de volgende manier. 
+Deze bewering onderbouwen wij op de volgende manier. 
 
 Je kan je hele leven gezond hebben gegeten en gedronken. Veel hebben gesport en bewogen op dagelijkse basis. Geen alcohol en geen drugs hebben gebruikt. En last krijgen van een prostaatontsteking.
 
