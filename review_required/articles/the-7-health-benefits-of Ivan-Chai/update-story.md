@@ -32,18 +32,18 @@ Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en al
 <br>
 
 https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
-> SIBERIË | De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
+> SIBERIË| De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
 <br>
 <br>
 * Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
 
-[Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
+problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
 
 <br>
 <br>
 
 ## Korte versie geschiedenis
-In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met hartklopppingen, rillingen en slapeloosheid tot gevolg. 
+In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met onregelmatige hartkloppingen, rillingen en slapeloosheid tot gevolg. 
 
 Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar. Kennisdeling tussen monniken en landarbeiders geschieden om de verstandshouding te versterken. 
 
@@ -60,7 +60,7 @@ Lees snel verder en ontdek de 7 voordelen.
 <br>
 
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
-> SIBERIË | De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
+> SIBERIË| De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
 <br>
 <br>
 
@@ -84,7 +84,7 @@ problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-v
 <br>
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
-> SIBERIË | De seizoensarbeiders staan vroeg op om de kruiden te plukken in de wildernis van Siberië.
+> SIBERIË| De seizoensarbeiders staan vroeg op om de kruiden te plukken in de wildernis van Siberië.
 <br>
 <br>
 
@@ -108,7 +108,7 @@ problemen| [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbar
 <br>
 
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
-> SIBERIË | Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de meest ervaren 'tea master' in de gelegenheid een kwaliteitscontrole uit te voeren.
+> SIBERIË| Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de meest ervaren 'tea master' in de gelegenheid een kwaliteitscontrole uit te voeren.
 <br>
 <br>
 
@@ -133,7 +133,7 @@ problemen| [Hart- en vaatziekten](#Zie-het-tijdig-aankomen)
 <br>
 
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
-> SIBERIË | De bladeren van de kruiden worden met de hand gerold. Vervolgens worden de bladeren bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
+> SIBERIË| De bladeren van de kruiden worden met de hand gerold. Vervolgens worden de bladeren bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
 <br>
 <br>
 
@@ -154,7 +154,7 @@ problemen| [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem)
 <br>
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
-> SIBERIË | Svetlana Petrovayé is één van de vrouwelijke 'tea masters'. _"In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking."_
+> SIBERIË| Svetlana Petrovayé is één van de vrouwelijke 'tea masters'. _"In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking."_
 <br>
 <br>
 
@@ -176,7 +176,7 @@ problemen| [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-
 <br>
 
 https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
-> SIBERIË | Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer (+30°C) kan worden geoogst. In de winter (-40°C) ligt hier namelijk een dik pak sneeuw.
+> SIBERIË| Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer (+30°C) kan worden geoogst. In de winter (-40°C) ligt hier namelijk een dik pak sneeuw.
 <br>
 <br>
 
@@ -201,7 +201,7 @@ Mooi bijkomende voordeel.
 <br>
 
 https://drive.google.com/file/d/1bxFOJs2758W4NdoCYsKMyOMZwPbI4is2/view?usp=sharing
-> SIBERIË | Voordeel van een extreem Siberisch landklimaat. De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben de kruiden uit deze regio een verbazingwekkend sterke geneeskrachtige werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld.
+> SIBERIË| Voordeel van een extreem Siberisch landklimaat. De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben de kruiden uit deze regio een verbazingwekkend sterke geneeskrachtige werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld.
 <br>
 <br>
 
@@ -234,7 +234,7 @@ problemen| [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergro
 <br>
 
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
-> SIBERIË | Het plukken van de kruiden is een intensief proces. De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt. 
+> SIBERIË| Het plukken van de kruiden is een intensief proces. De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt. 
 <br>
 <br>
 
@@ -270,7 +270,7 @@ problemen| [Buikgriep](#een-voorspelbaar-probleem)
 <br>
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
-> SIBERIË | Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden in tubes, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
+> SIBERIË| Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden in tubes, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
 <br>
 <br>
 
@@ -300,7 +300,7 @@ Denk hierbij aan Ivan Chai. Een Siberische kruidenthee.
 <br>
 
 https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
-> SIBERIË | Ivan Chai bevat 7 voordelen tegen 17 problemen.
+> SIBERIË| Ivan Chai bevat 7 voordelen tegen 17 problemen.
 <br>
 <br>
 
@@ -329,7 +329,7 @@ interview| [Holistische benadering](#zonder-probleem-bereikte-Ivan-de-top)
 <br>
 
 https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
-> SIBERIË | Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken naar de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
+> SIBERIË| Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken naar de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
 <br>
 <br>
 
@@ -353,7 +353,7 @@ behandeling| [Hoe vaak en wanneer?](#Hoe-vaak-en-wanneer-drink-je-Ivan-Chai-tege
 <br>
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
-> SIBERIË | De laatste kwaliteitscontrole vindt plaats middels een ceremonie. De smaakbeleving staat hierbij centraal.
+> SIBERIË| De laatste kwaliteitscontrole vindt plaats middels een ceremonie. De smaakbeleving staat hierbij centraal.
 <br>
 <br>
 
@@ -388,7 +388,7 @@ artikel| [Nieuwe smaken](#nieuwe-smaken)
 <br>
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
-> SIBERIË | Ontdek nu zelf de smaak van Ivan Chai. 
+> SIBERIË| Ontdek nu zelf de smaak van Ivan Chai. 
 <br>
 <br>
 
@@ -580,7 +580,7 @@ interview| **Holistische benadering**
 
 Ivan was de oudste van de expeditie groep. Michael was gefascineerd door het doorzettingsvermogen van deze herborist (63)...
 
-[Ontdek meer over de holistische benadering](#)
+[Lees meer over Ivan](#)
 
 
 https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
@@ -610,7 +610,7 @@ artikel| **Geschiedenis**
 
 In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai herontdekten. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met onregelmatige hartkloppingen, rillingen en slapeloosheid tot gevolg. Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken...
 
-[Ontdek meer inzichten](#)
+[Leer meer](#)
 
 <br>
 
