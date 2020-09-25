@@ -23,7 +23,7 @@ Je kan je hele leven gezond hebben gegeten en gedronken. Veel hebben gesport en 
 
 Je kan je hele leven ongezond hebben gegeten en gedronken. Niet hebben gesport en niet hebben bewogen op dagelijkse basis. Veel alcohol en drugs hebben gebruikt. En last krijgen van een prostaatontsteking. 
 
-Je leidt momenteel een leven waarbij je, net als vroeger, zo nu en dan heel gezond eet en drinkt. Zo nu en dan sport en op dagelijkse basis beweegt. Zo nu en dan een beetje buiten de lijntjes kleurt, waarbij je het totaal niet erg vindt eens te diep in het glaasje te kijken. Om vervolgens toch nog last te krijgen van een prostaatontsteking. 
+Je leidt momenteel een leven waarbij je, net als vroeger, zo nu en dan heel gezond eet en drinkt. Zo nu en dan sport en op dagelijkse basis beweegt. Zo nu en dan een beetje buiten de lijntjes kleurt, waarbij je het totaal niet erg vindt eens te diep in het glaasje te kijken. Om vervolgens toch nog last te krijgen van een prostaatontsteking! 
 
 In andere woorden.
 
