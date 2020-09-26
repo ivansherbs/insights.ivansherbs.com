@@ -22,7 +22,7 @@ Dit doen we in de vorm van 3 tips.
 
 **Tip 1.** 
 
-Laten we beginnen bij te bedenken of je een kuur met farmaceutische medicijnen gebruikt? 
+Laten we beginnen bij te bedenken of je farmaceutische medicijnen gebruikt? 
 
 Vooral voor vrouwen raden we aan onderstaande tip helemaal te lezen. 
 
