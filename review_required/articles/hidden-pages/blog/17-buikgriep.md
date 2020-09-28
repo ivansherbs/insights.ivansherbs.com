@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Een voorspelbaar probleem
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Svetlana Petrovayé (37)
 ---
 artikel| **Buikgriep**
 
