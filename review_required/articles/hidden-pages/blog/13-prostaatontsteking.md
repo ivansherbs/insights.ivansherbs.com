@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Bescherm de gezondheid van je prostaat
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Prostaatontsteking**
 
