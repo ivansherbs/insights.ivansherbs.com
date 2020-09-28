@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Wat te gebruiken wanneer antibiotica geen zin heeft?
- Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Keelontsteking**
 
