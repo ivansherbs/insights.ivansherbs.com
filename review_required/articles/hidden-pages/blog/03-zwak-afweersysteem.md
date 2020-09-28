@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Beperk de mate van kwetsbaarheid
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Zwak afweersysteem**
 
