@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Peesontsteking**
 
@@ -103,11 +104,11 @@ Een peesontsteking kan ontstaan bij een belastende activiteit. Met name hebben d
 ### Aan welke sporten moet ik denken?
 Bij sporten waar je vaak dezelfde snelle, krachtige en explosieve bewegingen maakt. Hierdoor worden je spieren vaak en intensief belast.
 
-We hebben zojuist al duursporten als voorbeeld genomen. Maar je kunt ook denken aan sporten zoals kickboxen.
+We hebben zojuist al duursporten als voorbeeld genomen. Maar je kunt ook denken aan sporten zoals tennis.
 
-Je volgt bijvoorbeeld een zaktraining. Je schouders, armen, benen maar ook handen komen door dezelfde bewegingen onder druk te staan. Pezen die door deze bewegingen onder druk komen te staan raken hierdoor geïrriteerd of ontstoken. Door deze intensieve training waar endorfine bij vrijkomt verleg je tevens de pijngrens.
+Je schouders, armen, benen maar ook handen komen door dezelfde bewegingen onder druk te staan. Pezen die door deze bewegingen onder druk komen te staan raken hierdoor geïrriteerd of ontstoken. Door deze intensieve training waar endorfine bij vrijkomt verleg je tevens de pijngrens.
 
-Er zijn naast kickboxen tal van sporten waarbij snelle, krachtige en explosieve bewegingen worden gebruikt. Denk aan de gangbare duur-, kracht-, maar ook balsporten.
+Er zijn naast tennis tal van sporten waarbij snelle, krachtige en explosieve bewegingen worden gebruikt. Denk aan de gangbare duur-, kracht-, maar ook balsporten.
 
 ### Welke symptomen duiden op een peesontsteking?
 Er zijn verschillende symptomen die wijzen op een peesontsteking:
