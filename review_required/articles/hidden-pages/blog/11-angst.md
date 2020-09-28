@@ -1,7 +1,8 @@
 ---
 layout: article.html
 Title: Zie jij het wél aankomen?
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Svetlana Petrovayé (37)
 ---
 artikel| **Angst**
 
