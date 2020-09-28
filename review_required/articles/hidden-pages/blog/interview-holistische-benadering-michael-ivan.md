@@ -2,6 +2,7 @@
 layout: article.html
 Title: …zonder probleem bereikte Ivan de top 
 Publish: IVAN'S INSIGHTS
+  Author: Svetlana Petrovayé (37)
 ---
 interview| **Holistische benadering**
 
