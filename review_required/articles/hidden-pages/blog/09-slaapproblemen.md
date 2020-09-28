@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Stress als katalysator op een slaapprobleem
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Svetlana Petrovayé (37)
 ---
 artikel| **Slaapproblemen**
 
