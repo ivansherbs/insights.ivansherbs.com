@@ -4,7 +4,7 @@
 
 [Picture: Happy Moon Girl]
 
-**Cultuur |** Svetlana Petrovayé (31) uit Chazhaevka <br> 
+**Cultuur |** Svetlana Petrovayé uit Chazhaevka <br> 
 _Niet meer voor deze natuurliefhebber. Met name in de zomermaanden kan ze niet vroeg genoeg opstaan. De dagen worden gevuld met haar favoriete bezigheden: mediteren, arbeid in de openlucht, vuur maken en koken in de stilte van de Siberische wildernis. Een portret van één van de vrouwelijke kruidenplukkers uit Siberië. Ontsnapte het drukke zakenleven van Moskou op de oostelijke oever van de rivier de Moskva, om een leven vol sereniteit te omarmen, zowel in de zomer als winter is ze buiten te vinden._
 
 Door Ivan’s Insights
