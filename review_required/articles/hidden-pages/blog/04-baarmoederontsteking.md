@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Preventieve bescherming van je meest kwetsbare orgaan
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Svetlana Petrovayé (37)
 ---
 artikel| **Baarmoederontsteking**
 
