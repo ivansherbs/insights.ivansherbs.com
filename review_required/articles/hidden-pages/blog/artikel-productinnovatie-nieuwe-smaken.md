@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Nieuwe smaken
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Michael Koch
 ---
 artikel| **Productinnovatie**
 
