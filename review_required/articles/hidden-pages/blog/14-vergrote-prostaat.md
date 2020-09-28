@@ -1,8 +1,8 @@
 ---
 layout: article.html
-title: Groeien tot je erbij neervalt 
-publish:
-  Author: IVAN'S INSIGHTS
+title: Groeien tot je erbij neervalt...
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Vergrote prostaat**
 
