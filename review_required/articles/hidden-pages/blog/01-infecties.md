@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Voorkom onnodige weefselschade
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Infectie**
 
