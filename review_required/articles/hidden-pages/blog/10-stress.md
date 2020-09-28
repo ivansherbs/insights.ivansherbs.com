@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Ben jij er al achter hoe het écht voelt?
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Svetlana Petrovayé (37)
 ---
 artikel| **Stress**
 
