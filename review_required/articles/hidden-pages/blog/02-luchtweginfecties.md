@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Luchtweginfectie**
 
