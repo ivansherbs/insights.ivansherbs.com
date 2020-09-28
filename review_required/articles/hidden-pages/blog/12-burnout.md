@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Opgeven is géén optie
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Svetlana Petrovayé (37)
 ---
 artikel| **Burn-out**
 
