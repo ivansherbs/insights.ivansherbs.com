@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 Behandeling| **Ivan Chai**
 
