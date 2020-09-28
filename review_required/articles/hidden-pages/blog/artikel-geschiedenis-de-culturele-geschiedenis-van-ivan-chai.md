@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: De culturele geschiedenis van Ivan Chai  
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Geschiedenis**
 
