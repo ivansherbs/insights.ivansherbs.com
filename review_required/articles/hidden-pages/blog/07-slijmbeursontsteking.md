@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Verzorg je beschermkappen, behoudt soepele gewrichten
-  Author: IVAN'S INSIGHTS
+Publish: IVAN'S INSIGHTS
+  Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Slijmbeursontsteking**
 
