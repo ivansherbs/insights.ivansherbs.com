@@ -120,17 +120,11 @@ Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke 
 Wanneer we kijken naar Ivan Chai, wordt ook wel de de Latijnse benaming Epilobium Angustifolium gebruikt.
 
 De bevindingen zijn als volgt.
-
-1.
 * Ivan Chai versterkt de anti-tumoractiviteit.
 
 Bijkomende voordelen
-
-2. 
-> Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
-
-3.
-> Ivan Chai gaat óók de groei van de prostaat tegen.
+* Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
+* Ivan Chai gaat óók de groei van de prostaat tegen.
 
 Hedendaagse onderzoeken bevestigd hierbij het eeuwenoude gezegde. Namelijk dat het verstandig is je lichaam en geest dagelijks te verzorgen met kruidenthee uit Siberië.
 
