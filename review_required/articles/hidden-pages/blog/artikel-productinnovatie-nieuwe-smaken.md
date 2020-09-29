@@ -53,8 +53,6 @@ problemen| [Slaapproblemen](#) [Buikgriep](#) [Hart- en vaatziekten](#) [Overmat
 
 Wil je graag op de hoogte worden gehouden? 
 
-Laat hier je emailadres achter.
-
 [subscribe email]
 
 <br>
