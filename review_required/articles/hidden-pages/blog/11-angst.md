@@ -120,7 +120,7 @@ Benieuwd hoeveel mensen last hebben van angst?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
  
-## Inhoud van dit artikel
+https://drive.google.com/file/d/16_tqOs7fdCiabxK4sFM2MCyWlUXAkVu1/view?usp=sharing
 
 * [Over angst](#over-angst)
 * [Hoe ontstaat een gevoel van angst?](#Hoe-ontstaat-een-gevoel-van-angst)
