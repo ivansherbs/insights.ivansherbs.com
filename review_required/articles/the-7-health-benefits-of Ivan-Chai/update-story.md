@@ -394,9 +394,9 @@ https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=shari
 <br>
 
 # Over Ivan's Insights
-_"Een blog om 17 alledaagse problemen bespreekbaar te maken"_ 
+_"Een online magazine om 17 alledaagse problemen bespreekbaar te maken"_ 
 
-Ivan's Insights is een blog met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. En kun je voorkomen of verzorgen middels het drinken van Ivan Chai.  
+Ivan's Insights is een online magazine met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. En kun je voorkomen of verzorgen middels het drinken van Ivan Chai.  
 
 Ontdek de inzichten en laat je informeren. 
 
