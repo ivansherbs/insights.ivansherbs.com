@@ -49,6 +49,13 @@ _“This hidden mountain treasure has the same hot and spicy smell as mint.”_
 problemen| [Slaapproblemen](#) [Buikgriep](#) [Hart- en vaatziekten](#) [Overmatig zweten](#)
 
 
+Wil je graag op de hoogte worden gehouden? 
+
+Laat hier je emailadres achter.
+
+[subscribe email]
+
+
 # Ivan’s Insights
 
 _”Een blog om 17 alledaagse problemen bespreekbaar te maken”_
