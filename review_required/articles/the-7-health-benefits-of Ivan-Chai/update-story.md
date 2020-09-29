@@ -35,23 +35,24 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 > SIBERIË| De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
 <br>
 <br>
-* Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
+Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
 
 problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
 
 <br>
 <br>
 
-## Korte versie geschiedenis
+## Een kleine geschiedenis...
 In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met onregelmatige hartkloppingen, rillingen en slapeloosheid tot gevolg. 
 
 Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar. Kennisdeling tussen monniken en landarbeiders geschieden om de verstandshouding te versterken. 
 
 Eenvoudige én natuurlijke alledaagse producten met een krachtige werking op het lichaam, waren vanuit de Siberische monniken dé manier om de harmonie te bewaren. 
 
-Dit geschiedde middels kruidentheeën als Ivan Chai...
+Dit geschiedde middels kruidentheeën als Ivan Chai die uiteindelijk...
 
-Op zoek naar meer verdieping? 
+
+Op zoek naar de grote culturele geschiedenis? 
 
 artikel| [Geschiedenis](#De-culturele-geschiendenis-van-Ivan-Chai)
 
@@ -220,7 +221,7 @@ Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel.
 
 Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En dus de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
 
-Het antitumor effect is echter wél goed bestudeerd én heeft met name een positieve werking op gezonde prostaatcellen.
+* Het antitumor effect is echter wél goed bestudeerd. Het heeft met name een positieve werking op gezonde prostaatcellen.
 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam, worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
@@ -411,6 +412,7 @@ De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook 
 
 [Ontdek meer inzichten](#)
 
+_________________
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
 ### Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
