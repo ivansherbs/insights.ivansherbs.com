@@ -50,7 +50,7 @@ Lees snel meer over dit probleem. We geven je handige tips. Begin bijvoorbeeld v
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/1SffkFIy2pJOTFPZJ7kmGGgUVXFtye6Kq/view?usp=sharing
 
 * [Over een baarmoederontsteking?](#over-een-baarmoederontsteking)
 * [Welke symptomen duiden op een baarmoederontsteking?](#Welke-symptomen-duiden-op-een-baarmoederontsteking)
