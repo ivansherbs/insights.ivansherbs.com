@@ -8,7 +8,11 @@ artikel| **Urineweginfectie**
 
 Voorkom relatieproblemen door het voorkomen van een urineweginfectie!!!
 
-Huh?! Maar hoe dan? Wat bedoel je hiermee?
+Ja!
+
+Maar... huh?! Maar hoe dan? 
+
+Wat bedoel je hier eigenlijk mee?
 
 Gelijk allemaal vragen die door je hoofd heen schieten. 
 
@@ -18,7 +22,7 @@ Laten we bij deze opnieuw beginnen.
 
 Wist je dat een urineweginfectie van invloed is op je relatie?
 
-Dit zijn de bevindingen uit grootschalig Europees onderzoek. 
+Dit zijn de bevindingen uit grootschalig Europees onderzoek.
 
 We kunnen begrijpen dat je niet direct de link legt tussen relatieproblemen en een urineweginfectie. 
 
@@ -51,11 +55,11 @@ En dan snap je ook makkelijker waarom een urineweginfectie van invloed is op jul
 ### 1. Communicatie
 De hoeksteen van iedere relatie. Communicatie vloeit voort in ieder van onderstaande oorzaken. Bij communicatie zijn minimaal 2 personen nodig. Heel eenvoudig uitgelegd het je een zender en een ontvanger. 
 
-Bij het zenden van een bericht kan ruis ontstaan bij de ontvanger. Gezien deze persoon het op zijn of haar eigen manier interpreteert. Wat weer te maken heeft met leeftijd, intelligentie niveau, ervaringen in het leven en ga zo maar door. 
+Bij het zenden van een bericht kan ruis ontstaan bij de ontvanger. Gezien deze persoon het op zijn of haar eigen manier interpreteert. Wat weer te maken heeft met leeftijd, intelligentie niveau, ervaringen in het leven en ga zo maar door. Wanneer de ontvanger de informatie heeft verwerkt verschuiven die rollen. 
 
-Over het ontstaan van interpersoonlijke of organisationele ruis zijn overigens heel veel leuke wetenschappelijke theorieën over te vinden. Maar laten we het voor nu maar even houden bij relatieproblemen. 
+Bij te veel ruis in de communicatie groeien mensen uit elkaar. Hetzelfde geldt overigens bij een gebrek aan communicatie. Waardoor de interesse bij personen in het andere geslacht sneller wordt gewekt. 
 
-Bij gebrek aan of veel ruis in de communicatie groeien mensen uit elkaar. Waardoor de interesse bij personen in het andere geslacht wellicht wordt gewekt. Wellicht met vreemdgaan tot gevolg.
+Wellicht met vreemdgaan tot gevolg.
 
 ### 2. Vreemdgaan
 Ook hier zijn leuke bevindingen over gedaan. 
@@ -110,7 +114,7 @@ Bovenstaande punten kunnen worden versterkt door een partner die vrij egoïstisc
 
 Ja ook dit bestaat. 
 
-En is van invloed op jullie relatie. Door hierover te praten en een dialoog aan te gaan worden andere problemen verminderd. 
+En ook dit is ernstig van invloed op jullie relatie. Door hierover te praten en een dialoog aan te gaan worden andere problemen verminderd. 
 
 Dialoog is van belang in langdurige relaties. Ook als het op punt 7 aankomt. 
 
@@ -120,11 +124,17 @@ Tot slot zijn we aangekomen bij het laatste punt. Laten we maar vooral met de de
 
 Intimiteit is een zeer zwaarwegende factor in iedere relatie. Bij intimiteit wordt over het algemeen gelijk aan seks gedacht. 
 
+Seks?
+
+Ja. 
+
+Seks. 
+
 Echter zijn er verschillende soorten intimiteit. Denk aan intellectuele, sociale en fysieke intimiteit.
 
 Een urineweginfectie is een ernstige stoorzender wanneer we het hebben over intimiteit. 
 
-Om maar een voorbeeld te noemen omdat je nu toch al aan seks dacht. 
+Om maar een voorbeeld te noemen omdat je nu toch al aan seks dacht... 
 
 Vrouwen vinden het niet fijn om seks te hebben met een blaasontsteking. En wanneer ze hierdoor dus een antibiotica kuur moeten volgen. 
 
@@ -149,7 +159,9 @@ Seks.
 
 En nu komt de verrassing.
 
-De grootste risicofactor voor het krijgen van een blaasontsteking is seks. 
+De grootste risicofactor voor het krijgen van een urineweginfectie in de vorm van een blaasontsteking is...
+
+Seks. 
 
 Geinig he? 
 
