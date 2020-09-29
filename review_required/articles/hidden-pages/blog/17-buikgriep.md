@@ -110,7 +110,7 @@ Op zoek naar meer inzichten?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over buikgriep. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/1IgCEryUDLbFkXy92lN1XAUkOIVoWBCPY/view?usp=sharing
 
 * [Over buikgriep](#over-buikgriep)
 * [Wat zijn maagklachten?](#Wat-zijn-maagklachten)
