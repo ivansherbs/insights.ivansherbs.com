@@ -67,10 +67,15 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
 
 * [Over een keelontsteking](#Over-een-keelontsteking)
+
 * [Waardoor krijg je een keelontsteking?](#Waardoor-krijg-je-een-keelontsteking)
+
 * [Welke symptomen duiden op een keelontsteking?](#Welke-symptomen-duiden-op-een-keelontsteking)
+
 * [Welke farmaceutische medicijnen behandelen een keelontsteking?](#Welke-farmaceutische-medicijnen-behandelen-een-keelontsteking)
+
 * [En wat als ik toch antibiotica wil gebruiken?](#En-wat-als-ik-toch-antibiotica-wil-gebruiken)
+
 * [Waarom Ivan Chai](#waarom-ivan-chai)
 
 ### Over een keelontsteking
