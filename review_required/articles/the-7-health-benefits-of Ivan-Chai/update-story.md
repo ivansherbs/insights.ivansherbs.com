@@ -411,11 +411,13 @@ artikel| **Infectie**
 De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook je intieme zone is doelwit van deze micro-organismen...
 
 [Ontdek meer inzichten](#)
+
 <br>
 <br>
 .................
 <br>
 <br>
+
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
 ### Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
 
