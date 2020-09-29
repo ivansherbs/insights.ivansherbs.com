@@ -77,9 +77,13 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
 
 * [Over een zwak afweersysteem](#over-een-zwak-afweersysteem)
+
 * [Wanneer spreek je van een zwak afweersysteem?](#Wanneer-spreek-je-van-een-zwak-afweersysteem)
+
 * [Wanneer krijg je last van een zwak afweersysteem?](#Wanneer-krijg-je-last-van-een-zwak-afweersysteem)
+
 * [Welk effect heeft het gebruik van medicijnen op een zwak afweersysteem?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-een-zwak-afweersysteem)
+
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
 ### Over een zwak afweersysteem
