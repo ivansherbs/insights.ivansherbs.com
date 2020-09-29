@@ -413,7 +413,7 @@ De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook 
 [Ontdek meer inzichten](#)
 
 <br>
-<br>
+
 .................
 <br>
 <br>
