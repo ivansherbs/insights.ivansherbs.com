@@ -53,10 +53,15 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 https://drive.google.com/file/d/1SffkFIy2pJOTFPZJ7kmGGgUVXFtye6Kq/view?usp=sharing
 
 * [Over een baarmoederontsteking?](#over-een-baarmoederontsteking)
+
 * [Welke symptomen duiden op een baarmoederontsteking?](#Welke-symptomen-duiden-op-een-baarmoederontsteking)
+
 * [Welke farmaceutische medicijnen behandelen een baarmoederontsteking?](#Welke-farmaceutische-medicijnen-behandelen-een-baarmoederontsteking)
+
 * [Welk effect heeft het gebruik van medicijnen op baarmoederontsteking?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-baarmoederontsteking)
+
 * [Welke ongewenste bijwerkingen kan antibiotica bij gebruik met zich meebrengen?](#Welke-ongewenste-bijwerkingen-kan-antibiotica-bij-gebruik-met-zich-meebrengen)
+
 * [Waarom Ivan Chai](#waarom-ivan-chai)
 
 ### Over een baarmoederontsteking
