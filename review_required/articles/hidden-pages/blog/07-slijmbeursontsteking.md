@@ -59,7 +59,7 @@ Wil je meer weten over het behoud van soepele gewrichten?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een slijmbeursontsteking. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
 
 * [Over een slijmbeursontsteking](#Over-een-slijmbeursontsteking)
 * [Waardoor krijg je een slijmbeursontsteking?](#Waardoor-krijg-je-een-slijmbeursontsteking)
