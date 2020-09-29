@@ -28,7 +28,7 @@ Bij een boost van de neurotransmitters hebben we het niet alleen over de befaamd
 
 Goed, om het overzicht te bewaren gaan we snel verder. En houden we het bij deze bij endorfine. 
 
-Neurotransmitters hebben ieder hun eigenaardigheden. Zo werkt Endorfine bijvoorbeeld verslavend. 
+Neurotransmitters hebben ieder hun eigenaardigheden. Zo heeft endorfine de eigenaardigheid dat het verslavend werkt. 
 
 Je kunt hierdoor periodes in je leven ervaren dat je meer wil sporten. 
 
