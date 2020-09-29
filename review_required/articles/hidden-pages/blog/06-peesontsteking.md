@@ -85,7 +85,7 @@ Wil je meer weten over een peesontsteking? en hoe je het preventief kunt behande
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een peesontsteking. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/1w5R0M2jAeJTE_hTzZfldx8fWL59ETzT9/view?usp=sharing
 
 * [Over een peesontsteking](#Over-een-peesontsteking)
 * [Waardoor krijg je een peesontsteking?](#Waardoor-krijg-je-een-peesontsteking)
