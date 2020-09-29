@@ -433,7 +433,7 @@ Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
 <br>
 <br>
 
-https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
+https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
 ### Beperk de mate van kwetsbaarheid
 
 artikel| **Zwak afweersysteem**
