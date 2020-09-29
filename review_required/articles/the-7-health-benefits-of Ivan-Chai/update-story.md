@@ -524,7 +524,7 @@ Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de k
 <br>
 <br>
 
-https://drive.google.com/file/d/1K49pLlFl74WGqkJsi2PDit3y0mxZz-1f/view?usp=sharing
+https://drive.google.com/file/d/1yFlWBPioqckSiKRYtORk_1eATX2ELZO-/view?usp=sharing
 ### Stress als katalysator op een slaapprobleem
 
 artikel| **Slaapproblemen**
