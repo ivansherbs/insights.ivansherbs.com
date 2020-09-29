@@ -64,7 +64,7 @@ Lees snel meer over dit probleem. En nog beter. Hoe je deze onaangename symptome
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een keelontsteking.  Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
- ## Inhoud van dit artikel
+https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
 
 * [Over een keelontsteking](#Over-een-keelontsteking)
 * [Waardoor krijg je een keelontsteking?](#Waardoor-krijg-je-een-keelontsteking)
