@@ -98,6 +98,21 @@ Ontdek de inzichten en laat je informeren.
 problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
 
 
+https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
+### Ontdek de 7 voordelen
+
+Artikel| **Ivan Chai**
+
+Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
+
+[Ontdek meer inzichten](#)
+
+<br>
+
+.................
+<br>
+<br>
+
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 ### Voorkom onnodige weefselschade
 
