@@ -62,17 +62,24 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 
 > Lees snel verder en ontvang óók tips voor het drinken van Ivan Chai met kinderen!
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/1jPOulMsS0oHDfTA38R4Pkl5CQJV6c9Ta/view?usp=sharing
 
 * [Over een verkoudheid of griep](#over-een-verkoudheid-of-griep)
+
 * [Wanneer krijg je last van een luchtweginfectie?](#Wanneer-krijg-je-last-van-een-luchtweginfectie)
+
 * [Wat vergroot de kans op een luchtweginfecties?](#Wat-vergroot-de-kans-op-een-luchtweginfecties)
+
 * [Welke medicijnen zijn van invloed op luchtweginfecties?](#Welke-medicijnen-zijn-van-invloed-op-luchtweginfecties)
+
 * [Welk effect heeft het gebruik van medicijnen op luchtweginfecties?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-luchtweginfecties)
+
 * [Waardoor vergroot ik de kans op een luchtweginfectie?](#Waardoor-vergroot-ik-de-kans-op-een-luchtweginfectie)
 
 * [Over pseudokroep](#over-pseudokroep)
+
 * [Tips voor het drinken van Ivan Chai met kinderen](#Tips-voor-het-drinken-van-Ivan-Chai-met-kinderen)
+
 * [Waarom Ivan Chai?](#waarom-ivan-chai?)
 
  ### Over een verkoudheid of griep
