@@ -89,9 +89,9 @@ Toch nog even de 7 voordelen van Ivan Chai doornemen voordat je een behandeling 
 
 
 # Ivan’s Insights
-_"Een magazine om 17 alledaagse problemen bespreekbaar te maken"_ 
+_"Een online magazine om 17 alledaagse problemen bespreekbaar te maken"_ 
 
-Ivan's Insights is een magazine met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. En kun je voorkomen of verzorgen middels het drinken van Ivan Chai.  
+Ivan's Insights is een online magazine met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. En kun je voorkomen of verzorgen middels het drinken van Ivan Chai.  
 
 Ontdek de inzichten en laat je informeren. 
 
