@@ -32,7 +32,7 @@ problemen| [Menstruatiepijn](#)
 ### Meadowsweet
 _“A taste like fresh floral aroma, bittersweet, backed with a deeper almond like essence.”_
 
-problemen| [Gewrichtspijn](#) [Menstruatiepijn](#) [Migraine](#) [Hoofdpijn](#) [Huidproblemen](#) [Spijsverteringsonevenwichtigheden](#)
+problemen| [Gewrichtspijn](#) [Menstruatiepijn](#) [Migraine](#) [Hoofdpijn](#) [Eczeem](#) [Diarree](#)
 
 [ADD PICTURE NEW TUBE] 
 
@@ -46,7 +46,7 @@ problemen| [Nierstenen](#) [Zwak afweersysteem](#) [Luchtweginfectie](#)
 ### Ziziphora
 _“This hidden mountain treasure has the same hot and spicy smell as mint.”_
 
-problemen| [Slaapproblemen](#) [Buikgriep](#) [Hart- en vaatziekten](#) [Zweet probleem](#)
+problemen| [Slaapproblemen](#) [Buikgriep](#) [Hart- en vaatziekten](#) [Overmatig zweten](#)
 
 
 # Ivan’s Insights
