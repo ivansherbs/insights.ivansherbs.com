@@ -115,7 +115,7 @@ Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out.
  
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een burn-out. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/1xRSR-uCLEo5S5krFPwxqMVBWKyqfmGQM/view?usp=sharing
 
 * [Over een burn-out?](#Over-een-burn-out)
 * [Komt dit probleem vaak voor?](#komt-dit-probleem-vaak-voor)
