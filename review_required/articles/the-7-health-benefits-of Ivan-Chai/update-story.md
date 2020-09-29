@@ -427,6 +427,11 @@ Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
 ### Beperk de mate van kwetsbaarheid
@@ -437,6 +442,11 @@ Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeeld
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
 ### Preventieve bescherming van je meest kwetsbare orgaan
@@ -447,6 +457,11 @@ Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoede
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
 ### Wat te gebruiken wanneer antibiotica geen zin heeft?
@@ -457,6 +472,11 @@ Je kent de symptomen maar al te goed wanneer het weer zo ver is...
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 
 https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
@@ -468,6 +488,11 @@ Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
 ### Verzorg je beschermkappen, behoudt soepele gewrichten
@@ -478,6 +503,11 @@ Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken. Je wil imm
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
 ### Zie het tijdig aankomen!
@@ -488,6 +518,11 @@ Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de k
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1K49pLlFl74WGqkJsi2PDit3y0mxZz-1f/view?usp=sharing
 ### Stress als katalysator op een slaapprobleem
@@ -498,6 +533,11 @@ artikel| **Slaapproblemen**
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
 ### Ben jij er al achter hoe het écht voelt?
@@ -508,6 +548,11 @@ Veel mensen hebben geen idee hoe een overmatige hoeveelheid aan stress voelt. To
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1pUsSnTLrOTVf84iart49qug78Mxo5mV9/view?usp=sharing
 ### Zie jij het wél aankomen?
@@ -518,6 +563,11 @@ Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor da
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
 ### Opgeven is géén optie
@@ -528,6 +578,11 @@ Laten we je maar gelijk vertellen wat er aan de hand is...
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
 ### Bescherm de gezondheid van je prostaat
@@ -538,6 +593,11 @@ artikel| **Prostaatontsteking**
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
 ### Een goedaardige aandoening
@@ -548,6 +608,11 @@ Niet alle problemen zijn slecht voor je lichaam. Wel kunnen ze als vervelend wor
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing
 ### Een onopgemerkt probleem
@@ -558,6 +623,11 @@ Prostaatkanker groeit zo langzaam dat mannen vaak niet eens merken dat ze ermee 
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
 ### Voorkom relatieproblemen
@@ -568,6 +638,11 @@ Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking! Verdi
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
 ### Een voorspelbaar probleem
@@ -578,6 +653,11 @@ Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom
 
 [Ontdek meer inzichten](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1ZAACIYC7e3kI8iV3i1ukDcfksB99q7FK/view?usp=sharing
 ### …zonder probleem bereikte Ivan de top 
@@ -588,6 +668,11 @@ Ivan was de oudste van de expeditie groep. Michael was gefascineerd door het doo
 
 [Lees meer over Ivan](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
 ### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
@@ -598,6 +683,11 @@ In het algemeen geven de onderstaande doseringen voldoende resultaat...
 
 [Ontdek meer over Ivan Chai](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1KW4-vHECgEGPq0JF0tsK_csT5Bc0Fl6b/view?usp=sharing
 ### Nieuwe smaken
@@ -608,6 +698,11 @@ Om je alvast een tipje van de sluier te geven over de smaakbeleving inclusief te
 
 [Ontdek meer smaken](#)
 
+<br>
+
+.................
+<br>
+<br>
 
 https://drive.google.com/file/d/1HUqEYJ240wZxDkBb-2G6fABELDCxWwBw/view
 ### De culturele geschiendenis van Ivan Chai
