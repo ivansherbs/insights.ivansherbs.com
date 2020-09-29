@@ -80,7 +80,7 @@ Ben jij benieuwd hoe je een infectie oploopt?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/15MoaWGRG_ZOdjpOo42T89Bb1gwwFvkGl/view?usp=sharing
 
 * [Over een infectie](#over-een-infectie)
 * [Waardoor krijg je een infectie?](#Waardoor-krijg-je-een-infectie)
