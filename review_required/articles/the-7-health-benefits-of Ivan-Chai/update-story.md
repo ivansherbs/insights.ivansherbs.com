@@ -349,7 +349,7 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken.
 
 Wij zullen dat zeker ook doen.
 
-behandeling| [Hoe vaak en wanneer?](#Hoe-vaak-en-wanneer-drink-je-Ivan-Chai-tegen-een-probleem)
+behandeling| [Hoe vaak en wanneer?](#Hoe-vaak-en-wanneer)
 
 <br>
 
@@ -675,7 +675,7 @@ Ivan was de oudste van de expeditie groep. Michael was gefascineerd door het doo
 <br>
 
 https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
-### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
+### "Hoe vaak en wanneer?"
 
 behandeling| **Ivan Chai**
 
