@@ -62,9 +62,13 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
 
 * [Over een slijmbeursontsteking](#Over-een-slijmbeursontsteking)
+
 * [Waardoor krijg je een slijmbeursontsteking?](#Waardoor-krijg-je-een-slijmbeursontsteking)
+
 * [Welke symptomen duiden op een slijmbeursontsteking?](#Welke-symptomen-duiden-op-een-slijmbeursontsteking)
+
 * [Welke farmaceutische medicijnen behandelen een slijmbeursontsteking?](#Welke-farmaceutische-medicijnen-behandelen-een-slijmbeursontsteking)
+
 * [Waarom Ivan Chai](#waarom-ivan-chai)
 
 ### Over een slijmbeursontsteking
