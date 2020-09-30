@@ -167,96 +167,12 @@ Bij deze nóg een tip!
 
 Voorkom de uitdroging door het drinken van Ivan Chai. 
 
-En profiteer van de 7 voordelen! 
-
 ### Waarom Ivan Chai?
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt.
 
-Een oud Russisch gezegde uit de 17de eeuw luidt als volgt.
+**Ivan Chai verzorgt het spijsverteringsstelsel**
 
-_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
+Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Denk aan Gastritis en Colitis, maar ook een maagzweer kan worden behandelt door het drinken van Ivan Chai.
 
-Uiteraard hadden de Russen destijd geen verstand van de farmaceutische industrie. Wel wisten ze dat geneeskrachtige kruiden werden geoogst en verspreid vanuit Siberië. Door monniken in samenwerking met landarbeiders. Van deze geneeskrachtige kruiden kon thee worden gezet.
+* Ivan Chai helpt je om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. 
 
-Denk aan Ivan Chai.
-
-Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk alledaags product wat gebruikt kan worden alternatief of aanvulling op farmaceutische medicijnen.
-
-> Drink Ivan Chai preventief of ter behandeling tegen buikgriep.
-
-In andere woorden, drink Ivan Chai preventief tegen problemen. Of drink het als aanvulling op farmaceutische medicijnen.
-
-Om bijwerkingen te bestrijden. Voor een gezonder lichaam en een sterkere geest.
-
-De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency, gevestigd te Amsterdam.
-
-Kortweg EMA.
-
-Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen. Kruiden met geneeskrachtige werking vallen hier ook onder.
-
-Wanneer we kijken naar Ivan Chai, wordt ook wel de de Latijnse benaming Epilobium Angustifolium gebruikt.
-
-De bevindingen zijn als volgt.
-
-1.
-> Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Gastritis en Colitis kunnen allemaal worden verholpen door het drinken van Ivan Chai. Oók kan een maagzweer worden behandelt met Ivan Chai.
-
-2.
-> Ivan Chai helpt je om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom.
-
-3.
-> Kleine darmparasieten kunnen zelfs worden geëlimineerd door grote hoeveelheden Ivan Chai te drinken.
-
-Hedendaagse onderzoeken bevestigd hierbij het eeuwenoude gezegde. Namelijk dat het verstandig is je lichaam en geest dagelijks te verzorgen met kruidenthee uit Siberië.
-
-Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
-
-Goed om te weten.
-
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
-
-Om de 7 voordelen nog even kort te benoemen.
-
-### Ivan Chai
-> 1. Versterkt de weerstand <br>
-> 2. Krachtige ontstekingsremmer <br>
-> 3. Versterkt de antioxiderede werking <br>
-> 4. Verbetert de nachtrust <br>
-> 5. Vermindert de kans op stress, angst en een burnout <br>
-> 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
-> 7. Verzorgt het spijsverteringsstelsel
-
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine.
-
-**Let op!**
-
-Ivan Chai is een Siberische kruidenthee. Een eenvoudig én natuurlijk alledaags product.
-
-Benieuwd naar een behandeling tegen buikgriep?
-
-Lees onderstaande blog.
-
-
-# Ivan’s Insights
-
-_”Een blog om 17 alledaagse problemen bespreekbaar te maken”_
-
-https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
-### Ontdek de 7 voordelen
-
-artikel| **Ivan Chai**
-
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
-
-[Ontdek meer inzichten](#)
-
-https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
-### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
-
-behandeling| **Ivan Chai**
-
-In het algemeen geven de onderstaande doseringen voldoende resultaat…
-
-[Ontdek meer inzichten](#)
-
-
+In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm. 
