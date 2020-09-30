@@ -190,14 +190,20 @@ Beide goed voor je relatie!
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een urineweginfectie. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/1H05NjEg8ZDrRS7PkIZ3bMKHhti2Lm2hw/view?usp=sharing
 
 * [Over een urineweginfectie](#over-een-urineweginfectie)
+
 * [Hebben zowel mannen als vrouwen last van dit probleem?](#Hebben-zowel-mannen-als-vrouwen-last-van-dit-probleem)
+
 * [Waarom is dit probleem van invloed op de kwaliteit van je leven?](#Waarom-is-dit-probleem-van-invloed-op-de-kwaliteit-van-je-leven)
+
 * [Komt een urineweginfectie dan alleen door seks?](#Komt-een-urineweginfectie-dan-alleen-door-seks)
+
 * [Hoe komen ongewenste bacteriën in je lichaam?](#Hoe-komen-ongewenste-bacterien-in-je-lichaam)
+
 * [Zijn er bepaalde risicofactoren?](#Zijn-er-bepaalde-risicofactoren)
+
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
 ### Over een urineweginfectie
@@ -213,15 +219,13 @@ Na verloop van tijd kan een blaasontsteking zich verplaatst naar de hogere urine
 
 ### Hebben zowel mannen als vrouwen last van dit probleem?
 
-Bij vrouwen komt een urineweginfectie het meest voor. 
+Ja. Echter komt bij vrouwen een urineweginfectie het meest voor.
 
-Gelukkig voor mannen bijna nooit.
+* Circa 20% van de vrouwen heeft hier jaarlijks mee te maken!
 
 Vrouwen hebben nou eenmaal vaak last van een blaasontsteking. Dit begint bij vrouwen vanaf 12 jaar. 
 
-Om de statistieken er even bij te pakken:
-
-* Circa 20% van de vrouwen heeft hier jaarlijks mee te maken!
+Gelukkig voor mannen hebben ze hier bijna nooit last van. 
 
 ### Waarom is dit probleem van invloed op de kwaliteit van het leven?
 De grootste risicofactor voor het krijgen van een blaasontsteking is seks. 
