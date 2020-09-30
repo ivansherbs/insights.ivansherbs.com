@@ -153,7 +153,10 @@ En het gebruik van eenvoudige natuurlijke behandelingen, zoals Ivan Chai.
 
 ### Waarom Ivan Chai?
 
-**Ivan Chai vermindert de kans op stress, angst en een burn-out**
+**Ivan Chai vermindert de kans op stress**
+
+* Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
+Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
 Stress is een ware sluipmoordenaar. 
 
@@ -162,6 +165,3 @@ Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortis
 Goed om te weten. Een beetje stress is oké. Het zorgt ervoor dat je erg gefocust en actief bent. 
 
 Leer stress tijdig herkennen. En controleer hiermee een lichte mate van stress om problemen te voorkomen. 
-
-* Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
-Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
