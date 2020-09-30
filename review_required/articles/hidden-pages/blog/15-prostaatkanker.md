@@ -98,8 +98,6 @@ Ivan Chai bevat meerdere voordelen die niet alleen de gezondheid van de prostaat
 
 * Ivan Chai versterkt de anti-tumoractiviteit.
 
-*Let op!**
-
 Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En dus de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
 
 * Het antitumor effect is echter wél goed bestudeerd. Het heeft met name een positieve werking op gezonde prostaatcellen.
