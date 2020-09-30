@@ -156,14 +156,6 @@ Wanneer je farmaceutische medicijnen gebruikt tegen een prostaatonsteking, kun j
 
 **Ivan Chai verzorgt de gezondheid van de prostaat**
 
-Prostaatklachten zijn een veelvoorkomend probleem.
-
-30% van de mannen van 50 jaar en ouder heeft prostaatklachten.
-
-Gelukkig kunnen deze klachten preventief worden behandelt. In andere woorden, de kans dat jij met prostaatklachten rondloopt kan worden vermindert. 
-
-Er is met name gebruik gemaakt van grootschalig klinisch onderzoek om aan te tonen dat Ivan Chai werkt tegen verschillende prostaatklachten. 
-
 De bevindingen van langdurig klinisch onderzoek hebben het volgende aangetoond.
 
 * Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
