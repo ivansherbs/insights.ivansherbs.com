@@ -176,86 +176,16 @@ Uit recentelijk onderzoek is het volgende gebleken. Een groot deel van de slapel
 * beeldschermgebruik voor het slapen gaan
 * en farmaceutische medicijnen
 
-
 ### Waarom Ivan Chai?
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt.
 
-Een oud Russisch gezegde uit de 17de eeuw luidt als volgt.
+**Ivan Chai verbetert de nachtrust**
 
-_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
+Slaapproblemen hebben meer impact op je leven dan op het eerste gezicht lijkt. 
 
-Uiteraard hadden de Russen destijd geen verstand van de farmaceutische industrie. Wel wisten ze dat geneeskrachtige kruiden werden geoogst en verspreid vanuit Siberië. Door monniken in samenwerking met landarbeiders. Van deze geneeskrachtige kruiden kon thee worden gezet.
+Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie én bent lusteloos. Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend probleem is op de werkvloer. 
 
-Denk aan Ivan Chai.
+Een goede nachtrust helpt je lichaam en geest om te herstellen. En zorgt ervoor dat je overdag productiever bent. Het drinken van Siberische kruidenthee kan helpen bij dit probleem. 
 
-Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk alledaags product wat gebruikt kan worden alternatief of aanvulling op farmaceutische medicijnen.
+* Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen.
 
-> Drink Ivan Chai preventief of ter behandeling tegen slaapproblemen.
-
-In andere woorden, drink Ivan Chai preventief tegen problemen. Of drink het als aanvulling op farmaceutische medicijnen.
-
-Om bijwerkingen te bestrijden. Voor een gezonder lichaam en een sterkere geest.
-
-De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency, gevestigd te Amsterdam.
-
-Kortweg EMA.
-
-Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen. Kruiden met geneeskrachtige werking vallen hier ook onder.
-
-Wanneer we kijken naar Ivan Chai, wordt ook wel de de Latijnse benaming Epilobium Angustifolium gebruikt.
-
-De bevindingen zijn als volgt.
-> Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen.
-In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. 
-
-Hedendaagse onderzoeken bevestigd hierbij het eeuwenoude gezegde. Namelijk dat het verstandig is je lichaam en geest dagelijks te verzorgen met kruidenthee uit Siberië.
-
-Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
-
-Goed om te weten.
-
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
-
-Om de 7 voordelen nog even kort te benoemen.
-
-### Ivan Chai
-> 1. Versterkt de weerstand <br>
-> 2. Krachtige ontstekingsremmer <br>
-> 3. Versterkt de antioxiderede werking <br>
-> 4. Verbetert de nachtrust <br>
-> 5. Vermindert de kans op stress, angst en een burnout <br>
-> 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
-> 7. Verzorgt het spijsverteringsstelsel
-
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine.
-
-**Let op!**
-
-Ivan Chai is een Siberische kruidenthee. Een eenvoudig én natuurlijk alledaags product.
-
-Benieuwd naar een behandeling tegen slaapproblemen met Ivan Chai?
-
-Lees onderstaande blog.
-
-
-# Ivan’s Insights
-
-_”Een blog om 17 alledaagse problemen bespreekbaar te maken”_
-
-https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
-### Ontdek de 7 voordelen
-
-Artikel| **Ivan Chai**
-
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
-
-Ontdek meer inzichten
-
-https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
-### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
-
-Behandeling| **Ivan Chai**
-
-In het algemeen geven de onderstaande doseringen voldoende resultaat…
-
-Ontdek meer inzichten
+In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
