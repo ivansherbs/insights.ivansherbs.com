@@ -108,15 +108,6 @@ Het drinken van Ivan Chai kan een aanvulling zijn op de behandeling met farmaceu
 
 **Ivan Chai werkt als een krachtige ontstekingsremmer**
 
-Een ontsteking kun je op veel verschillende manieren oplopen. Voor jou beeldvorming nemen we een paar voorbeelden door. 
-
-* Het intensief beoefenen van sport waarbij delen van het lichaam worden overbelast. 
-* Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. 
-* Je hebt een verhoogt risico op ontstekingen ná een bevalling. 
-* Door gebruik van voorbehoedsmiddelen zoals een spiraaltje. 
-
-Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken. Drink Ivan Chai om de normale gang van zaken te beschermen.
-
 * Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen. 
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen. 
