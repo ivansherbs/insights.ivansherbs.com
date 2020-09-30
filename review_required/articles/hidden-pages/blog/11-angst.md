@@ -164,13 +164,5 @@ Stress werkt als een katalysator op angst. Helemaal dan, worden waarden als vert
 
 **Ivan Chai vermindert de kans op stress, angst en een burn-out**
 
-Stress is een ware sluipmoordenaar. 
-
-Voor je het weet loop je té lang rond met een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom daarom een overmatige hoeveelheid aan langdurige stress.
-
-Goed om te weten. Een beetje stress is oké. Het zorgt ervoor dat je erg gefocust en actief bent. 
-
-Leer stress tijdig herkennen. En controleer hiermee een lichte mate van stress om problemen te voorkomen. 
-
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
