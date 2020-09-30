@@ -162,7 +162,7 @@ Stress werkt als een katalysator op angst. Helemaal dan, worden waarden als vert
 
 ### Waarom Ivan Chai?
 
-**Ivan Chai vermindert de kans op stress, angst en een burn-out**
+**Ivan Chai vermindert de kans op angst**
 
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
