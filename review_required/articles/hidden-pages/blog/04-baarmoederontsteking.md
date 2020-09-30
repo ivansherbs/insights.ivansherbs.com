@@ -105,83 +105,19 @@ De volgende bijwerkingen kunnen optreden - meestal na enkele dagen:
 Het drinken van Ivan Chai kan een aanvulling zijn op de behandeling met farmaceutische medicijnen. 
 
 ### Waarom Ivan Chai?
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt.
 
-Een oud Russisch gezegde uit de 17de eeuw luidt als volgt.
+**Ivan Chai werkt als een krachtige ontstekingsremmer**
 
-_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
+Een ontsteking kun je op veel verschillende manieren oplopen. Voor jou beeldvorming nemen we een paar voorbeelden door. 
 
-Uiteraard hadden de Russen destijd geen verstand van de farmaceutische industrie. Wel wisten ze dat geneeskrachtige kruiden werden geoogst en verspreid vanuit Siberië. Door monniken in samenwerking met landarbeiders. Van deze geneeskrachtige kruiden kon thee worden gezet.
+* Het intensief beoefenen van sport waarbij delen van het lichaam worden overbelast. 
+* Het willen uitvoeren van alledaagse handelingen in combinatie met ouderdom. 
+* Je hebt een verhoogt risico op ontstekingen ná een bevalling. 
+* Door gebruik van voorbehoedsmiddelen zoals een spiraaltje. 
 
-Denk aan Ivan Chai.
+Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken. Drink Ivan Chai om de normale gang van zaken te beschermen.
 
-Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk alledaags product wat gebruikt kan worden alternatief of aanvulling op farmaceutische medicijnen.
+* Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen. 
 
-> Drink Ivan Chai preventief of ter behandeling tegen baarmoederontsteking.
+Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen. 
 
-In andere woorden, drink Ivan Chai preventief tegen problemen. En vergeet niet dat je het óók kunt drinken als aanvulling op farmaceutische medicijnen!
-
-Om bijwerkingen te bestrijden. Voor een gezonder lichaam en een sterkere geest.
-
-De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency, gevestigd te Amsterdam.
-
-Kortweg EMA.
-
-Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen. Kruiden met geneeskrachtige werking vallen hier ook onder.
-
-Wanneer we kijken naar Ivan Chai, wordt ook wel de de Latijnse benaming Epilobium Angustifolium gebruikt.
-
-De bevindingen zijn als volgt.
-> Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen. 
-
-Hedendaagse onderzoeken bevestigd hierbij het eeuwenoude gezegde. Namelijk dat het verstandig is je lichaam en geest dagelijks te verzorgen met kruidenthee uit Siberië.
-
-Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
-
-Goed om te weten.
-
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
-
-Om de 7 voordelen nog even kort te benoemen.
-
-### Ivan Chai
-> 1. Versterkt de weerstand <br>
-> 2. Krachtige ontstekingsremmer <br>
-> 3. Versterkt de antioxiderede werking <br>
-> 4. Verbetert de nachtrust <br>
-> 5. Vermindert de kans op stress, angst en een burnout <br>
-> 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
-> 7. Verzorgt het spijsverteringsstelsel
-
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine.
-
-**Let op!**
-
-Ivan Chai is een Siberische kruidenthee. Een eenvoudig én natuurlijk alledaags product.
-
-Benieuwd naar een behandeling tegen baarmoederontsteking met Ivan Chai?
-
-Lees onderstaande blog.
-
-
-# Ivan’s Insights
-
-_”Een blog om 17 alledaagse problemen bespreekbaar te maken”_
-
-https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
-### Ontdek de 7 voordelen
-
-Artikel| **Ivan Chai**
-
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
-
-Ontdek meer inzichten
-
-https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
-### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
-
-Behandeling| **Ivan Chai**
-
-In het algemeen geven de onderstaande doseringen voldoende resultaat…
-
-Ontdek meer inzichten
