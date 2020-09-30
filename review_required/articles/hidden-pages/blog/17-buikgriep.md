@@ -113,10 +113,15 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 https://drive.google.com/file/d/1IgCEryUDLbFkXy92lN1XAUkOIVoWBCPY/view?usp=sharing
 
 * [Over buikgriep](#over-buikgriep)
+
 * [Wat zijn maagklachten?](#Wat-zijn-maagklachten)
+
 * [Komt dit probleem veel voor?](#Komt-dit-probleem-veel-voor)
+
 * [Wat zijn darmklachten?](#Wat-zijn-darmklachten)
+
 * [Is er ook wel eens sprake van chronische darmklachten?](#Is-er-ook-wel-eens-sprake-van-chronische-darmklachten)
+
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
 ### Over buikgriep
