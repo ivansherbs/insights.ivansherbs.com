@@ -602,7 +602,7 @@ artikel| **Prostaatontsteking**
 <br>
 <br>
 
-https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
+https://drive.google.com/file/d/1sBXXj9X5weqMuLzgNl1KLs-1857xPFTk/view?usp=sharing
 ### Een goedaardige aandoening
 
 artikel| **Vergrote prostaat**
