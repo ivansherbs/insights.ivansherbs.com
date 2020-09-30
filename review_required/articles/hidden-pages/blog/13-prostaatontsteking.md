@@ -152,87 +152,21 @@ Het kan zijn dat door gebruik – van medicijnen - je ook kwetsbaarder bent voor
 
 Wanneer je farmaceutische medicijnen gebruikt tegen een prostaatonsteking, kun je Ivan Chai drinken als aanvulling op deze medicijnen.
 
-
 ### Waarom Ivan Chai?
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt.
 
-Een oud Russisch gezegde uit de 17de eeuw luidt als volgt.
+**Ivan Chai verzorgt de gezondheid van de prostaat**
 
-_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_
+Prostaatklachten zijn een veelvoorkomend probleem.
 
-Uiteraard hadden de Russen destijd geen verstand van de farmaceutische industrie. Wel wisten ze dat geneeskrachtige kruiden werden geoogst en verspreid vanuit Siberië. Door monniken in samenwerking met landarbeiders. Van deze geneeskrachtige kruiden kon thee worden gezet.
+30% van de mannen van 50 jaar en ouder heeft prostaatklachten.
 
-Denk aan Ivan Chai.
+Gelukkig kunnen deze klachten preventief worden behandelt. In andere woorden, de kans dat jij met prostaatklachten rondloopt kan worden vermindert. 
 
-Tegenwoordig zien we Ivan Chai als een eenvoudig én natuurlijk alledaags product wat gebruikt kan worden alternatief of aanvulling op farmaceutische medicijnen.
+Er is met name gebruik gemaakt van grootschalig klinisch onderzoek om aan te tonen dat Ivan Chai werkt tegen verschillende prostaatklachten. 
 
-> Drink Ivan Chai preventief of ter behandeling tegen een prostaatontsteking .
+De bevindingen van langdurig klinisch onderzoek hebben het volgende aangetoond.
 
-In andere woorden, drink Ivan Chai preventief tegen problemen. En vergeet niet dat je het óók kunt drinken als aanvulling op farmaceutische medicijnen!
+* Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
 
-Om bijwerkingen te bestrijden. Voor een gezonder lichaam en een sterkere geest.
-
-De werking van Ivan Chai is door verschillende onafhankelijke instituten onderzocht. Zo ook het European Medicines Agency, gevestigd te Amsterdam.
-
-Kortweg EMA.
-
-Het EMA houdt zich bezig met het verzamelen en beoordelen van wetenschappelijke gegevens over medicijnen. Kruiden met geneeskrachtige werking vallen hier ook onder.
-
-Wanneer we kijken naar Ivan Chai, wordt ook wel de de Latijnse benaming Epilobium Angustifolium gebruikt.
-
-De bevindingen zijn als volgt.
-> Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
-
-Hedendaagse onderzoeken bevestigd hierbij het eeuwenoude gezegde. Namelijk dat het verstandig is je lichaam en geest dagelijks te verzorgen met kruidenthee uit Siberië.
-
-Ivan Chai wordt in Siberië al eeuwen genuttigd vanwege de geneeskrachtige werking.
-
-Goed om te weten.
-
-Onderzoek heeft aangetoond dat je er meerdere problemen mee kunt verzorgen. Dit komt door de vele voordelen die je kunt vinden in Ivan Chai.
-
-Om de 7 voordelen nog even kort te benoemen.
-
-### Ivan Chai
-> 1. Versterkt de weerstand <br>
-> 2. Krachtige ontstekingsremmer <br>
-> 3. Versterkt de antioxiderede werking <br>
-> 4. Verbetert de nachtrust <br>
-> 5. Vermindert de kans op stress, angst en een burnout <br>
-> 6. Verzorgt de gezondheid van de prostaat en urinewegen <br>
-> 7. Verzorgt het spijsverteringsstelsel
-
-Genoeg redenen dus om Ivan Chai op te nemen in je dagelijkse routine.
-
-**Let op!**
-
-Ivan Chai is een Siberische kruidenthee. Een eenvoudig én natuurlijk alledaags product.
-
-Benieuwd naar een behandeling tegen een prostaatontsteking met Ivan Chai?
-
-Lees onderstaande blog.
-
-
-# Ivan’s Insights
-
-_”Een blog om 17 alledaagse problemen bespreekbaar te maken”_
-
-
-https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
-### "Hoe vaak en wanneer drink je Ivan Chai tegen een probleem?"
-
-behandeling| **Ivan Chai**
-
-In het algemeen geven de onderstaande doseringen voldoende resultaat…
-
-[Ontdek meer inzichten]
-
-
-https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
-### Ontdek de 7 voordelen
-
-artikel| **Ivan Chai**
-
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt…
-
-[Ontdek meer inzichten]
+Bijkomend voordeel
+* Ivan Chai gaat óók de groei van de prostaat tegen.
