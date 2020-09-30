@@ -119,11 +119,12 @@ Op zoek naar meer verdieping?
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een vergrote prostaat. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/1NNMBYZTRvfCVLJ9X5NyJC10ILg7r-43v/view?usp=sharing
 
-[**Inzichten**](#inzichten) <br>
 * [Over een vergrote prostaat](#over-een-vergrote-prostaat)
+
 * [Welk effect heeft het gebruik van farmaceutische medicijnen?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
+
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
 ### Over een vergrote prostaat
