@@ -51,7 +51,8 @@ problemen| [Slaapproblemen](#) [Buikgriep](#) [Hart- en vaatziekten](#) [Overmat
 <br>
 <br>
 
-Wil je graag op de hoogte worden gehouden? 
+Blijf op de hoogte! <br> 
+...en krijg 7% korting op je eerste bestelling.
 
 [subscribe email]
 
