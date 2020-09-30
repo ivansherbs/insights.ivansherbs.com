@@ -123,9 +123,13 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 https://drive.google.com/file/d/16_tqOs7fdCiabxK4sFM2MCyWlUXAkVu1/view?usp=sharing
 
 * [Over angst](#over-angst)
+
 * [Hoe ontstaat een gevoel van angst?](#Hoe-ontstaat-een-gevoel-van-angst)
+
 * [Is angst in Nederland een zorgwekkend probleem?](#Is-angst-in-Nederland-een-zorgwekkend-probleem)
+
 * [Zijn er omstandigheden die het gevoel activeren?](#Zijn-er-omstandigheden-die-het-gevoel-activeren)
+
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
 ### Over angst
