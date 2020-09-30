@@ -6,7 +6,7 @@ Publish: IVAN'S INSIGHTS
 ---
 artikel| **Prostaatkanker**
 
-We gaan het nu kort hebben over een heel vervelend probleem. 
+We gaan het nu kort hebben over een heel gevaarlijk probleem. 
 
 Namelijk… 
 
@@ -55,9 +55,8 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 
 Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een prostaatkanker. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
-## Inhoud van dit artikel
+https://drive.google.com/file/d/1hqkfTq3sOLZNmO4T40S1gmG6dqMxGoiQ/view?usp=sharing
 
-[**Inzichten**](#inzichten) <br>
 * [Over prostaatkanker](#over-prostaatkanker)
 * [Hoe kun je prostaatkanker constateren?](#Hoe-kun-je-prostaatkanker-constateren)
 * [Waaom Ivan Chai?](#waarom-ivan-chai)
