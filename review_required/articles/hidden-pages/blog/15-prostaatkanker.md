@@ -58,7 +58,9 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 https://drive.google.com/file/d/1hqkfTq3sOLZNmO4T40S1gmG6dqMxGoiQ/view?usp=sharing
 
 * [Over prostaatkanker](#over-prostaatkanker)
+
 * [Hoe kun je prostaatkanker constateren?](#Hoe-kun-je-prostaatkanker-constateren)
+
 * [Waaom Ivan Chai?](#waarom-ivan-chai)
 
 ### Over prostaatkanker
