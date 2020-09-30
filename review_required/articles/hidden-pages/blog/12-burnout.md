@@ -118,9 +118,13 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 https://drive.google.com/file/d/1xRSR-uCLEo5S5krFPwxqMVBWKyqfmGQM/view?usp=sharing
 
 * [Over een burn-out?](#Over-een-burn-out)
+
 * [Komt dit probleem vaak voor?](#komt-dit-probleem-vaak-voor)
+
 * [Wat heeft een burn-out te maken met stress?](#wat-heeft-een-burn-out-te-maken-met-stress)
+
 * [Is dit dan ook vergelijkbaar met een bore-out?](#is-dit-dan-ook-vergelijkbaar-met-een-bore-out)
+
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
 ### Over een burnout
