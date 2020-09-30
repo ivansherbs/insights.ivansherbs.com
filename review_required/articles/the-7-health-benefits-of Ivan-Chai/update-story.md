@@ -209,9 +209,7 @@ https://drive.google.com/file/d/1bxFOJs2758W4NdoCYsKMyOMZwPbI4is2/view?usp=shari
 Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen. <br>
 **Vrouwen hebben er ook baat bij.**
 
-Ivan Chai is ook te raden tegen urineweginfecties, cystitis, nier- en blaasproblemen.
-
-* Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten van urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat.
+* Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten tegen urineweginfecties. Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat.
 
 Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel.
 
@@ -245,24 +243,29 @@ Ai!
 
 Je moet alweer voor de zoveelste keer naar het toilet. Je maag en darmen gaan wederom als een jekko te keer. 
 
-Het liefst zou je nu weer op 'normale wijze' op de doos willen zitten. Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt. Met een eenvoudig én natuurlijk alledaags product. 
+Het liefst zou je nu weer op 'normale wijze' op de doos willen zitten. Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt. 
 
-Waar je misschien niet van op de hoogte bent is het volgende.
+Met een eenvoudig én natuurlijk alledaags product. 
+
+Waar je misschien niet van op de hoogte bent is het volgende...
 
 Het is te voorspellen wanneer je last gaat krijgen van buikgriep!
 Start met deze kennis een preventieve behandeling met Ivan Chai. Verminder de kans én de symptomen op eenvoudige en natuurlijke wijze.
 
 want.. 
 
-* Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Gastritis en Colitis kunnen allemaal worden verholpen door het drinken van Ivan Chai. Oók kan een maagzweer worden behandelt met Ivan Chai.
+Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Denk aan Gastritis en Colitis, maar ook een maagzweer kan worden behandelt door het drinken van Ivan Chai.
 
-Het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm. 
+* Ivan Chai helpt je om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom.
 
-* Ivan Chai helpt je om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. 
+In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm.
 
+Om de statistieken er nog even bij te pakken. 
 75% van de patiënten van het prikkelbare darmsyndroom is vrouw.
 
-Hiernaast kan je last krijgen van je spijsverteringsstelsel wanneer je veranderingen ondergaan in je dieet. 
+Je kunt last krijgen van je spijsverteringsstelsel wanneer je veranderingen ondergaan in je dieet. Van gezond eten naar fastfood en andersom. 
+
+Of een keer heel erg pittig eten. 
 
 Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten kunnen zelfs worden geëlimineerd door grote hoeveelheden Ivan Chai te drinken.
 
