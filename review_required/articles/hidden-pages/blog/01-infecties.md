@@ -156,7 +156,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 
 ### Waarom Ivan Chai?
 
-Ivan Chai versterkt de weerstand
+**Ivan Chai versterkt de weerstand**
 
 Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf. 
 
