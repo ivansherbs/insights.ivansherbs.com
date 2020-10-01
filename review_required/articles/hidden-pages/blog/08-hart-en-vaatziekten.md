@@ -14,25 +14,31 @@ Deze symbolische betekenis van het hart is zo diep doorgedrongen tot onze maatsc
 
 De innerlijke beleving van verliefd worden, liefde, houden van en verlies zijn hierdoor letterlijk te voelen in je hart. 
 
-Dit fenomeen waarbij het liefhebben van een ander persoon centraal staat is en blijft voor velen een mysterieus verschijnsel. En blijft onderdeel van jouw gehele leven als mens. Van begin tot het einde. 
+Dit fenomeen waarbij het liefhebben van een ander persoon centraal staat is en blijft voor velen een mysterieus verschijnsel... Echter blijft het onderdeel van je gehele leven als mens. 
 
-Of je het nou leuk vindt of niet. 
+Van begin tot het einde. 
+
+Je zult altijd wel ergen van houden, iets lief hebben, ergens om geven...
+
+Of je het nou leuk vindt...
+
+of niet. 
 
 Door de eeuwen heen werd er al door verschillende filosofen hartstochtelijk over gediscussieerd. Denk aan een lijst met namen als Aristoteles, Socrates en Hippocrates. 
 
-Deze heren waren het er destijds al over eens. Het hart en de hersenen zijn de belangrijkste organen van het menselijk lichaam. 
+Deze heren waren het er destijds al over eens. Het hart is één van de belangrijkste organen van het menselijk lichaam. Samen met de hersenen zwaaien zij de scepter. 
 
-Hedendaags onderzoek geeft ze dan ook geen ongelijk. 
+Hedendaags onderzoek geeft ze dan ook géén ongelijk. 
 
-Simpel gezegd hebben je hersenen de mogelijkheid om te denken en te onthouden. De geeft ze de mogelijkheid de rest van je lichaam aan te sturen. Je hersenen zijn hierdoor het controlecentrum van je lichaam. Ze communiceren met ieder orgaan via je zenuwstelsel. Jij ervaart dit bewust of onbewust. 
+Simpel gezegd hebben je hersenen de mogelijkheid om te denken en te onthouden. Dit geeft ze de mogelijkheid de rest van je lichaam aan te sturen. Je hersenen zijn hierdoor het controlecentrum van je lichaam. Ze communiceren met ieder orgaan via je zenuwstelsel. Jij ervaart dit bewust of onbewust. 
 
 Hetzelfde geldt voor je hart.
 
-Het hart is in bezit van een vergelijkbaar controlecentrum. Dat wil zeggen dat het deels  onafhankelijk kan functioneren van je hersenen. Mogelijk gemaakt door een intern mini zenuwstelsel waardoor je deze organen met elkaar kunt vergelijken. 
+Het hart is in bezit van een vergelijkbaar controlecentrum. Mogelijk gemaakt door een intern mini zenuwstelsel waardoor je deze organen vanuit neurologisch perspectief met elkaar kunt vergelijken. 
 
-Hiernaast hebben artsen in de hoek van neurologie en biofysica aangetoond dat er een sterke connectie is gevonden tussen deze organen. Ze houden elkaar middels het zenuwstelsel goed in de gaten. 
+Artsen in de hoek van neurologie en biofysica hebben hiernaast aangetoond dat er een sterke connectie is gevonden tussen deze organen. Ze houden elkaar middels het zenuwstelsel goed in de gaten. 
 
-En communiceren gretig bij het opspelen van gevoelens. 
+En communiceren er gretig op los bij het opspelen van gevoelens. 
 
 In andere woorden, je hart speelt een belangrijke rol in het functioneren van je hersenen. En andersom. 
 
