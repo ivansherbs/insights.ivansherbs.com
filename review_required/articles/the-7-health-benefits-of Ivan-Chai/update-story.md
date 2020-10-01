@@ -53,11 +53,13 @@ Eenvoudige én natuurlijke alledaagse producten met een krachtige werking op het
 Dit geschiedde middels kruidentheeën als Ivan Chai die uiteindelijk...
 
 
-Op zoek naar de grote culturele geschiedenis? 
+Ben je benieuwd naar de grote culturele geschiedenis? 
 
 artikel| [Geschiedenis](#De-culturele-geschiendenis-van-Ivan-Chai)
 
-Lees snel verder en laat je informeren.
+Of...
+
+Lees snel verder en laat je informeren over de bevindingen.
 
 <br>
 
