@@ -276,7 +276,7 @@ problemen| [Buikgriep](#een-voorspelbaar-probleem)
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
 > SIBERIË| Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden in tubes, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
-<br>
+
 <br>
 
 ## Alledaags product tegen 17 problemen 
@@ -372,6 +372,10 @@ _"Door ontdekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_
 Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
 
 Geniet van je overheerlijke kop Ivan Chai.
+
+<br>
+Button -> [Bestel nu]
+<br>
 
 ### Bereidingswijze
 Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
