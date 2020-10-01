@@ -399,12 +399,12 @@ Benieuwd naar de nieuwe smaken die binnenkort uitkomen?
 artikel| [Nieuwe smaken](#nieuwe-smaken)
 
 <br>
-Button -> [Bestel nu]
-<br>
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 > SIBERIË| Ontdek nu zelf de smaak van Ivan Chai. 
+
 <br>
+Button -> [Bestel nu]
 <br>
 
 # Over Ivan's Insights
