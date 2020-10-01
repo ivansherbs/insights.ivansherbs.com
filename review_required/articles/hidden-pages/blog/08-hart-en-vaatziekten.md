@@ -86,7 +86,9 @@ Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over 
 https://drive.google.com/file/d/1pL-XQzOhZQ9sA9vYbB-O6g_YYt4eq9uj/view?usp=sharing
 
 * [Over hart-en vaatziekten](#over-hart-en-vaatziekten)
+
 * [Waardoor krijg je een hart- en vaatziekten?](#Waardoor-krijg-je-een-hart-en-vaatziekten)
+
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
 ### Over hart-en vaatziekten
