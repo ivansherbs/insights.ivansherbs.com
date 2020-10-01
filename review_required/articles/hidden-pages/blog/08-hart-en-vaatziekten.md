@@ -14,7 +14,7 @@ Deze symbolische betekenis van het hart is zo diep doorgedrongen tot onze maatsc
 
 De innerlijke beleving van verliefd worden, liefde, houden van en verlies zijn hierdoor letterlijk te voelen in je hart. 
 
-Dit fenomeen waarbij het liefhebben van een ander persoon centraal staat is en blijft voor velen een mysterieus verschijnsel... Echter blijft het onderdeel van je gehele leven als mens. 
+Dit fenomeen waarbij het liefhebben van een ander persoon centraal staat is en blijft voor velen een mysterieus verschijnsel... Echter blijft dit onderdeel van je gehele leven als mens. 
 
 Van begin tot het einde. 
 
@@ -30,13 +30,15 @@ Deze heren waren het er destijds al over eens. Het hart is één van de belangri
 
 Hedendaags onderzoek geeft ze dan ook géén ongelijk. 
 
-Simpel gezegd hebben je hersenen de mogelijkheid om te denken en te onthouden. Dit geeft ze de mogelijkheid de rest van je lichaam aan te sturen. Je hersenen zijn hierdoor het controlecentrum van je lichaam. Ze communiceren met ieder orgaan via je zenuwstelsel. Jij ervaart dit bewust of onbewust. 
+Simpel gezegd hebben je hersenen de mogelijkheid om te denken en te onthouden. Dit geeft ze de mogelijkheid de rest van je lichaam aan te sturen. Je hersenen zijn hierdoor het controlecentrum van je lichaam. Ze communiceren met ieder orgaan via je zenuwstelsel. 
+
+Jij ervaart dit bewust of onbewust. 
 
 Hetzelfde geldt voor je hart.
 
-Het hart is in bezit van een vergelijkbaar controlecentrum. Mogelijk gemaakt door een intern mini zenuwstelsel waardoor je deze organen vanuit neurologisch perspectief met elkaar kunt vergelijken. 
+Het hart is in bezit van een vergelijkbaar controlecentrum. Mogelijk gemaakt door een zogenaamd intern mini zenuwstelsel waardoor je deze organen vanuit neurologisch perspectief met elkaar kunt vergelijken. 
 
-Artsen in de hoek van neurologie en biofysica hebben hiernaast aangetoond dat er een sterke connectie is gevonden tussen deze organen. Ze houden elkaar middels het zenuwstelsel goed in de gaten. 
+Artsen in de hoek van neurologie en biofysica hebben hiernaast aangetoond dat er een sterke connectie is gevonden tussen deze twee organen. Ze houden elkaar middels het zenuwstelsel goed in de gaten. 
 
 En communiceren er gretig op los bij het opspelen van gevoelens. 
 
@@ -48,13 +50,13 @@ Resumerend.
 
 En terugkijkend naar de liefde die je hebt voor een ander. 
 
-Eigenlijk Is het zo gek nog niet dat je hart even sneller gaat kloppen bij de innerlijke beleving van verliefd worden, liefde, houden van en verlies.
+Het is eigenlijk zo gek nog niet dat je hart even sneller gaat kloppen bij de innerlijke beleving van verliefd worden, liefde, houden van en verlies.
 
-Tot slot hebben hedendaagse onderzoeken aangetoond dat meerdere emoties en gemoedstoestanden van invloed zijn op de snelheid waarmee je hart klopt.
+Tot slot heeft hedendaags onderzoek aangetoond dat meerdere emoties en gemoedstoestanden van invloed zijn op de snelheid waarmee je hart klopt.
 
 Het hart wordt gezien als een graadmeter wanneer bepaalde gevoelens loskomen. 
 
-Bij sommige gevoelens gaan de kloppingen heftiger omhoog dan bij liefde en romantiek. Alleen je merkt het minder snel door het missen van euforie. 
+Bij sommige gevoelens gaan de kloppingen heftiger omhoog dan bij liefde en romantiek. Alleen je merkt het minder snel door het missen van de nodige euforie. 
 
 Denk nu maar eens aan stress, angst en een burn-out.
 
@@ -64,13 +66,15 @@ Bij een periode met intense gevoelens wordt je hart aan het werk gezet. En hoogs
 
 En nu komt het probleem. 
 
-Gedurende deze periode, bestaat de kans dat je hart zonder dat je er erg in hebt een extra marathon loopt. 
+Gedurende deze periode bestaat de kans dat je hart een extra marathon loopt. En dat allemaal zonder dat je er erg in hebt.
 
-Dan mag je jezelf afvragen bij welke leeftijd je lichaam hierbij schade oploopt...
+Dit is schadelijk voor je lichaam.
 
-Wellicht al op jongere leeftijd dan je nu denkt. 
+En nu... 
 
-We nemen bij deze aan dat je de link zelf al hebt gelegd tussen hartkloppingen, bloedvaten, de verbinding met organen, bloeddruk en ziekten die op de loer liggen. 
+voor het gemak...
+
+nemen we aan dat je zelf al de link hebt gelegd tussen hartkloppingen, bloedvaten, de verbinding met organen, bloeddruk en ziekten die op de loer liggen. 
  
 Gezien de complexiteit van alleen al het hart en de verbindende taak van je bloedvaten zijn hart- en vaatziekten moeilijk te herkennen.
 
