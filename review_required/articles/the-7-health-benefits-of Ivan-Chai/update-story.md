@@ -1,32 +1,33 @@
 ---
 layout: article.html
 title: Ontdek de 7 voordelen
-  Author: IVAN'S INSIGHTS
+Publish: Ivan Chai
+  Author: Ivan's herbs
 ---
 
-Ivan´s Herbs| **Ivan Chai**
+Button -> [Bestel nu]
 
-**_"Verzorg je lichaam en geest met kruidenthee uit Siberië"_**
+## "Verzorg je lichaam en geest met kruidenthee uit Siberië"
 
 Ontdek de 7 voordelen van Ivan Chai. 
 
-Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
+1. Versterkt de weerstand
+
+2. Krachtige ontstekingsremmer
+
+3. Versterkt de antioxiderede werking
+
+4. Verbetert de nachtrust
+
+5. Vermindert de kans op stress, angst en een burnout
+
+6. Verzorgt de gezondheid van de prostaat en urinewegen
+
+7. Verzorgt het spijsverteringsstelsel
 
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. 
 
-[1. Versterkt de weerstand](#)
-
-[2. Krachtige ontstekingsremmer](#)
-
-[3. Versterkt de antioxiderede werking](#)
-
-[4. Verbetert de nachtrust](#)
-
-[5. Vermindert de kans op stress, angst en een burnout](#)
-
-[6. Verzorgt de gezondheid van de prostaat en urinewegen](#)
-
-[7. Verzorgt het spijsverteringsstelsel](#)
+Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 <br>
 <br>
@@ -47,7 +48,7 @@ In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische k
 
 Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar. Kennisdeling tussen monniken en landarbeiders geschieden om de verstandshouding te versterken. 
 
-Eenvoudige én natuurlijke alledaagse producten met een krachtige werking op het lichaam, waren vanuit de Siberische monniken dé manier om de harmonie te bewaren. 
+Eenvoudige én natuurlijke alledaagse producten met een krachtige werking op het lichaam, waren vanuit de Siberische monniken de manier om de harmonie te bewaren. 
 
 Dit geschiedde middels kruidentheeën als Ivan Chai die uiteindelijk...
 
@@ -56,7 +57,7 @@ Op zoek naar de grote culturele geschiedenis?
 
 artikel| [Geschiedenis](#De-culturele-geschiendenis-van-Ivan-Chai)
 
-Lees snel verder en ontdek de 7 voordelen.
+Lees snel verder en laat je informeren.
 
 <br>
 
@@ -287,7 +288,7 @@ Om te beginnen brengen kleine veranderingen in alledaagse handelingen hierbij al
 
 Het holistische perspectief bestrijkt namelijk het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand én alle relevante factoren die van invloed zijn op het gedrag. 
 
-De mens wordt in zijn totaliteit benaderd. 
+_"De mens wordt in zijn totaliteit benaderd"_
 
 Wij richten ons hierbij op de lichamelijke, mentale, sociale en emotionele kant. 
 
@@ -316,13 +317,17 @@ Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een 
 
 Denk aan antibiotica, maagzuurremmers en de anticonceptiepil. 
 
-**Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.** Voor een gezonder lichaam én een sterkere geest. Voor het voorkomen van ziekten én verzorgen van problemen. 
+_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen"._
+
+Voor een gezonder lichaam én een sterkere geest. Voor het voorkomen van ziekten én verzorgen van problemen. 
 
 Echter, in tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
 
 In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
-Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. **Iedereen drinkt immers thee.**
+Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. 
+
+_"Iedereen drinkt immers thee"._
 
 Dit stelt jou in de gelegenheid de volgende keuze te maken. 
 
@@ -398,8 +403,6 @@ https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=shari
 
 # Over Ivan's Insights
 _"Een online magazine om 17 alledaagse problemen bespreekbaar te maken"_ 
-
-Ivan's Insights is een online magazine met als doel je snel te informeren over 17 problemen. Deze problemen gaan over je lichaam en geest. En kun je voorkomen of verzorgen middels het drinken van Ivan Chai.  
 
 Ontdek de inzichten en laat je informeren. 
 
@@ -513,11 +516,11 @@ Voorkom dat door ouderdom je slijmbeurzen sneller geïrriteerd raken. Je wil imm
 <br>
 
 https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
-### Zie het tijdig aankomen!
+### Je hart als bakermat van liefde
 
 artikel| **Hart- en vaatziekten**
 
-Zonder dat je er erg in hebt kun je er mee rondlopen. De risicofactoren die de kans vergroten...
+Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. De hedendaagse hartvorm wordt al...
 
 [Ontdek meer inzichten](#)
 
@@ -684,7 +687,7 @@ behandeling| **Ivan Chai**
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat...
 
-[Ontdek meer over Ivan Chai](#)
+[Bekijk de behandeling](#)
 
 <br>
 
@@ -699,7 +702,7 @@ artikel| **Productinnovatie**
 
 Om je alvast een tipje van de sluier te geven over de smaakbeleving inclusief te voorkomen problemen, hieronder een overzicht van de aankomende producten...
 
-[Ontdek meer smaken](#)
+[Bekijk het overzicht](#)
 
 <br>
 
