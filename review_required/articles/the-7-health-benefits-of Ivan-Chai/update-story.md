@@ -375,10 +375,6 @@ Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor je
 
 Geniet van je overheerlijke kop Ivan Chai.
 
-<br>
-Button -> [Bestel nu]
-<br>
-
 ### Bereidingswijze
 Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
 
@@ -398,8 +394,12 @@ Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven t
 
 Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
 
+Benieuwd naar de nieuwe smaken die binnenkort uitkomen? 
+
 artikel| [Nieuwe smaken](#nieuwe-smaken)
 
+<br>
+Button -> [Bestel nu]
 <br>
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
