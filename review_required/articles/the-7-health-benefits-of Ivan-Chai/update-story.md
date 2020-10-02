@@ -306,18 +306,13 @@ De 7 voordelen van Ivan Chai kunnen worden gebruikt tegen 17 problemen.
 Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen én problemen te verzorgen.
 
 Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen.
-
 Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. 
-
-Om maar een kleine opsomming te maken.
 
 Denk aan de bijwerkingen van antibiotica, maagzuurremmers en de anticonceptiepil.
 
 **Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.**
 
-Voor een gezonder lichaam én een sterkere geest. 
-
-Voor het voorkomen van ziekten én verzorgen van problemen.
+Om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 <br>
 
@@ -362,9 +357,7 @@ Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen
 
 **Kies je gevechten.**
 
-Onze klanten kunnen op ons vertrouwen. 
-
-We informeren je over eenvoudige én natuurlijke alledaagse producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
+Onze klanten kunnen op ons vertrouwen. We informeren je over eenvoudige én natuurlijke alledaagse producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
 
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. 
 
