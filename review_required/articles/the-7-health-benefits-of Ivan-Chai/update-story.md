@@ -34,7 +34,7 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 > SIBERIË| De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
 <br>
 <br>
-Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
+Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 1. [Infectie](#voorkom-onnodige-weefselschade) 
 
