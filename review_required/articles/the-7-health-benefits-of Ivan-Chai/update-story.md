@@ -8,6 +8,7 @@ Button -> [Bestel nu]
 
 Verzorg je lichaam en geest met kruidenthee uit Siberië
 
+
 1. Versterkt de weerstand
 
 2. Krachtige ontstekingsremmer
@@ -21,6 +22,7 @@ Verzorg je lichaam en geest met kruidenthee uit Siberië
 6. Verzorgt de gezondheid van de prostaat en urinewegen
 
 7. Verzorgt het spijsverteringsstelsel
+
 
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. 
 
