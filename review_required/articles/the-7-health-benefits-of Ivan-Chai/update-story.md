@@ -299,56 +299,40 @@ https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=shari
 
 <br>
 
-## Alledaags product tegen 17 problemen 
+## Waarom Ivan Chai? 
 
-Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart óók een hoop moeite en energie.
+De 7 voordelen van Ivan Chai kunnen worden gebruikt tegen 17 problemen. 
 
-Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. 
+Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen én problemen te verzorgen.
 
-**"Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen"**
+Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen.
 
-Om te beginnen brengen kleine veranderingen in alledaagse handelingen hierbij al soelaas. Het holistische perspectief kan hierbij houvast bieden voor het doorvoeren van deze veranderingen. Het holistische perspectief bestrijkt namelijk het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand én alle relevante factoren die van invloed zijn op het gedrag. 
+Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. 
 
-**"De mens wordt in zijn totaliteit benaderd"**
+Om maar een kleine opsomming te maken.
 
-Wij richten ons hierbij op de lichamelijke, mentale, sociale en emotionele kant. 
-
-Om deze kanten te versterken liggen er eenvoudige én natuurlijke alledaagse producten voor de hand. 
-
-Deze producten bestaan al eeuwen, echter moet in de moderne samenleving de bewustwording hiervan nog worden gecreëerd. 
-
-Het fijne is dat door de jaren heen dit mede mogelijk is gemaakt door de traditionele kruidengeneeskunde. 
-
-De traditionele kruidengeneeskunde heeft de deur geopend naar gebruik van deze eenvoudige én natuurlijke alledaagse producten. 
-
-Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
-
-<br>
-
-https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
-> SIBERIË| Ivan Chai bevat 7 voordelen tegen 17 problemen.
-<br>
-<br>
-
-**Waarom Ivan Chai als alledaags product?** 
-
-Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen én problemen te verzorgen. 
-
-Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. 
-
-Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een kleine opsomming te maken. 
-
-Denk aan antibiotica, maagzuurremmers en de anticonceptiepil. 
+Denk aan de bijwerkingen van antibiotica, maagzuurremmers en de anticonceptiepil.
 
 **Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.**
 
-Voor een gezonder lichaam én een sterkere geest. Voor het voorkomen van ziekten én verzorgen van problemen. 
+Voor een gezonder lichaam én een sterkere geest. 
 
-Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. 
+Voor het voorkomen van ziekten én verzorgen van problemen.
+
+<br>
+
+
+https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
+> SIBERIË| Ivan Chai bevat 7 voordelen tegen 17 problemen.
+
+<br>
+<br>
+
+Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien.
 
 Iedereen drinkt immers thee.
 
-Dit stelt jou in de gelegenheid de volgende keuze te maken. 
+Dit stelt jou in de gelegenheid de volgende keuze te maken.
 
 **Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**
 
