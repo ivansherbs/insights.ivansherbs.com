@@ -26,10 +26,7 @@ Verzorg je lichaam en geest met kruidenthee uit Siberië
 
 <br>
 
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt. 
-
-Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
-
+"Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt"
 <br>
 <br>
 
@@ -37,34 +34,51 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 > SIBERIË| De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj. 
 <br>
 <br>
+**Waarom Ivan Chai?** <br> 
 Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
 
+1. [Infectie](#voorkom-onnodige-weefselschade) 
 
-[Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
+2. [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) 
+
+3. [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) 
+
+4. [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) 
+
+5. [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) 
+
+6. [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) 
+
+7. [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) 
+
+8. [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) 
+
+9. [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) 
+
+10. [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) 
+
+11. [Angst](#Zie-jij-het-wél-aankomen) 
+
+12. [Burn-out](#Opgeven-is-géén-ptie) 
+
+13. [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) 
+
+14. [Vergrote prostaat](#Een-goedaardige-aandoening) 
+
+15. [Prostaatkanker](#Een-onopgemerkt-probleem) 
+
+16. [Urineweginfectie](#voorkom-relatieproblemen) 
+
+17. [Buikgriep](#een-voorspelbaar-probleem)
 
 <br>
 <br>
 
-## Een kleine geschiedenis...
-
-Het parabel van de Siberische kruidenthee Ivan Chai.
-
-In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met onregelmatige hartkloppingen, rillingen en slapeloosheid tot gevolg. 
-
-Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar. Kennisdeling tussen monniken en landarbeiders geschieden om de verstandshouding te versterken. 
-
-Eenvoudige én natuurlijke alledaagse producten met een krachtige werking op het lichaam, waren vanuit de Siberische monniken de manier om de harmonie te bewaren. 
-
-Dit geschiedde middels kruidentheeën als Ivan Chai die uiteindelijk...
-
-
-Ben je benieuwd naar de grote culturele geschiedenis? 
-
-artikel| [Geschiedenis](#De-culturele-geschiendenis-van-Ivan-Chai)
+Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 <br>
 
-Lees snel verder en laat je informeren over de 7 bevindingen.
+Lees snel verder en laat je informeren over de 7 voordelen.
 
 <br>
 
@@ -288,13 +302,13 @@ https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=shari
 
 ## Alledaags product tegen 17 problemen 
 
-Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
+Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart óók een hoop moeite en energie.
 
-Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen.
+Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. 
 
-Om te beginnen brengen kleine veranderingen in alledaagse handelingen hierbij al soelaas. Het holistische perspectief kan hierbij houvast bieden voor het doorvoeren van deze veranderingen.
+**"Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen"**
 
-Het holistische perspectief bestrijkt namelijk het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand én alle relevante factoren die van invloed zijn op het gedrag. 
+Om te beginnen brengen kleine veranderingen in alledaagse handelingen hierbij al soelaas. Het holistische perspectief kan hierbij houvast bieden voor het doorvoeren van deze veranderingen. Het holistische perspectief bestrijkt namelijk het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand én alle relevante factoren die van invloed zijn op het gedrag. 
 
 **"De mens wordt in zijn totaliteit benaderd"**
 
@@ -317,9 +331,11 @@ https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=shari
 <br>
 <br>
 
-**Waarom Ivan Chai?** 
+**Ivan Chai als alledaags product?** 
 
-Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen én problemen te verzorgen. Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. 
+Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen én problemen te verzorgen. 
+
+Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. 
 
 Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een kleine opsomming te maken. 
 
@@ -329,10 +345,6 @@ Denk aan antibiotica, maagzuurremmers en de anticonceptiepil.
 
 Voor een gezonder lichaam én een sterkere geest. Voor het voorkomen van ziekten én verzorgen van problemen. 
 
-Echter, in tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
-
-In andere woorden, één kop Ivan Chai maakt niet het verschil.
-
 Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. 
 
 Iedereen drinkt immers thee.
@@ -340,6 +352,13 @@ Iedereen drinkt immers thee.
 Dit stelt jou in de gelegenheid de volgende keuze te maken. 
 
 **Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**
+
+Nog even ter informatie... <br> 
+In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
+
+In andere woorden, één kop Ivan Chai maakt niet het verschil.
+
+Op zoek naar meer diepgang? 
 
 interview| [Holistische benadering](#zonder-probleem-bereikte-Ivan-de-top)
 
@@ -354,7 +373,9 @@ https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=shari
 
 Neemt uw tijd te baat te vroeg is beter dan te laat.
 
-We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. 
+We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren...
+
+Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. 
 
 **Kies je gevechten.**
 
@@ -365,6 +386,8 @@ We informeren je over eenvoudige én natuurlijke alledaagse producten die kunnen
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. 
 
 Wij zullen dat zeker ook doen.
+
+Benieuwd naar de mogelijkheden? 
 
 behandeling| [Hoe vaak en wanneer?](#Hoe-vaak-en-wanneer)
 
@@ -407,7 +430,16 @@ Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiters
 
 Benieuwd naar de nieuwe smaken die binnenkort uitkomen? 
 
+<br>
+
 artikel| [Nieuwe smaken](#nieuwe-smaken)
+
+<br>
+
+Blijf op de hoogte!
+...en krijg 7% korting op je eerste bestelling.
+
+[subscribe email]
 
 <br>
 
