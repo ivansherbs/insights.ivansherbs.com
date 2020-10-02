@@ -367,7 +367,7 @@ Ons advies aan de farmaceutische industrie is om te blijven ontdekken.
 
 Wij zullen dat zeker ook doen.
 
-Benieuwd naar de mogelijkheden? 
+Benieuwd naar de dosering tegen problemen? 
 
 behandeling| [Hoe vaak en wanneer?](#Hoe-vaak-en-wanneer)
 
