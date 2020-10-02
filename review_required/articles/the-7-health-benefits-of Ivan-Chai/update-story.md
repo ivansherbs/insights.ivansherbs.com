@@ -1,15 +1,12 @@
 ---
 layout: article.html
-title: Ontdek de 7 voordelen
-Publish: Ivan Chai
-  Author: Ivan's herbs
+title: Ontdek Ivan Chai
+Button -> [Bestel nu]
 ---
 
-Button -> [Bestel nu]
+## Ontdek 7 voordelen
 
-## "Verzorg je lichaam en geest met kruidenthee uit Siberië"
-
-Ontdek de 7 voordelen van Ivan Chai. 
+Verzorg je lichaam en geest met kruidenthee uit Siberië
 
 1. Versterkt de weerstand
 
@@ -38,12 +35,16 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 <br>
 Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. Mede door deze bevinding kun je dit eenvoudige én natuurlijke alledaagse product gebruiken tegen 17 problemen.
 
+
 [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
 
 <br>
 <br>
 
 ## Een kleine geschiedenis...
+
+Het parabel van de Siberische kruidenthee Ivan Chai.
+
 In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai veelvuldig in gebruik hadden genomen. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met onregelmatige hartkloppingen, rillingen en slapeloosheid tot gevolg. 
 
 Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar. Kennisdeling tussen monniken en landarbeiders geschieden om de verstandshouding te versterken. 
@@ -57,9 +58,9 @@ Ben je benieuwd naar de grote culturele geschiedenis?
 
 artikel| [Geschiedenis](#De-culturele-geschiendenis-van-Ivan-Chai)
 
-Of...
+<br>
 
-Lees snel verder en laat je informeren over de bevindingen.
+Lees snel verder en laat je informeren over de 7 bevindingen.
 
 <br>
 
@@ -158,7 +159,7 @@ problemen| [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem)
 <br>
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
-> SIBERIË| Svetlana Petrovayé is één van de vrouwelijke 'tea masters'. _"In Siberië groeien veel soorten kruiden in het wild. Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking."_
+> SIBERIË| _“Onze bosrijke omgeving biedt veel soorten kruiden.”_ vertelt Svetlana Petrovayé. _“Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking."_ aldus de tea master. 
 <br>
 <br>
 
@@ -282,7 +283,8 @@ https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=shari
 <br>
 
 ## Alledaags product tegen 17 problemen 
-_“Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie”_ 
+
+Het voorkomen van problemen draagt niet alleen bij aan je gezondheid... het bespaart ook een hoop moeite en energie.
 
 Voor het versterken van je lichaam en geest zul je veranderingen moeten aanbrengen in je levensstijl. Uiteraard wil je met zo weinig mogelijk veranderingen, zo veel mogelijk resultaat behalen.
 
@@ -290,7 +292,7 @@ Om te beginnen brengen kleine veranderingen in alledaagse handelingen hierbij al
 
 Het holistische perspectief bestrijkt namelijk het lichaam als geheel. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand én alle relevante factoren die van invloed zijn op het gedrag. 
 
-_"De mens wordt in zijn totaliteit benaderd"_
+**"De mens wordt in zijn totaliteit benaderd"**
 
 Wij richten ons hierbij op de lichamelijke, mentale, sociale en emotionele kant. 
 
@@ -319,7 +321,7 @@ Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een 
 
 Denk aan antibiotica, maagzuurremmers en de anticonceptiepil. 
 
-_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen"._
+**"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen"**
 
 Voor een gezonder lichaam én een sterkere geest. Voor het voorkomen van ziekten én verzorgen van problemen. 
 
@@ -333,7 +335,7 @@ _"Iedereen drinkt immers thee"._
 
 Dit stelt jou in de gelegenheid de volgende keuze te maken. 
 
-_**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**_
+**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**
 
 interview| [Holistische benadering](#zonder-probleem-bereikte-Ivan-de-top)
 
@@ -344,8 +346,9 @@ https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=shari
 <br>
 <br>
 
-# Ivan's conclusie   
-_"Neemt uw tijd te baat te vroeg is beter dan te laat"_
+# Ivan's conclusie  
+
+Neemt uw tijd te baat te vroeg is beter dan te laat.
 
 We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. 
 
@@ -369,13 +372,15 @@ https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=shari
 <br>
 
 # Tot slot
-_"Door ontdekking ontdekt men wat reeds bestond, maar nog niet bekend was..."_
+
+Door ontdekking ontdekt men wat reeds bestond, maar nog niet bekend was...
 
 Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
 
 Geniet van je overheerlijke kop Ivan Chai.
 
 ### Bereidingswijze
+
 Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
 
 Voor een optimale smaakbeleving adviseren wij de Ivan Chai te drinken bij 77 graden Celsius.
@@ -384,10 +389,12 @@ De **smaak** is als volgt te omschrijven:
  
 * "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
 
-_...En hoe zit het met de **geur**?_ <br>
+...En hoe zit het met de **geur**?
+
 * "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
 
 ### Hoe bewaar je Ivan Chai?
+
 Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
 
 Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
@@ -408,7 +415,8 @@ Button -> [Bestel nu]
 <br>
 
 # Over Ivan's Insights
-_"Een online magazine om 17 alledaagse problemen bespreekbaar te maken"_ 
+
+Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
 Ontdek de inzichten en laat je informeren. 
 
