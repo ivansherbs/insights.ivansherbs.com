@@ -308,7 +308,10 @@ Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten 
 Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen.
 Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. 
 
-Denk aan de bijwerkingen van antibiotica, maagzuurremmers en de anticonceptiepil.
+Denk bijvoorbeeld aan...
+* antibiotica
+* maagzuurremmers
+* anticonceptiepil
 
 **Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.**
 
