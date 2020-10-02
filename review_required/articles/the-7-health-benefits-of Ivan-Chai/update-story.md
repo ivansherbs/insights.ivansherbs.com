@@ -331,7 +331,8 @@ Dit stelt jou in de gelegenheid de volgende keuze te maken.
 
 **Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**
 
-Nog even ter informatie... <br> 
+Nog even ter informatie... 
+
 In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
 
 In andere woorden, één kop Ivan Chai maakt niet het verschil.
