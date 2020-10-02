@@ -321,7 +321,7 @@ Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen. Om maar een 
 
 Denk aan antibiotica, maagzuurremmers en de anticonceptiepil. 
 
-**"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen"**
+**Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.**
 
 Voor een gezonder lichaam én een sterkere geest. Voor het voorkomen van ziekten én verzorgen van problemen. 
 
@@ -331,7 +331,7 @@ In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
 Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien. 
 
-_"Iedereen drinkt immers thee"._
+Iedereen drinkt immers thee.
 
 Dit stelt jou in de gelegenheid de volgende keuze te maken. 
 
@@ -352,7 +352,7 @@ Neemt uw tijd te baat te vroeg is beter dan te laat.
 
 We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren. Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. 
 
-Kies je gevechten.
+**Kies je gevechten.**
 
 Onze klanten kunnen op ons vertrouwen. 
 
