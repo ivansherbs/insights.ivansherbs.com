@@ -73,7 +73,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 <br>
 <br>
 
-Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
+Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. 
 
 <br>
 
