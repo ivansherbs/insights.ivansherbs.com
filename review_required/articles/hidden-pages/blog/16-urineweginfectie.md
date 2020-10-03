@@ -44,7 +44,13 @@ Klinkt ingewikkeld of niet?
 
 Heel eenvoudig uitgelegd kan het zijn dat fysieke problemen een gevolg zijn van mentale problemen. 
 
-En visa versa! Van onder naar boven! En van top tot teen! 
+En visa versa! 
+
+Van onder naar boven! 
+
+Van links naar rechts! 
+
+En van top tot teen! 
 
 Laten we eerst even een top 7 aan oorzaken van relatieproblemen doornemen. 
 
