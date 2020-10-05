@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Thee leuten: je kunt niet vroeg genoeg beginnen
+title: Theeleuten: je kunt niet vroeg genoeg beginnen
 Publish: IVAN'S INSIGHTS
   Author: Ivan Alexandrovitsj (63)
 ---
