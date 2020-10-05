@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: 'Runners high' versus een peesontsteking
+title: Runners high versus Ontstoken pees
 Publish: IVAN'S INSIGHTS
   Author: Ivan Alexandrovitsj (63)
 ---
