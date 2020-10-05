@@ -436,7 +436,65 @@ Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
 Ontdek de inzichten en laat je informeren. 
 
-problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
+## Versterkt de weerstand
+
+1. [Infectie](#voorkom-onnodige-weefselschade)
+
+2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
+
+3. [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
+
+## Krachtige ontstekingsremmer
+
+4. [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan)
+
+5. [Keelontsteking](#De-man-zonder-hamer)
+
+6. [Pees ontsteking](#Runners-high-versus-een-peesontsteking)
+
+7. [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten)
+
+## Versterkt de antioxiderede werking
+
+8. [Hart- en vaatziekten](#Zie-het-tijdig-aankomen)
+
+## Verbetert de nachtrust
+
+9. [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem)
+
+## Vermindert de kans op stress, angst en een burnout
+
+10. [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt)
+
+11. [Angst](#Zie-jij-het-wél-aankomen)
+
+12. [Burn-out](#Opgeven-is-géén-optie)
+
+## Verzorgt de gezondheid van de prostaat en urinewegen
+
+13. [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat)
+
+14. [Vergrote prostaat](#Een-goedaardige-aandoening)
+
+15. [Prostaatkanker](#Een-onopgemerkt-probleem)
+
+16. [Urineweginfectie](#voorkom-relatieproblemen)
+
+## Verzorgt het spijsverteringsstelsel
+
+17. [Buikgriep](#Buikkrampen-zijn-een-voorspelbaar-probleem)
+
+## Soortgelijke artikelen 
+
+[Interview](#zonder-probleem-bereikte-Ivan-de-top)
+
+[Behandeling](#Hoe-vaak-en-wanneer)
+
+[Nieuwe smaken](#nieuwe-smaken)
+
+[Geschiedenis](#de-geschiedenis-van-ivan-chai)
+
+<br>
 
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
