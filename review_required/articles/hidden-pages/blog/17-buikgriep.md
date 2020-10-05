@@ -1,51 +1,92 @@
 ---
 layout: article.html
-title: Een voorspelbaar probleem
+title: Buikkrampen zijn een voorspelbaar probleem
 Publish: IVAN'S INSIGHTS
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Buikgriep**
 
-Wist je dat je het krijgen van buikgriep vaak kunt voorspellen?
+Lief dagboek,
+
+Vandaag was voor mij weer een hele vervelende dag. 
+
+Ik had wederom last van mijn buik. 
+
+Dit keer was het niet de zware menstruatiepijn waar ik óók altijd last van heb. 
+
+Dit keer komt het denk ik door de anticonceptiepil. 
+
+Ik wil helemaal nog geen kinderen. 
+
+Of beter nog. Misschien zelfs geen. 
+
+Waar ik het dus eigenlijk over wil hebben is het volgende. 
+
+Ik heb wéér last van mijn buik. Wat ik dus denk is dat ik mijn hormoonhuishouding flink door de war aan het schudden ben. 
+
+Ik heb dus geen zin om te stoppen met de anticonceptiepil maar ook wil ik geen condoom gebruiken. 
+
+Wat ik dus merk is dat ik nu dus extra vaak last heb van mijn buik. 
+
+Door de anticonceptiepil. 
+
+Hierdoor heb ik dus buikkrampen. En komt het er vaak uitzetten. 
+
+Bah! 
+
+Het is verschrikkelijk. 
+
+Hier wil ik dus vanaf maar ik heb geen idee hoe. 
+
+En of ik er makkelijk vanaf kan komen. 
+
+Want ik wil niet overstappen naar een spiraaltje. Of condooms. 
+
+Wat zou jij doen?
+
+Liefs. 
+
+### Wist je dat je het krijgen van buikkrampen vaak kunt voorspellen?
 
 Wat je dus eigenlijk doet is gewoon even in de toekomst kijken.
 
-We gaan je deze truc ook even leren. 
+We gaan je deze truc ook even leren.
 
-Wel zo makkelijk. 
+Wel zo makkelijk.
 
 Dit doe je door gewoon even logisch na te denken wat voor periode er voor de boeg staat.
 
-We geven je bij deze even wat hou vast mee zodat ook jij in de toekomst kunt kijken. 
-Hierdoor kun je de kans op darmklachten die zorgen voor nare situaties verminderen. 
+We geven je bij deze even wat hou vast mee zodat ook jij in de toekomst kunt kijken.
 
-Dit doen we in de vorm van 3 tips. 
+Hierdoor kun je de kans op darmklachten die zorgen voor nare situaties verminderen.
 
-**Tip 1.** 
+Dit doen we in de vorm van 3 tips.
 
-Laten we beginnen bij te bedenken of je farmaceutische medicijnen gebruikt? 
+**Tip 1.**
 
-Vooral voor vrouwen raden we aan onderstaande tip helemaal te lezen. 
+Laten we beginnen bij te bedenken of je farmaceutische medicijnen gebruikt?
+
+Vooral voor vrouwen raden we aan onderstaande tip helemaal te lezen.
 
 Hierbij vermelden we nadrukkelijk FARMACEUTISCHE medicijnen. Deze zijn vanwege de krachtige werking vaak van invloed op je spijsverteringsstelsel.
 
 We noemen een aantal voorbeelden.
 
-Denk aan een antibiotica kuur! 
+Denk aan een antibiotica kuur!
 
-  - Door het gebruik van antibiotica kan je darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een antibioticakuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geAssocieerde Diarree - AAD. AAD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt acht weken na de kuur nog last had van diarree. 
+  - Door het gebruik van antibiotica kan je darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een antibioticakuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geAssocieerde Diarree - AAD. AAD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt acht weken na de kuur nog last had van diarree.
 
-Ter info. 
+Ter info.
 
 Antibiotica gaat in Nederland al circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
 Maar denk ook aan farmaceutische medicijnen die alleen worden gebruikt door **vrouwen**.
 
-Deze farmaceutische medicijnen staan erom bekend de hormoonhuishouding flink door de war te kunnen schoppen! 
+Deze farmaceutische medicijnen staan erom bekend de hormoonhuishouding flink door de war te kunnen schoppen!
 
-Wat van invloed is op je spijsverteringsstelsel. 
+Wat van invloed is op je spijsverteringsstelsel.
 
-Je kunt nu vast al raden welke medicijnen. 
+Je kunt nu vast al raden welke medicijnen.
 
 Denk aan medicijnen als de anticonceptiepil en de morning-afterpil.
 
@@ -53,13 +94,13 @@ Denk aan medicijnen als de anticonceptiepil en de morning-afterpil.
 
 Laten we ons nu even bedenken of je op vakantie gaat?
 
-Zo ja. 
+Zo ja.
 
 Ga je naar een (sub) tropisch gebied?
 
-Zo ja. 
+Zo ja.
 
-Dan is het verstandig onderstaande even door te nemen. 
+Dan is het verstandig onderstaande even door te nemen.
 
   - Gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland heeft last van reizigersdiarree. In de medische wereld staat deze vorm van darmklachten ook wel bekend als Turista. Turista is een afgeleide van het Spaanse woord toerist. Deze medische term is uiteindelijk gebruikt aangezien reizigers uit verschillende Europese landen na terugkomst uit (sub) tropische Spaanstalige landen veelal te kampen hadden met darmklachten. Naast het woord Turista zijn er minder gangbare termen gebruikt voor het woord reizigersdiarree. Denk hierbij aan Giardiasis en Diárroia Tou Taxidióti.
 
@@ -71,44 +112,44 @@ Als we op deze manier naar buikgriep kijken. Is buikgriep vaak een voorspelbaar 
 
 Met andere woorden, je kunt verwachten dat wanneer je FARMACEUTISCHE medicijnen gebruikt of op vakantie gaat naar (sub) tropisch gebieden, je last gaat krijgen van buikgriep.
 
-Hier kan je dus door heel logisch na te denken al op inspelen. 
+Hier kan je dus door heel logisch na te denken al op inspelen.
 
 Dit maakt buikgriep een voorspelbaar probleem.
 
-Voor we het vergeten! 
+Voor we het vergeten!
 
 **Tip 3.**
 
-Ga je binnenkort op dieet? 
+Ga je binnenkort op dieet?
 
-Buikgriep kan ook worden veroorzaakt door het radicaal veranderen van je dieet. 
+Buikgriep kan ook worden veroorzaakt door het radicaal veranderen van je dieet.
 
-Dit komt minder vaak voor, maar bestaat wel. 
+Dit komt minder vaak voor, maar bestaat wel.
 
-Wanneer de zomer eraan komt gooien veel strandliefhebbers namelijk rigoureus hun dieet om voor hun ideale strandlichaam. Met buikkrampen tot gevolg. 
+Wanneer de zomer eraan komt gooien veel strandliefhebbers namelijk rigoureus hun dieet om voor hun ideale strandlichaam. Met buikkrampen tot gevolg.
 
-Al moeten we ook de realiteit onder ogen zien dat niet alle rigoureuze veranderingen van dieet te zijn voorzien. 
+Al moeten we ook de realiteit onder ogen zien dat niet alle rigoureuze veranderingen van dieet te zijn voorzien.
 
 Het tegenovergestelde kan ook effect hebben op je spijsverteringsstelsel.
 
-Je kunt namelijk ook gewoon heel gezond eten en jezelf eens te buiten gaan aan een snelle vette hap van de snackbar. Of een niet nader te noemen fastfoodketen. 
+Je kunt namelijk ook gewoon heel gezond eten en jezelf eens te buiten gaan aan een snelle vette hap van de snackbar. Of een niet nader te noemen fastfoodketen.
 
 Of je eet iets wat je even niet bent gewend maar wel heel erg lekker vind. Zoals een keer heel erg pittig eten. Hierdoor heeft je maag weer eens iets anders te verduren dan die vegetarische rode bieten wortel burger. Of die overheerlijke licht in kcal spelt vrije verse quinoa salade.
 
-Ook dit kan negatieve gevolgen hebben voor je spijsverteringsstelsel. 
+Ook dit kan negatieve gevolgen hebben voor je spijsverteringsstelsel.
 
 Ja!
 
-Je weet waar we het over hebben. 
+Je weet waar we het over hebben.
 
-Voor het preventief behandelen van buikgriep, geven we je het volgende advies. 
+Voor het preventief behandelen van buikgriep, geven we je het volgende advies.
 
 Denk aan Ivan Chai. Een Siberische kruidenthee.
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent buikgriep te verzorgen.
 
 Mocht je toch onverhoopt een zwaardere vorm van buikgriep oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Op zoek naar meer inzichten? 
+Op zoek naar meer inzichten?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over buikgriep. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
@@ -127,20 +168,20 @@ https://drive.google.com/file/d/1IgCEryUDLbFkXy92lN1XAUkOIVoWBCPY/view?usp=shari
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
 ### Over buikgriep
-Buikgriep is de verzamelnaam voor alle klachten die worden veroorzaakt door een ontsteking van het slijmvlies in het maag-darmstelsel. 
+Buikgriep is de verzamelnaam voor alle klachten die worden veroorzaakt door een ontsteking van het slijmvlies in het maag-darmstelsel.
 
-Farmaceutische medicijnen zijn van invloed op het krijgen van buikgriep. Dit komt omdat de krachtige werking van het medicijn bijvoorbeeld je weerstand aantast. Of je hormoonhuishouding in de war schopt. 
+Farmaceutische medicijnen zijn van invloed op het krijgen van buikgriep. Dit komt omdat de krachtige werking van het medicijn bijvoorbeeld je weerstand aantast. Of je hormoonhuishouding in de war schopt.
 
-Wanneer dit gebeurt kunnen ongewenste onzichtbare indringers makkelijker hun gang gaan. 
+Wanneer dit gebeurt kunnen ongewenste onzichtbare indringers makkelijker hun gang gaan.
 
-Deze ontsteking wordt in de meeste gevallen veroorzaakt door een virus. 
+Deze ontsteking wordt in de meeste gevallen veroorzaakt door een virus.
 
 En zo nu en dan door ongewenste bacteriën.
 
 Nu we weten waardoor je last krijgt van buikgriep, laten we het probleem beter leren begrijpen. En dit problemen opdelen in maag-, en darmklachten.
 
 ### Wat zijn maagklachten?
-We spreken van maagklachten wanneer alleen het maagslijmvlies is ontstoken. Dit noemen we in medische termen Gastritis. 
+We spreken van maagklachten wanneer alleen het maagslijmvlies is ontstoken. Dit noemen we in medische termen Gastritis.
 
 De symptomen variëren van misselijkheid, pijn in de maagstreek, tot een opgeblazen gevoel in combinatie met hoofdpijn.
 
@@ -150,7 +191,7 @@ Van alle Nederlanders heeft 1 op de 4 mensen wel eens last van de maag. Naast Ga
 Voorbeelden van functionele maagklachten zijn een maagzweer, last van brandend maagzuur of een ontstoken maagwand.
 
 ### Wat zijn darmklachten?
-De darmen hebben zo nu en dan ook te kampen met ontstekingen maar dan gericht op het slijmvlies. 
+De darmen hebben zo nu en dan ook te kampen met ontstekingen maar dan gericht op het slijmvlies.
 
 Dit noemen we in medische termen colitis.
 
@@ -162,7 +203,7 @@ De meest voorkomende vorm van darmklachten is het prikkelbare darm syndroom:
 Onderzoek heeft aangetoond dat stress, een gebrek aan vezels, vocht, beweging of een onregelmatig leven behoren tot de oorzaken die leiden tot darmklachten.
 
 Nu even kort nog het volgende verhaal...
-> Er zijn verschillende soorten diarree. Op even een opsomming te maken hebben we acute-, langdurige- en de zeer befaamde reizigersdiarree. Wanneer je last kunt krijgen van deze verschillende soorten diarree is geheel afhankelijk van de situatie waar je jezelf op dat moment in begeeft. Meestal wordt acute diarree veroorzaakt door een bacterie of parasiet. Wanneer we kijken naar een langdurige diarree zijn farmaceutische medicijnen meestal van invloed op je spijsverteringsstelsel. Bij de beroemde (en zeer gevreesde) reizigersdiarree is besmet voedsel, wat dus uiteindelijk is veroorzaakt door een virus of bacterie, meestal de oorzaak. Ook kan dit komen door vervuild water en hoeft voedsel niet altijd de hoofdoorzaak te zijn. We geven je dus ook graag de tip mee om gedestilleerd water te kopen in een fles of flesje. En niet zomaar uit de kraan te drinken. Want dat is in het buitenland meestal niet gefilterd. Wanneer dit niet door beide is veroorzaakt. Kan het ook zijn dat je je eigen handen niet goed hebt gewassen en hiermee in je mond hebt gezeten. Door dit bijvoorbeeld te doen na het aanraken van dieren. Zoals zwerfhonden en katten die je veelal in het buitenland tegenkomt. Wat gelukkig wel overeenkomstig is aan al deze soorten diarree, om verwarring te voorkomen, is de vorm van de ontlasting. Diarree wordt gekenmerkt door een toename in volume, waterigheid of frequentie van de daad. Met daad bedoelen we de stoelgang. De structuur van deze ontlasting is kort en bondig te omschrijven als los en waterig. Waarbij de patiënt over het algemeen moeite heeft deze vorm van ontlasting binnen te houden. Dit is te verklaren door het volgende. Ontlasting bestaat over het algemeen voor 60 tot 90 procent uit water. Bij een overmatige hoeveelheid aan diarree is dit percentage hoger dan wel 90 procent! Wanneer de buikgriep vermindert zal dit percentage, en hiermee ook de vorm van de ontlasting, langzamerhand weer z´n oude vertrouwde vorm aannemen. 
+> Er zijn verschillende soorten diarree. Op even een opsomming te maken hebben we acute-, langdurige- en de zeer befaamde reizigersdiarree. Wanneer je last kunt krijgen van deze verschillende soorten diarree is geheel afhankelijk van de situatie waar je jezelf op dat moment in begeeft. Meestal wordt acute diarree veroorzaakt door een bacterie of parasiet. Wanneer we kijken naar een langdurige diarree zijn farmaceutische medicijnen meestal van invloed op je spijsverteringsstelsel. Bij de beroemde (en zeer gevreesde) reizigersdiarree is besmet voedsel, wat dus uiteindelijk is veroorzaakt door een virus of bacterie, meestal de oorzaak. Ook kan dit komen door vervuild water en hoeft voedsel niet altijd de hoofdoorzaak te zijn. We geven je dus ook graag de tip mee om gedestilleerd water te kopen in een fles of flesje. En niet zomaar uit de kraan te drinken. Want dat is in het buitenland meestal niet gefilterd. Wanneer dit niet door beide is veroorzaakt. Kan het ook zijn dat je je eigen handen niet goed hebt gewassen en hiermee in je mond hebt gezeten. Door dit bijvoorbeeld te doen na het aanraken van dieren. Zoals zwerfhonden en katten die je veelal in het buitenland tegenkomt. Wat gelukkig wel overeenkomstig is aan al deze soorten diarree, om verwarring te voorkomen, is de vorm van de ontlasting. Diarree wordt gekenmerkt door een toename in volume, waterigheid of frequentie van de daad. Met daad bedoelen we de stoelgang. De structuur van deze ontlasting is kort en bondig te omschrijven als los en waterig. Waarbij de patiënt over het algemeen moeite heeft deze vorm van ontlasting binnen te houden. Dit is te verklaren door het volgende. Ontlasting bestaat over het algemeen voor 60 tot 90 procent uit water. Bij een overmatige hoeveelheid aan diarree is dit percentage hoger dan wel 90 procent! Wanneer de buikgriep vermindert zal dit percentage, en hiermee ook de vorm van de ontlasting, langzamerhand weer zijn oude vertrouwde vorm aannemen.
 
 ### Is er ook wel eens sprake van chronische darmklachten?
 Ja. Meer dan 55.000 mensen hebben last van een chronische ontsteking aan de darmwand. In de medische wereld staat deze vorm van ontsteking ook wel bekend als 'Enteritis'.
@@ -171,9 +212,9 @@ De meest voorkomende ontstekingen zijn virale- of bacteriële-, medicatie geïnd
 
 **Eenmaal last van darmklachten.** Let altijd op dat je niet uitdroogt, vooral als diarreeklachten samengaan met overgeven en koorts. Je kunt uitdroging voorkomen door vaak kleine beetjes water te drinken.
 
-Bij deze nóg een tip! 
+Bij deze nóg een tip!
 
-Voorkom de uitdroging door het drinken van Ivan Chai. 
+Voorkom de uitdroging door het drinken van Ivan Chai.
 
 ### Waarom Ivan Chai?
 
@@ -181,6 +222,6 @@ Voorkom de uitdroging door het drinken van Ivan Chai.
 
 Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Denk aan Gastritis en Colitis, maar ook een maagzweer kan worden behandelt door het drinken van Ivan Chai.
 
-* Ivan Chai helpt je om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom. 
+* Ivan Chai helpt je om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom.
 
-In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm. 
+In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm.
