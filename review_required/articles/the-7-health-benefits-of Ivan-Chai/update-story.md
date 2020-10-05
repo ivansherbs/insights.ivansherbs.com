@@ -38,7 +38,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 1. [Infectie](#voorkom-onnodige-weefselschade) 
 
-2. [Luchtweginfectie](#Thee-leuten-je-kunt-niet-vroeg-genoeg-beginnen)
+2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
 3. [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) 
 
@@ -455,7 +455,7 @@ De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook 
 <br>
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
-### Thee leuten: je kunt niet vroeg genoeg beginnen
+### Theeleuten: je kunt niet vroeg genoeg beginnen
 
 artikel| **Luchtweginfectie**
 
