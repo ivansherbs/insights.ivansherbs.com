@@ -30,7 +30,7 @@ Ontdek de inzichten en laat je informeren.
 
 9. [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem)
 
-## Vermindert de kans op stress, angst en een burnout
+## Vermindert de kans op stress, angst en een burn-out
 
 10. [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt)
 
