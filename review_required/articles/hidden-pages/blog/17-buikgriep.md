@@ -134,7 +134,9 @@ Het tegenovergestelde kan ook effect hebben op je spijsverteringsstelsel.
 
 Je kunt namelijk ook gewoon heel gezond eten en jezelf eens te buiten gaan aan een snelle vette hap van de snackbar. Of een niet nader te noemen fastfoodketen.
 
-Of je eet iets wat je even niet bent gewend maar wel heel erg lekker vind. Zoals een keer heel erg pittig eten. Hierdoor heeft je maag weer eens iets anders te verduren dan die vegetarische rode bieten wortel burger. Of die overheerlijke licht in kcal spelt vrije verse quinoa salade.
+Of je eet iets wat je even niet bent gewend maar wel heel erg lekker vind. Zoals een keer heel erg pittig eten. Hierdoor heeft je maag weer eens iets anders te verduren dan die vegetarische rode bieten wortel burger. 
+
+Of die overheerlijke licht in kilocalorieën glutenvrije verse quinoa salade.
 
 Ook dit kan negatieve gevolgen hebben voor je spijsverteringsstelsel.
 
