@@ -174,7 +174,7 @@ JA !!!
 
 HIER GAAN WE DAN !!!
 
->>>KLIK HIER <<<
+[KLIK HIER](#)
 
 En... 
 
