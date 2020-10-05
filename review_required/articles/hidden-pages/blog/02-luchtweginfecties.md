@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+title: Thee leuten: je kunt niet vroeg genoeg beginnen
 Publish: IVAN'S INSIGHTS
   Author: Ivan Alexandrovitsj (63)
 ---
@@ -12,7 +12,7 @@ Meestal kun je er niet veel tegen doen, zoals tijdens de wintermaanden wanneer j
 
 Soms kun je er ook niet veel tegen doen. Je bent bijvoorbeeld ook extra vatbaar voor dit soort problemen bij gebruik van farmaceutische medicijnen.
 
-> Wist je dat… je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers?
+Wist je dat je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers?
 
 Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. 
 
@@ -20,7 +20,9 @@ Dit komt door de ongewenste bijwerkingen van medicijnen. Zo kunnen ze je immuuns
 
 Dus…
 
-Extra voedingsstoffen zijn altijd welkom. Helemaal gedurende de wintermaanden én wanneer je medicijnen gebruikt. Zo houdt je je lichaam en geest zo lang mogelijk gezond.
+Extra voedingsstoffen zijn altijd welkom. 
+
+Helemaal gedurende de wintermaanden én wanneer je medicijnen gebruikt. Zo houdt je je lichaam en geest zo lang mogelijk gezond.
 
 Hetzelfde geldt overigens voor kinderen.
 
