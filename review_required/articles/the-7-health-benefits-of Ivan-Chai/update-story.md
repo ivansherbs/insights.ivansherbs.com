@@ -36,7 +36,7 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 <br>
 Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
-1. [Infectie](#voorkom-onnodige-weefselschade) 
+1. [Infectie](#het-ontzichtbare-leger) 
 
 2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
@@ -58,7 +58,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 11. [Angst](#Zie-jij-het-wél-aankomen) 
 
-12. [Burn-out](#Opgeven-is-géén-ptie) 
+12. [Burn-out](#Opgeven-is-geen-optie) 
 
 13. [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) 
 
@@ -101,7 +101,7 @@ De werking kunnen we als volgt kort omschrijven.
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. 
 Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
-problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
+problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
 
 <br>
 
@@ -438,7 +438,7 @@ Ontdek de inzichten en laat je informeren.
 
 ## Versterkt de weerstand
 
-1. [Infectie](#voorkom-onnodige-weefselschade)
+1. [Infectie](#Het-ontzichtbare-leger)
 
 2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
@@ -498,7 +498,7 @@ Ontdek de inzichten en laat je informeren.
 
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
-### Voorkom onnodige weefselschade
+### Het ontzichtbare leger
 
 artikel| **Infectie**
 
@@ -664,7 +664,7 @@ Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor da
 <br>
 
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
-### Opgeven is géén optie
+### Opgeven is geen optie
 
 artikel| **Burn-out**
 
