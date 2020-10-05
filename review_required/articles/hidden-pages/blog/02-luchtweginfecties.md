@@ -42,7 +42,9 @@ Dit geldt dus ook voor  je kind van 1 jaar met Pseudokroep.
 
 Kortom, je kunt je kinderen niet vroeg genoeg laten kennismaken met eenvoudige én natuurlijke producten die het opnemen van voedingsstoffen bevorderen.
 
-En het geeft jullie ook de gelegenheid samen even te theeleuten met elkaar. Gezellig met opa en oma erbij.
+En dit geeft jullie ook de gelegenheid om samen lekker te theeleuten met elkaar. 
+
+Gezellig met opa en oma erbij.
 
 Om het even van een andere kant te bekijken.
 
