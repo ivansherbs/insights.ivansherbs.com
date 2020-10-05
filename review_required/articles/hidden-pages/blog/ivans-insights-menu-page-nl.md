@@ -24,7 +24,7 @@ Ontdek de inzichten en laat je informeren.
 
 ## Versterkt de antioxiderede werking
 
-8. [Hart- en vaatziekten](#Je-hart-als-bakermat-van-de-liefde)
+8. [Hart- en vaatziekten](#Je-hart-als-bakermat-van-liefde)
 
 ## Verbetert de nachtrust
 
