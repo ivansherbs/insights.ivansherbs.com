@@ -45,7 +45,8 @@ Hierdoor zijn in Nederland slaapstoornissen een groeiend én zorgwekkend problee
 Mede mogelijk gemaakt door een toenemende mate van stress onder de bevolking. Wat letterlijk werkt als katalysator op een slaapprobleem. 
 
 Laten we de statistieken er gelijk even bij pakken.
-> 20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen.
+
+20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen.
 
 Bij kinderen is stress ook één van de oorzaken van slecht slapen. Stress bij kinderen is echter moeilijk te herkennen.
 
