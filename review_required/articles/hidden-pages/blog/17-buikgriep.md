@@ -24,7 +24,7 @@ Waar ik het dus eigenlijk over wil hebben is het volgende.
 
 Ik heb wéér last van mijn buik. Wat ik dus denk is dat ik mijn hormoonhuishouding flink door de war aan het schudden ben. 
 
-Ik heb dus geen zin om te stoppen met de anticonceptiepil maar ook wil ik geen condoom gebruiken. 
+Ik heb dus geen zin om te stoppen met de anticonceptiepil. Maar ook wil ik geen condooms gebruiken. 
 
 Wat ik dus merk is dat ik nu dus extra vaak last heb van mijn buik. 
 
@@ -40,7 +40,7 @@ Hier wil ik dus vanaf maar ik heb geen idee hoe.
 
 En of ik er makkelijk vanaf kan komen. 
 
-Want ik wil niet overstappen naar een spiraaltje. Of condooms. 
+Want ik wil niet overstappen naar een spiraaltje.
 
 Wat zou jij doen?
 
