@@ -18,7 +18,7 @@ Verzorg je lichaam en geest met kruidenthee uit Siberië
 
 4. Verbetert de nachtrust
 
-5. Vermindert de kans op stress, angst en een burnout
+5. Vermindert de kans op stress, angst en een burn-out
 
 6. Verzorgt de gezondheid van de prostaat en urinewegen
 
@@ -462,7 +462,7 @@ Ontdek de inzichten en laat je informeren.
 
 9. [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem)
 
-## Vermindert de kans op stress, angst en een burnout
+## Vermindert de kans op stress, angst en een burn-out
 
 10. [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt)
 
