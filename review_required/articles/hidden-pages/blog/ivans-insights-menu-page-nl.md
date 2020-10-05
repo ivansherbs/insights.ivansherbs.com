@@ -80,7 +80,7 @@ De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook 
 <br>
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
-### Thee leuten: je kunt niet vroeg genoeg beginnen
+### Theeleuten: je kunt niet vroeg genoeg beginnen
 
 artikel| **Luchtweginfectie**
 
