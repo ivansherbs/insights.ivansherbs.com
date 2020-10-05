@@ -50,7 +50,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 7. [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) 
 
-8. [Hart- en vaatziekten](#Je-hart-als-bakermat-van-de-liefde)
+8. [Hart- en vaatziekten](#Je-hart-als-bakermat-van-liefde)
 
 9. [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) 
 
