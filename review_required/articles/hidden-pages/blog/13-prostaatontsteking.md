@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Bescherm de gezondheid van je prostaat
+title: Er is geen touw aan vast te knopen...
 Publish: IVAN'S INSIGHTS
   Author: Ivan Alexandrovitsj (63)
 ---
@@ -10,13 +10,13 @@ Wanneer je ouder wordt weet je dat dagelijkse bezigheden meer tijd gaan kosten. 
 
 Laten we gelijk de statistieken er maar even bijpakken waarom wij dit probleem graag aankaarten bij mannen. 
 
-> 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking.
+30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Problemen bij het plassen kunnen worden veroorzaakt door een prostaatontsteking.
 
 En nu komt gelijk het vervelende aan dit probleem. Dit doen wij in de vorm van een bewering die wij gaan onderbouwen. 
 
-De bewering als volgt.
+De bewering is als volgt.
 
-_Er is geen touw aan vast te knopen of je op latere leeftijd te maken krijgt met een prostaatontsteking._
+"Er is geen touw aan vast te knopen of je op latere leeftijd te maken krijgt met een prostaatontsteking."
 
 Deze bewering onderbouwen wij op de volgende manier. 
 
