@@ -1,6 +1,6 @@
 ---
 layout: article.html
-Title: Je hart als bakermat van de liefde 
+Title: Je hart als bakermat van liefde 
 Publish: IVAN'S INSIGHTS
   Author: Svetlana Petrovayé (37)
 ---
