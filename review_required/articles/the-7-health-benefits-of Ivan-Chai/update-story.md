@@ -38,7 +38,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 1. [Infectie](#voorkom-onnodige-weefselschade) 
 
-2. [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) 
+2. [Luchtweginfectie](#Thee-leuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
 3. [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) 
 
@@ -46,7 +46,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 5. [Keelontsteking](#De-man-zonder-hamer) 
 
-6. [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) 
+6. [Peesontsteking](#Runners-high-versus-een-peesontsteking) 
 
 7. [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) 
 
@@ -455,7 +455,7 @@ De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook 
 <br>
 
 https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
-### Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?
+### Thee leuten: je kunt niet vroeg genoeg beginnen
 
 artikel| **Luchtweginfectie**
 
@@ -516,7 +516,7 @@ Je kent de symptomen maar al te goed wanneer het weer zo ver is...
 
 
 https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
-### De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+### 'Runners high' versus een peesontsteking
 
 artikel| **Peesontsteking**
 
