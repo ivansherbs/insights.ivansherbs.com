@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: De sportblessure wanneer je te vaak én intensief je spieren hebt belasts
+title: 'Runners high' versus een peesontsteking
 Publish: IVAN'S INSIGHTS
   Author: Ivan Alexandrovitsj (63)
 ---
