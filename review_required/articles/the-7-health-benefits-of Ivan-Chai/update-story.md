@@ -46,7 +46,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 5. [Keelontsteking](#De-man-zonder-hamer) 
 
-6. [Peesontsteking](#Runners-high-versus-een-peesontsteking) 
+6. [Peesontsteking](#Runners-high-versus-ontstoken-pees) 
 
 7. [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) 
 
@@ -516,7 +516,7 @@ Je kent de symptomen maar al te goed wanneer het weer zo ver is...
 
 
 https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
-### 'Runners high' versus een peesontsteking
+### Runners high versus Ontstoken pees
 
 artikel| **Peesontsteking**
 
@@ -741,7 +741,7 @@ Om je alvast een tipje van de sluier te geven over de smaakbeleving inclusief te
 <br>
 
 https://drive.google.com/file/d/1HUqEYJ240wZxDkBb-2G6fABELDCxWwBw/view
-### De culturele geschiendenis van Ivan Chai
+### De geschiendenis van Ivan Chai
 
 artikel| **Geschiedenis**
 
