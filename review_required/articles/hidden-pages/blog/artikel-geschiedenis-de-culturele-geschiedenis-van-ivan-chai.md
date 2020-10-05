@@ -40,7 +40,7 @@ De smaak van de Ivan Chai was destijds seizoensgebonden vanwege het fermentatiep
 * In de voorzomer was het gebruikelijk de bladeren van het kruideninfuus zo goed als niet te fermenteren. Hierdoor dronk men in de zomers over het algemeen de licht gefermenteerde groenere versie van Ivan Chai; met een grasachtige bitter zoete smaak. De nazomer zorgde ervoor dat de thee voorraad, zowel bij de elite als het volk, zo goed als mogelijk werd bijgevuld om de winter te overleven. Door deze manier van opslag werd de laatste periode van de wintermaanden gekenmerkt door een zwaar gefermenteerde Ivan Chai. Dit gaf de Siberische kruidenthee een meer aardse en houtagtige, maar ook licht zoete smaak.
 
 **Handel** <br>
-Ivan Chai heeft door het handel drijven meerdere namen verkregen, zoals Kapori Chai, de Russische Pu-Er thee en afgeleide hiervan. 
+Ivan Chai heeft door het drijven van handel meerdere namen verkregen, zoals Kapori Chai, de Russische Pu-Er thee en afgeleide hiervan. 
 
 Het productieproces van Ivan Chai werd door de jaren heen opgeschroeft. Dit gaf de elite de kans om het te introduceren in hun handelsnetwerk; met nieuwe handelscontacten en producten als positief neveneffecten. 
 
