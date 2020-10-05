@@ -12,9 +12,9 @@ Ja!
 
 Maar... huh?! Maar hoe dan? 
 
-Wat bedoel je hier eigenlijk mee?
-
 (aardbei)
+
+Wat bedoel je hier eigenlijk mee?
 
 Gelijk allemaal vragen die door je hoofd heen schieten. 
 
