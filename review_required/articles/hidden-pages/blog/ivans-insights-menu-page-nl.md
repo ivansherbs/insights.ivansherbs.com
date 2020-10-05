@@ -6,7 +6,7 @@ Ontdek de inzichten en laat je informeren.
 
 ## Versterkt de weerstand
 
-1. [Infectie](#voorkom-onnodige-weefselschade)
+1. [Infectie](#Het-ontzichtbare-leger-in-je-intieme-zone)
 
 2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
@@ -65,7 +65,7 @@ Ontdek de inzichten en laat je informeren.
 <br>
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
-### Voorkom onnodige weefselschade
+### Het ontzichtbare leger in je intieme zone
 
 artikel| **Infectie**
 
