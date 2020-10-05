@@ -108,7 +108,11 @@ Ook mannen kunnen last krijgen van deze onzichtbare legers!
 
 Denk nu maar aan een piemel.
 
-….
+…
+
+Een piemel?
+
+Ja een piemel!
 
 Goed zo. 
 
@@ -124,7 +128,9 @@ En zonder dat je er erg in hebt.
 
 Om de statistieken er ook maar even bij te pakken. 
 
-Onderzoek heeft aangetoond dat er 15% kans bestaat dat je schimmels overdraagt. Met seks. 
+Onderzoek heeft aangetoond dat er 15% kans bestaat dat je schimmels overdraagt. 
+
+Met seks. 
 
 Oke..
 
@@ -168,7 +174,7 @@ JA !!!
 
 HIER GAAN WE DAN !!!
 
-[>>>KLIK HIER <<<]
+>>>KLIK HIER <<<
 
 En... 
 
@@ -275,11 +281,13 @@ Dit komt onder andere door de vitamine C die rijkelijk te vinden is in de Ivan C
 
 Vitamine C werkt goed tegen infecties. Het geeft je afweersysteem een boost. Dit laatste wist je al. 
 
-Maar wist je dat Vitamine C je helpt je bloedsuikerspiegel te reguleren?
+Maar wist je dat vitamine C je helpt je bloedsuikerspiegel te verlagen?
 
 Nou en?
 
-Schimmels houden van het suiker in je bloed. Daar leven ze van. Bij het reguleren en verlagen van je bloedsuikerspiegel verminder je de hoeveelheid aan schimmels. (Je kan ze nooit voor een volle 100% uitroeien. Ze horen ook thuis op je lichaam. Zolang ze maar niet de overhand nemen) 
+Schimmels houden van het suiker in je bloed. Daar leven ze van. Bij het verlagen van je bloedsuikerspiegel verminder je de hoeveelheid aan schimmels. 
+
+(Je kan ze nooit voor een volle 100% uitroeien. Ze horen ook thuis op je lichaam. Zolang ze maar niet de overhand nemen) 
 
 En om het allemaal even wat gecompliceerder te maken. 
 
