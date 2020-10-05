@@ -1,8 +1,16 @@
 # Ivan's Insights
 
+https://drive.google.com/file/d/1e2sVUkJABMKdI_icyBDheCLl2yMESYnZ/view?usp=sharing
+
 Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
 Ontdek de inzichten en laat je informeren.
+
+Drink de 7 voordelen van Ivan Chai tegen 17 problemen. 
+
+## Inhoudsopgave
+
+https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 
 ## Versterkt de weerstand
 
@@ -11,6 +19,8 @@ Ontdek de inzichten en laat je informeren.
 2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
 3. [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
+
+https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
 
 ## Krachtige ontstekingsremmer
 
@@ -22,13 +32,19 @@ Ontdek de inzichten en laat je informeren.
 
 7. [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten)
 
+https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
+
 ## Versterkt de antioxiderede werking
 
 8. [Hart- en vaatziekten](#Je-hart-als-bakermat-van-liefde)
 
+https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
+
 ## Verbetert de nachtrust
 
 9. [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem)
+
+https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 
 ## Vermindert de kans op stress, angst en een burn-out
 
@@ -37,6 +53,8 @@ Ontdek de inzichten en laat je informeren.
 11. [Angst](#Zie-jij-het-wél-aankomen)
 
 12. [Burn-out](#Opgeven-is-geen-optie)
+
+https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
 
 ## Verzorgt de gezondheid van de prostaat en urinewegen
 
@@ -48,11 +66,15 @@ Ontdek de inzichten en laat je informeren.
 
 16. [Urineweginfectie](#voorkom-relatieproblemen)
 
+https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
+
 ## Verzorgt het spijsverteringsstelsel
 
 17. [Buikgriep](#Buikkrampen-zijn-een-voorspelbaar-probleem)
 
-## Soortgelijke artikelen 
+https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view
+
+## Relevante artikelen 
 
 [Interview](#zonder-probleem-bereikte-Ivan-de-top)
 
@@ -62,7 +84,7 @@ Ontdek de inzichten en laat je informeren.
 
 [Geschiedenis](#de-geschiedenis-van-ivan-chai)
 
-<br>
+## 17 Problemen 
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 ### Het onzichtbare leger
@@ -319,6 +341,8 @@ Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom
 .................
 <br>
 <br>
+
+## Relevante artikelen
 
 https://drive.google.com/file/d/1ZAACIYC7e3kI8iV3i1ukDcfksB99q7FK/view?usp=sharing
 ### …zonder probleem bereikte Ivan de top
