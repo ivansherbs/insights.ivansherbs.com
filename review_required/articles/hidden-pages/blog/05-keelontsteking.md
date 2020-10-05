@@ -152,17 +152,23 @@ Echter hebben die 3 glazen koud water nog steeds geen effect.
 
 Je denkt even zeer omslachtig na. 
 
-Je blijft staat stil. En komt dan vervolgens ineens uit het niets tot een conclusie. 
+Waardoor het lijkt of de tijd even stil staat... 
+
+...
+
+En komt dan vervolgens ineens uit het niets tot een conclusie. 
 
 ...Inderdaad.
 
 Je gevoel vertelt je dat je wel een lichte keelontsteking moet hebben opgelopen.
 
+Zo. Dat is er uit. 
+
 Ik ga je bij deze dan ook een tip geven waar je de rest van je leven wat aan hebt. 
 
 DE REST VAN JE LEVEN.
 
-Want alsof je geen alcohol meer gaat drinken. 
+Want alsof je géén alcohol meer gaat drinken. 
 
 Tuurlijk wel. 
 
