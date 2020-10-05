@@ -44,7 +44,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 4. [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) 
 
-5. [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) 
+5. [Keelontsteking](#De-man-zonder-hamer) 
 
 6. [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) 
 
@@ -68,7 +68,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 16. [Urineweginfectie](#voorkom-relatieproblemen) 
 
-17. [Buikgriep](#een-voorspelbaar-probleem)
+17. [Buikgriep](#Buikkrampen-zijn-een-voorspelbaar-probleem)
 
 <br>
 <br>
@@ -500,7 +500,7 @@ Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoede
 <br>
 
 https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
-### Wat te gebruiken wanneer antibiotica geen zin heeft?
+### De man zonder hamer
 
 artikel| **Keelontsteking**
 
@@ -681,7 +681,7 @@ Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking! Verdi
 <br>
 
 https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
-### Een voorspelbaar probleem
+### Buikkrampen zijn een voorspelbaar probleem
 
 artikel| **Buikgriep**
 
