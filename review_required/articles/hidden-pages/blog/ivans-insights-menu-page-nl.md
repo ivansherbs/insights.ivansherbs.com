@@ -6,7 +6,7 @@ Ontdek de inzichten en laat je informeren.
 
 ## Versterkt de weerstand
 
-1. [Infectie](#Het-ontzichtbare-leger)
+1. [Infectie](#Het-onzichtbare-leger)
 
 2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
@@ -65,7 +65,7 @@ Ontdek de inzichten en laat je informeren.
 <br>
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
-### Het ontzichtbare leger
+### Het onzichtbare leger
 
 artikel| **Infectie**
 
