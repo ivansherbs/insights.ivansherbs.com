@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Het onzichtbare leger in de intieme zone 
+title: Het onzichtbare leger in je intieme zone 
 Publish: IVAN'S INSIGHTS
   Author: Svetlana Petrovayé (37)
 ---
