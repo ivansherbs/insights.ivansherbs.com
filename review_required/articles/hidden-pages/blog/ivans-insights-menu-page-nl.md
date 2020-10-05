@@ -24,7 +24,7 @@ Ontdek de inzichten en laat je informeren.
 
 ## Versterkt de antioxiderede werking
 
-8. [Hart- en vaatziekten](#Zie-het-tijdig-aankomen)
+8. [Hart- en vaatziekten](#Je-hart-als-bakermat-van-de-liefde)
 
 ## Verbetert de nachtrust
 
@@ -36,11 +36,11 @@ Ontdek de inzichten en laat je informeren.
 
 11. [Angst](#Zie-jij-het-wél-aankomen)
 
-12. [Burn-out](#Opgeven-is-géén-optie)
+12. [Burn-out](#Opgeven-is-geen-optie)
 
 ## Verzorgt de gezondheid van de prostaat en urinewegen
 
-13. [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat)
+13. [Prostaatontsteking](#Er-is-geen-touw-aan-vast-te-knopen)
 
 14. [Vergrote prostaat](#Een-goedaardige-aandoening)
 
@@ -246,7 +246,7 @@ Laten we je maar gelijk vertellen wat er aan de hand is...
 <br>
 
 https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
-### Bescherm de gezondheid van je prostaat
+### Er is geen touw aan vast te knopen...
 
 artikel| **Prostaatontsteking**
 
