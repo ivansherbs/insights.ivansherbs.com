@@ -14,6 +14,8 @@ Maar... huh?! Maar hoe dan?
 
 Wat bedoel je hier eigenlijk mee?
 
+(aardbei)
+
 Gelijk allemaal vragen die door je hoofd heen schieten. 
 
 Goed. 
