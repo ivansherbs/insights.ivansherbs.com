@@ -32,7 +32,7 @@ Opeens is je lichaam fysiek én mentaal helemaal uitgeput. En doe je niets lieve
 
 Emotieloos. 
 
-Waarbij je zelfs je toevlucht probeert te zoeken in series zoals Friends. Ja ook die personen bestaan. Je staat stil in de tweede versnelling. 
+Waarbij je zelfs je toevlucht probeert te zoeken in series zoals Friends. Ja ook die personen bestaan. Je staat letterlijk stil in de tweede versnelling.
 
 Hoe heeft het dan zover kunnen komen? 
 
