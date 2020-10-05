@@ -361,7 +361,7 @@ Nog een reden om Ivan Chai te drinken.
 
 Verminder stress. 
 
-Studies hebben aangetoond dat stress en infecties van invloed op elkaar zijn. 
+Studies hebben aangetoond dat stress en infecties van invloed zijn op elkaar. 
 
 Hoe meer stress je ervaart. Hoe groter de kans op een infectie. 
 
