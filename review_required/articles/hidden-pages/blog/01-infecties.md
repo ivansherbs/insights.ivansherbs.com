@@ -256,12 +256,19 @@ Hoe gaat dit ongeveer in zijn werking?
 
 Dit verdedigen tegen onzichtbare legers doet je afweersysteem. Om je afweersysteem te versterken heb je de juiste voedingsstoffen nodig.
 * Ivan Chai helpt je om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt.
-De werking kan ik als volgt kort omschrijven.
+
+De werking kan ik als volgt omschrijven.
+
 * De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
+
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op infecties vele malen verminderd.
-Weer wat geleerd. 
+
+Weer wat geleerd.
+
 Geinig he?
+
 Maar we zijn er nog niet. 
+
 Weet je waar dit verder door komt?
 
 Dit komt onder andere door de vitamine C die rijkelijk te vinden is in de Ivan Chai. 
