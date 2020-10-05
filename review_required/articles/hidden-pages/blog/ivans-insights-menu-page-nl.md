@@ -58,7 +58,7 @@ Ontdek de inzichten en laat je informeren.
 
 [Behandeling](#Hoe-vaak-en-wanneer)
 
-[Productinnovatie](#nieuwe-smaken)
+[Nieuwe smaken](#nieuwe-smaken)
 
 [Geschiedenis](#de-geschiedenis-van-ivan-chai)
 
