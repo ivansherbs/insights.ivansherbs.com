@@ -22,11 +22,17 @@ Om te beginnen.
 
 Sport zorgt voor een boost van de neurotransmitters... 
 
-Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Bij langdurige sporten verhoog je de waarde van deze stoffen. Met een verandering van je gemoedstoestand tot gevolg. 
+Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Met name bij duursporten verhoog je de waarde van deze stoffen. Met een verandering van je gemoedstoestand tot gevolg. 
 
-Bij een boost van de neurotransmitters hebben we het niet alleen over de befaamde dopamine boost waardoor je meer geluk voelt. Sport zorgt er voor dat ook de serotonine waarde stijgt. Wat weer van groot belang is bij de aanmaak van melatonine. En als reactie hierop stijgt óók nog de endorfine in je lichaam. 
+Bij een boost van de neurotransmitters hebben we het niet alleen over de befaamde dopamine boost waardoor je meer geluk voelt. Sport zorgt er voor dat ook de serotonine waarde stijgt. Wat weer van groot belang is bij de aanmaak van melatonine. 
 
-Goed, om het overzicht te bewaren gaan we snel verder. En houden we het bij deze bij endorfine. 
+En als reactie hierop stijgt óók nog de endorfine in je lichaam. 
+
+Goed.
+
+Om het overzicht niet te verliezen gaan we snel verder. 
+
+En houden we het bij deze bij endorfine. 
 
 Neurotransmitters hebben ieder hun eigenaardigheden. Zo heeft endorfine de eigenaardigheid dat het verslavend werkt. 
 
