@@ -1,4 +1,4 @@
-# Over Ivan's Insights
+# Ivan's Insights
 
 Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
