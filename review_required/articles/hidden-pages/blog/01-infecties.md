@@ -168,7 +168,7 @@ JA !!!
 
 HIER GAAN WE DAN !!!
 
-[>>>KLIK HIER <<<](#https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg)
+[>>>KLIK HIER <<<]
 
 En... 
 
