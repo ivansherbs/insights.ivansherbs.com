@@ -28,7 +28,13 @@ Laat ik het gelijk even duidelijk maken. Dit artikel gaat over een zwak afweersy
 
 Juist.
 
-Niet alleen maar voor. 
+Niet. 
+
+Alleen.
+
+Maar.
+
+Voor. 
 
 Ex-kankerpatienten.
 
@@ -36,7 +42,7 @@ En.
 
 Ouderen.
 
-Dit komt met name door het volgende. 
+Dit is de reden. 
 
 Ik mag hopen dat die al weten wat ik in dit artikel ga vertellen. 
 
