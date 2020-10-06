@@ -46,9 +46,13 @@ Dit is een goedaardig tumor. Het gezwel groeit niet door weefsel heen en valt da
 Ontstaat door een opeenhoping van pigment. Gemiddeld genomen heeft een mens 25 moedervlekken. Echter kunnen Moedervlekken bij blootstelling aan UV-straling uitgroeien tot een agressieve vorm van huidkanker. Deze goedaardige aandoening ontstaat uit het niets.
 Meestal op jonge leeftijd.
 
-Zoals je ziet zijn er tal van goedaardige aandoeningen die al ontstaan op jonge leeftijd. Hier is niets mis mee.
+Zoals je ziet zijn er tal van goedaardige aandoeningen die al ontstaan op jonge leeftijd. 
 
-Het kan wellicht je schoonheidsideaal in de weg zitten.
+Hier is niets mis mee.
+
+Over het algemeen kan je normaal blijven functioneren met een goedaardige aandoening. In sommige gevallen kan het als vervelend worden ervaren. Zoals een wratje tussen je vingers. 
+
+Maar meestal zit het gewoon je schoonheidsideaal in de weg.
 
 Mooi.
 
@@ -59,7 +63,8 @@ Er zijn óók goedaardige problemen die pas op latere leeftijd ontstaan.
 Eén van die problemen is een vergrote prostaat.
 
 Voor jouw beeldvorming over de omvang van dit probleem, hierbij de statistieken.
-> 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat.
+
+* 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat.
 
 Dit probleem kan ernstig van invloed zijn op je dagelijkse bezigheden.
 
