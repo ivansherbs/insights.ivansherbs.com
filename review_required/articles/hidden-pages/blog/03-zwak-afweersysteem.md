@@ -16,7 +16,7 @@ Zo’n kanker gedicht?
 
 Oke nu nog ééntje maar dan voor ouderen. Waarbij we de tekenen van ouderdom belichten. 
 
-“Respect krijgen vanwege grijze haren is een gunst, maar respect verdienen is tegenwoordig een hele kunst, wijsheid komt met de jaren, gelijk de grijze haren, ze horen bij elkander al zie ik soms de vreemdste kleuren bij een ander!”
+“Respect krijgen vanwege grijze haren is een gunst, maar respect verdienen is tegenwoordig een hele kunst. Wijsheid komt met de jaren, gelijk... de grijze haren, ze horen bij elkander... al zie ik soms de vreemdste kleuren bij een ander!”
 
 ...
 
