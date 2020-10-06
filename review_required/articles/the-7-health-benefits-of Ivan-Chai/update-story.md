@@ -40,7 +40,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 
 2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
-3. [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) 
+3. [Zwak afweersysteem](#Alle-kleine-beetjes-helpen) 
 
 4. [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) 
 
@@ -442,7 +442,7 @@ Ontdek de inzichten en laat je informeren.
 
 2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
-3. [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
+3. [Zwak afweersysteem](#Alle-kleine-beetjes-helpen)
 
 ## Krachtige ontstekingsremmer
 
@@ -528,7 +528,7 @@ Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
 <br>
 
 https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
-### Beperk de mate van kwetsbaarheid
+### Alle kleine beetjes helpen...
 
 artikel| **Zwak afweersysteem**
 
