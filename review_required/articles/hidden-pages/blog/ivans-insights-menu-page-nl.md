@@ -18,7 +18,7 @@ https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 
 2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
 
-3. [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
+3. [Zwak afweersysteem](#Alle-kleine-beetjes-helpen)
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
 
@@ -117,7 +117,7 @@ Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
 <br>
 
 https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
-### Beperk de mate van kwetsbaarheid
+### Alle kleine beetjes helpen...
 
 artikel| **Zwak afweersysteem**
 
