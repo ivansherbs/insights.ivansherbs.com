@@ -72,11 +72,9 @@ Maar bij vrouwen is vooral de intieme zone doelwit van deze micro-organismen. Wa
 
 Micro-organismen. 
 
-De woonomgeving die deze micro-organismen kiezen is alles bepalend voor de  hoeveelheid schade die ze zonder moeite kunnen aanrichten.
+De woonomgeving die deze micro-organismen kiezen is alles bepalend voor de schade die ze zonder moeite kunnen aanrichten.
 
-Wanneer de omstandigheden de micro organismen gunstig gezind zijn. Kunnen zij zich makkelijk vermenigvuldigen.
-
-Kijk maar naar de vaginale schimmelinfectie. Vanwege het aangename klimaat blijven zij zich voortplanten. . 
+Wanneer de omstandigheden de micro organismen gunstig gezind zijn. Kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen.
 
 Hierdoor is het een veel voorkomend probleem. Want bij een kleine overtolligheid aan deze micro organismen kunnen ze je al flink te grazen nemen!
 
@@ -100,7 +98,9 @@ Om het niet te wetenschappelijk te maken laat ik de details lekker achterwege.
 
 Waar het om gaat is het volgende.
 
-Man of vrouw… het behandelen van een infectie is een must.
+Man of vrouw… 
+
+Het behandelen van een infectie is een must.
 
 Ja! 
 
@@ -386,11 +386,11 @@ Dus de tip is wederom drink Ivan Chai ;)
 
 Top dit waren dan 3 tips! 
 
-En dan sluit ik graag af met nog een WAARSCHUWING. 
 
-Graag wil ik het nog even hebben over het nemen van een bad. Dit doe ik graag in de vorm van een waarschuwing. 
+Tot slot nog een waarschuwing.
 
-WAARSCHUWING.
+Graag wil ik het nog even hebben over het nemen van een bad. 
+
 
 Schimmels, gist en bacteriën houden net als jij van warm water. Deze micro-organismen verminderen met het nemen van een bad heeft geen zin. 
 
