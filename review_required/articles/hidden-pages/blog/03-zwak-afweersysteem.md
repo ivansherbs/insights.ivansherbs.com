@@ -155,9 +155,10 @@ Bij deze nog even twee voor de hand liggende voorbeelden.
 Om het af te leren. 
 
 **1. Slechte voeding**
-En dit weet je eigenlijk ook wel.
 
-Want door het eten van slechte voeding krijg je slechte bouwstenen binnen. Waardoor je niet anders kan dan een zwak afweersysteem opbouwen. 
+Dit weet je eigenlijk ook wel.
+
+Door het eten van slechte voeding krijg je slechte bouwstenen binnen. Waardoor je niet anders kan dan een zwak afweersysteem opbouwen. 
 
 Hier zullen we in een ander artikel nog wel eens dieper op ingaan. 
 
