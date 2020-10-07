@@ -79,10 +79,10 @@ https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 <br>
 
 <br>
-## Ontdek de 7 voordelen
+
+## Ontdek 7 voordelen
 
 Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd. 
-Lees snel verder en laat je informeren over de 7 voordelen.
 
 <br>
 
