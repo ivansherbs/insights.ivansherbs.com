@@ -257,7 +257,9 @@ problemen| [Buikgriep](#een-voorspelbaar-probleem)
 <br>
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
-> SIBERIË| Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden in tubes, gebeurt buiten Chazhaevka. De reden is als volgt: ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
+> SIBERIË| Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden in tubes, gebeurt buiten Chazhaevka. 
+>
+>De reden is als volgt. Ecodorpen zijn gemeenschappen met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek ver afgelegen van de bewoonde wereld, waar de natuur centraal staat, is hierdoor niet in lijn met de denkwijze van de gemeenschap.
 
 <br>
 <br>
