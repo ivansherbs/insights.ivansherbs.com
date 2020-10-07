@@ -18,8 +18,6 @@ Oke nu nog ééntje maar dan voor ouderen. Waarbij we de tekenen van ouderdom be
 
 “Respect krijgen vanwege grijze haren is een gunst, maar respect verdienen is tegenwoordig een hele kunst. Wijsheid komt met de jaren, gelijk... de grijze haren, ze horen bij elkander... al zie ik soms de vreemdste kleuren bij een ander!”
 
-<br>
-
 Zo.
 
 Welke vind je mooier? 
@@ -68,6 +66,8 @@ En los daarvan.
 
 Het ligt in de lijn der verwachtingen dat iedereen oud wordt. 
 
+<br>
+
 **Ouderen**
 
 Het ligt in de lijn der verwachtingen dat wanneer je ouder wordt bepaalde functies van je lichaam minder goed werken.
@@ -110,6 +110,8 @@ Dit zijn voorbeelden waarbij het herstelproces al enkele maanden in beslag neemt
 In sommige gevallen zelfs jaren. 
 
 Ik bespreek bij deze alleen de ex-patiënten van één ernstige ziekte. 
+
+<br>
 
 **Ex-kankerpatiënten**
 
@@ -162,6 +164,8 @@ En.
 
 Om het af te leren...
 
+<br>
+
 **1. Slechte voeding**
 
 Dit weet je eigenlijk ook wel.
@@ -169,6 +173,8 @@ Dit weet je eigenlijk ook wel.
 Door het constant eten van slechte voeding krijg je slechte bouwstenen binnen. Waardoor je niet anders kan dan een zwak afweersysteem opbouwen. 
 
 Hier zullen we in een ander artikel nog wel eens dieper op ingaan. 
+
+<br>
 
 **2. Roken**
 
