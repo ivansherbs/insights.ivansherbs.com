@@ -319,8 +319,8 @@ https://drive.google.com/file/d/1kaIOxvlPsqvxHnEaY4E4HkZz2LRp2wT-/view?usp=shari
 
 artikel| [Nieuwe smaken](#nieuwe-smaken)
 
-<br>
-## Getuigenissen
+
+**Getuigenissen**
 
 "Lees het artikel over vaginale schimmelinfecties. Mijn partner houdt van de smaak en heeft mij laten weten dat het helpt."
 
