@@ -379,6 +379,7 @@ https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=shari
 
 <br>
 <br>
+## Bijkomende voordelen
 
 Het fijne van dit product is dat bij gebruik jij je levensstijl niet compleet hoeft om te gooien.
 
