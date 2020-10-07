@@ -6,51 +6,35 @@ Publish: IVAN'S INSIGHTS
 ---
 artikel| **Zwak afweersysteem**
 
-Laat ik beginnen met het voordragen van een heel mooi kanker gedicht. 
+Laat ik beginnen met het voordragen van een heel mooi gedicht over kanker. 
 
 “Kanker een klein woordje met zoveel pijn. Bij de één is het gezwel groot en bij de ander klein. Alle energie wordt uit je lichaam gepompt. Het is moeilijk om erover te praten. Er komt een tijd dat degene met kanker je moet verlaten. Sommige hebben geluk dat ze het gezwel kunnen wegsnijden. Andere mensen moeten tot hun dood lijden.”
 
 Mooi he? 
 
-Zo’n kanker gedicht? 
+Zo’n gedicht over kanker? 
 
 Oke nu nog ééntje maar dan voor ouderen. Waarbij we de tekenen van ouderdom belichten. 
 
 “Respect krijgen vanwege grijze haren is een gunst, maar respect verdienen is tegenwoordig een hele kunst. Wijsheid komt met de jaren, gelijk... de grijze haren, ze horen bij elkander... al zie ik soms de vreemdste kleuren bij een ander!”
 
-...
+<br>
 
-Zo dan. 
+Zo.
 
 Welke vind je mooier? 
 
 Laat ik het gelijk even duidelijk maken. Dit artikel gaat over een zwak afweersysteem. Maar is niet alleen geschreven voor ex-kankerpatienten en ouderen. 
 
-Juist.
+De reden is als volgt. 
 
-Niet. 
+Ik mag hopen dat die al op de hoogte zijn over wat ik in dit artikel aan jou ga vertellen. 
 
-Alleen.
-
-Maar.
-
-Voor. 
-
-Ex-kankerpatienten.
-
-En. 
-
-Ouderen.
-
-Dit is de reden. 
-
-Ik mag hopen dat die al weten wat ik in dit artikel ga vertellen. 
-
-Dit artikel is bedoeld voor mensen die een zwak afweersysteem willen voorkomen.
+Dit artikel is dan ook bedoeld voor mensen die een zwak afweersysteem willen voorkomen.
 
 Zodat je jezelf beter kunt voorbereiden op de toekomst. 
 
-Waarbij je hopelijk tot de realisatie komt...
+Waarbij je hopelijk tot de realisatie komt.
 
 Dat alle kleine beetjes helpen. 
 
@@ -58,7 +42,7 @@ En omdat een zwak afweersysteem toch wel vervelende consequenties kan hebben voo
 
 Denk eerst even aan het volgende. 
 
-Soms wordt je gedwongen om er veel tijd en energie in te stoppen. 
+Soms wordt je gedwongen om er veel tijd en energie e stoppen in het versterken van je afweersysteem. 
 
 Gedwongen door kanker. 
 
@@ -74,11 +58,15 @@ Je afweersysteem beschermt je lichaam tegen ziekten.
 
 Jammer genoeg, ben je niet altijd gezegend met een goed afweersysteem. Hierdoor ben je kwetsbaar voor nieuwe problemen. 
 
-Lichamelijke en geestelijke problemen welteverstaan.
+Fysiek en mentaal. 
 
 Laten we voor het gemak op anciënniteit beginnen. Zoals de normen en waarden in ons landje dat toch wel van ons verwachten. 
 
 Heeft te maken met iets als respect. 
+
+En los daarvan. 
+
+Het ligt in de lijn der verwachtingen dat iedereen oud wordt. 
 
 **Ouderen**
 
@@ -115,13 +103,21 @@ Dus door het consumeren van de juiste voedingsstoffen kun je een zwak afweersyst
 1. Wist je dat…?
 * Vitamine c is rijkelijk te vinden in Ivan Chai. Vitamine c geeft je afweersysteem een boost. 
 
-Echter zijn er ook oorzaken waar je je zelf lastig tegen kunt verweren. Je dagelijkse leven kan worden beïnvloed door een ernstige ziekte.
+Echter zijn er ook oorzaken waar je jezelf lastig tegen kunt verweren. Je dagelijkse leven kan worden beïnvloed door een ernstige ziekte. Of een ernstig ongeluk met een opname op de Intensive Care tot gevolg. 
 
-**Ex-kankerpatienten**
+Dit zijn voorbeelden waarbij het herstelproces al enkele maanden in beslag neemt. 
 
-Om te beginnen… We mogen van geluk spreken dat er iets bestaat als chemotherapie. 
+In sommige gevallen zelfs jaren. 
 
-Echter wanneer je bent ‘genezen’ van kanker. Denk dan aan de gevolgen die een chemotherapie heeft op je afweersysteem.
+Ik bespreek bij deze alleen de ex-patiënten van één ernstige ziekte. 
+
+**Ex-kankerpatiënten**
+
+Om te beginnen… 
+
+We mogen van geluk spreken dat er iets bestaat als chemotherapie. 
+
+Echter wanneer je bent ‘genezen’ van kanker. Denk dan aan de consequenties die een chemotherapie heeft op je afweersysteem.
 
 * Van de 800.000 mensen die kanker overleefden ondervindt het grootste deel nog steeds de gevolgen in het dagelijks leven. 
 
@@ -150,21 +146,27 @@ Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van 
 
 Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
-Top. Nu we dit weer wijzer zijn geworden. 
+Top. 
+
+Je bent weer wat wijzer geworden.
 
 Is er ook iets als eigen schuld?
 
+Zo zou je het kunnen noemen. 
+
 Soms kan het ook liggen aan je levensstijl waardoor je een zwak afweersysteem hebt.
 
-Bij deze nog even twee voor de hand liggende voorbeelden.
+Bij deze nog even twee voor de hand liggende voorbeelden. Die je wel in de categorie 'eigen schuld' durft te plaatsen.
 
-Om het af te leren. 
+En. 
+
+Om het af te leren...
 
 **1. Slechte voeding**
 
 Dit weet je eigenlijk ook wel.
 
-Door het eten van slechte voeding krijg je slechte bouwstenen binnen. Waardoor je niet anders kan dan een zwak afweersysteem opbouwen. 
+Door het constant eten van slechte voeding krijg je slechte bouwstenen binnen. Waardoor je niet anders kan dan een zwak afweersysteem opbouwen. 
 
 Hier zullen we in een ander artikel nog wel eens dieper op ingaan. 
 
@@ -176,7 +178,7 @@ Dit valt het makkelijkst te veranderen in vergelijking met de overige oorzaken.
 
 Hoe gaan we je dan ook gewoon niet vertellen.
 
-Los deze puzzel zelf maar op…
+Los deze puzzel zelf maar op.
 
 Tot slot. 
 
