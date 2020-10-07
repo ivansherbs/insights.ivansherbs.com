@@ -6,103 +6,235 @@ Publish: IVAN'S INSIGHTS
 ---
 artikel| **Burn-out**
 
-Oké. Laten we beginnen je iets duidelijk te maken. 
+“...dus ik zei vervolgens ...en nu al helemááál niet meer.
 
-We kunnen het in dit artikel niet vaak genoeg herhalen. 
+Waarom zou ik nu op vakantie willen gaan hahah?
 
-Een burn-out is een gevolg van een lange periode aan geestelijke overbelasting. 
+Ik zit er net zo lekker in. 
 
-Je neemt simpelweg geen pauze. 
+Pauze nemen doen ik wel een andere keer. 
 
-Dan hebben we het niet over je koffie-break of middag lunch. 
+Daar heb ik nu echt even geen zin in. 
 
-Nee, we hebben het over een avondje in de week niet werken. Op tijd naar huis gaan. Een weekend vrij nemen. Of zelfs even met vakantie gaan.
+En dan zien ze meteen hoe ongelooflijk gedreven ik ben.
 
-Gewoon even je hoofd leeg maken. 
+Besides, dan kan ik mijn dagen net zo goed even opsparen. 
 
-Ons advies. Het is verstandig dit dus wel te doen… 
+Of beter gezegd gewoon laten uitbetalen… 
 
-Klinkt vrij simpel of niet?
+Toch?”
 
-Echter ligt dit probleem tussen de oren wel even wat complexer. Laten we dit probleem stap voor stap proberen te begrijpen. 
+...
+
+_“Wat zou jij doen?”_
+
+
+Nou. Om te beginnen. 
+
+Wil ik je graag direct even iets duidelijk maken.
+
+Een burn-out is een gevolg van een lange periode aan fysieke en mentale overbelasting.
+
+Je neemt simpelweg geen pauze.
+
+_“Waar heb je het over...?”_
+
+Ik heb het niet over je koffie-break of middag lunch.
+
+_“Wat dan wel?”_
+
+Nou… Denk eens na.
+
+Denk nu eens een keer ergens anders aan. 
+
+Dan werk.
+
+Ik heb het dus over een avondje in de week niet werken. 
+
+Op tijd naar huis gaan. 
+
+Een weekend vrij nemen. 
+
+Of zelfs even met vakantie gaan.
+
+Gewoon even je hoofd leeg maken.
+
+_“En jou advies is dit dus wel te doen?”_
+
+Het is verstandig dit dus wel te doen…
+
+Klinkt vrij eenvoudig of niet?
+
+Ik snap dat je niet direct deze omslag kunt maken. Want dit probleem ligt tussen de oren wel even wat complexer. 
+
+_“Leg uit...”_
+
+Laten we dit probleem stap voor stap proberen te begrijpen.
 
 Een burn-out ontstaat meestal op de werkvloer. En zonder dat je er erg in hebt is het zover.
 
-Opeens is je lichaam fysiek én mentaal helemaal uitgeput. En doe je niets liever dan thuis op de bank blijven zitten. 
+Opeens is je lichaam fysiek en mentaal helemaal uitgeput. En doe je niets liever dan thuis op de bank blijven zitten.
 
-Emotieloos. 
+Emotieloos.
 
-Waarbij je zelfs je toevlucht probeert te zoeken in series zoals Friends. Ja ook die personen bestaan. Je staat letterlijk stil in de tweede versnelling.
+Waarbij je zelfs je toevlucht probeert te zoeken in series zoals Friends. 
 
-Hoe heeft het dan zover kunnen komen? 
+Ja. 
 
-Je hebt laten zien dat je gedreven, ambitieus en enthousiast bent. Je krijgt veel verantwoordelijkheid. 
+Ook die personen bestaan hahah. Je staat letterlijk stil in de tweede versnelling.
 
-En er is werk in overvloed om jezelf te bewijzen. Je hebt iedere kans met beide handen aangegrepen. 
+En dan vraag je jezelf af. 
+
+Hoe heeft het dan zover kunnen komen?
+
+_“Friends?”_ 
+
+Ja dat ook. 
+
+Maar laten we even on-topic blijven. 
+
+Je hebt laten zien dat je gedreven, ambitieus en enthousiast bent. Je krijgt veel verantwoordelijkheid.
+
+En er is werk in overvloed om jezelf te bewijzen. Je hebt iedere kans met beide handen aangegrepen.
 
 En alle deadlines werk je achter elkaar weg.
 
-De tijd gaat snel. 
+De tijd gaat snel.
 
-Je bent competitief ingesteld waardoor je voor je gevoel nét even iets meer geeft dan jouw collega’s. 
+Je bent competitief ingesteld waardoor je voor je gevoel nét even iets meer geeft dan jouw collega’s.
 
-Je hebt het gevoel dat je echt carrière aan het maken bent. En alles loopt voor je gevoel op rolletjes. 
+Je hebt het gevoel dat je echt carrière aan het maken bent. 
+
+En alles loopt voor je gevoel op rolletjes.
 
 En zonder erover na te denken maak je overuren.
 
-Je wordt geleefd. 
+Je wordt geleefd.
 
 En hebt geen behoefte aan rust.
 
-...want waarom zou je?
+_”...want waarom zou je?”_ 
 
-Wellicht moeilijk te begrijpen wanneer je niet in deze ‘flow’ zit. Maar mensen die een burn-out hebben gehad herkennen het gevoel. 
+Wellicht moeilijk te begrijpen wanneer je juist in deze ‘flow’ zit. Maar mensen die een burn-out hebben gehad herkennen het gevoel.
 
 Opgeven is géén optie.
 
-Je blijft achter elkaar doorgaan. 
+Ik ga er bij deze wat onderzoek bij halen. 
 
-Vergeet niet dat je buiten werk om óók nog sport én avonden uit gaat. Maanden lang gaat het goed. En droom je zelfs van werken. 
+Over een burn-out op de werkvloer.
 
-Je staat van dag tot dag veel te lang in de 5de versnelling. 
+Er zijn verschillende factoren die hierin meespelen. Voor het overzicht gaan we er niet te diep op in. 
 
-Met een burn-out als gevolg.
+Oke? 
 
-En iedereen weet eigenlijk wel hoe je een burn-out voorkomt. Laten we wel wezen. Je hebt er genoeg over gelezen en gehoord. 
+Dat is wel zo makkelijk voor nu.
 
-Je hebt er alleen geen tijd voor om er zelf even bij stil te staan. 
+Samenvattend is een burn-out op de werkvloer met name afhankelijk van een aantal factoren. Het draait om emotionele uitputting. Je kunt jezelf minder goed geestelijk voldoening geven. Oftewel, je gedachten en drang om te werken zitten elkaar in de weg. En je hebt een gebrek aan het behalen van je persoonlijke doelstellingen. 
+
+Dit allemaal bij elkaar kan een heftige mentale reactie losmaken door de cortisol die hierbij vrij komt. 
+
+De cortisol zorgt voor veel adrenaline in je lichaam. Dit heeft ervoor gezorgd dat je eigenlijk wil blijven doorgaan. 
+
+En alles wil afmaken.
+
+Deze periode gaat over het algemeen gepaard met een overmatige hoeveelheid aan stress. 
+
+In andere woorden.
+
+Een burn-out is een gevolg van een lange periode aan fysieke en mentale overbelasting.
+
+Want.
+
+Vergeet niet dat je buiten werk om óók nog sport. En avonden uit gaat. 
+
+Maanden lang gaat het goed. 
+
+En net als jij droomt iedereen die ooit een burn-out heeft gehad zelfs van werken.
+
+Heb je niet in de gaten dat je maar achter elkaar door blijft gaan?
+
+_“Nou nee... hahah“_
+
+Laat ik je dan maar vertellen hoe je een burn-out voorkomt.
+
+Eigenlijk weet je dit al. 
+
+Je hebt er alleen geen tijd voor om er zelf even bij stil te staan.
+
+Je staat de afgelopen tijd van dag tot dag in de 5de versnelling.
+
+Al veel te lang. Maanden op rij. 
 
 Echter.
 
-Nou gaan we je vertellen wat er zo moeilijk aan is. Want dat hoor je niemand je vertellen.
+Nou gaan ik je vertellen wat er zo moeilijk aan is. 
+
+Want dat hoor je niemand je vertellen. 
+
+Dus daarom doe ik het. 
+
+_“Nou… Heel benieuwd.”_ 
 
 Je bent verslaafd.
 
-Aan werken. 
+_“hahah Meen je. Waar aan als ik vragen mag?”_ 
 
-De cortisol zorgt voor veel adrenaline in je lichaam. 
+Aan werken.
 
-Dit heeft ervoor gezorgd dat je wil blijven doorgaan. En alles wil afmaken. 
+...
 
-En nou komt de grap... Er komt geen eind aan werken. 
+En nou komt gelijk de grap... 
 
-De clou gaan we je niet uitleggen. 
+Er komt geen eind aan werken.
 
-Uiteindelijk ben je door het blijven werken opgebrand. 
+Snap je...? 
 
-Je zal in het vervolg een levensstijl moeten vinden waarbij je je energieniveau gelijkmatig uitgespreid over je werk én je privéleven.
+“......”
 
-Waarbij het nemen van rust om je hoofd leeg te maken, óók een plek op de agenda verkrijgt.  
+De clou ga ik je ook gewoon niet uitleggen.
+
+Waar het op neer komt. 
+
+Is dat je door het blijven werken binnenkort bent opgebrand.
+
+Je zal een andere levensstijl moeten vinden. Eentje waarbij je energieniveau gelijkmatig wordt uitgespreid over je werk én je privéleven.
+
+Zorg anders even dat rust nemen óók een plek op de agenda verkrijgt. 
+
+Om je hoofd leeg te maken. 
+
+Want. 
 
 Wanneer je stress goed aanpakt, hoef je minder snel kennis te maken met de gevolgen. Het krijgen van een burn-out.
 
-Klinkt makkelijker gezegd dan gedaan.
+En ik weet het. 
 
-Gek genoeg overkomt dit toch meer dan 1.000.000 mensen per dag in Nederland.
+Het klinkt makkelijker gezegd dan gedaan.
 
-Waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk product om dit probleem te bestrijden.
+Gek genoeg overkomt dit namelijk meer dan 1.000.000 mensen per dag in Nederland!
+
+Veel he?!
+
+Ik ga je nu dan ook gelijk een tip geven.
+
+_“...graag”._ 
+
+Waar ik je op wil wijzen is het gebruik van een eenvoudig én biologisch product om dit probleem te bestrijden.
 
 Denk aan Ivan Chai. Een Siberische kruidenthee.
+
+De reden is als volgt. 
+
+Ivan Chai heeft een kalmerende werking. 
+
+En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
+
+Onderzoek ondersteund deze kalmerende werking. 
+
+En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
+
+Wellicht zou je dit alledaagse product eens moeten proberen? 
+
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een burn-out te voorkomen.
 
 Mocht je toch onverhoopt met een zware burn-out rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
@@ -113,7 +245,7 @@ Goed om te weten. Wanneer je een burn-out voorkomt, hoef je minder  snel kennis 
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out.
  
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een burn-out. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een burn-out. Wat kan worden voorkomen of behandeld met een eenvoudig én biologisch alledaags product.
 
 https://drive.google.com/file/d/1xRSR-uCLEo5S5krFPwxqMVBWKyqfmGQM/view?usp=sharing
 
@@ -149,7 +281,7 @@ Alles. Een burn-out is het gevolg van een overmatige hoeveelheid aan stress. Mee
 
 Laten we een eenvoudige vergelijking maken.
 
-Je kunt het vergelijken met het rijden in een auto. Deze auto heeft een paar maanden achter elkaar zonder pauze 170 kilometer per uur op de teller staan. 
+Je kunt het vergelijken met het rijden in een auto. Deze auto heeft een paar maanden achter elkaar zonder pauze 177 kilometer per uur op de teller staan.
 
 Ondanks dat de auto snel gaat, wordt de motor overbelast. Terugschakelen is gewenst om schade te doen voorkomen.
 
@@ -176,3 +308,5 @@ Beide, met hetzelfde energieniveau tot gevolg.
 
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
 Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
+
+
