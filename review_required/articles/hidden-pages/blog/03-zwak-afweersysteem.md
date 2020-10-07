@@ -100,7 +100,7 @@ Kortom, je weet dus dat dit fenomeen er één keer per jaar aankomt.
 
 Dus door het consumeren van de juiste voedingsstoffen kun je een zwak afweersysteem voorkomen. 
 
-1. Wist je dat…?
+Wist je dat…?
 * Vitamine c is rijkelijk te vinden in Ivan Chai. Vitamine c geeft je afweersysteem een boost. 
 
 Echter zijn er ook oorzaken waar je jezelf lastig tegen kunt verweren. Je dagelijkse leven kan worden beïnvloed door een ernstige ziekte. Of een ernstig ongeluk met een opname op de Intensive Care tot gevolg. 
@@ -141,7 +141,7 @@ Je lichaam moet wennen aan je nieuwe levensstijl en…
 
 voor het versterken van je afweersysteem. 
 
-2. Wist je dat…? 
+Wist je dat…? 
 * De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen.
