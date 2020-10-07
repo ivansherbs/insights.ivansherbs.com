@@ -18,9 +18,6 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 <br>
 <br>
 
-<br>
-## Ontdek 7 voordelen
-
 1. Versterkt de weerstand
 
 2. Krachtige ontstekingsremmer
