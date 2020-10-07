@@ -6,7 +6,7 @@ Publish: IVAN'S INSIGHTS
 ---
 artikel| **Zwak afweersysteem**
 
-Laat ik beginnen met het voordragen van een heel mooi gedicht over kanker. 
+Laat ik beginnen met het voordragen van een hééél mooi gedicht over kanker. 
 
 “Kanker een klein woordje met zoveel pijn. Bij de één is het gezwel groot en bij de ander klein. Alle energie wordt uit je lichaam gepompt. Het is moeilijk om erover te praten. Er komt een tijd dat degene met kanker je moet verlaten. Sommige hebben geluk dat ze het gezwel kunnen wegsnijden. Andere mensen moeten tot hun dood lijden.”
 
@@ -40,7 +40,7 @@ En omdat een zwak afweersysteem toch wel vervelende consequenties kan hebben voo
 
 Denk eerst even aan het volgende. 
 
-Soms wordt je gedwongen om er veel tijd en energie e stoppen in het versterken van je afweersysteem. 
+Soms wordt je gedwongen om veel tijd en energie te stoppen in het versterken van je afweersysteem. 
 
 Gedwongen door kanker. 
 
