@@ -320,7 +320,7 @@ https://drive.google.com/file/d/1kaIOxvlPsqvxHnEaY4E4HkZz2LRp2wT-/view?usp=shari
 artikel| [Nieuwe smaken](#nieuwe-smaken)
 
 <br>
-## Reviews
+## Getuigenissen
 
 "Lees het artikel over vaginale schimmelinfecties. Mijn partner houdt van de smaak en heeft mij laten weten dat het helpt."
 
@@ -329,7 +329,7 @@ artikel| [Nieuwe smaken](#nieuwe-smaken)
 .................
 
 
-"De kruidenthee heb ik snel in ontvangst mogen nemen! De verpakking zag er goed uit. Maar belangrijker: de thee heeft een heerlijke smaak! Ik kom terug voor meer wanneer het op is! 
+"De thee heb ik snel in ontvangst mogen nemen! De verpakking zag er goed uit. Maar belangrijker: de thee heeft een heerlijke smaak! Ik kom terug voor meer wanneer het op is! 
 
 -Dennis via etsy.com
 
