@@ -6,7 +6,15 @@ Button -> [Bestel nu]
 
 ## Ontdek Ivan Chai
 
-Verzorg je lichaam en geest met kruidenthee uit Siberië
+Verzorg je lichaam en geest met kruidenthee uit Siberië.
+
+Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt.
+
+<br>
+Blijf op de hoogte. <br>
+...en krijg 7% korting op je eerste bestelling.
+
+[subscribe email]
 
 <br>
 
@@ -26,7 +34,6 @@ Verzorg je lichaam en geest met kruidenthee uit Siberië
 
 <br>
 
-"Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt"
 <br>
 <br>
 
@@ -71,6 +78,7 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 17. [Buikgriep](#Buikkrampen-zijn-een-voorspelbaar-probleem)
 
 <br>
+
 <br>
 
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
@@ -273,7 +281,7 @@ Met een eenvoudig én natuurlijk alledaags product.
 Waar je misschien niet van op de hoogte bent is het volgende...
 
 Het is te voorspellen wanneer je last gaat krijgen van buikgriep!
-Start met deze kennis een preventieve behandeling met Ivan Chai. Verminder de kans én de symptomen op eenvoudige en natuurlijke wijze.
+Start met deze kennis een preventieve behandeling met Ivan Chai. Verminder de kans én de symptomen op natuurlijke wijze.
 
 want.. 
 
@@ -301,6 +309,42 @@ https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=shari
 
 <br>
 
+## Onze collectie
+
+Ivan Chai
+
+https://drive.google.com/file/d/1kaIOxvlPsqvxHnEaY4E4HkZz2LRp2wT-/view?usp=sharing
+
+<br>
+
+artikel| [Nieuwe smaken](#nieuwe-smaken)
+
+<br>
+## Reviews
+
+"Lees het artikel over vaginale schimmelinfecties. Mijn partner houdt van de smaak en heeft mij laten weten dat het helpt."
+
+-Vladimir via ivansherbs.com
+
+.................
+
+
+"De kruidenthee heb ik snel in ontvangst mogen nemen! De verpakking zag er goed uit. Maar belangrijker: de thee heeft een heerlijke smaak! Ik kom terug voor meer wanneer het op is! 
+
+-Dennis via etsy.com
+
+.................
+
+Ivan Chai voorkomt urineweginfecties, hierdoor heb ik er minder vaak last van! De smaak is net als zwarte thee, maar niet bitter. 
+
+-Claudia via ivansherbs.com
+
+
+
+https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
+> SIBERIË| Ivan Chai bevat 7 voordelen tegen 17 problemen.
+
+
 ## Waarom Ivan Chai? 
 
 De 7 voordelen van Ivan Chai kunnen worden gebruikt tegen 17 problemen. 
@@ -321,9 +365,11 @@ Om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning o
 
 <br>
 
+https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
+> SIBERIË| Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken naar de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
+<br>
+<br>
 
-https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
-> SIBERIË| Ivan Chai bevat 7 voordelen tegen 17 problemen.
 
 <br>
 <br>
@@ -348,31 +394,6 @@ interview| [Holistische benadering](#zonder-probleem-bereikte-Ivan-de-top)
 
 <br>
 
-https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
-> SIBERIË| Kwaliteitscontroles zijn belangrijke stappen in het proces. De eerste kwaliteitscontrole vindt plaats bij het zoeken naar de juiste velden. Als kruiden niet zijn volgroeid worden ze met rust gelaten. 
-<br>
-<br>
-
-# Ivan's conclusie  
-
-Neemt uw tijd te baat te vroeg is beter dan te laat.
-
-We hebben onze wereld nog nooit eerder zo stabiel en toegankelijk ervaren...
-
-Toch ervaren we dezelfde wereld in een toenemende mate als chaotisch. We dwingen je daarom niet om alle problemen aan te pakken. 
-
-**Kies je gevechten.**
-
-Onze klanten kunnen op ons vertrouwen. We informeren je over eenvoudige én natuurlijke alledaagse producten die kunnen worden gebruikt mét of in plaats van farmaceutische medicijnen.
-
-Ons advies aan de farmaceutische industrie is om te blijven ontdekken. 
-
-Wij zullen dat zeker ook doen.
-
-Benieuwd naar de dosering tegen problemen? 
-
-behandeling| [Hoe vaak en wanneer?](#Hoe-vaak-en-wanneer)
-
 <br>
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
@@ -380,50 +401,29 @@ https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=shari
 <br>
 <br>
 
-# Tot slot
 
-Door ontdekking ontdekt men wat reeds bestond, maar nog niet bekend was...
+# Waarom Ivan's Herbs?
 
-Graag willen we het volgende nog even benadrukken. Je mag best meer tijd voor jezelf nemen om tot rust te komen.
+Onze producten hebben meerdere bijkomende voordelen die bijdrage aan een schonere wereld.
 
-Geniet van je overheerlijke kop Ivan Chai.
+* Kruiden uit de wildernis van Siberië
 
-### Bereidingswijze
+* Met de hand geplukt 
 
-Schep de Ivan Chai in een theezeef of gebruik het theezakje. Voeg de theezeef of theezakje toe aan water. Laat dit kruideninfuus rond de 7 minuten trekken.
+* Duurzaam productieproces
 
-Voor een optimale smaakbeleving adviseren wij de Ivan Chai te drinken bij 77 graden Celsius.
+* Vrij van chemicaliën
 
-De **smaak** is als volgt te omschrijven:
- 
-* "Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak"
+* Recyclebare verpakking 
 
-...En hoe zit het met de **geur**?
-
-* "De geur lijkt een beetje op zwarte thee, een ietwat aardse, houtachtige geur, maar toch ook in bezit van zoete tonen”
-
-### Hoe bewaar je Ivan Chai?
-
-Ivan Chai behoor je droog te bewaren. En beneden 25 graden Celsius. Het wordt aangeraden het buiten bereik van kinderen te houden in verband met verstikkingsgevaar.
-
-Bewaar de Ivan Chai in de herbruikbare tube. Op de verpakking staat aangegeven tot wanneer je Ivan Chai kan gebruiken.
-
-Gezien de natuurlijke aard kun je het langer bewaren en consumeren dan de uiterste houdbaarheidsdatum.
-
-Benieuwd naar de nieuwe smaken die binnenkort uitkomen? 
+* Lees onze artikelen op Ivan's Insights. 
 
 <br>
 
-artikel| [Nieuwe smaken](#nieuwe-smaken)
+Benieuwd naar de dosering tegen problemen? 
 
-<br>
+behandeling| [Hoe vaak en wanneer?](#Hoe-vaak-en-wanneer)
 
-Blijf op de hoogte!
-...en krijg 7% korting op je eerste bestelling.
-
-[subscribe email]
-
-<br>
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 > SIBERIË| Ontdek nu zelf de smaak van Ivan Chai. 
