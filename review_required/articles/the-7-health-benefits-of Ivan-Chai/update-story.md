@@ -430,13 +430,21 @@ Benieuwd naar de dosering tegen problemen?
 
 behandeling| [Hoe vaak en wanneer?](#Hoe-vaak-en-wanneer)
 
+<br>
+<br>
+
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 > SIBERIË| Ontdek nu zelf de smaak van Ivan Chai. 
-
 <br>
+<br>
+
+
 Button -> [Bestel nu]
 <br>
+<br>
+
+
 
 # Over Ivan's Insights
 
