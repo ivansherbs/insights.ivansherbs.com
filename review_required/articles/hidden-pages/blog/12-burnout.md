@@ -12,7 +12,7 @@ Waarom zou ik nu op vakantie willen gaan hahah?
 
 Ik zit er net zo lekker in. 
 
-Pauze nemen doen ik wel een andere keer. 
+Pauze nemen doe ik wel een andere keer. 
 
 Daar heb ik nu echt even geen zin in. 
 
