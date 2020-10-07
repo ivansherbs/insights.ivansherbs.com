@@ -319,6 +319,9 @@ https://drive.google.com/file/d/1kaIOxvlPsqvxHnEaY4E4HkZz2LRp2wT-/view?usp=shari
 
 artikel| [Nieuwe smaken](#nieuwe-smaken)
 
+<br>
+<br>
+
 
 **Getuigenissen**
 
@@ -339,11 +342,14 @@ Ivan Chai voorkomt urineweginfecties, hierdoor heb ik er minder vaak last van! D
 
 -Claudia via ivansherbs.com
 
+<br>
+<br>
 
 
 https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
 > SIBERIË| Ivan Chai bevat 7 voordelen tegen 17 problemen.
 
+<br>
 
 ## Waarom Ivan Chai? 
 
