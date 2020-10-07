@@ -1,10 +1,10 @@
 ---
 layout: article.html
-title: Ontdek Ivan Chai
+
 Button -> [Bestel nu]
 ---
 
-## Ontdek 7 voordelen
+## Ontdek Ivan Chai
 
 Verzorg je lichaam en geest met kruidenthee uit Siberië
 
@@ -73,18 +73,20 @@ Drink de 7 voordelen van Ivan Chai tegen 17 problemen.
 <br>
 <br>
 
-Het European Medicines Agency heeft zelfs de werking van Ivan Chai geëvalueerd en goedgekeurd. 
-
-<br>
-
-Lees snel verder en laat je informeren over de 7 voordelen.
-
-<br>
-
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 > SIBERIË| De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
 <br>
 <br>
+
+<br>
+## Ontdek 7 voordelen
+
+Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd. 
+Lees snel verder en laat je informeren over de 7 voordelen.
+
+<br>
+
+
 
 ## 1. Ivan Chai versterkt de weerstand
 
