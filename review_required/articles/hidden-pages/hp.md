@@ -10,7 +10,6 @@ Verzorg je lichaam en geest met kruidenthee uit Siberië.
 
 Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt.
 
-https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
 <br>
 Blijf op de hoogte. <br>
@@ -46,8 +45,6 @@ Interview Happy Moon girl Svetlana
 
 Interview MK / Tea master Andrey
 
-<br>
-
 
 <br>
 <br>
@@ -58,9 +55,6 @@ Ivan Chai
 
 https://drive.google.com/file/d/1kaIOxvlPsqvxHnEaY4E4HkZz2LRp2wT-/view?usp=sharing
 
-<br>
-
-artikel| [Nieuwe smaken](#nieuwe-smaken)
 
 <br>
 <br>
@@ -89,13 +83,7 @@ Ivan Chai voorkomt urineweginfecties, hierdoor heb ik er minder vaak last van! D
 <br>
 
 
-https://drive.google.com/file/d/1OhT7_0RllXM47XxAYv8xV5HSCFHg6mUC/view?usp=sharing
-> SIBERIË| Ivan Chai bevat 7 voordelen tegen 17 problemen.
-
-<br>
-<br>
-
-**Ben jij verstandig en drink je voortaan thee mét of zonder voordelen voor lichaam en geest?**
+**Ben jij verstandig en drink je voortaan thee mét of zonder 7 voordelen tegen 17 problemen?**
 
 <br>
 
@@ -132,66 +120,6 @@ Button -> [Bestel nu]
 Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
 Ontdek de inzichten en laat je informeren. 
-
-## Versterkt de weerstand
-
-1. [Infectie](#Het-ontzichtbare-leger)
-
-2. [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen)
-
-3. [Zwak afweersysteem](#Alle-kleine-beetjes-helpen)
-
-## Krachtige ontstekingsremmer
-
-4. [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan)
-
-5. [Keelontsteking](#De-man-zonder-hamer)
-
-6. [Pees ontsteking](#Runners-high-versus-een-peesontsteking)
-
-7. [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten)
-
-## Versterkt de antioxiderede werking
-
-8. [Hart- en vaatziekten](#Zie-het-tijdig-aankomen)
-
-## Verbetert de nachtrust
-
-9. [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem)
-
-## Vermindert de kans op stress, angst en een burn-out
-
-10. [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt)
-
-11. [Angst](#Zie-jij-het-wél-aankomen)
-
-12. [Burn-out](#Opgeven-is-géén-optie)
-
-## Verzorgt de gezondheid van de prostaat en urinewegen
-
-13. [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat)
-
-14. [Vergrote prostaat](#Een-goedaardige-aandoening)
-
-15. [Prostaatkanker](#Een-onopgemerkt-probleem)
-
-16. [Urineweginfectie](#voorkom-relatieproblemen)
-
-## Verzorgt het spijsverteringsstelsel
-
-17. [Buikgriep](#Buikkrampen-zijn-een-voorspelbaar-probleem)
-
-## Soortgelijke artikelen 
-
-[Interview](#zonder-probleem-bereikte-Ivan-de-top)
-
-[Behandeling](#Hoe-vaak-en-wanneer)
-
-[Nieuwe smaken](#nieuwe-smaken)
-
-[Geschiedenis](#de-geschiedenis-van-ivan-chai)
-
-<br>
 
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
