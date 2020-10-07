@@ -408,8 +408,6 @@ https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=shari
 <br>
 
 
-# Waarom Ivan's Herbs?
-
 Onze producten hebben meerdere bijkomende voordelen die bijdrage aan een schonere wereld.
 
 * Kruiden uit de wildernis van Siberië
@@ -446,7 +444,7 @@ Button -> [Bestel nu]
 
 
 
-# Over Ivan's Insights
+## Over Ivan's Insights
 
 Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
