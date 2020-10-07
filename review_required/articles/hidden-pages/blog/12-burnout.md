@@ -24,12 +24,15 @@ Of beter gezegd gewoon laten uitbetalen…
 
 Toch?”
 
-...
+
 
 _“Wat zou jij doen?”_
 
 
-Nou. Om te beginnen. 
+
+Nou. 
+
+Om te beginnen. 
 
 Wil ik je graag direct even iets duidelijk maken.
 
