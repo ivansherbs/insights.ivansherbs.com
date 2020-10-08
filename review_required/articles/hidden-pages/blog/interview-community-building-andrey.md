@@ -6,7 +6,9 @@ Publish: IVAN'S INSIGHTS
 ---
 Interview| **Community building**
 
-“Mijn innerlijke motivatie om goed te zijn voor mens en milieu hebben ervoor gezorgd dat we ons dorp konden worden opgericht. Chazhaevka is een Siberische ecodorp wat als doel heeft sociaal, economisch als ecologisch duurzaam te zijn. Het produceren van Ivan Chai, wat als preventieve behandeling kan worden gebruikt tegen verschillende gezondheidsproblemen, staat binnen onze community centraal”, vertelt Andrey Nikitin.
+Mijn innerlijke motivatie om goed te zijn voor mens en milieu hebben ervoor gezorgd dat we ons dorp kon worden opgericht. Chazhaevka is een Siberische ecodorp wat als doel heeft sociaal, economisch als ecologisch duurzaam te zijn, vertelt Andrey Nikitin.
+
+Het produceren van Ivan Chai staat binnen de community centraal.
 
 Andrey Nikitin is één van de oprichters van het Siberische ecodorp Chazhaevka. 
 
