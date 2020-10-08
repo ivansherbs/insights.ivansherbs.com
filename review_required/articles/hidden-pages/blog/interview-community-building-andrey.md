@@ -4,7 +4,7 @@ Title: Duurzaamheid
 Publish: IVAN'S INSIGHTS
   Author: Andrey Nikitin
 ---
-Interview| **Community building**
+interview| **Community building**
 
 "Chazhaevka is een Siberische ecodorp wat als doel heeft sociaal, economisch als ecologisch duurzaam te zijn", vertelt Andrey Nikitin.
 
