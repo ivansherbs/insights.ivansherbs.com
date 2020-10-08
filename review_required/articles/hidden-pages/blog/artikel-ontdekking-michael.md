@@ -2,7 +2,7 @@
 layout: article.html
 Title: Ontdekking
 Publish: IVAN'S INSIGHTS
-  Author: Michael Koch (31)
+  Author: Michael Koch
 ---
 artikel| **Holisme**
 
