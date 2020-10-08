@@ -4,6 +4,11 @@ title: De geschiedenis van Ivan Chai
 Publish: IVAN'S INSIGHTS
   Author: Ivan Alexandrovitsj (63)
 ---
+
+picture header: https://drive.google.com/file/d/13FTJbx6s4jMnzk0sn9CzSNCN5W8sRZSv/view?usp=sharing
+
+profile picture Ivan: 
+
 artikel| **Geschiedenis**
 
 **Het parabel van de Siberische Kruidenthee**
@@ -32,7 +37,7 @@ De dames gaven door deze fysieke en mentale veranderingen de voorkeur aan Ivan C
 
 Wellicht overbodig om te melden ging de voorkeur voor de heren in de wintermaanden, wanneer hier ruimte voor was, direct uit naar de beschikbare alcoholische dranken.
 
-https://drive.google.com/file/d/13FTJbx6s4jMnzk0sn9CzSNCN5W8sRZSv/view?usp=sharing
+https://drive.google.com/file/d/1VGsq_6Sblo2uSaJDxTs3mohDb2K_mjhr/view?usp=sharing
 
 **Seizoensgebonden smaakverandering** <br>
 De smaak van de Ivan Chai was destijds seizoensgebonden vanwege het fermentatieproces. Als gevolg van de wintermaanden was de voorraad Ivan Chai logischerwijs zo goed als op, waardoor men niet kon wachten op de voorzomer. De jaarlijkse seizoensgebonden smaakverandering ging als volgt:
