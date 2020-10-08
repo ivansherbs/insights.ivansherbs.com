@@ -1,25 +1,27 @@
 ---
 layout: article.html
+Title: Ontdek kruidenthee uit Siberië
 
 Button -> [Bestel nu]
 ---
 
-## Ontdek Ivan Chai
+## Ontdek 7 voordelen
 
 Verzorg je lichaam en geest met kruidenthee uit Siberië.
 
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt.
+Onze eerste Siberische kruidenthee die we uitbrengen staat bekend als Ivan Chai. 
 
+https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
 <br>
-Blijf op de hoogte. <br>
-...en krijg 7% korting op je eerste bestelling.
+## Bestel Ivan Chai
+Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken en ontvang updates van Ivan's Insights. 
 
 [subscribe email]
 
 <br>
 
-## Ontdek 7 voordelen
+## Ivan Chai
 
 1. Versterkt de weerstand
 
@@ -39,12 +41,21 @@ Blijf op de hoogte. <br>
 Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd. 
 <br>
 
-Interview MK / Ivan
+https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing <br>
+**Ontdekking|** <br> Oprichter Michael ontdekt Siberië
+Link to:
 
-Interview Happy Moon girl Svetlana
+https://drive.google.com/file/d/17OrtjCTpX-Ozbr4fCyxssbh4fV7pavwi/view?usp=sharing <br>
+**Duurzaamheid|** <br> Chief technologist Andrey over community building. 
+Link to:
 
-Interview MK / Tea master Andrey
+https://drive.google.com/file/d/17ErlnFWh72u7zxQJy84JvbLDIHjvlJEE/view?usp=sharing <br>
+**Holisme|** <br> ...zonder probleem bereikte Ivan de top. 
+Link to:
 
+https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing <br>
+**Levensstijl|** <br> Tea master Svetlana over haar leven in Chazhaevka. 
+Link to:
 
 <br>
 <br>
@@ -75,7 +86,7 @@ https://drive.google.com/file/d/1kaIOxvlPsqvxHnEaY4E4HkZz2LRp2wT-/view?usp=shari
 
 .................
 
-Ivan Chai voorkomt urineweginfecties, hierdoor heb ik er minder vaak last van! De smaak is net als zwarte thee, maar niet bitter. 
+Ivan Chai voorkomt urineweginfecties, hierdoor heb ik er minder vaak last van. De smaak is net als zwarte thee, maar niet bitter. 
 
 -Claudia via ivansherbs.com
 
@@ -101,13 +112,6 @@ Ivan Chai voorkomt urineweginfecties, hierdoor heb ik er minder vaak last van! D
 
 <br>
 <br>
-
-
-https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
-> SIBERIË| Ontdek nu zelf de smaak van Ivan Chai. 
-<br>
-<br>
-
 
 Button -> [Bestel nu]
 <br>
