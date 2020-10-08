@@ -14,7 +14,7 @@ Onze eerste Siberische kruidenthee die we uitbrengen staat bekend als Ivan Chai.
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
 <br>
-## Bestel Ivan Chai
+**Bestel Ivan Chai** <br>
 Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken en ontvang updates van Ivan's Insights. 
 
 [subscribe email]
