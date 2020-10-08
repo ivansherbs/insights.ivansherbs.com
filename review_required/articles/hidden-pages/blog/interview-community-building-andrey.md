@@ -37,7 +37,7 @@ Waar thee van kan worden gezet!
 
 Er zijn jaren overheen gegaan voor wij genoeg kennis in huis hadden.
 
-Na jarenlang werkzaam te zijn geweest als Thee producent & UTM ‘Ultimate Tea Master’, waarbij we gelijktijdig onderzoek deden naar de geneeskrachtige werking in kruiden, hebben we langzaamaan onze focus verschoven naar het promoten van kruiden uit Siberië.
+Na jarenlang werkzaam te zijn geweest als Thee producent & UTM ‘Ultimate Tea Master’, waarbij we gelijktijdig onderzoek deden naar de geneeskrachtige werking in kruiden, hebben we langzaam onze focus verschoven naar het promoten van kruidenthee uit Siberië.
 
 De verborgen kruidenthee uit Siberië konden nu wederom worden geïntroduceerd. 
 
