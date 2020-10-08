@@ -34,7 +34,9 @@ Nog nooit heb ik mij zo sterk gevoeld. Dit heeft mij aan het denken gezet.
 
 Ik had besloten een nieuwe uitdaging aan te gaan. 
 
-Ik zou en moest de Belukha beklimmen. De hoogste berg van Siberië. 
+Ik moet en zou de Belukha beklimmen. 
+
+De hoogste berg van Siberië. 
 
 Deze meerdaagse expedities staat erom bekend gepaard te gaan met zowel diepte als hoogtepunten. 
 
