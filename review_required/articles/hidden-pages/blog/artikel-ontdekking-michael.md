@@ -56,6 +56,8 @@ Iedereen uit de groep is namelijk top fit. Echter merkten wij dat Ivan de groep 
 
 “...zonder probleem bereikte Ivan de top.”
 
+https://drive.google.com/file/d/15Nuy_SfQeh9R22tHgEhwE43RsC6W_7IV/view?usp=sharing
+
 Michael was gefascineerd door zijn doorzettingsvermogen. En raakte in gesprek.
 
 Ivan is een herborist. En heeft gedurende zijn leven de pijlers gericht op het veelvuldig gebruik van kruiden. 
