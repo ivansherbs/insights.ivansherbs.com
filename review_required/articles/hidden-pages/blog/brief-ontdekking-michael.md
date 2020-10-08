@@ -4,11 +4,11 @@ Title: Ontdekking
 Publish: IVAN'S INSIGHTS
   Author: Michael Koch
 ---
-artikel| **Holisme**
+Brief| **De reis van mijn leven**
 
 Beste levensgenieter, 
 
-Mijn naam is Michael Koch, één van de oprichters van Ivan's Herbs. Ik ben al ruim 7 jaar bezig met het bestuderen van de geneeskrachtige werking in kruiden. 
+Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Ik ben al ruim 7 jaar bezig met het bestuderen van de geneeskrachtige werking in kruiden. 
 
 Gedurende de rondreis van mijn leven heb ik besloten mijn kennis en kunde hierover te vergroten. Om mijn doelstellingen te behalen, heb ik besloten één jaar in Chazhaevka te verblijven. 
 
