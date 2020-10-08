@@ -6,13 +6,13 @@ Publish: IVAN'S INSIGHTS
 ---
 Interview| **Community building**
 
-Mijn innerlijke motivatie om goed te zijn voor mens en milieu hebben ervoor gezorgd dat we ons dorp kon worden opgericht. Chazhaevka is een Siberische ecodorp wat als doel heeft sociaal, economisch als ecologisch duurzaam te zijn, vertelt Andrey Nikitin.
+"Chazhaevka is een Siberische ecodorp wat als doel heeft sociaal, economisch als ecologisch duurzaam te zijn", vertelt Andrey Nikitin.
 
-Het produceren van Ivan Chai staat binnen de community centraal.
+Andrey Nikitin is één van de oprichters van het Siberische ecodorp Chazhaevka. Het produceren van Ivan Chai staat binnen deze community centraal.
 
-Andrey Nikitin is één van de oprichters van het Siberische ecodorp Chazhaevka. 
+10 jaar geleden heeft hij besloten de stad te verlaten voor de Altaj Krai regio. 
 
-10 jaar geleden heeft hij besloten de stad te verlaten voor de Altaj Krai regio. Deze regio staat bekend om de in het wild groeiende kruiden met geneeskrachtige werking. In deze vallei langs de vruchtbare oevers van de rivier heeft Andrey een ecodorp opgericht. 
+Deze regio staat bekend om de in het wild groeiende kruiden met geneeskrachtige werking. In deze vallei langs de vruchtbare oevers van de rivier heeft Andrey een ecodorp opgericht. 
 
 Uiteraard niet alleen. Samen met zijn familie is Andrey het avontuur aangegaan.
 
@@ -48,6 +48,8 @@ Voor jullie beeldvorming, het is niet makkelijk om in Rusland aan de juiste info
 Na voldoende kennis te hebben opgedaan over de oorsprong van de meest geneeskrachtige kruiden uit deze regio, waar Ivan Chai van wordt gezet, heb ik met mijn familie besloten de stap te zetten richting de Altaj regio. 
 
 Het leven in de stad heeft mij veel goed gedaan, al heb ik altijd al het oprichten van een Siberische ecodorp nagestreefd.
+
+Al moet ik er bij vertellen dat mijn innerlijke motivatie om goed te zijn voor mens en milieu ervoor hebben gezorgd dat we ons dorp konden oprichten.
 
 V **Hoe zorgen jullie voor het in stand houden van een ecodorp?** <br>
 Voor het oprichten en in stand houden van een ecodorp moet je je aangetrokken voelen tot de natuur en zeker zijn van je zaak ervan te kunnen leven. 
