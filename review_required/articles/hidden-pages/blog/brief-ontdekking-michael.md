@@ -8,6 +8,8 @@ Brief| **De reis van mijn leven**
 
 Beste levensgenieter, 
 
+<br>
+
 Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Ik ben al ruim 7 jaar bezig met het bestuderen van de geneeskrachtige werking in kruiden. 
 
 Gedurende de rondreis van mijn leven heb ik besloten mijn kennis en kunde hierover te vergroten. Om mijn doelstellingen te behalen, heb ik besloten één jaar in Chazhaevka te verblijven. 
@@ -82,6 +84,8 @@ Wees verstandig en drink kruidenthee mét gezondheidsvoordelen.
 Laat je informeren over de 7 voordelen van Ivan Chai. 
 
 Een Siberische kruidenthee. 
+
+<br>
 
 Groeten,
 
