@@ -68,7 +68,7 @@ Gelukkig voor ons staat er altijd een nieuwe generatie klaar; om de ambacht van 
 
 Het is een ware familie aangelegenheid om de community te doen laten voortleven. 
 
-Zo zijn mijn 6 kinderen en de vele gedreven vrijwilligers in staat om de toekomstige ecodorpen vorm te geven. 
+Zo zijn mijn 5 kinderen en de vele gedreven vrijwilligers in staat om de toekomstige ecodorpen vorm te geven. 
 
 Nu we al ruim 10 jaar verder zijn, en ik kijk naar mijn kinderen, ligt het ook in de lijn der verwachting dat ook zij ecodorpen zullen stichten. 
 
