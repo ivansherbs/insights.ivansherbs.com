@@ -56,12 +56,16 @@ Gedurende deze expeditie viel mij iets op. Overigens niet alleen mij. Maar meede
 
 Dit kwam door de volgende gebeurtenis. 
 
-Iedereen uit de groep is namelijk top fit. Echter merkten wij dat Ivan de groep door de meest barre tijden wist heen te slepen. 
+Iedereen uit de groep is namelijk top fit. 
+
+Echter merkten wij dat Ivan de groep door de meest barre tijden wist heen te slepen. 
 
 https://drive.google.com/file/d/15Nuy_SfQeh9R22tHgEhwE43RsC6W_7IV/view?usp=sharing
 > “...zonder probleem bereikte Ivan de top.”
 
-Michael was gefascineerd door zijn doorzettingsvermogen. En raakte in gesprek.
+Michael was gefascineerd door zijn doorzettingsvermogen. 
+
+En raakte in gesprek.
 
 Ivan is een herborist. En heeft gedurende zijn leven de pijlers gericht op het veelvuldig gebruik van kruiden. 
 
@@ -73,7 +77,9 @@ Tot op de dag van vandaag dient Ivan namelijk als inspiratiebron en vertrouwd ad
 
 Ik hoop jou als lezer hier dan ook door te inspireren. 
 
-Maak gebruik van eenvoudige en biologische alledaagse producten. Goed voor lichaam en geest. 
+Maak gebruik van eenvoudige en biologische alledaagse producten. 
+
+Goed voor lichaam en geest. 
 
 Mijn advies is dan ook om te beginnen bij iets wat je waarschijnlijk toch al consumeert. 
 
