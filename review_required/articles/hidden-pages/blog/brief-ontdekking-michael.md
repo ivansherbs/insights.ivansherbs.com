@@ -4,7 +4,7 @@ Title: Ontdekking
 Publish: IVAN'S INSIGHTS
   Author: Michael Koch
 ---
-header: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
+header: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing <br>
 Profile pic: https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
 
 Brief| **De reis van mijn leven**
