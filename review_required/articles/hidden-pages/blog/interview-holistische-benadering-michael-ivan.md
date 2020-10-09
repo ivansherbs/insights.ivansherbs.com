@@ -24,7 +24,7 @@ De oude wijze man wist door ervaring de jongere expeditieleden door de bare tijd
 De weersomstandigheden liegen er namelijk niet om. 
 
 https://drive.google.com/file/d/17Ey8dHygOmt7dN5Abffc0HEiZd5-nZf0/view?usp=sharing
-> De jongere expeditieleden besluiten Ivan gedurende de expeditie eens even aan de tand te voelen. 
+> De jongere expeditieleden besluiten Ivan eens even aan de tand te voelen. 
 
 V **Welke veranderingen in jouw levensstijl hebben voor zo'n gezond en sterk lichaam gezorgd?**
 
@@ -40,11 +40,14 @@ Zelfs voor een Rus van mijn kaliber heb ik even moeten zoeken.
 
 Ik heb mij destijds gefocused op het gebruik van meer plantaardige en natuurlijke producten. 
 
-Het veranderen van mijn alledaagse routine heeft een belangrijke rol gespeeld om mijn 'nieuwe levensstijl' aan te houden.
+Het veranderen van mijn alledaagse routine heeft een belangrijke rol gespeeld om mijn nieuwe levensstijl aan te houden.
 
 Het nemen van tijd voor de handelingen die ik uitvoer spelen hierbij een belangrijk rol. 
 
 Hiernaast heb ik het lichaam bekeken vanuit een holistisch perspectief om de kans op gezondheidsproblemen te verkleinen.
+
+https://drive.google.com/file/d/1chEPEKBF38Fl_P0KnBosAL0jD7Yy_5FR/view?usp=sharing
+> Expeditiekamp Belukha
 
 V **Wat wordt bedoeld met het holistische perspectief?**
 
@@ -83,6 +86,9 @@ Hiernaast zijn er veel combinaties te maken met kruiden die goed zijn voor het v
 Het gebruik van kruiden klinkt wellicht alternatief, als mens ben ik op zoek naar natuurlijke, schone en duurzame producten. 
 
 Uiteraard met een positief effect op het lichaam en geest! 
+
+https://drive.google.com/file/d/1ZrSFuSJLhhJ2I3h3_ewJ_-y-XfzbA22y/view?usp=sharing
+> De top van de Belukha in het Altaj gebergte (4,506 m)
 
 Het klopt dat de werking wellicht wat langer duurt dan conventionele geneesmiddelen, maar preventief problemen voorkomen is beter dan genezen. 
 
