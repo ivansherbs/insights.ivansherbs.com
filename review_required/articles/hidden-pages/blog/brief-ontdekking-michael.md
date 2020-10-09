@@ -1,13 +1,13 @@
 ---
 layout: article.html
-Title: Ontdekking
+Title: De reis van mijn leven
 Publish: IVAN'S INSIGHTS
   Author: Michael Koch
 ---
 header: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing <br>
 Profile pic: https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
 
-Brief| **De reis van mijn leven**
+Brief| **Ontdekking**
 
 <br>
 
@@ -79,8 +79,6 @@ Kruiden om het lichaam en geest te versterken.
 Mede door deze ontmoeting, prestatie en gelijkgestemde levensstijl, waarbij het holistische perspectief centraal staat, hebben we besloten contact te houden
 
 Tot op de dag van vandaag dient Ivan namelijk als inspiratiebron en vertrouwd adviseur.
-
-Ik hoop jou als lezer hier dan ook door te inspireren. 
 
 Maak gebruik van eenvoudige en biologische alledaagse producten. 
 
