@@ -6,9 +6,10 @@ Publish: IVAN'S INSIGHTS
 ---
 artikel| **Zwak afweersysteem**
 
-Laat ik beginnen met het voordragen van een hééél mooi gedicht over kanker. 
+Vandaag begin ik voor de verandering met het voordragen van een hééél mooi gedicht over kanker. 
 
-“Kanker een klein woordje met zoveel pijn. Bij de één is het gezwel groot en bij de ander klein. Alle energie wordt uit je lichaam gepompt. Het is moeilijk om erover te praten. Er komt een tijd dat degene met kanker je moet verlaten. Sommige hebben geluk dat ze het gezwel kunnen wegsnijden. Andere mensen moeten tot hun dood lijden.”
+...
+...
 
 Mooi he? 
 
@@ -16,13 +17,18 @@ Zo’n gedicht over kanker?
 
 Oke nu nog ééntje maar dan voor ouderen. Waarbij we de tekenen van ouderdom belichten. 
 
-“Respect krijgen vanwege grijze haren is een gunst, maar respect verdienen is tegenwoordig een hele kunst. Wijsheid komt met de jaren, gelijk... de grijze haren, ze horen bij elkander... al zie ik soms de vreemdste kleuren bij een ander!”
+...
+...
 
 Zo.
 
 Welke vind je mooier? 
 
-Laat ik het gelijk even duidelijk maken. Dit artikel gaat over een zwak afweersysteem. Maar is niet alleen geschreven voor ex-kankerpatienten en ouderen. 
+Trouwens, 
+
+Laat ik het gelijk even duidelijk maken. 
+
+Dit artikel gaat over een zwak afweersysteem. Maar is niet alleen geschreven voor ex-kankerpatienten en ouderen. 
 
 De reden is als volgt. 
 
