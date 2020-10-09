@@ -28,7 +28,7 @@ Het rustiger aan doen is je dan ook op je lijf geschreven. Al heb je zo nu en da
 
 Grijzer wordt je dan weer wél met de jaren. Het kan ook zijn dat je het einde van je leven nadert... maar dan zónder haren. 
 
-Ziek worden gaat nu alleen wel wat makkelijker, zolang je maar lekker kunt blijven eten en drinken tot het einde met een lach. Kijken wat voor een gezonds je nu weer eens zal consumeren doe je dan ook per dag. 
+Ziek worden gaat nu alleen wel wat makkelijker... zolang je maar lekker kunt blijven eten en drinken met een lach. Kijken wat voor een gezonds je nu weer eens zal consumeren doe je dan ook per dag. 
 
 Jammer voor jou heb je toch nog wel wat intelligentie in je hoofd. Zodat je inderdaad een lang en plezierig leven zal leiden... precies zoals moeders je had beloofd.”
 
