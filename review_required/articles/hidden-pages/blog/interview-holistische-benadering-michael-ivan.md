@@ -4,6 +4,9 @@ Title: …zonder probleem bereikte Ivan de top
 Publish: IVAN'S INSIGHTS
   Author: Ivan Alexandrovitsj
 ---
+Header: https://drive.google.com/file/d/1ZAACIYC7e3kI8iV3i1ukDcfksB99q7FK/view?usp=sharing    <br>
+profile pic: 
+
 interview| **Holisme**
 
 “Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op 17 gezondheidsproblemen te verminderen”, vertelt Ivan Alexandrovitsj.
