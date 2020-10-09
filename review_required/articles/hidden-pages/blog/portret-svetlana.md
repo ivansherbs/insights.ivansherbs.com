@@ -69,7 +69,7 @@ Het was een fijne periode uit mijn leven.
 
 Heb ik ervoor gekozen om mijn heil te zoeken in het bedrijfsleven. 
 
-Niet wetende wat mij stond te wachten. 
+Niet wetende wat mij te wachten stond. 
 
 Ik verhuisde naar de grote stad waar ik in het zakencentrum van Moscow-City een baan regelde als fiscalist bij één van de meest prominente kantoren van Rusland. 
 
