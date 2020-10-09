@@ -12,14 +12,16 @@ Ivan en Michael hebben elkaar destijds ontmoet gedurende een meerdaagse expediti
 
 De hoogste berg in Siberië. 
 
-Ivan (63) weet vanwege zijn ijzersterke conditie de jongere expeditieleden achter zich te laten. 
+Ivan (63) weet vanwege zijn ijzersterke conditie de jongere expeditieleden zowaar bij te benen. 
 
-Het leuke aan deze ontwikkeling. 
+Het leuke aan deze gebeurtenis. 
 
-De oude wijze man neemt hierdoor letterlijk de groep mee op sleeptouw. 
+De oude wijze man wist door ervaring de jongere expeditieleden door de bare tijden heen te begeleiden. 
+
+De weersomstandigheden liegen er namelijk niet om. 
 
 https://drive.google.com/file/d/17Ey8dHygOmt7dN5Abffc0HEiZd5-nZf0/view?usp=sharing
-> Michael besluit Ivan gedurende de tocht eens even aan de tand te voelen. 
+> De jongere expeditieleden besluiten Ivan gedurende de expeditie eens even aan de tand te voelen. 
 
 V **Welke veranderingen in jouw levensstijl hebben voor zo'n gezond en sterk lichaam gezorgd?**
 
@@ -31,7 +33,7 @@ In mijn land (Rusland) werd het delen van kennis niet gestimuleerd, waardoor ik 
 
 Een ware ontdekkingsreis. 
 
-Zelfs voor een Rus van mijn kaliber heb ik even moeten zoeken!
+Zelfs voor een Rus van mijn kaliber heb ik even moeten zoeken.
 
 Ik heb mij destijds gefocused op het gebruik van meer plantaardige en natuurlijke producten. 
 
