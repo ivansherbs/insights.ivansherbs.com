@@ -134,9 +134,11 @@ Wat bekend staat vanwege de prachtige natuur.
 
 Eenmaal aangekomen heb ik eerst weken doelloos rondgereisd. 
 
-Meditatie en yoga centraal stonden in mijn dagelijkse routines.
+En met plezier. 
 
-Met name het mediteren in de ochtend heeft mij er doorheen geholpen. 
+Meditatie en yoga stonden centraal in mijn dagelijkse routines.
+
+Met name het mediteren vroeg in de ochtend heeft mij er doorheen geholpen. 
 
 In het begin had ik hier even moeite mee gezien de chaos in mijn hoofd. 
 
