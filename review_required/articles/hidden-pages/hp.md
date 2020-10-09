@@ -40,25 +40,70 @@ Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken e
 
 Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd. 
 <br>
+<br>
+[ CARROUSEL BELOW ]
 
-https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing <br>
-**Ontdekking|** <br> Oprichter Michael ontdekt Siberië
-Link to:
+### De reis van mijn leven
 
-https://drive.google.com/file/d/17OrtjCTpX-Ozbr4fCyxssbh4fV7pavwi/view?usp=sharing <br>
-**Duurzaamheid|** <br> Chief technologist Andrey over community building. 
-Link to:
+https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing 
 
-https://drive.google.com/file/d/17ErlnFWh72u7zxQJy84JvbLDIHjvlJEE/view?usp=sharing <br>
-**Holisme|** <br> ...zonder probleem bereikte Ivan de top. 
-Link to:
+brief| **Ontdekking**
 
-https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing <br>
-**Levensstijl|** <br> Tea master Svetlana over haar leven in Chazhaevka. 
-Link to:
+Oprichter Michael ontdekt Siberië... 
+
+[Ontdek het verhaal](#https://github.com/ivansherbs/articles.ivansherbs.com/blob/old_drafts/review_required/articles/hidden-pages/blog/brief-ontdekking-michael.md)
 
 <br>
+
+.................
 <br>
+<br>
+
+
+### Duurzaamheid
+
+https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
+
+interview| **Community building**
+
+De oprichter van een Siberische ecodorp Andrey vertelt over het nastreven van zijn utopie...
+
+[Ontdek het verhaal](#https://github.com/ivansherbs/articles.ivansherbs.com/blob/old_drafts/review_required/articles/hidden-pages/blog/interview-community-building-andrey.md)
+
+<br>
+
+.................
+<br>
+<br>
+
+### Leven in Chazhaevka
+
+https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
+
+portret| **Svetlana**
+
+Herbal Tea master Svetlana over haar leven buiten de stad na een carrière als...
+
+[Ontdek het verhaal](#https://github.com/ivansherbs/articles.ivansherbs.com/blob/old_drafts/review_required/articles/hidden-pages/blog/portret-svetlana.md)
+
+<br>
+
+.................
+<br>
+<br>
+
+### ...zonder probleem bereikte Ivan de top
+
+https://drive.google.com/file/d/1ZAACIYC7e3kI8iV3i1ukDcfksB99q7FK/view?usp=sharing
+
+interview| **Holisme**
+
+Ik ging op zoek naar eenvoudige en biologische producten om mijn lichaam en geest te versterken... 
+
+[Ontdek het verhaal](#https://github.com/ivansherbs/articles.ivansherbs.com/blob/old_drafts/review_required/articles/hidden-pages/blog/portret-svetlana.md)
+
+<br>
+
 
 ## Onze collectie
 
