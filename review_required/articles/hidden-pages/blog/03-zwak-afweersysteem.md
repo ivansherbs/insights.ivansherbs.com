@@ -34,7 +34,7 @@ Zo.
 
 Welke vind je mooier? 
 
-Trouwens, 
+Trouwens. 
 
 Laat ik het gelijk even duidelijk maken. 
 
