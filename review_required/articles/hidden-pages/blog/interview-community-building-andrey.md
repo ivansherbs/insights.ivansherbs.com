@@ -4,6 +4,8 @@ Title: Duurzaamheid
 Publish: IVAN'S INSIGHTS
   Author: Andrey Nikitin
 ---
+profile pic: https://drive.google.com/file/d/1kbbirD0H6Ja04ABLNPzbzO4HZQ06HWl2/view?usp=sharing
+
 interview| **Community building**
 
 "Chazhaevka is een Siberische ecodorp wat als doel heeft sociaal, economisch als ecologisch duurzaam te zijn", vertelt Andrey Nikitin.
@@ -22,14 +24,16 @@ Andrey staat er altijd voor open om zijn kennis en kunde over te dragen aan de n
 
 Na een dag hard werken vindt het volgende gesprek plaats.
  
-V **Wat heeft jou ertoe gezet Chazhaevka op te richten?** <br>
+V **Wat heeft jou ertoe gezet Chazhaevka op te richten?** 
+
 Al meer dan 20 jaar ben ik bezig met het verkopen van thee. Toen ik 23 jaar oud was heb ik samen met mijn broer een thee bedrijf opgezet. 
 
 Wij zagen dat Rusland een gebrek had aan kwalitatief hoogwaardige theeën. Hierdoor voelde wij ons genoodzaakt om Rusland kennis te laten maken met verschillende theeën uit Azië. 
 
 En met succes! 
 
-In het begin kwamen de theeën met name uit China. 
+https://drive.google.com/file/d/1tKGATA5Wmmh0gLmglBggyVloE3xMuAf_/view?usp=sharing
+> In het begin kwamen de theeën met name uit China. 
 
 Hier genoten wij met volle teugen van aangezien wij ons de pioniers voelden van de Russische thee markt. Onze onervarenheid heeft ons echter direct naar Azië geleid. 
 
@@ -47,11 +51,15 @@ Voor jullie beeldvorming, het is niet makkelijk om in Rusland aan de juiste info
 
 Na voldoende kennis te hebben opgedaan over de oorsprong van de meest geneeskrachtige kruiden uit deze regio, waar Ivan Chai van wordt gezet, heb ik met mijn familie besloten de stap te zetten richting de Altaj regio. 
 
-Het leven in de stad heeft mij veel goed gedaan, al heb ik altijd al het oprichten van een Siberische ecodorp nagestreefd.
+Het leven in de stad heeft mij veel goed gedaan.
+
+https://drive.google.com/file/d/1q8b-Nqv-jRiRx8Q6ItjiLgbtNnPd5qAr/view?usp=sharing
+> Het oprichten van een Siberische ecodorp heb ik altijd nagestreefd.
 
 Al moet ik er bij vertellen dat mijn innerlijke motivatie om goed te zijn voor mens en milieu ervoor hebben gezorgd dat we ons dorp konden oprichten.
 
-V **Hoe zorgen jullie voor het in stand houden van een ecodorp?** <br>
+V **Hoe zorgen jullie voor het in stand houden van een ecodorp?**
+
 Voor het oprichten en in stand houden van een ecodorp moet je je aangetrokken voelen tot de natuur en zeker zijn van je zaak ervan te kunnen leven. 
 
 Er is voorafgaand diepgaand onderzoek nodig waarbij traditionele ambachten moeten worden aangeleerd. Het aanleren hiervan is tevens een tijdrovend proces waarbij de dan huidige generatie aan ecodorpen de kennis deelt en overdraagt aan de voortrekkers van nieuw op te richten ecodorpen. 
@@ -63,6 +71,9 @@ Binnen Chazhaevka staat met name het produceren van Ivan Chai voorop. Wij produc
 En niet te vergeten! 
 
 Om de smaakbeleving te vergroten combineren wij dit met de overige beschikbare geneeskrachtige kruiden uit de omgeving.
+
+https://drive.google.com/file/d/1a9sUIPZ9zHD1nNYRw8lxJAnVBC_bzzmk/view?usp=sharing
+> Overigens kan de lichter gefermenteerde versie van Ivan Chai ook door het eten worden gebruikt. 
 
 Gelukkig voor ons staat er altijd een nieuwe generatie klaar; om de ambacht van het produceren van kruiden en het in stand houden van een ecodorp aan te leren. 
 
