@@ -51,8 +51,7 @@ brief| **Ontdekking**
 
 Oprichter Michael ontdekt Siberië... 
 
-[Ontdek het verhaal](#https://github.com/ivansherbs/articles.ivansherbs.com/blob/old_drafts/review_required/articles/hidden-pages/blog/brief-ontdekking-michael.md)
-
+[Ontdek het verhaal](#)
 <br>
 
 .................
@@ -68,7 +67,7 @@ interview| **Community building**
 
 De oprichter van een Siberische ecodorp Andrey vertelt over het nastreven van zijn utopie...
 
-[Ontdek het verhaal](#https://github.com/ivansherbs/articles.ivansherbs.com/blob/old_drafts/review_required/articles/hidden-pages/blog/interview-community-building-andrey.md)
+[Ontdek het verhaal](#)
 
 <br>
 
@@ -84,7 +83,7 @@ portret| **Svetlana**
 
 Herbal Tea master Svetlana over haar leven buiten de stad na een carrière als...
 
-[Ontdek het verhaal](#https://github.com/ivansherbs/articles.ivansherbs.com/blob/old_drafts/review_required/articles/hidden-pages/blog/portret-svetlana.md)
+[Ontdek het verhaal](#)
 
 <br>
 
@@ -100,7 +99,7 @@ interview| **Holisme**
 
 Ik ging op zoek naar eenvoudige en biologische producten om mijn lichaam en geest te versterken... 
 
-[Ontdek het verhaal](#https://github.com/ivansherbs/articles.ivansherbs.com/blob/old_drafts/review_required/articles/hidden-pages/blog/portret-svetlana.md)
+[Ontdek het verhaal](#)
 
 <br>
 
