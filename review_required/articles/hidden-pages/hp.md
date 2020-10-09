@@ -135,6 +135,14 @@ Ivan Chai voorkomt urineweginfecties, hierdoor heb ik er minder vaak last van. D
 
 -Claudia via ivansherbs.com
 
+.................
+
+
+Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
+
+-Maria Treben via grootschalig klinisch onderzoek 
+
+.................
 <br>
 <br>
 
