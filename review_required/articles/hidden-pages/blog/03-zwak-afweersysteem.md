@@ -11,7 +11,9 @@ Vandaag begin ik voor de verandering met het voordragen van een hééél mooi ge
 <br>
 
 **Een overbiddelijke kwestie**
-“Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven. Een afscheid waarbij het licht je uit je ogen kijkt.
+“Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven. 
+
+Een afscheid waarbij het licht je uit je ogen kijkt.
 
 Het liefst wil je blijven tot de ouderdom je bij je kladden grijpt.
 
