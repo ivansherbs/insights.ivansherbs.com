@@ -17,7 +17,9 @@ Andrey Nikitin is één van de oprichters van het Siberische ecodorp Chazhaevka.
 
 Deze regio staat bekend om de in het wild groeiende kruiden met geneeskrachtige werking. In deze vallei langs de vruchtbare oevers van de rivier heeft Andrey een ecodorp opgericht. 
 
-Uiteraard niet alleen. Samen met zijn familie is Andrey het avontuur aangegaan.
+Uiteraard niet alleen. 
+
+Samen met zijn familie is Andrey het avontuur aangegaan.
 
 In samenwerking met verschillende kruiden- en theeliefhebbers is langzaam het dorp opgebouwd.
 
