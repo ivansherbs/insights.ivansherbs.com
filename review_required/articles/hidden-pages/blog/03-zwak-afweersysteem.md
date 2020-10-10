@@ -8,13 +8,16 @@ artikel| **Zwak afweersysteem**
 
 Vandaag begin ik voor de verandering met het voordragen van een hééél mooi gedicht over kanker. 
 
-“Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven. Een afscheid waarbij het licht je uit je ogen kijkt. 
+<br>
 
-Het liefst wil je blijven tot de ouderdom je bij je kladden grijpt.
+**Kanker chemotherapie**
+*“Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven. Een afscheid waarbij het licht je uit je ogen kijkt.
 
-Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat. 
+*Het liefst wil je blijven tot de ouderdom je bij je kladden grijpt.
 
-God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak afweersysteem voor langere duur je de nodige weerstand blijven geven.”
+*Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat. 
+
+*God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak afweersysteem voor langere duur je de nodige weerstand blijven geven.”
 
 Mooi he?
 
@@ -22,15 +25,26 @@ Zo´n goed einde bij een gedicht over kanker?
 
 Oke nu nog ééntje maar dan voor speciaal voor ouderen. Waarbij we de tekenen van ouderdom belichten.
 
-“Je voelt het onregelmatig door je lichaam en zo’n beetje iedere dag. Maar je blijft wel alsmaar ouder worden gelukkig wel met een lach. 
+<br>
 
-Het rustiger aan doen is je dan ook op je lijf geschreven. Al heb je zo nu en dan te maken met het onoverkoombaar trillerig bewegen.
+**Een lang en plezierig leven**
+*“Je voelt het onregelmatig door je lichaam, zo’n beetje iedere dag. Maar je blijft wel alsmaar ouder worden, gelukkig wel met een lach. 
 
-Grijzer wordt je dan weer wél met de jaren. Het kan ook zijn dat je het einde van je leven nadert... maar dan zónder haren. 
+*Rustiger aan doen is je dan ook op je lijf geschreven. Al heb je zo nu en dan te maken met onoverkoombaar trillerig bewegen.
 
-Ziek worden gaat nu alleen wel wat makkelijker... zolang je maar lekker kunt blijven eten en drinken met een lach. Kijken wat voor een gezonds je nu weer eens zal consumeren doe je dan ook per dag. 
+*Grijzer wordt je dan weer wél met de jaren. 
 
-Jammer voor jou heb je toch nog wel wat intelligentie in je hoofd. Zodat je inderdaad een lang en plezierig leven zal leiden... precies zoals moeders je had beloofd.”
+*Wat maak het ook uit?!.. 
+
+*op naar 't einde van je leven, met of zónder haren. 
+
+*Ziek worden gaat nu alleen wel wat gemakkelijker per dag. Zolang je maar lekker kunt blijven consumeren met een lach. 
+
+*Goed voor jou heb je toch nog wel de nodige intelligentie in je hoofd. Zodat je inderdaad een lang en plezierig leven zal leiden... 
+
+*precies zoals moeders je had beloofd.”
+
+<br>
 
 Zo.
 
