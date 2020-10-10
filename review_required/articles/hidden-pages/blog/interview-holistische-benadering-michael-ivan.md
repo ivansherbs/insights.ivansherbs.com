@@ -21,7 +21,7 @@ Het leuke aan deze gebeurtenis.
 
 De oude wijze man wist door ervaring de jongere expeditieleden door de bare tijden heen te begeleiden. 
 
-De weersomstandigheden liegen er namelijk niet om. 
+De extreme weersomstandigheden liegen er namelijk niet om. 
 
 https://drive.google.com/file/d/17Ey8dHygOmt7dN5Abffc0HEiZd5-nZf0/view?usp=sharing
 > De jongere expeditieleden besluiten Ivan eens even aan de tand te voelen. 
