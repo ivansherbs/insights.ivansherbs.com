@@ -8,7 +8,11 @@ Header and to use for profile pic: https://drive.google.com/file/d/1of0pW7e1SCXD
 
 portret| **Svetlana**
 
-Een leven vol drukte?
+<br>
+
+**Een leven vol drukte?**
+
+<br>
 
 Niet meer voor deze natuurliefhebber. We hebben het over Svetlana.
 
@@ -24,7 +28,7 @@ Denk aan mediteren, arbeid in de openlucht, vuur maken en koken in de stilte van
 
 
 https://drive.google.com/file/d/11ovwoc7qv2AWDPRyUdgh9b_yrqVOIz2G/view?usp=sharing
-> Overdag doet ze langzaam haar verhaal. 
+> Overdag doet ze haar verhaal. 
 
 
 “Hoe heeft het zover kunnen komen?” Is de vraag die haar wordt gesteld. 
