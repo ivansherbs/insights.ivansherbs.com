@@ -250,6 +250,7 @@ Speciaal voor de liefhebber nog even een kleine toegift.
 
 **Lieve thee drinker** <br>
 "Wat water is voor kikkers.
+
 Is Ivan Chai voor...
 
 <br>
@@ -258,7 +259,7 @@ Is Ivan Chai voor...
 
 <br>
 
-Mensen die hun afweersysteem willen versterken."
+mensen die hun afweersysteem willen versterken."
 
 Goed zo.
 
