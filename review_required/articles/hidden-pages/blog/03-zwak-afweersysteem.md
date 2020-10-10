@@ -106,9 +106,9 @@ Het ligt in de lijn der verwachtingen dat iedereen oud wordt.
 
 **Ouderen**
 
-Het ligt in de lijn der verwachtingen dat wanneer je ouder wordt bepaalde functies van je lichaam minder goed werken.
+Het ligt tevens in de lijn der verwachtingen dat wanneer je ouder wordt bepaalde functies van je lichaam minder goed werken.
 
-Denk aan je spijsverteringsstelsel.  
+Denk bijvoorbeeld aan je spijsverteringsstelsel.  
 
 Door ouderdom kan je lichaam voedingsstoffen niet voor altijd goed blijven opnemen.
 
