@@ -10,7 +10,7 @@ Vandaag begin ik voor de verandering met het voordragen van een hééél mooi ge
 
 <br>
 
-**Een overbiddelijke kwestie**
+**Een overbiddelijke kwestie** <br>
 “Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven. 
 
 Een afscheid waarbij het licht je uit je ogen kijkt.
@@ -31,7 +31,7 @@ Oke nu nog ééntje maar dan voor speciaal voor ouderen. Waarbij we de tekenen v
 
 <br>
 
-**Een lang en plezierig leven**
+**Een lang en plezierig leven** <br>
 “Je voelt het onregelmatig door je lichaam, zo’n beetje iedere dag. Maar je blijft wel alsmaar ouder worden, gelukkig wel met een lach. 
 
 Rustiger aan doen is je dan ook op je lijf geschreven. Al heb je zo nu en dan te maken met onoverkoombaar trillerig bewegen.
@@ -241,6 +241,28 @@ Mocht je onverhoopt met een zwak afweersysteem blijven rondlopen, ga verstandig 
 Benieuwd hoe Siberische kruidenthee van invloed is op je afweersysteem?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak afweersysteem. Wat kan worden voorkomen of behandeld met een eenvoudig én biologisch alledaags product.
+
+En om dit deel van het artikel af te sluiten.
+
+Speciaal voor de liefhebber nog even een kleine toegift.
+
+**Lieve thee drinker**
+
+Wat water is voor kikkers.
+
+Is Ivan Chai voor...
+
+<br>
+
+<br>
+
+<br>
+
+Mensen die hun afweersysteem willen versterken
+
+Goed zo.
+
+En nu snel door naar het volgende stuk. 
  
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
 
