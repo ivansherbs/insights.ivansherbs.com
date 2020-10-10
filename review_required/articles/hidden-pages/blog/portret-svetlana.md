@@ -44,8 +44,11 @@ Ik heb toen besloten het drukke zakenleven van Moskou te ontsnappen.
 
 Die is gevestigd op de oostelijke oever van de rivier de Moskva. 
 
-Ik was toe aan vernieuwing. 
+<br>
 
+**Ik was toe aan vernieuwing...** 
+
+<br>
 
 Toen ik werkte in een kantoortuin moest ik vaak denken aan vroeger. 
 
@@ -63,9 +66,11 @@ Mijn ouders sloten dan het familiebedrijf waarna we zeker een maand buiten de st
 
 Het was een fijne periode uit mijn leven. 
 
+<br>
 
 **Na mijn studietijd…**
 
+<br>
 
 Heb ik ervoor gekozen om mijn heil te zoeken in het bedrijfsleven. 
 
@@ -101,11 +106,11 @@ Waar moest ik heen met mijn leven?
 
 Ik zat vast in een gouden kooi.
 
-...
+<br>
 
-Wat zou jij doen? 
+**Wat zou jij doen?**
 
-...
+<br>
 
 Mijn vriendinnen zaten naar eigen inziens wel op hun plek.
 
@@ -196,7 +201,11 @@ Een overmatige hoeveelheid aan stress is niet te zien.
 
 En er heerst gezien de werkdruk een taboe op om het bespreekbaar te maken. 
 
+<br>
+
 Gelukkig heb ik dit nu ver achter mij gelaten. 
+
+<br>
 
 Mocht je nog een tip willen. 
 
