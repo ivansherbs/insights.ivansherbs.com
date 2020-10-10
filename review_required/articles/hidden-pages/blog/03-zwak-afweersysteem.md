@@ -246,10 +246,10 @@ En om dit deel van het artikel af te sluiten.
 
 Speciaal voor de liefhebber nog even een kleine toegift.
 
-**Lieve thee drinker**
+<br>
 
-Wat water is voor kikkers.
-
+**Lieve thee drinker** <br>
+"Wat water is voor kikkers.
 Is Ivan Chai voor...
 
 <br>
@@ -258,7 +258,7 @@ Is Ivan Chai voor...
 
 <br>
 
-Mensen die hun afweersysteem willen versterken
+Mensen die hun afweersysteem willen versterken."
 
 Goed zo.
 
