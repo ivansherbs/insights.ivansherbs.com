@@ -87,8 +87,8 @@ Het gebruik van kruiden klinkt wellicht alternatief, als mens ben ik op zoek naa
 
 Uiteraard met een positief effect op het lichaam en geest! 
 
-https://drive.google.com/file/d/1ZrSFuSJLhhJ2I3h3_ewJ_-y-XfzbA22y/view?usp=sharing
-> De top van de Belukha in het Altaj gebergte
+https://drive.google.com/file/d/15Nuy_SfQeh9R22tHgEhwE43RsC6W_7IV/view?usp=sharing
+> “...zonder probleem bereikte Ivan de top.”
 
 Het klopt dat de werking wellicht wat langer duurt dan conventionele geneesmiddelen, maar preventief problemen voorkomen is beter dan genezen. 
 
