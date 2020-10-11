@@ -8,9 +8,9 @@ artikel| **Slaapproblemen**
 
 Iedereen heeft wel eens minder lekker geslapen dan de nacht ervoor. 
 
-Voor je gevoel lig je de hele nacht wakker. En heb je gedwongen een zogenaamde 'plafonddienst' gedraaid. 
+Voor je gevoel lig je de hele nacht wakker. 
 
-Gelukkig voor jou hoef je dan niet gelijk te spreken van een slaapprobleem….
+Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. 
 
 Nu vraag je jezelf natuurlijk gelijk af. 
 
@@ -40,7 +40,7 @@ Nu komt het gevaar.
 
 Veel Nederlanders hebben dus niet door dat ze langzaam door stress óók een slaapprobleem opdoen.
 
-Hierdoor zijn in Nederland slaapstoornissen een groeiend én zorgwekkend probleem. 
+Hierdoor zijn in Nederland slaapstoornissen een groeiend en zorgwekkend probleem. 
 
 Mede mogelijk gemaakt door een toenemende mate van stress onder de bevolking. Wat letterlijk werkt als katalysator op een slaapprobleem. 
 
