@@ -93,8 +93,6 @@ Wees verstandig en drink kruidenthee mét gezondheidsvoordelen.
 
 Laat je informeren over de 7 voordelen van Ivan Chai. 
 
-Een Siberische kruidenthee. 
-
 <br>
 
 Groeten,
