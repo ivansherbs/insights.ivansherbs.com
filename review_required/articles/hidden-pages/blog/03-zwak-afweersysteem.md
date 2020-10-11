@@ -241,29 +241,6 @@ Mocht je onverhoopt met een zwak afweersysteem blijven rondlopen, ga verstandig 
 Benieuwd hoe Siberische kruidenthee van invloed is op je afweersysteem?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak afweersysteem. Wat kan worden voorkomen of behandeld met een eenvoudig én biologisch alledaags product.
-
-En om dit deel van het artikel af te sluiten.
-
-Speciaal voor de liefhebber nog even een kleine toegift.
-
-<br>
-
-**Lieve thee drinker** <br>
-"Wat water is voor kikkers.
-
-Is Ivan Chai voor...
-
-<br>
-
-<br>
-
-<br>
-
-mensen die hun afweersysteem willen versterken."
-
-Goed zo.
-
-En nu snel door naar het volgende stuk. 
  
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
 
