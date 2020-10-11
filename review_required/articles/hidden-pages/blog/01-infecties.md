@@ -108,12 +108,6 @@ Ook mannen kunnen last krijgen van deze onzichtbare legers!
 
 Denk nu maar aan een piemel.
 
-…
-
-Een piemel?
-
-Ja een piemel!
-
 Goed zo. 
 
 Maar ook wanneer je een orale beurt krijgt kunnen de legers zich verplaatsen van strijdveld. 
@@ -140,39 +134,13 @@ Dit gezegd hebbende vraag je jezelf natuurlijk af.
 
 HOE ZIET EEN VAGINALE SCHIMMELINFECTIE ER UIT !?
 
-JAA !!! 
-
-ALTIJD AL WILLEN WETEN !!! 
-
-JA IK OOK AL !!!
-
-VERZAMEL IEDEREEN IN DE KAMER ! 
-
-DOE HET NU !!!
-
-WANT HIER KOMT DE AFBEELDING DIE IEDEREEN WIL ZIEN !!!
-
-JAAA !!!
-
-ZEKER WETEN ?!
-
-JAAA !!!
-
-OKE GAAN WE !!! 
+Deze afbeelding gaan we je laten zien. 
 
 Er is echter één maar….
 
-Ik wil je even waarschuwen dat dit HEEL ongemakkelijk kan zijn wanneer mensen die je niet goed kent even meekijken. 
+Ik wil je even waarschuwen dat dit heel ongemakkelijk kan zijn wanneer mensen die je niet goed kent even meekijken. 
 
 Maar echt heel ongemakkelijk. 
-
-Oke!? 
-
-OKE !!! 
-
-JA !!!
-
-HIER GAAN WE DAN !!!
 
 [KLIK HIER](#)
 
