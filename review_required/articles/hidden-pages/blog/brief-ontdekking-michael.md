@@ -31,9 +31,10 @@ Dagelijks had ik het genoegen nauw samen te werken met de meest ervaren 'herbal 
 
 Zijn naam is Andrey Nikitin (45). Het preventief behandelen van gezondheidsproblemen met kruiden stond centraal bij de kennisoverdracht. 
 
-Hier zijn mij waardevolle lessen bijgebracht. 
+Hier zijn mij waardevolle lessen bijgebracht.
 
-“De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige en biologische alledaagse producten met geneeskrachtige werking.”
+https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
+> De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige en biologische alledaagse producten met geneeskrachtige werking
 
 Gedurende mijn verblijf voelde ik mij dan ook steeds fitter worden. Mede mogelijk gemaakt door het dagelijks oogsten van kruiden uit Siberië. 
 
@@ -65,8 +66,8 @@ Iedereen uit de groep is namelijk top fit.
 
 Echter merkten wij dat Ivan de groep door de meest barre tijden wist heen te slepen. 
 
-https://drive.google.com/file/d/15Nuy_SfQeh9R22tHgEhwE43RsC6W_7IV/view?usp=sharing
-> “...zonder probleem bereikte Ivan de top.”
+https://drive.google.com/file/d/1ZrSFuSJLhhJ2I3h3_ewJ_-y-XfzbA22y/view?usp=sharing
+> De top van de Belukha in het Altaj gebergte
 
 Michael was gefascineerd door zijn doorzettingsvermogen. 
 
