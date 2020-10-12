@@ -1,7 +1,7 @@
 ---
 layout: article.html
 Title: Leven in Chazhaevka 
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Svetlana Petrovayé 
 ---
 Header and to use for profile pic: https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
@@ -153,7 +153,7 @@ In het begin had ik hier even moeite mee gezien de chaos in mijn hoofd.
 
 Gedurende mijn rondreis ben ik verschillende interessante persoonlijkheden tegengekomen.
 
-Zij hebben mij geadviseerd open te staan voor natuurlijke producten die de gemoedstoestand tot rust konden brengen. 
+Zij hebben mij geadviseerd open te staan voor plantaardige producten die de gemoedstoestand tot rust konden brengen. 
 
 https://drive.google.com/file/d/1_kboeRzo5nb0cx3sQSC-5wbqOTAU3RZK/view?usp=sharing
 >Mijn dagelijkse routine paste ik langzaam aan.
