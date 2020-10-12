@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Groeien tot je erbij neervalt...
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Vergrote prostaat**
@@ -122,7 +122,7 @@ Graag willen we tot slot het volgende belichten.
 
 Op zoek naar meer verdieping?
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een vergrote prostaat. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een vergrote prostaat. 
 
 https://drive.google.com/file/d/1NNMBYZTRvfCVLJ9X5NyJC10ILg7r-43v/view?usp=sharing
 
