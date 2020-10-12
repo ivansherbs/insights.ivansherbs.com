@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Preventieve bescherming van je meest kwetsbare orgaan
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Baarmoederontsteking**
@@ -26,7 +26,9 @@ meer dan 17% van de vrouwen rondloopt met een spiraaltje?
 
 Hoogtijd om extra maatregelen te treffen om ontstekingen preventief te behandelen. Het spiraaltje is immers een risicofactor geworden voor je meest kwetsbare orgaan!
 
-Je wil bij het beschermen van je baarmoeder gebruik maken van een eenvoudig én zo natuurlijk mogelijk alledaags product. Dit kan middels Ivan Chai. 
+Je wil bij het beschermen van je baarmoeder gebruik maken van eenvoudige en biologische alledaagse producten. 
+
+Dit kan middels Ivan Chai. 
 
 Een Siberische kruidenthee. 
 
@@ -48,7 +50,7 @@ Mocht je toch onverhoopt een met een baarmoederontsteking rondlopen, ga verstand
 
 Lees snel meer over dit probleem. We geven je handige tips. Begin bijvoorbeeld vóór je zwangerschap. En pas ná de bevalling met het drinken van Ivan Chai.
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een baarmoederontsteking. 
 
 https://drive.google.com/file/d/1SffkFIy2pJOTFPZJ7kmGGgUVXFtye6Kq/view?usp=sharing
 
