@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Verzorg je beschermkappen, behoudt soepele gewrichten
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Slijmbeursontsteking**
@@ -36,7 +36,7 @@ Ja!
 
 Dit soort problemen kun je preventief behandelen. Want een ontsteking kan je voorkomen én onderdrukken.
 
-Met een eenvoudig én natuurlijk alledaags product.
+Met eenvoudige en biologische alledaagse producten.
 
 Denk aan Ivan Chai. Een Siberische kruidenthee.
 
@@ -57,7 +57,7 @@ Mocht je toch onverhoopt een zwaardere vorm van een slijmbeursontsteking oplopen
 
 Wil je meer weten over het behoud van soepele gewrichten?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een slijmbeursontsteking. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een slijmbeursontsteking. 
 
 https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
 
