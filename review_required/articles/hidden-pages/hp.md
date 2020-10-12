@@ -9,15 +9,17 @@ Button -> [Bestel nu]
 
 Verzorg je lichaam en geest met kruidenthee uit Siberië.
 
-Onze eerste Siberische kruidenthee die we uitbrengen staat bekend als Ivan Chai. 
+Onze eerste Siberische kruidenthee staat bekend als Ivan Chai. 
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
 <br>
 
-Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken en ontvang updates van Ivan's Insights. 
+Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken...
 
 [subscribe email]
+
+En ontvang updates van Ivan's. 
 
 <br>
 
@@ -37,8 +39,6 @@ Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken e
 
 7. Verzorgt het spijsverteringsstelsel
 
-
-Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd. 
 <br>
 <br>
 [ CARROUSEL BELOW ]
@@ -171,7 +171,7 @@ Button -> [Bestel nu]
 
 
 
-## Over Ivan's Insights
+## Over Ivan's 
 
 Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
