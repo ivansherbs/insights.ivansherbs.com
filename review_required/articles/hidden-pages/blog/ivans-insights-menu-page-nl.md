@@ -283,7 +283,7 @@ artikel| **Prostaatontsteking**
 <br>
 
 https://drive.google.com/file/d/1sBXXj9X5weqMuLzgNl1KLs-1857xPFTk/view?usp=sharing
-### Een goedaardige aandoening
+### Groeien tot je erbij neervalt...
 
 artikel| **Vergrote prostaat**
 
