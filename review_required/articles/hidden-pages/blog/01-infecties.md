@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Het onzichtbare leger
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S 
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Infectie**
