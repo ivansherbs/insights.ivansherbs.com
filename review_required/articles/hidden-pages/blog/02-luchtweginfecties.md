@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Theeleuten: je kunt niet vroeg genoeg beginnen
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Luchtweginfectie**
@@ -60,7 +60,9 @@ Door je kind al op vroege leeftijd kennis te laten maken met thee drinken verste
 
 Mocht jij, of je oogappeltje, toch onverhoopt een zwaardere vorm van een luchtweginfectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Eenvoudig een verkoudheid of griep voorkomen? Of Pseudokroep verzorgen?
+Eenvoudig een verkoudheid of griep voorkomen? 
+
+Of Pseudokroep verzorgen?
 
 Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
 
