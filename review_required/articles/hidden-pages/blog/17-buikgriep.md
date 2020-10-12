@@ -6,7 +6,11 @@ Publish: IVAN'S
 ---
 artikel| **Buikgriep**
 
+<br>
+
 Lief dagboek,
+
+<br>
 
 Vandaag was voor mij weer een hele vervelende dag. 
 
@@ -50,7 +54,11 @@ Want ik wil niet overstappen naar een spiraaltje.
 
 Wat zou jij doen?
 
-Liefs. 
+<br>
+
+Liefs X
+
+<br>
 
 ### Wist je dat je het krijgen van buikkrampen vaak kunt voorspellen?
 
