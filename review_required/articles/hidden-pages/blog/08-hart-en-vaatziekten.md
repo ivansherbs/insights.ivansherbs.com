@@ -1,7 +1,7 @@
 ---
 layout: article.html
 Title: Je hart als bakermat van liefde 
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Hart- en vaatziekten**
@@ -91,7 +91,7 @@ Bij gebruik van zware farmaceutische medicijnen, raden wij het aan eerst met een
 
 Benieuwd naar de impact van hart- en vaatziekten?
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een hart- en vaatziekten. Wat kan worden voorkomen met een eenvoudig én natuurlijk alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een hart- en vaatziekten. 
 
 https://drive.google.com/file/d/1pL-XQzOhZQ9sA9vYbB-O6g_YYt4eq9uj/view?usp=sharing
 
