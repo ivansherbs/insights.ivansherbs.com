@@ -24,7 +24,7 @@ Nou…
 
 Omdat dat er veel zijn en ik het besef wil kweken dat het makkelijk te voorkomen is. 
 
-Met eenvoudige én biologische alledaagse producten. 
+Met eenvoudige en biologische alledaagse producten. 
 
 Ik ga je bij deze een aantal tips geven om dit te voorkomen. 
 
@@ -206,7 +206,7 @@ Wat ze doen. Waar ze wonen en hoe ze eruit kunnen zien wanneer ze zich massaal g
 
 Dan zijn we nu eindelijk aangekomen bij de tips! 
 
-Bestaande uit eenvoudige én natuurlijke alledaagse producten.
+Bestaande uit eenvoudige en biologische alledaagse producten.
 
 ### Tip nummer 1 
 
@@ -378,7 +378,7 @@ Vergeet niet dat een infectie makkelijk kan terugkomen.
 
 Ben jij benieuwd naar meer informatie over infecties?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over infecties. 
 
 https://drive.google.com/file/d/15MoaWGRG_ZOdjpOo42T89Bb1gwwFvkGl/view?usp=sharing
 
