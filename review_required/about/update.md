@@ -33,7 +33,7 @@ Deze genormaliseerde manier van werken dient daarom vergezeld te worden door een
 
 Hoe pakken wij dit aan?
 
-Dit doen wij door het aanbieden van eenvoudige en biologische alledaagse producten.
+Wij richten ons op het aanbieden van eenvoudige en biologische alledaagse producten.
 
 Deze producten bevatten vele voordelen.
 
