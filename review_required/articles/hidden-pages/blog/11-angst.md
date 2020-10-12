@@ -1,7 +1,7 @@
 ---
 layout: article.html
 Title: Zie jij het wél aankomen?
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Angst**
@@ -102,9 +102,11 @@ Simpel voorbeeld is het opdoen van make-up.
 
 Er zijn tal van voorbeelden te noemen. Een combinatie van verschillende factoren zorgen ervoor dat je gevoel van angst, of die van je kinderen, minder wordt.
 
-Waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk alledaags product om dit probleem te bestrijden.
+Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten om dit probleem te bestrijden.
 
-Denk aan Ivan Chai. Een Siberische kruidenthee.
+Denk aan Ivan Chai. 
+
+Een Siberische kruidenthee.
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent angst te voorkomen.
 
@@ -118,8 +120,8 @@ Lees verder hoe Ivan Chai je kan helpen bij het verminderen van angst.
 
 Benieuwd hoeveel mensen last hebben van angst?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
- 
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over angst. 
+
 https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=sharing
 
 * [Over angst](#over-angst)
