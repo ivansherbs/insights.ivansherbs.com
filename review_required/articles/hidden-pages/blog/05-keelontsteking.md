@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: De man zonder hamer
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Keelontsteking**
@@ -214,7 +214,7 @@ Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. 
 
 Lees snel meer over dit probleem. 
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een keelontsteking.  Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een keelontsteking.  
 
 https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
 
