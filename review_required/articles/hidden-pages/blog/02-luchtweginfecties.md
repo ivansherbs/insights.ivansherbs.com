@@ -40,7 +40,7 @@ Vergelijk een luchtweginfectie bij een kind van 1 jaar, met een luchtweginfectie
 
 Dit geldt dus ook voor  je kind van 1 jaar met Pseudokroep.
 
-Kortom, je kunt je kinderen niet vroeg genoeg laten kennismaken met eenvoudige én natuurlijke producten die het opnemen van voedingsstoffen bevorderen.
+Kortom, je kunt je kinderen niet vroeg genoeg laten kennismaken met eenvoudige en biologische alledaagse producten die het opnemen van voedingsstoffen bevorderen.
 
 En dit geeft jullie ook de gelegenheid om samen lekker te theeleuten met elkaar. 
 
@@ -64,7 +64,7 @@ Eenvoudig een verkoudheid of griep voorkomen?
 
 Of Pseudokroep verzorgen?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties.
 
 > Lees snel verder en ontvang óók tips voor het drinken van Ivan Chai met kinderen!
 
