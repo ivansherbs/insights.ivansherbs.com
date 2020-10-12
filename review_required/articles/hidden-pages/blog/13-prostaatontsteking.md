@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Er is geen touw aan vast te knopen...
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S 
   Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Prostaatontsteking**
@@ -105,9 +105,11 @@ Denk aan Ivan Chai.
 
 Een Siberische kruidenthee met voordelen voor de prostaat. 
 
+> Het European Medicines Agency heeft de werking van Ivan Chai geëvalueerd en goedgekeurd.
+
 Op zoek naar meer verdieping?
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een vergrote prostaat. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een vergrote prostaat. 
 
 https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
 
@@ -136,11 +138,15 @@ Bij heftige symptomen moet men denken aan:
 
 Een prostaatontsteking kan de dagelijkse bezigheden op een negatieve manier beïnvloeden.
 
-Dit probleem kun je preventief behandelen, met een eenvoudige natuurlijke behandelingen. In de vorm van een alledaags product. Denk aan Ivan Chai.
+Dit probleem kun je preventief behandelen met eenvoudige en biologische alledaagse producten. 
 
-Deze Siberische kruidenthee kun je preventief of ter behandeling gebruiken tegen prostaatklachten. Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
+Denk aan Ivan Chai.
 
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een prostaatontsteking te verminderen. Of te behandelen.
+Een Siberische kruidenthee.
+
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op een prostaatontsteking te verminderen. 
+
+Of te behandelen.
 
 Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
