@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Opgeven is géén optie
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Burn-out**
@@ -222,9 +222,11 @@ Ik ga je nu dan ook gelijk een tip geven.
 
 _“...graag”._ 
 
-Waar ik je op wil wijzen is het gebruik van een eenvoudig én biologisch product om dit probleem te bestrijden.
+Waar ik je op wil wijzen is het gebruik van eenvoudige en biologische alledaagse producten om dit probleem te bestrijden.
 
-Denk aan Ivan Chai. Een Siberische kruidenthee.
+Denk aan Ivan Chai. 
+
+Een Siberische kruidenthee.
 
 De reden is als volgt. 
 
@@ -236,19 +238,17 @@ Onderzoek ondersteund deze kalmerende werking.
 
 En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-Wellicht zou je dit alledaagse product eens moeten proberen? 
-
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een burn-out te voorkomen.
 
 Mocht je toch onverhoopt met een zware burn-out rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Goed om te weten. Wanneer je een burn-out voorkomt, hoef je minder  snel kennis te maken met de farmaceutische medicijnen die dit probleem bestrijdt.
+Goed om te weten. 
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out.
  
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een burn-out. Wat kan worden voorkomen of behandeld met een eenvoudig én biologisch alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een burn-out. 
 
 https://drive.google.com/file/d/1xRSR-uCLEo5S5krFPwxqMVBWKyqfmGQM/view?usp=sharing
 
