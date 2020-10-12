@@ -171,7 +171,7 @@ Button -> [Bestel nu]
 
 
 
-## Over Ivan's 
+## Over IVAN'S
 
 Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
