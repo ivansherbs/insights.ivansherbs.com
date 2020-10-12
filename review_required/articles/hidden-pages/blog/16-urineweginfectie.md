@@ -1,7 +1,7 @@
 ---
 layout: article.html
 Title: Voorkom relatieproblemen
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Urineweginfectie**
@@ -191,12 +191,19 @@ De (tevens zeer verrassende) statistieken van deze oorzaken bespreken we wel een
 Nog even ter info
 > Waar wij je bewust van willen maken is het volgende. 
 
-De kans om een probleem als een urineweginfectie te verminderen kan met een eenvoudig én natuurlijk product. 
+De kans om een probleem als een urineweginfectie te verminderen kan met eenvoudige en biologische alledaagse producten. 
+
+Denk aan Ivan Chai.
+
+Een Siberische kruidenthee. 
+
+Bijkomende voordelen. 
+
 Ivan Chai heeft een kalmerende werking op je centrale zenuwstelsel waardoor het ook de kans op mentale klachten vermindert. 
 
 Beide goed voor je relatie! 
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een urineweginfectie. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een urineweginfectie. 
 
 https://drive.google.com/file/d/1H05NjEg8ZDrRS7PkIZ3bMKHhti2Lm2hw/view?usp=sharing
 
