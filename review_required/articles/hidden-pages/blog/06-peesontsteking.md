@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Runners high versus Ontstoken pees
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Peesontsteking**
@@ -74,7 +74,7 @@ Het gevolg van dit probleem is dat jij even niet kunt sporten. En thuis op de ba
 
 Probeer voortaan een peesontsteking preventief te behandelen. Ontstekingen kan je voorkomen én onderdrukken. 
 
-Met een eenvoudig én natuurlijk alledaags product.
+Met eenvoudige en biologische alledaagse producten.
 
 Denk hierbij aan Ivan Chai. 
 
@@ -89,7 +89,7 @@ Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga v
 
 Wil je meer weten over een peesontsteking? en hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een peesontsteking. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een peesontsteking. 
 
 https://drive.google.com/file/d/1w5R0M2jAeJTE_hTzZfldx8fWL59ETzT9/view?usp=sharing
 
