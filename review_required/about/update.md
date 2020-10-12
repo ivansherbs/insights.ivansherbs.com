@@ -14,11 +14,11 @@ Wij geloven in het aanbieden van producten die een krachtige impact hebben op je
 
 Om ons sociaal en verantwoordelijk gedrag vorm te geven richten wij ons op de volgende drie punten. 
 
-[1| Introduceren kruiden uit Siberië](#1|-Introduceren-kruiden-uit-Siberië)
+1| Introduceren kruiden uit Siberië
 
-[2| Informeren](#2|-Informeren)
+2| Informeren
 
-[3| Community building](#3|-Community-building)
+3| Community building
 
 <br>
 
