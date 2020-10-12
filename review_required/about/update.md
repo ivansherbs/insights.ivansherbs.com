@@ -1,12 +1,11 @@
 ---
 layout: article.html
 Title: Over ons
-Publish: IVAN'S
   Author: Michael Koch
 ---
 Header: https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
 
-Visie| **Ivan’s Herbs**
+Over| **Ivan’s Herbs**
 
 Versterk dagelijks je lichaam en geest met kruidenthee uit Siberië.
 
