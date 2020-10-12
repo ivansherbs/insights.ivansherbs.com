@@ -1,7 +1,7 @@
 ---
 layout: article.html
 Title: De reis van mijn leven
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Michael Koch
 ---
 header: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing <br>
@@ -58,13 +58,17 @@ Gedurende deze expeditie heb ik onder andere een herborist ontmoet genaamd Ivan 
 
 Ivan was veruit de oudste van de expeditie groep. 
 
-Gedurende deze expeditie viel mij iets op. Overigens niet alleen mij. Maar meedere expeditieleden. 
+Gedurende deze expeditie viel mij iets op. 
+
+Overigens niet alleen mij. 
+
+Maar meedere expeditieleden. 
 
 Dit kwam door de volgende gebeurtenis. 
 
 Iedereen uit de groep is namelijk top fit. 
 
-Echter merkten wij dat Ivan de groep door de meest barre tijden wist heen te slepen. 
+Echter merkten wij dat Ivan de groep met veel plezier door de meest barre tijden wist heen te slepen. 
 
 https://drive.google.com/file/d/1ZrSFuSJLhhJ2I3h3_ewJ_-y-XfzbA22y/view?usp=sharing
 > De top van de Belukha in het Altaj gebergte
@@ -77,9 +81,11 @@ Ivan is een herborist. En heeft gedurende zijn leven de pijlers gericht op het v
 
 Kruiden om het lichaam en geest te versterken. 
 
-Mede door deze ontmoeting, prestatie en gelijkgestemde levensstijl, waarbij het holistische perspectief centraal staat, hebben we besloten contact te houden
+Mede door deze ontmoeting, prestatie en gelijkgestemde levensstijl hebben we besloten contact te houden.
 
-Tot op de dag van vandaag dient Ivan namelijk als inspiratiebron en vertrouwd adviseur.
+Tot op de dag van vandaag dient Ivan als inspiratiebron en vertrouwd adviseur.
+
+Mijn les gedurende de reis van mijn leven? 
 
 Maak gebruik van eenvoudige en biologische alledaagse producten. 
 
