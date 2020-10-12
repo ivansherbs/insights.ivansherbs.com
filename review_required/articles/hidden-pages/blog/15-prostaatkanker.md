@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Een onopgemerkt probleem
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Prostaatkanker**
@@ -53,7 +53,7 @@ Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankerc
 * Het antitumor effect is echter wél goed bestudeerd én heeft met name een positieve werking op gezonde prostaatcellen.
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam, worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
-Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een prostaatkanker. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dit is het artikel waar je naar opzoek was om snel te worden geïnformeerd over een prostaatkanker. 
 
 https://drive.google.com/file/d/1hqkfTq3sOLZNmO4T40S1gmG6dqMxGoiQ/view?usp=sharing
 
