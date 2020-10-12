@@ -1,7 +1,7 @@
 ---
 layout: article.html
 Title: Duurzaamheid
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Andrey Nikitin
 ---
 Header: https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing <br> 
