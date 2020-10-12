@@ -1,7 +1,7 @@
 ---
 layout: article.html
 Title: …zonder probleem bereikte Ivan de top
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Ivan Alexandrovitsj
 ---
 Header: https://drive.google.com/file/d/1ZAACIYC7e3kI8iV3i1ukDcfksB99q7FK/view?usp=sharing    <br>
