@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Ben jij er al achter hoe het écht voelt?
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Stress**
@@ -74,17 +74,15 @@ Dit probleem kun je aanpakken door het veranderen van je levensstijl.
 
 Het nemen van meer rust. Zoals een vakantie. Het leegmaken van je hoofd. Middels sport of een wandeling. En het uitbalanceren van je werk-privéleven zijn de eerste stappen naar een kalmere gemoedstoestand.
 
-Waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk product om dit probleem te bestrijden.
+Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten om dit probleem te bestrijden.
 
-Denk aan Ivan Chai. Een Siberische kruidenthee.
+Denk aan Ivan Chai. 
+
+Een Siberische kruidenthee.
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een stress te voorkomen.
 
 Mocht je toch onverhoopt met een overmatige hoeveelheid aan stress rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode
-
-Goed om te weten. 
-
-Wanneer je open staat voor een eenvoudig én natuurlijk product als Ivan Chai. En hiermee de kans op stress vermindert, hoef je minder snel kennis te maken met de farmaceutische medicijnen die deze problemen bestrijden.
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
@@ -92,7 +90,7 @@ Lees verder hoe Ivan Chai je kan helpen bij het verminderen stress.
 
 Wil je dieper ingaan op het onderwerp stress? En een meer weten over Ivan Chai?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over stress. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over stress. 
 
 https://drive.google.com/file/d/1zpQTg9zieA0FuUcRrxKRggCGvSDR09SJ/view?usp=sharing
 
