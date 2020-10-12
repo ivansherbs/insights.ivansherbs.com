@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Stress als katalysator op een slaapprobleem
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Slaapproblemen**
@@ -114,11 +114,11 @@ Kun je nagaan hoeveel invloed dit probleem heeft op de Nederlandse economie. Hoe
 
 Om je nachtrust te verbeteren zijn er tal van tips te vinden. 
 
-Waar wij je op willen wijzen is het gebruik van een eenvoudig én natuurlijk alledaags product.
+Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten.
 
 Denk hierbij aan Ivan Chai. Een Siberische kruidenthee. 
 
-Een zeer eenvoudige én natuurlijke alledaags product. Goed voor jong en oud. 
+Goed voor jong en oud. 
 
 > Onderzoek heeft aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. Wat goed werkt tegen stress. Een groot deel van slaapproblemen wordt veroorzaakt door stress. Met name dit probleem zorgt voor slapeloze nachten.
 
@@ -136,7 +136,7 @@ Mocht je toch onverhoopt slaapproblemen rondlopen, ga verstandig te werk. Bel ee
 
 Benieuwd naar de impact van slaapproblemen op Nederland?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over slaapproblemen. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over slaapproblemen. 
 
 https://drive.google.com/file/d/1IhyqqYMdLSB0qnJE0ZUDl28gHBBmLAK-/view?usp=sharing
 
