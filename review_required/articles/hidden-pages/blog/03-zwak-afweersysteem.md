@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Alle kleine beetjes helpen...
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Ivan Alexandrovitsj (63)
 ---
 artikel| **Zwak afweersysteem**
@@ -226,7 +226,7 @@ Tot slot.
 
 Laat ik het nogmaals herhalen. Alle kleine beetjes helpen om je afweersysteem sterk te houden. 
 
-Wat erbij kan helpen is een eenvoudig én biologisch alledaags product.
+Wat erbij kan helpen zijn eenvoudige en biologische alledaagse producten.
 
 Denk aan Ivan Chai. Een Siberische kruidenthee met 7 voordelen.
 
@@ -240,7 +240,7 @@ Mocht je onverhoopt met een zwak afweersysteem blijven rondlopen, ga verstandig 
 
 Benieuwd hoe Siberische kruidenthee van invloed is op je afweersysteem?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak afweersysteem. Wat kan worden voorkomen of behandeld met een eenvoudig én biologisch alledaags product.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een zwak afweersysteem. 
  
 https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
 
