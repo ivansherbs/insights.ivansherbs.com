@@ -1,7 +1,7 @@
 ---
 layout: article.html
 title: Buikkrampen zijn een voorspelbaar probleem
-Publish: IVAN'S INSIGHTS
+Publish: IVAN'S
   Author: Svetlana Petrovayé (37)
 ---
 artikel| **Buikgriep**
@@ -18,13 +18,19 @@ Dit keer komt het denk ik door de anticonceptiepil.
 
 Ik wil helemaal nog geen kinderen. 
 
-Of beter nog. Misschien zelfs geen. 
+Of beter nog. 
+
+Misschien zelfs geen. 
 
 Waar ik het dus eigenlijk over wil hebben is het volgende. 
 
-Ik heb wéér last van mijn buik. Wat ik dus denk is dat ik mijn hormoonhuishouding flink door de war aan het schudden ben. 
+Ik heb wéér last van mijn buik. 
 
-Ik heb dus geen zin om te stoppen met de anticonceptiepil. Maar ook wil ik geen condooms gebruiken. 
+Wat ik dus denk is dat ik mijn hormoonhuishouding flink door de war aan het schudden ben. 
+
+Ik heb dus geen zin om te stoppen met de anticonceptiepil. 
+
+Maar ook wil ik geen condooms gebruiken. 
 
 Wat ik dus merk is dat ik nu dus extra vaak last heb van mijn buik. 
 
@@ -153,7 +159,7 @@ Mocht je toch onverhoopt een zwaardere vorm van buikgriep oplopen, ga verstandig
 
 Op zoek naar meer inzichten?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over buikgriep. Wat kan worden voorkomen of behandeld met een eenvoudig én natuurlijk alledaags product.
+Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over buikgriep. Wat kan worden voorkomen of behandeld met eenvoudige en biologische alledaagse producten.
 
 https://drive.google.com/file/d/1IgCEryUDLbFkXy92lN1XAUkOIVoWBCPY/view?usp=sharing
 
