@@ -10,9 +10,11 @@ Voorkom relatieproblemen door het voorkomen van een urineweginfectie!!!
 
 Ja!
 
-Maar... huh?! Maar hoe dan? 
+Maar... 
 
-(aardbei)
+huh?! 
+
+Maar hoe dan? 
 
 Wat bedoel je hier eigenlijk mee?
 
@@ -40,7 +42,9 @@ Voor de duidelijkheid.
 
 En om verwarring te voorkomen. 
 
-Met het holistisch perspectief benaderen we de mens in zijn totaliteit. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. 
+Met het holistisch perspectief benaderen we de mens in zijn totaliteit. 
+
+Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. 
 
 Klinkt ingewikkeld of niet?  
 
