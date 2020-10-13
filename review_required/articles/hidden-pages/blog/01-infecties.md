@@ -271,7 +271,7 @@ Wil je infecties voorkomen?
 
 Denk hierbij aan Ivan Chai. Een Siberische kruidenthee
 
-(Even tussen neus en lippen. Ben je overigens benieuwd naar de in totaal 17 problemen waar Ivan Chai goed tegen werkt? Lees dan de artikelen van Ivan’s Insights onderaan deze pagina).
+(Even tussen neus en lippen. Ben je overigens benieuwd naar de in totaal 17 problemen waar Ivan Chai goed tegen werkt? Lees dan de artikelen van Ivan’s onderaan deze pagina).
 
 > Graag wil ik het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En ik garandeer je dat je beter in staat bent infecties te verzorgen.
 
