@@ -53,7 +53,7 @@ Wij hebben als doel het verbeteren van jou kennis over problemen.
 
 Fysiek en mentaal wel te verstaan. 
 
-Dit doen wij in de vorm van **IVAN’S**. 
+Dit doen wij in de vorm van IVAN’S. 
 
 IVAN’S is een online magazine om 17 alledaagse problemen bespreekbaar te maken. 
 
