@@ -9,6 +9,7 @@ artikel| **Zwak afweersysteem**
 Vandaag begin ik voor de verandering met het voordragen van een hééél mooi gedicht over kanker. 
 
 <br>
+.................
 
 **Een overbiddelijke kwestie** <br>
 “Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven. 
@@ -21,6 +22,7 @@ Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. En 
 
 God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak afweersysteem voor langere duur je de nodige weerstand blijven geven.”
 
+.................
 <br>
 
 Mooi he?
@@ -30,6 +32,7 @@ Zo´n goed einde bij een gedicht over kanker?
 Oke nu nog ééntje maar dan voor speciaal voor ouderen. Waarbij we de tekenen van ouderdom belichten.
 
 <br>
+.................
 
 **Een lang en plezierig leven** <br>
 “Je voelt het onregelmatig door je lichaam, zo’n beetje iedere dag. Maar je blijft wel alsmaar ouder worden, gelukkig wel met een lach. 
@@ -48,6 +51,7 @@ Goed voor jou heb je toch nog wel de nodige intelligentie in je hoofd. Zodat je 
 
 precies zoals moeders je had beloofd.”
 
+.................
 <br>
 
 Zo.
