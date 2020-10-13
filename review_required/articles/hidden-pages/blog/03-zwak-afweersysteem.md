@@ -22,7 +22,6 @@ Het liefst wil je blijven tot de ouderdom je bij je kladden grijpt.
 Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat. 
 
 God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak afweersysteem voor langere duur je de nodige weerstand blijven geven.”
-
 .................
 <br>
 
@@ -52,7 +51,6 @@ Ziek worden gaat nu alleen wel wat gemakkelijker per dag. Zolang je maar lekker 
 Goed voor jou heb je toch nog wel de nodige intelligentie in je hoofd. Zodat je inderdaad een lang en plezierig leven zal leiden... 
 
 precies zoals moeders je had beloofd.”
-
 .................
 <br>
 
