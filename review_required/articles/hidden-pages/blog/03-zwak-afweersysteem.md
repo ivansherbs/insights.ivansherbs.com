@@ -11,7 +11,8 @@ Vandaag begin ik voor de verandering met het voordragen van een hééél mooi ge
 <br>
 .................
 
-**Een overbiddelijke kwestie** <br>
+**Een overbiddelijke kwestie**
+
 “Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven. 
 
 Een afscheid waarbij het licht je uit je ogen kijkt.
@@ -34,7 +35,8 @@ Oke nu nog ééntje maar dan voor speciaal voor ouderen. Waarbij we de tekenen v
 <br>
 .................
 
-**Een lang en plezierig leven** <br>
+**Een lang en plezierig leven** 
+
 “Je voelt het onregelmatig door je lichaam, zo’n beetje iedere dag. Maar je blijft wel alsmaar ouder worden, gelukkig wel met een lach. 
 
 Rustiger aan doen is je dan ook op je lijf geschreven. Al heb je zo nu en dan te maken met onoverkoombaar trillerig bewegen.
