@@ -10,17 +10,17 @@ Laat ik het maar gelijk verklappen.
 
 Ik ga het met name hebben over vaginale schimmelinfecties. 
 
-Want...
+Want.
 
 Wist je dat 3 van de 4 vrouwen last krijgt van een vaginale schimmelinfectie?!
 
-….
+(...)
 
 En nu vraag je jezelf waarschijnlijk af… 
 
 ‘Waarom vertel je me dit?’
 
-Nou… 
+Nou.
 
 Omdat dat er veel zijn en ik het besef wil kweken dat het makkelijk te voorkomen is. 
 
@@ -34,7 +34,7 @@ Lijkt me logisch of niet?
 
 Laat ik beginnen bij een infectie… 
 
-...Want wat is een infectie nou eigenlijk? 
+Want wat is een infectie nou eigenlijk? 
 
 En wat doet het nou eigenlijk met je? 
 
@@ -98,7 +98,7 @@ Om het niet te wetenschappelijk te maken laat ik de details lekker achterwege.
 
 Waar het om gaat is het volgende.
 
-Man of vrouw… 
+Man of vrouw.
 
 Het behandelen van een infectie is een must.
 
@@ -116,7 +116,7 @@ Ze macheren er lustig op los.
 
 En snel ook.
 
-...
+(...)
 
 En zonder dat je er erg in hebt. 
 
@@ -128,7 +128,7 @@ Met seks.
 
 Oke..
 
-Dus…
+Dus.
 
 Dit gezegd hebbende vraag je jezelf natuurlijk af. 
 
