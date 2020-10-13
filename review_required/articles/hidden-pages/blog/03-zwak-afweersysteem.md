@@ -23,6 +23,7 @@ Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. En 
 
 God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak afweersysteem voor langere duur je de nodige weerstand blijven geven.” <br>
 .................
+
 <br>
 
 Mooi he?
