@@ -2,7 +2,7 @@
 layout: article.html
 title: Stress als katalysator op een slaapprobleem
 Publish: IVAN'S
-  Author: Svetlana Petrovayé (37)
+  Author: Svetlana Petrovayé
 ---
 artikel| **Slaapproblemen**
 
@@ -82,7 +82,7 @@ Om slaapproblemen te verklaren bij kinderen (en ook bij volwassen die te vaak op
 
 Gewoon omdat het kan en we er vooral niet te diep op ingaan. 
 
-_”De telefoonverslaving wordt veroorzaakt door het idee en de neurobiologische verwachting dat er een beloning komt, maar je weet niet wanneer je het gaat krijgen. Elk van deze beloningen, zoals berichten, 'likes' en social media updates leiden tot een zogenaamde 'dopamine release'. Dopamine regelt het pleziercentrum in onze hersenen."_
+”De telefoonverslaving wordt veroorzaakt door het idee en de neurobiologische verwachting dat er een beloning komt, maar je weet niet wanneer je het gaat krijgen. Elk van deze beloningen, zoals berichten, 'likes' en social media updates leiden tot een zogenaamde 'dopamine release'. Dopamine regelt het pleziercentrum in onze hersenen."
 
 Wanneer we bovenstaande kort samenvatten komen we op het volgende neer. 
 
@@ -95,6 +95,8 @@ En heel simpel gezegd.
 Bij te veel van beide slaap je niet lekker.
 
 punt
+
+(...)
 
 Hiernaast zijn er ook nog andere redenen waardoor jonge kinderen slaapproblemen kunnen oplopen. Al mogen we allen blij zijn dat de meeste problemen in de categorie “first-world-problems” valt in te delen. 
 
