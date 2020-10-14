@@ -2,11 +2,10 @@
 layout: article.html
 title: De man zonder hamer
 Publish: IVAN'S
-  Author: Ivan Alexandrovitsj (63)
+  Author: Ivan Alexandrovitsj
 ---
 artikel| **Keelontsteking**
 
-Beste alcoholist, 
 
 Beste zware drinker,
 
@@ -14,13 +13,21 @@ Beste zware drinker,
 
 Beste gezelligheidsdrinker,
 
+<br>
+
 Zo dan. 
 
 Het was me weer een feestje. 
 
-De alcohol vloeide rijkelijk. Je babbelde er flink op los. En wederom ben je de man met de hamer weer tegengekomen. 
+De alcohol vloeide rijkelijk. 
 
-Echter verliep zijn avond anders dan gepland. Want jij hebt hem dit keer spreekwoordelijk gewoon eens lekker op z’n bek geslagen. 
+Je babbelde er flink op los. En wederom ben je de man met de hamer tegengekomen. 
+
+Echter.
+
+Verliep zijn avond anders dan gepland. 
+
+Want jij hebt hem dit keer spreekwoordelijk gewoon eens lekker op z’n bek geslagen. 
 
 En goed ook. 
 
@@ -30,7 +37,7 @@ Netjes gezegd.
 
 Gewoon even lekker op wieberen met die hamer van je. 
 
-Sterker nog. 
+Sterker nog! 
 
 Je hebt de hamer afgepakt en em diep in zijn….
 
@@ -40,11 +47,15 @@ Vul maar lekker zelf in waar je die hamer hebt gelaten.
 
 We gaan nog niet naar huis. Nog lange niet nog lange niet. 
 
-Man man man! Wat hadden we het gezellig. 
+(...)
 
-Maar zoals een wijs man zou zeggen. 
+Man man man! 
 
-“Aan alles komt een einde.”
+Wat hadden we het gezellig. 
+
+Maar zoals een wijs man zou spreken. 
+
+Aan alles komt een einde.
 
 En zonder dat je er erg in hebt. 
 
@@ -52,11 +63,9 @@ Wordt je wakker.
 
 Alsof je bent geteleporteerd. 
 
-(immiteer dit geluid: zwôp)
-
 Je hebt gewoon even lekker in een diepe slaap gelegen. 
 
-Mag ook wel. 
+En dat mag ook wel. 
 
 En waarom ook niet?
 
@@ -72,11 +81,11 @@ Zoo he.
 
 ha-ha
 
-Nou nou… poe poe. 
+Nou nou. poe poe. 
 
 Dat was werken. 
 
-Echter…
+Daarentegen.
 
 Voel je dat er ook wat consequentie aan zijn verbonden. 
 
@@ -108,11 +117,17 @@ En zo nu en dan komen daar dan brokken bij naar boven.
 
 Die slik je dan vervolgens uit reactie weer heerlijk in.
 
-Echter zitten we in een periode in het jaar dat je weerstand een tikkeltje lager is. 
+Nadeel is. 
+
+We zitten in een periode van het jaar dat je weerstand een tikkeltje lager is. 
 
 En daarom heb je óók nog eens last van een beetje koorts. Je ligt in bed en je probeert wederom te gaan slapen.
 
-Je denkt na over wat je het afgelopen weekend hebt gedaan.
+(...) 
+
+Met grote ergernis draai je een keer om. 
+
+Dan maar nadenken over wat je het afgelopen weekend hebt gedaan.
 
 Geen idee waar ‘t eigenlijk over ging. Of wat de strekking was van het verhaal. 
 
@@ -120,23 +135,29 @@ Het was weer eens véél te gezellig.
 
 De alcohol vloeide rijkelijk. En wat was dat lekker.
 
-Echter...
-
-merk je dat je ook een dagje ouder wordt. 
+Nu je weer bij zinnen bent merk je dat je ook een dagje ouder wordt. 
 
 Jammer genoeg.
 
-Slapen lukt niet meer. De dag begint.
+Slapen lukt niet meer. 
 
-Vermoeid sta je op. Je loopt naar de badkamer.
+De dag begint.
 
-Je kijkt jezelf in de spiegel eens even goed aan.
+Vermoeid sta je ddan maar op. Je loopt naar de badkamer.
+
+Eenmaal aangekomen. 
+
+Kijk je jezelf eens even goed aan in de spiegel. 
+
+(...)
 
 Vreselijk...
 
-Je ziet er niet uit…
+Je ziet er niet uit.
 
-Alweer...
+(...)
+
+Alweer niet.
 
 ha-ha
 
@@ -152,17 +173,25 @@ Echter hebben die 3 glazen koud water nog steeds geen effect.
 
 Je denkt even zeer omslachtig na. 
 
-Waardoor het lijkt of de tijd even stil staat... 
+Waardoor het lijkt of de tijd even stil staat.
 
-...
+(...)
 
 En komt dan vervolgens ineens uit het niets tot een conclusie. 
 
-...Inderdaad.
+Inderdaad.
 
 Je gevoel vertelt je dat je wel een lichte keelontsteking moet hebben opgelopen.
 
-Zo. Dat is er uit. 
+Zo. 
+
+Dat is er uit. 
+
+(...)
+
+Bij deze wil ik je het volgende laten weten. 
+
+Ook ik ken de symptomen. 
 
 Ik ga je bij deze dan ook een tip geven waar je de rest van je leven wat aan hebt. 
 
@@ -188,7 +217,7 @@ Ivan Chai werkt als een krachtige ontstekingsremmer.
 
 Ivan Chai heeft in totaal 7 voordelen goed voor lichaam en geest. 
 
-En… 
+En.
 
 Ivan Chai bestaat uit water waar je lichaam nu een hoop behoefte aan heeft. 
 
@@ -202,9 +231,13 @@ Om mijn brief nog even heel wijselijk af te sluiten.
 
 ‘Een gewaarschuwd mens telt voor twee’. 
 
+<br>
+
 Hartelijke groet,
 
 Ivan
+
+<br>
 
 > Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een keelontsteking te voorkomen. Of te verzorgen.
 
