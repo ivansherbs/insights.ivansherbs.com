@@ -2,13 +2,17 @@
 layout: article.html
 title: Theeleuten: je kunt niet vroeg genoeg beginnen
 Publish: IVAN'S
-  Author: Ivan Alexandrovitsj (63)
+  Author: Svetlana Petrovayé
 ---
 artikel| **Luchtweginfectie**
 
-Iedereen heeft wel eens last van een luchtweginfectie. En iedereen weet het. Je loopt er vroeg of laat weer een keer tegenaan.
+Iedereen heeft wel eens last van een luchtweginfectie. En iedereen weet het. 
 
-Meestal kun je er niet veel tegen doen, zoals tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. Dit effect kan worden versterkt door een ongezonde levensstijl.
+Je loopt er vroeg of laat weer een keer tegenaan.
+
+Meestal kun je er niet veel tegen doen, zoals tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
+
+Dit effect kan worden versterkt door een ongezonde levensstijl.
 
 Soms kun je er ook niet veel tegen doen. Je bent bijvoorbeeld ook extra vatbaar voor dit soort problemen bij gebruik van farmaceutische medicijnen.
 
@@ -22,13 +26,17 @@ Dus…
 
 Extra voedingsstoffen zijn altijd welkom. 
 
-Helemaal gedurende de wintermaanden én wanneer je medicijnen gebruikt. Zo houdt je je lichaam en geest zo lang mogelijk gezond.
+Helemaal gedurende de wintermaanden én wanneer je medicijnen gebruikt. 
+
+Zo houdt je je lichaam en geest zo lang mogelijk gezond.
 
 Hetzelfde geldt overigens voor kinderen.
 
 Oók zij hebben extra voedingsstoffen nodig.
 
-Het begint al op jonge leeftijd wanneer kinderen last kunnen krijgen van pseudokroep. Dus dan moet je denken aan de leeftijd 1-6 jaar.
+Het begint al op jonge leeftijd wanneer kinderen last kunnen krijgen van pseudokroep. 
+
+Dus dan moet je denken aan de leeftijd 1-6 jaar.
 
 Laten we een vergelijking maken waarom het verstandig is kinderen zo snel mogelijk thee (met voordelen) te leren drinken.
 
