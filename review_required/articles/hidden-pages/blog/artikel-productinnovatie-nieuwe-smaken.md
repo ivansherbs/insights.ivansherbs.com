@@ -42,7 +42,8 @@ Drink deze befaamde Siberische kruidenthee tegen menstruatiepijn en buikkrampen.
 ### Meadowsweet
 Eenmaal een kop gezet komen de frisse, bloemige en bitterzoet aroma’s je van ver al tegemoet. 
 
-Fijnproevers opgelet. <br>
+Fijnproevers opgelet!
+
 Ontdek op de achtergrond een verborgen amandelachtige toon om het smaakpalet in balans te houden. 
 
 
