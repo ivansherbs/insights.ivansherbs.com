@@ -1,57 +1,73 @@
 ---
 layout: article.html
 title: Nieuwe smaken
-Publish: IVAN'S INSIGHTS
-  Author: Michael Koch
+Publish: IVAN'S 
+  Author: Svetlana Petrovayé
 ---
 artikel| **Productinnovatie**
 
-Ivan’s Herbs zorgt ervoor dat we er zijn voor de gezondheid van iedere klant. Naast het aanbieden van Ivan Chai, houden wij ook rekening met variatie om de smaakbeleving te blijven verrassen. 
+Ivan’s Herbs is begonnen met het aanbieden van Ivan Chai. 
 
-Om je alvast een tipje van de sluier te geven over de smaakbeleving inclusief te voorkomen problemen, hieronder een overzicht van de aankomende producten.
+Naast Ivan Chai houden wij ook rekening met de nodige variatie. Wij stellen hierbij graag jouw smaakbeleving op de proef. 
 
-De omschrijving is rechtstreeks afkomstig van één van onze Siberische ‘tea masters’ Svetlana Petrovayé. 
+Ontdek nu de nieuwe smaken en blijf op de hoogte. 
 
-[ADD PICTURE NEW TUBE] 
+[ADD PICTURE NEW TUBE]
 
-### Green Ivan Chai 
-_“Green Ivan Chai is the purest taste of young, hand-picked leaves, dried in the sun. You will be seduced by the grassy flavour and aroma of freshly cut grass. The purest Siberian tea has all nutrients available.”_
+### Green Ivan Chai
+Onze meest groene Chai is de jongste hand geplukte thee uit ons assortiment. 
 
-problemen| [Infectie](#voorkom-onnodige-weefselschade) [Luchtweginfectie](#Hoe-voorkom-je-verkoudheid-of-griep-én-verzorg-je-een-kind-met-pseudokroep) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid) [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#Wat-te-gebruiken-wanneer-antibiotica-geen-zin-heeft) [Peesontsteking](#De-sportblessure-wanneer-je-te-vaak-én-intensief-je-spieren-hebt-belasts) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten) [Hart- en vaatziekten](#Zie-het-tijdig-aankomen) [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem) [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-géén-ptie) [Prostaatontsteking](#Bescherm-de-gezondheid-van-je-prostaat) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen) [Buikgriep](#een-voorspelbaar-probleem)
+Het korte fermentatieproces zorgt voor een frisse bitterzoete en grassige smaak.
 
 
-[ADD PICTURE NEW TUBE] 
+[ADD PICTURE NEW TUBE]
 
-### Happy Moon 
-_“The mixture of Happy Moon was once used in love potions. This infusion is derived directly from nature which gives it a powerful flowery taste. Drink this famous herbal tea for relieving menstrual pain and cramps.”_
+### Happy Moon
+Het verhaal gaat als volgt...
 
-problemen| [Menstruatiepijn](#)
+Deze geheime kruiden combinatie van Happy Moon werd ooit gebruikt in liefdesdranken. 
 
-[ADD PICTURE NEW TUBE] 
+Uiteraard komen de kruiden direct uit de Siberische wildernis. 
+
+Het mag dan ook duidelijk zijn waar de sterk bloemige smaak vandaan komt. 
+
+Voor de vrouwen onder ons. <br> 
+Drink deze befaamde Siberische kruidenthee tegen menstruatiepijn en buikkrampen. 
+
+
+
+[ADD PICTURE NEW TUBE]
 
 ### Meadowsweet
-_“A taste like fresh floral aroma, bittersweet, backed with a deeper almond like essence.”_
+Eenmaal een kop gezet komen de frisse, bloemige en bitterzoet aroma’s je van ver al tegemoet. 
 
-problemen| [Gewrichtspijn](#) [Menstruatiepijn](#) [Migraine](#) [Hoofdpijn](#) [Eczeem](#) [Diarree](#)
+Fijnproevers opgelet. <br>
+Ontdek op de achtergrond een verborgen amandelachtige toon om het smaakpalet in balans te houden. 
 
-[ADD PICTURE NEW TUBE] 
+
+[ADD PICTURE NEW TUBE]
 
 ### Bergenia
-_“Bergenia has a unique, gentle and pleasant flavour. An acquired taste to discover yourself.”_
+Bergenia heeft een unieke, zachte en aangename smaak. Een verfijnde smaak die niet voor iedereen is weggelegd. 
 
-problemen| [Nierstenen](#) [Zwak afweersysteem](#) [Luchtweginfectie](#)
+Wel een smaak om zelf te ontdekken. 
 
-[ADD PICTURE NEW TUBE] 
+Durf jij het aan? 
+
+
+[ADD PICTURE NEW TUBE]
 
 ### Ziziphora
-_“This hidden mountain treasure has the same hot and spicy smell as mint.”_
+Deze verborgen schat uit het Altaj gebergte heeft een vergelijkbare, zeer aanwezige en kruidige geur als mint. 
 
-problemen| [Slaapproblemen](#) [Buikgriep](#) [Hart- en vaatziekten](#) [Overmatig zweten](#)
+Echter met een Siberische twist. 
+
+Ervaar nu zelf de eeuwenoude Siberische kruidentheeën. Veelal gedronken ten noorden van het Altaj gebergte. 
 
 <br>
 <br>
 
-Blijf op de hoogte! <br> 
+Blijf op de hoogte! <br>
 ...en krijg 7% korting op je eerste bestelling.
 
 [subscribe email]
