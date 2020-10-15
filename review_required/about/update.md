@@ -24,25 +24,29 @@ Om ons sociaal en verantwoordelijk gedrag vorm te geven richten wij ons op de vo
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
 ### 1| Introduceren kruiden uit Siberië 
-Onze toevoerlijn van kruiden vanuit de Altaj zijn een aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. 
+Wij geloven in het aanbieden van eenvoudige en biologische alledaagse producten.
+
+Onze toevoerlijn van kruiden zijn een aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. 
 
 De farmaceutische industrie wordt getypeerd door een opeenvolging van mislukkingen al zoekende naar een wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering.
 
 Deze genormaliseerde manier van werken dient daarom vergezeld te worden door een eenvoudig tegengeluid. 
 
-Hoe pakken wij dit aan?
+Dit doen wij door het aanbieden van Ivan Chai. 
 
-Wij richten ons op het aanbieden van eenvoudige en biologische alledaagse producten.
+Een Siberische kruidenthee goed voor je lichaam en geest. 
 
-Deze producten bevatten vele voordelen.
+* Ivan Chai bevat 7 voordelen. 
 
-Wij zijn begonnen met het aanbieden van Ivan Chai.
+* Drink Ivan Chai tegen 17 problemen. 
 
-Een Siberische kruidenthee.
+* Kruiden uit de wildernis van Siberië
 
-Ivan Chai bevat 7 voordelen tegen 17 problemen. 
+* Met de hand geplukt
 
-Goed voor je lichaam en geest. 
+* Vrij van chemicaliën
+
+* Duurzaam productieproces
 
 <br>
 
@@ -51,7 +55,7 @@ https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=shari
 ### 2| Informeren 
 Wij hebben als doel het verbeteren van jou kennis over problemen.
 
-Fysiek en mentaal wel te verstaan. 
+Lichamelijke en geestelijke problemen wel te verstaan. 
 
 Dit doen wij in de vorm van IVAN’S. 
 
@@ -78,22 +82,16 @@ Wat is de reden van deze afzondering?
 
 Deze bewoners streven naar een unieke levensstijl zo dicht mogelijk bij de natuur. 
 
-Een samenwerking met een ecodorp brengt de volgende voordelen met zich mee. 
-
-* Kruiden uit de wildernis van Siberië
-* Met de hand geplukt
-* Vrij van chemicaliën
-* Duurzaam productieproces
-
-
-Hoe zit het met de duurzaamheid binnen Ivan’s Herbs? 
-
 Om onze duurzaamheid te uiten naar deze Siberische ecodorpen en onze klanten richten wij ons op het volgende. 
 
 * Wij maken gebruik van klimaatneutrale verpakkingen.
+
 * Wij verminderen onze eigen CO2 uitstoot in het dagelijks leven. 
+
 * Wij streven ernaar ons product zo milieuvriendelijk mogelijk te vervoeren. 
+
 * Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner milieu. 
+
 * Wij zijn altijd op zoek naar meer samenwerkingsverbanden met gelijkgestemde bedrijven.
 
 Om daad bij woord te voegen zijn we overgegaan op verpakkingsmaterialen die eeuwig meegaan. 
