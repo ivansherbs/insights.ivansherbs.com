@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Opgeven is géén optie
+title: Opladen is géén optie
 Publish: IVAN'S
   Author: Svetlana Petrovayé (37)
 ---
@@ -120,7 +120,7 @@ _”...want waarom zou je?”_
 
 Wellicht moeilijk te begrijpen wanneer je juist in deze ‘flow’ zit. Maar mensen die een burn-out hebben gehad herkennen het gevoel.
 
-Opgeven is géén optie.
+Opladen is géén optie.
 
 Ik ga er bij deze wat onderzoek bij halen. 
 
