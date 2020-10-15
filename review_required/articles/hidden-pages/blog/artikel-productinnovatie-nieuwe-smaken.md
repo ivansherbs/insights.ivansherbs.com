@@ -31,7 +31,8 @@ Uiteraard komen de kruiden direct uit de Siberische wildernis.
 
 Het mag dan ook duidelijk zijn waar de sterk bloemige smaak vandaan komt. 
 
-Voor de vrouwen onder ons. <br> 
+Voor de vrouwen onder ons.
+
 Drink deze befaamde Siberische kruidenthee tegen menstruatiepijn en buikkrampen. 
 
 
