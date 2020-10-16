@@ -8,9 +8,9 @@ artikel| **Productinnovatie**
 
 Ivan’s Herbs is begonnen met het aanbieden van Ivan Chai. 
 
-Naast Ivan Chai houden wij ook rekening met de nodige variatie. Wij stellen hierbij graag jouw smaakbeleving op de proef. 
+Naast Ivan Chai houden wij ook rekening met de nodige variatie. Wij stellen hierbij graag jou smaakbeleving op de proef. 
 
-Ontdek nu de nieuwe smaken en blijf op de hoogte. 
+Ontdek de nieuwe smaken en blijf op de hoogte. 
 
 [ADD PICTURE NEW TUBE]
 
@@ -25,16 +25,15 @@ Het korte fermentatieproces zorgt voor een frisse bitterzoete en grassige smaak.
 ### Happy Moon
 Het verhaal gaat als volgt...
 
-Deze geheime kruiden combinatie van Happy Moon werd ooit gebruikt in liefdesdranken. 
+Deze geheime kruiden combinatie van Happy Moon werd ooit gebruikt in liefdesdranken. De verlichtende werking zorgde na verloop van tijd voor een euforisch gevoel. De nawerking voor een lange, gelukkigzalige en rustgevende nachten. 
 
-Uiteraard komen de kruiden direct uit de Siberische wildernis. 
+Deze kruiden zijn alleen verkrijgbaar uit de Siberische wildernis. 
 
-Het mag dan ook duidelijk zijn waar de sterk bloemige smaak vandaan komt. 
+Het mag daarom ook duidelijk zijn waar de sterk bloemige smaak vandaan komt. 
 
 Voor de vrouwen onder ons.
 
 Drink deze befaamde Siberische kruidenthee tegen menstruatiepijn en buikkrampen. 
-
 
 
 [ADD PICTURE NEW TUBE]
