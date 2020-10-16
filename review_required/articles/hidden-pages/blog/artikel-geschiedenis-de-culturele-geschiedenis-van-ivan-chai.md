@@ -1,8 +1,8 @@
 ---
 layout: article.html
 title: De geschiedenis van Ivan Chai  
-Publish: IVAN'S INSIGHTS
-  Author: Ivan Alexandrovitsj (63)
+Publish: IVAN'S
+  Author: Ivan Alexandrovitsj
 ---
 
 picture header: https://drive.google.com/file/d/13FTJbx6s4jMnzk0sn9CzSNCN5W8sRZSv/view?usp=sharing
