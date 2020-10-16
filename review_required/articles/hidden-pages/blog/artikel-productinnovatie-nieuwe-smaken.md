@@ -64,11 +64,9 @@ Deze verborgen schat uit het Altaj gebergte heeft een vergelijkbare, zeer aanwez
 
 Echter met een Siberische twist. 
 
-Ervaar nu zelf de eeuwenoude Siberische kruidentheeën. Veelal gedronken ten noorden van het Altaj gebergte. 
-
+Ervaar zelf de eeuwenoude Siberische kruidentheeën. Veelal gedronken ten noorden van het Altaj gebergte. 
 <br>
 <br>
-
 Blijf op de hoogte! <br>
 ...en krijg 7% korting op je eerste bestelling.
 
