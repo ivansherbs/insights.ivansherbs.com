@@ -1,16 +1,26 @@
 ---
 layout: article.html
 title: Hoe vaak en wanneer?
-Publish: IVAN'S INSIGHTS
-  Author: Ivan Alexandrovitsj (63)
+Publish: IVAN'S
+  Author: Ivan Alexandrovitsj
 ---
 Behandeling| **Ivan Chai**
 
-Goed, het kan gebeuren dat je met een probleem rondloopt. Of dat je het gevoel hebt kwetsbaar te zijn voor bepaalde problemen. 
+Goed.
 
-Lichamelijke of geestelijk. 
+Het kan gebeuren dat je met een probleem rondloopt. 
 
-Het krijgen van een probleem kan verschillende oorzaken hebben. Denk aan het gebruik van farmaceutische medicijnen. Erfelijkheid. Of omdat je simpelweg de statiestieken hebt gelezen én tot de conclusie bent gekomen dat je wellicht bij de risicogroep behoort. 
+Of dat je het gevoel hebt kwetsbaar te zijn voor bepaalde problemen. 
+
+Fysieke of mentale problemen wel te verstaan. 
+
+Het krijgen van een probleem kan verschillende oorzaken hebben. 
+
+Denk aan erfelijkheid. 
+
+Of het gebruik van farmaceutische medicijnen. 
+
+Ook kun je het gevoel hebben bij een risicogroep te behoren. Omdat je toevallig de statistieken hebt gelezen. 
 
 Wat de reden ook mag zijn. 
 
@@ -37,7 +47,7 @@ In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Iv
 
 In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
-_...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?_
+...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?
 
 Wij raden het aan de kuur als preventieve behandeling met regelmaat te herhalen.
  
@@ -73,13 +83,7 @@ En is gelukkig veilig voor kinderen.
 
 **Let op!**
 
-Ivan Chai is een Siberische kruidenthee. Een eenvoudig én natuurlijk alledaags product.
+Ivan Chai is een Siberische kruidenthee. 
 
-Overtuigd? Kijk dan snel bij. 
-
-# Waar te koop
-
-https://drive.google.com/file/d/1kxpW0O8iRQY9gLV6zMnjjnd1ypCM9923/view?usp=sharing
-
-Bekijk de winkels 
+Een eenvoudig en biologische alledaags product.
 
