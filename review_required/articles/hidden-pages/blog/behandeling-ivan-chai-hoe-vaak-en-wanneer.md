@@ -10,7 +10,7 @@ Ivan Chai heeft een geneeskrachtige werking.
 
 De grootschalige klinische onderzoeken zijn geëvalueerd en goedgekeurd. 
 
-Denk hierbij aan onderzoeken gericht op de prostaat en urinewegen. 
+Denk aan onderzoeken gericht op de prostaat en urinewegen. 
 
 Dit is gedaan door Het European Medicines Agency te Amsterdam.
 
