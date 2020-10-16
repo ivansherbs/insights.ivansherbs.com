@@ -345,7 +345,7 @@ Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor da
 <br>
 
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
-### Opgeven is geen optie
+### Opladen is geen optie
 
 artikel| **Burn-out**
 
