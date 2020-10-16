@@ -16,10 +16,8 @@ Dit geldt voor onderzoeken gericht op de prostaat en urinewegen.
 
 "Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”
 
-Graag geven we je advies
 * ter voorkoming van problemen
 * ter behandeling van problemen
-* of als aanvulling op farmaceutische medicijnen. 
 
 Voor een gezond lichaam en een sterke geest. 
 
