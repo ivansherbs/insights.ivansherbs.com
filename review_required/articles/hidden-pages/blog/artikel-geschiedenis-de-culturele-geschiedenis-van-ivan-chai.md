@@ -7,7 +7,7 @@ Publish: IVAN'S INSIGHTS
 
 picture header: https://drive.google.com/file/d/13FTJbx6s4jMnzk0sn9CzSNCN5W8sRZSv/view?usp=sharing
 
-profile picture Ivan: 
+profile picture Ivan: See https://www.ivansherbs.com/
 
 artikel| **Geschiedenis**
 
