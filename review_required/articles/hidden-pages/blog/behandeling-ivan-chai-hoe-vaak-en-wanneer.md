@@ -6,25 +6,15 @@ Publish: IVAN'S
 ---
 Behandeling| **Ivan Chai**
 
-Goed.
+Ivan Chai heeft volgens onderzoek een geneeskrachtige werking. 
 
-Het kan gebeuren dat je met een probleem rondloopt. 
+Vanwege zeer specifieke grootschallige onderzoeken heeft zelfs het European Medicines Agency te Amsterdam de werking van Ivan Chai geëvalueerd en goedgekeurd. 
 
-Of dat je het gevoel hebt kwetsbaar te zijn voor bepaalde problemen. 
+Dit geldt voor onderzoeken gericht op de prostaat en urinewegen. 
 
-Fysieke of mentale problemen wel te verstaan. 
+### Advies 
 
-Het krijgen van een probleem kan verschillende oorzaken hebben. 
-
-Denk aan erfelijkheid. 
-
-Of het gebruik van farmaceutische medicijnen. 
-
-Ook kun je het gevoel hebben bij een risicogroep te behoren. Omdat je toevallig de statistieken hebt gelezen. 
-
-Wat de reden ook mag zijn. 
-
-_"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”_
+"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”
 
 Graag geven we je advies
 * ter voorkoming van problemen
