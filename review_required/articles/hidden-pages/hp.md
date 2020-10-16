@@ -434,21 +434,6 @@ Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom
 <br>
 <br>
 
-https://drive.google.com/file/d/1ZAACIYC7e3kI8iV3i1ukDcfksB99q7FK/view?usp=sharing
-### …zonder probleem bereikte Ivan de top 
-
-interview| **Holistische benadering**
-
-Ivan was de oudste van de expeditie groep. Michael was gefascineerd door het doorzettingsvermogen van deze herborist (63)...
-
-[Lees meer over Ivan](#)
-
-<br>
-
-.................
-<br>
-<br>
-
 https://drive.google.com/file/d/1hz7wf7A-pkiUTBM2H3tEYSG3kDEuftpX/view?usp=sharing
 ### "Hoe vaak en wanneer?"
 
@@ -469,7 +454,7 @@ https://drive.google.com/file/d/1KW4-vHECgEGPq0JF0tsK_csT5Bc0Fl6b/view?usp=shari
 
 artikel| **Productinnovatie**
 
-Om je alvast een tipje van de sluier te geven over de smaakbeleving inclusief te voorkomen problemen, hieronder een overzicht van de aankomende producten...
+Benieuwd naar de nieuwe smaken? Wij stellen hierbij graag...
 
 [Bekijk het overzicht](#)
 
