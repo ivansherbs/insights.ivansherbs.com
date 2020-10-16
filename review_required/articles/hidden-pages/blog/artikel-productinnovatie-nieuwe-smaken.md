@@ -25,7 +25,7 @@ Het korte fermentatieproces zorgt voor een frisse bitterzoete en grassige smaak.
 ### Happy Moon
 Het verhaal gaat als volgt...
 
-Deze geheime kruiden combinatie van Happy Moon werd ooit gebruikt in liefdesdranken. De verlichtende werking zorgde na verloop van tijd voor een euforisch gevoel. De nawerking voor een lange, gelukkigzalige en rustgevende nachten. 
+Deze geheime kruiden combinatie van Happy Moon werd ooit gebruikt in liefdesdranken. De verlichtende werking zorgde na verloop van tijd voor een euforisch gevoel. De nawerking voor lange, gelukkigzalige en rustgevende nachten. 
 
 Deze kruiden zijn alleen verkrijgbaar uit de Siberische wildernis. 
 
