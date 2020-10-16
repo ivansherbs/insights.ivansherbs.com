@@ -7,7 +7,7 @@ Button -> [Bestel nu]
 
 ## Ontdek 7 voordelen
 
-Verzorg je lichaam en geest met kruidenthee uit Siberië.
+Versterk je lichaam en geest met kruidenthee uit Siberië.
 
 Onze eerste Siberische kruidenthee staat bekend als Ivan Chai. 
 
