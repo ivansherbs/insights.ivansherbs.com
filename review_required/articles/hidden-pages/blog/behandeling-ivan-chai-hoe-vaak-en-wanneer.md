@@ -6,11 +6,13 @@ Publish: IVAN'S
 ---
 Behandeling| **Ivan Chai**
 
-Ivan Chai heeft volgens onderzoek een geneeskrachtige werking. 
+Ivan Chai heeft een geneeskrachtige werking. 
 
-Vanwege zeer specifieke grootschallige onderzoeken heeft zelfs het European Medicines Agency te Amsterdam de werking van Ivan Chai geëvalueerd en goedgekeurd. 
+De grootschalige klinische onderzoeken zijn geëvalueerd en goedgekeurd. 
 
-Dit geldt voor onderzoeken gericht op de prostaat en urinewegen. 
+Denk hierbij aan onderzoeken gericht op de prostaat en urinewegen. 
+
+Dit is gedaan door Het European Medicines Agency te Amsterdam.
 
 ### Advies 
 
