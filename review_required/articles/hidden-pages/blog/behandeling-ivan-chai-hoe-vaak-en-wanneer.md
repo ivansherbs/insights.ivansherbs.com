@@ -68,10 +68,3 @@ En is gelukkig veilig voor kinderen.
 **Zwangerschap, borstvoeding en vruchtbaarheid** <br>
 * Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
-
-**Let op!**
-
-Ivan Chai is een Siberische kruidenthee. 
-
-Een eenvoudig en biologische alledaags product.
-
