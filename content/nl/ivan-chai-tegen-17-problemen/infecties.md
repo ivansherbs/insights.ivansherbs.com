@@ -1,6 +1,6 @@
 ---
 layout: ivan_chai_17_benefits.md
-title: Zwak immuunsysteem | Beperk de mate van kwetsbaarheid
+title: Infectie | Voorkom onnodige weefselschade
 tags:
 - Infecties
 ---
