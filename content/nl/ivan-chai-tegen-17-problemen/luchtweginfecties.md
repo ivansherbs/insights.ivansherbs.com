@@ -4,11 +4,8 @@ title: Luchtweginfecties | Hoe voorkom je verkoudheid of griep én verzorg je ee
 tags:
 - Infectie
 - Griep
-publish:
-  author: IVAN'S INSIGHTS
-  date: Oct 19, 2020
 ---
-<!-- Ignore in TOC -->
+<!-- ignore in TOC -->
 <h2>Voordeel Ivan Chai: Versterkt de weerstand</h2>
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd.
@@ -17,7 +14,7 @@ Hieruit blijkt dat het de groei van schimmels, gist en ongewenste bacteriën ver
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op infecties vele malen verminderd.
 
-<!-- Ignore in TOC -->
+<!-- ignore in TOC -->
 <h2>Hoe voorkom je verkoudheid of griep én verzorg je een kind met pseudokroep?</h2>
 
 _"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen"_
@@ -76,6 +73,7 @@ Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd o
 
 > Lees snel verder en ontvang tips voor het drinken van Ivan Chai met kinderen!
 
+<!-- ignore in TOC -->
 <h2>Inhoud van dit artikel</h2>
 
 [[toc]]
