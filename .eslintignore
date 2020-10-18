@@ -1,0 +1,2 @@
+# don't ignore the 11ty configuration script
+!.eleventy.js
