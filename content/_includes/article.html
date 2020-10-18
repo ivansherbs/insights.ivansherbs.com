@@ -1,6 +1,3 @@
----
-resourceDomain: https://vc.ivansherbs.com
----
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -17,31 +14,31 @@ resourceDomain: https://vc.ivansherbs.com
     <title>{{ title }} | Ivan's Herbs</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="{{ resourceDomain }}/img/favicon.png">
+    <link rel="icon" href="{% resourceDomain %}/img/favicon.png">
     <!-- Bootstrap CSS -->
-    <link href="{{ resourceDomain }}/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{% resourceDomain %}/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Slick Slider -->
-    <link href="{{ resourceDomain }}/assets/css/slick.css" rel="stylesheet">
-    <link href="{{ resourceDomain }}/assets/css/slick-theme.css" rel="stylesheet">
+    <link href="{% resourceDomain %}/assets/css/slick.css" rel="stylesheet">
+    <link href="{% resourceDomain %}/assets/css/slick-theme.css" rel="stylesheet">
 
     <!-- AOS CSS -->
-    <link href="{{ resourceDomain }}/assets/css/aos.css" rel="stylesheet">
+    <link href="{% resourceDomain %}/assets/css/aos.css" rel="stylesheet">
 
     <!-- Lity CSS -->
-    <link href="{{ resourceDomain }}/assets/css/lity.min.css" rel="stylesheet">
+    <link href="{% resourceDomain %}/assets/css/lity.min.css" rel="stylesheet">
 
     <!-- Font Awesome CSS -->
-    <link rel="stylesheet" href="{{ resourceDomain }}/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="{% resourceDomain %}/assets/css/fontawesome-all.min.css">
 
     <!-- linearicons CSS -->
-    <link rel="stylesheet" href="{{ resourceDomain }}/assets/css/linearicons.css">
+    <link rel="stylesheet" href="{% resourceDomain %}/assets/css/linearicons.css">
 
     <!-- Our Min CSS -->
-    <link href="{{ resourceDomain }}/assets/css/main.css" rel="stylesheet">
+    <link href="{% resourceDomain %}/assets/css/main.css" rel="stylesheet">
 
     <!-- Themes * You can select your color from color-1 , color-2 , color-3 , color-4 , ..etc * -->
-    <link href="{{ resourceDomain }}/assets/css/color.css" rel="stylesheet">
+    <link href="{% resourceDomain %}/assets/css/color.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -77,8 +74,8 @@ resourceDomain: https://vc.ivansherbs.com
     <header class="foxapp-header">
         <nav class="navbar navbar-expand-lg navbar-light" id="foxapp_menu">
             <div class="container">
-                <a class="navbar-brand" href="{{ resourceDomain }}">
-                    <img src="{{ resourceDomain }}/assets/img/logo.png" class="img-fluid" alt="Ivan's Herbs logo" style="height: 50px;">
+                <a class="navbar-brand" href="{% resourceDomain %}">
+                    <img src="{% resourceDomain %}/assets/img/logo.png" class="img-fluid" alt="Ivan's Herbs logo" style="height: 50px;">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_menu"
                     aria-controls="main_menu" aria-expanded="false" aria-label="Toggle navigation">
@@ -87,16 +84,16 @@ resourceDomain: https://vc.ivansherbs.com
                 <div class="collapse navbar-collapse" id="main_menu">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link anchor active" href="{{ resourceDomain }}/">Home</a>
+                            <a class="nav-link anchor active" href="{% resourceDomain %}/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ resourceDomain }}/#main_benefits">Voordelen</a>
+                            <a class="nav-link anchor" href="{% resourceDomain %}/#main_benefits">Voordelen</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ resourceDomain }}/#products">Producten</a>
+                            <a class="nav-link anchor" href="{% resourceDomain %}/#products">Producten</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ resourceDomain }}/#story">Ons verhaal</a>
+                            <a class="nav-link anchor" href="{% resourceDomain %}/#story">Ons verhaal</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -107,11 +104,11 @@ resourceDomain: https://vc.ivansherbs.com
                                 <a class="dropdown-item anchor" href="https://www.bol.com/" target="_blank">bol.com</a>
                                 <a class="dropdown-item anchor" href="https://www.etsy.com/" target="_blank">Etsy</a>
                                 <a class="dropdown-item anchor" href="https://www.amazon.com/" target="_blank">Amazon</a>
-                                <a class="dropdown-item anchor" href="{{ resourceDomain }}/#map">Winkels</a>
+                                <a class="dropdown-item anchor" href="{% resourceDomain %}/#map">Winkels</a>
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ resourceDomain }}/#contact">Contact</a>
+                            <a class="nav-link anchor" href="{% resourceDomain %}/#contact">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -144,12 +141,10 @@ resourceDomain: https://vc.ivansherbs.com
                         <div class="col-md-12">
                             <div class="blog-box">
                                 <div class="blog-details">
-                                    <div class="space-25"></div>
                                     <ul class="news-meta">
-                                        <li><span class="lnr lnr-user"></span> By {{ publish.author | default: "Ivan's Insights" }}</li>
+                                        <li><span class="lnr lnr-user"></span>By {{ publish.author | default: "Ivan's Insights" }}</li>
                                         <li><span class="lnr lnr-clock"></span> {{ publish.date }}</li>
                                     </ul>
-                                    <div class="space-25"></div>
                                     {{ content }}
 
                                 </div>
@@ -163,8 +158,9 @@ resourceDomain: https://vc.ivansherbs.com
                                     </ul>
                                     <ul class="tags">
                                         <li>Tags:</li>
-                                        <li><a href="#">Development,</a></li>
-                                        <li><a href="#">Design,</a></li>
+                                        {% for tag in tags %}
+                                        <li><a href="#">{{ tag }}</a></li>
+                                        {% endfor %}
                                     </ul>
                                 </div>
                             </div>
@@ -245,7 +241,7 @@ resourceDomain: https://vc.ivansherbs.com
                                 <li>
                                     <span>WhatsApp:</span>
                                     <a href="https://wa.me/+31686339615/?text=Hi, I'd like to discover Ivan Chai." target="_blank">
-                                        <img src="{{ resourceDomain }}/assets/img/whatsapp.png" class="si si-whatsapp" style="height: 30px">
+                                        <img src="{% resourceDomain %}/assets/img/whatsapp.png" class="si si-whatsapp" style="height: 30px">
                                     </a>
                                 </li>
                                 <li>
@@ -282,30 +278,30 @@ resourceDomain: https://vc.ivansherbs.com
     <!-- End Footer -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="{{ resourceDomain }}/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="{% resourceDomain %}/assets/js/jquery-3.3.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <!-- Bootstrap JS -->
-    <script src="{{ resourceDomain }}/assets/js/popper.min.js"></script>
-    <script src="{{ resourceDomain }}/assets/js/bootstrap.min.js"></script>
+    <script src="{% resourceDomain %}/assets/js/popper.min.js"></script>
+    <script src="{% resourceDomain %}/assets/js/bootstrap.min.js"></script>
 
     <!-- svg -->
     <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
 
     <!-- Slick Slider JS -->
-    <script src="{{ resourceDomain }}/assets/js/slick.min.js"></script>
+    <script src="{% resourceDomain %}/assets/js/slick.min.js"></script>
 
     <!-- Counterup JS -->
-    <script src="{{ resourceDomain }}/assets/js/waypoints.min.js"></script>
-    <script src="{{ resourceDomain }}/assets/js/jquery.counterup.js"></script>
+    <script src="{% resourceDomain %}/assets/js/waypoints.min.js"></script>
+    <script src="{% resourceDomain %}/assets/js/jquery.counterup.js"></script>
 
     <!-- AOS JS -->
-    <script src="{{ resourceDomain }}/assets/js/aos.js"></script>
+    <script src="{% resourceDomain %}/assets/js/aos.js"></script>
 
     <!-- lity JS -->
-    <script src="{{ resourceDomain }}/assets/js/lity.min.js"></script>
+    <script src="{% resourceDomain %}/assets/js/lity.min.js"></script>
 
     <!-- Our Main JS -->
-    <script src="{{ resourceDomain }}/assets/js/main.js"></script>
+    <script src="{% resourceDomain %}/assets/js/main.js"></script>
 
 </body>
 

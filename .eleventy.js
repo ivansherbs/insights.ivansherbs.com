@@ -1,9 +1,16 @@
 module.exports = function(eleventyConfig) {
 
+    // ******************
+    // custom liquid tags
+    // ******************
+    require('./src/customTags')(eleventyConfig);
+
     // *******************************
     // md configuration and extensions
     // *******************************
-    let mdit = require("markdown-it");
+
+    // markdown-it options
+    let mdit = require('markdown-it');
 
     let mdOptions = {
         html: true,
@@ -11,6 +18,8 @@ module.exports = function(eleventyConfig) {
     };
 
     let md = mdit(mdOptions);
+
+    // *******************************
 
     // use link attributes (like open in new tab using target _blank)
     let mila = require('markdown-it-link-attributes');
@@ -21,14 +30,20 @@ module.exports = function(eleventyConfig) {
         }
     });
 
+    // *******************************
+
     // use table of contets
-    let mia = require("markdown-it-anchor");
-    let mitoc = require("markdown-it-table-of-contents");
+    let mia = require('markdown-it-anchor');
+    let mitoc = require('markdown-it-table-of-contents');
     md.use(mia);
-    md.use(mitoc);
+    md.use(mitoc, {
+        includeLevel: [2, 3]
+    });
+
+    // *******************************
 
     // set the configured md as the content generator engine for md files
-    eleventyConfig.setLibrary("md", md);
+    eleventyConfig.setLibrary('md', md);
 
 
     // **********************
@@ -36,7 +51,7 @@ module.exports = function(eleventyConfig) {
     // **********************
     return {
         dir: {
-            input: "content"
+            input: 'content'
         }
     };
 };
