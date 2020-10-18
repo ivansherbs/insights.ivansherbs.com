@@ -19,7 +19,7 @@ Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken..
 
 [subscribe email]
 
-En ontvang updates van Ivan's. 
+En ontvang updates van IVAN´S.
 
 <br>
 
