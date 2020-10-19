@@ -3,6 +3,7 @@ layout: article.html
 title: Theeleuten: je kunt niet vroeg genoeg beginnen
 sub-title: artikel| luchtweginfectie
   tags:
+- versterkt de weerstand
 - gezin	
 - infectie	
 - kinderen	
