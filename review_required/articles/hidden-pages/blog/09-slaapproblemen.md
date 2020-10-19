@@ -11,7 +11,7 @@ Publish: IVAN'S
  ---
 <h2>Voordeel Ivan Chai: Verbetert de nachtrust</h2>
 
-* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen.
+* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapproblemen te overwinnen.
 
 ### Inzichten
 
@@ -229,6 +229,6 @@ Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt 
 
 Een goede nachtrust helpt je lichaam en geest om te herstellen. En zorgt ervoor dat je overdag productiever bent. Het drinken van Siberische kruidenthee kan helpen bij dit probleem. 
 
-* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen.
+* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapproblemen te overwinnen.
 
 In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen. 
