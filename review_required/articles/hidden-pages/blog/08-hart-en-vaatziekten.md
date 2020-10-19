@@ -16,9 +16,9 @@ Publish: IVAN'S
 
 ### Inzichten
 
-Het hart heeft wereldwijd een bijzondere betekenis. 
+**Het hart** heeft wereldwijd een bijzondere betekenis. 
 
-Het staat symbool voor de liefde en romantiek. 
+Het staat symbool voor de **liefde en romantiek**. 
 
 **De hedendaagse hartvorm** wordt al sinds de middeleeuwen gebruikt om gepassioneerde hartstochtelijke liefdevolle gevoelens naar elkaar toe weer te geven. 
 
@@ -58,7 +58,7 @@ Simpel gezegd hebben je hersenen de mogelijkheid om te denken en te onthouden.
 
 Dit geeft ze de mogelijkheid de rest van je lichaam aan te sturen. 
 
-Je hersenen zijn hierdoor het **controlecentrum** van je lichaam. 
+**Je hersenen** zijn hierdoor het **controlecentrum** van je lichaam. 
 
 Ze communiceren met ieder orgaan via je zenuwstelsel. 
 
@@ -78,7 +78,9 @@ En communiceren er gretig op los bij het opspelen van gevoelens.
 
 **In andere woorden.**
 
-Je hart speelt een belangrijke rol in het functioneren van je hersenen. En andersom. 
+Je hart speelt een belangrijke rol in het functioneren van je hersenen. 
+
+En andersom. 
 
 Dus. 
 
