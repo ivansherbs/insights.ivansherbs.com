@@ -86,7 +86,7 @@ Ik mag hopen dat die al op de hoogte zijn over wat ik in dit artikel aan jou ga 
 
 Dit artikel is dan ook bedoeld voor mensen die een zwak afweersysteem willen voorkomen.
 
-Zodat je jezelf beter kunt voorbereiden op de toekomst. 
+**Zodat je jezelf beter kunt voorbereiden op de toekomst.**
 
 Waarbij je hopelijk tot de realisatie komt.
 
@@ -123,8 +123,6 @@ Heeft te maken met iets als respect.
 En los daarvan. 
 
 Het ligt in de lijn der verwachtingen dat iedereen oud wordt. 
-
-<br>
 
 **Ouderen**
 
@@ -168,7 +166,9 @@ Dus door het consumeren van de juiste voedingsstoffen kun je een zwak afweersyst
 
 **Wist je dat…?**
 
-* Vitamine c is rijkelijk te vinden in Ivan Chai. Vitamine c geeft je afweersysteem een boost. 
+Vitamine c is rijkelijk te vinden in Ivan Chai. 
+
+Vitamine c geeft je afweersysteem een boost. 
 
 Echter zijn er ook oorzaken waar je jezelf lastig tegen kunt verweren. 
 
@@ -181,8 +181,6 @@ Dit zijn voorbeelden waarbij het herstelproces al enkele maanden in beslag neemt
 In sommige gevallen zelfs jaren. 
 
 Ik bespreek bij deze alleen de ex-patiënten van één ernstige ziekte. 
-
-<br>
 
 **Ex-kankerpatiënten**
 
@@ -217,7 +215,12 @@ Alle kleine beetjes helpen.
 Voor het versterken van je afweersysteem. 
 
 **Wist je dat…?**
-* De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
+
+De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. 
+
+Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. 
+
+Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
 **Simpel gezegd.**
 
