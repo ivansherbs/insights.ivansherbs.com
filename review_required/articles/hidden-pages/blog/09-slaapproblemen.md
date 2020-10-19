@@ -5,7 +5,6 @@ sub-title: artikel| slaapproblemen
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
   tags:
-  - nachtrust
   - mentaal	
   - werk
   - gevoel
