@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Stress als katalysator op een slaapprobleem
+title: Stress als katalysator op slaapproblemen
 sub-title: artikel| slaapproblemen
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
