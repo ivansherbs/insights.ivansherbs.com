@@ -28,7 +28,7 @@ En wanneer het mooi weer is wil je graag naar buiten.
 
 Om hééérlijk te wandelen door de natuur. Zet die stappenteller maar gauw aan! 
 
-**Of wat dacht je van een middagje tuinieren?
+**Of wat dacht je van een middagje tuinieren?**
 
 Waarbij je het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin.
 
@@ -46,7 +46,7 @@ Hierdoor kun je jezelf minder soepel bewegen.
 
 Met als gevolg dat je slijmbeurzen, ofwel de beschermkappen rondom je gewrichten, even rust nodig hebben.
 
-**De vraag is of je hier wat aan kunt doen? 
+**De vraag is of je hier wat aan kunt doen?**
 
 Ja!
 
