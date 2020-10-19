@@ -30,7 +30,7 @@ Het is ontstaan door emoties die ten grondslag liggen aan onze hartslag.
 
 **De innerlijke beleving** van verliefd worden, liefde, houden van en verlies zijn hierdoor letterlijk te voelen in je hart. 
 
-Dit fenomeen waarbij het liefhebben van een ander persoon centraal staat is en blijft voor velen een mysterieus verschijnsel... 
+**Dit fenomeen** waarbij het liefhebben van een ander persoon centraal staat is en blijft voor velen een mysterieus verschijnsel... 
 
 Echter blijft dit onderdeel van je gehele leven als mens. 
 
@@ -62,7 +62,7 @@ Je hersenen zijn hierdoor het **controlecentrum** van je lichaam.
 
 Ze communiceren met ieder orgaan via je zenuwstelsel. 
 
-Jij ervaart dit bewust of onbewust. 
+**Jij ervaart dit bewust of onbewust.**
 
 Hetzelfde geldt voor je hart.
 
@@ -70,7 +70,7 @@ Het hart is in bezit van een vergelijkbaar controlecentrum.
 
 Mogelijk gemaakt door een zogenaamd **intern mini zenuwstelsel** waardoor je deze organen vanuit **neurologisch perspectief** met elkaar kunt vergelijken. 
 
-Artsen in de hoek van neurologie en biofysica hebben hiernaast aangetoond dat er een **sterke connectie** is gevonden tussen deze **twee organen**. 
+**Artsen** in de hoek van neurologie en biofysica hebben hiernaast aangetoond dat er een **sterke connectie** is gevonden tussen deze **twee organen**. 
 
 Ze houden elkaar middels het zenuwstelsel goed in de gaten. 
 
@@ -102,13 +102,17 @@ Je hart wordt in je **onderbewustzijn vaker intensief aan het werk gezet** dat j
 
 Dus niet alleen bij liefde of gedurende het sporten.
 
-Bij een periode met intense gevoelens wordt je hart aan het werk gezet. En hoogstwaarschijnlijk met heel veel tegenzin.
+**Bij een periode** met intense gevoelens wordt je hart aan het werk gezet. 
+
+En hoogstwaarschijnlijk met **heel veel tegenzin**.
 
 En nu komt het probleem. 
 
-**Gedurende deze periode** bestaat de kans dat je hart een extra marathon loopt. En dat allemaal zonder dat je er erg in hebt.
+**Gedurende deze periode** bestaat de kans dat je hart spreekwoordelijk gezegd een extra marathon loopt. 
 
-Dit is schadelijk voor je lichaam.
+En dat allemaal zonder dat je er erg in hebt.
+
+Dit is **schadelijk voor je lichaam**.
 
 En nu.
 
@@ -116,7 +120,7 @@ Voor het gemak.
 
 Neem ik aan dat **je zelf al de link hebt gelegd** tussen hartkloppingen, bloedvaten, de verbinding met organen, bloeddruk en ziekten die op de loer liggen. 
  
-Gezien de complexiteit van alleen al het hart en de verbindende taak van je bloedvaten zijn hart- en vaatziekten moeilijk te herkennen.
+**Gezien de complexiteit** van alleen al het hart en de verbindende taak van je bloedvaten zijn **hart- en vaatziekten moeilijk te herkennen**.
 
 Bewustwording is een eerste stap richting het preventief behandelen van deze problemen.
 
