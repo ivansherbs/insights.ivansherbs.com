@@ -16,13 +16,17 @@ Publish: IVAN'S
 
 ### Inzichten
 
-We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks.
+We houden er allemaal van om lekker te kunnen sporten! 
 
-Het is goed voor de gezondheid van je lichaam én je gemoedstoestand. Zo ben je overdag fitter en komen er stoffen bij vrij waar je gelukkiger van wordt. 
+Méér dan de helft van de Nederlanders sport wekelijks.
+
+Het is **goed** voor de **gezondheid** van je **lichaam** én je **gemoedstoestand**. 
+
+Zo ben je overdag fitter en komen er stoffen bij vrij waar je gelukkiger van wordt. 
 
 **Het nadeel is** dat wanneer je vaak sport dit verslavend kan werken, waardoor je onderdelen van je lichaam overbelast. 
 
-Met ontstekingen tot gevolg. 
+**Met ontstekingen tot gevolg.**
 
 Hoe dat in z'n werking gaat, gaan we je in dit artikel vertellen. 
 
@@ -62,15 +66,17 @@ Een goed voorbeeld hiervan is bijvoorbeeld de zogenaamde **‘runners high’**.
 
 **Wie van de hardlopers kent dit gevoel niet?**
 
-Dit is een gevoel wat vrijkomt bij intensief hardlopen. We spreken dan van minimaal een half uur blijven rennen om de endorfine boost wakker te schudden. 
+Dit is een gevoel wat vrijkomt bij intensief hardlopen. 
 
-Met een boost van geluk tot gevolg.
+We spreken dan van minimaal een half uur blijven rennen om de endorfine boost wakker te schudden. 
 
-Het zal je niet verbazen dat dit overigens ook geldt voor andere duursporten. 
+**Met een boost van geluk tot gevolg.**
+
+Het zal je niet verbazen dat dit overigens **ook** geldt voor **andere duursporten.** 
 
 Echter kan het voorkomen dat je hierdoor **nét iets te vaak en intensief je spieren belasts**. Dit kan nare gevolgen hebben voor je lichaam. 
 
-Waar je gedurende het hardlopen niet bij stilstaat “ha-ha” is dat endorfine óók een **verdovende werking** heeft op je lichaam. 
+Waar je **gedurende het hardlopen** niet bij stilstaat “ha-ha” is dat endorfine óók een **verdovende werking** heeft op je lichaam. 
 
 Hierdoor ervaar je minder snel pijn. 
 
