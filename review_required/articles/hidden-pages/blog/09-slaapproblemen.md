@@ -3,9 +3,9 @@ layout: article.html
 title: Stress als katalysator op een slaapprobleem
 sub-title: artikel| slaapproblemen
 Publish: IVAN'S
-  Author: Svetlana Petrova
+  Author: Ivan Alexandrovitsj
   tags:
-  - verbetert de nachtrust
+  - nachtrust
   - mentaal	
   - werk
   - gevoel
