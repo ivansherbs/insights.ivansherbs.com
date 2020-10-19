@@ -5,6 +5,7 @@ sub-title: artikel| hart- en vaatziekten
 Publish: IVAN'S
   Author: Svetlana Petrova
   tags:
+  - antioxiderede werking
   - eyeopener
   - gevoel
   - relatie
