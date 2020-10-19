@@ -202,13 +202,24 @@ Pseudokroep is op dezelfde manier overdraagbaar als covid-19.
 
 Het wordt veroorzaakt door een verkoudheidsvirus waardoor de symptomen vergelijkbaar zijn met de verkoudheid van een volwassenen. 
 
-Echter wat zeer typerend is voor pseudokroep is de zogenaamde blafhoest én bij uitademen een gierend geluid. Veel ouders schrikken zich rot wanneer ze dit voor het eerst horen! 
+Echter wat zeer typerend is voor pseudokroep is de zogenaamde blafhoest. Hiernaast komt bij het uitademen een gierend geluid uit uw kind. 
+
+Niet om aan te horen. 
+
+Veel ouders schrikken zich rot wanneer ze dit voor het eerst meemaken! 
 
 Overbodig om te vermelden huilt je kind dan ook extra veel.
 
-Goed om te weten. Ivan Chai heeft een kalmerende werking op je centrale zenuwstelsel. Dit vermindert de kans op stress, angst en een burn-out. Of het ook goed werkt tegen huilende kinderen is nog geen onderzoek over bekend. 
+Goed om te weten. 
+
+Ivan Chai heeft een kalmerende werking op je centrale zenuwstelsel. 
+
+Dit vermindert bij mensen de kans op stress, angst en een burn-out. 
+
+Of het ook goed werkt tegen huilende kinderen is nog geen onderzoek over bekend. 
 
 ### Tips voor het drinken van Ivan Chai met kinderen
+
 Het drinken van Ivan Chai van de ene op de andere dag kan als heftig worden ervaren door je kind. We hebben de volgende tips om ervoor te zorgen dat je kind na verloop van tijd Ivan Chai drinkt. 
 
 Uiteraard voor het versterken van de weerstand.
