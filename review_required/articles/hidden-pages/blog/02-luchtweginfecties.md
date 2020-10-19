@@ -22,7 +22,7 @@ Denk aan een verkoudheid of griep.
 
 En iedereen weet het.
 
-Je loopt er vroeg of laat weer een keer tegenaan.
+**Je loopt er vroeg of laat weer een keer tegenaan.**
 
 Meestal kun je er niet veel tegen doen.
 
@@ -74,7 +74,7 @@ Hier kun je niet veel tegen doen.
 
 Echter. 
 
-Vergelijk een luchtweginfectie bij een kind van 1 jaar, met een luchtweginfectie bij jezelf. 
+**Vergelijk een luchtweginfectie bij een kind van 1 jaar, met een luchtweginfectie bij jezelf.**
 
 Je zal de symptomen van dit probleem minder heftig ervaren wanneer jezelf beschikt over een sterke weerstand. 
 
