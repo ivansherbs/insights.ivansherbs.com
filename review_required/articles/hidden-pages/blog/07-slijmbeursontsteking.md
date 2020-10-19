@@ -62,7 +62,8 @@ Een Siberische kruidenthee.
 
 Door het drinken van Ivan Chai verminder je de kans op een slijmbeursontsteking.
 
-Goed om te weten! <br>
+**Goed om te weten!**
+
 Drink Ivan Chai niet alleen preventief tegen een slijmbeursontsteking. 
 
 Mocht je onverhoopt al met een slijmbeursontsteking rondlopen. 
