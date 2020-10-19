@@ -1,38 +1,62 @@
 ---
 layout: article.html
 title: Theeleuten: je kunt niet vroeg genoeg beginnen
+sub-title: artikel| luchtweginfectie
+  tags:
+- gezin	
+- infectie	
+- kinderen	
+- levensstijl
 Publish: IVAN'S
-  Author: Svetlana Petrovayé
+  Author: Svetlana Petrova
 ---
-artikel| **Luchtweginfectie**
+<h2>Voordeel Ivan Chai: Versterkt de weerstand</h2>
 
-Iedereen heeft wel eens last van een luchtweginfectie. En iedereen weet het. 
+* Ivan Chai helpt je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
+
+### Inzichten
+
+Iedereen heeft wel eens last van een luchtweginfectie.
+
+Denk aan een verkoudheid of griep.
+
+En iedereen weet het.
 
 Je loopt er vroeg of laat weer een keer tegenaan.
 
-Meestal kun je er niet veel tegen doen, zoals tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
+Meestal kun je er niet veel tegen doen.
+
+Zoals tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen.
+
+Hier heeft iedereen last van.
 
 Dit effect kan worden versterkt door een ongezonde levensstijl.
 
-Soms kun je er ook niet veel tegen doen. Je bent bijvoorbeeld ook extra vatbaar voor dit soort problemen bij gebruik van farmaceutische medicijnen.
+Of.
 
-Wist je dat je extra kwetsbaar bent voor deze problemen wanneer je medicijnen gebruikt, zoals antibiotica, anticonceptiepil of maagzuurremmers?
+Nu komt het. 
+
+**Door gebruik van farmaceutische medicijnen.**
+
+Denk aan antibiotica, anticonceptiepil of maagzuurremmers.
 
 Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. 
 
-Dit komt door de ongewenste bijwerkingen van medicijnen. Zo kunnen ze je immuunsysteem aantasten.
+Dit komt door de ongewenste bijwerkingen. 
 
-Dus…
+Zo kunnen ze je immuunsysteem aantasten.
 
-Extra voedingsstoffen zijn altijd welkom. 
+Dus.
 
-Helemaal gedurende de wintermaanden én wanneer je medicijnen gebruikt. 
+**Extra voedingsstoffen zijn altijd welkom.**
 
-Zo houdt je je lichaam en geest zo lang mogelijk gezond.
+Helemaal gedurende de wintermaanden en wanneer je medicijnen gebruikt.
+
+Zo houdt je lichaam en geest zo lang mogelijk gezond.
 
 Hetzelfde geldt overigens voor kinderen.
 
-Oók zij hebben extra voedingsstoffen nodig.
+**Kinderen hebben ook extra voedingsstoffen nodig.**
 
 Het begint al op jonge leeftijd wanneer kinderen last kunnen krijgen van pseudokroep. 
 
@@ -40,27 +64,47 @@ Dus dan moet je denken aan de leeftijd 1-6 jaar.
 
 Laten we een vergelijking maken waarom het verstandig is kinderen zo snel mogelijk thee (met voordelen) te leren drinken.
 
-Oke, gaan we.
+Oke. Hier gaan we.
 
-Pseudokroep wordt weliswaar veroorzaakt door een virus. Dit komt erop neer dat wanneer het virus in de buurt is, je kind het hoogstwaarschijnlijk zal oplopen.
+Pseudokroep wordt weliswaar veroorzaakt door een virus. 
 
-Vergelijk een luchtweginfectie bij een kind van 1 jaar, met een luchtweginfectie bij jezelf. Je zal de symptomen van dit probleem minder heftig ervaren wanneer jezelf beschikt over een sterke weerstand. En wanneer je lichaam in staat is beter voedingsstoffen op te nemen. Je lichaam vecht hierdoor beter tegen het virus. En je bent weer sneller beter.
+Dit komt erop neer dat wanneer het virus in de buurt is, je kind het hoogstwaarschijnlijk zal oplopen.
 
-Dit geldt dus ook voor  je kind van 1 jaar met Pseudokroep.
+Hier kun je niet veel tegen doen.
 
-Kortom, je kunt je kinderen niet vroeg genoeg laten kennismaken met eenvoudige en biologische alledaagse producten die het opnemen van voedingsstoffen bevorderen.
+Echter. 
+
+Vergelijk een luchtweginfectie bij een kind van 1 jaar, met een luchtweginfectie bij jezelf. 
+
+Je zal de symptomen van dit probleem minder heftig ervaren wanneer jezelf beschikt over een sterke weerstand. 
+
+En wanneer je lichaam in staat is beter voedingsstoffen op te nemen. 
+
+Je lichaam vecht hierdoor beter tegen het virus. 
+
+En je bent weer sneller beter.
+
+**Kortom.**
+
+Je kunt je kinderen niet vroeg genoeg laten kennismaken met eenvoudige en biologische alledaagse producten die het opnemen van voedingsstoffen bevorderen.
 
 En dit geeft jullie ook de gelegenheid om samen lekker te theeleuten met elkaar. 
 
 Gezellig met opa en oma erbij.
 
-Om het even van een andere kant te bekijken.
+**Om het even van een andere kant te bekijken.**
 
-Net als jij heeft je kind water nodig. Thee bestaat voornamelijk uit water. Waarom drinken jullie geen water met voordelen voor het lichaam en geest?
+Net als jij heeft je kind water nodig. 
+
+Thee bestaat voornamelijk uit water. 
+
+**Waarom drinken jullie geen water met voordelen voor het lichaam en geest?**
 
 Simpel gezegd, makkelijk gedaan.
 
-Denk aan Ivan Chai. Een Siberische kruidenthee.
+Denk aan Ivan Chai. 
+
+Een Siberische kruidenthee.
 
 Door je kind al op vroege leeftijd kennis te laten maken met thee drinken versterkt jullie weerstand.
 
@@ -72,13 +116,13 @@ Eenvoudig een verkoudheid of griep voorkomen?
 
 Of Pseudokroep verzorgen?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over luchtweginfecties.
-
 > Lees snel verder en ontvang óók tips voor het drinken van Ivan Chai met kinderen!
 
 https://drive.google.com/file/d/1jPOulMsS0oHDfTA38R4Pkl5CQJV6c9Ta/view?usp=sharing
 
-* [Over een verkoudheid of griep](#over-een-verkoudheid-of-griep)
+### Veelgestelde vragen
+
+* [Wat is een luchtweginfectie?](#Wat-is-een-luchtweginfectie)
 
 * [Wanneer krijg je last van een luchtweginfectie?](#Wanneer-krijg-je-last-van-een-luchtweginfectie)
 
@@ -96,7 +140,7 @@ https://drive.google.com/file/d/1jPOulMsS0oHDfTA38R4Pkl5CQJV6c9Ta/view?usp=shari
 
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
- ### Over een verkoudheid of griep
+ ### Wat is een luchtweginfectie?
 
 Men verstaat onder een luchtweginfectie een ontsteking van het slijmvlies in de luchtwegen. Dit komt je waarschijnlijk bekend voor. Maar dan als een verkoudheid of griep.
 
@@ -107,15 +151,18 @@ De agressieve variant van verkoudheid, noemen we ook wel griep.
 > Ter info: de afgelopen jaren heeft het niveau ziekteverzuim door zware verkoudheid en griep epidemieën nog nooit zo hoog gelegen.
 
 ### Wanneer krijg je last van een luchtweginfectie?
+
 Vaak tijdens de wintermaanden. Het immuunsysteem heeft moeite om zich te verdedigen tegen ziektekiemen.
 
 ### Wat vergroot de kans op een luchtweginfecties?
+
 Er zijn verschillende oorzaken die de kans vergroten. Eén van die oorzaken is het gebruik van:
 * farmaceutische medicijnen
 
 Deze medicijnen kunnen van grote invloed zijn op je gevoeligheid voor verkoudheid en griep.
 
 ### Welke medicijnen zijn van invloed op een verkoudheid of griep?
+
 Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 * Antibiotica
 * Anticonceptiepil
@@ -124,11 +171,13 @@ Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
 ### Welk effect heeft het gebruik van medicijnen op luchtweginfecties?
+
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
 Het kan zijn dat door gebruik van medicijnen ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
 ### Waardoor vergroot ik de kans op een luchtweginfectie?
+
 Er zijn verschillende risicofactoren die de kans op een luchtweginfectie vergroten. Wederom enkele voorbeelden:
 
 * Levensstijl - bijvoorbeeld:
@@ -178,7 +227,7 @@ Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers v
 
 Dit verdedigen doet je afweersysteem. Om je afweersysteem te versterken heb je de juiste voedingsstoffen nodig. 
 
-* Ivan Chai helpt je om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
+* Ivan Chai helpt je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
 
 De werking kunnen we als volgt kort omschrijven.
 
