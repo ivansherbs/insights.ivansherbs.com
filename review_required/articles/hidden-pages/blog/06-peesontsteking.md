@@ -68,7 +68,7 @@ Met een boost van geluk tot gevolg.
 
 Het zal je niet verbazen dat dit overigens ook geldt voor andere duursporten. 
 
-Echter kan het voorkomen dat je hierdoor nét iets te vaak en intensief je spieren belasts. Dit kan nare gevolgen hebben voor je lichaam. 
+Echter kan het voorkomen dat je hierdoor **nét iets te vaak en intensief je spieren belasts**. Dit kan nare gevolgen hebben voor je lichaam. 
 
 Waar je gedurende het hardlopen niet bij stilstaat “ha-ha” is dat endorfine óók een **verdovende werking** heeft op je lichaam. 
 
@@ -82,7 +82,7 @@ Dit geldt óók voor onderdelen van je lichaam waar je niet zo snel aan denkt.
 
 Ik heb het over je **pezen**. 
 
-Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent geslagen. 
+Pezen **mogen het vuile werk op zich nemen** wanneer jij lekker aan het sporten bent geslagen. 
 
 Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te verduren. 
 
@@ -100,11 +100,11 @@ Je zult rust moeten nemen om hiervan te herstellen.
 
 En dit kost jammer genoeg tijd.
 
-Het gevolg van dit probleem is dat jij even niet kunt sporten. En thuis op de bank zit. Hoogstwaarschijnlijk met de nodige comfort food om jezelf te troosten. 
+**Het gevolg** van dit probleem is dat jij even niet kunt sporten. En thuis op de bank zit. Hoogstwaarschijnlijk met de nodige comfort food om jezelf te troosten. 
 
 Probeer voortaan een peesontsteking preventief te behandelen. 
 
-Ontstekingen kan je voorkomen en onderdrukken. 
+**Ontstekingen kan je voorkomen en onderdrukken.**
 
 Met eenvoudige en biologische alledaagse producten.
 
