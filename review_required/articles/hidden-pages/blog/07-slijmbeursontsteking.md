@@ -14,6 +14,8 @@ Publish: IVAN'S
 
 * Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. 
 
+### Inzichten
+
 Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al helemaal met de meest gangbare activiteiten!
 
 Activiteiten die je op dagelijkse basis uitvoert.
@@ -26,7 +28,7 @@ En wanneer het mooi weer is wil je graag naar buiten.
 
 Om hééérlijk te wandelen door de natuur. Zet die stappenteller maar gauw aan! 
 
-Of wat dacht je van een middagje tuinieren?
+**Of wat dacht je van een middagje tuinieren?
 
 Waarbij je het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin.
 
@@ -38,9 +40,13 @@ Aan het ouder worden zitten wél enkele consequenties verbonden.
 
 Het kan voorkomen dat door ouderdom je slijmbeurzen sneller geïrriteerd raken.
 
-Met geïrriteerd bedoelen we ontstoken. Hierdoor kun je jezelf minder soepel bewegen. Met als gevolg dat je slijmbeurzen, ofwel de beschermkappen rondom je gewrichten, even rust nodig hebben.
+Met geïrriteerd bedoelen we ontstoken. 
 
-De vraag is of je hier wat aan kunt doen? 
+Hierdoor kun je jezelf minder soepel bewegen. 
+
+Met als gevolg dat je slijmbeurzen, ofwel de beschermkappen rondom je gewrichten, even rust nodig hebben.
+
+**De vraag is of je hier wat aan kunt doen? 
 
 Ja!
 
