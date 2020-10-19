@@ -20,7 +20,7 @@ We houden er allemaal van om lekker te kunnen sporten!
 
 Méér dan de helft van de Nederlanders sport wekelijks.
 
-Het is **goed** voor de **gezondheid** van je **lichaam** én je **gemoedstoestand**. 
+Het is **goed voor de gezondheid** van je lichaam én je gemoedstoestand. 
 
 Zo ben je overdag fitter en komen er stoffen bij vrij waar je gelukkiger van wordt. 
 
@@ -30,7 +30,7 @@ Zo ben je overdag fitter en komen er stoffen bij vrij waar je gelukkiger van wor
 
 Hoe dat in z'n werking gaat, gaan we je in dit artikel vertellen. 
 
-Sport zorgt ervoor dat je beter in je vel zit. 
+**Sport** zorgt ervoor dat je **beter in je vel zit**. 
 
 Dit wordt veroorzaakt door het volgende.
 
@@ -74,7 +74,9 @@ We spreken dan van minimaal een half uur blijven rennen om de endorfine boost wa
 
 Het zal je niet verbazen dat dit overigens **ook** geldt voor **andere duursporten.** 
 
-Echter kan het voorkomen dat je hierdoor **nét iets te vaak en intensief je spieren belasts**. Dit kan nare gevolgen hebben voor je lichaam. 
+Echter kan het voorkomen dat je hierdoor **nét iets te vaak en intensief je spieren belasts**. 
+
+Dit kan nare gevolgen hebben voor je lichaam. 
 
 Waar je **gedurende het hardlopen** niet bij stilstaat “ha-ha” is dat endorfine óók een **verdovende werking** heeft op je lichaam. 
 
@@ -82,7 +84,9 @@ Hierdoor ervaar je minder snel pijn.
 
 **Je pijngrens wordt simpelweg verlegd.**
 
-Die gelukkigmakend endorfine boost kan er dan vervolgens wel voor zorgen dat je wil blijven sporten. Je maakt sommige onderdelen van je lichaam gewoon kapot. 
+Die gelukkigmakend endorfine boost kan er dan vervolgens wel voor zorgen dat je **wil blijven sporten**. 
+
+Je maakt sommige **onderdelen** van je **lichaam** gewoon **kapot**. 
 
 Dit geldt óók voor onderdelen van je lichaam waar je niet zo snel aan denkt. 
 
@@ -92,7 +96,9 @@ Pezen **mogen het vuile werk op zich nemen** wanneer jij lekker aan het sporten 
 
 Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te verduren. 
 
-Zij hebben de taak de spieren vast te houden aan het bot. Wanneer een pees langdurig onder hevige druk komt te staan, **kan die geïrriteerd raken.**
+Zij hebben **de taak** de spieren vast te houden aan het bot. 
+
+Wanneer een pees langdurig onder hevige druk komt te staan, kan die geïrriteerd raken.
 
 Meestal gebeurt dit na verloop van tijd door herhaaldelijke overbelasting. 
 
@@ -100,7 +106,11 @@ Meestal gebeurt dit na verloop van tijd door herhaaldelijke overbelasting.
 
 Door bijvoorbeeld een verkeerde explosieve beweging.
 
-Wanneer dit gebeurt zendt je pees een signaal. **Dit ervaar jij als pijn.** Deze pijn kan je langdurig beperken in je dagelijkse bezigheden. 
+Wanneer dit gebeurt zendt je pees een signaal. 
+
+**Dit ervaar jij als pijn.** 
+
+Deze pijn kan je langdurig beperken in je dagelijkse bezigheden. 
 
 Je zult rust moeten nemen om hiervan te herstellen. 
 
@@ -118,7 +128,8 @@ Denk hierbij aan Ivan Chai.
 
 Een Siberische kruidenthee.
 
-Goed om te weten! <br>
+**Goed om te weten.**
+
 Drink Ivan Chai niet alleen preventief tegen een peesontsteking. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
 
 > Graag willen we het volgende benadrukken. Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een peesontsteking te voorkomen. Of te verzorgen.
