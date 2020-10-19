@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Essentiële gewoontes
+title: Essentiële behoeften
 sub-title: artikel| slijmbeursontsteking
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
