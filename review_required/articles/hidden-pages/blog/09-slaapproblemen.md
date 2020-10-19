@@ -5,7 +5,7 @@ sub-title: artikel| slaapproblemen
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
   tags:
-  - mentaal	
+  - geestelijk
   - werk
   - gevoel
  ---
