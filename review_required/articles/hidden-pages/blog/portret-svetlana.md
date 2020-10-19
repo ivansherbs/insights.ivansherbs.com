@@ -2,7 +2,7 @@
 layout: article.html
 Title: Leven in Chazhaevka 
 Publish: IVAN'S
-  Author: Svetlana Petrovayé 
+  Author: Svetlana Petrova
 ---
 Header and to use for profile pic: https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 
