@@ -1,10 +1,18 @@
 ---
 layout: article.html
-title: Verzorg je beschermkappen, behoudt soepele gewrichten
+title: Essentiële gewoontes
+sub-title: artikel| slijmbeursontsteking
 Publish: IVAN'S
-  Author: Ivan Alexandrovitsj (63)
+  Author: Ivan Alexandrovitsj
+  tags:
+  - krachtige ontstekingsremmer
+  - ontsteking
+  - 45+	
+  - ouderdom 
 ---
-artikel| **Slijmbeursontsteking**
+<h2>Voordeel Ivan Chai: Krachtige ontstekingsremmer</h2>
+
+* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. 
 
 Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al helemaal met de meest gangbare activiteiten!
 
@@ -24,7 +32,9 @@ Waarbij je het gras maait, de planten verpot en onkruid verwijdert tussen de teg
 
 Echter wordt je ook een dagje ouder. 
 
-Niets aan te doen. Aan het ouder worden zitten wél enkele consequenties verbonden.
+Niets aan te doen. 
+
+Aan het ouder worden zitten wél enkele consequenties verbonden.
 
 Het kan voorkomen dat door ouderdom je slijmbeurzen sneller geïrriteerd raken.
 
@@ -34,22 +44,30 @@ De vraag is of je hier wat aan kunt doen?
 
 Ja!
 
-Dit soort problemen kun je preventief behandelen. Want een ontsteking kan je voorkomen én onderdrukken.
+Dit soort problemen kun je preventief behandelen. 
+
+Want een ontsteking kan je voorkomen én onderdrukken.
 
 Met eenvoudige en biologische alledaagse producten.
 
-Denk aan Ivan Chai. Een Siberische kruidenthee.
+Denk aan Ivan Chai. 
+
+Een Siberische kruidenthee.
 
 Door het drinken van Ivan Chai verminder je de kans op een slijmbeursontsteking.
 
 Goed om te weten! <br>
 Drink Ivan Chai niet alleen preventief tegen een slijmbeursontsteking. 
 
-Mocht je onverhoopt al met een slijmbeursontsteking rondlopen. En gebruik je hiervoor al farmaceutische medicijnen?
+Mocht je onverhoopt al met een slijmbeursontsteking rondlopen. 
+
+En gebruik je hiervoor al farmaceutische medicijnen?
 
 Drink dan Ivan Chai om je fysiek en mentaal te ondersteunen bij het gebruik van deze farmaceutische medicijnen.
 
-Medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. Ivan Chai bevat 7 voordelen die je lichaam en geest gezond houden. 
+Medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. 
+
+Ivan Chai bevat 7 voordelen die je lichaam en geest gezond houden. 
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een slijmbeursontsteking te verzorgen. En soepele gewrichten te behouden!
 
@@ -57,11 +75,11 @@ Mocht je toch onverhoopt een zwaardere vorm van een slijmbeursontsteking oplopen
 
 Wil je meer weten over het behoud van soepele gewrichten?
 
-Dan is dit het artikel waar je naar opzoek was om snel te worden geïnformeerd over een slijmbeursontsteking. 
-
 https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
 
-* [Over een slijmbeursontsteking](#Over-een-slijmbeursontsteking)
+### Veelgestelde vragen
+
+* [Wat is een slijmbeursontsteking?](#wat-is-een-slijmbeursontsteking)
 
 * [Waardoor krijg je een slijmbeursontsteking?](#Waardoor-krijg-je-een-slijmbeursontsteking)
 
@@ -71,7 +89,7 @@ https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=shari
 
 * [Waarom Ivan Chai](#waarom-ivan-chai)
 
-### Over een slijmbeursontsteking
+### Wat is een slijmbeursontsteking?
 Een slijmbeursontsteking is een ontsteking van de slijmbeurs in één van je gewrichten.
 
 Slijmbeurzen kun je zien als beschermkappen gevuld met vocht. Deze liggen rond kwetsbare plekken bij gewrichten. Pezen en bot gewrichten oefenen wrijving uit op deze beschermkappen. Een slijmbeurs zorgt ervoor dat je gewrichten soepel kunnen blijven bewegen.
@@ -127,6 +145,6 @@ Hierdoor ben je kwetsbaarder voor nieuwe problemen.
 
 **Ivan Chai werkt als een krachtige ontstekingsremmer**
 
-* Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen. 
+* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen.
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen. 
