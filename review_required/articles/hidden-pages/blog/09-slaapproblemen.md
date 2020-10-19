@@ -45,7 +45,7 @@ Bij een overmatige hoeveelheid aan spanning.
 
 Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. 
 
-Hierbij moet je denken aan **een paar maanden op rij. 
+Denk aan **een paar maanden op rij**. 
 
 Gezien dit probleem met mondjesmaat groeit, loop je er mee rond zonder dat je dit door hebt. 
 
