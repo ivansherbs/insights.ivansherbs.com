@@ -97,11 +97,13 @@ https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=shari
 * [Waarom Ivan Chai](#waarom-ivan-chai)
 
 ### Wat is een slijmbeursontsteking?
+
 Een slijmbeursontsteking is een ontsteking van de slijmbeurs in één van je gewrichten.
 
 Slijmbeurzen kun je zien als beschermkappen gevuld met vocht. Deze liggen rond kwetsbare plekken bij gewrichten. Pezen en bot gewrichten oefenen wrijving uit op deze beschermkappen. Een slijmbeurs zorgt ervoor dat je gewrichten soepel kunnen blijven bewegen.
 
 ### Waardoor krijg je een slijmbeursontsteking?
+
 Een slijmbeursontsteking krijg je door deze te overbelasten. Het overbelasten gebeurt tijdens dagelijkse bezigheden. 
 
 Vooral op oudere leeftijd kunnen de meest gangbare activiteiten de beschermkappen al irriteren. Denk aan sporten, koken, en een wasje draaien. Maar óók tijdens het tuinieren wil je soepele gewrichten behouden.  
@@ -111,6 +113,7 @@ Door de verscheidenheid aan activiteiten kun je onderscheid maken tussen een acu
 * Chronisch: langdurige en lichte overbelasting.
 
 ### Welke symptomen duiden op een slijmbeursontsteking?
+
 Er zijn verschillende symptomen die wijzen op een slijmbeursontsteking:
 * Je slijmbeurs doet pijn tijdens inspanningen.
 * Je slijmbeurs doet pijn tijdens het rusten.
@@ -122,6 +125,7 @@ Er zijn verschillende symptomen die wijzen op een slijmbeursontsteking:
 Zowel bij mannen als vrouwen komt de slijmbeursontsteking het meest voor op de schouder, elleboog, heup, knie en enkel.
 
 ### Welke farmaceutische medicijnen behandelen een slijmbeursontsteking?
+
 Een ontsteking kan worden behandeld met:
 * Pijnstillers, dit medicijn gaat in combinatie met het nemen van rust. Het gevaar van een pijnstiller, is dat je de pijn niet meer voelt. En doorgaat met je dagelijkse bezigheden. Hierdoor overbelast je slijmbeurzen. Vaak zonder dat je het doorhebt. 
 * Ontstekingsremmers type NSAID. Na bezoek aan een arts wordt dit type medicijn waarschijnlijk voorgeschreven. Dit gebeurt wanneer het nemen van rust niet het gewenste resultaat oplevert. Dit zware type ontstekingsremmer geeft ongewenste bijwerkingen. Vanaf 60 jaar kan dit meerdere problemen veroorzaken. 
