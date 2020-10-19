@@ -44,6 +44,8 @@ Nu nog ééntje maar dan voor speciaal voor ouderen.
 
 Waarbij we de tekenen van ouderdom belichten.
 
+Hier gaan we. 
+
 .................
 
 **Een lang en plezierig leven** 
@@ -166,17 +168,21 @@ Dus door het consumeren van de juiste voedingsstoffen kun je een zwak afweersyst
 
 **Wist je dat…?**
 
-Vitamine c is rijkelijk te vinden in Ivan Chai. 
+Vitamine c rijkelijk te vinden is in Ivan Chai.
+
+En dat is goed nieuws. 
+
+Want.
 
 Vitamine c geeft je afweersysteem een boost. 
 
-Echter zijn er ook oorzaken waar je jezelf lastig tegen kunt verweren. 
+Iets wat je naar mate je ouder wordt goed kunt gebruiken. 
 
-Je dagelijkse leven kan worden beïnvloed door een ernstige ziekte. 
+Of wanneer je dagelijkse leven wordt beïnvloed door een ernstige ziekte. 
 
 Of een ernstig ongeluk met een opname op de Intensive Care tot gevolg. 
 
-Dit zijn voorbeelden waarbij het herstelproces al enkele maanden in beslag neemt. 
+Dit zijn voorbeelden waarbij het herstelproces alleen al enkele maanden in beslag neemt. 
 
 In sommige gevallen zelfs jaren. 
 
@@ -216,7 +222,7 @@ Voor het versterken van je afweersysteem.
 
 **Wist je dat…?**
 
-De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. 
+De antimicrobiële eigenschappen van Ivan Chai goed zijn bestudeerd. 
 
 Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. 
 
@@ -232,13 +238,17 @@ Top.
 
 Je bent weer wat wijzer geworden.
 
-**Is er ook iets als eigen schuld?**
+**Is er dan ook iets als eigen schuld?**
+
+Ja.
 
 Zo zou je het kunnen noemen. 
 
 Soms kan het ook liggen aan je levensstijl waardoor je een zwak afweersysteem hebt.
 
-Bij deze nog even twee voor de hand liggende voorbeelden. Die je wel in de categorie 'eigen schuld' durft te plaatsen.
+Bij deze nog even twee voor de hand liggende voorbeelden. 
+
+Die je wel in de categorie 'eigen schuld' durft te plaatsen.
 
 En. 
 
