@@ -74,7 +74,7 @@ Mogelijk gemaakt door een zogenaamd **intern mini zenuwstelsel** waardoor je dez
 
 Ze houden elkaar middels het zenuwstelsel goed in de gaten. 
 
-En communiceren er gretig op los bij het opspelen van gevoelens. 
+En **communiceren er gretig op los** bij het opspelen van gevoelens. 
 
 **In andere woorden.**
 
