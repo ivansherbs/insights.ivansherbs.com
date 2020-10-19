@@ -145,13 +145,13 @@ https://drive.google.com/file/d/1pL-XQzOhZQ9sA9vYbB-O6g_YYt4eq9uj/view?usp=shari
 
 ### Veelgestelde vragen
 
-* [Over hart-en vaatziekten](#over-hart-en-vaatziekten)
+* [Hoeveel impact hebben hart- en vaatziekten in Nederland?](#Hoeveel-impact-hebben-hart-en-vaatziekten-in-Nederland?)
 
 * [Waardoor krijg je een hart- en vaatziekten?](#Waardoor-krijg-je-een-hart-en-vaatziekten)
 
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
-### Over hart-en vaatziekten
+### Hoeveel impact hebben hart- en vaatziekten in Nederland?
 
 Laten we er niet omheen draaien. Om een beter beeld te krijgen beginnen met een overzicht. 
 
