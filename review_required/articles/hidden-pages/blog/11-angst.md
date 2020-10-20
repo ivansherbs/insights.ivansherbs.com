@@ -171,7 +171,7 @@ https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=shari
 
 ### Veelgestelde vragen
 
-* [Over angst](#over-angst)
+* [Wat is de definitie van angst?](#wat-is-de-definitie-van-angst)
 
 * [Hoe ontstaat een gevoel van angst?](#Hoe-ontstaat-een-gevoel-van-angst)
 
@@ -181,7 +181,7 @@ https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=shari
 
 * [Waarom Ivan Chai?](#waarom-ivan-chai)
 
-### Over angst
+### Wat is de definitie van angst?
 
 Om je nu op een andere manier naar de definitie van onze dikke Van Dale te laten kijken.
 Hierbij nogmaals de omschrijving van angst.
