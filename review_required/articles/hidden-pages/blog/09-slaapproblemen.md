@@ -5,7 +5,7 @@ sub-title: artikel| slaapproblemen
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
   tags:
-  - mentaal
+  - mentale klachten
   - werk
   - gevoel
  ---
@@ -15,7 +15,7 @@ Publish: IVAN'S
 
 ### Inzichten
 
-Iedereen heeft wel eens minder lekker geslapen dan de nacht ervoor. 
+**Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. 
 
 Voor je gevoel lig je de hele nacht wakker. 
 
@@ -161,7 +161,7 @@ Goed voor jong en oud.
 
 Uiteraard zorgt een combinatie van tips en behandelingen voor het verbeteren van je nachtrust.
 
-Zo ben je waarschijnlijk bekend met het niet op een scherm kijken een half uur voor je gaat slapen, géén alcohol, géén cafeïne na 5 uur, zorgen voor voldoende sporten maar niet vlak voor je het bed instapt, een boek lezen, yoga, mindfulness en meditatie. 
+**Zo ben je waarschijnlijk bekend met** het niet op een scherm kijken een half uur voor je gaat slapen, géén alcohol, géén cafeïne na 5 uur, zorgen voor voldoende sporten maar niet vlak voor je het bed instapt, een boek lezen, yoga, mindfulness en meditatie. 
 
 En ga zo maar door.
 
