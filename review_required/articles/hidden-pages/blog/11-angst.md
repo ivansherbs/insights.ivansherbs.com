@@ -113,7 +113,7 @@ Tevens een vorm van angst op dagelijkse basis.
 
 **Denk aan die ene keer** in een overvolle collegezaal. Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen. Om vervolgens met eer en geweten weer plaats te mogen nemen. Waarbij je het gevoel hebt overgehouden iedereen de les te hebt gelezen. 
 
-Wellicht een fijne gedachten. Op angst kun je je vaak niet voorbereiden.
+Wellicht een fijne gedachten. Op angst kun je jezelf vaak niet voorbereiden.
 
 Zoals in een ziekenhuis.
 
@@ -141,17 +141,17 @@ Wat je echter wel kunt doen is lichtere vormen van angst op eenvoudige wijze ver
 
 Zo zijn er tal van mogelijkheden die al bijdragen aan.
 
-Denk aan goed voorbereid op pad gaan. Het aanpassen van je dieet. En er zelfverzekerd uitzien.
+**Denk aan goed voorbereid op pad gaan.** Het aanpassen van je dieet. En er zelfverzekerd uitzien.
 
 Simpel voorbeeld is het opdoen van make-up.
 
-> Zo voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up.
+**Zo voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up.**
 
 Er zijn tal van voorbeelden te noemen. Een combinatie van verschillende factoren zorgen ervoor dat je gevoel van angst, of die van je kinderen, minder wordt.
 
 Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten om dit probleem te bestrijden.
 
-Denk aan Ivan Chai. 
+Denk aan **Ivan Chai**. 
 
 Een Siberische kruidenthee.
 
