@@ -37,11 +37,13 @@ Dag in dag uit krijg je meer gedaan.
 
 **En voor je het weet…**
 
-Neem je je werk mee naar huis. Letterlijk én figuurlijk. 
+Neem je je werk mee naar huis. 
+
+Letterlijk én figuurlijk. 
 
 In je hoofd.
 
-Want dat is wel zo handig. 
+Want dat is **wel zo handig**. 
 
 Hierdoor ben je overal van op de hoogte. 
 
@@ -51,7 +53,7 @@ En je weet je efficiëntie en effectiviteit met de dag weer aan te scherpen.
 
 **Echter…** 
 
-Zonder dat je het door hebt ben je alleen maar met werk bezig. En waar je geen rekening mee houdt is het gevoel en de symptomen van stress. 
+Zonder dat je het door hebt ben je alleen maar met werk bezig. En waar je **geen rekening mee houdt** is het gevoel en de symptomen van stress. 
 
 Dit is ook niet vreemd want het is ook niet van de ene op de andere dag direct voelbaar. 
 
@@ -71,7 +73,7 @@ En voor je er erg in hebt, omdat je weer geen rust neemt, sta je zo maanden té 
 
 **Tot het omslagpunt is bereikt** want opeens heb je het door.
 
-Je komt tot het besef dat je aan het einde van de dag vaker hoofdpijn hebt. Je bent vaak moe maar kan niet slapen. 
+Je komt tot het besef dat je aan het einde van de dag vaker hoofdpijn hebt. Je bent **vaak moe maar kan niet slapen**. 
 
 En je hoofd kun je maar niet leegmaken.
 
@@ -89,13 +91,13 @@ Je bent er nu eindelijk achter hoe stress écht voelt.
 
 Hierbij moet je denken aan angst en een burnout.
 
-Maar ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie.
+Maar ook **zwaardere mentale klachten** zoals agressie, manie, psychose en een depressie.
 
 **De gevolgen van stress zijn echter niet te overzien.** Want je weet niet voor welke problemen je gevoelig bent. 
 
 Totdat je het hebt.
 
-Stel, je hebt nog nooit veel stress ervaren. Dan is het moeilijk om je te realiseren dat je last hebt van een overmatige hoeveelheid aan stress.
+Stel, je hebt nog nooit veel stress ervaren. Dan is het **moeilijk om je te realiseren** dat je last hebt van een overmatige hoeveelheid aan stress.
 
 De eerste stap richting het aanpakken van stress, is het herkennen. Jezelf toegeven dat je er last van hebt. 
 
@@ -103,7 +105,9 @@ De eerste stap richting het aanpakken van stress, is het herkennen. Jezelf toege
 
 Dit probleem kun je aanpakken door het veranderen van je levensstijl.
 
-Het nemen van **meer rust**. Zoals een vakantie. 
+Het nemen van **meer rust**... 
+
+Zoals een vakantie. 
 
 Het leegmaken van je hoofd. Middels sport of een wandeling. 
 
