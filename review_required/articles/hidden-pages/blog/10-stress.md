@@ -23,9 +23,17 @@ Je hebt immers bergen met werk liggen.
 
 En die deadlines naderen.
 
-**Je staat uitgerust op.** Je bent fysiek fit. Je dagplanning is netjes op orde. En je begint op tijd.
+**Je staat uitgerust op.** Je bent fysiek fit. 
 
-**Je werkt hard.** Je werk gefocust. Je krijgt veel gedaan. En wat betreft die werkdruk waar iedereen het over heeft. 
+Je dagplanning is netjes op orde. 
+
+En je begint op tijd.
+
+**Je werkt hard.** Je werk gefocust. 
+
+Je krijgt veel gedaan. 
+
+En wat betreft die werkdruk waar iedereen het over heeft. 
 
 Die heb je onder controle...
 
@@ -73,7 +81,9 @@ En voor je er erg in hebt, omdat je weer geen rust neemt, sta je zo maanden té 
 
 **Tot het omslagpunt is bereikt** want opeens heb je het door.
 
-Je komt tot het besef dat je aan het einde van de dag vaker hoofdpijn hebt. Je bent **vaak moe maar kan niet slapen**. 
+Je komt tot het besef dat je aan het einde van de dag vaker hoofdpijn hebt. 
+
+Je bent **vaak moe maar kan niet slapen**. 
 
 En je hoofd kun je maar niet leegmaken.
 
@@ -97,7 +107,9 @@ Maar ook **zwaardere mentale klachten** zoals agressie, manie, psychose en een d
 
 Totdat je het hebt.
 
-Stel, je hebt nog nooit veel stress ervaren. Dan is het **moeilijk om je te realiseren** dat je last hebt van een overmatige hoeveelheid aan stress.
+Stel, je hebt nog nooit veel stress ervaren. 
+
+Dan is het **moeilijk om je te realiseren** dat je last hebt van een overmatige hoeveelheid aan stress.
 
 De eerste stap richting het aanpakken van stress, is het herkennen. Jezelf toegeven dat je er last van hebt. 
 
@@ -177,7 +189,9 @@ Hierbij moet je denken aan:
 * het overlijden van een dierbare
 * of een (chronische) ziekte.
 
-Stress ontstaat met name op werk. 53% van de werknemers ervaart stress op de werkvloer. En nemen dit mee naar huis.  
+Stress ontstaat met name op werk. 53% van de werknemers ervaart stress op de werkvloer. 
+
+En nemen dit mee naar huis.  
 
 ### Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?
 
