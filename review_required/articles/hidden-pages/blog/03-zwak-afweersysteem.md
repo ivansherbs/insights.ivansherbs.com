@@ -179,9 +179,7 @@ Vitamine c geeft je afweersysteem een boost.
 
 Iets wat je naar mate je ouder wordt goed kunt gebruiken. 
 
-Of wanneer je dagelijkse leven wordt beïnvloed door een ernstige ziekte. 
-
-Of een ernstig ongeluk met een opname op de Intensive Care tot gevolg. 
+Of wanneer je dagelijkse leven is beïnvloed door een ernstige ziekte. 
 
 Dit zijn voorbeelden waarbij het herstelproces alleen al enkele maanden in beslag neemt. 
 
