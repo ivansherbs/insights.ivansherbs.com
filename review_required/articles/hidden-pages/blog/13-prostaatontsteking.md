@@ -58,7 +58,7 @@ Dat gaan we je voor nu niet uitleggen.
 Wel dat het een probleem is om al rekening mee te houden op **‘jongere’ leeftijd**.
 
 Even voor de duidelijkheid.
-Met jongere leeftijd bedoelen we hiermee **rond de 40 jaar**.
+Met jongere leeftijd bedoelen we hiermee **rond de 45 jaar**.
 
 Wij willen je naar aanleiding van onze bewering graag nog even het volgende meegeven. 
 
