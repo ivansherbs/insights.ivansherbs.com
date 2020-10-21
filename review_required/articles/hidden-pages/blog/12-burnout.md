@@ -11,7 +11,9 @@ Publish: IVAN'S
 
 ### Inzichten
 
-Een fragment uit het leven van Svetlana Petrova. Destijds realiseerde zij zich al dat een burn-out bij iedereen op de loer ligt. 
+Een fragment uit het leven van Svetlana Petrova. 
+
+Destijds realiseerde zij zich al dat een burn-out bij iedereen op de loer ligt. 
 
 **Mede mogelijk gemaakt door** een combinatie van werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van te maken. 
  
