@@ -1,9 +1,13 @@
 ---
 layout: article.html
 title: Opladen is géén optie
-sub-title: artikel| Burn-out
+sub-title: artikel| burn-out
 Publish: IVAN'S
   Author: Svetlana Petrova
+  tags:
+  - mentale klachten
+  - werk
+  - eyeopener
 ---
 <h2>Voordeel Ivan Chai: Vermindert de kans op een burn-out</h2>
 
@@ -15,7 +19,9 @@ Een fragment uit het leven van Svetlana Petrova.
 
 Destijds realiseerde zij zich al dat een burn-out bij iedereen op de loer ligt. 
 
-**Mede mogelijk gemaakt door** een combinatie van werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van te maken. 
+Mede mogelijk gemaakt door meerdere factoren. 
+
+Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van te maken. 
  
 Ze was er zelf ook door gegrepen. 
 
