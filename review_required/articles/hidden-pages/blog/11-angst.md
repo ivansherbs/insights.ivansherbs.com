@@ -1,6 +1,6 @@
 ---
 layout: article.html
-Title: Zie jij het wél aankomen?
+Title: Angst als controlemechanisme. 
 sub-title: artikel| angst
 Publish: IVAN'S
   Author: Svetlana Petrova
@@ -87,7 +87,7 @@ Uiteraard liggen de verhoudingen van dit fenomeen wel ietsje complexer.
 
 * Hiernaast kunnen **organisationele doelstellingen** voorrang verkrijgen boven persoonlijke motieven. Om maar niet te diep in te gaan op verschillende management vormen, komt dit met name voor in op **winst-gedreven organisaties** met een traditionele ‘**top-down**’ benadering. Het nadeel van organisaties met deze denkwijze is dat werknemers hun **empathisch vermogen** met de organisatie waar zij voor werken **kwijt raken**. Met andere woorden, je krijgt het gevoel dat je **een nummertje bent**. Je mag blij zijn hier een bijdrage aan te leveren. **Dus hou je mond maar gewoon**. Door tegenspreken van organisationele doelstellingen kun je je ongemakkelijk gaan voelen. Er kunnen immers een hoop reacties volgen... Wanneer je in opstand komt, **doe je dit niet liever alleen**.
 
-* Rationele beslissing kunnen het onderspit delven wanneer er sprake is van **sociale druk**. Hierbij drukt een **peergroup** (lees: het management en de langst zittende werknemers) meestal bewust druk uit op een kleinere groep óf een bepaald persoon om het gedrag te veranderen. **Hiërarchie en groepsvorming** spelen naast de normen en gedragingen van de dominante groep een belangrijke rol. Zowel in positieve als negatieve zin. En kan de **vrijheid** (lees: verantwoordelijkheid) van de niet-dominante groepsleden **op eenvoudige wijze worden ingeperkt**. Reageren hierop door niet-dominante groepsleden heeft geen zin. **Er wordt toch niet geluisterd**. Wanneer je toch besluit hierop te reageren kan je vrijheid nóg meer worden afgenomen. Of in sommige gevallen komt **de baanzekerheid** op het spel te staan. Je bent daarom voor het gemak maar overal mee akkoord. 
+* Rationele beslissing kunnen het onderspit delven wanneer er sprake is van **sociale druk**. Hierbij drukt een **peergroup** (lees: het management en de langst zittende werknemers) meestal bewust druk uit op een kleinere groep óf een bepaald persoon om het gedrag te veranderen. **Hiërarchie en groepsvorming** spelen naast de normen en gedragingen van de dominante groep een belangrijke rol. Zowel in positieve als negatieve zin. En kan de **vrijheid** (lees: verantwoordelijkheid) van de niet-dominante groepsleden **op eenvoudige wijze worden ingeperkt**. Reageren hierop door niet-dominante groepsleden heeft geen zin. **Er wordt toch niet geluisterd**. Wanneer je toch besluit hierop te reageren kan je vrijheid nóg meer worden afgenomen. Of in sommige gevallen komt **de baanzekerheid** op het spel te staan. Je bent daarom voor het gemak maar overal mee akkoord. Angst kan hierdoor vanuit organisationeel perspectief dagelijks bewust worden gebruikt als **controlemechanisme**.
 
 Leuk he deze inzichten over lichtere vormen van angst?  
 
