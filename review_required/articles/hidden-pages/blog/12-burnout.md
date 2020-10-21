@@ -27,7 +27,7 @@ Ze was er zelf ook door gegrepen.
 
 En goed ook.
 
-**Svetlana**: Wanneer ik terugkijk op die periode in mijn leven. Is het eigenlijk zo gek nog niet dat ik een burn-out heb opgelopen. 
+**Svetlana**: Wanneer ik terugkijk op die periode in mijn leven. Is het eigenlijk zo gek nog niet dat ik een burn-out heb opgelopen!
 
 Je gaat immers op in het werkende leven.
 
@@ -35,15 +35,17 @@ Je gaat immers op in het werkende leven.
 
 Ik kan mij het volgende gesprek nog goed herinneren. 
 
-**Op een dag** liep ik samen met mijn collega door de kantoor.
+**Op een dag** liep ik samen met mijn collega door kantoor.
 
 We hadden het over **aankomende projecten**.
 
-Afwerken van **deadlines**. 
+Het afwerken van **deadlines**. 
 
 En de **ruime vergoeding** die we (lees: ik) zou krijgen. 
 
 Dus ik gooide het er toen vervolgens maar uit.  
+
+Ha! 
 
 En nu al helemááááááál niet meer.
 
