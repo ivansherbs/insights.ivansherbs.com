@@ -21,29 +21,29 @@ Ze was er zelf ook door gegrepen.
 
 En goed ook.
 
-Svetlana: Al kijkende naar mijn omgeving besefte ik mij dat iedereen er gevoelig voor is.
+**Svetlana**: Al kijkende naar mijn omgeving besefte ik mij dat iedereen er gevoelig voor is.
 
 Je gaat immers op in het werkende leven.
 
-Want waarom ook niet?
+**Want waarom ook niet?**
 
 Ik kan mij het volgende gesprek nog goed herinneren. 
 
-**Op een dag**
-
-Liep ik samen met mijn collega door de kantoortuin.
+**Op een dag** liep ik samen met mijn collega door de kantoor.
 
 We hadden het over **aankomende projecten**.
 
 Afwerken van **deadlines**. 
 
-En de **ruime vergoeding** die we (lees: **ik**) zou krijgen. 
+En de **ruime vergoeding** die we (lees: ik) zou krijgen. 
 
-Dus ik gooide het er toen vervolgens uit.  
+Dus ik gooide het er toen vervolgens maar uit.  
 
 En nu al helemááááááál niet meer.
 
-Want waarom zou ik uitgerekend nu op vakantie willen gaan hahah?
+Want waarom zou ik uitgerekend nu op vakantie willen gaan?
+
+hahaha
 
 Ik zit er net zo lekker in.
 
@@ -121,9 +121,11 @@ Waarbij je zelfs je toevlucht probeert te zoeken in series zoals Friends.
 
 Ja.
 
-Ook die personen bestaan hahah.
+Ook die personen bestaan.
 
-Je staat letterlijk stil in de tweede versnelling.
+hahah
+
+Je staat letterlijk even stil in de tweede versnelling.
 
 En dan vraag je jezelf af.
 
@@ -147,7 +149,7 @@ En je geeft voor je gevoel **nét even iets meer dan jou collega’s**.
 
 Je hebt het gevoel dat je echt carrière aan het maken bent.
 
-En alles loopt voor je gevoel op rolletjes.
+En **voor je gevoel** loop alles op rolletjes.
 
 En zonder erover na te denken maak je overuren.
 
@@ -191,7 +193,7 @@ Dit heeft ervoor gezorgd dat je eigenlijk wil blijven doorgaan.
 
 En **alles wil afmaken**.
 
-Deze periode gaat over het algemeen gepaard met een overmatige hoeveelheid aan stress.
+Deze periode gaat over het algemeen gepaard met een **overmatige hoeveelheid aan stress**.
 
 En.
 
@@ -205,7 +207,7 @@ Koffie ontregelt je **bloedsuikerspiegel**.
 
 Kort samengevat.
 
-De **overproductie** van adrenaline die wordt aangemaakt heeft **nadelige gevolgen** voor je spijsverteringsorganen. 
+De **overproductie** van adrenaline die wordt aangemaakt heeft **nadelige gevolgen** voor je **spijsverteringsorganen**. 
 
 Omdat die simpelweg sneller uitgeput raken.
 
@@ -214,6 +216,8 @@ Hierdoor raakt je **bloedsuikerspiegel** door de war met als gevolg.
 Een vergrote kans op een burn-out.
 
 Laat ik het nog maar een keer **herhalen**.
+
+Voordat we massaal koffie de schuld gaan geven. 
 
 Voor de duidelijkheid. 
 
