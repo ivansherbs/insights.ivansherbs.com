@@ -27,7 +27,7 @@ Ze was er zelf ook door gegrepen.
 
 En goed ook.
 
-**Svetlana**: Al kijkende naar mijn omgeving besefte ik mij dat iedereen er gevoelig voor is.
+**Svetlana**: Wanneer ik terugkijk op die periode in mijn leven. Is het eigenlijk zo gek nog niet dat ik een burn-out heb opgelopen. 
 
 Je gaat immers op in het werkende leven.
 
