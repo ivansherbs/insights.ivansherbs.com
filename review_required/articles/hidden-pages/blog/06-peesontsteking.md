@@ -64,6 +64,8 @@ Of sterker nog, dat je gedurende het sporten wil blijven sporten!
 
 Een goed voorbeeld hiervan is bijvoorbeeld de zogenaamde **‘runners high’**. 
 
+https://drive.google.com/file/d/1w5R0M2jAeJTE_hTzZfldx8fWL59ETzT9/view?usp=sharing
+
 **Wie van de hardlopers kent dit gevoel niet?**
 
 Dit is een gevoel wat vrijkomt bij intensief hardlopen. 
@@ -136,9 +138,9 @@ Drink Ivan Chai niet alleen preventief tegen een peesontsteking. Maar ook om je 
 
 Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Wil je meer weten over een peesontsteking? en hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
+Wil je meer weten over een peesontsteking? 
 
-https://drive.google.com/file/d/1w5R0M2jAeJTE_hTzZfldx8fWL59ETzT9/view?usp=sharing
+En hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
 
 ### Veelgestelde vragen
 
