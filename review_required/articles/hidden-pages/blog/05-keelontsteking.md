@@ -34,6 +34,8 @@ Beste zware drinker,
 
 Beste gezelligheidsdrinker,
 
+
+
 Zo dan. 
 
 Het was me weer een feestje. 
@@ -66,7 +68,7 @@ Vul maar lekker zelf in waar je die hamer hebt gelaten.
 
 We gaan nog niet naar huis. Nog lange niet nog lange niet. 
 
-(...)
+...
 
 Man man man! 
 
@@ -142,7 +144,7 @@ We zitten in een periode van het jaar dat je weerstand een tikkeltje lager is.
 
 En daarom heb je óók nog eens last van een beetje koorts. Je ligt in bed en je probeert wederom te gaan slapen.
 
-(...) 
+...
 
 Met grote ergernis draai je een keer om. 
 
@@ -168,13 +170,13 @@ Eenmaal aangekomen.
 
 Kijk je jezelf eens even goed aan in de spiegel. 
 
-(...)
+...
 
 Vreselijk...
 
 Je ziet er niet uit.
 
-(...)
+...
 
 Alweer niet.
 
@@ -194,7 +196,7 @@ Je denkt even zeer omslachtig na.
 
 Waardoor het lijkt of de tijd even stil staat.
 
-(...)
+...
 
 En komt dan vervolgens ineens uit het niets tot een conclusie. 
 
@@ -206,7 +208,7 @@ Zo.
 
 Dat is er uit. 
 
-(...)
+...
 
 Bij deze wil ik je het volgende laten weten. 
 
@@ -252,7 +254,7 @@ Om mijn brief nog even heel wijselijk af te sluiten.
 
 ‘Een gewaarschuwd mens telt voor twee’. 
 
-<br>
+
 
 Hartelijke groet,
 
