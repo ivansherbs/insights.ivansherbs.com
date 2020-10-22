@@ -32,6 +32,8 @@ Om hééérlijk te wandelen door de natuur. Zet die stappenteller maar gauw aan!
 
 Waarbij je het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin.
 
+https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
+
 Echter wordt je ook een dagje ouder. 
 
 Niets aan te doen. 
@@ -48,7 +50,7 @@ Met als gevolg dat je slijmbeurzen, ofwel de beschermkappen rondom je gewrichten
 
 **De vraag is of je hier wat aan kunt doen?**
 
-Ja!
+Ja.
 
 Dit soort problemen kun je preventief behandelen. 
 
@@ -81,8 +83,6 @@ Ivan Chai bevat 7 voordelen die je lichaam en geest gezond houden.
 Mocht je toch onverhoopt een zwaardere vorm van een slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Wil je meer weten over het behoud van soepele gewrichten?
-
-https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
 
 ### Veelgestelde vragen
 
