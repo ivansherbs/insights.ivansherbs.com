@@ -25,7 +25,7 @@ Want.
 
 **Wist je dat 3 van de 4 vrouwen last krijgt van een vaginale schimmelinfectie?!**
 
-(...)
+....
 
 En nu vraag je jezelf waarschijnlijk af… 
 
@@ -127,7 +127,7 @@ Ook mannen kunnen last krijgen van deze onzichtbare legers!
 
 Denk nu maar aan een piemel.
 
-(...)
+https://drive.google.com/file/d/15MoaWGRG_ZOdjpOo42T89Bb1gwwFvkGl/view?usp=sharing
 
 Goed zo. 
 
@@ -427,10 +427,6 @@ Mocht je onverhoopt een zware infectie oplopen, ga verstandig te werk. Bel een d
 Vergeet niet dat een infectie makkelijk kan terugkomen.
 
 Wil jij meer informatie over infecties?
-
-Lees dan snel verder
-
-https://drive.google.com/file/d/15MoaWGRG_ZOdjpOo42T89Bb1gwwFvkGl/view?usp=sharing
 
 ### Veelgestelde vragen
 
