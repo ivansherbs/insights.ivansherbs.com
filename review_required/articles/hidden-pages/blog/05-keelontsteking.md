@@ -34,7 +34,7 @@ Beste zware drinker,
 
 Beste gezelligheidsdrinker,
 
-
+<br>
 
 Zo dan. 
 
@@ -254,7 +254,7 @@ Om mijn brief nog even heel wijselijk af te sluiten.
 
 ‘Een gewaarschuwd mens telt voor twee’. 
 
-
+<br>
 
 Hartelijke groet,
 
