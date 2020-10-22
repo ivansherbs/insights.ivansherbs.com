@@ -137,6 +137,8 @@ Je staat letterlijk even stil in de tweede versnelling.
 
 En dan vraag je jezelf af.
 
+https://drive.google.com/file/d/1xRSR-uCLEo5S5krFPwxqMVBWKyqfmGQM/view?usp=sharing
+
 **Hoe heeft het dan zover kunnen komen?**
 
 Je hebt laten zien dat je gedreven, ambitieus en enthousiast bent.
@@ -205,7 +207,7 @@ Deze periode gaat over het algemeen gepaard met een **overmatige hoeveelheid aan
 
 En.
 
-Nu kom het. 
+Nu kom het.
 
 **Koffie.**
 
@@ -317,8 +319,6 @@ Goed om te weten.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burn-out.
  
-https://drive.google.com/file/d/1xRSR-uCLEo5S5krFPwxqMVBWKyqfmGQM/view?usp=sharing
-
 ### Veelgestelde vragen
 
 * [Wat is een burn-out?](#wat-is-een-burn-out)
