@@ -20,7 +20,7 @@ In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij
 
 ### Inzichten
 
-DAGBOEK VAN EEN EMOTIONEEL en OVERSTUUR MEISJE 
+DAGBOEK van een EMOTIONEEL en OVERSTUUR MEISJE 
 
 oh.
 
