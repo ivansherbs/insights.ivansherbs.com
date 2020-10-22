@@ -24,7 +24,7 @@ DAGBOEK VAN EEN EMOTIONEEL en OVERSTUUR MEISJE
 
 oh.
 
-en ongelooflijk hard aan de diarree. 
+en ongelooflijk hard aan de DIARREE. 
 
 .................
 
