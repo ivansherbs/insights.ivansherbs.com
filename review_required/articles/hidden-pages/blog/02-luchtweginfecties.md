@@ -59,6 +59,8 @@ Hetzelfde geldt overigens voor kinderen.
 
 **Kinderen hebben ook extra voedingsstoffen nodig.**
 
+https://drive.google.com/file/d/1jPOulMsS0oHDfTA38R4Pkl5CQJV6c9Ta/view?usp=sharing
+
 Het begint al op jonge leeftijd wanneer kinderen last kunnen krijgen van pseudokroep. 
 
 Dus dan moet je denken aan de leeftijd 1-6 jaar.
@@ -118,8 +120,6 @@ Eenvoudig een verkoudheid of griep voorkomen?
 Of Pseudokroep verzorgen?
 
 > Lees snel verder en ontvang óók tips voor het drinken van Ivan Chai met kinderen!
-
-https://drive.google.com/file/d/1jPOulMsS0oHDfTA38R4Pkl5CQJV6c9Ta/view?usp=sharing
 
 ### Veelgestelde vragen
 
