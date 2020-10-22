@@ -19,7 +19,7 @@ Publish: IVAN'S
 
 ### Inzichten
 
-Voorkom relatieproblemen door het voorkomen van een urineweginfectie!!!
+Voorkom relatieproblemen door het voorkomen van een urineweginfectie!
 
 Ja!
 
@@ -37,7 +37,7 @@ Goed.
 
 Laten we bij deze opnieuw beginnen.
 
-**Wist je dat een urineweginfectie van invloed is op je relatie?**
+**Wist je dat een URINEWEGINFECTIE van invloed is op je relatie?**
 
 Dit zijn de bevindingen uit grootschalig Europees onderzoek.
 
@@ -47,7 +47,7 @@ Je kunt relatieproblemen namelijk vanuit meerdere perspectieven benaderen.
 
 Zoals je weet benaderen wij ieder probleem het liefst vanuit **holistisch perspectief**. 
 
-Hiermee bedoelen we dat problemen meerdere oorzaken hebben. 
+Hiermee bedoelen we dat een probleem meerdere oorzaken heeft. 
 
 Laten we dit holistische perspectief nog even kort doornemen. 
 
@@ -57,7 +57,7 @@ En om verwarring te voorkomen.
 
 Met het holistisch perspectief benaderen we **de mens in zijn totaliteit**. 
 
-**Hiermee bedoelen we** de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. 
+Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag. 
 
 **Klinkt ingewikkeld of niet?** 
 
@@ -71,25 +71,27 @@ Van links naar rechts!
 
 En van top tot teen! 
 
-Laten we eerst even een **top 7** aan oorzaken van **relatieproblemen** doornemen. 
+Laten we eerst even een **TOP 7** aan oorzaken van **RELATIEPROBLEMEN** doornemen. 
 
 Gewoon om even in te komen. 
 
-En dan snap je ook makkelijker waarom een urineweginfectie van invloed is op jullie relatie. 
+https://drive.google.com/file/d/1H05NjEg8ZDrRS7PkIZ3bMKHhti2Lm2hw/view?usp=sharing
 
-### 1. Communicatie
+En dan snap je ook makkelijker waarom een **urineweginfectie** van invloed is op jullie **relatie**. 
 
-De hoeksteen van iedere relatie. **Communicatie vloeit voort** in ieder van onderstaande oorzaken. 
+### 1. COMMUNICATIE
+
+De hoeksteen van iedere relatie. **communicatie vloeit voort** in ieder van onderstaande oorzaken. 
 
 Bij communicatie zijn minimaal 2 personen nodig. Heel eenvoudig uitgelegd het je een **zender** en een **ontvanger**. 
 
 Bij het zenden van een bericht kan **ruis ontstaan** bij de ontvanger. Gezien deze persoon het op zijn of haar eigen manier interpreteert. Wat weer te maken heeft met leeftijd, intelligentie niveau, ervaringen in het leven en ga zo maar door. Wanneer de ontvanger de informatie heeft verwerkt verschuiven die rollen. 
 
-**Bij te veel ruis** in de communicatie groeien mensen uit elkaar. Hetzelfde geldt overigens bij een **gebrek aan** communicatie. Waardoor de interesse bij personen in het andere geslacht sneller wordt gewekt. 
+**Bij te veel ruid** in de communicatie groeien mensen uit elkaar. Hetzelfde geldt overigens bij een **gebrek aan** COMMUNICATIE. Waardoor de interesse bij personen in het andere geslacht sneller wordt gewekt. 
 
 Wellicht met vreemdgaan tot gevolg.
 
-### 2. Vreemdgaan
+### 2. VREEMDGAAN
 
 Ook hier zijn leuke bevindingen over gedaan. 
 
@@ -107,7 +109,7 @@ Tast dit het vertrouwen in je relatie op dusdanige wijze aan dat het ‘even doo
 
 Dit heeft te maken met...
 
-### 3. Vertrouwen
+### 3. VERTROUWEN
 
 Vertrouwen is één van de **bouwstenen** van je relatie. **Volgens onderzoek** naar ‘Condoomgebruik in verschillende type relaties’ geven de respondenten aan dat de **mate van vertrouwen, wederkerigheid** en **respect** binnen relaties de **fundamenten vormen** voor een **langdurige relatie**. 
 
@@ -123,7 +125,7 @@ Wanneer dit allemaal wel goed zit kunnen ook externe factoren van invloed zijn o
 
 Denk aan je...
 
-### 4. Carrière 
+### 4. CARRIÈRE 
 
 Je carrière kan flink van invloed zijn op je **mentale gesteldheid**. En hiermee bedoelen we dat een **drukke agenda** kan zorgen voor **werkgerelateerde stress**. Carrièregerichte koppels kunnen tijd vergeten voor elkaar vrij te maken wanneer ze dit niet inplannen. 
 
@@ -137,7 +139,7 @@ Gezien **werkstress een groeiend probleem** is onder de Nederlandse bevolking, h
 
 Hetzelfde geldt voor punt nummer 5. 
 
-### 5. Mentale klachten
+### 5. MENTALE klachten
 
 Mentale klachten klinkt meteen vrij heftig. Toch komt het op **dagelijkse basis** vaker voor dan je denkt. 
 
@@ -149,7 +151,7 @@ Ook kan de periode in het leven die bekend staat als een **‘midlife crisis’*
 
 Wat flink van invloed is op jullie relatie.
 
-### 6. Egoïstische partner
+### 6. Egoïstische PARTNER
 
 Bovenstaande punten kunnen worden versterkt door een partner die vrij **egocentrisch** door het leven gaat. Dit kan komen door de **grootverdiener** die bepaald wat er gebeurt met het geld.  
 
@@ -159,7 +161,7 @@ En ook dit is ernstig van invloed op **jullie relatie**. Door hierover te praten
 
 Dialoog is van belang in langdurige relaties. Ook als het op punt 7 aankomt. 
 
-### 7. Intimiteit 
+### 7. INTIMITEIT 
 
 Tot slot zijn we aangekomen bij het laatste punt. 
 
@@ -246,8 +248,6 @@ Ivan Chai heeft ook een kalmerende werking op je centrale zenuwstelsel; waardoor
 Zoals stress en angst. 
 
 Beide goed voor je relatie! 
-
-https://drive.google.com/file/d/1H05NjEg8ZDrRS7PkIZ3bMKHhti2Lm2hw/view?usp=sharing
 
 ### Veelgestelde vragen
 
