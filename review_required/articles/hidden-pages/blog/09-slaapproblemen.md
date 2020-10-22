@@ -8,6 +8,7 @@ Publish: IVAN'S
   - mentale klachten
   - werk
   - gevoel
+  - nachtrust
  ---
 <h2>Voordeel Ivan Chai: Verbetert de nachtrust</h2>
 
@@ -63,9 +64,13 @@ Hierdoor zijn in Nederland slaapstoornissen een groeiend en zorgwekkend probleem
 
 20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen.
 
+Binnen dit onderzoek nemen de Nederlanders mee vanaf 12 jaar en ouder. 
+
+Dus ook **kinderen**.
+
 Bij kinderen is stress ook één van de oorzaken van slecht slapen. 
 
-**Stress bij kinderen is echter moeilijk te herkennen.**
+**Stress bij kinderen is moeilijk te herkennen.**
 
 Het ontstaat door een combinatie van factoren waarbij een toenemende mate van technologie in ons dagelijks leven een belangrijke rol speelt.  
 
@@ -73,7 +78,9 @@ Speciaal voor de ouders en toekomstig ouders onder ons nog even wat extra achter
 
 **Onderzoek heeft aangetoond** dat kinderen steeds vaker beschikken over een smartphone. 
 
-5 procent van alle vierjarigen heeft al een smartphone. En van de twaalfjarige loopt 94 procent rond met een mobiele telefoon!
+5 procent van alle vierjarigen heeft al een smartphone. 
+
+En van de twaalfjarige loopt 94 procent rond met een mobiele telefoon!
 
 Wetenschappers en psychologen waarschuwen voor stress als gevolg van **overmatig telefoongebruik**. 
 
