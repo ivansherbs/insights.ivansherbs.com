@@ -43,6 +43,8 @@ Gelukkig kunnen we **één risicofactor** met zekerheid opschrijven.
 
 Vóór je 50ste is prostaatkanker zeer zeldzaam. 
 
+https://drive.google.com/file/d/1hqkfTq3sOLZNmO4T40S1gmG6dqMxGoiQ/view?usp=sharing
+
 Eenmaal prostaatkanker opgelopen. Dan komen de meeste mannen er pas laat achter. Dit komt omdat prostaatkanker langzaam groeit. 
 
 **Vaak komt dit probleem** pas aan het licht bij een medische controle. 
@@ -68,8 +70,6 @@ Hou hier dus rekening mee mocht je ooit een arts bezoeken vanwege prostaatklacht
 Wanneer niet tijdig geconstateerd en uitgezaaid naar de rest van het lichaam, is prostaatkanker bijna niet te genezen. 
 
 Op zoek naar meer verdieping? 
-
-https://drive.google.com/file/d/1hqkfTq3sOLZNmO4T40S1gmG6dqMxGoiQ/view?usp=sharing
 
 ### Veelgestelde vragen
 
