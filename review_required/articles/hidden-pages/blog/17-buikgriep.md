@@ -12,19 +12,15 @@ Publish: IVAN'S
 ---
 <h2>Voordeel Ivan Chai: Verzorgt het spijsverteringsstelsel</h2>
 
-Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Denk aan Gastritis en Colitis, maar ook een maagzweer kan worden behandelt door het drinken van Ivan Chai.
-
-* Ivan Chai helpt je om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom.
-
-In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm.
+* Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Denk aan Gastritis en Colitis, maar ook een maagzweer kan worden behandelt door het drinken van Ivan Chai. Tevens worden je spijsverteringsonevenwichtigheden gestabiliseerd voor mensen met een prikkelbaar darmsyndroom.
 
 ### Inzichten
 
-DAGBOEK van een EMOTIONEEL, OVERSTUUR en ONZEKER MEISJE 
-
-oh.
+DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW.
 
 en nu zit ze ook nog eens ongelooflijk hard aan de DIARREE. 
+
+zul je net zien. 
 
 .................
 
@@ -78,7 +74,7 @@ Maar dat weet ik dus niet zeker.
 
 Ik wil helemaal nog geen kinderen.
 
-Of BÉÉÉÉ-TERRRR nog.
+Of B-B-B-BÉÉÉÉ-TERRR nog.
 
 Misschien zelfs geen.
 
