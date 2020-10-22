@@ -98,6 +98,8 @@ Kinderen hebben hierdoor een extra prikkel die ze letterlijk overal mee naartoe 
 
 **Kortom.**
 
+https://drive.google.com/file/d/1IhyqqYMdLSB0qnJE0ZUDl28gHBBmLAK-/view?usp=sharing
+
 Hun tere kleine kwetsbare kinder hersentjes komen hierdoor niet tot rust. 
 
 Hierdoor kunnen ze zich moeilijker concentreren, ze worden onrustig wanneer ze niet online kunnen. En het aantal ruzies binnen gezinnen neemt toe. 
@@ -177,8 +179,6 @@ En ga zo maar door.
 Mocht je toch onverhoopt slaapproblemen rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Benieuwd naar de impact van slaapproblemen op Nederland?
-
-https://drive.google.com/file/d/1IhyqqYMdLSB0qnJE0ZUDl28gHBBmLAK-/view?usp=sharing
 
 ### Veelgestelde vragen
 
