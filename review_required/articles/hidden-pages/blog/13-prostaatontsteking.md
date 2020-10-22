@@ -70,6 +70,8 @@ Voor we verder gaan met de inzichten over prostaatklachten.
 
 Eerst nog even het volgende.
 
+https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
+
 **Voor het belang van het verhaal en de volledigheid** willen we je eerst even kennis laten maken met Maria Treben.
 
 De Zwitserse Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden.
@@ -140,8 +142,6 @@ Het **European Medicines Agency** heeft de werking van Ivan Chai **geëvalueerd 
 Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Op zoek naar meer verdieping?
-
-https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
 
 ### Veelgestelde vragen
 
