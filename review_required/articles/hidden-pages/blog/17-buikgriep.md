@@ -20,23 +20,25 @@ In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij
 
 ### Inzichten
 
-DAGBOEK van een EMOTIONEEL en OVERSTUUR MEISJE 
+DAGBOEK van een EMOTIONEEL, OVERSTUUR en ONZEKER MEISJE 
 
 oh.
 
-en ongelooflijk hard aan de DIARREE. 
+en nu zit ze ook nog eens ongelooflijk hard aan de DIARREE. 
 
 .................
 
 Lief dagboek,
 
-Vandaag was voor mij weer een hele vervelende dag. 
+Vandaag was weer een hele vervelende dag voor mij. 
 
 Ik zit GVD alweer aan de DIARREE. 
 
 ALWEER!
 
 Hou je toch niet voor mogelijk.
+
+naaaah.
 
 Ik had wederom last van mijn buik. 
 
@@ -49,6 +51,8 @@ waar ik óóóóók altijd last van heb.
 Nee.
 
 GELUKKIG had ik dit keer eens een ander probleem. 
+
+Voor de verandering
 
 Gewoon even iets anders. 
 
@@ -100,7 +104,7 @@ Dus ja.
 
 En hier bovenop.
 
-Nu ben ik ook nog eens mijn hormoonhuishouding flink DOOR DE WAR aan het schudden.
+Ben ik nu ook nog eens mijn hormoonhuishouding flink DOOR DE WAR aan het schudden.
 
 Door de ANTICONCEPTIEPIL.
 
