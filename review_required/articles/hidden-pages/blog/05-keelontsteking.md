@@ -16,13 +16,23 @@ Publish: IVAN'S
 
 ### Inzichten
 
+Dit is een BRIEF.
+
+Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL.
+
+Voel je vooral aangesproken. Dat is niet erg. 
+
+We bekijken zometeen ook nog even de statistieken. 
+
+ha-ha
+
+.................
+
 Beste zware drinker,
 
 &
 
 Beste gezelligheidsdrinker,
-
-<br>
 
 Zo dan. 
 
@@ -86,7 +96,7 @@ En nu komt de grap.
 
 Je bent al een zware drinker als je minstens 1 keer per week 6 glazen of meer op één dag drinkt. 
 
-Zoo he. 
+Zoooo he. 
 
 ha-ha
 
@@ -212,6 +222,8 @@ Tuurlijk wel.
 
 Hier komt de tip. 
 
+https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
+
 Drink Ivan Chai. 
 
 Voor en ná een avondje uit met mannen. Of lekker met de meiden.  
@@ -246,17 +258,21 @@ Hartelijke groet,
 
 Ivan
 
-<br>
+.................
 
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een keelontsteking te voorkomen. Of te verzorgen.
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. 
 
-Drink Ivan Chai niet alleen preventief tegen een keelontsteking. Maar ook om je fysiek en mentaal te ondersteunen wanneer je al een pijnlijke keel hebt.
+En ik garandeer je dat je beter in staat bent een keelontsteking te voorkomen. 
+
+Of te verzorgen.
+
+Drink Ivan Chai niet alleen preventief tegen een keelontsteking. 
+
+Maar ook om je fysiek en mentaal te ondersteunen wanneer je al een pijnlijke keel hebt.
 
 Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een keelontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Lees snel meer over dit probleem. 
-
-https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
 
 ### Veelgestelde vragen
 
