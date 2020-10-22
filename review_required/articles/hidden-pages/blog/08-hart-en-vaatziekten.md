@@ -67,6 +67,8 @@ Ze communiceren met ieder orgaan via je zenuwstelsel.
 
 Hetzelfde geldt voor je hart.
 
+https://drive.google.com/file/d/1pL-XQzOhZQ9sA9vYbB-O6g_YYt4eq9uj/view?usp=sharing
+
 Het hart is in bezit van een vergelijkbaar controlecentrum. 
 
 Mogelijk gemaakt door een zogenaamd **intern mini zenuwstelsel** waardoor je deze organen vanuit **neurologisch perspectief** met elkaar kunt vergelijken. 
@@ -140,8 +142,6 @@ Mocht je toch onverhoopt een hart- en vaatziekten oplopen, ga verstandig te werk
 Bij gebruik van zware farmaceutische medicijnen, raden wij het aan eerst met een deskundige te overleggen of Ivan Chai kan worden gedronken.
 
 Benieuwd naar de impact van hart- en vaatziekten?
-
-https://drive.google.com/file/d/1pL-XQzOhZQ9sA9vYbB-O6g_YYt4eq9uj/view?usp=sharing
 
 ### Veelgestelde vragen
 
