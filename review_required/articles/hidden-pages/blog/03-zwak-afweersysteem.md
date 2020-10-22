@@ -127,6 +127,8 @@ En los daarvan.
 
 Het ligt in de lijn der verwachtingen dat iedereen oud wordt. 
 
+https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
+
 **Ouderen**
 
 Het ligt tevens in de lijn der verwachtingen dat wanneer je ouder wordt bepaalde functies van je lichaam minder goed werken.
@@ -186,6 +188,8 @@ Dit zijn voorbeelden waarbij het herstelproces alleen al enkele maanden in besla
 In sommige gevallen zelfs jaren. 
 
 Ik bespreek bij deze alleen de ex-patiënten van één ernstige ziekte. 
+
+Namelijk. 
 
 **Ex-kankerpatiënten**
 
@@ -253,8 +257,6 @@ En.
 
 Om het af te leren...
 
-<br>
-
 **1. Slechte voeding**
 
 Dit weet je eigenlijk ook wel.
@@ -299,7 +301,7 @@ Mocht je onverhoopt met een zwak afweersysteem blijven rondlopen, ga verstandig 
 
 Benieuwd hoe Siberische kruidenthee van invloed is op je afweersysteem?
 
-https://drive.google.com/file/d/1UoKvaQLkvWLn0i1n5IyTZMRD4lUNdtyM/view?usp=sharing
+### Veelgestelde vragen
 
 * [Wat is een afweersysteem](#Wat-is-een-afweersysteem)
 
