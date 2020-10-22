@@ -1,6 +1,6 @@
 ---
 layout: article.html
-Title: Angst als controlemechanisme. 
+Title: Angst als controlemechanisme
 sub-title: artikel| angst
 Publish: IVAN'S
   Author: Svetlana Petrova
@@ -91,7 +91,9 @@ Uiteraard liggen de verhoudingen van dit fenomeen wel ietsje complexer.
 
 Leuk he deze inzichten over lichtere vormen van angst?  
 
-Bovenstaande voorbeelden spelen zich af op de werkvloer. 
+Bovenstaande voorbeelden spelen zich met name af in het bedrijfsleven. 
+
+https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=sharing
 
 Echter zijn er ook vergelijkbare situaties buiten de werkvloer. **Angst is namelijk een emotie van alle leeftijden.**
 
@@ -166,8 +168,6 @@ Goed om te weten. Bestrijd lichtere vormen van angst en vermijd het gebruik van 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van angst.
 
 Benieuwd hoeveel mensen last hebben van angst?
-
-https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=sharing
 
 ### Veelgestelde vragen
 
