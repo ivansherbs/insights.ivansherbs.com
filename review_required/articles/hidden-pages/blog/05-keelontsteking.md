@@ -20,7 +20,9 @@ Dit is een BRIEF.
 
 Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL.
 
-Voel je vooral aangesproken. Dat is niet erg. 
+Voel je vooral aangesproken. 
+
+Dat is niet erg. 
 
 We bekijken zometeen ook nog even de statistieken. 
 
