@@ -20,7 +20,9 @@ DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW.
 
 en nu zit ze ook nog eens ongelooflijk hard aan de DIARREE. 
 
-zul je net zien. 
+Zul je net zien. 
+
+bah.
 
 .................
 
@@ -37,8 +39,6 @@ Hou je toch niet voor mogelijk.
 naaaah.
 
 Ik had wederom last van mijn buik. 
-
-bah!
 
 Dit keer was het NIET de ZWARE MENSTRUATIEPIJN
 
@@ -70,6 +70,8 @@ Alweer.
 
 Ik zit er aan te denken te stoppen met de ANTICONCEPTIEPIL.
 
+Weer eentje minder. 
+
 Maar dat weet ik dus niet zeker.
 
 Ik wil helemaal nog geen kinderen.
@@ -84,7 +86,7 @@ Kinderen.
 
 Maar dat even terzijde.
 
-Waar ik het dus eigenlijk over wil hebben is het volgende.
+Dus.
 
 Ik heb WÉÉÉÉR last van mijn buik.
 
