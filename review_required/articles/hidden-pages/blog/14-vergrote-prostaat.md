@@ -99,6 +99,8 @@ Voor we dieper ingaan op Ivan Chai om een vergrote prostaat tegen te gaan.
 
 Eerst nog even het volgende.
 
+https://drive.google.com/file/d/1NNMBYZTRvfCVLJ9X5NyJC10ILg7r-43v/view?usp=sharing
+
 **Voor het belang van het verhaal en de volledigheid** willen we je eerst even kennis laten maken met Maria Treben.
 
 De Zwitserse Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden.
@@ -139,8 +141,6 @@ Graag willen we tot slot het volgende belichten.
 * Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen.
 
 Op zoek naar meer verdieping?
-
-https://drive.google.com/file/d/1NNMBYZTRvfCVLJ9X5NyJC10ILg7r-43v/view?usp=sharing
 
 ### Veelgestelde vragen
 
