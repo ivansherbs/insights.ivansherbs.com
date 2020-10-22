@@ -180,7 +180,7 @@ We noemen een aantal voorbeelden.
 
 Denk aan een ANTIBIOTICA kuur! Denk aan een antibiotica kuur als gevolg van een BLAASONTSTEKING. 
 
-  - Door het gebruik van ANTIBIOTICA kan je darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een ANTIBIOTICA kuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geAssocieerde Diarree - AAD. AAD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt acht weken na de kuur nog last had van diarree.
+  - Door het gebruik van ANTIBIOTICA kan je darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een ANTIBIOTICA kuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geAssocieerde Diarree - AAD. AAD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van ANTIBIOTICA de patiënt acht weken na de kuur nog last had van diarree.
 
 Ter info.
 
@@ -204,9 +204,9 @@ Zo ja.
 
 Dan is het VERSTANDIG onderstaande even door te nemen.
 
-  - Gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland heeft last van reizigersdiarree. In de medische wereld staat deze vorm van darmklachten ook wel bekend als Turista. Turista is een afgeleide van het Spaanse woord toerist. Deze medische term is uiteindelijk gebruikt aangezien reizigers uit verschillende Europese landen na terugkomst uit (sub) tropische Spaanstalige landen veelal te kampen hadden met darmklachten. Naast het woord Turista zijn er minder gangbare termen gebruikt voor het woord reizigersdiarree. Denk hierbij aan Giardiasis en Diárroia Tou Taxidióti.
+  - Gemiddeld 30% tot 40% van de toeristen naar (sub) tropische gebieden vanuit Nederland heeft last van REIZIGERSdiarree. In de medische wereld staat deze vorm van darmklachten ook wel bekend als TURISTA. TURISTA is een afgeleide van het Spaanse woord toerist. Deze medische term is uiteindelijk gebruikt aangezien REIZIGERS uit verschillende Europese landen na terugkomst uit (sub) tropische Spaanstalige landen veelal te kampen hadden met darmklachten. Naast het woord TURISTA zijn er minder gangbare termen gebruikt voor het woord REIZIGERSdiarree. Denk hierbij aan Giardiasis en Diárroia Tou Taxidióti.
 
-> Wanneer we naar de STATISTIEKEN kijken zien we dat de incidentie van Turista gedurende onze wintermaanden hoger is dan gedurende de zomer. Turista kan worden veroorzaakt door een bacterie, virus of parasiet.
+> Wanneer we naar de STATISTIEKEN kijken zien we dat de incidentie van TURISTA gedurende onze wintermaanden hoger is dan gedurende de zomer. TURISTA kan worden veroorzaakt door een bacterie, virus of parasiet.
 
 Dus.
 
