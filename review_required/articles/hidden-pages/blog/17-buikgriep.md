@@ -160,9 +160,9 @@ Wel zo makkelijk.
 
 Dit doe je door gewoon even LOGISCH na te denken wat voor periode er voor de boeg staat.
 
-We geven je bij deze even wat hou vast mee zodat ook jij in de toekomst kunt kijken.
+We geven je bij deze wat houvast mee zodat ook jij in de TOEKOMST kunt kijken.
 
-Hierdoor kun je de kans op darmklachten die zorgen voor nare situaties verminderen.
+Hierdoor kun je de kans op DARMKLACHTEN die zorgen voor nare situaties verminderen.
 
 Dit doen we in de vorm van 3 tips.
 
