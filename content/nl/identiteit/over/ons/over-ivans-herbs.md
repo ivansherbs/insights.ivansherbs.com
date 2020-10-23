@@ -111,7 +111,7 @@ Industrieën verstoren continu de norm.
 
 Onze klanten kunnen op ons vertrouwen hen te informeren over eenvoudige en biologische alledaagse producten.
 
-Nog even ter informatie...
+**Nog even ter informatie...**
 
 Vergeet niet dat onze producten kunnen worden gebruikt als alternatief of aanvulling op farmaceutische medicijnen. 
 
