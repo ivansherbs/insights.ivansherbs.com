@@ -1,7 +1,7 @@
 ---
 layout: article.html
-title: De geschiedenis van Ivan Chai
-sub-title: artikel| **Geschiedenis**
+title: Het parabel van de Siberische Kruidenthee
+sub-title: geschiedenis| ivan chai
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
   tags:
@@ -11,9 +11,8 @@ Publish: IVAN'S
 
 picture header: https://drive.google.com/file/d/13FTJbx6s4jMnzk0sn9CzSNCN5W8sRZSv/view?usp=sharing
 
-### Het parabel van de Siberische Kruidenthee
-
-In de 17e eeuw waren het de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai herontdekten. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met onregelmatige hartkloppingen, rillingen en slapeloosheid tot gevolg. Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar waarbij kennisdeling geschieden om de relatie te versterken.
+### In de 17e eeuw
+Het waren de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai herontdekten. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met onregelmatige hartkloppingen, rillingen en slapeloosheid tot gevolg. Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar waarbij kennisdeling geschieden om de relatie te versterken.
 
 ### Ivan Chai
 De traditionele Russische volksgeneeskunde is gericht op het gebruik van geneeskrachtige kruiden. Genoodzaakt door het gebrek aan een constante toevoer aan handelsproducten uit verder gelegen gebieden, kent deze volksgeneeskunde vele doordachte rituelen. 
