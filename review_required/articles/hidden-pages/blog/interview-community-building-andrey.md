@@ -1,13 +1,18 @@
 ---
 layout: article.html
 Title: Duurzaamheid
+sub-title: interview| community building
 Publish: IVAN'S
   Author: Andrey Nikitin
+  tags:
+  - levensstijl
+  - community building
+  - natuur
+  - duurzaam
 ---
 Header: https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing <br> 
 profile pic: https://drive.google.com/file/d/1kbbirD0H6Ja04ABLNPzbzO4HZQ06HWl2/view?usp=sharing
 
-interview| **Community building**
 
 "Chazhaevka is een Siberische ecodorp wat als doel heeft sociaal, economisch als ecologisch duurzaam te zijn", vertelt Andrey Nikitin.
 
