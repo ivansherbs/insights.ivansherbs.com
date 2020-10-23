@@ -1,18 +1,18 @@
 ---
 layout: article.html
 Title: Leven in Chazhaevka 
+sub-title: portret| herbal tea master
 Publish: IVAN'S
   Author: Svetlana Petrova
+  tags:
+  - levensstijl
+  - community building
+  - natuur
+  - gevoel
 ---
 Header and to use for profile pic: https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 
-portret| **Svetlana**
-
-<br>
-
 **Een leven vol drukte?**
-
-<br>
 
 Niet meer voor deze natuurliefhebber. We hebben het over Svetlana.
 
@@ -31,8 +31,7 @@ https://drive.google.com/file/d/11ovwoc7qv2AWDPRyUdgh9b_yrqVOIz2G/view?usp=shari
 > Overdag doet ze haar verhaal. 
 
 
-“Hoe heeft het zover kunnen komen?” Is de vraag die haar wordt gesteld. 
-
+**“Hoe heeft het zover kunnen komen?”** Is de vraag die haar wordt gesteld. 
 
 Pfffff… 
 
@@ -92,7 +91,7 @@ We waren échte vriendinnen waardoor we er niet alleen voor stonden.
 
 Na verloop van tijd merkte ik niet meer dat mijn dagen met gemak langer dan 12 uur duurden. 
 
-Ik werkte jaren non-stop…
+**Ik werkte jaren non-stop.**
 
 Mijn output verhoogde ik in rap tempo zonder hogerop te komen.
 
@@ -145,7 +144,7 @@ Eenmaal aangekomen heb ik eerst weken doelloos rondgereisd.
 
 En met plezier. 
 
-Meditatie en yoga stonden centraal in mijn dagelijkse routines.
+**Meditatie en yoga** stonden centraal in mijn dagelijkse routines.
 
 Met name het mediteren vroeg in de ochtend heeft mij er doorheen geholpen. 
 
@@ -172,7 +171,7 @@ Het nemen van tijd voor mijn gemoedstoestand stel ik hierbij voorop.
 
 Dit wordt van nature onderdeel van je gedrag in deze ecodorpen.
 
-Community building in combinatie met creativiteit staat met name centraal.  
+**Community building in combinatie met creativiteit staat met name centraal.**  
 
 Iedereen draagt zijn bijdrage door zich te richten op hetgeen waar je jezelf goed bij voelt. Hierdoor wordt waarde gecreëerd zonder druk opgelegd te krijgen. 
 
@@ -205,11 +204,7 @@ Een overmatige hoeveelheid aan stress is niet te zien.
 
 En er heerst gezien de werkdruk een taboe op om het bespreekbaar te maken. 
 
-<br>
-
-Gelukkig heb ik dit nu ver achter mij gelaten. 
-
-<br>
+**Gelukkig heb ik dit nu ver achter mij gelaten.**
 
 Mocht je nog een tip willen. 
 
