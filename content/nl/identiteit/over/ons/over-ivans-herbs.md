@@ -95,7 +95,7 @@ Om onze duurzaamheid te uiten naar deze Siberische ecodorpen en onze klanten ric
 
 * Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner milieu.
 
-* Wij zijn altijd op zoek naar meer samenwerkingsverbanden met gelijkgestemde bedrijven.
+* Wij zijn altijd op zoek naar samenwerkingsverbanden met gelijkgestemde bedrijven.
 
 Om daad bij woord te voegen zijn we overgegaan op verpakkingsmaterialen die eeuwig meegaan.
 
