@@ -2,7 +2,6 @@
 layout: article.html
 Title: Over Ivan's Herbs 
 sub-title: over| ons
-header: picture of logo 
 ---
 
 header: picture of logo 
