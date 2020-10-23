@@ -1,15 +1,18 @@
 ---
 layout: article.html
 Title: De reis van mijn leven
+sub-title: brief| ontdekking
 Publish: IVAN'S
   Author: Michael Koch
+  tags: 
+  - levensstijl
+  - holisme	
+  - natuur
+  - sport
 ---
 header: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing <br>
 Profile pic: https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
 
-brief| **Ontdekking**
-
-<br>
 
 Beste levensgenieter, 
 
