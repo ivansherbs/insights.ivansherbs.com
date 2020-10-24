@@ -66,7 +66,8 @@ https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=shari
 
 brief| **ontdekking**
 
-Oprichter Michael ontdekt Siberië... 
+Oprichter Michael ontdekt Siberië. Hij komt in aanraking met traditionele kruidengeneeskunde, het leven in een ecodorp en beklimt de hoogste berg van de Altaj, de Belukha.  
+
 
 [Ontdek het verhaal](#)
 <br>
