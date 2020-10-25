@@ -19,7 +19,7 @@ Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken..
 
 [subscribe email]
 
-en ontvang updates van IVAN´S online magazine.
+en ontvang updates van IVAN´s online magazine.
 
 <br>
 
@@ -197,7 +197,7 @@ Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het ver
 
 * Recyclebare verpakking 
 
-* Lees onze artikelen op IVAN'S. 
+* Lees onze artikelen op IVAN's. 
 
 <br>
 <br>
@@ -208,7 +208,7 @@ Button -> [Bestel nu]
 
 
 
-## Over IVAN'S
+## Over IVAN's
 
 Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
