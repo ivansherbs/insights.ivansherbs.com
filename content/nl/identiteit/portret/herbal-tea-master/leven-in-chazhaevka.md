@@ -2,7 +2,7 @@
 layout: article.html
 Title: Leven in Chazhaevka 
 sub-title: portret| herbal tea master
-Publish: IVAN'S
+Publish: IVAN's
   Author: Svetlana Petrova
   tags:
   - levensstijl
