@@ -215,6 +215,8 @@ Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 Ontdek de inzichten en laat je informeren. 
 
 
+.................
+
 https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
 ### Ontdek 7 voordelen
 
