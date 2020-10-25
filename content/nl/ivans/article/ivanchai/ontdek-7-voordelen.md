@@ -2,7 +2,7 @@
 layout: article.html
 Title: Ontdek 7 voordelen
 sub-title: artikel| ivan chai
-Publish: IVAN'S
+Publish: IVAN's
   Author: Ivan Alexandrovitsj
     tags:
     - weerstand
