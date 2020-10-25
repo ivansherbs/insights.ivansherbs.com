@@ -2,7 +2,7 @@
 layout: article.html
 Title: Duurzaamheid
 sub-title: interview| community building
-Publish: IVAN'S
+Publish: IVAN's
   Author: Andrey Nikitin
   tags:
   - levensstijl
