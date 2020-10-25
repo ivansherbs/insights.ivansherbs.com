@@ -215,6 +215,21 @@ Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 Ontdek de inzichten en laat je informeren. 
 
 
+https://drive.google.com/file/d/1GwYCrhUYzR5JDueS5vUvb4WzhYaKzHrt/view?usp=sharing
+### Ontdek 7 voordelen
+
+artikel| **ivan chai**
+
+Ivan Chai bevat 7 voordelen tegen 17 problemen. Goed voor lichaam en geest. Waar wij je op willen wijzen is...
+
+[Ontdek meer inzichten](#)
+
+<br>
+
+.................
+<br>
+<br>
+
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 ### Het onzichtbare leger
 
