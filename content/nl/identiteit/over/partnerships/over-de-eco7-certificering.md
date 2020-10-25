@@ -45,6 +45,6 @@ De kruiden uit deze omgeving hebben zich op een andere manier ontwikkeld dan eld
 
 Leuk om te weten. 
 
-De allerlaatste kwaliteitscontrole vindt plaats middels een ceremonie. 
+De allerlaatste kwaliteitscontrole vindt plaats middels een officieuse thee ceremonie. 
 
 De smaakbeleving staat hierbij centraal.
