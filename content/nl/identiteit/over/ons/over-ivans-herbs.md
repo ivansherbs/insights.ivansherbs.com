@@ -59,13 +59,13 @@ Wij hebben als doel het verbeteren van jou kennis over problemen.
 
 Lichamelijke en geestelijke problemen wel te verstaan. 
 
-Dit doen wij in de vorm van IVAN’S. 
+Dit doen wij in de vorm van IVAN’s. 
 
-IVAN’S is een online magazine om 17 alledaagse problemen bespreekbaar te maken. 
+IVAN’s is een online magazine om 17 alledaagse problemen bespreekbaar te maken. 
 
 Ontdek de inzichten en laat je informeren.
 
-De auteurs Michael Koch, Andrey Nikitin, Svetlana Petrovayé en Ivan Alexandrovitsj staat tot je beschikking. 
+De auteurs Michael Koch, Andrey Nikitin, Svetlana Petrova en Ivan Alexandrovitsj staat tot je beschikking. 
 
 
 
