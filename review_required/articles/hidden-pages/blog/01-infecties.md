@@ -5,7 +5,7 @@ sub-title: artikel| infecties
 Publish: IVAN'S 
   Author: Svetlana Petrova
   tags:
-  - versterkt de weerstand
+  - weerstand
   - vrouw	
   - infecties
   - gevoel	
