@@ -5,7 +5,7 @@ sub-title: artikel| zwak afweersysteem
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
   tags:
-  - versterkt de weerstand
+  - weerstand
   - levensstijl	
   - eyeopener	
   - ziekten	
