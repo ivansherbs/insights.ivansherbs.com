@@ -2,7 +2,7 @@
 layout: article.html
 Title: De reis van mijn leven
 sub-title: brief| ontdekking
-Publish: IVAN'S
+Publish: IVAN's
   Author: Michael Koch
   tags: 
   - levensstijl
