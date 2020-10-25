@@ -2,7 +2,7 @@
 layout: article.html
 title: Het parabel van de Siberische Kruidenthee
 sub-title: geschiedenis| ivan chai
-Publish: IVAN'S
+Publish: IVAN's
   Author: Ivan Alexandrovitsj
   tags:
   - geschiedenis
