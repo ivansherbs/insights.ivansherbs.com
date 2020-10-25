@@ -2,7 +2,7 @@
 layout: article.html
 Title: …zonder probleem bereikte Ivan de top
 sub-title: interview| holisme
-Publish: IVAN'S
+Publish: IVAN's
   Author: Ivan Alexandrovitsj
   tags:
   - levensstijl
