@@ -5,7 +5,7 @@ sub-title: artikel| keelontsteking
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
   tag:
-  - krachtige ontstekingsremmer
+  - ontstekingsremmer
   - levensstijl
   - eyeopener
   - gevoel
