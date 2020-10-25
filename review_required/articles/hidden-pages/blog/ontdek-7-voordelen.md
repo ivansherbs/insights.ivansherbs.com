@@ -1,14 +1,44 @@
 ---
 layout: article.html
 Title: Ontdek 7 voordelen
+sub-title: artikel| ivan chai
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
+    tags:
+    - weerstand
+    - ontstekkingsremmer
+    - ziekten
+    - mentale klachten
+    - prostaat
+    - urinewegen
+    - buikkrampen
+    - man 
+    - vrouw
+    - 45+
 ---
-artikel| **Ivan Chai**
 
-Verzorg je lichaam en geest met kruidenthee uit Siberië.
+## Waarom Ivan Chai?
 
-Ivan Chai heeft een krachtige werking op je lichaam waardoor je gezondheid en algehele gemoedstoestand worden versterkt.
+Ivan Chai bevat 7 voordelen tegen 17 problemen. 
+
+Goed voor lichaam en geest. 
+
+Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen.
+
+Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen.
+
+Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen.
+
+Denk bijvoorbeeld aan...
+* antibiotica
+* maagzuurremmers
+* anticonceptiepil
+
+Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
+
+Om de kans op ziekten te verkleinen en problemen te verzorgen.
+
+Maar ook als levenselixer of ter ontspanning.
 
 <br>
 <br>
@@ -17,6 +47,8 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 > SIBERIË| De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj.
 <br>
 <br>
+
+### Ivan Chai
 
 1. Versterkt de weerstand
 
@@ -37,10 +69,6 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 
 https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
 > SIBERIË| De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
-<br>
-<br>
-
-Drink deze Siberische kruidenthee om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
 
 <br>
 <br>
@@ -63,7 +91,7 @@ Wat vervolgens leidt tot het versterken van je afweersysteem.
 
 Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
-problemen| [Infectie](#Het-onzichtbare-leger) [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen) [Zwak afweersysteem](#Beperk-de-mate-van-kwetsbaarheid)
+problemen| [Infectie](#Het-onzichtbare-leger) [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen) [Zwak afweersysteem](#alle-kleine-beetjes-helpen)
 
 <br>
 
@@ -83,13 +111,13 @@ Een ontsteking kun je op veel verschillende manieren oplopen. Voor jou beeldvorm
 
 Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken. Drink Ivan Chai om de normale gang van zaken te beschermen.
 
-* Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen.
+* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen.
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. 
 
 Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.
 
-problemen| [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#De-man-zonder-hamer) [Peesontsteking](#Runners-high-versus-een-peesontsteking) [Slijmbeursontsteking](#Verzorg-je-beschermkappen-behoudt-soepele-gewrichten)
+problemen| [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#De-man-zonder-hamer) [Peesontsteking](#Runners-high-versus-ontstoken-pees) [Slijmbeursontsteking](#essentiële-behoeften)
 
 <br>
 
@@ -124,7 +152,7 @@ Benieuwd waarom?
 
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
-problemen| [Hart- en vaatziekten](#Je-hart-als-bakermat-van-de-liefde)
+problemen| [Hart- en vaatziekten](#Je-hart-als-bakermat-van-liefde)
 
 <br>
 
@@ -137,11 +165,15 @@ https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=shari
 
 Slaapproblemen hebben meer impact op je leven dan op het eerste gezicht lijkt.
 
-Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie én bent lusteloos. 
+Je functioneert overdag voor je gevoel minder goed. 
+
+Je bent minder scherp, hebt minder energie én bent lusteloos. 
 
 Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend probleem is op de werkvloer.
 
-Een goede nachtrust helpt je lichaam en geest om te herstellen. En zorgt ervoor dat je overdag productiever bent. 
+Een goede nachtrust helpt je lichaam en geest om te herstellen. 
+
+En zorgt ervoor dat je overdag productiever bent. 
 
 Het drinken van Siberische kruidenthee kan helpen bij dit probleem.
 
@@ -151,12 +183,12 @@ In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmere
 
 Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
 
-problemen| [Slaapproblemen](#Stress-als-katalysator-op-een-slaapprobleem)
+problemen| [Slaapproblemen](#Stress-als-katalysator-op-slaapproblemen)
 
 <br>
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
-> SIBERIË| _“Onze bosrijke omgeving biedt veel soorten kruiden.”_ vertelt Svetlana Petrovayé. _“Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking."_ aldus de tea master.
+> SIBERIË| “Onze bosrijke omgeving biedt veel soorten kruiden.” vertelt Svetlana Petrova. “Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking." aldus de herbal tea master.
 <br>
 <br>
 
@@ -174,12 +206,13 @@ Goed om te weten.
 
 Een beetje stress is oké. Het zorgt ervoor dat je erg gefocust en actief bent.
 
-Leer stress tijdig herkennen. En controleer hiermee een lichte mate van stress om problemen te voorkomen.
+Leer stress tijdig herkennen. 
 
-* Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
-Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
+En controleer hiermee een lichte mate van stress om problemen te voorkomen.
 
-problemen| [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#Zie-jij-het-wél-aankomen) [Burn-out](#Opgeven-is-geen-optie)
+* Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
+
+problemen| [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#angst-als-controlemechanisme) [Burn-out](#opladen-is-géén-optie)
 
 <br>
 
@@ -198,24 +231,28 @@ Gelukkig kunnen deze klachten preventief worden behandelt.
 
 In andere woorden, de kans dat jij met prostaatklachten rondloopt kan worden vermindert.
 
-Er is met name gebruik gemaakt van grootschalig klinisch onderzoek om aan te tonen dat Ivan Chai werkt tegen verschillende prostaatklachten.
+Er is gebruik gemaakt van grootschalig klinisch onderzoek om aan te tonen dat Ivan Chai werkt tegen verschillende prostaatklachten.
 
 De bevindingen van langdurig klinisch onderzoek hebben het volgende aangetoond.
 
 * Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
+
 * Ivan Chai gaat óók de groei van de prostaat tegen.
 
 Mooi bijkomende voordeel.
+
 * Ivan Chai verzorgt de urinewegen.
 
 <br>
 
 https://drive.google.com/file/d/1bxFOJs2758W4NdoCYsKMyOMZwPbI4is2/view?usp=sharing
-> SIBERIË| Voordeel van een extreem Siberisch landklimaat. De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben de kruiden uit deze regio een verbazingwekkend sterke geneeskrachtige werking. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld.
+> SIBERIË| De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben alleen de kruiden uit deze regio een verbazingwekkend sterke geneeskrachtige werking. 
+
 <br>
 <br>
 
-Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen. <br>
+Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen.
+
 **Vrouwen hebben er ook baat bij.**
 
 * Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten tegen urineweginfecties. 
@@ -228,7 +265,7 @@ Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel.
 
 **Let op!**
 
-Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankercellen. 
+Tot op heden zijn er drie onderzoeken gedaan naar menselijke prostaatkankercellen. 
 
 Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En dus de veranderingen hierin aanzienlijk kunnen verlagen. 
 
@@ -241,18 +278,19 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam, worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
 Graag willen we tot slot het volgende belichten.
+
 * Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam.
 
 Drink Ivan Chai niet alleen om problemen te voorkomen. 
 
 Maar ook als aanvulling op farmaceutische medicijnen.
 
-problemen| [Prostaatontsteking](#Er-is-geen-touw-aan-vast-te-knopen) [Vergrote prostaat](#Een-goedaardige-aandoening) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen)
+problemen| [Prostaatontsteking](#Er-is-geen-touw-aan-vast-te-knopen) [Vergrote prostaat](#groeien-tot-je-erbij-neervalt) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen)
 
 <br>
 
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
-> SIBERIË| Het plukken van de kruiden is een intensief proces. De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt.
+> SIBERIË| Het plukken van de kruiden is een intensief proces. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt.
 <br>
 <br>
 
@@ -260,21 +298,23 @@ https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=shari
 
 Ai!
 
-Je moet alweer voor de zoveelste keer naar het toilet. Je maag en darmen gaan wederom als een jekko te keer.
+Je moet alweer voor de zoveelste keer naar het toilet. 
+
+Je maag en darmen gaan wederom als een jekko te keer.
 
 Het liefst zou je nu weer op 'normale wijze' op de doos willen zitten. 
 
 Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt.
 
-Met een eenvoudig én natuurlijk alledaags product.
+Met een eenvoudig en biologisch alledaags product.
 
-Waar je misschien niet van op de hoogte bent is het volgende...
+Waar je misschien niet van op de hoogte bent is het volgende.
 
 Het is te voorspellen wanneer je last gaat krijgen van buikgriep!
 
 Start met deze kennis een preventieve behandeling met Ivan Chai. 
 
-Verminder de kans én de symptomen op natuurlijke wijze.
+Verminder de kans en de symptomen op natuurlijke wijze.
 
 want..
 
@@ -288,7 +328,9 @@ Om de statistieken er nog even bij te pakken.
 
 75% van de patiënten van het prikkelbare darmsyndroom is vrouw.
 
-Je kunt last krijgen van je spijsverteringsstelsel wanneer je veranderingen ondergaan in je dieet. Van gezond eten naar fastfood en andersom.
+Je kunt last krijgen van je spijsverteringsstelsel wanneer je veranderingen ondergaan in je dieet. 
+
+Van gezond eten naar fastfood en andersom.
 
 Of een keer heel erg pittig eten.
 
@@ -299,38 +341,18 @@ problemen| [Buikgriep](#een-voorspelbaar-probleem)
 <br>
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
-> SIBERIË| Na het fermentatieproces worden de bladeren gedroogd. Dit doet men door de bladeren op te hangen. Na 3 dagen zijn de bladeren klaar voor gebruik en worden ze in zakken gestopt. Het verpakken van de kruiden gebeurt buiten Chazhaevka. 
->
->De reden is als volgt. Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn. Een moderne verpakkingsfabriek wordt niet gewaardeerd in de wildernis van Siberië.
+> SIBERIË| Na een fermentatieproces van 3 dagen wordt de Ivan Chai in zakken gestopt. 
 
-<br>
-<br>
 
-## Waarom Ivan Chai?
+## Partnership Chazhaevka
+Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka om de volgende redenen. 
 
-De 7 voordelen van Ivan Chai kunnen worden gebruikt tegen 17 problemen.
+* Geneeskrachtige werking kruiden 
+Het Siberische landklimaat heeft een grote invloed gehad op de 7 voordelen te vinden in Ivan Chai. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat, in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld.
 
-Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen.
+* Productieproces 
+De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn. Alles wordt dan ook op een traditionele wijze verpakt. Nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka. 
 
-Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen.
-
-Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen.
-
-Denk bijvoorbeeld aan...
-* antibiotica
-* maagzuurremmers
-* anticonceptiepil
-
-**Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.**
-
-Om de kans op ziekten te verkleinen en problemen te verzorgen, ter ontspanning of als levenselixer.
-
-<br>
 
 https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 > SIBERIË| De laatste kwaliteitscontrole vindt plaats middels een ceremonie. De smaakbeleving staat hierbij centraal.
-<br>
-<br>
-
-
-
