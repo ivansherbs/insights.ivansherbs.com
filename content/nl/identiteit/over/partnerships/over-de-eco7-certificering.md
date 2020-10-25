@@ -2,7 +2,7 @@
 layout: article.html
 Title: Over de Eco7-certificering
 sub-title: over| partners
-Publish: IVAN'S
+Publish: IVAN's
   Author: Andrey Nikitin
   tags:
   - community building
