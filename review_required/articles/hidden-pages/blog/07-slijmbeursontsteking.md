@@ -5,7 +5,7 @@ sub-title: artikel| slijmbeursontsteking
 Publish: IVAN'S
   Author: Ivan Alexandrovitsj
   tags:
-  - krachtige ontstekingsremmer
+  - ontstekingsremmer
   - ontsteking
   - 45+	
   - ouderdom 
