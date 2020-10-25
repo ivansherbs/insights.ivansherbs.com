@@ -1,7 +1,7 @@
 ---
 layout: article.html
 Title: Over de Eco7-certificering
-sub-title: over| partnerships
+sub-title: over| partners
 Publish: IVAN'S
   Author: Andrey Nikitin
   tags:
