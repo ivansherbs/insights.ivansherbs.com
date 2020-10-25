@@ -342,19 +342,3 @@ problemen| [Buikgriep](#een-voorspelbaar-probleem)
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
 > SIBERIË| Na een fermentatieproces van 3 dagen wordt de Ivan Chai in zakken gestopt. 
-
-
-## Partnership Chazhaevka
-Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka om de volgende redenen. 
-
-* Geneeskrachtige werking kruiden 
-
-Het Siberische landklimaat heeft een grote invloed gehad op de 7 voordelen te vinden in Ivan Chai. Het vermoeden is dat de werkzame stoffen een gevolg zijn van het extreme klimaat, in combinatie met de vruchtbare gronden langs de rivieren. Hierdoor hebben deze kruiden zich op een andere manier ontwikkeld dan elders op de wereld.
-
-* Productieproces 
-
-De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn. Alles wordt dan ook op een traditionele wijze verpakt. Nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka. 
-
-
-https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
-> SIBERIË| De laatste kwaliteitscontrole vindt plaats middels een ceremonie. De smaakbeleving staat hierbij centraal.
