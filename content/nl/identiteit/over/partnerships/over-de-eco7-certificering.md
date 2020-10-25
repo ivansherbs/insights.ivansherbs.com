@@ -13,7 +13,7 @@ header: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?u
 
 Ivan's Herbs werkt samen met...
 
-### Siberische ecodorpen als Chazhaevka.
+### Siberische ecodorpen als Chazhaevka
 
 Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn.
 
