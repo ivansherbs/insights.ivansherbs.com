@@ -487,7 +487,27 @@ Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom
 <br>
 
 .................
-<br>
-<br>
 
-[Terug naar boven](#)
+# Vragen 
+
+Heb je een vraag?
+
+Chat met ons over Ivan Chai of kruidengeneeskunde.
+
+Ma-Vr 10:00-17:00
+
+### Versterk lichaam en geest met kruidenthee uit Siberië.
+
+Maak de farmaceutische industrie niet onnodig groot. 
+
+Denk na. Gebruik effectieve, veilige en bewezen kruidengeneeskunde voor uw gezondheidsproblemen. 
+
+
+
+
+
+
+
+
+
+
