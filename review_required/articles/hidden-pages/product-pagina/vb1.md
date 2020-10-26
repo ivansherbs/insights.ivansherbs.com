@@ -47,7 +47,7 @@ Lees onze artikelen op IVAN’s om dieper in te gaan op de problemen voor lichaa
 **Levering** 1 value pack met 22 zakjes
 
 
-### Bijkomende voordelen**
+### Bijkomende voordelen
 
 * Past door de brievenbus.
 
