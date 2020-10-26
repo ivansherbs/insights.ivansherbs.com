@@ -1,23 +1,30 @@
-IH website 
+<!-- Product photos: Create carousel with next pictures see link 1+2+3+4 
+1: https://drive.google.com/file/d/1lKZuP9ZFzpFe7c3vhwGYd9xL4mdWJbLa/view?usp=sharing 
+2: https://drive.google.com/file/d/1kxpW0O8iRQY9gLV6zMnjjnd1ypCM9923/view?usp=sharing 
+3: https://drive.google.com/file/d/1lWB3JuHjjAQUWZoksNvxJpeJbaMzWk0M/view?usp=sharing 4: https://drive.google.com/file/d/1lbgh-rqDrj5_dLLZuLr4fkzhs7StUuxG/view?usp=sharing -->
 
 
-<!-- Product photos: I like the photos on the shopify site. But I do not like the carousel because images of different sizes. -->
+Ivan Chai | Gefermenteerde Siberische kruidenthee
 
-
-Ivan Chai | 22 zakjes 
+€ 7,00 EUR
 
 Gratis verzending binnen de Benelux.
 
 Kies je product
-[Ivan Chai buying Menu] 
+[Ivan Chai drop down Menu] 
+- Losse bladeren 50gr
+- 22 zakjes 
+- 1 kilo zak
+
+Button - Toevoegen aan winkelwagen
+Button - Toevoegen aan verlanglijstje
+Button - Koop nu
 
 **Ivan’s Herbs** Versterk dagelijks je lichaam en geest met kruidenthee uit Siberië. 
 
-Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. 
+Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben jij op zoek naar een kruidenthee die jou op dagelijkse basis fysiek en mentaal kan versterken?
 
-Ben jij op zoek naar een kruidenthee die jou op dagelijkse basis kan versterken? Dan ben je hier aan het juiste adres.  
-
-### 7 voordelen
+### 7 Voordelen 
 
 ✔ **Versterkt de weerstand** 
 
@@ -33,32 +40,27 @@ Ben jij op zoek naar een kruidenthee die jou op dagelijkse basis kan versterken?
 
 ✔ **Verzorgt het spijsverteringsstelsel**
 
-Lees onze artikelen op IVAN’s om dieper in te gaan op de problemen voor lichaam en geest. 
+**Geweldige smaak** 
+* Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete nasmaak. Wordt niet bitter bij te lang trekken. En veilig voor kinderen! 
 
-✔ **Geweldige smaak** Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete nasmaak. 
-* Bijkomend voordeel; wordt niet bitter bij te lang trekken. En veilig voor kinderen! 
 
-### Informatie
+### Extra Informatie
 
 **Oorsprong en verwerking** Siberië
 
-**Ingrediënten** 100% Epilobium Angustifolium
+**Ingrediënten** 100% Ivan Chai
 
-**Inhoud** 22 koppen kruidenthee
+* Kruiden uit de wildernis van Siberië
 
-**Ten minste houdbaar tot** op de verpakking kunt u de houdbaarheid vinden. Echter is dit product bij koel, droog en donker bewaren langer houdbaar dan de uiterste houdbaarheidsdatum. 
+* Met de hand geplukt
 
-**Levering** 1 value pack met 22 zakjes
+* Duurzaam productieproces
 
+* Vrij van chemicaliën
 
-### Bijkomende voordelen
+* Recyclebare verpakking
 
-* Past door de brievenbus.
+* Lees de artikelen van IVAN's
 
-* Bewezen voordelen middels modern hedendaags onderzoek.
-
-* Kruiden uit Siberië. Afkomstig uit één van de schoonste, meest ver afgelegen bewoonde plekken op de wereld. 
-
-* Geweldige smaak. Drink het niet alleen voor de gezondheid maar ook gewoon ter ontspanning.
-
-* Duurzaam verpakt middels herbruikbare tube.
+**Ten minste houdbaar tot** 
+* Op de verpakking kunt u de houdbaarheid vinden. Echter is dit product bij koel, droog en donker bewaren veel langer houdbaar dan de uiterste houdbaarheidsdatum. 
