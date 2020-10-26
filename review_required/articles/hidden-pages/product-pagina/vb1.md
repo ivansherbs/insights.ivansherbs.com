@@ -36,10 +36,7 @@ Ben jij op zoek naar een kruidenthee die jou op dagelijkse basis kan versterken?
 Lees onze artikelen op IVAN’s om dieper in te gaan op de problemen voor lichaam en geest. 
 
 ✔ **Geweldige smaak** Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete nasmaak. 
-* Bijkomend voordeel; wordt niet bitter bij te lang trekken. 
-
-En veilig voor kinderen! 
-
+* Bijkomend voordeel; wordt niet bitter bij te lang trekken. En veilig voor kinderen! 
 
 ### Informatie
 
