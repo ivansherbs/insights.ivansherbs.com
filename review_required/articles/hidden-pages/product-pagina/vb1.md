@@ -42,7 +42,7 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben ji
 ✔ **Verzorgt het spijsverteringsstelsel**
 
 **Geweldige smaak** 
-* Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete nasmaak. Wordt niet bitter bij te lang trekken. En kinderen houden van de smaak.
+* Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete nasmaak. Wordt niet bitter bij te lang trekken. Ook kinderen houden van de smaak.
 
 
 ### Extra Informatie
