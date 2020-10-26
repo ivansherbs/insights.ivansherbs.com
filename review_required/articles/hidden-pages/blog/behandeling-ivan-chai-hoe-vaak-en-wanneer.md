@@ -1,47 +1,46 @@
 ---
 layout: article.html
 title: Hoe vaak en wanneer?
-Publish: IVAN'S
-  Author: Ivan Alexandrovitsj
+sub-title: behandeling| ivan chai
 ---
-Behandeling| **Ivan Chai**
-
-Ivan Chai heeft een geneeskrachtige werking. 
-
-De grootschalige klinische onderzoeken zijn geëvalueerd en goedgekeurd. 
-
-Denk aan onderzoeken gericht op de prostaat en urinewegen. 
-
-Dit is gedaan door Het European Medicines Agency te Amsterdam.
 
 ### Advies 
 
-"Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen”
+Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
 * ter voorkoming van problemen
+
 * ter behandeling van problemen
 
 Voor een gezond lichaam en een sterke geest. 
 
 * [Welke dosering en behandelingskuur raden jullie aan?](#welke-dosering-en-behandelingskuur-raden-jullie-aan)
+
 * [Is het effect van Ivan Chai direct voelbaar?](#is-het-effect-van-ivan-chai-direct-voelbaar)
+
+* [Wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?](#Wanneer-mijn-klachten-zijn-verholpen,-kan-ik-stoppen-met-het-drinken-van-Iva-Chai)
+
 * [Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?](#treden-er-ongewenste-bijwerkingen-op-na-gebruik-van-ivan-chai)
+
 * [Contra-indicaties en waarschuwingen](#contra-indicaties-en-waarschuwingen)
 
 ### Welke dosering en behandelingskuur raden jullie aan?
+
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
 * Drink 1 kop vóór de maaltijd. En 2 keer per dag. Voor ten minste 14 dagen. <br>
 
 ### Is het effect van Ivan Chai direct voelbaar?
+
 In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
 
 In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
-...En wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?
+### Wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?
 
 Wij raden het aan de kuur als preventieve behandeling met regelmaat te herhalen.
  
 ### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
+
 Er zijn tot op heden geen ongewenste bijwerkingen van Ivan Chai gemeld:
 > Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
  
@@ -63,10 +62,21 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 * Coma
  
 ### Contra-indicaties en waarschuwingen
+
 Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen.
 
 En is gelukkig veilig voor kinderen.
  
-**Zwangerschap, borstvoeding en vruchtbaarheid** <br>
+**Zwangerschap, borstvoeding en vruchtbaarheid**
+
 * Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.
+
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
+
+### Samenvattend
+
+Ivan Chai heeft een geneeskrachtige werking. 
+
+De grootschalige klinische onderzoeken die zijn geëvalueerd en goedgekeurd door het European Medicines Agency te Amsterdam zijn gericht op:
+* prostaat 
+* urinewegen. 
