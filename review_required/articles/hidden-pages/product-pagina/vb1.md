@@ -15,7 +15,7 @@ Kies je product
 
 Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben jij op zoek naar een kruidenthee die jou op dagelijkse basis kan versterken? Dan ben je hier aan het juiste adres.  
 
-✔ **Geweldige smaak** Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete nasmaak. Bijkomend voordeel; wordt niet bitter bij te lang trekken. En veilig voor kinderen! 
+### 7 voordelen
 
 ✔ **Versterkt de weerstand** 
 
@@ -32,6 +32,10 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben ji
 ✔ **Verzorgt het spijsverteringsstelsel**
 
 Lees onze artikelen op IVAN’s om dieper in te gaan op de problemen voor lichaam en geest. 
+
+✔ **Geweldige smaak** Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete nasmaak. Bijkomend voordeel; wordt niet bitter bij te lang trekken. 
+
+En veilig voor kinderen! 
 
 
 ### Informatie
