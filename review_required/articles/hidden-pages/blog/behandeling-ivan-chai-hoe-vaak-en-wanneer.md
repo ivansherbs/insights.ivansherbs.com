@@ -77,8 +77,8 @@ En is gelukkig veilig voor kinderen.
 
 Ivan Chai heeft een geneeskrachtige werking. 
 
-De grootschalige klinische onderzoeken die zijn geëvalueerd en goedgekeurd door het European Medicines Agency te Amsterdam zijn gericht op:
+De grootschalige klinische onderzoeken die zijn geëvalueerd en goedgekeurd door het European Medicines Agency te Amsterdam zijn gericht op
 * prostaat 
-* urinewegen. 
+* en urinewegen.
 
 De overige voordelen worden ondersteund door hedendaags onderzoek. 
