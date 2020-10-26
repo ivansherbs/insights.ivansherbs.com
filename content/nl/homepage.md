@@ -197,7 +197,7 @@ Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het ver
 
 * Recyclebare verpakking 
 
-* Lees onze artikelen op IVAN's. 
+* Lees de artikelen van IVAN's 
 
 <br>
 <br>
