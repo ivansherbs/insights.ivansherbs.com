@@ -73,12 +73,10 @@ En is gelukkig veilig voor kinderen.
 
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
 
-### Samenvattend
+### Tot slot
 
-Ivan Chai heeft een geneeskrachtige werking. 
+Ivan Chai heeft een geneeskrachtige werking.
 
-De grootschalige klinische onderzoeken die zijn geëvalueerd en goedgekeurd door het European Medicines Agency te Amsterdam zijn gericht op
-* prostaat 
-* en urinewegen.
+Het European Medicines Agency te Amsterdam heeft de werking van Ivan Chai op de prostaat en urinewegen geëvalueerd en goedgekeurd. Dit met name omdat er langdurig grootschalig klinisch onderzoek aan te pas is gekomen. 
 
-De overige voordelen worden ondersteund door hedendaags onderzoek. 
+De overige voordelen worden ondersteund ook ondersteund. Echter door hedendaags onderzoek.
