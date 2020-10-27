@@ -84,9 +84,9 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben ji
 * Op de verpakking kunt u de houdbaarheid vinden. Echter is dit product bij koel, droog en donker bewaren veel langer houdbaar dan de uiterste houdbaarheidsdatum. 
 
 **Blijf op de hoogte.**
-Lees de artikelen van IVAN's. Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
+Lees de artikelen van IVAN's. Een ONLINE MAGAZINE om 17 alledaagse problemen bespreekbaar te maken.
 
 **Vragen?**
-Wij helpen onze klanten graag verder via de klantenservice. Bereikbaar van 10:00 - 17:00. 
+Wij helpen onze klanten graag verder via de klantenservice. Bereikbaar van 10:00-17:00. 
 
 Wacht niet langer en bestel nu. 
