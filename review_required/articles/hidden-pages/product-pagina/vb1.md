@@ -13,9 +13,11 @@ Gratis verzending binnen de Benelux.
 
 Kies je product
 [Ivan Chai drop down Menu] 
-- Losse bladeren 50gr
-- 22 zakjes 
+- Tube Losse bladeren 50gr
+- Tube 22 zakjes 
+- Refiller 50 gr
 - 1 kilo zak
+
 
 Button - Toevoegen aan winkelwagen
 Button - Toevoegen aan verlanglijstje
@@ -41,9 +43,11 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben ji
 
 ✔ **Verzorgt het spijsverteringsstelsel**
 
-**Geweldige smaak** 
+**Geweldige smaak:** 
 * Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete nasmaak. Wordt niet bitter bij te lang trekken. Ook kinderen houden van de smaak.
 
+**Handig om te weten: verpakking**
+* De Ivan Chai **refillers** bedoelt voor de tube, hebben een grootte van 26 x 38 x 3 cm (L x W x H). En past hierdoor door de brievenbus!  
 
 ### Extra Informatie
 
@@ -51,17 +55,33 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben ji
 
 **Ingrediënten** 100% Ivan Chai
 
-* Kruiden uit de wildernis van Siberië
-
 * Met de hand geplukt
 
-* Duurzaam productieproces
+* Duurzaam productieproces volgens Eco7-certificering:
 
-* Vrij van chemicaliën
+    - Kruiden groeien in de wildernis
 
-* Recyclebare verpakking
+    - Kruiden moeten zijn volgroeid
 
-* Lees de artikelen van IVAN's
+    - Kruiden zijn vrij van chemicaliën
+
+    - Kruiden worden handmatig op kleur gesorteerd
+
+    - Natuurlijk fermentatieproces
+
+    - Geen aroma’s toegevoegd
+
+    - Verpakt onder beschermende atmosfeer
+    
+* Recyclebare verpakking (Tube)
 
 **Ten minste houdbaar tot** 
 * Op de verpakking kunt u de houdbaarheid vinden. Echter is dit product bij koel, droog en donker bewaren veel langer houdbaar dan de uiterste houdbaarheidsdatum. 
+
+**Blijf op de hoogte**
+Lees de artikelen van IVAN's. Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
+
+**Vragen?**
+Wij helpen onze klanten graag verder via de klantenservice. Bereikbaar van 10:00 - 17:00. 
+
+Wacht niet langer en bestel nu. 
