@@ -74,7 +74,7 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners.
 
     - Verpakt onder beschermende atmosfeer
     
-* Recyclebare verpakking (Tube)
+* Recyclebare verpakking (tube)
 
 **Evaluatie en goedkeuring** 
 * Voordelen prostaat en urinewegen. Door het European Medicines Agency te Amsterdam.
