@@ -75,10 +75,15 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben ji
     
 * Recyclebare verpakking (Tube)
 
+**Evaluatie en goedkeuring** 
+* Voordelen prostaat en urinewegen. Door het European Medicines Agency te Amsterdam.
+
+* Overige voordelen door modern hedendaags onderzoek. 
+
 **Ten minste houdbaar tot** 
 * Op de verpakking kunt u de houdbaarheid vinden. Echter is dit product bij koel, droog en donker bewaren veel langer houdbaar dan de uiterste houdbaarheidsdatum. 
 
-**Blijf op de hoogte**
+**Blijf op de hoogte.**
 Lees de artikelen van IVAN's. Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
 
 **Vragen?**
