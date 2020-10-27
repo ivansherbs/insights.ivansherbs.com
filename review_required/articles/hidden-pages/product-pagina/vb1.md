@@ -25,7 +25,8 @@ Button - Koop nu
 
 **Ivan’s Herbs** Versterk dagelijks je lichaam en geest met kruidenthee uit Siberië. 
 
-Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben jij op zoek naar een kruidenthee die jou op dagelijkse basis fysiek en mentaal kan versterken?
+Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. 
+* Ben jij op zoek naar een kruidenthee die jou op dagelijkse basis fysiek en mentaal kan versterken?
 
 ### 7 Voordelen 
 
