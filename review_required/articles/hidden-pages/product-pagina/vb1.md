@@ -46,7 +46,7 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners. Ben ji
 **Geweldige smaak:** 
 * Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete nasmaak. Wordt niet bitter bij te lang trekken. Ook kinderen houden van de smaak.
 
-**Handig om te weten: verpakking**
+**Handig om te weten:**
 * De Ivan Chai **refillers** bedoelt voor de tube, hebben een grootte van 26 x 38 x 3 cm (L x B x H). Dit formaat past door de brievenbus.
 
 ### Extra Informatie
