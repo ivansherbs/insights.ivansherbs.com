@@ -188,15 +188,23 @@ Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het ver
 
 <br>
 
-* Kruiden uit de wildernis van Siberië
+* Duurzaam productieproces volgens Eco7-certificering:
 
-* Met de hand geplukt 
+    - Kruiden groeien in de wildernis
 
-* Duurzaam productieproces
+    - Kruiden moeten zijn volgroeid
 
-* Vrij van chemicaliën
+    - Kruiden zijn vrij van chemicaliën
 
-* Recyclebare verpakking 
+    - Kruiden worden met de hand geplukt 
+
+    - Natuurlijk fermentatieproces
+
+    - Geen aroma’s toegevoegd
+
+    - Verpakt onder beschermende atmosfeer
+    
+* Recyclebare verpakking (tube)
 
 * Lees de artikelen van IVAN's 
 
