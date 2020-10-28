@@ -1,15 +1,15 @@
 ---
 layout: article.html
-Title: Ontdek kruidenthee uit Siberië
+Title: Ontdek Ivan Chai
 
 Button -> [Bestel nu]
 ---
 
-## Ontdek 7 voordelen
+## Ontdek 7 voordelen 
 
 Wij geloven in het versterken van je lichaam en geest met kruiden uit Siberië.
 
-Ons eerste medicijn staat in de traditionele kruidengeneeskunde beter bekend als Ivan Chai. 
+Ons eerste medicijn dat we aanbieden staat in de traditionele kruidengeneeskunde beter bekend als Ivan Chai. 
 
 Een Siberische kruidenthee. 
 
