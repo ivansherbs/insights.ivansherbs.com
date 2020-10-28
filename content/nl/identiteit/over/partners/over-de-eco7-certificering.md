@@ -27,7 +27,7 @@ Wij ondersteunen hiermee de volgende aspecten die de samenwerking met zich mee b
 
     - Kruiden zijn vrij van chemicaliën
 
-    - Kruiden worden handmatig op kleur gesorteerd
+    - Kruiden worden met de hand geplukt
 
     - Natuurlijk fermentatieproces
 
