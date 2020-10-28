@@ -50,7 +50,7 @@ PICTURE LOGO IVANS HERBS
 
 over| **ons**
 
-Wij geloven in het aanbieden van producten die een krachtige impact hebben op je gezondheid, algehele gemoedstoestand en...
+Wij geloven in het aanbieden van producten die een krachtige impact hebben op je gezondheid, algehele gemoedstoestand en in beperke mate van invloed zijn op het milieu...
 
 [Ontdek de inzichten](#)
 <br>
@@ -501,7 +501,7 @@ Ma-Vr 10:00-17:00
 
 Maak de farmaceutische industrie niet onnodig groot. 
 
-Denk na. Gebruik effectieve, veilige en bewezen kruidengeneeskunde voor uw gezondheidsproblemen. 
+Denk na. Gebruik effectieve, veilige en bewezen kruidengeneeskunde voor uw gezondheid. 
 
 
 
