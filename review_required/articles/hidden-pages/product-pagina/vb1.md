@@ -56,8 +56,6 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners.
 
 **Ingrediënten** 100% Ivan Chai
 
-* Met de hand geplukt
-
 * Duurzaam productieproces volgens Eco7-certificering:
 
     - Kruiden groeien in de wildernis
@@ -66,7 +64,7 @@ Deze Ivan Chai is met de hand geselecteerd door onze Siberische partners.
 
     - Kruiden zijn vrij van chemicaliën
 
-    - Kruiden worden handmatig op kleur gesorteerd
+    - Kruiden worden met de hand geplukt
 
     - Natuurlijk fermentatieproces
 
