@@ -7,19 +7,20 @@ Button -> [Bestel nu]
 
 ## Ontdek 7 voordelen
 
-Versterk je lichaam en geest met kruidenthee uit Siberië.
+Wij geloven in het versterken van je lichaam en geest met kruiden uit Siberië.
 
-Onze eerste Siberische kruidenthee staat bekend als Ivan Chai. 
+Ons eerste medicijn staat in de traditionele kruidengeneeskunde beter bekend als Ivan Chai. 
+
+Een Siberische kruidenthee. 
 
 https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
 
 <br>
 
-Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken...
+Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken en ontvang updates van IVAN´s online MAGAZINE.
 
 [subscribe email]
 
-en ontvang updates van IVAN´s online magazine.
 
 <br>
 
@@ -210,7 +211,7 @@ Button -> [Bestel nu]
 
 ## Over IVAN's
 
-Een online magazine om 17 alledaagse problemen bespreekbaar te maken.
+Een online MAGAZINE om 17 alledaagse problemen bespreekbaar te maken.
 
 Ontdek de inzichten en laat je informeren. 
 
