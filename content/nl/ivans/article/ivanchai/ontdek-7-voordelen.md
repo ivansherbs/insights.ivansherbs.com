@@ -91,7 +91,7 @@ Wat vervolgens leidt tot het versterken van je afweersysteem.
 
 Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
-problemen| [Infectie](#Het-onzichtbare-leger) [Luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen) [Zwak afweersysteem](#alle-kleine-beetjes-helpen)
+problemen| [infectie](#Het-onzichtbare-leger) [luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen) [zwak afweersysteem](#alle-kleine-beetjes-helpen)
 
 <br>
 
@@ -117,7 +117,7 @@ Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd
 
 Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.
 
-problemen| [Baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [Keelontsteking](#De-man-zonder-hamer) [Peesontsteking](#Runners-high-versus-ontstoken-pees) [Slijmbeursontsteking](#essentiële-behoeften)
+problemen| [baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [keelontsteking](#De-man-zonder-hamer) [peesontsteking](#Runners-high-versus-ontstoken-pees) [slijmbeursontsteking](#essentiële-behoeften)
 
 <br>
 
@@ -152,7 +152,7 @@ Benieuwd waarom?
 
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
-problemen| [Hart- en vaatziekten](#Je-hart-als-bakermat-van-liefde)
+problemen| [hart- en vaatziekten](#Je-hart-als-bakermat-van-liefde)
 
 <br>
 
@@ -183,7 +183,7 @@ In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmere
 
 Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
 
-problemen| [Slaapproblemen](#Stress-als-katalysator-op-slaapproblemen)
+problemen| [slaapproblemen](#Stress-als-katalysator-op-slaapproblemen)
 
 <br>
 
@@ -212,7 +212,7 @@ En controleer hiermee een lichte mate van stress om problemen te voorkomen.
 
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-problemen| [Stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [Angst](#angst-als-controlemechanisme) [Burn-out](#opladen-is-géén-optie)
+problemen| [stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [angst](#angst-als-controlemechanisme) [burn-out](#opladen-is-géén-optie)
 
 <br>
 
@@ -285,7 +285,7 @@ Drink Ivan Chai niet alleen om problemen te voorkomen.
 
 Maar ook als aanvulling op farmaceutische medicijnen.
 
-problemen| [Prostaatontsteking](#Er-is-geen-touw-aan-vast-te-knopen) [Vergrote prostaat](#groeien-tot-je-erbij-neervalt) [Prostaatkanker](#Een-onopgemerkt-probleem) [Urineweginfectie](#voorkom-relatieproblemen)
+problemen| [prostaatontsteking](#Er-is-geen-touw-aan-vast-te-knopen) [vergrote prostaat](#groeien-tot-je-erbij-neervalt) [prostaatkanker](#Een-onopgemerkt-probleem) [urineweginfectie](#voorkom-relatieproblemen)
 
 <br>
 
@@ -336,7 +336,7 @@ Of een keer heel erg pittig eten.
 
 Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten kunnen zelfs worden geëlimineerd door grote hoeveelheden Ivan Chai te drinken.
 
-problemen| [Buikgriep](#een-voorspelbaar-probleem)
+problemen| [buikgriep](#een-voorspelbaar-probleem)
 
 <br>
 
