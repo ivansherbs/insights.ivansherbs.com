@@ -1,6 +1,6 @@
 ---
 layout: article.html
-Title: Over de Eco7-certificering
+Title: Over de Eco7-Standaard
 sub-title: over| partners
 Publish: IVAN's
   Author: Andrey Nikitin
@@ -19,7 +19,7 @@ Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurz
 
 Wij ondersteunen hiermee de volgende aspecten die de samenwerking met zich mee brengt.
 
-* **Community building** <br> Graag ondersteunen wij deze unieke denkwijze waar mens en milieu centraal staan. Deze unieke levensstijl richt zich op duurzaam gebruik van de omgeving. Om de omgeving te beschermen en om de kwaliteit te waarborgen van het product, zetten onderstaande normen onze **Eco7-certificering**.
+* **Community building** <br> Graag ondersteunen wij deze unieke denkwijze waar mens en milieu centraal staan. Deze unieke levensstijl richt zich op duurzaam gebruik van de omgeving. Om de omgeving te beschermen en om de kwaliteit te waarborgen van het product, zetten onderstaande normen onze **Eco7-Standaard**.
 
     - Kruiden groeien in de wildernis
 
