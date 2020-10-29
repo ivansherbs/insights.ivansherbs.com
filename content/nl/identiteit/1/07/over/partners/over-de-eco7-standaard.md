@@ -3,7 +3,7 @@ layout: article.html
 Title: Over de Eco7-Standaard
 sub-title: over| partners
 Publish: IVAN's
-  Author: Andrey Nikitin
+  Author: Ivan Alexandrovitsj
   tags:
   - community building
   - natuur
