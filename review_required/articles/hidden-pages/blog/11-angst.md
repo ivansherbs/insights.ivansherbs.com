@@ -143,13 +143,13 @@ Wat je echter wel kunt doen is lichtere vormen van angst op eenvoudige wijze ver
 
 Zo zijn er tal van mogelijkheden die al bijdragen aan.
 
-**Denk aan goed voorbereid op pad gaan.** Het aanpassen van je dieet. En er zelfverzekerd uitzien.
+**Denk aan goed voorbereid op pad gaan.** 
 
-Simpel voorbeeld is het opdoen van make-up.
+Het aanpassen van je dieet. En er zelfverzekerd uitzien.
 
-**Zo voelen vrouwen zich kwetsbaarder en ervaren meer angst zonder make-up.**
+Er zijn tal van voorbeelden te noemen. 
 
-Er zijn tal van voorbeelden te noemen. Een combinatie van verschillende factoren zorgen ervoor dat je gevoel van angst, of die van je kinderen, minder wordt.
+Een combinatie van verschillende factoren zorgen ervoor dat je gevoel van angst minder wordt. Of die van je kinderen.
 
 Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten om dit probleem te bestrijden.
 
