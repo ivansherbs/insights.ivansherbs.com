@@ -17,9 +17,12 @@ https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=shari
 
 <br>
 
-Krijg 7% korting op je eerste bestelling. Blijf op de hoogte van nieuwe smaken en ontvang updates van IVAN´s online MAGAZINE.
+Krijg 7% korting op je eerste bestelling. 
 
 [subscribe email]
+
+Blijf op de hoogte van nieuwe smaken en ontvang updates van IVAN´s online MAGAZINE.
+
 
 
 <br>
@@ -203,7 +206,7 @@ Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het ver
 
 <br>
 
-* Duurzaam productieproces volgens Eco7-certificering:
+* Duurzaam productieproces volgens Eco7-Standaard:
 
     - Kruiden groeien in de wildernis
 
@@ -221,7 +224,7 @@ Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het ver
     
 * Recyclebare verpakking (tube)
 
-* Lees de artikelen van IVAN's 
+* Lees de artikelen van IVAN's
 
 <br>
 <br>
