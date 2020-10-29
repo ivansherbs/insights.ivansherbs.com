@@ -140,7 +140,22 @@ De traditionele Russische volksgeneeskunde is gericht op het gebruik van geneesk
 <br>
 
 .................
+<br>
+<br>
 
+### Over de Eco7-Standaard
+
+https://drive.google.com/file/d/1O-NwALKjX7-0leQYJ5qiCKOPfvUS5wh9/view?usp=sharing
+
+over| **partners**
+
+Om de omgeving te beschermen en om de kwaliteit van het product te waarborgen, zetten onderstaande normen...
+
+[Ontdek de standaard](#)
+
+<br>
+
+.................
 
 ## Onze collectie
 
