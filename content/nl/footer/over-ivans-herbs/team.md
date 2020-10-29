@@ -19,14 +19,14 @@ Co-Founder
 <!-- Same profile picture -->
 Andrey Nikitin
 
-Herbal Technologist - Thee producent & Ultimate Herbal Tea Master
+Herbal Technologist
 
 
 
 <!-- Same profile picture -->
 Sergey Petrov
 
-Export and Production Specialist
+Export & Production Specialist
 
 
 
