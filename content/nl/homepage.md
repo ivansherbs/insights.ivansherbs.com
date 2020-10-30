@@ -1,11 +1,11 @@
 ---
 layout: article.html
-Title: Ontdek Ivan Chai
+Title: Ontdek kruidengeneeskunde
 
 Button -> [Bestel nu]
 ---
 
-## Ontdek 7 voordelen 
+## Ontdek Ivan Chai
 
 Wij geloven in het versterken van je lichaam en geest met kruiden uit Siberië.
 
