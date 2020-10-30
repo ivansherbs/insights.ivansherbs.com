@@ -206,7 +206,7 @@ Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het ver
 
 <br>
 
-* Duurzaam productieproces volgens Eco7-Standaard:
+* Duurzaam productieproces (Eco7-Standaard):
 
     - Kruiden groeien in de wildernis
 
@@ -221,8 +221,8 @@ Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het ver
     - Geen aroma’s toegevoegd
 
     - Verpakt onder beschermende atmosfeer
-    
-* Recyclebare verpakking (tube)
+
+* Recyclebare verpakking
 
 * Lees de artikelen van IVAN's
 
