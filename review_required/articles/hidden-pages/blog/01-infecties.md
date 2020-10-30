@@ -57,7 +57,7 @@ Dit is heel belangrijk om te weten!
 
 Op deze manier bekijken we dit probleem vanuit holistisch perspectief.
 
-Want ze komen niet zomaar terecht in je vulva. 
+Want ze komen niet zomaar terecht in je poenie. 
 
 Je kunt ze overal op je lichaam krijgen. 
 
@@ -177,7 +177,7 @@ Het is géén soa.
 
 Hoe ze eruit zien en wat voor een schade schimmels, gist of ongewenste bacteriën kunnen aanrichten in de mond en op de handen en voeten zoek je zometeen maar lekker zelf op in je vrije tijd.
 
-Is minder leuk dan die in de vulva. Kan ik je bij deze alvast vertellen. 
+Is minder leuk dan die in de poenie. Kan ik je bij deze alvast vertellen. 
 
 We gaan nog even verder want we moeten nog naar de tips!
 
@@ -336,7 +336,7 @@ Het is niet bedoeld voor in de mond.
 
 **Let op!**
 
-Gezien de agressieve werking kun je het NIET uitsmeren over je kwetsbare vulva. 
+Gezien de agressieve werking kun je het NIET uitsmeren over je kwetsbare poenie. 
 
 Die heeft daar geen zin in. 
 
@@ -344,7 +344,7 @@ Die heeft daar geen zin in.
 
 Ik herhaal  het maar nog een keer. 
 
-Smeer etherische olie gemaakt van wilde oregano NIET uit over je kwetsbare vulva. 
+Smeer etherische olie gemaakt van wilde oregano NIET uit over je kwetsbare poenie. 
 
 Of erin. 
 
