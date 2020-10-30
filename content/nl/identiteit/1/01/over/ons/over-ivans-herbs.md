@@ -41,7 +41,7 @@ Een Siberische kruidenthee goed voor je lichaam en geest.
 
 * Drink Ivan Chai tegen 17 problemen. 
 
-* Duurzaam productieproces (Eco7-Standaard)
+* Duurzaam productieproces volgens Eco7-Standaard.
 
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
