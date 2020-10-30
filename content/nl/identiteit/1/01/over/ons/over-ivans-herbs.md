@@ -41,14 +41,7 @@ Een Siberische kruidenthee goed voor je lichaam en geest.
 
 * Drink Ivan Chai tegen 17 problemen. 
 
-* Kruiden uit de wildernis van Siberië
-
-* Met de hand geplukt
-
-* Vrij van chemicaliën
-
-* Duurzaam productieproces
-
+* Duurzaam productieproces (Eco7-Standaard)
 
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
@@ -61,12 +54,9 @@ Lichamelijke en geestelijke problemen wel te verstaan.
 
 Dit doen wij in de vorm van IVAN’s. 
 
-IVAN’s is een online magazine om 17 alledaagse problemen bespreekbaar te maken. 
+IVAN’s is een online MAGAZINE om 17 alledaagse problemen bespreekbaar te maken. 
 
 Ontdek de inzichten en laat je informeren.
-
-De auteurs Michael Koch, Andrey Nikitin, Svetlana Petrova en Ivan Alexandrovitsj staat tot je beschikking. 
-
 
 
 https://drive.google.com/file/d/1VTjogHe9no4IiHM4wPo-QaRCXZf2tTys/view?usp=sharing
