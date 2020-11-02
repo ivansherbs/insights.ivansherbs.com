@@ -11,11 +11,6 @@ Publish: IVAN'S
   - ziekten	
   - ouderdom
 ---
-<h2>Voordeel Ivan Chai: Versterkt de weerstand</h2>
-
-* Ivan Chai helpt je voedingsstoffen beter op te nemen waardoor je weerstand versterkt.
-
-### Inzichten
 
 Vandaag begin ik voor de verandering met het voordragen van een hééél mooi gedicht over kanker. 
 
