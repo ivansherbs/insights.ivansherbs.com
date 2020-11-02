@@ -80,7 +80,7 @@ Ook zij willen het zich zo comfortabel mogelijk maken.
 
 Over het algemeen bewegen ze zich daarom naar warme en vochtige plekken. De plekken waar schimmels graag leven zijn dan ook de mond, handen en voeten.
 
-### Doelwit
+### Begeerlijk doelwit
 
 Maar bij vrouwen is vooral de intieme zone doelwit van deze micro-organismen.
 
