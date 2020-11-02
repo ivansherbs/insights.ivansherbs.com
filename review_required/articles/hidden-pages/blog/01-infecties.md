@@ -96,7 +96,9 @@ Kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen.
 
 Hierdoor is het een veel voorkomend probleem. Want bij een kleine overtolligheid aan deze micro organismen kunnen ze je al flink te grazen nemen!
 
-**Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen.**
+### Verhoogd risico
+
+Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen.
 
 Want het is mede te verklaren door het het veranderen van je hormoonspiegel. 
 
@@ -134,8 +136,6 @@ Denk nu maar aan een piemel.
 
 https://drive.google.com/file/d/15MoaWGRG_ZOdjpOo42T89Bb1gwwFvkGl/view?usp=sharing
 
-Goed zo. 
-
 Maar ook wanneer je een orale beurt krijgt kunnen de legers zich verplaatsen van strijdveld. 
 
 Ze macheren er lustig op los.
@@ -143,8 +143,6 @@ Ze macheren er lustig op los.
 En snel ook.
 
 En zonder dat je er erg in hebt. 
-
-...
 
 ### Om de statistieken er maar even bij te pakken. 
 
@@ -242,7 +240,13 @@ Ja. We gaan zo naar de tips.
 
 Weten we nu het volgende. 
 
-Wat ze doen. Waar ze wonen en hoe ze eruit kunnen zien wanneer ze zich massaal groeperen. 
+Wat ze doen. 
+
+Waar ze wonen.
+
+Hoe ze eruit zien.
+
+En wat voor een schade er kan worden aangericht wanneer ze zich massaal groeperen. 
 
 Dan zijn we nu eindelijk aangekomen bij de tips! 
 
