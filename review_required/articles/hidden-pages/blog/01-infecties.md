@@ -350,7 +350,7 @@ Ja. Het ligt niet alleen aan farmaceutische medicijnen.
 * Een overtollige hoeveelheid aan zeep kan een **vaginale schimmelinfectie** veroorzaken. Zeep valt namelijk tevens goede bacteriën aan in de intieme zone. Volgens de statistieken zijn antibiotica en zeep grote boosdoeners van een vaginale schimmelinfectie.
 * Wanneer we kijken naar **voetschimmel** kan je het oplopen in de kleedkamer of openbare douche.
 
-Zo zijn er nog vele voorbeelden die we in deze blog nog niet met je bespreken.
+Zo zijn er nog vele voorbeelden die ik nu nog even niet met je bespreek. 
 
 ### Waardoor vergroot ik de kans op een infectie?
 
