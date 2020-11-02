@@ -190,15 +190,11 @@ Weer wat geleerd.
 
 Maar we zijn er nog niet. Weet je waar dit verder door komt?
 
-Dit komt onder andere door de vitamine C die rijkelijk te vinden is in de Ivan Chai. **Vitamine C werkt goed tegen infecties.** Het geeft je afweersysteem een boost. 
+Dit komt onder andere door de vitamine C die rijkelijk te vinden is in de Ivan Chai. **Vitamine C werkt goed tegen infecties.** Het geeft je afweersysteem een boost. Dit laatste wist je al. 
 
-Dit laatste wist je al. Maar wist je dat vitamine C je helpt je bloedsuikerspiegel te verlagen?
+Maar wist je dat vitamine C je helpt je bloedsuikerspiegel te verlagen?
 
-Schimmels houden van het suiker in je bloed. Daar leven ze van. Bij het verlagen van je bloedsuikerspiegel verminder je de hoeveelheid aan schimmels. 
-
-Je kan ze nooit voor een volle 100% uitroeien. Ze horen ook thuis op je lichaam. Zolang ze maar niet de overhand nemen 
-
-En om het allemaal even wat gecompliceerder te maken. 
+Schimmels houden van het suiker in je bloed. Daar leven ze van. Bij het verlagen van je bloedsuikerspiegel verminder je de hoeveelheid aan schimmels. En om het allemaal even wat gecompliceerder te maken. 
 
 Want het ligt niet alleen aan de vitamine C.
 
