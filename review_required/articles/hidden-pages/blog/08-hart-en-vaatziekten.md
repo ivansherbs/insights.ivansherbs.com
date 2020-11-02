@@ -10,11 +10,6 @@ Publish: IVAN'S
   - relatie
   - ziekten
 ---
-<h2>Voordeel Ivan Chai: Versterkt de antioxiderede werking</h2>
-
-* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
-
-### Inzichten
 
 **Het hart** heeft wereldwijd een bijzondere betekenis. 
 
