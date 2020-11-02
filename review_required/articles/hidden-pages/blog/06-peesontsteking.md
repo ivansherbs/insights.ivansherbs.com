@@ -10,11 +10,6 @@ Publish: IVAN'S
   - ontsteking
   - eyeopener
 ---
-<h2>Voordeel Ivan Chai: Krachtige ontstekingsremmer</h2>
-
-* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. 
-
-### Inzichten
 
 We houden er allemaal van om lekker te kunnen sporten! 
 
