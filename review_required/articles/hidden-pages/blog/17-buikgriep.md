@@ -21,7 +21,7 @@ bah.
 
 .................
 
-Lief dagboek,
+Lief DAGBOEK,
 
 Vandaag was weer een hele vervelende dag voor mij. 
 
@@ -35,7 +35,7 @@ naaaah.
 
 Ik heb dus wederom last van mijn buik. 
 
-Dit keer is het NIET de ZWARE MENSTRUATIEPIJN
+En dit keer is het NIET de ZWARE MENSTRUATIEPIJN
 
 waar ik ook altijd last van heb.
 
