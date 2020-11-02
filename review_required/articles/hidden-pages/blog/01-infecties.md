@@ -62,7 +62,7 @@ Wanneer de weersomstandigheden de micro organismen gunstig gezind zijn. Kunnen z
 
 ### Verhoogd risico vrouwen
 
-Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen. Want het is mede te verklaren door het het veranderen van je hormoonspiegel. Je immuunsysteem is op dat moment wat zwakker waardoor schimmels zich makkelijker vrij kunnen bewegen en vermenigvuldigen.
+Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen. Want het is mede te verklaren door het het veranderen van je hormoonspiegel. Je afweersysteem is op dat moment wat zwakker waardoor schimmels zich makkelijker vrij kunnen bewegen en vermenigvuldigen.
 
 ### En nu vraag je jezelf af waar dit door komt?
 
@@ -72,9 +72,9 @@ Zoals de anticonceptiepil. Maar ook seksuele opwinding, zwangerschap en de overg
 
 **En om het lijstje maar even compleet te maken.** 
 
-Denk ook aan het hebben van diabetes, een zwak immuunsysteem, stress, slaapproblemen en een slecht dieet met veel suiker.
+Denk ook aan het hebben van diabetes, een zwak afweersysteem, stress, slaapproblemen en een slecht dieet met veel suiker.
 
-Sommige factoren correleren met elkaar. Denk aan het hebben van slaapproblemen wat kan leiden tot een zwak immuunsysteem. 
+Sommige factoren correleren met elkaar. Denk aan het hebben van slaapproblemen wat kan leiden tot een zwak afweersysteem. 
 Om het niet te wetenschappelijk te maken laat ik de details lekker achterwege.
 
 Waar het om gaat is het volgende. Man of vrouw.
@@ -324,7 +324,7 @@ Jammer genoeg, groeien deze schimmels op plekken waar ze je lichaam kunnen besch
 Aan welke oorzaken moet ik dan denken? <br>
 Eén van de oorzaken die juist zorgen voor een overtollige hoeveelheid aan micro-organisme, is het gebruik van farmaceutische medicijnen.
 
-Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je immuunsysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Dit kan leiden tot een infectie.
+Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je afweersysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Dit kan leiden tot een infectie.
 
 ### Welke medicijnen zijn van invloed op infecties?
 
