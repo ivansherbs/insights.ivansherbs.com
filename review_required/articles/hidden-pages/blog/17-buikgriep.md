@@ -33,7 +33,7 @@ Hou je toch niet voor mogelijk.
 
 naaaah.
 
-Ik heb wederom last van mijn buik. 
+Ik heb dus wederom last van mijn buik. 
 
 Dit keer is het NIET de ZWARE MENSTRUATIEPIJN
 
@@ -91,7 +91,7 @@ Je moest eens weten.
 
 Wat ik dus denk is dat ik door de ANTIBIOTICA mijn IMMUUNSYSTEEM aan het verzwakken ben.
 
-Ik heb dus gelezen dat je daar dus ONGELOOFLIJK hard van aan de DIARREE kan gaan.
+Ik heb dus gelezen dat je daar dus hard van aan de DIARREE kan gaan.
 
 Dus ja.
 
