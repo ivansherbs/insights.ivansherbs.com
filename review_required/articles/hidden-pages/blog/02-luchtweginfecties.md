@@ -11,11 +11,6 @@ sub-title: artikel| luchtweginfectie
 Publish: IVAN'S
   Author: Svetlana Petrova
 ---
-<h2>Voordeel Ivan Chai: Versterkt de weerstand</h2>
-
-* Ivan Chai helpt je voedingsstoffen beter op te nemen waardoor je weerstand versterkt. 
-
-### Inzichten
 
 Iedereen heeft wel eens last van een luchtweginfectie.
 
