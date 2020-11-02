@@ -24,17 +24,19 @@ Nou. Laat ik het maar gelijk verklappen. Omdat dat er veel zijn en ik het besef 
 
 Met eenvoudige en biologische alledaagse producten. 
 
-Ik ga je bij deze een aantal tips geven om dit te voorkomen. Maar eerst meer informatie over dit probleem zelf. 
+Ik ga je bij deze een aantal tips geven om dit te voorkomen. Maar eerst wat meer info over dit probleem zelf. 
 
 Lijkt me logisch of niet? Laat ik bij het begin beginnen. 
 
 ### Wat is een infectie?
 
-"Een infectie ontstaat bij een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade."
+"Een infectie is kort samengevat de besmetting van ziektekiemen die zich vermenigvuldiging en hierdoor onnodige schade kunnen aanrichten als gevolg van een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën."
 
-Ooit nagedacht waar je naast je intieme zone nog meer last kunt krijgen van bijvoorbeeld schimmels? Dit is heel belangrijk om te weten! 
+Dit wetende. 
 
-Op deze manier bekijken we dit probleem gelijk vanuit holistisch perspectief. Want ze komen niet zomaar terecht in je poenie. 
+Ooit nagedacht waar je naast je intieme zone nog meer last kunt krijgen van bijvoorbeeld schimmels? 
+
+Dit is heel belangrijk om te weten! Op deze manier bekijken we dit probleem gelijk vanuit holistisch perspectief. Want ze komen niet zomaar terecht in je poenie. 
 
 Je kunt ze overal op je lichaam krijgen. Ze zitten letterlijk op je huid! En richten bij een overtollige hoeveelheid weefselschade aan.
 
