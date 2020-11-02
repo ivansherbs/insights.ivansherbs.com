@@ -10,11 +10,6 @@ Publish: IVAN'S
   - 45+	
   - ouderdom 
 ---
-<h2>Voordeel Ivan Chai: Krachtige ontstekingsremmer</h2>
-
-* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. 
-
-### Inzichten
 
 Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al helemaal met de meest gangbare activiteiten!
 
