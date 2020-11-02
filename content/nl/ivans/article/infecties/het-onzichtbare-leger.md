@@ -12,11 +12,9 @@ Publish: IVAN's
   - relatie
 ---
 
-Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. 
+Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want.
 
-Want.
-
-Wist je dat **3 van de 4 vrouwen** last krijgt van een **VAGINALE schimmelinfectie**?!
+Wist je dat **3 van de 4 vrouwen** last krijgt van een **vaginale schimmelinfectie**?!
 
 En nu vraag je jezelf waarschijnlijk af. 
 
