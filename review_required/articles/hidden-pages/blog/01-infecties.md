@@ -12,21 +12,23 @@ Publish: IVAN's
   - relatie
 ---
 
-Laat ik het maar gelijk verklappen.
+Om maar gelijk met de deur in huis te vallen. 
 
 Ik ga het met name hebben over vaginale schimmelinfecties. 
 
 Want.
 
-**Wist je dat 3 van de 4 vrouwen last krijgt van een vaginale schimmelinfectie?!**
+**Wist je dat 3 van de 4 vrouwen last krijgt van een VAGINALE schimmelinfectie?!**
 
 ....
 
 En nu vraag je jezelf waarschijnlijk af… 
 
-**Waarom vertel je me dit?**
+**Waarom vertel je me dit nou eigenlijk?**
 
 Nou.
+
+Laat ik het maar gelijk verklappen.
 
 Omdat dat er veel zijn en ik het besef wil kweken dat het makkelijk te voorkomen is. 
 
@@ -38,7 +40,7 @@ Maar voor ik daar over beginnen eerst wat meer informatie over dit probleem zelf
 
 Lijkt me logisch of niet?
 
-Laat ik beginnen bij een infectie… 
+Laat ik bij het begin beginnen. 
 
 Want.
 
@@ -52,7 +54,7 @@ Ooit nagedacht waar je naast je intieme zone nog meer last kunt krijgen van bijv
 
 Dit is heel belangrijk om te weten! 
 
-Op deze manier bekijken we dit probleem vanuit holistisch perspectief.
+Op deze manier bekijken we dit probleem gelijk vanuit holistisch perspectief.
 
 Want ze komen niet zomaar terecht in je poenie. 
 
@@ -84,9 +86,11 @@ Want dat zijn deze onzichtbare leger.
 
 Micro-organismen. 
 
-De woonomgeving die deze micro-organismen kiezen is alles bepalend voor de schade die ze zonder moeite kunnen aanrichten.
+De woonomgeving die deze micro-organismen kiezen is alles bepalend voor de schade die ze daar zonder moeite kunnen aanrichten.
 
-Wanneer de omstandigheden de micro organismen gunstig gezind zijn. Kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen.
+Wanneer de weersomstandigheden de micro organismen gunstig gezind zijn. 
+
+Kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen.
 
 Hierdoor is het een veel voorkomend probleem. Want bij een kleine overtolligheid aan deze micro organismen kunnen ze je al flink te grazen nemen!
 
@@ -108,7 +112,9 @@ Maar ook seksuele opwinding, zwangerschap en de overgang zijn hierop van invloed
 
 Denk ook aan het hebben van diabetes, een zwak immuunsysteem, stress, slaapproblemen en een slecht dieet met veel suiker.
 
-Sommige factoren correleren met elkaar. Denk aan het hebben van slaapproblemen wat kan leiden tot een zwak immuunsysteem. 
+Sommige factoren correleren met elkaar. 
+
+Denk aan het hebben van slaapproblemen wat kan leiden tot een zwak immuunsysteem. 
 
 Om het niet te wetenschappelijk te maken laat ik de details lekker achterwege.
 
@@ -136,7 +142,7 @@ En snel ook.
 
 En zonder dat je er erg in hebt. 
 
-(...)
+...
 
 Om de statistieken er ook maar even bij te pakken. 
 
@@ -144,13 +150,17 @@ Onderzoek heeft aangetoond dat er 15% kans bestaat dat je schimmels overdraagt.
 
 Met seks. 
 
-Oke..
+Oke.
 
 Dus.
 
 Dit gezegd hebbende vraag je jezelf natuurlijk af. 
 
 **HOE ZIET EEN VAGINALE SCHIMMELINFECTIE ER UIT!?**
+
+Juist. 
+
+Als ik het niet dacht. 
 
 Deze afbeelding gaan we je laten zien. 
 
@@ -161,6 +171,8 @@ Ik wil je even waarschuwen dat dit heel ongemakkelijk kan zijn wanneer mensen di
 Maar echt heel ongemakkelijk. 
 
 [**KLIK HIER**](#)
+
+<!-- @Gabriel Can you find an suitable horrible looking picture of a Vaginal Yeast Infection. And make an seperate page of this picture. Then we can capture an audience who likes to watch disgusting looking problems. Which is funny BECAUSE WE CAN TARGET THEM WITH EVEN MORE DISGUSTING HORRIBLE LOOKING FYSICAL PROBLEMS HAHAHAHHAA. I mean. look at doctor pimple poppers. She has an whole tv show. people love to watch that kinda stuff -->
 
 En... 
 
@@ -174,7 +186,9 @@ Het is géén soa.
 
 Hoe ze eruit zien en wat voor een schade schimmels, gist of ongewenste bacteriën kunnen aanrichten in de mond en op de handen en voeten zoek je zometeen maar lekker zelf op in je vrije tijd.
 
-Is minder leuk dan die in de poenie. Kan ik je bij deze alvast vertellen. 
+Is minder leuk dan die in de poenie. 
+
+Kan ik je bij deze alvast vertellen. 
 
 We gaan nog even verder want we moeten nog naar de tips!
 
@@ -218,11 +232,11 @@ Je moet een infectie behandelen.
 
 Beter nog! 
 
-Het voorkomen van een infectie behoort ook tot de mogelijkheden. Ja we gaan zo naar de tips. 
+Het voorkomen van een infectie behoort ook tot de mogelijkheden. 
 
-**Even terugkijkend.**
+Ja. We gaan zo naar de tips. 
 
-Weten we nu het volgende. 
+**Even terugkijkend.** Weten we nu het volgende. 
 
 Wat ze doen. Waar ze wonen en hoe ze eruit kunnen zien wanneer ze zich massaal groeperen. 
 
@@ -337,9 +351,11 @@ Gezien de agressieve werking kun je het NIET uitsmeren over je kwetsbare poenie.
 
 Die heeft daar geen zin in. 
 
-(Extra tip. Lees wederom tip 1 wil je vaginale schimmelinfectie voorkomen)
+Extra tip.
 
-Ik herhaal  het maar nog een keer. 
+Lees wederom tip 1 wil je vaginale schimmelinfectie voorkomen
+
+Overigens! 
 
 Smeer etherische olie gemaakt van wilde oregano NIET uit over je kwetsbare poenie. 
 
@@ -355,7 +371,9 @@ Denk hierbij aan je armen, benen, voetjes whatever…
 
 En je huid neemt het op. 
 
-Naast het smeren van etherische olie gemaakt van wilde oregano kun je het ook gebruiken als aromatherapie. Doe een paar druppels in je infuser en inhaleer. 
+Naast het smeren van etherische olie gemaakt van wilde oregano kun je het ook gebruiken als aromatherapie. 
+
+Doe een paar druppels in je infuser en inhaleer. 
 
 **Let op!**
 
@@ -387,9 +405,11 @@ Hier hebben we ook wat artikelen over geschreven mocht je jezelf er meer in will
 
 Ook dit heeft hedendaags onderzoek aangetoond mocht je het in twijfel trekken. 
 
-**Extra tip!**
+Extra tip!
 
-Wist je dat Ivan Chai goed werkt tegen stress? En ook angst en een burn-out?
+Wist je dat Ivan Chai de kans vermindert op stress? 
+
+En ook angst en een burn-out?
 
 **Er zit in Ivan Chai stoffen met een kalmerende werking.** 
 
@@ -401,7 +421,9 @@ En zonder heftige bijwerkingen.
 
 Dus de tip is wederom drink Ivan Chai ;) 
 
-Top dit waren dan 3 tips! 
+Top!
+
+Dit waren dan 3 tips! 
 
 **Tot slot nog een waarschuwing.**
 
