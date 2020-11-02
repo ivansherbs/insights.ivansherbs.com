@@ -122,7 +122,7 @@ problemen| [baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbar
 <br>
 
 https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
-> SIBERIË| Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de meest ervaren 'tea master' in de gelegenheid een kwaliteitscontrole uit te voeren.
+> SIBERIË| Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de meest ervaren 'tea expert' in de gelegenheid een kwaliteitscontrole uit te voeren.
 <br>
 <br>
 
@@ -188,7 +188,7 @@ problemen| [slaapproblemen](#Stress-als-katalysator-op-slaapproblemen)
 <br>
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
-> SIBERIË| “Onze bosrijke omgeving biedt veel soorten kruiden.” vertelt Svetlana Petrova. “Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking." aldus de herbal tea master.
+> SIBERIË| “Onze bosrijke omgeving biedt veel soorten kruiden.” vertelt Svetlana Petrova. “Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking." aldus de herbal tea expert.
 <br>
 <br>
 
