@@ -38,15 +38,15 @@ Hou je toch niet voor mogelijk.
 
 naaaah.
 
-Ik had wederom last van mijn buik. 
+Ik heb wederom last van mijn buik. 
 
-Dit keer was het NIET de ZWARE MENSTRUATIEPIJN
+Dit keer is het NIET de ZWARE MENSTRUATIEPIJN
 
-waar ik óóóóók altijd last van heb.
+waar ik ook altijd last van heb.
 
 Nee.
 
-GELUKKIG had ik dit keer eens een ander probleem. 
+GELUKKIG heb ik dit keer eens een ander probleem. 
 
 Voor de verandering
 
