@@ -10,11 +10,6 @@ Publish: IVAN'S
   - eyeopener
   - buikpijn
 ---
-<h2>Voordeel Ivan Chai: Verzorgt het spijsverteringsstelsel</h2>
-
-* Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Denk aan Gastritis en Colitis, maar ook een maagzweer kan worden behandelt door het drinken van Ivan Chai. Tevens worden je spijsverteringsonevenwichtigheden gestabiliseerd voor mensen met een prikkelbaar darmsyndroom.
-
-### Inzichten
 
 DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW.
 
