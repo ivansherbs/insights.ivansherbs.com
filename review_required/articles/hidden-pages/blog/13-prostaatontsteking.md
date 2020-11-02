@@ -10,14 +10,6 @@ Publish: IVAN'S
   - eyeopener
   - prostaat
 ---
-<h2>Voordeel Ivan Chai: Verzorgt de gezondheid van de prostaat</h2>
-
-* Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
-
-Bijkomend voordeel
-* Ivan Chai gaat óók de groei van de prostaat tegen.
-
-### Inzichten
 
 Wanneer je ouder wordt weet je dat dagelijkse bezigheden meer tijd gaan kosten. Als man weet je dat je op latere leeftijd meer kans hebt op prostaatklachten. 
 
