@@ -19,7 +19,7 @@ Co-Founder
 <!-- Same profile picture -->
 Andrey Nikitin
 
-Herbal Technologist
+Herbal Technologist, Tea Producer & UHTE
 
 
 
@@ -33,11 +33,11 @@ Export & Production Specialist
 <!-- Same profile picture -->
 Ivan Alexandrovitj
 
-Siberian Herbalist - Trusted advisor
+Siberian Herbalist & Trusted advisor
 
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 
 Svetlana Petrova
 
-Herbal Tea Master
+Herbal Tea Expert
