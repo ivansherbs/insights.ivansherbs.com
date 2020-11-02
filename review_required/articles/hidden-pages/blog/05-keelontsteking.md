@@ -10,11 +10,6 @@ Publish: IVAN'S
   - eyeopener
   - gevoel
 ---
-<h2>Voordeel Ivan Chai: Krachtige ontstekingsremmer</h2>
-
-* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. 
-
-### Inzichten
 
 Dit is een BRIEF.
 
@@ -24,7 +19,7 @@ Voel je vooral aangesproken.
 
 Dat is niet erg. 
 
-We bekijken zometeen ook nog even de statistieken. 
+We bekijken namelijk zometeen ook nog even de statistieken. 
 
 ha-ha
 
