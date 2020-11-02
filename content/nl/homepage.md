@@ -103,9 +103,9 @@ De oprichter Andrey vertelt over het nastreven van zijn utopie...
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 
-portret| **herbal tea master**
+portret| **herbal tea expert**
 
-Herbal tea master Svetlana over haar leven buiten de stad na een carrière als...
+Herbal tea expert Svetlana over haar leven buiten de stad na een carrière als...
 
 [Ontdek het verhaal](#)
 
