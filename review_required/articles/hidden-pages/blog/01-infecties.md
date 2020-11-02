@@ -42,11 +42,9 @@ Lijkt me logisch of niet?
 
 Laat ik bij het begin beginnen. 
 
-Want.
+Bij vraag nummer één. 
 
-### Wat is een infectie nou eigenlijk?
-
-En wat doet het nou eigenlijk met je?
+### Wat is een infectie?
 
 "Een infectie ontstaat bij een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade."
 
