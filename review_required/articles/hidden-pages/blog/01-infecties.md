@@ -24,7 +24,7 @@ Want.
 
 En nu vraag je jezelf waarschijnlijk af… 
 
-**Waarom vertel je me dit nou eigenlijk?**
+### Waarom vertel je me dit nou eigenlijk?
 
 Nou.
 
@@ -44,7 +44,7 @@ Laat ik bij het begin beginnen.
 
 Want.
 
-**Wat is een infectie nou eigenlijk?**
+### Wat is een infectie nou eigenlijk?
 
 En wat doet het nou eigenlijk met je?
 
@@ -68,7 +68,9 @@ Ze groepen zich graag.
 
 Blijven met z'n allen bij elkaar. 
 
-**En vormen het liefst een zo groot mogelijk onzichtbaar leger.** 
+### Het onzichtbare leger
+
+En vormen het liefst een zo groot mogelijk onzichtbaar leger.
 
 En deze onzichtbare legers hebben net als jij óók plekken gevonden waar ze het liefst wonen. 
 
@@ -80,7 +82,9 @@ Ook zij willen het zich zo comfortabel mogelijk maken.
 
 Over het algemeen bewegen ze zich daarom naar warme en vochtige plekken. De plekken waar schimmels graag leven zijn dan ook de mond, handen en voeten.
 
-**Maar bij vrouwen is vooral de intieme zone doelwit van deze micro-organismen.**
+### Doelwit
+
+Maar bij vrouwen is vooral de intieme zone doelwit van deze micro-organismen.
 
 Want dat zijn deze onzichtbare leger. 
 
@@ -100,7 +104,7 @@ Want het is mede te verklaren door het het veranderen van je hormoonspiegel.
 
 Je immuunsysteem is op dat moment wat zwakker waardoor schimmels zich makkelijker vrij kunnen bewegen en vermenigvuldigen.
 
-**En nu vraag je jezelf af waar dit door komt?**
+### En nu vraag je jezelf af waar dit door komt?
 
 Dit komt met name door de menstruatie (denk aan je hormoonspiegel) óf gebruik van bepaalde farmaceutische medicijnen.
 
@@ -122,7 +126,7 @@ Waar het om gaat is het volgende.
 
 Man of vrouw.
 
-**Het behandelen van een infectie is een must.**
+### Het behandelen van een infectie is een must.
 
 Ja! 
 
@@ -136,7 +140,7 @@ Goed zo.
 
 Maar ook wanneer je een orale beurt krijgt kunnen de legers zich verplaatsen van strijdveld. 
 
-**Ze macheren er lustig op los.**
+Ze macheren er lustig op los.
 
 En snel ook.
 
@@ -144,7 +148,7 @@ En zonder dat je er erg in hebt.
 
 ...
 
-Om de statistieken er ook maar even bij te pakken. 
+### Om de statistieken er maar even bij te pakken. 
 
 Onderzoek heeft aangetoond dat er 15% kans bestaat dat je schimmels overdraagt. 
 
@@ -156,7 +160,7 @@ Dus.
 
 Dit gezegd hebbende vraag je jezelf natuurlijk af. 
 
-**HOE ZIET EEN VAGINALE SCHIMMELINFECTIE ER UIT!?**
+### HOE ZIET EEN VAGINALE SCHIMMELINFECTIE ER UIT!?
 
 Juist. 
 
@@ -198,7 +202,7 @@ Geen enkel probleem.
 
 Kan ik volledig begrijpen. 
 
-**Kortom.**
+### Kortom.
 
 Je wil niet met té veel schimmels rondlopen. 
 
@@ -210,7 +214,7 @@ Dit geldt overigens niet alleen voor schimmels!
 
 Want of het nou schimmels, gist of ongewenste bacteriën betreft. 
 
-**Ze vallen je aan.**
+### Ze vallen je aan.
 
 En zonder pardon. 
 
@@ -236,7 +240,9 @@ Het voorkomen van een infectie behoort ook tot de mogelijkheden.
 
 Ja. We gaan zo naar de tips. 
 
-**Even terugkijkend.** Weten we nu het volgende. 
+### Even terugkijkend.
+
+Weten we nu het volgende. 
 
 Wat ze doen. Waar ze wonen en hoe ze eruit kunnen zien wanneer ze zich massaal groeperen. 
 
