@@ -1,7 +1,7 @@
 ---
 layout: article.html
 Title: Leven in Chazhaevka 
-sub-title: portret| herbal tea master
+sub-title: portret| herbal tea expert
 Publish: IVAN's
   Author: Svetlana Petrova
   tags:
@@ -16,7 +16,7 @@ Header and to use for profile pic: https://drive.google.com/file/d/1of0pW7e1SCXD
 
 Niet meer voor deze natuurliefhebber. We hebben het over Svetlana.
 
-Eén van de herbal tea masters uit Siberië. 
+Eén van de herbal tea experts uit Siberië. 
 
 Ze doet er alles aan om zo veel mogelijk van de buitenlucht te kunnen genieten.
 
