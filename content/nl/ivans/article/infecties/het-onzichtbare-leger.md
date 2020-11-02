@@ -305,7 +305,7 @@ Wil jij meer informatie over infecties?
 
 ### Wat is een infectie?
 
-Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt. Als reactie hierop beschadigd het weefsel.
+Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt. Als gevolg richten ze schade aan. Om een kleine opsomming te maken moet je bij schade denken aan symptomen als weefselschade, koorts, diarree, pijn, hoestbuien en vermoeidheid.
 
 Micro-organisme kunnen de vorm aannemen van schimmels, gist of bacteriën. Deze micro-organismen leven overal op het lichaam.
 
