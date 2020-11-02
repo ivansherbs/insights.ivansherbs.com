@@ -28,7 +28,7 @@ Samen met zijn familie is Andrey het avontuur aangegaan.
 
 In samenwerking met verschillende kruiden- en theeliefhebbers is langzaam het dorp opgebouwd.
 
-Andrey staat er altijd voor open om zijn kennis en kunde over te dragen aan de nieuwe generatie ‘tea master’, zoals Michael Koch.
+Andrey staat er altijd voor open om zijn kennis en kunde over te dragen aan de nieuwe generatie ‘tea experts’, zoals Michael Koch.
 
 Na een dag hard werken vindt het volgende gesprek plaats.
  
@@ -51,7 +51,7 @@ Waar thee van kan worden gezet!
 
 Er zijn jaren overheen gegaan voor wij genoeg kennis in huis hadden.
 
-Na jarenlang werkzaam te zijn geweest als Thee producent & UHTM ‘Ultimate Herbal Tea Master’, waarbij we gelijktijdig onderzoek deden naar de geneeskrachtige werking in kruiden, hebben we langzaam onze focus verschoven naar het promoten van kruidenthee uit Siberië.
+Na jarenlang werkzaam te zijn geweest als Thee producent & UHTE ‘Ultimate Herbal Tea Expert’, waarbij we gelijktijdig onderzoek deden naar de geneeskrachtige werking in kruiden, hebben we langzaam onze focus verschoven naar het promoten van kruidenthee uit Siberië.
 
 De verborgen kruidenthee uit Siberië konden nu wederom worden geïntroduceerd. 
 
