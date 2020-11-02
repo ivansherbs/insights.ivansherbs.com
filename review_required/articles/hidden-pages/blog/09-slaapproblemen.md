@@ -10,11 +10,6 @@ Publish: IVAN'S
   - gevoel
   - nachtrust
  ---
-<h2>Voordeel Ivan Chai: Verbetert de nachtrust</h2>
-
-* Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapproblemen te overwinnen.
-
-### Inzichten
 
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. 
 
