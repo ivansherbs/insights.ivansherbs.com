@@ -24,11 +24,9 @@ Nou. Laat ik het maar gelijk verklappen. Omdat dat er veel zijn en ik het besef 
 
 Met eenvoudige en biologische alledaagse producten. 
 
-Ik ga je bij deze een aantal tips geven om dit te voorkomen. Maar voor ik daar over beginnen eerst wat meer informatie over dit probleem zelf. 
+Ik ga je bij deze een aantal tips geven om dit te voorkomen. Maar eerst meer informatie over dit probleem zelf. 
 
-Lijkt me logisch of niet?
-
-Laat ik bij het begin beginnen. Bij vraag nummer één. 
+Lijkt me logisch of niet? Laat ik bij het begin beginnen. 
 
 ### Wat is een infectie?
 
