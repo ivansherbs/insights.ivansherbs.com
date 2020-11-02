@@ -14,7 +14,7 @@ header: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?u
 Profile pic: https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
 
 
-Beste levensgenieter, 
+Beste levensgenieter,
 
 <br>
 
@@ -32,7 +32,7 @@ Maar ook voor je geest.
 
 Dagelijks had ik het genoegen nauw samen te werken met de meest ervaren 'herbal tea master' uit het ecodorp. 
 
-Zijn naam is Andrey Nikitin (45). Het preventief behandelen van gezondheidsproblemen met kruiden stond centraal bij de kennisoverdracht. 
+Zijn naam is Andrey Nikitin. Het preventief behandelen van gezondheidsproblemen met kruiden stond centraal bij de kennisoverdracht. 
 
 Hier zijn mij waardevolle lessen bijgebracht.
 
@@ -57,9 +57,9 @@ Uiteraard loop je deze expedities niet alleen. Zou ook vreemd zijn gezien de ver
 
 De top behalen is een prestatie die je als team neerzet. Met een diverse groep van alle leeftijden. 
 
-Gedurende deze expeditie heb ik onder andere een herborist ontmoet genaamd Ivan Alexandrovitsj (63). 
+Gedurende deze expeditie heb ik onder andere een herborist ontmoet genaamd Ivan Alexandrovitsj. 
 
-Ivan was veruit de oudste van de expeditie groep. 
+Ivan was met 63 jaar veruit de oudste van de expeditie groep. 
 
 Gedurende deze expeditie viel mij iets op. 
 
@@ -69,14 +69,14 @@ Maar meedere expeditieleden.
 
 Dit kwam door de volgende gebeurtenis. 
 
-Iedereen uit de groep is namelijk top fit. 
+Iedereen uit de groep was namelijk top fit. 
 
 Echter merkten wij dat Ivan de groep met veel plezier door de meest barre tijden wist heen te slepen. 
 
 https://drive.google.com/file/d/1ZrSFuSJLhhJ2I3h3_ewJ_-y-XfzbA22y/view?usp=sharing
 > De top van de Belukha in het Altaj gebergte
 
-Michael was gefascineerd door zijn doorzettingsvermogen. 
+Ik was gefascineerd door zijn doorzettingsvermogen. 
 
 En raakte in gesprek.
 
