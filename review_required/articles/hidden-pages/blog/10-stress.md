@@ -10,12 +10,6 @@ Publish: IVAN'S
   - werk
   - gevoel
 ---
-<h2>Voordeel Ivan Chai: Vermindert de kans op stress</h2>
-
-* Ivan Chai heeft een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
-Hedendaags onderzoek ondersteund deze kalmerende werking. De kalmerende werking heeft namelijk effect op je centrale zenuwstelsel.
-
-### Inzichten
 
 **We kennen allemaal het gevoel** dat je het maximale uit je dag wilt halen. 
 
