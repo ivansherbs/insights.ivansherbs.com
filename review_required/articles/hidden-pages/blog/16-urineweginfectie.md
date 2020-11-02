@@ -11,13 +11,6 @@ Publish: IVAN'S
   - gevoel
   - urinewegen
 ---
-<h2>Voordeel Ivan Chai: Verzorgt de gezondheid van de urinewegen</h2>
-
-* Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten tegen urineweginfecties.
-
-* Ook bij mannen! 
-
-### Inzichten
 
 Voorkom relatieproblemen door het voorkomen van een urineweginfectie!
 
