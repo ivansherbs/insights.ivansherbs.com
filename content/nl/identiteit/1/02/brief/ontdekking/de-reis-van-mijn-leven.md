@@ -30,7 +30,7 @@ Niet alleen voor je lichaam.
 
 Maar ook voor je geest. 
 
-Dagelijks had ik het genoegen nauw samen te werken met de meest ervaren 'herbal tea master' uit het ecodorp. 
+Dagelijks had ik het genoegen nauw samen te werken met de meest ervaren 'herbal tea expert' uit het ecodorp. 
 
 Zijn naam is Andrey Nikitin. Het preventief behandelen van gezondheidsproblemen met kruiden stond centraal bij de kennisoverdracht. 
 
