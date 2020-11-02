@@ -34,7 +34,7 @@ Laat ik bij het begin beginnen. Bij vraag nummer één.
 
 ### Wat is een infectie?
 
-"Een infectie ontstaat bij een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade."
+"Een infectie is een besmetting van ziektekiemen die schade aanrichten als gevolg van een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën."
 
 Ooit nagedacht waar je naast je intieme zone nog meer last kunt krijgen van bijvoorbeeld schimmels? Dit is heel belangrijk om te weten! 
 
@@ -307,7 +307,7 @@ Wil jij meer informatie over infecties?
 
 ### Wat is een infectie?
 
-Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt. Als reactie hierop beschadigd het weefsel.
+Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt. Als reactie hierop beschadigd je lichaam. Bij schade moet je denken aan symptomen als onnodige weefselschade, koorts, hoofdpijn, diarree hoestbuien en pijn.
 
 Micro-organisme kunnen de vorm aannemen van schimmels, gist of bacteriën. Deze micro-organismen leven overal op het lichaam.
 
