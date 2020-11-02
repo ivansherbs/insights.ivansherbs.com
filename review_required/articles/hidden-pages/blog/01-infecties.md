@@ -48,7 +48,7 @@ Want.
 
 En wat doet het nou eigenlijk met je?
 
-Een infectie ontstaat bij een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade.
+"Een infectie ontstaat bij een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade."
 
 Ooit nagedacht waar je naast je intieme zone nog meer last kunt krijgen van bijvoorbeeld schimmels?
 
