@@ -17,6 +17,31 @@ Publish: IVAN's
     - 45+
 ---
 
+### Ivan Chai
+
+1. Versterkt de weerstand
+
+2. Krachtige ontstekingsremmer
+
+3. Versterkt de antioxiderede werking
+
+4. Verbetert de nachtrust
+
+5. Vermindert de kans op stress, angst en een burn-out
+
+6. Verzorgt de gezondheid van de prostaat en urinewegen
+
+7. Verzorgt het spijsverteringsstelsel
+
+
+<br>
+<br>
+
+https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
+> SIBERIË| De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj.
+<br>
+<br>
+
 ## Waarom Ivan Chai?
 
 Ivan Chai bevat 7 voordelen tegen 17 problemen. 
@@ -39,30 +64,6 @@ Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 Om de kans op ziekten te verkleinen en problemen te verzorgen.
 
 Maar ook als levenselixer of ter ontspanning.
-
-<br>
-<br>
-
-https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
-> SIBERIË| De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj.
-<br>
-<br>
-
-### Ivan Chai
-
-1. Versterkt de weerstand
-
-2. Krachtige ontstekingsremmer
-
-3. Versterkt de antioxiderede werking
-
-4. Verbetert de nachtrust
-
-5. Vermindert de kans op stress, angst en een burn-out
-
-6. Verzorgt de gezondheid van de prostaat en urinewegen
-
-7. Verzorgt het spijsverteringsstelsel
 
 <br>
 <br>
