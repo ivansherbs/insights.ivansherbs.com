@@ -6,15 +6,17 @@ Publish: IVAN's
   Author: Svetlana Petrova
   tags:
   - weerstand
-  - vrouw	
+  - vrouw
   - infecties
-  - gevoel	
+  - gevoel
   - relatie
 ---
 
-Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want.
+Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. 
 
-* Wist je dat **3 van de 4 vrouwen** last krijgt van een **vaginale schimmelinfectie**?!
+Want.
+
+Wist je dat **3 van de 4 vrouwen** last krijgt van een **VAGINALE schimmelinfectie**?!
 
 En nu vraag je jezelf waarschijnlijk af. 
 
@@ -24,19 +26,19 @@ Nou. Laat ik het maar gelijk verklappen. Omdat dat er veel zijn en ik het besef 
 
 Met eenvoudige en biologische alledaagse producten. 
 
-Ik ga je bij deze een aantal tips geven om dit te voorkomen. Maar eerst wat meer info over dit probleem zelf. 
+Ik ga je bij deze een aantal tips geven om dit te voorkomen. Maar voor ik daar over beginnen eerst wat meer informatie over dit probleem zelf. 
 
-Lijkt me logisch of niet? Laat ik bij het begin beginnen. 
+Lijkt me logisch of niet?
+
+Laat ik bij het begin beginnen. Bij vraag nummer één. 
 
 ### Wat is een infectie?
 
-"Een infectie is kort samengevat de besmetting van ziektekiemen die zich vermenigvuldiging en hierdoor onnodige schade kunnen aanrichten als gevolg van een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën."
+"Een infectie ontstaat bij een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade."
 
-Dit wetende. 
+Ooit nagedacht waar je naast je intieme zone nog meer last kunt krijgen van bijvoorbeeld schimmels? Dit is heel belangrijk om te weten! 
 
-Ooit nagedacht waar je naast je intieme zone nog meer last kunt krijgen van bijvoorbeeld schimmels? 
-
-Dit is heel belangrijk om te weten! Op deze manier bekijken we dit probleem gelijk vanuit holistisch perspectief. Want ze komen niet zomaar terecht in je poenie. 
+Op deze manier bekijken we dit probleem gelijk vanuit holistisch perspectief. Want ze komen niet zomaar terecht in je poenie. 
 
 Je kunt ze overal op je lichaam krijgen. Ze zitten letterlijk op je huid! En richten bij een overtollige hoeveelheid weefselschade aan.
 
@@ -60,7 +62,7 @@ Wanneer de weersomstandigheden de micro organismen gunstig gezind zijn. Kunnen z
 
 ### Verhoogd risico vrouwen
 
-Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen. Want het is mede te verklaren door het het veranderen van je hormoonspiegel. Je immuunsysteem is op dat moment wat zwakker waardoor schimmels zich makkelijker vrij kunnen bewegen en vermenigvuldigen.
+Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen. Want het is mede te verklaren door het het veranderen van je hormoonspiegel. Je afweersysteem is op dat moment wat zwakker waardoor schimmels zich makkelijker vrij kunnen bewegen en vermenigvuldigen.
 
 ### En nu vraag je jezelf af waar dit door komt?
 
@@ -70,16 +72,16 @@ Zoals de anticonceptiepil. Maar ook seksuele opwinding, zwangerschap en de overg
 
 **En om het lijstje maar even compleet te maken.** 
 
-Denk ook aan het hebben van diabetes, een zwak immuunsysteem, stress, slaapproblemen en een slecht dieet met veel suiker.
+Denk ook aan het hebben van diabetes, een zwak afweersysteem, stress, slaapproblemen en een slecht dieet met veel suiker.
 
-Sommige factoren correleren met elkaar. Denk aan het hebben van slaapproblemen wat kan leiden tot een zwak immuunsysteem. 
+Sommige factoren correleren met elkaar. Denk aan het hebben van slaapproblemen wat kan leiden tot een zwak afweersysteem. 
 Om het niet te wetenschappelijk te maken laat ik de details lekker achterwege.
 
 Waar het om gaat is het volgende. Man of vrouw.
 
 ### Het behandelen van een infectie is een must.
 
-Ja! Ook mannen kunnen last krijgen van deze onzichtbare legers!
+Ja! Ook mannen kunnen last krijgen van deze onzichtbare legers! 
 
 Denk nu maar aan een piemel.
 
@@ -101,11 +103,11 @@ Dus. Dit gezegd hebbende vraag je jezelf natuurlijk af.
 
 ### HOE ZIET EEN VAGINALE SCHIMMELINFECTIE ER UIT!?
 
-Juist. Alsof ik het niet dacht!
+Juist. Als ik het niet dacht. 
 
 Deze afbeelding gaan we je laten zien. 
 
-Er is echter één maar.
+Er is echter één maar….
 
 Ik wil je even **waarschuwen** dat dit heel ongemakkelijk kan zijn wanneer mensen die je niet goed kent even meekijken. Maar echt heel ongemakkelijk. 
 
@@ -305,7 +307,7 @@ Wil jij meer informatie over infecties?
 
 ### Wat is een infectie?
 
-Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt. Als gevolg richten ze schade aan. Om een kleine opsomming te maken moet je bij schade denken aan symptomen als weefselschade, koorts, diarree, pijn, hoestbuien en vermoeidheid.
+Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt. Als reactie hierop beschadigd het weefsel.
 
 Micro-organisme kunnen de vorm aannemen van schimmels, gist of bacteriën. Deze micro-organismen leven overal op het lichaam.
 
@@ -322,7 +324,7 @@ Jammer genoeg, groeien deze schimmels op plekken waar ze je lichaam kunnen besch
 Aan welke oorzaken moet ik dan denken? <br>
 Eén van de oorzaken die juist zorgen voor een overtollige hoeveelheid aan micro-organisme, is het gebruik van farmaceutische medicijnen.
 
-Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je immuunsysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Dit kan leiden tot een infectie.
+Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je afweersysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Dit kan leiden tot een infectie.
 
 ### Welke medicijnen zijn van invloed op infecties?
 
@@ -348,7 +350,7 @@ Ja. Het ligt niet alleen aan farmaceutische medicijnen.
 * Een overtollige hoeveelheid aan zeep kan een **vaginale schimmelinfectie** veroorzaken. Zeep valt namelijk tevens goede bacteriën aan in de intieme zone. Volgens de statistieken zijn antibiotica en zeep grote boosdoeners van een vaginale schimmelinfectie.
 * Wanneer we kijken naar **voetschimmel** kan je het oplopen in de kleedkamer of openbare douche.
 
-Zo zijn er nog vele voorbeelden die we in deze blog nog niet met je bespreken.
+Zo zijn er nog vele voorbeelden die ik nu nog even niet met je bespreek. 
 
 ### Waardoor vergroot ik de kans op een infectie?
 
