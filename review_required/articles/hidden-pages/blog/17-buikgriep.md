@@ -13,7 +13,7 @@ Publish: IVAN'S
 
 DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW.
 
-en nu zit ze ook nog eens ongelooflijk hard aan de DIARREE. 
+en nu zit ze ook nog eens ontzettend hard aan de DIARREE. 
 
 Zul je net zien. 
 
