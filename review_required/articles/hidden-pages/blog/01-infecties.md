@@ -1,8 +1,14 @@
+<h2>Ivan Chai versterkt de weerstand</h2>
+
+"Ivan Chai helpt om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt"
+
+-Michael via ivansherbs.com
+
 ---
 layout: article.html
 title: Het onzichtbare leger
 sub-title: artikel| infecties
-Publish: IVAN'S 
+Publish: IVAN's 
   Author: Svetlana Petrova
   tags:
   - weerstand
@@ -11,11 +17,6 @@ Publish: IVAN'S
   - gevoel	
   - relatie
 ---
-<h2>Voordeel Ivan Chai: Versterkt de weerstand</h2>
-
-* Ivan Chai helpt om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt.
-
-### Inzichten
 
 Laat ik het maar gelijk verklappen.
 
@@ -45,11 +46,13 @@ Lijkt me logisch of niet?
 
 Laat ik beginnen bij een infectie… 
 
-Want wat is een infectie nou eigenlijk? 
+Want.
 
-En wat doet het nou eigenlijk met je? 
+**Wat is een infectie nou eigenlijk?**
 
-**Een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade.**
+En wat doet het nou eigenlijk met je?
+
+Een infectie ontstaat bij een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën zorgt voor onnodige weefselschade.
 
 Ooit nagedacht waar je naast je intieme zone nog meer last kunt krijgen van bijvoorbeeld schimmels?
 
