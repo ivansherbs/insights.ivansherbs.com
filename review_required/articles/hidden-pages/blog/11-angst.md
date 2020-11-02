@@ -9,11 +9,6 @@ Publish: IVAN'S
   - werk
   - eyeopener
 ---
-<h2>Voordeel Ivan Chai: Vermindert de kans op angst</h2>
-
-* Ivan Chai heeft een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek ondersteund deze kalmerende werking. De kalmerende werking heeft namelijk effect op je centrale zenuwstelsel.
-
-### Inzichten
 
 **Angst** is een emotie die we allen een keer hebben ervaren. 
 
