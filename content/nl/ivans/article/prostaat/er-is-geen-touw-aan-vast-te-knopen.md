@@ -11,11 +11,11 @@ Publish: IVAN'S
   - prostaat
 ---
 
-Wanneer je ouder wordt weet je dat dagelijkse bezigheden meer tijd gaan kosten. Als man weet je dat je op latere leeftijd meer kans hebt op prostaatklachten. Laten we gelijk de **statistieken** er maar even bijpakken waarom ik dit probleem graag aankaarten bij mannen. 
+Wanneer je ouder wordt weet je dat dagelijkse bezigheden meer tijd gaan kosten. Als man weet je dat je op latere leeftijd meer kans hebt op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken waarom ik dit probleem graag aankaarten bij mannen. 
 
 * 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. 
 
-Eén van die klachten is een prostaatontsteking. En nu komt gelijk het vervelende aan dit probleem. Dit doen wij in de vorm van een bewering die wij gaan onderbouwen. 
+Eén van die klachten is een **prostaatontsteking**. En nu komt gelijk het vervelende aan dit probleem. Dit doen wij in de vorm van een bewering die wij gaan onderbouwen. 
 
 De bewering is als volgt.
 
