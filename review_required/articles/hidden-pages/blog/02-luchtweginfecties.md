@@ -12,55 +12,35 @@ Publish: IVAN'S
   Author: Svetlana Petrova
 ---
 
-Iedereen heeft wel eens last van een luchtweginfectie.
-
-Denk aan een verkoudheid of griep.
-
+Iedereen heeft wel eens last van een luchtweginfectie. Denk aan een verkoudheid of griep.
 En iedereen weet het.
 
 **Je loopt er vroeg of laat weer een keer tegenaan.**
 
-Meestal kun je er niet veel tegen doen.
+Meestal kun je er niet veel tegen doen. Zoals tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
+Hier heeft iedereen last van. Dit effect kan worden versterkt door een ongezonde levensstijl.
 
-Zoals tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen.
-
-Hier heeft iedereen last van.
-
-Dit effect kan worden versterkt door een ongezonde levensstijl.
-
-Of.
-
-Nu komt het. 
+Of. Nu komt het. 
 
 **Door gebruik van farmaceutische medicijnen.**
 
-Denk aan antibiotica, anticonceptiepil of maagzuurremmers.
+Denk aan antibiotica, anticonceptiepil of maagzuurremmers. Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. 
 
-Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. 
-
-Dit komt door de ongewenste bijwerkingen. 
-
-Zo kunnen ze je immuunsysteem aantasten.
+Dit komt door de ongewenste bijwerkingen. Zo kunnen ze je immuunsysteem aantasten.
 
 Dus.
 
 **Extra voedingsstoffen zijn altijd welkom.**
 
-Helemaal gedurende de wintermaanden en wanneer je medicijnen gebruikt.
-
-Zo houdt je lichaam en geest zo lang mogelijk gezond.
-
-Hetzelfde geldt overigens voor kinderen.
-
-**Kinderen hebben ook extra voedingsstoffen nodig.**
+Helemaal gedurende de wintermaanden en wanneer je medicijnen gebruikt. Zo houdt je lichaam en geest zo lang mogelijk gezond. Hetzelfde geldt overigens voor kinderen.
 
 https://drive.google.com/file/d/1jPOulMsS0oHDfTA38R4Pkl5CQJV6c9Ta/view?usp=sharing
 
+**Kinderen hebben ook extra voedingsstoffen nodig.**
+
 Het begint al op jonge leeftijd wanneer kinderen last kunnen krijgen van pseudokroep. 
 
-Dus dan moet je denken aan de leeftijd 1-6 jaar.
-
-Laten we een vergelijking maken waarom het verstandig is kinderen zo snel mogelijk thee (met voordelen) te leren drinken.
+Dus dan moet je denken aan de leeftijd 1-6 jaar. Laten we een vergelijking maken waarom het verstandig is kinderen zo snel mogelijk thee (met voordelen) te leren drinken.
 
 Oke. Hier gaan we.
 
@@ -68,33 +48,23 @@ Pseudokroep wordt weliswaar veroorzaakt door een virus.
 
 Dit komt erop neer dat wanneer het virus in de buurt is, je kind het hoogstwaarschijnlijk zal oplopen.
 
-Hier kun je niet veel tegen doen.
-
-Echter. 
+Hier kun je niet veel tegen doen. Echter. 
 
 **Vergelijk een luchtweginfectie bij een kind van 1 jaar, met een luchtweginfectie bij jezelf.**
 
-Je zal de symptomen van dit probleem minder heftig ervaren wanneer jezelf beschikt over een sterke weerstand. 
+Je zal de symptomen van dit probleem minder heftig ervaren wanneer jezelf beschikt over een sterke weerstand. En wanneer je lichaam in staat is beter voedingsstoffen op te nemen. 
 
-En wanneer je lichaam in staat is beter voedingsstoffen op te nemen. 
-
-Je lichaam vecht hierdoor beter tegen het virus. 
-
-En je bent weer sneller beter.
+Je lichaam vecht hierdoor beter tegen het virus. En je bent weer sneller beter.
 
 **Kortom.**
 
 Je kunt je kinderen niet vroeg genoeg laten kennismaken met eenvoudige en biologische alledaagse producten die het opnemen van voedingsstoffen bevorderen.
 
-En dit geeft jullie ook de gelegenheid om samen lekker te theeleuten met elkaar. 
-
-Gezellig met opa en oma erbij.
+En dit geeft jullie ook de gelegenheid om samen lekker te theeleuten met elkaar. Gezellig met opa en oma erbij.
 
 **Om het even van een andere kant te bekijken.**
 
-Net als jij heeft je kind water nodig. 
-
-Thee bestaat voornamelijk uit water. 
+Net als jij heeft je kind water nodig. Thee bestaat voornamelijk uit water. 
 
 **Waarom drinken jullie geen water met voordelen voor het lichaam en geest?**
 
@@ -188,31 +158,17 @@ Er zijn verschillende risicofactoren die de kans op een luchtweginfectie vergrot
 
 ### Over pseudokroep
 
-Tot slot belichten we graag nog even kort pseudokroep voor de ouders onder ons. 
+Tot slot belichten we graag nog even kort pseudokroep voor de ouders onder ons. Pseudokroep is een ziekte voor kinderen van ongeveer 1-6 jaar oud. Als ouder is het goed om te weten dat 35% van de patiënten pseudokroep krijgt in de periode oktober tot en met december. Pseudokroep is op dezelfde manier overdraagbaar als covid-19. 
 
-Pseudokroep is een ziekte voor kinderen van ongeveer 1-6 jaar oud. 
-
-Als ouder is het goed om te weten dat 35% van de patiënten pseudokroep krijgt in de periode oktober tot en met december. 
-
-Pseudokroep is op dezelfde manier overdraagbaar als covid-19. 
-
-Het wordt veroorzaakt door een verkoudheidsvirus waardoor de symptomen vergelijkbaar zijn met de verkoudheid van een volwassenen. 
-
-Echter wat zeer typerend is voor pseudokroep is de zogenaamde blafhoest. Hiernaast komt bij het uitademen een gierend geluid uit uw kind. 
+Het wordt veroorzaakt door een verkoudheidsvirus waardoor de symptomen vergelijkbaar zijn met de verkoudheid van een volwassenen. Echter wat zeer typerend is voor pseudokroep is de zogenaamde blafhoest. Hiernaast komt bij het uitademen een gierend geluid uit uw kind. 
 
 Niet om aan te horen. 
 
-Veel ouders schrikken zich rot wanneer ze dit voor het eerst meemaken! 
+Veel ouders schrikken zich rot wanneer ze dit voor het eerst meemaken! Overbodig om te vermelden huilt je kind dan ook extra veel.
 
-Overbodig om te vermelden huilt je kind dan ook extra veel.
+Goed om te weten. Ivan Chai heeft een kalmerende werking op je centrale zenuwstelsel. 
 
-Goed om te weten. 
-
-Ivan Chai heeft een kalmerende werking op je centrale zenuwstelsel. 
-
-Dit vermindert bij mensen de kans op stress, angst en een burn-out. 
-
-Of het ook goed werkt tegen huilende kinderen is nog geen onderzoek over bekend. 
+Dit vermindert bij mensen de kans op stress, angst en een burn-out. Of het ook goed werkt tegen huilende kinderen is nog geen onderzoek over bekend. 
 
 ### Tips voor het drinken van Ivan Chai met kinderen
 
