@@ -8,7 +8,7 @@ sub-title: artikel| luchtweginfectie
 - infectie	
 - kinderen	
 - levensstijl
-Publish: IVAN'S
+Publish: IVAN's
   Author: Svetlana Petrova
 ---
 
