@@ -30,9 +30,7 @@ Goed.
 
 Laten we bij deze opnieuw beginnen.
 
-### Urineweginfecties
-
-Wist je dat...
+### Wist je dat...
 
 een urineweginfectie van invloed is op jullie relatie?
 
