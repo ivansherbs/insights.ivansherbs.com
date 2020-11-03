@@ -34,20 +34,20 @@ Dat klopt. En is deelt te verklaren door je **oerinstict**. Probeer je maar eens
 
 ### Soorten angst
 
-Wanneer we hedendaagse artikelen erbij pakken, zien we dat er grofweg drie verschillende soorten angsten zijn te onderscheiden. 
-**1.** Denk aan angst voor verwonding. 
+Wanneer we hedendaagse artikelen erbij pakken, zien we dat er grofweg drie verschillende soorten angsten zijn te onderscheiden. Denk aan
+**1.** Angst voor verwonding. 
 **2.** Angst voor het onzekere. 
-**3.** angst voor een negative evaluatie. 
+**3.** Angst voor een negative evaluatie. 
 
 Bij een intens of overmatig gevoel van bovenstaande. Wil je het liefst **op de vlucht slaan**. Wat in sommige gevallen ook wel te categoriseren valt als een **paniekaanval**. Net zoals ze vroeger ook al deden bij een aanval van het één of ander. 
 
 Nu zul je tegenwoordig niet zomaar meer worden aangevallen met fysieke pijn tot gevolg. Toch komt angst vaker voor dan je denk. Echter zijn namelijk ook lichtere vormen van angst. 
 
-Angst kent namelijk vele verschillende vormen. En vaak ook minder heftig dan je denkt. Makkelijk te verbergen. En grappig genoeg komen dus deze lichtere vormen van angst **op dagelijkse basis** vaker voor dan je denkt. Hier gaan we het dus over hebben. 
+Angst kent namelijk vele verschillende vormen. En vaak ook minder heftig dan je denkt. Makkelijk te verbergen. En grappig genoeg komen dus deze lichtere vormen van angst op dagelijkse basis vaker voor dan je denkt. Hier gaan we het dus over hebben. 
 
 We proberen het uit te leggen met een paar voorbeelden.
 
-Te beginnen met **sociale angst**. Hierbij speelt de angst om eindelijk **écht te kunnen zeggen wat je ergens van vindt** een belangrijke rol. Dit gebeurt vaak op de werkvloer. 
+Te beginnen met **sociale angst**. Hierbij speelt de angst om eindelijk écht te kunnen zeggen wat je ergens van vindt een belangrijke rol. Dit gebeurt vaak op de werkvloer. 
 
 In een vergadering. 
 
@@ -79,15 +79,15 @@ Naast sociale angst bestaat bijvoorbeeld **faalangst**.
 
 Tevens een vorm van angst op dagelijkse basis.
 
-**Denk aan die ene keer** in een overvolle collegezaal. Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen. Om vervolgens met eer en geweten weer plaats te mogen nemen. Waarbij je het gevoel hebt overgehouden iedereen de les te hebt gelezen. 
+**Denk aan die ene keer in een overvolle collegezaal.** Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen. Om vervolgens met eer en geweten weer plaats te mogen nemen. Waarbij je het gevoel hebt overgehouden iedereen de les te hebt gelezen. 
 
 Wellicht een fijne gedachten. Op angst kun je jezelf vaak niet voorbereiden. Zoals in een ziekenhuis.
 
 De emoties kunnen hoog opspelen wanneer er eventueel pijn kan worden geleden. **Oók bij lichtere operaties**. Of wanneer je van je arts weer moet leren lopen na het scheuren van je enkelbanden. Of wat dachten we van angst in de vorm van een **fobie**. Zoals angst voor spinnen. Of honden...
 
-Oke…
+Oke.
 
-het is duidelijk. 
+Het is duidelijk. 
 
 **We kunnen nog even doorgaan.** Er zijn veel verschillende vormen van angst. En ja. Het komt op dagelijkse basis meer voor dan je denkt.  
 
@@ -99,7 +99,9 @@ Ja.
 
 Echter gaat dit niet snel. 
 
-**Veel vormen van angst kun je niet van de ene op de andere dag kwijt raken.** Wat je echter wel kunt doen is lichtere vormen van angst op eenvoudige wijze verminderen. Waardoor je zelfverzekerder door het leven gaat. Zo zijn er tal van mogelijkheden die al bijdragen aan.
+**Veel vormen van angst kun je niet van de ene op de andere dag kwijt raken.** 
+
+Wat je echter wel kunt doen is lichtere vormen van angst op eenvoudige wijze verminderen. Waardoor je zelfverzekerder door het leven gaat. Zo zijn er tal van mogelijkheden die al bijdragen aan.
 
 Denk aan goed voorbereid op pad gaan. Het aanpassen van je dieet. En er zelfverzekerd uitzien. Er zijn tal van voorbeelden te noemen. 
 
