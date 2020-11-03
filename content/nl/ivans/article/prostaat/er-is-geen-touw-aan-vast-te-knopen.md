@@ -34,13 +34,11 @@ Je kan je hele leven naar eigen inziens hebben ingedeeld met de beschikbare gezo
 
 En voor ons gevoel zijn dat er veel.  
 
-(reminder: +50 jaar / 30%)
+* Reminder: +50 jaar / 30%
 
 Deze problemen kunnen de dagelijkse bezigheden flink verstoren. Je kan zelf wel bedenken hoe, op wat voor een manier en waar. Dat gaan we je voor nu niet uitleggen. 
 
-Wel dat het een probleem is om al rekening mee te houden op **‘jongere’ leeftijd**.
-
-Even voor de duidelijkheid. Met jongere leeftijd bedoelen we hiermee **rond de 45 jaar**.
+Wel dat het een probleem is om al rekening mee te houden op **‘jongere’ leeftijd**. Even voor de duidelijkheid. Met jongere leeftijd bedoelen we hiermee **rond de 45 jaar**.
 
 Wij willen je naar aanleiding van onze bewering graag nog even het volgende meegeven. **Het is verstandig** zo nu en dan je lichaam even goed te spoelen met Siberische kruidenthee. 
 
@@ -70,9 +68,9 @@ En met succes!
 * Ivan Chai gaat óók de groei van de prostaat tegen.
 
 **Mooi bijkomend voordeel**
-* Ivan Chai verzorgt de urinewegen.
+* Ivan Chai verzorgt tevens de urinewegen.
 
-* Ook voor vrouwen! 
+* Ook voor vrouwen.
 
 > Verzorg je lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op prostaatklachten te verminderen.
 
