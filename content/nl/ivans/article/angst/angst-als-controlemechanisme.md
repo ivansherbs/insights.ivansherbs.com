@@ -41,7 +41,9 @@ Wanneer we hedendaagse artikelen erbij pakken, zien we dat er grofweg drie versc
 
 Bij een intens of overmatig gevoel van bovenstaande. Wil je het liefst **op de vlucht slaan**. Wat in sommige gevallen ook wel te categoriseren valt als een **paniekaanval**. Net zoals ze vroeger ook al deden bij een aanval van het één of ander. 
 
-Nu zul je tegenwoordig niet zomaar meer worden aangevallen met fysieke pijn tot gevolg. Toch komt angst vaker voor dan je denk. Echter zijn namelijk ook lichtere vormen van angst. Angst kent namelijk vele verschillende vormen. En vaak ook minder heftig dan je denkt. Makkelijk te verbergen. En grappig genoeg komen dus deze lichtere vormen van angst **op dagelijkse basis** vaker voor dan je denkt. Hier gaan we het dus over hebben. 
+Nu zul je tegenwoordig niet zomaar meer worden aangevallen met fysieke pijn tot gevolg. Toch komt angst vaker voor dan je denk. Echter zijn namelijk ook lichtere vormen van angst. 
+
+Angst kent namelijk vele verschillende vormen. En vaak ook minder heftig dan je denkt. Makkelijk te verbergen. En grappig genoeg komen dus deze lichtere vormen van angst **op dagelijkse basis** vaker voor dan je denkt. Hier gaan we het dus over hebben. 
 
 We proberen het uit te leggen met een paar voorbeelden.
 
