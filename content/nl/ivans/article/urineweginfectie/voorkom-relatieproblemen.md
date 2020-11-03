@@ -2,7 +2,7 @@
 layout: article.html
 Title: Voorkom relatieproblemen
 sub-title: artikel| urineweginfectie
-Publish: IVAN'S
+Publish: IVAN's
   Author: Svetlana Petrova
   tags: 
   - vrouw
