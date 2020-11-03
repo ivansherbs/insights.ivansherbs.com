@@ -529,7 +529,7 @@ Denk na. Gebruik effectieve, veilige en bewezen kruidengeneeskunde voor uw gezon
 
 .................
 
-# Versterk de gezondheidszorg
+# Versterk onze gezondheidszorg
 
 Maak de farmaceutische industrie niet onnodig groot. 
 
