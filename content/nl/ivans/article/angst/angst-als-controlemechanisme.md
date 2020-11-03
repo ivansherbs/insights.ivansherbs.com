@@ -67,7 +67,9 @@ Bovenstaande voorbeelden spelen zich met name af in het bedrijfsleven.
 
 https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=sharing
 
-Echter zijn er ook vergelijkbare situaties buiten de werkvloer. **Angst is namelijk een emotie van alle leeftijden.** Zo is er angst om ergens voor het eerst aan mee te doen. Denk aan kinderen die vriendjes moeten maken. Of voor het eerst aan een teamsport meedoen en het spel niet snappen. Geef nou maar gewoon toe. 
+**Angst is een emotie van alle leeftijden.**
+
+Zo zijn er tal van vergelijkbare situaties en voorbeelden op te noemen buiten de werkvloer. Zo is er angst om ergens voor het eerst aan mee te doen. Denk aan kinderen die vriendjes moeten maken. Of voor het eerst aan een teamsport meedoen en het spel niet snappen. Geef nou maar gewoon toe. 
 
 **Ook jij had hier last van.**
 
