@@ -2,7 +2,7 @@
 layout: article.html
 Title: Angst als controlemechanisme
 sub-title: artikel| angst
-Publish: IVAN'S
+Publish: IVAN's
   Author: Svetlana Petrova
   tags:
   - mentale klachten
@@ -10,7 +10,7 @@ Publish: IVAN'S
   - eyeopener
 ---
 
-**Angst** is een emotie die we allen een keer hebben ervaren. 
+**ANGST** is een emotie die we allen een keer hebben ervaren. 
 
 De één heftiger dan de ander. Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Iets wat jij op dat moment als een bedreiging of gevaar hebt beschouwt.
 
@@ -65,7 +65,7 @@ Bovenstaande voorbeelden spelen zich met name af in het bedrijfsleven.
 
 https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=sharing
 
-Echter zijn er ook vergelijkbare situaties buiten de werkvloer. **Angst is namelijk een emotie van alle leeftijden.** Zo is er angst om ergens voor het eerst aan mee te doen. Denk aan kinderen die vriendjes moeten maken. Of voor het eerst aan een teamsport meedoen en het spel niet snappen. 
+Echter zijn er ook vergelijkbare situaties buiten de werkvloer. **Angst is namelijk een emotie van alle leeftijden.** Zo is er angst om ergens voor het eerst aan mee te doen. Denk aan kinderen die vriendjes moeten maken. Of voor het eerst aan een teamsport meedoen en het spel niet snappen. Geef nou maar gewoon toe. 
 
 **Ook jij had hier last van.**
 
