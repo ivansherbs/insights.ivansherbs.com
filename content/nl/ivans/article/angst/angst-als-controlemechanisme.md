@@ -69,7 +69,7 @@ https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=shari
 
 **Angst is een emotie van alle leeftijden.**
 
-Zo zijn er tal van vergelijkbare situaties en voorbeelden op te noemen buiten de werkvloer. Zo is er angst om ergens voor het eerst aan mee te doen. Denk aan kinderen die vriendjes moeten maken. Of voor het eerst aan een teamsport meedoen en het spel niet snappen. Geef nou maar gewoon toe. 
+Zo zijn er tal van vergelijkbare situaties en voorbeelden op te noemen buiten de werkvloer. Denk aan angst om ergens voor het eerst aan mee te doen. Kinderen die vriendjes moeten maken. Of voor het eerst aan een teamsport meedoen en het spel niet snappen. Geef nou maar gewoon toe. 
 
 **Ook jij had hier last van.**
 
