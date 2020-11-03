@@ -16,7 +16,7 @@ We gaan het nu kort hebben over een heel gevaarlijk probleem.
 
 Namelijk.
 
-Prostaatkanker.
+### PROSTAATKANKER
 
 * Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. 
 
@@ -32,9 +32,11 @@ Vóór je 50ste is prostaatkanker namelijk zeer zeldzaam.
 
 https://drive.google.com/file/d/1hqkfTq3sOLZNmO4T40S1gmG6dqMxGoiQ/view?usp=sharing
 
-**Eenmaal prostaatkanker opgelopen.** Dan komen de meeste mannen er pas laat achter. Dit komt omdat prostaatkanker langzaam groeit. Vaak komt dit probleem pas aan het licht bij een medische controle. Dit komt omdat prostaatkanker wel degelijk de dagelijkse bezigheden flink kan dwarsbomen. 
+### Eenmaal prostaatkanker opgelopen.
 
-Mannen bezoeken dan een arts vanwege lichte prostaatklachten. **Onder lichte prostaatklachten** verstaan we symptomen vergelijkbaar met die van een vergrote prostaat. Er zit echter wel enig verschil in deze twee problemen. 
+Dan komen de meeste mannen er pas laat achter. Dit komt omdat prostaatkanker langzaam groeit. Vaak komt dit probleem pas aan het licht bij een medische controle. Dit komt omdat prostaatkanker wel degelijk de dagelijkse bezigheden flink kan dwarsbomen. 
+
+Mannen bezoeken dan een arts vanwege lichte prostaatklachten. Onder lichte prostaatklachten verstaan we symptomen vergelijkbaar met die van een vergrote prostaat. Er zit echter wel enig verschil in deze twee problemen. 
 
 Een vergrote prostaat is een goedaardige aandoening. Het blijft hierdoor bij een controle altijd even spannend welke van de problemen je last hebt. 
 
