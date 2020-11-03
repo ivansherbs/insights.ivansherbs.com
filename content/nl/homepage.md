@@ -503,7 +503,7 @@ https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=shari
 
 artikel| **buikgriep**
 
-Lees nu het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW en nu zit ze ook nog eens ongelooflijk hard aan de DIARREE.
+Lees nu het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW en nu zit ze ook nog eens ontzettend hard aan de DIARREE.
 
 Met name vrouwen hebben last van darmklachten. Van het prikkelbare darm syndroom is 75% van de patiënten vrouw... 
 
@@ -527,12 +527,10 @@ Maak de farmaceutische industrie niet onnodig groot.
 
 Denk na. Gebruik effectieve, veilige en bewezen kruidengeneeskunde voor uw gezondheid. 
 
+.................
 
+# Versterk de gezondheidszorg
 
+Maak de farmaceutische industrie niet onnodig groot. 
 
-
-
-
-
-
-
+Gebruik veilige en bewezen effectieve kruidengeneeskunde voor je gezondheidsproblemen. 
