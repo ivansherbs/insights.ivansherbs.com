@@ -56,7 +56,7 @@ Namelijk met **grootschalig klinisch onderzoek**. Echter moeten **duizenden pati
 
 Dit is een arbeidsintensief proces waarbij het onderzoek tevens afhankelijk is van de welwillendheid van de al die patiënten om het onderzoek succesvol af te ronden.
 
-**Klinische onderzoeken kosten tijd. Veel tijd welteverstaan.** Hierbij moet je denken aan jaren om de effectiviteit van een behandeling te kunnen aantonen. Daarom mogen we van geluk spreken van onderzoekers als Maria Treben die zich hiervoor inzetten.
+**Klinische onderzoeken kosten tijd.** Veel tijd welteverstaan. Hierbij moet je denken aan jaren om de effectiviteit van een behandeling te kunnen aantonen. Daarom mogen we van geluk spreken van onderzoekers als Maria Treben die zich hiervoor inzetten.
 
 **Om de werkzaamheid van Ivan Chai tegen prostaatklachten aan te tonen** heeft Maria Treben meerdere keren grootschalig klinisch onderzoek verricht.
 
