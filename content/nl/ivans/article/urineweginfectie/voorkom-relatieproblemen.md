@@ -172,3 +172,7 @@ Nog even ter info. Waar wij je bewust van willen maken is het volgende. De kans 
 Ivan Chai heeft ook een kalmerende werking op je centrale zenuwstelsel; waardoor het de kans op mentale klachten vermindert. Zoals stress en angst. 
 
 Beide goed voor je relatie! 
+
+Dus. Recapitulerend en terugkijkende op dit artikel. 
+
+### Wat zou jij doen? 
