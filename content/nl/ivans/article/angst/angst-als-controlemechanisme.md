@@ -35,10 +35,9 @@ Dat klopt. En is deelt te verklaren door je **oerinstict**. Probeer je maar eens
 ### Soorten angst
 
 Wanneer we hedendaagse artikelen erbij pakken, zien we dat er grofweg drie verschillende soorten angsten zijn te onderscheiden. 
-
-* **1.** Denk aan angst voor verwonding. 
-* **2.** Angst voor het onzekere. 
-* **3.** angst voor een negative evaluatie. 
+**1.** Denk aan angst voor verwonding. 
+**2.** Angst voor het onzekere. 
+**3.** angst voor een negative evaluatie. 
 
 Bij een intens of overmatig gevoel van bovenstaande. Wil je het liefst **op de vlucht slaan**. Wat in sommige gevallen ook wel te categoriseren valt als een **paniekaanval**. Net zoals ze vroeger ook al deden bij een aanval van het één of ander. 
 
