@@ -161,7 +161,7 @@ Geinig he?
 
 Om nog even terug te komen op het grootschalig Europees onderzoek waar we mee zijn begonnen. 
 
-**Uit dit onderzoek** is gebleken dat 57% van de patiënten met een terugkerende blaasontsteking aangaf dat hun relatie er negatief door werd beïnvloed. Het heeft zelfs zoveel impact dat dit probleem zelfs van invloed is op de **kwaliteit van je leven!** En dan hebben we het niet alleen over de jouwe. Maar ook die van je partner.
+**Uit dit onderzoek** is gebleken dat 57% van de patiënten met een **terugkerende blaasontsteking** aangaf dat hun relatie er negatief door werd beïnvloed. Het heeft zelfs zoveel impact dat dit probleem zelfs van invloed is op de **kwaliteit van je leven!** En dan hebben we het niet alleen over de jouwe. Maar ook die van je partner.
 
 Met relatieproblemen tot gevolg. 
 
