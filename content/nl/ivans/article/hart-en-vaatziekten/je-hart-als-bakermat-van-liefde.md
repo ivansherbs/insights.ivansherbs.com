@@ -39,7 +39,9 @@ https://drive.google.com/file/d/1pL-XQzOhZQ9sA9vYbB-O6g_YYt4eq9uj/view?usp=shari
 
 **Bij een periode** met intense gevoelens wordt je hart aan het werk gezet. En hoogstwaarschijnlijk met heel veel tegenzin. En nu komt het probleem. 
 
-**Gedurende deze periode** bestaat de kans dat je hart spreekwoordelijk gezegd een extra marathon loopt. En dat allemaal zonder dat je er erg in hebt.Dit is schadelijk voor je lichaam. En nu. Even voor het gemak. Neem ik aan dat je zelf al de link hebt gelegd tussen hartkloppingen, bloedvaten, de verbinding met organen, bloeddruk en ziekten die op de loer liggen. 
+**Gedurende deze periode** bestaat de kans dat je hart spreekwoordelijk gezegd een extra marathon loopt. En dat allemaal zonder dat je er erg in hebt.
+
+**Dit is schadelijk voor je lichaam.** En nu. Even voor het gemak. Neem ik aan dat je zelf al de link hebt gelegd tussen hartkloppingen, bloedvaten, de verbinding met organen, bloeddruk en de nodige hart- en vaatziekten die dan op de loer liggen. 
  
 **Gezien de complexiteit** van alleen al het hart en de verbindende taak van je bloedvaten zijn hart- en vaatziekten moeilijk te herkennen. Bewustwording is een eerste stap richting het preventief behandelen van deze problemen.
 
