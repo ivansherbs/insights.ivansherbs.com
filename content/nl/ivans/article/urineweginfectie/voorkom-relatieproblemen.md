@@ -163,23 +163,12 @@ Om nog even terug te komen op het grootschalig Europees onderzoek waar we mee zi
 
 Met relatieproblemen tot gevolg. 
 
-Helemaal wanneer we dit vanuit holistisch perspectief combineren met de overige 6 punten wat van invloed is op jullie leven. 
+Helemaal wanneer we dit vanuit holistisch perspectief combineren met de overige 6 punten wat van invloed is op jullie leven. De (tevens zeer verrassende) statistieken van deze oorzaken bespreken we wel een andere keer. 
 
-De (tevens zeer verrassende) statistieken van deze oorzaken bespreken we wel een andere keer. 
+Nog even ter info. Waar wij je bewust van willen maken is het volgende. De kans om een probleem als een urineweginfectie te verminderen is mogelijk met **eenvoudige en biologische alledaagse producten**. Denk aan Ivan Chai. Een Siberische kruidenthee. 
 
-Nog even ter info
-> Waar wij je bewust van willen maken is het volgende. 
+**Bijkomende voordelen.** 
 
-De kans om een probleem als een urineweginfectie te verminderen is mogelijk met **eenvoudige en biologische alledaagse producten**. 
-
-Denk aan Ivan Chai.
-
-**Een Siberische kruidenthee**. 
-
-Bijkomende voordelen. 
-
-Ivan Chai heeft ook een kalmerende werking op je centrale zenuwstelsel; waardoor het de kans op mentale klachten vermindert. 
-
-Zoals stress en angst. 
+Ivan Chai heeft ook een kalmerende werking op je centrale zenuwstelsel; waardoor het de kans op mentale klachten vermindert. Zoals stress en angst. 
 
 Beide goed voor je relatie! 
