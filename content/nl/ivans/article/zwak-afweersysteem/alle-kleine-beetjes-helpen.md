@@ -58,7 +58,7 @@ _precies zoals moeders je had beloofd.”_
 
 **Om verwarring te voorkomen.** Dit artikel gaat over een zwak afweersysteem. Maar is niet alleen geschreven voor ex-kankerpatiënten en ouderen. De reden is als volgt. 
 
-_"Ik mag hopen dat die al op de hoogte zijn over wat ik in dit artikel aan jou ga vertellen. Dit artikel is dan ook bedoeld voor mensen die een zwak afweersysteem willen voorkomen."_
+_"Ik mag hopen dat die al op de hoogte zijn over wat ik in dit artikel aan jou ga vertellen. Dit artikel is dan ook bedoeld voor iedereen die een zwak afweersysteem wil voorkomen."_
 
 **Zodat je jezelf beter kunt voorbereiden op de toekomst.** Waarbij je hopelijk tot de realisatie komt. Dat alle kleine beetjes helpen... En omdat een zwak afweersysteem toch wel vervelende consequenties kan hebben voor je dagelijkse bezigheden. 
 
