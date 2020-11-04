@@ -74,7 +74,8 @@ _"Ik mag hopen dat die al op de hoogte zijn over wat ik in dit artikel aan jou g
 
 **Denk eerst even aan het volgende.** Soms wordt je gedwongen om veel tijd en energie te stoppen in het versterken van je afweersysteem. Gedwongen door kanker. Of gedwongen door ouderdom. Want.
 
-**Waar hebben we het nou eigenlijk over?** Laten we beginnen met het afweersysteem. Je afweersysteem beschermt je lichaam tegen ziekten. Jammer genoeg, ben je niet altijd gezegend met een goed afweersysteem. Hierdoor ben je kwetsbaar voor nieuwe problemen. 
+**Waar hebben we het nou eigenlijk over?** <br>
+Laten we beginnen met het afweersysteem. Je afweersysteem beschermt je lichaam tegen ziekten. Jammer genoeg, ben je niet altijd gezegend met een goed afweersysteem. Hierdoor ben je kwetsbaar voor nieuwe problemen. 
 
 **Fysiek en mentaal.** Laten we voor het gemak op anciënniteit beginnen. Zoals de normen en waarden in ons landje dat toch wel van ons verwachten. Heeft te maken met iets als respect. En los daarvan. Het ligt in de lijn der verwachtingen dat iedereen oud wordt. 
 
@@ -94,7 +95,8 @@ Het ligt tevens in de lijn der verwachtingen dat wanneer je ouder wordt bepaalde
 
 Je weet dus dat dit fenomeen er één keer per jaar aankomt. Dus door het consumeren van de juiste voedingsstoffen kun je een zwak afweersysteem voorkomen. 
 
-**Wist je dat…?** Vitamine c rijkelijk te vinden is in Ivan Chai. En dat is goed nieuws. Want. Vitamine c geeft je afweersysteem een boost. Iets wat je naar mate je ouder wordt goed kunt gebruiken. Of wanneer je dagelijkse leven is beïnvloed door een ernstige ziekte. Dit zijn voorbeelden waarbij het herstelproces alleen al enkele maanden in beslag neemt. In sommige gevallen zelfs jaren. Ik bespreek bij deze alleen de ex-patiënten van één ernstige ziekte. Namelijk. 
+**Wist je dat…?** <br>
+Vitamine c rijkelijk te vinden is in Ivan Chai. En dat is goed nieuws. Want. Vitamine c geeft je afweersysteem een boost. Iets wat je naar mate je ouder wordt goed kunt gebruiken. Of wanneer je dagelijkse leven is beïnvloed door een ernstige ziekte. Dit zijn voorbeelden waarbij het herstelproces alleen al enkele maanden in beslag neemt. In sommige gevallen zelfs jaren. Ik bespreek bij deze alleen de ex-patiënten van één ernstige ziekte. Namelijk. 
 
 ### Ex-kankerpatiënten
 
@@ -108,13 +110,15 @@ Om te beginnen. We mogen van geluk spreken dat er iets bestaat als chemotherapie
 
 **Alle kleine beetjes helpen.** Voor het versterken van je afweersysteem. 
 
-**Wist je dat…?** De antimicrobiële eigenschappen van Ivan Chai goed zijn bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
+**Wist je dat…?** <br>
+De antimicrobiële eigenschappen van Ivan Chai goed zijn bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
 ### Simpel gezegd 
 
 Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd. Top. Je bent weer wat wijzer geworden.
 
-**Is er dan ook iets als eigen schuld?** Ja. Zo zou je het kunnen noemen. Soms kan het ook liggen aan je levensstijl waardoor je een zwak afweersysteem hebt. Bij deze nog even twee voor de hand liggende voorbeelden. Die je wel in de categorie 'eigen schuld' durft te plaatsen. En. Om het af te leren...
+**Is er dan ook iets als eigen schuld?** <br>
+Ja. Zo zou je het kunnen noemen. Soms kan het ook liggen aan je levensstijl waardoor je een zwak afweersysteem hebt. Bij deze nog even twee voor de hand liggende voorbeelden. Die je wel in de categorie 'eigen schuld' durft te plaatsen. En. Om het af te leren...
 
 ### 1. Slechte voeding
 
