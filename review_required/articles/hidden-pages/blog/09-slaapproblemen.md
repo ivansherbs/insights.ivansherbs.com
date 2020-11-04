@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Stress als katalysator op slapeloosheid
+title: Slapeloosheid door stress en een telefoon
 sub-title: artikel| slaapproblemen
 Publish: IVAN's
   Author: Svetlana Petrova
@@ -19,9 +19,7 @@ We spreken wél van een slaapprobleem wanneer je méér dan 2 keer per week, mee
 
 **De oorzaken** van dit probleem lopen erg uiteen. Hierbij moeten we denken aan een combinatie van persoonlijke omstandigheden een toenemende mate van technologie in ons dagelijks leven. Ook je voedingspatroon speelt een belangrijke rol op je nachtrust. 
 
-Echter. 
-
-### Boosdoener
+## Boosdoener
 
 **Door onderzoek van de afgelopen jaren** zijn we tot de conclusie gekomen dat met name stress de grote boosdoeners is. Stress werkt als een katalysator op slaapproblemen. Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning. Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. Denk aan een paar maanden op rij. 
 
