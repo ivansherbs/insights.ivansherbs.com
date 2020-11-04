@@ -2,8 +2,8 @@
 layout: article.html
 title: Stress als katalysator op slaapproblemen
 sub-title: artikel| slaapproblemen
-Publish: IVAN'S
-  Author: Ivan Alexandrovitsj
+Publish: IVAN's
+  Author: Svetlana Petrova
   tags:
   - mentale klachten
   - werk
@@ -20,6 +20,8 @@ We spreken wél van een slaapprobleem wanneer je méér dan 2 keer per week, mee
 **De oorzaken** van dit probleem lopen erg uiteen. Hierbij moeten we denken aan een combinatie van persoonlijke omstandigheden een toenemende mate van technologie in ons dagelijks leven. Ook je voedingspatroon speelt een belangrijke rol op je nachtrust. 
 
 Echter. 
+
+### Stress
 
 **Door onderzoek van de afgelopen jaren** zijn we tot de conclusie gekomen dat met name stress de grote boosdoeners is. Wat letterlijk werkt als een katalysator op een slaapprobleem. Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning. Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. Denk aan een paar maanden op rij. 
 
