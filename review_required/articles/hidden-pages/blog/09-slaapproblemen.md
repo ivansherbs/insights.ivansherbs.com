@@ -11,7 +11,7 @@ Publish: IVAN's
   - nachtrust
  ---
 
-**Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker. Je kent het wel. Alsof je een goede plafonddienst hebt gedraaid. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
+**Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
 
 ### Wanneer spreken we wél van een slaapprobleem?
 
