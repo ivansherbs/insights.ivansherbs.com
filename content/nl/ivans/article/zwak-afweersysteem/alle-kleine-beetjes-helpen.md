@@ -56,7 +56,7 @@ _precies zoals moeders je had beloofd.”_
 
 **Zo.** Welke vind je mooier? Trouwens. Laat ik het gelijk even duidelijk maken. 
 
-**Om verwarring te voorkomen.** Dit artikel gaat over een zwak afweersysteem. Maar is niet alleen geschreven voor ex-kankerpatienten en ouderen. De reden is als volgt. 
+**Om verwarring te voorkomen.** Dit artikel gaat over een zwak afweersysteem. Maar is NIET ALLEEN GESCHREVEN voor EX-KANKERPATIËNTEN en OUDEREN. De reden is als volgt. 
 
 _"Ik mag hopen dat die al op de hoogte zijn over wat ik in dit artikel aan jou ga vertellen. Dit artikel is dan ook bedoeld voor mensen die een zwak afweersysteem willen voorkomen."_
 
