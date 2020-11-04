@@ -18,15 +18,15 @@ Publish: IVAN's
 
 ### Een overbiddelijke kwestie
 
-“Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven. 
+_“Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven._
 
-Een afscheid waarbij het licht je uit je ogen kijkt.
+_Een afscheid waarbij het licht je uit je ogen kijkt._
 
-Het liefst wil je blijven tot de ouderdom je bij je kladden grijpt.
+_Het liefst wil je blijven tot de ouderdom je bij je kladden grijpt._
 
-Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat. 
+_Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat._
 
-God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak afweersysteem voor langere duur je de nodige weerstand blijven geven.” 
+_God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak afweersysteem voor langere duur je de nodige weerstand blijven geven.”_
 
 .................
 
@@ -46,21 +46,21 @@ Hier gaan we.
 
 ### Een lang en plezierig leven
 
-“Je voelt het onregelmatig door je lichaam, zo’n beetje iedere dag. Maar je blijft wel alsmaar ouder worden, gelukkig wel met een lach. 
+_“Je voelt het onregelmatig door je lichaam, zo’n beetje iedere dag. Maar je blijft wel alsmaar ouder worden, gelukkig wel met een lach._ 
 
-Rustiger aan doen is je dan ook op je lijf geschreven. Al heb je zo nu en dan te maken met onoverkoombaar trillerig bewegen.
+_Rustiger aan doen is je dan ook op je lijf geschreven. Al heb je zo nu en dan te maken met onoverkoombaar trillerig bewegen._
 
-Grijzer wordt je dan weer wél met de jaren. 
+_Grijzer wordt je dan weer wél met de jaren._
 
-Wat maak het ook uit?!.. 
+_Wat maak het ook uit?!.._
 
-op naar 't einde van je leven, met of zónder haren. 
+_op naar 't einde van je leven, met of zónder haren._
 
-Ziek worden gaat nu alleen wel wat gemakkelijker per dag. Zolang je maar lekker kunt blijven consumeren met een lach. 
+_Ziek worden gaat nu alleen wel wat gemakkelijker per dag. Zolang je maar lekker kunt blijven consumeren met een lach._
 
-Goed voor jou heb je toch nog wel de nodige intelligentie in je hoofd. Zodat je inderdaad een lang en plezierig leven zal leiden... 
+_Goed voor jou heb je toch nog wel de nodige intelligentie in je hoofd. Zodat je inderdaad een lang en plezierig leven zal leiden..._
 
-precies zoals moeders je had beloofd.”
+_precies zoals moeders je had beloofd.”_
 
 .................
 
