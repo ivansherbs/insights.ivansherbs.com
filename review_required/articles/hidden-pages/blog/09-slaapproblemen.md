@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Slapeloosheid door stress en een telefoon
+title: Stress en je telefoon als een katalysator op slapeloosheid
 sub-title: artikel| slaapproblemen
 Publish: IVAN's
   Author: Svetlana Petrova
@@ -21,7 +21,7 @@ We spreken wél van een slaapprobleem wanneer je méér dan 2 keer per week, mee
 
 ### Slapeloosheid
 
-**Door onderzoek van de afgelopen jaren** zijn we tot de conclusie gekomen dat met name stress de grote boosdoeners is. Stress werkt als een katalysator op slaapproblemen. Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning. Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. Denk aan een paar maanden op rij. 
+**Door onderzoek van de afgelopen jaren** zijn we tot de conclusie gekomen dat met name stress de grote boosdoeners is. Stress werkt als een katalysator op slapeloosheid. Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning. Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. Denk aan een paar maanden op rij. 
 
 **Gezien dit probleem** met mondjesmaat groeit, loop je er mee rond zonder dat je dit door hebt. En neem je het óók mee naar bed. Je hoofd kan gedurende de nacht geen rust vinden door alle drukte. Je valt hierdoor moeilijk in slaap valt. 
 
