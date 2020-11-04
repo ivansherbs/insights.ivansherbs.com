@@ -124,7 +124,9 @@ Los deze puzzel zelf maar op.
 
 Laat ik het nogmaals herhalen. **Alle kleine beetjes helpen om je afweersysteem sterk te houden.** Wat erbij kan helpen zijn eenvoudige en biologische alledaagse producten.
 
-Denk aan Ivan Chai. Een Siberische kruidenthee met 7 voordelen. De bewustwording onder consumenten moet nog worden gecreëerd,dat je met kleine veranderingen op langere termijn winst kan behalen.
+Met kleine veranderingen in alledaagse producten kun je op langere termijn gemakkelijk winst behalen. Voor lichaam en geest
+
+**Denk aan Ivan Chai. Een Siberische kruidenthee met 7 voordelen.**
 
 Drink Ivan Chai preventief tegen een zwak afweersysteem. Of om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
 
