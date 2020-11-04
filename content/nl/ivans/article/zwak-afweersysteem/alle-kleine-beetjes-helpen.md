@@ -116,7 +116,7 @@ Dit weet je eigenlijk ook wel. Door het constant eten van slechte voeding krijg 
 
 ### 2. Roken
 
-Nicotine maakt letterlijk vitamine kapot. Hierdoor verstoor je de opnamen van je voedingsstoffen. Dit valt het makkelijkst te veranderen in vergelijking met de overige oorzaken. Hoe gaan we je dan ook gewoon niet vertellen.
+Nicotine maakt letterlijk vitamine kapot. Je verstoort hiermee de opnamen van je voedingsstoffen. Dit valt het makkelijkst te veranderen in vergelijking met de overige oorzaken. Hoe ga ik je dan ook gewoon niet vertellen.
 
 Los deze puzzel zelf maar op.
 
