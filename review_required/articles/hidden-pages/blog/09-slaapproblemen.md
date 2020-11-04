@@ -11,9 +11,9 @@ Publish: IVAN'S
   - nachtrust
  ---
 
-**Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
+**Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker. Je kent het wel. Alsof je een goede plafonddienst hebt gedraaid. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
 
-### Wanneer spreken we van een slaapprobleem?
+### Wanneer spreken we wél van een slaapprobleem?
 
 We spreken wél van een slaapprobleem wanneer je méér dan 2 keer per week, meerdere weken op rij, slecht slaapt. En hierdoor gedurende de week overdag niet normaal kunt functioneren.
 
