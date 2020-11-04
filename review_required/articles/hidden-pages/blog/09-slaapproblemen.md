@@ -1,15 +1,14 @@
 ---
 layout: article.html
-title: Het onzichtbare leger
-sub-title: artikel| infecties
-Publish: IVAN's 
+title: Stress en je telefoon als katalysator op slapeloosheid
+sub-title: artikel| slaapproblemen
+Publish: IVAN's
   Author: Svetlana Petrova
   tags:
-  - weerstand
-  - vrouw
-  - infecties
+  - mentale klachten
+  - werk
   - gevoel
-  - relatie
+  - nachtrust
 ---
 
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
@@ -53,7 +52,7 @@ https://drive.google.com/file/d/1IhyqqYMdLSB0qnJE0ZUDl28gHBBmLAK-/view?usp=shari
 
 Hun tere kleine kwetsbare kinder hersentjes komen hierdoor niet tot rust. Hierdoor kunnen ze zich moeilijker concentreren, ze worden onrustig wanneer ze niet online kunnen. En het aantal ruzies binnen gezinnen neemt toe. Uiteindelijk met een overmatige hoeveelheid aan stress tot gevolg. 
 
-**Dit wordt mede mogelijk gemaakt** door een telefoonverslaving. Niet te verwarren met een mobiele telefoon als extra prikkel met stress tot gevolg. Om slaapproblemen te verklaren bij kinderen (en ook bij volwassen die te vaak op hun ‘highly-sophisticated-hippe-smartphones fanatiek aan het swipen zijn), bekijken we dit telefoonverslavings probleem vanuit neurobiologisch perspectief. Gewoon omdat het kan en we er vooral niet te diep op ingaan. 
+**Dit wordt mede mogelijk gemaakt** door een telefoonverslaving. Ook goed als katalysator op slapeloosheid. Niet te verwarren met een mobiele telefoon als extra prikkel met stress tot gevolg. Om slaapproblemen te verklaren bij kinderen (en ook bij volwassen die te vaak op hun ‘highly-sophisticated-hippe-smartphones fanatiek aan het swipen zijn), bekijken we dit telefoonverslavings probleem vanuit neurobiologisch perspectief. Gewoon omdat het kan en we er vooral niet te diep op ingaan. 
 
 ### Telefoonverslaving
 
