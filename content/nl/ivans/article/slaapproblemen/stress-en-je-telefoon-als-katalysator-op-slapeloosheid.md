@@ -78,7 +78,7 @@ punt
 
 Hiernaast zijn er ook nog andere redenen waardoor jonge kinderen slaapproblemen kunnen oplopen. Al mogen we allen blij zijn dat de meeste problemen in de categorie “first-world-problems” valt in te delen. 
 
-1. Denk aan het niet kunnen slapen omdat ze piekeren over de juiste naam voor het konijn.... 2. Niet weten wie nou hun allerbeste vriendje is.... 3. Binnenkort op schoolkamp gaan en allemaal dingen moeten regelen.... 4. nog steeds bang zijn voor de wekelijkse rekentoets... en ga zo maar door. 
+Denk aan het niet kunnen slapen omdat ze piekeren over de juiste naam voor het konijn.... Niet weten wie nou hun allerbeste vriendje is.... Binnenkort op schoolkamp gaan en allemaal dingen moeten regelen.... Of nog steeds bang zijn voor de wekelijkse rekentoets... en ga zo maar door. 
 
 Oké. 
 
