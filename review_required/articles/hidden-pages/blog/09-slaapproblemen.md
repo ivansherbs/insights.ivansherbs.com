@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Stress als katalysator op slaapproblemen
+title: Stress als katalysator op slapeloosheid
 sub-title: artikel| slaapproblemen
 Publish: IVAN's
   Author: Svetlana Petrova
@@ -11,7 +11,7 @@ Publish: IVAN's
   - nachtrust
  ---
 
-**Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
+**Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
 
 ### Wanneer spreken we wél van een slaapprobleem?
 
@@ -21,9 +21,9 @@ We spreken wél van een slaapprobleem wanneer je méér dan 2 keer per week, mee
 
 Echter. 
 
-### Stress
+### Boosdoener
 
-**Door onderzoek van de afgelopen jaren** zijn we tot de conclusie gekomen dat met name stress de grote boosdoeners is. Wat letterlijk werkt als een katalysator op een slaapprobleem. Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning. Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. Denk aan een paar maanden op rij. 
+**Door onderzoek van de afgelopen jaren** zijn we tot de conclusie gekomen dat met name stress de grote boosdoeners is. Stress werkt als een katalysator op slaapproblemen. Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning. Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. Denk aan een paar maanden op rij. 
 
 **Gezien dit probleem** met mondjesmaat groeit, loop je er mee rond zonder dat je dit door hebt. En neem je het óók mee naar bed. Je hoofd kan gedurende de nacht geen rust vinden door alle drukte. Je valt hierdoor moeilijk in slaap valt. 
 
