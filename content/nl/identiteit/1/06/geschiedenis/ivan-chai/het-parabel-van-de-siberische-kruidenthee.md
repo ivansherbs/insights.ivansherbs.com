@@ -60,9 +60,3 @@ Er zouden geruchten zijn verspreid dat de Russen Ivan Chai vergiftigden met natt
 In de nasleep van de Russische revolutie van 1917 stopte de commerciële productie. De consumptie van Ivan Chai was vrijwel tot nul gedaald voor West-Europa en delen van Rusland. 
 
 Zelfs in Rusland bleef deze geneeskrachtige kruidenthee Ivan Chai wederom enigszins onbekend. Anno 2017 vond er langzaam een opleving plaats waarbij Ivan Chai werd geherintroduceerd in West-Europa.
-
-### 7 Voordelen
-
-Ivan Chai is door vele hedendaagse onafhankelijke instituten onderzocht, waaronder het European Medicines Agency te Amsterdam. Dit onafhankelijke instituut heeft de 'Committee on Herbal Medicinal Products' (CHMP) in het leven geroepen; wat zich volledig toewijdt aan het verzamelen en beoordelen van wetenschappelijke gegevens over kruiden.
-
-**Ivan Chai bevat 7 voordelen tegen 17 problemen.** Benieuwd welke geneeskrachtige werking de Siberische monniken, boerenmassa en hogere kringen aan het Russische hof destijds al genoten? 
