@@ -1,15 +1,16 @@
 ---
 layout: article.html
-title: Stress en je telefoon als een katalysator op slapeloosheid
-sub-title: artikel| slaapproblemen
-Publish: IVAN's
+title: Het onzichtbare leger
+sub-title: artikel| infecties
+Publish: IVAN's 
   Author: Svetlana Petrova
   tags:
-  - mentale klachten
-  - werk
+  - weerstand
+  - vrouw
+  - infecties
   - gevoel
-  - nachtrust
- ---
+  - relatie
+---
 
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
 
