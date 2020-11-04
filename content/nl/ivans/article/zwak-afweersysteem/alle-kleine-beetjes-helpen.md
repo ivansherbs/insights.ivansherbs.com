@@ -30,17 +30,7 @@ _God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zw
 
 .................
 
-**Mooi he?**
-
-Zo´n goed einde bij een gedicht over kanker.
-
-Oke.
-
-Nu nog ééntje maar dan voor speciaal voor ouderen. 
-
-Waarbij we de tekenen van ouderdom belichten.
-
-Hier gaan we. 
+**Mooi he?** Zo´n goed einde bij een gedicht over kanker. Laat ik er nog één voordragen, maar dan speciaal voor ouderen. Waarbij we de tekenen van ouderdom belichten.
 
 .................
 
