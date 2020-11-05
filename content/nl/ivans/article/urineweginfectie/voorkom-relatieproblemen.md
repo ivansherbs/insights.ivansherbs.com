@@ -34,7 +34,9 @@ Laten we bij deze opnieuw beginnen.
 
 een urineweginfectie van invloed is op jullie relatie?
 
-Dit zijn de bevindingen uit grootschalig Europees onderzoek. We kunnen begrijpen dat je niet direct de link legt tussen relatieproblemen en een urineweginfectie. Je kunt relatieproblemen namelijk vanuit meerdere perspectieven benaderen. Zoals je weet benaderen wij ieder probleem het liefst vanuit holistisch perspectief. Hiermee bedoelen we dat een probleem meerdere oorzaken heeft. 
+Dit zijn de bevindingen uit grootschalig Europees onderzoek. We kunnen begrijpen dat je niet direct de link legt tussen relatieproblemen en een urineweginfectie. 
+
+Je kunt relatieproblemen namelijk vanuit meerdere perspectieven benaderen. Zoals je weet benaderen wij ieder probleem het liefst vanuit holistisch perspectief. Hiermee bedoelen we dat een probleem meerdere oorzaken heeft. 
 
 Laten we dit holistische perspectief nog even kort doornemen. 
 
