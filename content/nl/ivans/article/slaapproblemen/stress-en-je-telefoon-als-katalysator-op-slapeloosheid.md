@@ -32,7 +32,7 @@ Veel Nederlanders hebben dus niet door dat ze langzaam door stress óók een sla
 
 Binnen dit onderzoek nemen de Nederlanders mee vanaf 12 jaar en ouder. Dus ook **kinderen**. Bij kinderen is stress ook één van de oorzaken van slecht slapen.
 
-### Kinderen
+### Kinderen en slapeloosheid
 
 Stress bij kinderen is moeilijk te herkennen. Het ontstaat door een combinatie van factoren waarbij een toenemende mate van technologie in ons dagelijks leven een belangrijke rol speelt. Speciaal voor de ouders en toekomstig ouders onder ons nog even wat extra achtergrond informatie. 
 
