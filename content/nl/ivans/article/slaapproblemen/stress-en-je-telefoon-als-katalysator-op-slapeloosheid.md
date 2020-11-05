@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: 20 tot 30% van de Nederlanders slaapt slecht
+title: Slapeloosheid als gevolg van stress en je telefoon
 sub-title: artikel| slaapproblemen
 Publish: IVAN's
   Author: Svetlana Petrova
