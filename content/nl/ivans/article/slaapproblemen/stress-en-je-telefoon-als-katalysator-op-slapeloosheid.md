@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Stress en je telefoon als katalysator op slapeloosheid
+title: 20 tot 30% van de Nederlanders slaapt slecht
 sub-title: artikel| slaapproblemen
 Publish: IVAN's
   Author: Svetlana Petrova
