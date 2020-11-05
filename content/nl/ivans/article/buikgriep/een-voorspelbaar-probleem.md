@@ -81,7 +81,7 @@ Wat je dus eigenlijk doet is gewoon even in de toekomst kijken. We gaan je deze 
 
 We geven je bij deze wat houvast mee zodat ook jij in de TOEKOMST kunt kijken. Hierdoor kun je de kans op DARMKLACHTEN die zorgen voor nare situaties verminderen.
 
-Dit doen we in de vorm van **3 TIPS.
+Dit doen we in de vorm van **3 TIPS**.
 
 https://drive.google.com/file/d/1IgCEryUDLbFkXy92lN1XAUkOIVoWBCPY/view?usp=sharing
 
