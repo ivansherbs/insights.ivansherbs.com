@@ -55,7 +55,7 @@ Dus ja. En hier bovenop. Ben ik nu ook nog eens mijn hormoonhuishouding flink DO
 
 Door de ANTICONCEPTIEPIL. Juist ja.
 
-Zul je net zien. Mijn HORMOON-HUISHOUDING. Konden ze nou niet even een normaal woord vinden? 
+Zul je net zien. Mijn HORMOON-HUISHOUDING. Doe even normaal. Konden ze er nou niet even een gewoon woord voor vinden? 
 
 Ik heb dus geen zin om te stoppen met de anticonceptiepil. Maar ook wil ik geen condooms gebruiken.
 
