@@ -46,13 +46,7 @@ Voor de duidelijkheid. En om verwarring te voorkomen. Met het holistisch perspec
 
 Heel eenvoudig uitgelegd kan het zijn dat fysieke problemen een gevolg zijn van mentale problemen.
 
-En visa versa!
-
-Van onder naar boven!
-
-Van links naar rechts!
-
-En van top tot teen!
+En visa versa! Van onder naar boven! Van links naar rechts! En van top tot teen!
 
 Laten we eerst even een **TOP 7** aan oorzaken van **RELATIEPROBLEMEN** doornemen. Gewoon om even in te komen.
 
