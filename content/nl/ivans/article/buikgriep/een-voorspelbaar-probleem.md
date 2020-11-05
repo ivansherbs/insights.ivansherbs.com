@@ -61,11 +61,11 @@ Wat een gedoe. Wat ik dus merk is dat ik nu dus extra vaak last heb van mijn bui
 
 Hierdoor heb ik dus BUIKKRAMPEN. En door de ANTIBIOTICA komt het er extra vaak uitzetten.
 
-Het is verschrikkelijk. Je zou het ook wel een KLEIN DRAMA noemen.
+Het is gewoon VERSCHRIKKELIJK. Je zou het ook wel een KLEIN DRAMA noemen.
 
 Hier wil ik dus vanaf. Maar ik heb GEEN IDEE hoe. En of ik er makkelijk vanaf kan komen.
 
-Mijn vraag aan jou. Alweer. Voor de zoveelste keer. Maar nu toch echt hopelijk de laatste keer. Want ik wil dit niet meer. 
+Mijn vraag aan jou. ALWEER. Voor de zoveelste keer. Maar nu toch echt hopelijk de laatste keer. Want ik wil dit niet meer. 
 
 WAT ZOU JIJ DOEN?
 
