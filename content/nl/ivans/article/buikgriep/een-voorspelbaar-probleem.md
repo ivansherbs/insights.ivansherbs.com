@@ -35,11 +35,9 @@ Ik heb WEER een BLAASONTSTEKING. Voor de tweede keer dit jaar.
 
 Dus nu slik ik nog meer FARMACEUTISCHE pillen. Alweer. Want een NATUURLIJKE en niet-chemische OPLOSSING heb ik nog niet gevonden. 
 
-Ik zit er nu aan te denken dan maar te stoppen met de ANTICONCEPTIEPIL. Weer eentje minder. 
+Ik zit er nu aan te denken dan maar te stoppen met de ANTICONCEPTIEPIL. Weer eentje minder. Maar dat weet ik dus niet zeker. Want.
 
-Maar dat weet ik dus niet zeker.
-
-Ik wil helemaal nog geen kinderen. Of BETER nog. Misschien zelfs geen.
+Ik wil helemaal nog geen kinderen. Of BETER nog. Misschien zelfs GEEN.
 
 GADVERDAMME. Bleeeeh kinderen. Maar dat even terzijde.
 
