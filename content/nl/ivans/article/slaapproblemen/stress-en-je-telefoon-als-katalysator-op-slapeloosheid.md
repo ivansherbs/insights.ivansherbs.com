@@ -21,7 +21,9 @@ We spreken wél van een slaapprobleem wanneer je méér dan 2 keer per week, mee
 
 ### Slapeloosheid
 
-**Door onderzoek van de afgelopen jaren** zijn we tot de conclusie gekomen dat met name stress de grote boosdoeners is. Stress werkt als een katalysator op slapeloosheid. Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning. Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. Denk aan een paar maanden op rij. 
+Door onderzoek van de afgelopen jaren zijn we tot de conclusie gekomen dat met name stress de grote boosdoeners is. 
+
+**Stress werkt als een katalysator op slapeloosheid.** Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning. Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. Denk aan een paar maanden op rij. 
 
 **Gezien dit probleem** met mondjesmaat groeit, loop je er mee rond zonder dat je dit door hebt. En neem je het óók mee naar bed. Je hoofd kan gedurende de nacht geen rust vinden door alle drukte. Je valt hierdoor moeilijk in slaap valt. 
 
@@ -44,7 +46,7 @@ Stress bij kinderen is moeilijk te herkennen. Het ontstaat door een combinatie v
 
 Denk hierbij aan de volgende problemen. 
 
-Een overvolle agenda, het leven op school en daarnaast zijn het ook uitermate sociale wezens die behoefte hebben om zichzelf te ontplooien. Het verschil met vroeger is dat we tegenwoordig een mobiele telefoon hebben. Kinderen hebben hierdoor een extra prikkel die ze letterlijk overal mee naartoe nemen, waardoor ze hun hoofd niet vaak genoeg leeg maken. 
+**Een overvolle agenda**, het leven op school en daarnaast zijn het ook uitermate sociale wezens die behoefte hebben om zichzelf te ontplooien. Het verschil met vroeger is dat we tegenwoordig een mobiele telefoon hebben. Kinderen hebben hierdoor een extra prikkel die ze letterlijk overal mee naartoe nemen, waardoor ze hun hoofd niet vaak genoeg leeg maken. 
 
 https://drive.google.com/file/d/1IhyqqYMdLSB0qnJE0ZUDl28gHBBmLAK-/view?usp=sharing
 
