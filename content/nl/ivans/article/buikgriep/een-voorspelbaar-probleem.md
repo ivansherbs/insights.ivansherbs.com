@@ -77,7 +77,7 @@ X
 
 ### Wist je dat je het krijgen van buikkrampen vaak kunt voorspellen?
 
-Wat je dus eigenlijk doet is gewoon even in de toekomst kijken. We gaan je deze truc ook even leren. Wel zo makkelijk. Dit doe je door gewoon even LOGISCH na te denken wat voor periode er voor de boeg staat. 
+Wat je dus eigenlijk doet is gewoon even in de TOEKOMST kijken. We gaan je deze truc ook even leren. Wel zo makkelijk. Dit doe je door gewoon even LOGISCH na te denken wat voor periode er voor de boeg staat. 
 
 We geven je bij deze wat houvast mee zodat ook jij in de TOEKOMST kunt kijken. Hierdoor kun je de kans op DARMKLACHTEN die zorgen voor nare situaties verminderen.
 
