@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1zpQTg9zieA0FuUcRrxKRggCGvSDR09SJ/view?usp=shari
 
 **Je komt tot de realisatie** dat je stijf staat van de cortisol. En dat je zwaar gespannen bent. Je bent er nu eindelijk achter hoe stress écht voelt. Fijn he? Al dat werken. Waar veel mensen niet bij stilstaan is dat langdurige stress kan leiden tot nog heftigere problemen.
 
-**Hierbij moet je denken aan** angst en een burnout. Maar ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie. De gevolgen van stress zijn echter niet te overzien. Want je weet niet voor welke problemen je gevoelig bent. Totdat je het hebt.
+**Hierbij moet je denken aan** angst en een burn-out. Maar ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie. De gevolgen van stress zijn echter niet te overzien. Want je weet niet voor welke problemen je gevoelig bent. Totdat je het hebt.
 
 **Stel dat** je nog nooit veel stress hebt ervaren. Dan is het moeilijk om je te realiseren dat je last hebt van een overmatige hoeveelheid aan stress. De eerste stap richting het aanpakken van stress, is het herkennen. Jezelf toegeven dat je er last van hebt. En dat er het één en ander aan moet veranderen. Dit probleem kun je aanpakken door het veranderen van je levensstijl.
 
