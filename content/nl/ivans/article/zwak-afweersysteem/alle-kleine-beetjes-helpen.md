@@ -64,7 +64,8 @@ _"Ik mag hopen dat die al op de hoogte zijn over wat ik in dit artikel aan jou g
 
 **Denk eerst even aan het volgende.** Soms wordt je gedwongen om veel tijd en energie te stoppen in het versterken van je afweersysteem. Gedwongen door kanker. Of gedwongen door ouderdom. Want.
 
-**Waar hebben we het nou eigenlijk over?** <br>
+**Waar hebben we het nou eigenlijk over?**
+
 Laten we beginnen met het afweersysteem. Je afweersysteem beschermt je lichaam tegen ziekten. Jammer genoeg, ben je niet altijd gezegend met een goed afweersysteem. Hierdoor ben je kwetsbaar voor nieuwe problemen. 
 
 **Fysiek en mentaal.** Laten we voor het gemak op anciënniteit beginnen. Zoals de normen en waarden in ons landje dat toch wel van ons verwachten. Heeft te maken met iets als respect. En los daarvan. Het ligt in de lijn der verwachtingen dat iedereen oud wordt. 
