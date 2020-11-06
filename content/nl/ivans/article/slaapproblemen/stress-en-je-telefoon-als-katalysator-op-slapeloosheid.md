@@ -82,9 +82,9 @@ punt
 
 **Hiernaast zijn er ook nog andere redenen** waardoor jonge kinderen slaapproblemen kunnen oplopen. Al mogen we allen blij zijn dat de meeste problemen in de categorie **“first-world-problems”** valt in te delen. Denk aan het niet kunnen slapen omdat ze piekeren over de juiste naam voor het konijn.... Niet weten wie nou hun allerbeste vriendje is.... Voor het eerst op schoolkamp en allemaal dingen moeten regelen.... Of nog steeds bang zijn voor de wekelijkse rekentoets... en ga zo maar door. 
 
-Oké. GENOEG OVER KINDEREN. Nu weer terug naar de werkende Nederlander. 
+Oké. GENOEG OVER KINDEREN. We gaan nu over op de tips.
 
-### Werkende Nederlander
+### Tips?
 
 Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook van invloed op je prestatie op werk. En iedereen die daar mee te maken heeft. Kun je nagaan hoeveel invloed dit probleem heeft op de Nederlandse economie. Hoeveel lees je verderop in het artikel. 
 
