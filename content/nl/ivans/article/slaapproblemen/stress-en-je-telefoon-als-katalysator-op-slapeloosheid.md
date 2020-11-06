@@ -80,7 +80,7 @@ punt
 
 .
 
-**Hiernaast zijn er ook nog andere redenen** waardoor jonge kinderen slaapproblemen kunnen oplopen. Al mogen we allen blij zijn dat de meeste problemen in de categorie **“first-world-problems”** valt in te delen. Denk aan het niet kunnen slapen omdat ze piekeren over de juiste naam voor het konijn.... Niet weten wie nou hun allerbeste vriendje is.... Binnenkort op schoolkp gaan en allemaal dingen moeten regelen.... Of nog steeds bang zijn voor de wekelijkse rekentoets... en ga zo maar door. 
+**Hiernaast zijn er ook nog andere redenen** waardoor jonge kinderen slaapproblemen kunnen oplopen. Al mogen we allen blij zijn dat de meeste problemen in de categorie **“first-world-problems”** valt in te delen. Denk aan het niet kunnen slapen omdat ze piekeren over de juiste naam voor het konijn.... Niet weten wie nou hun allerbeste vriendje is.... Voor het eerst op schoolkamp en allemaal dingen moeten regelen.... Of nog steeds bang zijn voor de wekelijkse rekentoets... en ga zo maar door. 
 
 Oké. GENOEG OVER KINDEREN. Nu weer terug naar de werkende Nederlander. 
 
@@ -88,15 +88,11 @@ Oké. GENOEG OVER KINDEREN. Nu weer terug naar de werkende Nederlander.
 
 Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook van invloed op je prestatie op werk. En iedereen die daar mee te maken heeft. Kun je nagaan hoeveel invloed dit probleem heeft op de Nederlandse economie. Hoeveel lees je verderop in het artikel. 
 
-**Om je nachtrust te verbeteren** zijn er tal van tips te vinden. Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten.
-
-Denk aan Ivan Chai. Een Siberische kruidenthee. Goed voor jong en oud. 
+**Om je nachtrust te verbeteren** zijn er tal van tips te vinden. Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten. Denk aan Ivan Chai. Een Siberische kruidenthee. Goed voor jong en oud. 
 
 > Onderzoek heeft aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. Wat goed werkt tegen stress. Een groot deel van slaapproblemen wordt veroorzaakt door stress. Met name dit probleem zorgt voor slapeloze nachten.
 
-**Let op!**
-
-Uiteraard zorgt een combinatie van tips en behandelingen voor het verbeteren van je nachtrust.
+**Let op!** Uiteraard zorgt een combinatie van tips en behandelingen voor het verbeteren van je nachtrust.
 
 **Zo ben je waarschijnlijk bekend met** het niet op een scherm kijken een half uur voor je gaat slapen, géén alcohol, géén cafeïne na 5 uur, zorgen voor voldoende sporten maar niet vlak voor je het bed instapt, een boek lezen, yoga, mindfulness en meditatie. En ga zo maar door.
 
