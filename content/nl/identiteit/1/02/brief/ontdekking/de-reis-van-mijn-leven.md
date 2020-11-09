@@ -39,11 +39,15 @@ Iedereen uit de groep was namelijk top fit. Echter merkten wij dat Ivan de groep
 https://drive.google.com/file/d/1ZrSFuSJLhhJ2I3h3_ewJ_-y-XfzbA22y/view?usp=sharing
 > De top van de Belukha in het Altaj gebergte
 
-Ivan is een herborist. En heeft gedurende zijn leven de pijlers gericht op het veelvuldig gebruik van kruiden. Kruiden om het lichaam en geest te versterken. Mede door deze ontmoeting, prestatie en gelijkgestemde levensstijl hebben we besloten contact te houden. Tot op de dag van vandaag dient Ivan dan ook als inspiratiebron en vertrouwd adviseur.
+Ivan is een herborist. En heeft gedurende zijn leven de pijlers gericht op het veelvuldig gebruik van kruiden. Kruiden om het lichaam en geest te versterken. Mede door deze ontmoeting, prestatie en gelijkgestemde levensstijl hebben we besloten contact te houden.
 
-Mijn les gedurende de reis van mijn leven?
+Eenmaal thuis gekomen kon ik niet wacht om mijn ervaringen te delen met Gabriel Petrovay. Gabriel is de persoon die mij in eerste instantie heeft overgehaald deel te nemen aan beklimmen van bergen. Zo heeft hij mij destijd uitgedaagd de Zwitserse Alpen te bedwingen. Na mijn ervaringen te hebben gedeeld, heb ik direct mijn nieuwe doelstellingen kenbaar gemaakt. Gabriel was namelijk voor mij de geschikte persoon om mijn visie te delen. Ik wilde een internationaal bedrijf opzetten om kruidengeneeskunde als eenvoudig en biologisch alledaags product te promoten. 
 
-Maak gebruik van eenvoudige en biologische alledaagse producten. Goed voor lichaam en geest. Mijn advies is dan ook om te beginnen bij iets wat je waarschijnlijk toch al consumeert. Namelijk thee.
+Gabriel was in eerste instantie groot scepticus om deze start te maken. Echter, eenmaal de eerste stappen gezet, kon ook hij deze reis niet weerstaan. 
+
+Mijn les zover gedurende de reis van mijn leven?
+
+Maak gebruik van eenvoudige en biologische alledaagse producten. Goed voor lichaam en geest. Mijn advies is dan ook om te beginnen bij iets wat je waarschijnlijk toch al consumeert. Namelijk kruidenthee.
 
 Wees verstandig. 
 
