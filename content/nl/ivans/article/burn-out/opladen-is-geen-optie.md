@@ -56,7 +56,7 @@ https://drive.google.com/file/d/1xRSR-uCLEo5S5krFPwxqMVBWKyqfmGQM/view?usp=shari
 
 De kans op een burn-out wordt vergroot door het drinken van koffie. Dit heeft te maken met het volgende. Koffie ontregelt je **bloedsuikerspiegel**. Kort samengevat. De **overproductie** van adrenaline die wordt aangemaakt heeft **nadelige gevolgen** voor je **spijsverteringsstelsel**. Omdat die simpelweg sneller uitgeput raakt. Hierdoor raakt je **bloedsuikerspiegel** door de war met als gevolg. Een vergrote kans op een burn-out.
 
-**Laat ik het nog maar een keer herhalen.** Voordat we massaal koffie de schuld gaan geven. En voor de duidelijkheid. 
+**Laat ik het nog maar een keer herhalen.** Voordat we massaal koffie de schuld geven. En voor de duidelijkheid. 
 
 **Een burn-out is** een gevolg van een lange periode aan fysieke en mentale **overbelasting**. Want. Vergeet niet dat je buiten werk om óók nog sport. En avonden uit gaat. Maanden lang gaat het goed. En iedereen die ooit een burn-out heeft gehad droomt zelfs van werken.
 
