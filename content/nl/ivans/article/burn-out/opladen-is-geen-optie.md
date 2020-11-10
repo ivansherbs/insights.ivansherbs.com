@@ -20,7 +20,7 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 **Want waarom ook niet?** Helemaal met de juiste arbeidsvoorwaarde. Ik kan het mij nog goed herinneren. Op een dag liep ik samen met mijn collega door kantoor. We hadden het over aankomende projecten. En het afwerken van deadlines. En bovenal, jawel, de **ruime vergoeding** die we (lees: ik) zou krijgen. Dus ik gooide het er toen vervolgens maar uit.  
 
-**"Ha! En nu al helemááááááál niet meer."** Want waarom zou ik uitgerekend nu op vakantie willen gaan? hahaha. Ik zit er net zo lekker in. 
+**"Ha! En nu al helemaal niet meer."** Want waarom zou ik uitgerekend nu op vakantie willen gaan? hahaha. Ik zit er net zo lekker in. 
 
 **Toen keek hij mij verbaasd aan** en zei ik vervolgens. "Pauze nemen doe ik wel een andere keer. Daar heb ik nu echt even geen zin in." Dus ja. Zo kwam ik op het idee om nog even door te gaan. En dan zien ze meteen hoe gedreven ik ben.
 
