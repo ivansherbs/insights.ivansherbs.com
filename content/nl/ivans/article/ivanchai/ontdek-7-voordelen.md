@@ -6,7 +6,7 @@ Publish: IVAN's
   Author: Ivan Alexandrovitsj
     tags:
     - weerstand
-    - ontstekkingsremmer
+    - ontsteking
     - ziekten
     - mentale klachten
     - prostaat
