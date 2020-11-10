@@ -23,11 +23,11 @@ Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere gl
 
 Zo dan. Het was me weer een feestje. De alcohol vloeide rijkelijk. Je babbelde er flink op los. En wederom ben je de man met de hamer tegengekomen. Echter. Verliep zijn avond anders dan gepland. Jij hebt hem dit keer spreekwoordelijk gewoon eens lekker op z’n bek geslagen. En goed ook. Doei doei. Netjes gezegd.
 
-Gewoon even lekker op wieberen met die hamer van je. Sterker nog. Je hebt de hamer afgepakt en em diep in zijn…. Vul maar lekker zelf in waar je die hamer hebt gelaten. We gaan nog niet naar huis. Nog lange niet nog lange niet. Man man man! Wat hadden we het gezellig. Maar zoals een wijs man zou spreken.
+Gewoon even lekker op wieberen met die hamer van je. Sterker nog. Je hebt de hamer afgepakt en em wederom spreekwoordelijk diep in zijn…. Vul maar lekker zelf in waar je die hamer hebt gelaten. We gaan nog niet naar huis. Nog lange niet nog lange niet. Man man man! Wat hadden we het gezellig. Maar zoals een wijs man zou spreken.
 
 **"AAN ALLES KOMT EEN EINDE"**
 
-En zonder dat je er erg in hebt. Wordt je wakker. Alsof je bent geteleporteerd. Je hebt gewoon even lekker in een diepe slaap gelegen. En dat mag ook wel. En waarom ook niet? Laten we NU de cijfers er eens even bijpakken om je gedrag goed te praten. 8 van de 10 nederlanders drinkt wel eens alcohol. En nu komt de grap.
+En zonder dat je er erg in hebt. Wordt je wakker. Alsof je bent geteleporteerd. Je hebt gewoon even lekker in een diepe slaap gelegen. En dat mag ook wel. En waarom ook niet? Laten we NU de cijfers er eens even bijpakken om je gedrag goed te praten. 4 op de 10 Nederlanders drinkt wel eens alcohol. En nu komt de grap.
 
 * Je bent al een zware drinker als je minstens 1 keer per week 6 glazen of meer op één dag drinkt. 
 
@@ -51,13 +51,15 @@ Slapen lukt niet meer. De dag begint. Vermoeid sta je op. Je loopt naar de badka
 
 **"...Vreselijk...Je ziet er niet uit....Alweer niet."**
 
-ha-ha. Je haar zit door de war. Je ogen hangen op half 7. En je irriteert je nog steeds mateloos aan die droge keel van je. Wat sinds je wakker bent met de seconde erger wordt. Gelukkig valt de hoofdpijn mee. Echter hebben die 3 glazen koud water nog steeds geen effect. Je denkt even zeer omslachtig na. Waardoor het lijkt of de tijd even stil staat. En komt dan vervolgens ineens uit het niets tot een conclusie!
+ha-ha. Je haar zit door de war. Je ogen hangen op half 7. En je irriteert je nog steeds mateloos aan die droge keel van je. Wat sinds je wakker bent met de seconde erger wordt. Gelukkig valt de hoofdpijn mee. Echter hebben die 3 glazen koud water nog steeds geen effect. 
 
-Inderdaad. Je gevoel vertelt je dat je wel een lichte keelontsteking moet hebben opgelopen. Zo. Dat is er uit. Bij deze wil ik je het volgende laten weten. Ook ik ken de symptomen. Ik ga je bij deze dan ook een tip geven waar je de rest van je leven wat aan hebt. 
+Je denkt even zeer omslachtig na. Waardoor het lijkt of de tijd even stil staat. En komt dan vervolgens ineens uit het niets tot een conclusie!
+
+Inderdaad. Je gevoel vertelt je dat je wel een lichte keelontsteking moet hebben opgelopen. Zo. Dat is er uit. Bij deze wil ik je dan ook het volgende laten weten. Ook ik ken de symptomen van overmatig alcohol gebruik. Ik ga je bij deze dan ook een tip geven waar je de rest van je leven wat aan hebt. 
 
 **"DE REST VAN JE LEVEN."**
 
-Want alsof je géén alcohol meer gaat drinken. Tuurlijk wel. Hier komt de tip. 
+Want alsof je géén alcohol meer gaat drinken. ha-ha. Tuurlijk wel. Hier komt de tip. 
 
 https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
 
