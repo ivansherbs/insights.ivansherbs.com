@@ -37,7 +37,7 @@ Zoooo he. ha-ha. Nou nou. poe poe. Dat was werken. Daarentegen. Voel je dat er o
 
 * Je hebt een droge keel. Een gort droge keel in sommige gevallen.
 
-* Slikken gaat lastig. En het doet zelfs een beetje pijn. Wellicht beter te omschrijven als een onaangenaam gevoel.
+* Slikken gaat lastig. En het doet zelfs een beetje pijn. Wellicht beter te omschrijven als een onaangenaam gevoel bij het slikken.
 
 * Wederom heb je last van taai vastzittend slijm. Wat je zo nu en dan gewoon lekker inslikt. Om de keel te smeren. Lekker boeiend ook...
 
