@@ -77,7 +77,7 @@ En.
 
 * Ivan Chai bestaat uit water waar je lichaam nu een hoop behoefte aan heeft. 
 
-**Tot slot.** Om mijn brief nog even heel wijselijk af te sluiten. Een gewaarschuwd mens telt voor twee. Doe ermee wat je wilt. En geniet van je vrije dag zonder keelontsteking. 
+**Tot slot.** Om mijn brief nog even heel wijselijk af te sluiten. **"Een gewaarschuwd mens telt voor twee."** Doe ermee wat je wilt. En geniet van je vrije dag zonder keelontsteking. 
 
 Hartelijke groet,
 
