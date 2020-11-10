@@ -5,7 +5,7 @@ sub-title: artikel| peesontsteking
 Publish: IVAN's
   Author: Ivan Alexandrovitsj
   tags:
-  - ontstekingsremmer
+  - ontsteking
   - sport
   - ontsteking
   - eyeopener
