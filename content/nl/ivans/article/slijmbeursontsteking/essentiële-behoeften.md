@@ -46,7 +46,13 @@ Met geïrriteerd bedoelen we ontstoken. Hierdoor kun je jezelf minder soepel bew
 
 Ja. Dit soort problemen kun je preventief behandelen. Een ontsteking kan je voorkomen en onderdrukken. Met eenvoudige en biologische alledaagse producten.
 
-Denk aan Ivan Chai. Een Siberische kruidenthee. Door het drinken van Ivan Chai verminder je de kans op een slijmbeursontsteking. 
+Denk aan Ivan Chai. Een Siberische kruidenthee. Ivan Chai werkt als een krachtige ontstekingsremmer. Hierdoor verminder je de kans op een slijmbeursontsteking. 
+
+**Meerdere voordelen?**
+
+Ja. Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
+
+Ivan Chai werkt ook goed tegen angst vanwege de kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
 ### Combinatie farmaceutische medicijnen
 
