@@ -1,6 +1,6 @@
 # Manifest
 
-Wij geloven in het versterken van je lichaam en geest met kruiden uit Siberië.
+Wij geloven in het versterken van de gezondheidszorg middels traditionele kruidengeneeskunde.
 
 Er is een tijd van komen en gaan voor farmaceutische medicijnen, echter wordt het niet overal en altijd gewaardeerd.
 
