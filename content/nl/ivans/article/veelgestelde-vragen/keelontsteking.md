@@ -55,7 +55,7 @@ De meeste artsen schrijven géén antibiotica voor. Met een antibioticakuur dure
 
 **Ivan Chai werkt als een krachtige ontstekingsremmer**
 
-* Ivan Chai is bewezen effectief bij het voorkomen én onderdrukken van ontstekingen.
+* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen.
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. 
 
