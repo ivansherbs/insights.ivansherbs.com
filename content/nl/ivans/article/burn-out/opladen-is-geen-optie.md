@@ -34,7 +34,7 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 ### Complexiteit 
 
-**Klinkt vrij eenvoudig of niet?** Echter ligt dit probleem tussen de oren wel even wat complexer. Een burn-out ontstaat meestal op de **werkvloer**. En zonder dat je er erg in hebt is het zover. Opeens is je lichaam **fysiek en mentaal** helemaal uitgeput. En doe je niets liever dan thuis op de bank blijven zitten.
+**Klinkt vrij eenvoudig of niet?** Echter ligt dit probleem tussen de oren wel even wat complexer. Een burn-out ontstaat meestal tijdens het **werken**. En zonder dat je er erg in hebt is het zover. Opeens is je lichaam **fysiek en mentaal** helemaal uitgeput. En doe je niets liever dan thuis op de bank blijven zitten.
 
 **"Emotieloos."** Waarbij je zelfs je toevlucht probeert te zoeken in series zoals Friends. hahaha. Ja. Ook die personen bestaan. hahah. Je staat op dat moment alleen letterlijk even stil in de tweede versnelling. En dan vraag je jezelf af.
 
