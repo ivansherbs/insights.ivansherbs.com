@@ -10,9 +10,13 @@ Publish: IVAN'S
   - eyeopener
 ---
 
-**Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burn-out bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren. Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van te maken. Ze was er zelf ook door gegrepen. En goed ook.
+**Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burn-out bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren. 
 
-**Svetlana**: Wanneer ik terugkijk op die periode uit mijn leven. Is het eigenlijk zo gek nog niet dat ik een burn-out heb opgelopen! Je gaat immers op in het werkende leven.
+Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van te maken. Ze was er zelf ook door gegrepen. En goed ook.
+
+### Svetlana
+
+Wanneer ik terugkijk op die periode uit mijn leven. Is het eigenlijk zo gek nog niet dat ik een burn-out heb opgelopen! Je gaat immers op in het werkende leven.
 
 **Want waarom ook niet?** Helemaal met de juiste arbeidsvoorwaarde. Ik kan het mij nog goed herinneren. Op een dag liep ik samen met mijn collega door kantoor. We hadden het over aankomende projecten. En het afwerken van deadlines. En bovenal, jawel, de **ruime vergoeding** die we (lees: ik) zou krijgen. Dus ik gooide het er toen vervolgens maar uit.  
 
