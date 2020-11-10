@@ -85,9 +85,9 @@ Ivan Alexandrovitsj
 
 .................
 
-> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een keelontsteking te voorkomen.
-
 Drink Ivan Chai niet alleen preventief tegen een keelontsteking. Maar ook om je fysiek en mentaal te ondersteunen wanneer je al een pijnlijke keel hebt.
+
+> Verzorg dagelijks lichaam en geest met kruidenthee uit Siberië. En ik garandeer je dat je beter in staat bent een keelontsteking te voorkomen.
 
 Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een keelontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
