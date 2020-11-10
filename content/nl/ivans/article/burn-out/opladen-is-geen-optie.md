@@ -16,7 +16,7 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 ### Svetlana
 
-Wanneer ik terugkijk op die periode uit mijn leven. Is het eigenlijk zo gek nog niet dat ik een burn-out heb opgelopen! Je gaat immers op in het werkende leven.
+**Wanneer ik terugkijk** op die periode uit mijn leven. Is het eigenlijk zo gek nog niet dat ik een burn-out heb opgelopen. Je gaat immers op in het werkende leven.
 
 **Want waarom ook niet?** Helemaal met de juiste arbeidsvoorwaarde. Ik kan het mij nog goed herinneren. Op een dag liep ik samen met mijn collega door kantoor. We hadden het over aankomende projecten. En het afwerken van deadlines. En bovenal, jawel, de **ruime vergoeding** die we (lees: ik) zou krijgen. Dus ik gooide het er toen vervolgens maar uit.  
 
@@ -24,7 +24,7 @@ Wanneer ik terugkijk op die periode uit mijn leven. Is het eigenlijk zo gek nog 
 
 **Toen keek hij mij verbaasd aan** en zei ik vervolgens. "Pauze nemen doe ik wel een andere keer. Daar heb ik nu echt even geen zin in." Dus ja. Zo kwam ik op het idee om nog even door te gaan. En dan zien ze meteen hoe gedreven ik ben.
 
-**Besides**, ik kan mijn dagen net zo goed even opsparen. Of beter gezegd gewoon laten uitbetalen. Dus. Dit was het moment waar ik de fout in ging. Tergkijkend vertike ik het om rust te nemen. En even goed op te laden. Ik stelde destijd mijn collega’s vaak dezelfde vraag. 
+**Besides**, ik kan mijn dagen net zo goed even opsparen. Of beter gezegd gewoon laten uitbetalen. Dus. **Dit was het moment waar ik de fout in ging.** Tergkijkend vertike ik het om rust te nemen. En even goed op te laden. Ik stelde destijd mijn collega’s vaak dezelfde vraag. 
 
 ### Wat zou jij doen?
 
