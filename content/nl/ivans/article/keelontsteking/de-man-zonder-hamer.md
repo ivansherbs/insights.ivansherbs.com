@@ -49,7 +49,7 @@ Geen idee waar ‘t eigenlijk over ging. Of wat de strekking was van het verhaal
 
 Slapen lukt niet meer. De dag begint. Vermoeid sta je op. Je loopt naar de badkamer. Eenmaal aangekomen. Kijk je jezelf eens even goed aan in de spiegel. 
 
-**"...Vreselijk...Je ziet er niet uit....Alweer niet."**
+**"Vreselijk. Je ziet er niet uit. Alweer niet."**
 
 ha-ha. Je haar zit door de war. Je ogen hangen op half 7. En je irriteert je nog steeds mateloos aan die droge keel van je. Wat sinds je wakker bent met de seconde erger wordt. Gelukkig valt de hoofdpijn mee. Echter hebben die 3 glazen koud water nog steeds geen effect. 
 
