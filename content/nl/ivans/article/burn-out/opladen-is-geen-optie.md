@@ -8,6 +8,7 @@ Publish: IVAN'S
   - mentale klachten
   - werk
   - eyeopener
+  - gevoel
 ---
 
 **Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burn-out bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren. 
