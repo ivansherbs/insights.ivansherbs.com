@@ -11,7 +11,7 @@ Publish: IVAN's
   - gevoel
 ---
 
-Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL. En dat allemaal op één avond. Voel je vooral niet aangesproken. We bekijken zometeen namelijk ook nog even de statistieken. ha-ha.
+Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL. En dat allemaal op één avond. Voel je vooral niet aangesproken. We bekijken zometeen namelijk ook nog even de statistieken. HA-HA.
 
 .................
 
