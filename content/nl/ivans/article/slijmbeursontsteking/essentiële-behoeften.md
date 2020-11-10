@@ -16,7 +16,7 @@ Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al
 
 Een slijmbeursontsteking kan zelfs de meest essentiële behoefte al flink dwarsbomen. Je wil graag sporten en je overheerlijke recepten blijven koken. En wanneer het mooi weer is wil je graag naar buiten. Om heerlijk te wandelen door de natuur. Of wat dacht je van een middagje tuinieren? Waarbij je het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin.
 
-**”Een slijmbeursontsteking zorgt niet alleen fysiek, maar ook mentaal voor veel problemen.”**
+**”Een slijmbeursontsteking zorgt niet alleen fysiek, maar ook mentaal voor problemen.”**
 
 Je ziet al op tegen het draaien van een simpel wasje. Maar ook het poetsen van je tanden. En zelfs opstaan uit bed kunnen als lastig worden ervaren. Vanuit holistisch perspectief wordt je hierdoor niet alleen fysiek maar ook mentaal belast. Dit heeft te maken met de emotie angst. 
 
