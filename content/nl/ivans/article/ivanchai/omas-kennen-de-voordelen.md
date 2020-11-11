@@ -16,8 +16,7 @@ Publish: IVAN's
     - vrouw
     - 45+
 ---
-
-Header: https://drive.google.com/file/d/13l1cN-hFivGjzoujMtQehao_8adDBPEg/view?usp=sharing
+<!-- Header: https://drive.google.com/file/d/13l1cN-hFivGjzoujMtQehao_8adDBPEg/view?usp=sharing -->
 
 **Anekdotisch bewijs is krachtig bewijs**
 
