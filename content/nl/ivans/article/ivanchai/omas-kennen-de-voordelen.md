@@ -109,6 +109,4 @@ Wanneer de bladeren van de kruiden zijn geoogst gaat er een natuurlijk fermentat
 
 En weet je wat? 
 
-De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. 
-
-Vandaar dat Ivan Chai ook afkomstig is uit de Russische traditionele kruidengeneeskunde. 
+De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Vandaar dat Ivan Chai ook afkomstig is uit de traditionele Russische kruidengeneeskunde. 
