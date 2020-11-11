@@ -20,7 +20,7 @@ Een slijmbeursontsteking kan zelfs de meest essentiële behoefte al flink dwarsb
 
 Je ziet al op tegen het draaien van een simpel wasje. Maar ook het poetsen van je tanden. En zelfs opstaan uit bed kunnen als lastig worden ervaren. Vanuit holistisch perspectief wordt je hierdoor niet alleen fysiek maar ook mentaal belast. Dit heeft te maken met de emotie angst. 
 
-### Angst
+### Wat gebeurt er mentaal?
 
 Vanuit wetenschappelijk perspectief zijn er grofweg twee mogelijkheden waaraan je jezelf kunt schikken. Ik begin hierbij met het introduceren van twee uiterste van elkaar. Namelijk confrontatie en vermijding. 
 
