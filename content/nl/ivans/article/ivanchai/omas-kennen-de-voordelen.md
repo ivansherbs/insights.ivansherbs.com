@@ -17,11 +17,13 @@ Publish: IVAN's
     - 45+
 ---
 
-Anekdotisch bewijs is krachtig bewijs. Een oplettende oma zal in haar verleden veel verhalen hebben gehoord. Net als alle oma’s die ik heb ontmoet! 
+**Anekdotisch bewijs is krachtig bewijs**
+
+Een oplettende oma zal in haar verleden veel verhalen hebben gehoord. Net als alle oma’s die ik heb ontmoet! 
 
 Het zijn dé betrouwbare bronnen over voeding en welzijn. Een pluspunt is dat ze over het algemeen niet in moeilijke termen spreken. 
 
-Ze zijn begrijpelijk!
+**Ze zijn begrijpelijk!**
 
 Gelukkig voor ons geldt dit voor oma's overal ter wereld. Het fijne is dat je er ook nog eens veel van kunt leren. Zo zijn oma's uit de voormalige Sovjet-Unie op de hoogte van de voordelen van Ivan Chai.
 
