@@ -49,7 +49,7 @@ Hier gaan we het dus over hebben.
 
 Ik ga het proberen uit te leggen met een paar voorbeelden.
 
-Te beginnen met **sociale angst**. Hierbij speelt de angst om eindelijk écht te kunnen zeggen wat je ergens van vindt een belangrijke rol. Dit gebeurt vaak op de werkvloer. 
+Te beginnen met **sociale angst**. Hierbij speelt de angst om eindelijk écht te kunnen zeggen wat je ergens van vindt een belangrijke rol. Dit gebeurt vaak tijdens werk. 
 
 In een vergadering. 
 
@@ -71,7 +71,7 @@ https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=shari
 
 **Angst is een emotie van alle leeftijden.**
 
-Zo zijn er tal van vergelijkbare situaties en voorbeelden op te noemen buiten de werkvloer. Denk aan angst om ergens voor het eerst aan mee te doen. Kinderen die vriendjes moeten maken. Of voor het eerst aan een teamsport meedoen en het spel niet snappen. Geef nou maar gewoon toe. 
+Zo zijn er tal van vergelijkbare situaties en voorbeelden op te noemen buiten werk om. Denk aan angst om ergens voor het eerst aan mee te doen. Kinderen die vriendjes moeten maken. Of voor het eerst aan een teamsport meedoen en het spel niet snappen. Geef nou maar gewoon toe. 
 
 **Ook jij had hier last van.**
 
