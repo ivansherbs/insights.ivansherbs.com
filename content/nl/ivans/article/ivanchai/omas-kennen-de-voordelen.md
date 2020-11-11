@@ -17,6 +17,8 @@ Publish: IVAN's
     - 45+
 ---
 
+Header: https://drive.google.com/file/d/13l1cN-hFivGjzoujMtQehao_8adDBPEg/view?usp=sharing
+
 **Anekdotisch bewijs is krachtig bewijs**
 
 Een oplettende oma zal in haar verleden veel verhalen hebben gehoord. Net als alle oma’s die ik heb ontmoet! 
