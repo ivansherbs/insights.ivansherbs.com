@@ -21,7 +21,7 @@ Publish: IVAN's
 
 Een oplettende oma zal in haar verleden veel verhalen hebben gehoord. Net als alle oma’s die ik heb ontmoet! 
 
-Het zijn dé betrouwbare bronnen over voeding en welzijn. Een pluspunt is dat ze over het algemeen niet in moeilijke termen spreken. 
+Het zijn dé betrouwbare bronnen over voeding en welzijn. Een pluspunt is dat ze over het algemeen geen moeilijke termen gebruiken.
 
 **Ze zijn begrijpelijk!**
 
