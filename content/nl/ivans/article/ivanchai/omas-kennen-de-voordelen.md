@@ -77,7 +77,7 @@ Maria Treben had van de werking gehoord. En wilde dit graag bewijzen. Zij was da
 
 Nu komt het! Na grootschalig klinisch onderzoek werd het na duizenden recensies van mannen effectief bevonden voor het verhelpen van een prostaatontsteking en een vergrote prostaat.
 
-De oude wijze oma Treben raadde Ivan Chai verder aan voor urineweginfecties, cystitis, nier- en blaasproblemen.
+De oude wijze oma Treben raadde Ivan Chai verder aan voor een urineweg,- nier- en blaasontsteking.
 
 Geinig he!? Oma’s uit het oosten wisten dit dus allang. Echter heeft het European Medicines Agency te Amsterdam dit onderzoek van Maria Treben nogmaals geëvalueerd en goedgekeurd. 
 
