@@ -379,7 +379,7 @@ Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de li
 <br>
 
 https://drive.google.com/file/d/1yFlWBPioqckSiKRYtORk_1eATX2ELZO-/view?usp=sharing
-### Stress als katalysator op slaapproblemen
+### Slapeloosheid als gevolg van stress en je telefoon
 
 artikel| **slaapproblemen**
 
