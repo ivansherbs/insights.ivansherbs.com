@@ -48,7 +48,7 @@ https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=shari
 
 **Voor het belang van het verhaal en de volledigheid** willen we je eerst even kennis laten maken met Maria Treben.
 
-De Zwitserse Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden. Ze heeft bekendheid verkregen door het geven van vele seminars en presentaties bij verschillende conferenties. Hier worden de bevindingen uit onderzoek uitvoerig besproken.
+Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden. Ze heeft bekendheid verkregen door het geven van vele seminars en presentaties bij verschillende conferenties. Hier worden de bevindingen uit onderzoek uitvoerig besproken.
 
 Nu is het lastige aan het vakgebied kruidengeneeskunde dat het moeilijk is om je bevinding te bewijzen. Er is gelukkig een manier.
 
