@@ -69,7 +69,7 @@ Kinderen houden nou eenmaal van deze smaak! En nu blijven ze ook nog eens lekker
 
 ### 6. Verzorgt de gezondheid van de urinewegen (en opa’s prostaat)
 
-Je oma heeft net als jij misschien nooit het woord “urogentiaalionimoes” uitgesproken, maar ze wist wel van de gezonde werking af op de urinewegen. En die van opa’s prostaat.
+Je oma heeft net als jij misschien nooit het woord “urogentiaalionimoes” uitgesproken, maar ze wist wel af van de gezonde werking op de urinewegen. En die van opa’s prostaat.
 
 Maria Treben had van de werking gehoord. En wilde dit graag bewijzen. Zij was dan ook een ware pionier in de kruidengeneeskunde. Ze had Ivan Chai als behandeling vrij specifiek in gebruik genomen voor de prostaat. 
 
