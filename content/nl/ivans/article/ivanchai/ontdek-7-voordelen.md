@@ -342,4 +342,4 @@ problemen| [buikgriep](#een-voorspelbaar-probleem)
 <br>
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
-> SIBERIË| Na een fermentatieproces van 3 dagen wordt de Ivan Chai op traditionele wijze in zakken gestopt. 
+> SIBERIË| Na een fermentatieproces van 3 dagen wordt de Ivan Chai op traditionele wijze in zakken gestopt. Productieproces geheel volgens de Eco7-Standaard. 
