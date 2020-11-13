@@ -12,7 +12,7 @@ Publish: IVAN's
   - ouderdom
 ---
 
-**Vandaag begin ik** voor de verandering met het voordragen van een hééél mooi gedicht over kanker. 
+**Vandaag begin ik voor de verandering** met het voordragen van een hééél mooi gedicht over kanker. 
 
 .................
 
