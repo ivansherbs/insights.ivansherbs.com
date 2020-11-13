@@ -37,7 +37,7 @@ Blijf op de hoogte van nieuwe smaken en ontvang updates van IVAN´s online MAGAZ
 
 4. Verbetert de nachtrust
 
-5. Vermindert de kans op stress, angst en een burn-out
+5. Vermindert de kans op stress, angst en een burnout
 
 6. Verzorgt de gezondheid van de prostaat en urinewegen
 
@@ -290,7 +290,7 @@ Antibiotica, de anticonceptiepil of maagzuurremmers maken je extra kwetsbaar...
 https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
 ### Alle kleine beetjes helpen...
 
-artikel| **zwak afweersysteem**
+artikel| **zwak immuunsysteem**
 
 Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeelden waardoor je een tekort aan witte bloedcellen...
 
@@ -426,7 +426,7 @@ Grappig genoeg komen lichtere vormen van angst op dagelijkse basis vaker voor da
 https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
 ### Opladen is géén optie
 
-artikel| **burn-out**
+artikel| **burnout**
 
 Laten we je maar gelijk vertellen wat er aan de hand is...
 
