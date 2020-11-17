@@ -1,7 +1,8 @@
 ---
 layout: article.html
 Title: Ontdek 7 voordelen
-sub-title: artikel| ivan chai
+sub-title1: artikel
+sub-title2: | ivan chai
 Publish: IVAN's
   Author: Ivan Alexandrovitsj
     tags:
@@ -15,6 +16,8 @@ Publish: IVAN's
     - man 
     - vrouw
     - 45+
+meta-description: Op zoek naar een eenvoudig en biologisch alledaags product goed voor lichaam en geest? Ivan Chai bevat 7 voordelen tegen 17 problemen. Ontdek de Siberische kruidenthee Ivan Chai. 
+meta-tags: Gezondheid Ivan Chai kruiden kruidengeneeskunde medicijn voordelen lichaam geest versterkt de weerstand krachtige ontstekingsremmer versterkt de antioxiderede werking verbetert de nachtrust vermindert de kans op stress, angst en een burn-out verzorgt de gezondheid van de prostaat en urinewegen verzorgt het spijsverteringsstelsel
 ---
 
 ### Ivan Chai
