@@ -1,7 +1,8 @@
 ---
 layout: article.html
 Title: Over de Eco7-Standaard
-sub-title1: | over partners
+sub-title1: over
+sub-title2: | partners
 Publish: IVAN's
   Author: Ivan Alexandrovitsj
   tags:
