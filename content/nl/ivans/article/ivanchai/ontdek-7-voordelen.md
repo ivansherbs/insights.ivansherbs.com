@@ -2,7 +2,7 @@
 layout: article.html
 Title: Ontdek 7 voordelen
 sub-title1: artikel
-sub-title2: | ivan chai
+sub-title2: | Ivan Chai
 Publish: IVAN's
   Author: Ivan Alexandrovitsj
     tags:
