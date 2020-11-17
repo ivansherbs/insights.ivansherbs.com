@@ -1,12 +1,14 @@
 ---
 layout: article.html
 Title: Over de Eco7-Standaard
-sub-title: over| partners
+sub-title: | over partners
 Publish: IVAN's
   Author: Ivan Alexandrovitsj
   tags:
   - community building
   - natuur
+meta-description: Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, zet de Eco7-Standaard onze norm. Lees snel meer over onze Eco7-Standaard. 
+meta-tags: Gezondheid Ivan Chai kruiden kruidengeneeskunde medicijn voordelen lichaam geest siberië introduceren kruiden informeren community building siberische kruidenthee milieu eco7-standaard 
 ---
 
 header: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
