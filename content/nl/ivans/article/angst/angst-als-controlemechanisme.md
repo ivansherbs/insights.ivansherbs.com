@@ -9,7 +9,7 @@ tags:
   - mentale klachten
   - werk
   - eyeopener
-meta-description: Angst tijdens het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar de inzichten?
+meta-description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar de inzichten?
 meta-tags: Angst paniekaanval paniekaanvallen emotie angststoornis angststoornissen angsten controle fobie angstaanval sociale angst sociale fobie sociale angst angst faalangst kind angst tandarts dagelijkse basis groepsdenken rationeel denken top-down benadering sociale druk peergroup groepsvorming angst op werk
 ---
 
