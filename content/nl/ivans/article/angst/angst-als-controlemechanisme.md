@@ -1,13 +1,16 @@
 ---
 layout: article.html
 Title: Angst als controlemechanisme
-sub-title: artikel| angst
+sub-title1: artikel
+sub-title2: | angst
 Publish: IVAN's
-  Author: Svetlana Petrova
-  tags:
+Author: Svetlana Petrova
+tags:
   - mentale klachten
   - werk
   - eyeopener
+meta-description: Angst tijdens het werken? Het komt meer voor dan je denkt. Dagelijks kun je ermee te maken krijgen. Benieuwd naar de inzichten
+meta-tags: Angst paniekaanval paniekaanvallen emotie angststoornis angststoornissen angsten controle fobie angstaanval sociale angst sociale fobie sociale angst angst faalangst kind angst tandarts dagelijkse basis groepsdenken rationeel denken top-down benadering sociale druk peergroup groepsvorming angst op werk
 ---
 
 **ANGST** is een emotie die we allen een keer hebben ervaren. 
@@ -16,7 +19,7 @@ De één heftiger dan de ander. Iedereen is vroeger wel een keer heel erg angsti
 
 ### Symptomen
 
-Je lichaam begeeft zich in opperste staat van paraatheid. **Je hart gaat sneller kloppen.** Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je op dat moment in een beklemmende, onaangename emotionele toestand.
+Van nature is je lichaam bij onraad op zijn hoede. De emotie angst helpt hierbij te reageren op gevaar. Je denkt enkel aan overleven. En in een oogwerk, zonder er bij na te denken, gaat je hart sneller kloppen. Je bloeddruk gaat omhoog. En je spieren spannen zich aan. Je begeeft je op dat moment in een beklemmende, onaangename emotionele toestand.
 
 Veel mensen denken dat ze geen angst kennen. En er nooit mee te maken hebben. Dit is niet waar. Het komt namelijk veel vaker voor dan je denkt. 
 
@@ -87,7 +90,7 @@ Tevens een vorm van angst op dagelijkse basis.
 
 Wellicht een fijne gedachten. Op angst kun je jezelf vaak niet voorbereiden. Zoals in een ziekenhuis.
 
-De emoties kunnen hoog opspelen wanneer er eventueel pijn kan worden geleden. **Oók bij lichtere operaties**. Of wanneer je van je arts weer moet leren lopen na het scheuren van je enkelbanden. Of wat dachten we van angst in de vorm van een **fobie**. Zoals angst voor spinnen. Of honden...
+De emoties kunnen hoog opspelen wanneer er eventueel pijn kan worden geleden. **Oók bij lichtere operaties**. Of wanneer je van je arts weer moet leren lopen na het scheuren van je enkelbanden. Of wat dachten we van angst in de vorm van een **fobie**. Zoals angst voor spinnen. De tandarts. Of honden...
 
 Oke.
 
