@@ -1,14 +1,17 @@
 ---
 layout: article.html
 title: Ben jij er al achter hoe het écht voelt?
-sub-title: artikel| stress
-Publish: IVAN'S
-  Author: Svetlana Petrova
+sub-title1: artikel
+sub-title2: | stress
+Publish: IVAN's
+  Author: Ivan Alexandrovitj
   tags:
   - stress
   - mentale klachten
   - werk
   - gevoel
+meta-description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Ontdek nu de inzichten.
+meta-tags: stress cortisol stress verminderen wat is stress stress wat te doen tegen stress werkstress stress teveel cortisol oorzaken van stress stress minder stressen hoe omgaan met stress hoe stress verminderen adrenaline voelt uitgerust nemen van rust werk spanning agressie manie psychose depressie mentale klachten
 ---
 
 **We kennen allemaal het gevoel** dat je het maximale uit je dag wilt halen. Je hebt immers bergen met werk liggen. En die deadlines naderen.
