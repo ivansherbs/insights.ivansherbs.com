@@ -1,13 +1,16 @@
 ---
 layout: article.html
-Title: …zonder probleem bereikte Ivan de top
-sub-title: interview| holisme
+Title: Zonder probleem bereikte Ivan de top
+sub-title1: interview 
+sub-title2: | holisme
 Publish: IVAN's
   Author: Ivan Alexandrovitsj
   tags:
   - levensstijl
   - holisme
   - sport
+meta-description: Lees nu het interview van Ivan Alexandrovitsj. “Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op 17 gezondheidsproblemen te verminderen”, vertelt Ivan Alexandrovitsj.
+meta-tags: interview holisme holistisch gezondheid Ivan Chai kruiden kruidengeneeskunde medicijn voordelen lichaam geest siberië traditionele kruidengeneeskunde eenvoudig biologisch alledaags product geneeskrachtig
 ---
 Header: https://drive.google.com/file/d/1ZAACIYC7e3kI8iV3i1ukDcfksB99q7FK/view?usp=sharing    <br>
 
