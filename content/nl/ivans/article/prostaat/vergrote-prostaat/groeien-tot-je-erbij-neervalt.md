@@ -1,14 +1,17 @@
 ---
 layout: article.html
 title: Groeien tot je erbij neervalt...
-sub-title: artikel| vergrote prostaat
+sub-title1: artikel
+sub-title2: | vergrote prostaat
 Publish: IVAN's
-  Author: Ivan Alexandrovitsj
-  tags:
+Author: Ivan Alexandrovitsj
+tags:
   - man
   - 45+
   - eyeopener
   - prostaat
+meta-description: Prostaatklachten? Goedaardig? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Benieuwd naar de inzichten? 
+meta-tags: prostaat prostaatklachten vergrote prostaat prostaatpijn prostaatproblemen prostaatprobleem prostaatvergroting ontsteking prostaat symptomen ontsteking prostaat man mannen vergroot prostaat voorkomen prostaatontsteking symptomen symptomen klachten maria treben klinisch onderzoek
 ---
 
 Wist je dat sommige delen van het lichaam niet willen stoppen met groeien?
