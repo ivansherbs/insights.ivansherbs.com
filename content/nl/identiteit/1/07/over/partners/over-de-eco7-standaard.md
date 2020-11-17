@@ -11,15 +11,13 @@ Publish: IVAN's
 
 header: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 
-Ivan's Herbs werkt samen met...
-
-### Siberische ecodorpen als Chazhaevka
-
-Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn.
+Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka. Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn.
 
 Wij ondersteunen hiermee de volgende aspecten die de samenwerking met zich mee brengt.
 
-* **Community building** <br> Graag ondersteunen wij deze unieke denkwijze waar mens en milieu centraal staan. Deze unieke levensstijl richt zich op duurzaam gebruik van de omgeving. Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, zetten onderstaande normen onze **Eco7-Standaard**.
+### Community building
+
+Graag ondersteunen wij deze unieke denkwijze waar mens en milieu centraal staan. Deze unieke levensstijl richt zich op duurzaam gebruik van de omgeving. Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, zetten onderstaande normen onze **Eco7-Standaard**.
 
     - Kruiden groeien in de wildernis
 
@@ -35,9 +33,13 @@ Wij ondersteunen hiermee de volgende aspecten die de samenwerking met zich mee b
 
     - Verpakt onder beschermende atmosfeer
 
-* **Productieproces** <br> De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Alles wordt dan ook op een traditionele wijze verpakt. Nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka.
+### Productieproces
+
+De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo puur mogelijk te houden. Alles wordt dan ook op een traditionele wijze verpakt. Nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka.
     
-* **Klimaat** <br> Het Siberische landklimaat heeft een grote invloed op de 7 voordelen te vinden in Ivan Chai. Wij halen ons product daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden hebben gevormd niet in de weg te staan.
+### Klimaat
+
+Het Siberische landklimaat heeft een grote invloed op de 7 voordelen te vinden in Ivan Chai. Wij halen ons product daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden hebben gevormd niet in de weg te staan.
 
 In andere woorden.
 
