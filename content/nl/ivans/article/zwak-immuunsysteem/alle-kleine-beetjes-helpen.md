@@ -1,7 +1,8 @@
 ---
 layout: article.html
 title: Alle kleine beetjes helpen...
-sub-title: artikel| zwak immuunsysteem
+sub-title1: artikel
+sub-title2: | zwak immuunsysteem
 Publish: IVAN's
   Author: Ivan Alexandrovitsj
   tags:
@@ -10,6 +11,8 @@ Publish: IVAN's
   - eyeopener	
   - ziekten	
   - ouderdom
+meta-description: Dit artikel is bedoeld voor iedereen die een zwak immuunsysteem wil voorkomen. Benieuwd naar de inzichten?
+meta-tags: Immuunsysteem ouderen zwak afweersysteem ex-kankerpatiënten chemotherapie wat te doen bij zwak immuunsysteem vitamine c voedingsstoffen kanker problemen schimmels gist  ongewenste  bacteriën virussen versterken weerstand voorbereiden toekomst
 ---
 
 **Vandaag begin ik voor de verandering** met het voordragen van een hééél mooi gedicht over kanker. 
