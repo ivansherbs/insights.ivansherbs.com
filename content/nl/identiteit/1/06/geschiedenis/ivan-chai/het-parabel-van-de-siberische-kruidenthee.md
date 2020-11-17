@@ -1,12 +1,15 @@
 ---
 layout: article.html
 title: Het parabel van de Siberische Kruidenthee
-sub-title: geschiedenis| ivan chai
+sub-title1: geschiedenis
+sub-title2: | Ivan Chai
 Publish: IVAN's
   Author: Ivan Alexandrovitsj
   tags:
   - geschiedenis
   - ivan chai
+meta-description: Ontdek de geschiedenis van Ivan Chai. De traditionele Russische volksgeneeskunde is gericht op het gebruik van geneeskrachtige kruiden. In de 17e eeuw waren het de monniken ter hoogte van de Altaj... Lees het volledige verhaal. 
+meta-tags: geschiedenis Ivan Chai kruiden kruidengeneeskunde thee medicijn voordelen lichaam geest siberië traditionele kruidengeneeskunde eenvoudig biologisch alledaags product geneeskrachtig 17e eeuw rusland russische revolutie
 ---
 
 picture header: https://drive.google.com/file/d/13FTJbx6s4jMnzk0sn9CzSNCN5W8sRZSv/view?usp=sharing
