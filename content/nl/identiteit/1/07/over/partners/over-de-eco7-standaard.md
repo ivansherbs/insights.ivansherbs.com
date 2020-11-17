@@ -41,12 +41,6 @@ De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Iva
 
 Het Siberische landklimaat heeft een grote invloed op de 7 voordelen te vinden in Ivan Chai. Wij halen ons product daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden hebben gevormd niet in de weg te staan.
 
-In andere woorden.
+In andere woorden. De kruiden uit deze omgeving hebben zich op een andere manier ontwikkeld dan elders op de wereld. Vanuit ecologisch perspectief doet vermoeden dat de werkzame stoffen een gevolg zijn van het extreme klimaat, in combinatie met de vruchtbare gronden langs de rivieren.
 
-De kruiden uit deze omgeving hebben zich op een andere manier ontwikkeld dan elders op de wereld. Vanuit ecologisch perspectief doet vermoeden dat de werkzame stoffen een gevolg zijn van het extreme klimaat, in combinatie met de vruchtbare gronden langs de rivieren.
-
-Leuk om te weten. 
-
-De allerlaatste kwaliteitscontrole vindt plaats middels een officieuse thee ceremonie. 
-
-De smaakbeleving staat hierbij centraal.
+Leuk om te weten. De allerlaatste kwaliteitscontrole vindt plaats middels een officieuse thee ceremonie. De smaakbeleving staat hierbij centraal.
