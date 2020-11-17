@@ -1,14 +1,17 @@
 ---
 layout: article.html
 title: Er is geen touw aan vast te knopen...
-sub-title: artikel| prostaatontsteking
+sub-title1: artikel
+sub-title2: | prostaatontsteking
 Publish: IVAN's
-  Author: Ivan Alexandrovitsj
-  tags:
+Author: Ivan Alexandrovitsj
+tags:
   - man
   - 45+
   - eyeopener
   - prostaat
+meta-description: Prostaatklachten? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar de inzichten?
+meta-tags: prostaat prostaatontsteking prostaatklachten prostaatpijn prostaatproblemen prostaatprobleem ontsteking prostaat symptomen ontsteking prostaat waar zit de prostaat prostaat man prostaatontsteking voorkomen prostaatontsteking symptomen ontsteking prostaat klachten klinisch onderzoek maria treben
 ---
 
 Wanneer je ouder wordt weet je dat dagelijkse bezigheden meer tijd gaan kosten. Als man weet je dat je op latere leeftijd meer kans hebt op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken waarom ik dit probleem graag aankaarten bij mannen. 
