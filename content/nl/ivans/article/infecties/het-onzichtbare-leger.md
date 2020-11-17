@@ -1,15 +1,18 @@
 ---
 layout: article.html
 title: Het onzichtbare leger
-sub-title: artikel| infecties
+sub-title1: artikel
+sub-title2: | infecties
 Publish: IVAN's 
-  Author: Svetlana Petrova
-  tags:
+Author: Svetlana Petrova
+tags:
   - weerstand
   - vrouw
   - infecties
   - gevoel
   - relatie
+meta-description: Wist je dat 3 van de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten? 
+meta-tags: vaginale schimmel vaginale schimmelinfectie vaginaleschimmelinfectie vaginale jeuk schimmelinfectie vagina schimmelinfectie vaginaal vaginaal jeuk schimmelinfectie vrouw jeukend vagina natuurlijke behandeling schimmelinfectie vrouw vaginale schimmel vaginaal infectie vaginale candida vaginale schimmel behandelen schimmel poenie candida infectie schimmelinfectie wat te doen tegen tip tips micro-organismen oregano wilde oregano etherische olie schimmels gist bacteriën
 ---
 
 Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want.
@@ -56,7 +59,7 @@ Maar bij vrouwen is vooral de intieme zone doelwit van deze micro-organismen. Wa
 
 Micro-organismen. De woonomgeving die deze micro-organismen kiezen is alles bepalend voor de schade die ze daar zonder moeite kunnen aanrichten.
 
-Wanneer de weersomstandigheden de micro organismen gunstig gezind zijn. Kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen. Hierdoor is het een veel voorkomend probleem. Want bij een kleine overtolligheid aan deze micro organismen kunnen ze je al flink te grazen nemen!
+Wanneer de weersomstandigheden de micro-organismen gunstig gezind zijn. Kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen. Hierdoor is het een veel voorkomend probleem. Want bij een kleine overtolligheid aan deze micro-organismen kunnen ze je al flink te grazen nemen!
 
 ### Verhoogd risico vrouwen
 
