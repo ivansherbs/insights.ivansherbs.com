@@ -1,7 +1,8 @@
 ---
 layout: article.html
 Title: Leven in Chazhaevka 
-sub-title: portret| herbal tea expert
+sub-title1: portret
+sub-title2: | herbal tea expert
 Publish: IVAN's
   Author: Svetlana Petrova
   tags:
@@ -9,6 +10,8 @@ Publish: IVAN's
   - community building
   - natuur
   - gevoel
+meta-description: Lees nu het portret van Svetlana Petrova. Eén van de herbal tea experts uit Chazhaevka. Community building in combinatie met creativiteit staan met name centraal in haar nieuwe leven. Lees snel meer. 
+meta-tags: community building gezondheid Ivan Chai kruiden kruidengeneeskunde thee medicijn voordelen lichaam geest siberië traditionele kruidengeneeskunde eenvoudig biologisch alledaags product geneeskrachtig portret 
 ---
 Header and to use for profile pic: https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
 
