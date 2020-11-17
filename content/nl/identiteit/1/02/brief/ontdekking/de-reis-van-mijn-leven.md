@@ -1,7 +1,8 @@
 ---
 layout: article.html
 Title: De reis van mijn leven
-sub-title: brief| ontdekking
+sub-title1: brief
+sub-title2: | ontdekking
 Publish: IVAN's
   Author: Michael Koch
   tags: 
