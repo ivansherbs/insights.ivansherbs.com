@@ -3,7 +3,7 @@ layout: article.html
 title: Een voorspelbaar probleem
 sub-title1: artikel
 sub-title2: | buikgriep
-Publish: IVAN'S
+Publish: IVAN's
 Author: Svetlana Petrova
 tags:
   - vrouw
