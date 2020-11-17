@@ -1,14 +1,17 @@
 ---
 layout: article.html
 title: Slapeloosheid als gevolg van stress en je telefoon
-sub-title: artikel| slaapproblemen
+sub-title1: artikel
+sub-title2: | slaapproblemen
 Publish: IVAN's
-  Author: Svetlana Petrova
-  tags:
+Author: Svetlana Petrova
+tags:
   - mentale klachten
   - werk
   - gevoel
   - nachtrust
+meta-description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. Benieuwd naar de inzichten?
+meta-tags: insomnia slaap slapen slaapprobleem slapeloosheid lekker slapen slaapstoornis slaapstoornissen kan niet slapen goede nachtrust slapen kind wil niet slapen slaapproblemen kind kinderen slapen telefoonverslaving kind en stress
 ---
 
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
