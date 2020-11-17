@@ -1,15 +1,18 @@
 ---
 layout: article.html
 title: Een onopgemerkt probleem
-sub-title: artikel| prostaatkanker
-Publish: IVAN'S
-  Author: Ivan Alexandrovitsj
-  tags:
+sub-title1: artikel
+sub-title2: | prostaatkanker
+Publish: IVAN's
+Author: Ivan Alexandrovitsj
+tags:
   - man
   - 45+
   - eyeopener
   - prostaat
   - ziekten
+meta-description: Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. We kunnen echter één risicofactor met zekerheid vaststellen. Benieuwd naar de inzichten?
+meta-tags: prostaat prostaatkanker prostaatklachten prostaatpijn prostaatoperatie prostaatproblemen prostaatprobleem symptomen lijken op prostaat vergroot ontsteking prostaat symptomen ontsteking prostaat waar zit de prostaat prostaatkanker vergrote prostaat nieuwe methode prostaat behandeling man leeftijd risicofactor
 ---
 
 We gaan het nu kort hebben over een heel gevaarlijk probleem. 
