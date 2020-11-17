@@ -1,14 +1,17 @@
 ---
 layout: article.html
 title: Opladen is géén optie
-sub-title: artikel| burnout
+sub-title1: artikel
+sub-title2: | burnout
 Publish: IVAN'S
-  Author: Svetlana Petrova
-  tags:
+Author: Svetlana Petrova
+tags:
   - mentale klachten
   - werk
   - eyeopener
   - gevoel
+meta-description: Meer dan 1.000.000 mensen in Nederland hebben te maken met een burn-out. Mede mogelijk gemaakt door meerdere factoren. Benieuwd naar de inzichten?
+meta-tags: burnout klachten cortisol burnout symptomen burnoutklachten burnout symptomen preventief overspannen hoe herken je een burn out bij jezelf wat te doen tegen burn out ik heb een burnout stress mentale klachten opladen carrière koffie bloedsuikerspiegel verslaving rust kalmerende werking bore-out
 ---
 
 **Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burnout bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren. 
