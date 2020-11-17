@@ -1,9 +1,10 @@
 ---
 layout: article.html
 Title: Oma's kennen de voordelen
-sub-title: artikel| ivan chai
+sub-title1: artikel
+sub-title2: | Ivan Chai
 Publish: IVAN's
-  Author: Michael Koch
+Author: Michael Koch
     tags:
     - weerstand
     - ontsteking
@@ -15,6 +16,8 @@ Publish: IVAN's
     - man
     - vrouw
     - 45+
+meta-description: Oma's uit de Sovjet-Unie kennen de geheimen van Ivan Chai. De Siberische kruidenthee Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest. Lees snel meer. 
+meta-tags: Gezondheid Ivan Chai kruiden kruidengeneeskunde medicijn voordelen lichaam geest oma opa ouderen versterkt de weerstand krachtige ontstekingsremmer versterkt de antioxiderede werking verbetert de nachtrust vermindert de kans op stress, angst en een burn-out verzorgt de gezondheid van de prostaat en urinewegen verzorgt het spijsverteringsstelsel
 ---
 <!-- Header: https://drive.google.com/file/d/13l1cN-hFivGjzoujMtQehao_8adDBPEg/view?usp=sharing -->
 
