@@ -4,8 +4,8 @@ title: Alle kleine beetjes helpen...
 sub-title1: artikel
 sub-title2: | zwak immuunsysteem
 Publish: IVAN's
-  Author: Ivan Alexandrovitsj
-  tags:
+Author: Ivan Alexandrovitsj
+tags:
   - weerstand
   - levensstijl	
   - eyeopener	
