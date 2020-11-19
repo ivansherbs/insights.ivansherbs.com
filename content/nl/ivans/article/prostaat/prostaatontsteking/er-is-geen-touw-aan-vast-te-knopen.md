@@ -1,17 +1,18 @@
 ---
 layout: article.html
 title: Er is geen touw aan vast te knopen...
-sub-title1: artikel
-sub-title2: | prostaatontsteking
-Publish: IVAN's
-Author: Ivan Alexandrovitsj
+type: artikel
+category: | prostaatontsteking
+publish: IVAN's
+author: Ivan Alexandrovitsj
 tags:
   - man
   - 45+
   - eyeopener
   - prostaat
-meta-description: Prostaatklachten? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar de inzichten?
-meta-tags: prostaat prostaatontsteking prostaatklachten prostaatpijn prostaatproblemen prostaatprobleem ontsteking prostaat symptomen ontsteking prostaat waar zit de prostaat prostaat man prostaatontsteking voorkomen prostaatontsteking symptomen ontsteking prostaat klachten klinisch onderzoek maria treben
+meta-description: Prostaatklachten? Prostaatpijn? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar de inzichten? Lees nu het artikel over een prostaatontsteking.
+meta-tags: prostaatklachten, prostaatpijn, prostaatontsteking, prostaat vergroot, ontsteking prostaat symptomen, ontsteking prostaat
+banner: https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
 ---
 
 Wanneer je ouder wordt weet je dat dagelijkse bezigheden meer tijd gaan kosten. Als man weet je dat je op latere leeftijd meer kans hebt op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken waarom ik dit probleem graag aankaarten bij mannen. 
@@ -28,7 +29,7 @@ Deze bewering onderbouwen wij op de volgende manier.
 
 * Je kan je hele leven gezond hebben gegeten en gedronken. Veel hebben gesport en bewogen op dagelijkse basis. Geen alcohol en geen drugs hebben gebruikt. En last krijgen van een prostaatontsteking.
 
-* Je kan je hele leven ongezond hebben gegeten en gedronken. Niet hebben gesport en niet hebben bewogen op dagelijkse basis. Veel alcohol en drugs hebben gebruikt. En last krijgen van een prostaatontsteking. 
+* Je kan je hele leven ongezond hebben gegeten en gedronken. Niet hebben gesport en niet hebben bewogen op dagelijkse basis. Veel alcohol en drugs hebben gebruikt. En last krijgen van een prostaatontsteking.
 
 * Je leidt momenteel een leven waarbij je, net als vroeger, zo nu en dan heel gezond eet en drinkt. Zo nu en dan sport en op dagelijkse basis beweegt. Zo nu en dan een beetje buiten de lijntjes kleurt, waarbij je het totaal niet erg vindt eens te diep in het glaasje te kijken. Om vervolgens toch nog last te krijgen van een prostaatontsteking! 
 
