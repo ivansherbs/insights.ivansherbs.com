@@ -1,21 +1,19 @@
 ---
 layout: article.html
 Title: De reis van mijn leven
-sub-title1: brief
-sub-title2: | ontdekking
-Publish: IVAN's
-  Author: Michael Koch
+type: brief
+category: | ontdekking
+publish: IVAN's
+author: Michael Koch
   tags: 
   - levensstijl
   - holisme	
   - natuur
   - sport
 meta-description: Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Ik ben al ruim 7 jaar bezig met het bestuderen van de geneeskrachtige werking in kruiden. De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige en biologische alledaagse producten met geneeskrachtige werking. 
-meta-tags: Gezondheid Ivan Chai kruiden kruidengeneeskunde medicijn voordelen lichaam geest siberië traditionele kruidengeneeskunde eenvoudig biologisch alledaags product geneeskrachtig
+meta-tags: ivan Chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtig, michael koch
+banner: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
 ---
-header: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing <br>
-Profile pic: https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
-
 
 Geachte Levensgenieter,
 
