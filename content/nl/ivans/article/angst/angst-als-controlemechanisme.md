@@ -1,17 +1,17 @@
 ---
 layout: article.html
-Title: Angst als controlemechanisme
-sub-title1: artikel
-sub-title2: | angst
-Publish: IVAN's
-Author: Svetlana Petrova
+title: Angst als controlemechanisme
+type: artikel
+category: | angst
+publish: IVAN's
+author: Svetlana Petrova
 tags:
   - mentale klachten
   - werk
   - eyeopener
 meta-description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar de inzichten?
-meta-tags: Angst paniekaanval paniekaanvallen emotie angststoornis angststoornissen angsten controle fobie angstaanval sociale angst sociale fobie sociale angst angst faalangst kind angst tandarts dagelijkse basis groepsdenken rationeel denken top-down benadering sociale druk peergroup groepsvorming angst op werk
-banner: 
+meta-tags: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten, controle, fobie, sociale angst, paniek
+banner: https://drive.google.com/file/d/1kK2QSdSh3CrNpuy7ipcW_xpO6oPMTNJ-/view?usp=sharing
 ---
 
 **ANGST** is een emotie die we allen een keer hebben ervaren. 
