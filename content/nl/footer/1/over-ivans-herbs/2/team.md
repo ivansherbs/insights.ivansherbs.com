@@ -19,7 +19,7 @@ Co-Founder
 <!-- Same profile picture -->
 Andrey Nikitin
 
-Herbal Technologist, Tea Producer & UHTE
+Tea Producer & UHTE
 
 
 
@@ -41,3 +41,11 @@ https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=shari
 Svetlana Petrova
 
 Herbal Tea Expert
+
+<!-- Another extra herbal expert to the rescue -->
+
+https://drive.google.com/file/d/13l1cN-hFivGjzoujMtQehao_8adDBPEg/view?usp=sharing
+
+Ivanka Lopukhina
+
+Traditional Herbal Medicines Expert
