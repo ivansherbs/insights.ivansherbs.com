@@ -1,17 +1,18 @@
 ---
 layout: article.html
-Title: Je hart als bakermat van liefde
-sub-title1: artikel
-sub-title2: | hart- en vaatziekten
-Publish: IVAN's
-Author: Svetlana Petrova
+title: Je hart als bakermat van liefde
+type: artikel
+category: | hart- en vaatziekten
+publish: IVAN's
+author: Svetlana Petrova
 tags:
   - eyeopener
   - gevoel
   - relatie
   - ziekten
 meta-description: Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. Beniewd wat voor een invloed liefde heeft op je hart?
-meta-tags: hart liefde hersenen emotie hart hart- en vaatziekten romantiek gevoelens liefde van mijn leven wat is liefde kleine hersenen emoties lijst liefde scepter ware liefde mijn liefde voor jou liefde is samen liefde antioxiderede werking hart sneller kloppen hartkloppingen symbolische betekenis
+meta-tags: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoelens, vaatziekten, 
+banner: https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
 ---
 
 **Het hart** heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. De hedendaagse hartvorm wordt al sinds de middeleeuwen gebruikt om gepassioneerde hartstochtelijke liefdevolle gevoelens naar elkaar toe weer te geven. En met succes.
