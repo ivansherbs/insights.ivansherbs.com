@@ -1,10 +1,10 @@
 ---
 layout: article.html
 title: Alle kleine beetjes helpen...
-sub-title1: artikel
-sub-title2: | zwak immuunsysteem
-Publish: IVAN's
-Author: Ivan Alexandrovitsj
+type: artikel
+category: | zwak immuunsysteem
+publish: IVAN's
+author: Ivan Alexandrovitsj
 tags:
   - weerstand
   - levensstijl	
@@ -12,7 +12,8 @@ tags:
   - ziekten	
   - ouderdom
 meta-description: Dit artikel is bedoeld voor iedereen die een zwak immuunsysteem wil voorkomen. Benieuwd naar de inzichten?
-meta-tags: Immuunsysteem ouderen zwak afweersysteem ex-kankerpatiënten chemotherapie wat te doen bij zwak immuunsysteem vitamine c voedingsstoffen kanker problemen schimmels gist  ongewenste  bacteriën virussen versterken weerstand voorbereiden toekomst
+meta-tags: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, voedingsstoffen
+banner: https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
 ---
 
 **Vandaag begin ik voor de verandering** met het voordragen van een hééél mooi gedicht over kanker. 
@@ -102,6 +103,10 @@ Om te beginnen. We mogen van geluk spreken dat er iets bestaat als chemotherapie
 
 **Wat weer van invloed is op het algehele herstelproces.** Het kan zijn dat je hierdoor tevens gedwongen farmaceutische medicijnen moet gebruiken met ongewenste bijwerkingen. Dit is in de meeste gevallen van invloed op de kwetsbaarheid van je lichaam. Je lichaam moet wennen aan je nieuwe levensstijl.
 
+### Meerdere oorzaken
+
+Uiteraard zijn er veel meer oorzaken voor een zwak immuunsysteem. Ook minder zware farmaceutische medicijnen ( antibiotica) om een aandoening te verdrijven zijn al van invloed. Of het hebben van bloedarmoede. Ofwel ijzertekort. En ga zo maar door. Om deze lijst niet onnodig lang te maken. Laten we het voor nu hierbij. Ook bij deze oorzaken geldt. 
+
 **Alle kleine beetjes helpen.** Voor het versterken van je immuunsysteem. 
 
 **Wist je dat…?** <br>
@@ -109,7 +114,9 @@ De antimicrobiële eigenschappen van Ivan Chai goed zijn bestudeerd. Hieruit bli
 
 ### Simpel gezegd 
 
-Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd. Top. Je bent weer wat wijzer geworden.
+Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd. 
+
+Top. Je bent weer wat wijzer geworden.
 
 **Is er dan ook iets als eigen schuld?** <br>
 Ja. Zo zou je het kunnen noemen. Soms kan het ook liggen aan je levensstijl waardoor je een zwak immuunsysteem hebt. Bij deze nog even twee voor de hand liggende voorbeelden. Die je wel in de categorie 'eigen schuld' durft te plaatsen. En. Om het af te leren...
