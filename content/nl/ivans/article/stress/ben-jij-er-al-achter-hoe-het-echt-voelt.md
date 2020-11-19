@@ -1,17 +1,18 @@
 ---
 layout: article.html
 title: Ben jij er al achter hoe het écht voelt?
-sub-title1: artikel
-sub-title2: | stress
-Publish: IVAN's
-  Author: Ivan Alexandrovitj
+type: artikel
+category: | stress
+publish: IVAN's
+  author: Ivan Alexandrovitj
   tags:
   - stress
   - mentale klachten
   - werk
   - gevoel
-meta-description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Ontdek nu de inzichten.
-meta-tags: stress cortisol stress verminderen wat is stress stress wat te doen tegen stress werkstress stress teveel cortisol oorzaken van stress stress minder stressen hoe omgaan met stress hoe stress verminderen adrenaline voelt uitgerust nemen van rust werk spanning agressie manie psychose depressie mentale klachten
+meta-description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Ontdek nu de inzichten. Leer omgaan met stress.
+meta-tags: stress, cortisol, stress verminderen, stresshormoon, wat is stress, omgaan met stress
+banner: https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
 ---
 
 **We kennen allemaal het gevoel** dat je het maximale uit je dag wilt halen. Je hebt immers bergen met werk liggen. En die deadlines naderen.
@@ -30,11 +31,11 @@ https://drive.google.com/file/d/1zpQTg9zieA0FuUcRrxKRggCGvSDR09SJ/view?usp=shari
 
 **Tot het omslagpunt is bereikt** want opeens heb je het door. Je komt tot het besef dat je aan het einde van de dag vaker hoofdpijn hebt. Je bent vaak moe maar kan niet slapen. En je hoofd kun je maar niet leegmaken. Het thuisfront en je omgeving krijgen tevens al tijden niet de nodige aandacht die het verdient. En na verloop van tijd herken je het gevoel. 
 
-**Je komt tot de realisatie** dat je stijf staat van de cortisol. En dat je zwaar gespannen bent. Je bent er nu eindelijk achter hoe stress écht voelt. Fijn he? Al dat werken. Waar veel mensen niet bij stilstaan is dat langdurige stress kan leiden tot nog heftigere problemen.
+**Je komt tot de realisatie** dat je stijf staat van de cortisol. Het befaamde stresshormoon. En dat je zwaar gespannen bent. Je bent er nu eindelijk achter hoe stress écht voelt. Fijn he? Al dat werken. Waar veel mensen niet bij stilstaan is dat langdurige stress kan leiden tot nog heftigere problemen.
 
 **Hierbij moet je denken aan** angst en een burnout. Maar ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie. De gevolgen van stress zijn echter niet te overzien. Want je weet niet voor welke problemen je gevoelig bent. Totdat je het hebt.
 
-**Stel dat** je nog nooit veel stress hebt ervaren. Dan is het moeilijk om je te realiseren dat je last hebt van een overmatige hoeveelheid aan stress. De eerste stap richting het aanpakken van stress, is het herkennen. Jezelf toegeven dat je er last van hebt. En dat er het één en ander aan moet veranderen. Dit probleem kun je aanpakken door het veranderen van je levensstijl.
+**Stel dat** je nog nooit veel stress hebt ervaren. Dan dien je antwoord te vinden op de vraag, wat is stress? Het is namelijk moeilijk om je te realiseren dat je last hebt van een overmatige hoeveelheid aan coritsol. De eerste stap richting het aanpakken van stress, is het leren herkennen. Jezelf toegeven dat je er last van hebt. En dat er het één en ander aan moet veranderen. Dit probleem kun je aanpakken door het veranderen van je levensstijl. Hierdoor leer je omgaan met stress.
 
 **Denk hierbij aan het nemen van meer rust.** Zoals een vakantie. Het leegmaken van je hoofd. Middels sport of een wandeling. En het uitbalanceren van je werk-privéleven zijn de eerste stappen naar een kalmere gemoedstoestand. Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten om dit probleem te bestrijden.
 
