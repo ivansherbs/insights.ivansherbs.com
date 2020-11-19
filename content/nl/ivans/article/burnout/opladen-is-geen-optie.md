@@ -1,17 +1,18 @@
 ---
 layout: article.html
 title: Opladen is géén optie
-sub-title1: artikel
-sub-title2: | burnout
-Publish: IVAN'S
-Author: Svetlana Petrova
+type: artikel
+category: | burnout
+publish: IVAN's
+author: Svetlana Petrova
 tags:
   - mentale klachten
   - werk
   - eyeopener
   - gevoel
-meta-description: Meer dan 1.000.000 mensen in Nederland hebben te maken met een burn-out. Mede mogelijk gemaakt door meerdere factoren. Benieuwd naar de inzichten?
-meta-tags: burnout klachten cortisol burnout symptomen burnoutklachten burnout symptomen preventief overspannen hoe herken je een burn out bij jezelf wat te doen tegen burn out ik heb een burnout stress mentale klachten opladen carrière koffie bloedsuikerspiegel verslaving rust kalmerende werking bore-out
+meta-description: Meer dan 1.000.000 mensen in Nederland hebben te maken met een burnout klachten. Mede mogelijk gemaakt door meerdere factoren. Het krijgen van een burnout is een groeiend probleem. Benieuwd naar de inzichten?
+meta-tags: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, symptomen burnout, wat is een burnout, koffie, stress, stresshormoon, bloedsuikerspiegel
+banner: https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
 ---
 
 **Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burnout bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren. 
@@ -76,7 +77,7 @@ De kans op een burnout wordt vergroot door het drinken van koffie. Dit heeft te 
 
 **Er komt geen eind aan werken.......** De clou ga ik je ook gewoon niet uitleggen. Waar het op neer komt. Je zal een **andere levensstijl** moeten vinden. Eentje waarbij je energieniveau gelijkmatig wordt uitgespreid over je werk én je privéleven.
 
-**Zorg anders even** dat het nemen van rust óók een plek op de agenda verkrijgt. Om je hoofd leeg te maken. Want. Wanneer je **stress goed aanpakt**, hoef je minder snel kennis te maken met de gevolgen. Het krijgen van een burnout. En ik weet het.
+**Zorg anders even** dat het nemen van rust óók een plek op de agenda verkrijgt. Om je hoofd leeg te maken. Want. Wanneer je **het stresshormoon goed aanpakt**, hoef je minder snel kennis te maken met de gevolgen. Het krijgen van een burnout. En ik weet het.
 
 **Het klinkt makkelijker gezegd dan gedaan.** Gek genoeg overkomt dit namelijk meer dan **1.000.000 mensen per dag** in Nederland! Veel he?! 
 
