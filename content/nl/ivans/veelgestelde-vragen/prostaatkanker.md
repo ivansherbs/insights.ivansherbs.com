@@ -4,7 +4,7 @@
 
 * [Hoe kun je prostaatkanker constateren?](#Hoe-kun-je-prostaatkanker-constateren)
 
-* [Waaom Ivan Chai?](#waarom-ivan-chai)
+* [Waarom Ivan Chai?](#waarom-ivan-chai)
 
 ### Wat zijn de symptomen van prostaatkanker?
 
@@ -43,8 +43,8 @@ Ivan Chai bevat meerdere voordelen die niet alleen de gezondheid van de prostaat
 
 * Ivan Chai versterkt de anti-tumoractiviteit.
 
-Tot op heden (2019) zijn drie onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En dus de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
+Tot op heden zijn er meerdere onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
 
 * Het antitumor effect is echter wél goed bestudeerd. Het heeft met name een positieve werking op gezonde prostaatcellen.
 
-De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam, worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
+De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam, worden gebruikt om de kans op prostaatkanker te verkleinen.
