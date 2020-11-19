@@ -2,4 +2,4 @@
 
 "Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen"
 
--Michael via ivansherbs.com
+-Ivanka via ivansherbs.com
