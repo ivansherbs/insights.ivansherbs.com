@@ -1,16 +1,17 @@
 ---
 layout: article.html
 title: Essentiële behoeften
-sub-title1: artikel
-sub-title2: | slijmbeursontsteking
-Publish: IVAN's
-Author: Ivan Alexandrovitsj
+type: artikel
+category: | slijmbeursontsteking
+publish: IVAN's
+author: Ivan Alexandrovitsj
 tags:
   - ontsteking
   - 45+    
   - ouderdom
 meta-description: Bij een slijmbeursontsteking is niet alleen pijn, maar ook angst om te bewegen een allesbepalende factor. Benieuwd naar de inzichten?
-meta-tags: slijmbeursontsteking slijmbeursontstekingen gewricht slijmbeursontsteking gewrichten gewrichtspijn gewricht slijmbeursontsteking behoefte bewegen beschermkappen angst slijmbeurs slijmbeursontsteking en bewegen ouderdom ouderen
+meta-tags: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspijn, gewricht, behoefte, angst, pijn, bewegen
+banner: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
 ---
 
 Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al helemaal met de meest gangbare activiteiten. Activiteiten die je op dagelijkse basis uitvoert.
