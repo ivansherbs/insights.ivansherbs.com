@@ -11,7 +11,7 @@ tag:
   - eyeopener
   - gevoel
 meta-description: Hou jij ook van een paar glazen alcohol? Allemaal op één avond? Lees dan even heel snel de brief van Ivan over overmatig alcohol gebruik.
-meta-tags: keelontsteking, keelontsteking symptomen, keelpijn bij slikken, symptomen keelontsteking, ontstoken keel, droge keel, alcohol
+meta-tags: keelontsteking, keelontsteking symptomen, keelpijn bij slikken, symptomen keelontsteking, ontstoken keel, droge keel, alcohol, droge mond en keel
 banner: https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
 ---
 
