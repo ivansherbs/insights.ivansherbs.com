@@ -2,4 +2,4 @@
 
 "Het European Medicines Agency te Amsterdam heeft Ivan Chai goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten tegen urineweginfecties"
 
--Michael via ivansherbs.com
+-Ivanka via ivansherbs.com
