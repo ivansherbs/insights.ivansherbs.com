@@ -26,7 +26,7 @@ Denk hierbij aan in de mond, op de handen, voeten en in de intieme zone.
 
 Een infectie kun je oplopen via schimmels, gist of bacteriën.
 
-Zo heeft iedereen last van schimmels. Een infectie kun je krijgen door een overtollige hoeveelheid aan schimmels.
+Zo heeft iedereen last van schimmels. Een infectie kun je krijgen door een overtollige hoeveelheid aan schimmels ( ook wel candida infectie).
 
 Jammer genoeg, groeien deze schimmels op plekken waar ze je lichaam kunnen beschadigen. Naast schimmels worden er ook gist en ongewenste bacteriën bij mensen aangetroffen.
 
