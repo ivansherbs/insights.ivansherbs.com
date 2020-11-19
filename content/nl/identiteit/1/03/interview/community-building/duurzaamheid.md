@@ -1,17 +1,17 @@
 ---
 layout: article.html
 Title: Duurzaamheid
-sub-title1: interview
-sub-title2: | community building
-Publish: IVAN's
-  Author: Andrey Nikitin
+type: interview
+category: | community building
+publish: IVAN's
+author: Andrey Nikitin
   tags:
   - levensstijl
   - community building
   - natuur
   - duurzaam
 meta-description: Lees nu het interview over het Siberische ecodorp Chazhaevka. "Chazhaevka is een Siberische ecodorp wat als doel heeft sociaal, economisch als ecologisch duurzaam te zijn", vertelt Andrey Nikitin.
-meta-tags: community building gezondheid Ivan Chai kruiden kruidengeneeskunde thee medicijn voordelen lichaam geest siberië traditionele kruidengeneeskunde eenvoudig biologisch alledaags product geneeskrachtig
+meta-tags: community building, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtig werking
 ---
 Header: https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing <br> 
 profile pic: https://drive.google.com/file/d/1kbbirD0H6Ja04ABLNPzbzO4HZQ06HWl2/view?usp=sharing
