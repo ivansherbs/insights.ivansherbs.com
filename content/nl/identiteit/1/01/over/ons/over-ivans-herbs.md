@@ -8,7 +8,7 @@ meta-tags: gezondheid, ivan chai, kruiden, kruidengeneeskunde, medicijn, voordel
 banner: https://drive.google.com/file/d/1om-8ue0Oj6DrRGzOVNujjTmcvFztidlU/view?usp=sharing
 ---
 
-Versterk dagelijks je lichaam en geest met kruidenthee uit Siberië.
+Versterk dagelijks je lichaam en geest met kruiden uit Siberië.
 
 Wij geloven in het aanbieden van producten die een krachtige impact hebben op je gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. 
 
