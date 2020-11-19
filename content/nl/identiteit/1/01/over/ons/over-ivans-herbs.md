@@ -1,14 +1,12 @@
 ---
 layout: article.html
-Title: Over Ivan's Herbs 
-sub-title1: over
-sub-title2: | kruiden uit Siberië
+title: Over Ivan's Herbs 
+type: over
+category: | kruiden uit Siberië
 meta-description: Wij geloven in het aanbieden van producten die een krachtige impact hebben op je gezondheid, algehele gemoedstoestand en in beperkte mate van invloed zijn op het milieu. Benieuwd waar wij voor staan?
-meta-tags: Gezondheid Ivan Chai kruiden kruidengeneeskunde medicijn voordelen lichaam geest siberië introduceren kruiden informeren community building siberische kruidenthee milieu eco7-standaard 
+meta-tags: gezondheid, ivan chai, kruiden, kruidengeneeskunde, medicijn, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7-standaard 
+banner: https://drive.google.com/file/d/1om-8ue0Oj6DrRGzOVNujjTmcvFztidlU/view?usp=sharing
 ---
-
-header: picture of logo 
-
 
 Versterk dagelijks je lichaam en geest met kruidenthee uit Siberië.
 
