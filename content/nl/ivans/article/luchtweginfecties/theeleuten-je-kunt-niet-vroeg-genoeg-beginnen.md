@@ -1,8 +1,8 @@
 ---
 layout: article.html
 title: Theeleuten: je kunt niet vroeg genoeg beginnen
-sub-title1: artikel
-sub-title2: | luchtweginfectie
+type: artikel
+category: | luchtweginfectie
 Publish: IVAN's
   Author: Ivanka Lopukhina 
   tags:
@@ -12,7 +12,8 @@ Publish: IVAN's
 - kinderen
 - levensstijl
 meta-description: Verzorg bekende luchtweginfecties met Ivan Chai. Ook al op jonge leeftijd kun je een verkoudheid, griep of pseudokroep makkelijk verzorgen. Ontdek snel meer. 
-meta-tags: griep verkoudheid kinderen pseudokroep moeders verkoudheid luchtweginfectie griep symptomen  virus luchtweginfectie hoe lang duurt griep kroep weerstand hoe lang duurt verkoudheid chronisch verkouden incubatieperiode te doen tegen verkoudheid heerst er griep griep heerst hoe lang duurt een duur blafhoest
+meta-tags: griep, verkoudheid, kinderen, oma, pseudokroep, moeders, luchtweginfectie, luchtweginfecties
+banner: https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
 ---
 
 Iedereen heeft wel eens last van een luchtweginfectie. Denk aan een verkoudheid of griep.
