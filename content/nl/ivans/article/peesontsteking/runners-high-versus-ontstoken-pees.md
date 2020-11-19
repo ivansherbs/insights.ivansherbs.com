@@ -10,7 +10,7 @@ tags:
   - sport
   - ontsteking
   - eyeopener
-meta-description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen vaak het vuile werk op zich nemen. Een peesontsteking is zo opgelopen. Benieuwd naar de inzichten?
+meta-description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een peesontsteking is zo opgelopen. Benieuwd naar de inzichten?
 meta-tags: hardlopen, hardlopers, endorfine, endorfines, peesontsteking, peesontstekingen, duursport, duursporten
 banner: https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
 ---
