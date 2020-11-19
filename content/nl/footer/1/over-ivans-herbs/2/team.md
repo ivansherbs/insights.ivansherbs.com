@@ -19,7 +19,7 @@ Co-Founder
 <!-- Same profile picture -->
 Andrey Nikitin
 
-Tea Producer & UHTE
+Tea Producer
 
 
 
