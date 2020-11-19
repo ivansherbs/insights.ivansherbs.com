@@ -1,18 +1,17 @@
 ---
 layout: article.html
-Title: Over de Eco7-Standaard
-sub-title1: over
-sub-title2: | partners
-Publish: IVAN's
-  Author: Ivan Alexandrovitsj
+title: Eco7-Standaard
+type: over
+category: | partners
+publish: IVAN's
+author: Ivan Alexandrovitsj
   tags:
   - community building
   - natuur
 meta-description: Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, zet de Eco7-Standaard onze norm. Lees snel meer over onze Eco7-Standaard. 
-meta-tags: Gezondheid Ivan Chai kruiden kruidengeneeskunde medicijn voordelen lichaam geest siberië introduceren kruiden informeren community building siberische kruidenthee milieu eco7-standaard 
+meta-tags: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7-standaard
+banner: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 ---
-
-header: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
 
 Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka. Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn.
 
