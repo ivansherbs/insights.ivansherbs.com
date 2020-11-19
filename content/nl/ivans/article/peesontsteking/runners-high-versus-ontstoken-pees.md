@@ -1,17 +1,18 @@
 ---
 layout: article.html
 title: Runners high versus Ontstoken pees
-sub-title1: artikel
-sub-title2: | peesontsteking
-Publish: IVAN's
-Author: Ivan Alexandrovitsj
+type: artikel
+category: | peesontsteking
+publish: IVAN's
+author: Ivan Alexandrovitsj
 tags:
   - ontsteking
   - sport
   - ontsteking
   - eyeopener
-meta-description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen vaak het vuile werk op zich nemen. Benieuwd naar de inzichten?
-meta-tags: hardlopen hardlopers endorfine peesontsteking peesontstekingen peesontsteking duursport duursporten duursporters runners high verslaving neurotransmitters overbelasting spieren botten pees
+meta-description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen vaak het vuile werk op zich nemen. Een peesontsteking is zo opgelopen. Benieuwd naar de inzichten?
+meta-tags: hardlopen, hardlopers, endorfine, endorfines, peesontsteking, peesontstekingen, duursport, duursporten
+banner: https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
 ---
 
 We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks. Het is goed voor de gezondheid van je lichaam en je gemoedstoestand. 
