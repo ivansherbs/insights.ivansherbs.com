@@ -1,18 +1,19 @@
 ---
 layout: article.html
 title: Het onzichtbare leger
-sub-title1: artikel
-sub-title2: | infecties
-Publish: IVAN's 
-Author: Svetlana Petrova
+type: artikel
+category: | infecties
+publish: IVAN's 
+author: Svetlana Petrova
 tags:
   - weerstand
   - vrouw
   - infecties
   - gevoel
   - relatie
-meta-description: Wist je dat 3 van de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten? 
-meta-tags: vaginale schimmel vaginale schimmelinfectie vaginaleschimmelinfectie vaginale jeuk schimmelinfectie vagina schimmelinfectie vaginaal vaginaal jeuk schimmelinfectie vrouw jeukend vagina natuurlijke behandeling schimmelinfectie vrouw vaginale schimmel vaginaal infectie vaginale candida vaginale schimmel behandelen schimmel poenie candida infectie schimmelinfectie wat te doen tegen tip tips micro-organismen oregano wilde oregano etherische olie schimmels gist bacteriën
+meta-description: Wist je dat 3 van de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmel? 
+meta-tags: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel
+banner: https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 ---
 
 Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want.
@@ -55,11 +56,11 @@ Over het algemeen bewegen ze zich daarom naar warme en vochtige plekken. De plek
 
 ### Begeerlijk doelwit
 
-Maar bij vrouwen is vooral de intieme zone doelwit van deze micro-organismen. Want dat zijn deze onzichtbare leger. 
+Maar bij vrouwen is vooral de intieme zone doelwit van deze micro organismen. Want dat zijn deze onzichtbare leger. 
 
-Micro-organismen. De woonomgeving die deze micro-organismen kiezen is alles bepalend voor de schade die ze daar zonder moeite kunnen aanrichten.
+Micro organismen. De woonomgeving die deze micro organismen kiezen is alles bepalend voor de schade die ze daar zonder moeite kunnen aanrichten.
 
-Wanneer de weersomstandigheden de micro-organismen gunstig gezind zijn. Kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen. Hierdoor is het een veel voorkomend probleem. Want bij een kleine overtolligheid aan deze micro-organismen kunnen ze je al flink te grazen nemen!
+Wanneer de weersomstandigheden de micro organismen gunstig gezind zijn. Kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen. Hierdoor is het een veel voorkomend probleem. Want bij een kleine overtolligheid aan deze micro  organismen kunnen ze je al flink te grazen nemen!
 
 ### Verhoogd risico vrouwen
 
@@ -221,7 +222,7 @@ Ja. Onderzoek naar etherische olie gemaakt van wilde oregano hebben aangetoond d
 
 **Hoe gebruik je deze olie?**
 
-Door 3 tot 5 druppels te gebruiken en uit te smeren over de geïrriteerde plekken op de huid. Of plekken waar je denkt last te kunnen krijgen van een infectie. 
+Door 3 tot 5 druppels te gebruiken en uit te smeren over de geïrriteerde plekken op de huid. Of plekken waar je denkt last te kunnen krijgen van een infectie. Of huidschimmel.
 
 Juist ja. Het is **niet** bedoeld voor in de mond. 
 
@@ -275,7 +276,7 @@ Top! Dit waren dan 3 tips!
 
 **Tot slot nog eenmaal een waarschuwing.**
 
-Graag wil ik het nog even hebben over het nemen van een bad. Schimmels, gist en bacteriën houden net als jij van warm water. Deze micro-organismen verminderen met het nemen van een bad heeft geen zin. Hetzelfde geldt voor het wassen van je intieme zone met zeep. 
+Graag wil ik het nog even hebben over het nemen van een bad. Schimmels, gist en bacteriën houden net als jij van warm water. Deze micro organismen verminderen met het nemen van een bad heeft geen zin. Hetzelfde geldt voor het wassen van je intieme zone met zeep. 
 
 Sterker nog. Het maakt infecties alleen maar ergers. 
 
