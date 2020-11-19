@@ -1,17 +1,18 @@
 ---
 layout: article.html
 title: Een voorspelbaar probleem
-sub-title1: artikel
-sub-title2: | buikgriep
-Publish: IVAN's
-Author: Svetlana Petrova
+type: artikel
+category: | buikgriep
+publish: IVAN's
+author: Svetlana Petrova
 tags:
   - vrouw
   - levensstijl
   - eyeopener
   - buikpijn
 meta-description: Wat hebben diarree, antibiotica en een blaasontsteking gemeen? Lees het nu in het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW. 
-meta-tags: buikgriep diarree vrouw prikkelbaar darm syndroom maagpijn prikkelbare darm syndroom spastische darm maagklachten prikkelbare darm darmklachten buikgriep symptomen symptomen buikgriep heerst wat te doen tegen diarree hoe lang duurt buikgriep dagboek vrouw blaasontsteking anticonceptiepil antibiotica menstruatiepijn reizigersdiarree turista spijsverteringsstelsel hormoonhuishouding tip
+meta-tags: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, buikgriep symptomen, symptomen buikgriep, wat te doen tegen diarree, dunne ontlasting, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip
+banner: https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
 ---
 
 DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW. En nu zit ze ook nog eens ontzettend hard aan de DIARREE. 
