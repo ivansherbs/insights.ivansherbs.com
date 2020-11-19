@@ -1,10 +1,10 @@
 ---
 layout: article.html
-Title: Voorkom relatieproblemen
-sub-title1: artikel
-sub-title2: | urineweginfectie
-Publish: IVAN's
-Author: Svetlana Petrova
+title: Voorkom relatieproblemen
+type artikel
+category: | urineweginfectie
+publish: IVAN's
+author: Svetlana Petrova
 tags: 
   - vrouw
   - relatie
@@ -12,7 +12,8 @@ tags:
   - gevoel
   - urinewegen
 meta-description: 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking. De klachten worden bestreden met zware farmaceutische medicijnen. Wist je dat hierdoor een urineweginfectie van invloed is op jullie relatie? Lees snel meer.
-meta-tags: blaasontsteking nierbekkenontsteking blaasontsteking vrouw blaasontsteking relatie urineweginfectie symptomen blaasontsteking symptomen antibiotica blaasontsteking oorzaken en behandeling blaasontsteking relatieproblemen
+meta-tags: blaasontsteking, nierbekkenontsteking, blaasontsteking vrouw, urineweginfectie, symptomen blaasontsteking, relatie, relatieproblemen
+banner: https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
 ---
 
 **Voorkom relatieproblemen door het voorkomen van een urineweginfectie.**
