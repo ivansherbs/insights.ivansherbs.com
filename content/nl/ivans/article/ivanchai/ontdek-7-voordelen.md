@@ -164,9 +164,7 @@ Angst en stress zijn op dagelijkse basis een steeds vaker voorkomend probleem. A
 
 Voor je het weet loop je té lang rond met angst. Of een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom daarom een overmatige hoeveelheid aan angst en langdurige stress.
 
-Goed om te weten. Iedereen ervaart een lichte vorm van angst. En een beetje stress is oké. Beiden zorgen ervoor dat je erg gefocust en actief bent.
-
-Leer omgaan met lichtere vormen van angst en stress. En voorkom hiermee ernstige mentale klachten.
+Goed om te weten. Iedereen ervaart een lichte vorm van angst. En een beetje stress is oké. Beiden zorgen ervoor dat je erg gefocust en actief bent. Leer omgaan met lichtere vormen van angst en stress. En voorkom hiermee ernstige mentale klachten.
 
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
