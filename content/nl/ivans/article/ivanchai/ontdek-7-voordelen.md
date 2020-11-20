@@ -160,7 +160,7 @@ https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=shari
 
 ## 5. Ivan Chai vermindert de kans op angst, stress en een burn-out
 
-Angst en stress zijn op dagelijkse basis een steeds vaker voorkomend probleem. Angst is een van de minst handelbare emoties. En stress acteert als een ware sluipmoordenaar.
+Angst en stress zijn op dagelijkse basis een steeds vaker voorkomend probleem. Angst is één van de minst handelbare emoties. En stress acteert als een ware sluipmoordenaar.
 
 Voor je het weet loop je té lang rond met angst. Of een overmatige hoeveelheid aan cortisol. Wanneer een overmatige hoeveelheid niet tijdig wordt aangepakt kan dit leiden tot ernstige mentale klachten. Voorkom daarom een overmatige hoeveelheid aan angst en langdurige stress.
 
@@ -170,7 +170,7 @@ Leer omgaan met lichtere vormen van angst en stress. En voorkom hiermee ernstige
 
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-problemen| [angst,](#angst-als-controlemechanisme)[stress,](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [burn-out](#opladen-is-géén-optie)
+problemen| [angst,](#angst-als-controlemechanisme) [stress,](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [burn-out](#opladen-is-géén-optie)
 
 <br>
 
