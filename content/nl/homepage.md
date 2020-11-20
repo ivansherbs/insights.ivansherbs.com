@@ -37,7 +37,7 @@ Blijf op de hoogte van nieuwe smaken en ontvang updates van IVAN´s online MAGAZ
 
 4. Verbetert de nachtrust
 
-5. Vermindert de kans op stress, angst en een burnout
+5. Vermindert de kans op angst, stress en een burnout
 
 6. Verzorgt de gezondheid van de prostaat en urinewegen
 
