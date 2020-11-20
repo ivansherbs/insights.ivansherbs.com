@@ -1,10 +1,10 @@
 ---
 layout: article.html
-Title: Ontdek 7 voordelen
-sub-title1: artikel
-sub-title2: | Ivan Chai
-Publish: IVAN's
-  Author: Ivan Alexandrovitsj
+title: Ontdek 7 voordelen
+type: artikel
+category: | Ivan Chai
+publish: IVAN's
+author: Ivan Alexandrovitsj
     tags:
     - weerstand
     - ontsteking
