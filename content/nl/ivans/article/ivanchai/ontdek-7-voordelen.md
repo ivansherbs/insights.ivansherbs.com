@@ -81,7 +81,7 @@ De werking kunnen we als volgt kort omschrijven.
 
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
-problemen| [infectie](#Het-onzichtbare-leger) [luchtweginfectie](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen) [zwak afweersysteem](#alle-kleine-beetjes-helpen)
+problemen| [infectie,](#Het-onzichtbare-leger) [luchtweginfectie,](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen) [zwak afweersysteem](#alle-kleine-beetjes-helpen)
 
 <br>
 
@@ -105,7 +105,7 @@ Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.
 
-problemen| [baarmoederontsteking](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [keelontsteking](#De-man-zonder-hamer) [peesontsteking](#Runners-high-versus-ontstoken-pees) [slijmbeursontsteking](#essentiële-behoeften)
+problemen| [baarmoeder ongenoegen,](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [keelontsteking,](#De-man-zonder-hamer) [peesontsteking,](#Runners-high-versus-ontstoken-pees) [slijmbeursontsteking](#essentiële-behoeften)
 
 <br>
 
@@ -170,7 +170,7 @@ Leer omgaan met lichtere vormen van angst en stress. En voorkom hiermee ernstige
 
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-problemen| [stress](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [angst](#angst-als-controlemechanisme) [burn-out](#opladen-is-géén-optie)
+problemen| [angst,](#angst-als-controlemechanisme)[stress,](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [burn-out](#opladen-is-géén-optie)
 
 <br>
 
@@ -225,7 +225,7 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 
 Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen.
 
-problemen| [prostaatontsteking](#Er-is-geen-touw-aan-vast-te-knopen) [vergrote prostaat](#groeien-tot-je-erbij-neervalt) [prostaatkanker](#Een-onopgemerkt-probleem) [urineweginfectie](#voorkom-relatieproblemen)
+problemen| [prostaatontsteking,](#Er-is-geen-touw-aan-vast-te-knopen) [vergrote prostaat,](#groeien-tot-je-erbij-neervalt) [prostaatkanker,](#Een-onopgemerkt-probleem) [urineweginfectie](#voorkom-relatieproblemen)
 
 <br>
 
