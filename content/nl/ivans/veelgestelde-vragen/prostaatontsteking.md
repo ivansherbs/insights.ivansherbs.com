@@ -19,9 +19,11 @@ Bij heftige symptomen moet men denken aan:
   - in de onderbuik,
   - laag in de rug
   - het gedeelte tussen de penis en anus
-* of gedurende het plassen:
-  - pijn
-  - of een brandend gevoel.
+* gedurende het plassen:
+  - prostaatpijn
+  - of een brandend gevoel
+* na het plassen:
+  - lichtelijk urineverlies
 
 Een prostaatontsteking kan de dagelijkse bezigheden op een negatieve manier beïnvloeden.
 
