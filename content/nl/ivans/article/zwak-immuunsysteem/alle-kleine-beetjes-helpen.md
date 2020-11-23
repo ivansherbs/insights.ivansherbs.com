@@ -105,9 +105,9 @@ Om te beginnen. We mogen van geluk spreken dat er iets bestaat als chemotherapie
 
 ### Meerdere oorzaken
 
-Uiteraard zijn er veel meer oorzaken voor een zwak immuunsysteem. Ook minder zware farmaceutische medicijnen ( antibiotica) om een aandoening te verdrijven zijn al van invloed. 
+Uiteraard zijn er veel meer oorzaken voor een zwak immuunsysteem. Ook minder zware **farmaceutische medicijnen** ( antibiotica) om een aandoening te verdrijven zijn al van invloed. 
 
-Of denk aan het hebben van bloedarmoede. Ofwel ijzertekort. Wat ook weer te maken kan hebben met de overgang of menopauze. Als gevolg van een laag oestrogeen gehalte. En ga zo maar door. Om deze lijst niet onnodig lang te maken. Laten we het voor nu hierbij. Ook bij deze oorzaken geldt. 
+Of denk aan het hebben van **bloedarmoede**. Ofwel **ijzertekort**. Wat ook weer te maken kan hebben met de **overgang** of **menopauze**. Als gevolg van een **laag oestrogeen** gehalte. En ga zo maar door. Om deze lijst niet onnodig lang te maken. Laten we het voor nu hierbij. Ook bij deze oorzaken geldt. 
 
 **Alle kleine beetjes helpen.** Voor het versterken van je immuunsysteem. 
 
