@@ -22,6 +22,13 @@ De urinewegen bestaan uit de blaas, nierbekken, urineleider en de urethra. Bij e
 
 Van alle urineweginfecties komt een blaasontsteking het meest voor. Na verloop van tijd kan een blaasontsteking zich verplaatst naar de hogere urinewegen. Dit komt door het verplaatsen van de ongewenste bacteriën. Hierdoor kan je last krijgen van een nierbekkenontsteking.
 
+Syptomen variëren van:
+* branderig gevoel bij plassen
+* opgeblazen gevoel in onderbuik
+* lichtelijk urineverlies
+* pijn in onderrug of bekken
+* koorts
+
 ### Hebben zowel mannen als vrouwen last van dit probleem?
 
 Ja. Echter komt bij vrouwen een urineweginfectie het meest voor.
