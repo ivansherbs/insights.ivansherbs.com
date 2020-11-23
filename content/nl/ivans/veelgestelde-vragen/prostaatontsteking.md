@@ -22,8 +22,6 @@ Bij heftige symptomen moet men denken aan:
 * gedurende het plassen:
   - prostaatpijn
   - of een brandend gevoel
-* na het plassen:
-  - lichtelijk urineverlies
 
 Een prostaatontsteking kan de dagelijkse bezigheden op een negatieve manier beïnvloeden.
 
