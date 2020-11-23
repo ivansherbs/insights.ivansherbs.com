@@ -12,7 +12,7 @@ tags:
   - gevoel
   - urinewegen
 meta-description: 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking. De klachten worden bestreden met zware farmaceutische medicijnen. Wist je dat hierdoor een urineweginfectie van invloed is op jullie relatie? Lees snel meer.
-meta-tags: blaasontsteking, nierbekkenontsteking, blaasontsteking vrouw, urineweginfectie, symptomen blaasontsteking, relatie, relatieproblemen, urineverlies
+meta-tags: blaasontsteking, nierbekkenontsteking, blaasontsteking vrouw, urineweginfectie, symptomen blaasontsteking, relatie, relatieproblemen, urineverlies, communicatie, vertrouwen, vreemdgaan, carriere, financiele onafhankelijkheid, intimiteit
 banner: https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
 ---
 
@@ -108,11 +108,15 @@ Ook kan de periode in het leven die bekend staat als een **‘midlife crisis’*
 
 Wat flink van invloed is op jullie relatie.
 
-### 6. EGOÏSTISCHE PARTNER
+### 6. FINANCIËLE ONAFHANKELILJKHEID
 
-Bovenstaande punten kunnen worden versterkt door een partner die vrij **egocentrisch** door het leven gaat. Dit kan komen door de **grootverdiener** die bepaald wat er gebeurt met het geld. 
+Bovenstaande punten kunnen worden versterkt door een partner die vrij egocentrisch door het leven gaat. Dit kan komen doordat de **grootverdiener** bepaald wat er gebeurt met het geld. Dit heeft met name te maken met **financiële onafhankelijkheid**. 
 
-Ja ook dit bestaat. En ook dit is ernstig van invloed op jullie relatie. Door hierover te praten en een dialoog aan te gaan worden andere problemen verminderd. Dialoog is van belang in langdurige relaties. Ook als het op punt 7 aankomt. 
+Uit onderzoek blijkt dat in Nederland **de helft van alle vrouwen** in een relatie financieel afhankelijk is. In tegenstelling tot een kwart van de Nederlandse mannen. Meestal is dit **het gevolg van een impactvolle levensgebeurtenis**. Zoals het krijgen van kinderen, het kopen van een huis of ziekten. Dit heeft grote invloed op de zelfredzaamheid onderling. Met als gevolg dat de stem van de grootverdiener zwaarder weegt dan de financieel afhankelijke partner. 
+
+Geinig, wanneer je bedenkt dat de **onbetaalde zorgtaken** over het algemeen niet worden meegenomen in het totaal plaatje. En dat dit in verhouding in strijd is met de standaard die de samenleving oplegt; waardoor van vrouwen met kinderen wordt verwacht dat ze niet meer dan drie dagen per week betaald werk zouden moeten verrichten.
+
+Ja ook dit bestaat. En is ernstig van invloed op jullie relatie. Door hierover te praten en een dialoog aan te gaan worden andere problemen verminderd. Dialoog is van belang in langdurige relaties. Ook als het op punt 7 aankomt. 
 
 ### 7. INTIMITEIT 
 
