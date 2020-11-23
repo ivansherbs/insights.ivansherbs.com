@@ -81,7 +81,9 @@ https://drive.google.com/file/d/15s8bekS2pIkrCTnBW_sZhjG9_VQ4RNAc/view?usp=shari
 
 In Siberië worden met name geneeskrachtige kruiden met de hand geoogst. Hierna kan het worden gedronken in de vorm van de Siberische kruidenthee Ivan Chai. Of als toevoeging worden gebruikt door het eten. Bij duurzaam gebruik is het kalmerende effect merkbaar. Mijn leven is drastisch veranderd na mijn mentale stoornis.
 
-Stress is een vervelend probleem waarvan de gevolgen niet te voorspellen zijn. Het kan naast mentale ook lichamelijke klachten met zich meebrengen. Een overmatige hoeveelheid aan stress is van buiteaf niet te zien. En er heerst gezien de werkdruk een taboe op om het bespreekbaar te maken. 
+**Stress is een ware sluipmoordenaar.**
+
+De gevolgen zijn bijna niet te voorspellen zijn. Het kan naast mentale ook lichamelijke klachten met zich meebrengen. Een overmatige hoeveelheid aan stress is van buiteaf niet te zien. En er heerst gezien de werkdruk een taboe op om het bespreekbaar te maken. 
 
 **Gelukkig heb ik dit nu ver achter mij gelaten.**
 
