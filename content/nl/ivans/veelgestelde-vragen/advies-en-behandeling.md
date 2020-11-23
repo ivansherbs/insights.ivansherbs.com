@@ -38,7 +38,7 @@ Wij raden het aan de kuur als preventieve behandeling met regelmaat te herhalen.
 Er zijn tot op heden geen ongewenste bijwerkingen van Ivan Chai gemeld:
 > Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
  
-LET OP! Als u farmaceutische medicijnen gebruikt voorgeschreven door uw behandelend arts, maak deze kuur dan eerst af. Stop nooit zomaar met een kuur.
+LET OP! Als u farmaceutische medicijnen gebruikt voorgeschreven door uw behandelend arts, maak deze kuur dan eerst af. Stop nooit zomaar met een kuur of behandeling.
  
 Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
  
