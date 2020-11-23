@@ -14,7 +14,7 @@ Echter kan dit probleem leiden tot veel en vaak plassen.
 
 Of juist moeilijk plassen.
 
-Hiernaast kun je last krijgen van een minder krachtige urinestraal. Je kunt niet goed beginnen met plassen. Wordt soms onbedoeld onderbroken. Of krijgt juist aandrang om weer te plassen.
+Hiernaast kun je last krijgen van een minder krachtige urinestraal. Je kunt niet goed beginnen met plassen. Wordt soms onbedoeld onderbroken. Krijgt juist aandrang om weer te plassen. En in sommige gevallen kun je last krijgen van lichtelijk urineverlies. 
 
 ### Welk effect heeft het gebruik van farmaceutische medicijnen?
 
