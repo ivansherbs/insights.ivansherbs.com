@@ -12,7 +12,7 @@ tags:
   - ziekten	
   - ouderdom
 meta-description: Dit artikel is bedoeld voor iedereen die een zwak immuunsysteem wil voorkomen. Benieuwd naar de inzichten?
-meta-tags: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, voedingsstoffen
+meta-tags: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, voedingsstoffen, overgang, menopauze, oestrogeen
 banner: https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
 ---
 
@@ -105,7 +105,9 @@ Om te beginnen. We mogen van geluk spreken dat er iets bestaat als chemotherapie
 
 ### Meerdere oorzaken
 
-Uiteraard zijn er veel meer oorzaken voor een zwak immuunsysteem. Ook minder zware farmaceutische medicijnen ( antibiotica) om een aandoening te verdrijven zijn al van invloed. Of het hebben van bloedarmoede. Ofwel ijzertekort. En ga zo maar door. Om deze lijst niet onnodig lang te maken. Laten we het voor nu hierbij. Ook bij deze oorzaken geldt. 
+Uiteraard zijn er veel meer oorzaken voor een zwak immuunsysteem. Ook minder zware farmaceutische medicijnen ( antibiotica) om een aandoening te verdrijven zijn al van invloed. 
+
+Of denk aan het hebben van bloedarmoede. Ofwel ijzertekort. Wat ook weer te maken kan hebben met de overgang of menopauze. Als gevolg van een laag oestrogeen gehalte. En ga zo maar door. Om deze lijst niet onnodig lang te maken. Laten we het voor nu hierbij. Ook bij deze oorzaken geldt. 
 
 **Alle kleine beetjes helpen.** Voor het versterken van je immuunsysteem. 
 
@@ -114,7 +116,7 @@ De antimicrobiële eigenschappen van Ivan Chai goed zijn bestudeerd. Hieruit bli
 
 ### Simpel gezegd 
 
-Een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd. 
+Een gezond spijsverteringsstelsel betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd. 
 
 Top. Je bent weer wat wijzer geworden.
 
