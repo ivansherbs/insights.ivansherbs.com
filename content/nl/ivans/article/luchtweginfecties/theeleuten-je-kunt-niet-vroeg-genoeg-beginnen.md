@@ -2,7 +2,7 @@
 layout: article.html
 title: Theeleuten: je kunt niet vroeg genoeg beginnen
 type: artikel
-category: | luchtweginfectie
+category: | luchtweginfecties
 Publish: IVAN's
   Author: Ivanka Lopukhina 
   tags:
