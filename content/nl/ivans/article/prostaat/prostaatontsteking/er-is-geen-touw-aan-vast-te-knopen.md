@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Er is geen touw aan vast te knopen...
+title: Geen touw aan vast te knopen...
 type: artikel
 category: | prostaatontsteking
 publish: IVAN's
