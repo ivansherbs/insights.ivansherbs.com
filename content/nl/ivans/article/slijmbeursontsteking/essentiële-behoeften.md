@@ -11,7 +11,7 @@ tags:
   - ouderdom
 meta-description: Bij een slijmbeursontsteking is niet alleen pijn, maar ook angst om te bewegen een allesbepalende factor. Benieuwd naar de inzichten?
 meta-tags: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspijn, gewricht, behoefte, slijmbeurs, slijmbeurzen, angst, pijn, bewegen
-banner: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
+banner: https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
 ---
 
 Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al helemaal met de meest gangbare activiteiten. Activiteiten die je op dagelijkse basis uitvoert.
@@ -36,7 +36,7 @@ Bij vermijding van de pijn kun je in een neerwaartse spiraal terecht komen waarb
 
 En om het allemaal wat erger te maken. Als gevolg kan dit leiden tot behoud van angst, ongeloof om te bewegen en in sommige gevallen zelfs leiden tot depressie. 
 
-https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
+https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
 
 ### We moeten vooruit
 
