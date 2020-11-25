@@ -12,7 +12,7 @@ tag:
   - gevoel
 meta-description: Hou jij ook van een paar glazen alcohol? Allemaal op één avond? Lees dan even heel snel de brief van Ivan over overmatig alcohol gebruik.
 meta-tags: keelontsteking, keelontsteking symptomen, keelpijn bij slikken, symptomen keelontsteking, ontstoken keel, droge keel, alcohol, droge mond en keel
-banner: https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
+banner: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
 ---
 
 Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL. En dat allemaal op één avond. Voel je vooral niet aangesproken. We bekijken zometeen namelijk ook nog even de statistieken. HA-HA.
@@ -65,7 +65,7 @@ Inderdaad. Je gevoel vertelt je dat je wel een lichte keelontsteking moet hebben
 
 Want alsof je géén alcohol meer gaat drinken. ha-ha. Tuurlijk wel. Hier komt de tip. 
 
-https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
+https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
 
 **Drink Ivan Chai.** Voor en ná een avondje uit met mannen. Of lekker met de meiden. Want.
 
