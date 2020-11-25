@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Theeleuten: je kunt niet vroeg genoeg beginnen
+title: Theeleuten: je kunt niet jong genoeg beginnen
 type: artikel
 category: | luchtweginfecties
 Publish: IVAN's
@@ -19,7 +19,7 @@ banner: https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?u
 Iedereen heeft wel eens last van een luchtweginfectie. Denk aan een verkoudheid of griep.
 En iedereen weet het.
 
-**"Je loopt er vroeg of laat weer een keer tegenaan"**
+**"Je loopt er jong of oud weer een keer tegenaan"**
 
 Meestal kun je er niet veel tegen doen. Zoals tijdens de wintermaanden wanneer je immuunsysteem moeite heeft zich te verdedigen. 
 Hier heeft iedereen last van. Dit effect kan worden versterkt door een ongezonde levensstijl.
@@ -62,7 +62,7 @@ Je lichaam vecht hierdoor beter tegen het virus. En je bent weer sneller beter.
 
 **Kortom.**
 
-Je kunt je kinderen niet vroeg genoeg laten kennismaken met eenvoudige en biologische alledaagse producten die het opnemen van voedingsstoffen bevorderen.
+Je kunt je kinderen niet jong genoeg laten kennismaken met eenvoudige en biologische alledaagse producten die het opnemen van voedingsstoffen bevorderen.
 
 En dit geeft jullie ook de gelegenheid om samen lekker te theeleuten met elkaar. Gezellig met opa en oma erbij.
 
@@ -78,7 +78,7 @@ Denk aan Ivan Chai.
 
 Een Siberische kruidenthee.
 
-Door je kind al op vroege leeftijd kennis te laten maken met thee drinken versterkt jullie weerstand.
+Door je kind al op jonge leeftijd kennis te laten maken met thee drinken versterkt jullie weerstand.
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent een verkoudheid, griep of pseudokroep te verzorgen.
 
