@@ -13,7 +13,7 @@ Publish: IVAN's
 - levensstijl
 meta-description: Verzorg bekende luchtweginfecties met Ivan Chai. Ook al op jonge leeftijd kun je een verkoudheid, griep of pseudokroep makkelijk verzorgen. Ontdek snel meer. 
 meta-tags: griep, verkoudheid, kinderen, oma, pseudokroep, moeders, luchtweginfectie, luchtweginfecties
-banner: https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
+banner: https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
 ---
 
 Iedereen heeft wel eens last van een luchtweginfectie. Denk aan een verkoudheid of griep.
@@ -38,7 +38,7 @@ Dus.
 
 Helemaal gedurende de wintermaanden en wanneer je medicijnen gebruikt. Zo houdt je lichaam en geest zo lang mogelijk gezond. Hetzelfde geldt overigens voor kinderen.
 
-https://drive.google.com/file/d/1jPOulMsS0oHDfTA38R4Pkl5CQJV6c9Ta/view?usp=sharing
+https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
 
 **Kinderen hebben ook extra voedingsstoffen nodig.**
 
