@@ -15,7 +15,7 @@ meta-tags: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare 
 banner: https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
 ---
 
-DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW. En nu zit ze ook nog eens ontzettend hard aan de DIARREE. 
+Dit is het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW. En nu zit ze ook nog eens ontzettend hard aan de DIARREE. 
 
 Zul je net zien. 
 
