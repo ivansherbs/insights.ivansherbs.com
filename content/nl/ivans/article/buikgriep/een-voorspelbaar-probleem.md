@@ -15,7 +15,7 @@ meta-tags: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare 
 banner: https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
 ---
 
-Dit is het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW. En nu zit ze ook nog eens ontzettend hard aan de DIARREE. 
+Dit is het DAGBOEK van een zeer emotionele, ontdane en onzekere vrouw. En nu zit ze ook nog eens ontzettend hard aan de diarree. 
 
 Zul je net zien. Bah.
 
@@ -23,7 +23,7 @@ Zul je net zien. Bah.
 
 Lief DAGBOEK,
 
-Vandaag was weer een hele vervelende dag voor mij. Ik zit GVD alweer aan de DIARREE. 
+Vandaag was weer een hele vervelende dag voor mij. Ik zit gvd alweer aan de DIARREE. 
 
 ALWEER! Hou je toch niet voor mogelijk. Naaaah.
 
