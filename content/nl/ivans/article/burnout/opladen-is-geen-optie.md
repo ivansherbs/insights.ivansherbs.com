@@ -19,7 +19,7 @@ banner: https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?u
 
 Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van te maken. Ze was er zelf ook door gegrepen. En goed ook.
 
-### Portret
+### In retrospectief
 
 **Wanneer ik terugkijk** op die periode uit mijn leven. Is het eigenlijk zo gek nog niet dat ik een burnout heb opgelopen. Je gaat immers op in het werkende leven.
 
