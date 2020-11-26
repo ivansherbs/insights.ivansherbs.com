@@ -17,9 +17,7 @@ banner: https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?u
 
 Dit is het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW. En nu zit ze ook nog eens ontzettend hard aan de DIARREE. 
 
-Zul je net zien. 
-
-Bah.
+Zul je net zien. Bah.
 
 .................
 
