@@ -23,7 +23,7 @@ meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, ve
 
 **Anekdotisch bewijs is krachtig bewijs**
 
-Een oplettende oma zal in haar verleden veel verhalen hebben gehoord. Net als alle oma’s die ik heb ontmoet! 
+Een oplettende grootmoeder zal in haar verleden veel verhalen hebben gehoord. Net als alle grootmoeders die ik heb ontmoet! Of zoals de kinderen haar noemen, oma.
 
 Het zijn dé betrouwbare bronnen over voeding en welzijn. Een pluspunt is dat ze over het algemeen geen moeilijke termen gebruiken.
 
