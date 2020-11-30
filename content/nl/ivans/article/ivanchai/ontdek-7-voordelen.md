@@ -105,7 +105,7 @@ Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.
 
-problemen| [baarmoeder ongenoegen,](#Preventieve-bescherming-van-je-meest-kwetsbare-orgaan) [keelontsteking,](#De-man-zonder-hamer) [peesontsteking,](#Runners-high-versus-ontstoken-pees) [slijmbeursontsteking](#essentiële-behoeften)
+problemen| [baarmoederpijn,](#) [tandvleesontsteking,](#essentiële-behandelingen) [peesontsteking,](#Runners-high-versus-ontstoken-pees) [slijmbeursontsteking](#essentiële-behoeften)
 
 <br>
 
