@@ -33,7 +33,7 @@ Jammer genoeg, groeien deze schimmels op plekken waar ze je lichaam kunnen besch
 Aan welke oorzaken moet ik dan denken? <br>
 Eén van de oorzaken die juist zorgen voor een overtollige hoeveelheid aan micro-organisme, is het gebruik van farmaceutische medicijnen.
 
-Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je afweersysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Dit kan leiden tot een infectie.
+Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je immuunsysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Dit kan leiden tot een infectie.
 
 ### Welke medicijnen zijn van invloed op infecties?
 
@@ -81,7 +81,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 
 Een sterke weerstand helpt je om je te verdedigen tegen onzichtbare indringers van buitenaf.
 
-Dit verdedigen doet je afweersysteem. Om je afweersysteem te versterken heb je de juiste voedingsstoffen nodig.
+Dit verdedigen doet je immuunsysteem. Om je immuunsysteem te versterken heb je de juiste voedingsstoffen nodig.
 
 * Ivan Chai helpt je om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt.
 
@@ -90,4 +90,4 @@ De werking kunnen we als volgt kort omschrijven.
 * De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen.
-Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
+Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd.
