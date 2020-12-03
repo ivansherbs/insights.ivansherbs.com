@@ -134,7 +134,9 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwar
 
 **Groene Ivan Chai?**
 
-En voor de groene thee drinkers onder ons. Het bestaat! Groene Ivan Chai! Groene Ivan Chai bevat een juist frisse bitterzoete en grassige smaak.
+En voor de groene thee drinkers onder ons. Het bestaat; Groene Ivan Chai. 
+
+Groene Ivan Chai bevat een juist frisse bitterzoete en grassige smaak.
 
 Benieuwd geworden naar het effect van een bevalling of spiraaltje? 
 
