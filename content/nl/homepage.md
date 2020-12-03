@@ -272,8 +272,8 @@ De favoriete plekken van schimmels zijn dan de mond, handen en voeten. Maar ook 
 <br>
 <br>
 
-https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
-### Theeleuten: je kunt niet vroeg genoeg beginnen
+https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
+### Theeleuten: je kunt niet jong genoeg beginnen
 
 artikel| **luchtweginfectie**
 
@@ -350,7 +350,7 @@ Pezen mogen het vuile werk op zich nemen wanneer jij lekker aan het sporten bent
 <br>
 <br>
 
-https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
+https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
 ### Essentiële behoeften
 
 artikel| **slijmbeursontsteking**
