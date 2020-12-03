@@ -12,7 +12,7 @@ tag:
   - eyeopener
   - gevoel
 meta-description: 
-meta-tags: tandvleesontsteking, bloedend tandvlees, tandvleesontstekingen, ontstoken tandvlees behandelen, tandvleesontsteking behandeling, tandarts, mondzorg, wortelkanaalbehandeling,
+meta-tags: tandvleesontsteking, bloedend tandvlees, tandvleesontstekingen, ontstoken tandvlees behandelen, tandarts, mondzorg, wortelkanaalbehandeling,
 banner: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
 ---
 
