@@ -5,7 +5,7 @@ title: Essentiële behandelingen
 type: artikel
 category: | tandvleesontsteking
 Publish: IVAN's
-Author: Ivanka Lopukhina
+Author: Svetlana Petrova
 tag:
   - ontsteking
   - levensstijl
@@ -16,9 +16,9 @@ meta-tags: tandvleesontsteking, bloedend tandvlees, tandvleesontstekingen, ontst
 banner: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
 ---
 
-### - vraag:
+### - Vraag:
 
-_Wie houdt er nou niet van om periodiek al liggende met open mond in een spot te kijken terwijl je gebit even goed onderhanden wordt genomen?_
+Wie houdt er nou niet van om periodiek al liggende met open mond in een spot te kijken terwijl je gebit even goed onderhanden wordt genomen?
 
 Ineens is het dan weer zover. Het bezoekje waar iedereen altijd zin in heeft. Graag tijd voor vrij maakt. Ik heb het over een bezoek aan de tandarts en zijn lieftallige assistente. En ja. De meningen zijn hierover verdeeld. 
 
@@ -66,9 +66,9 @@ Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
 * Ivan Chai bevat in totaal 7 voordelen. Goed voor lichaam en geest. Eén van die voordelen is de kalmerende werking op het centrale zenuwstelsel. Goed tegen angst. 
 
-### - vraag:
+### - Vraag:
 
-_Waarom ik het het voordeel goed tegen angst aan de kaak stel?_
+Waarom ik het het voordeel goed tegen angst aan de kaak stel?
 
 https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
 
