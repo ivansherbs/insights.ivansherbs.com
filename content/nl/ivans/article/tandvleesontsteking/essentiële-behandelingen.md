@@ -20,7 +20,7 @@ banner: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?u
 
 Wie houdt er nou niet van om periodiek al liggende met open mond in een spot te kijken terwijl je gebit even goed onderhanden wordt genomen?
 
-Ineens is het dan weer zover. Het bezoekje waar iedereen altijd zin in heeft. Graag tijd voor vrij maakt. Ik heb het over een bezoek aan de tandarts en zijn lieftallige assistente. En ja. De meningen zijn hierover verdeeld. 
+Ineens is het dan weer zover. Het bezoekje waar iedereen altijd zin in heeft. Graag tijd voor vrij maakt. Ik heb het over een bezoek aan de tandarts en zijn lieftallige assistente.
 
 Laten we wel wezen. Goede mondzorg is van belang om je meest favoriete bezigheden te kunnen uitvoeren.
 
