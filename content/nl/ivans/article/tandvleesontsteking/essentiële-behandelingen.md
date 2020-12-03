@@ -16,8 +16,6 @@ meta-tags: tandvleesontsteking, bloedend tandvlees, tandvleesontstekingen, ontst
 banner: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
 ---
 
-### - Vraag:
-
 Wie houdt er nou niet van om periodiek al liggende met open mond in een spot te kijken terwijl je gebit even goed onderhanden wordt genomen?
 
 Ineens is het dan weer zover. Het bezoekje waar iedereen altijd zin in heeft. Graag tijd voor vrij maakt. Ik heb het over een bezoek aan de tandarts en zijn lieftallige assistente.
@@ -54,7 +52,7 @@ Waar wij je op willen wijzen is dat naast de bekende adviezen er eenvoudige en b
 Of in geval van een bezoek aan de tandarts
 * ( periodiek) preventief te behandelen.
 
-Denk aan Ivan Chai. Een Siberische kruidenthee. Goed voor lichaam en geest. 
+Denk aan Ivan Chai. Een Siberische kruidenthee. Goed voor lichaam en geest.
 
 **Waarom Ivan Chai?**
 
@@ -66,9 +64,11 @@ Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
 
 * Ivan Chai bevat in totaal 7 voordelen. Goed voor lichaam en geest. Eén van die voordelen is de kalmerende werking op het centrale zenuwstelsel. Goed tegen angst. 
 
-### - Vraag:
+( Waarom ik het het voordeel goed tegen angst aan de kaak stel? Lees snel verder)
 
-Waarom ik het het voordeel goed tegen angst aan de kaak stel?
+### Nog even ter info
+
+Terugkomend op een tandvleesontsteking. Eenmaal een tandvleesontsteking behandeling opgelegd gekregen. Drink Ivan Chai als aanvulling op antibiotica. Ivan Chai bevat meerdere voordelen goed voor lichaam en geest; om de kans op ongewenste bijwerkingen te voorkomen. 
 
 https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
 
@@ -98,6 +98,3 @@ Wellicht ook wel deels begrijpelijk, wanneer je weet dat er een wortelkanaalbeha
 
 **Ivan Chai vermindert de kans op angst**
 * Ivan Chai heeft een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek ondersteund deze kalmerende werking. De kalmerende werking heeft namelijk effect op je centrale zenuwstelsel.
-### Nog even ter info
-
-Terugkomend op een tandvleesontsteking. Eenmaal een tandvleesontsteking behandeling opgelegd gekregen. Drink Ivan Chai als aanvulling op antibiotica. Ivan Chai bevat meerdere voordelen goed voor lichaam en geest; om de kans op ongewenste bijwerkingen te voorkomen. 
