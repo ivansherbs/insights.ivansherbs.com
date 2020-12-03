@@ -190,7 +190,7 @@ Een eenvoudig en biologisch alledaags product
 
 Denk aan Ivan Chai. Een Siberische kruidenthee. Goed voor lichaam en geest. 
 
-Mooi bijkomend voordeel.
+### Mooi bijkomend voordeel
 
 * Ivan Chai bevat géén cafeïne, géén toegevoegde suikers en géén aroma’s 
 
