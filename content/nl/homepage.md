@@ -303,11 +303,11 @@ Ouderdom, een ernstige ziekte of farmaceutische medicijnen zijn enkele voorbeeld
 <br>
 
 https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
-### Preventieve bescherming van je meest kwetsbare orgaan
+### 4 shotglaasjes vol bloed
 
-artikel| **baarmoederontsteking**
+artikel| **baarmoederklachten**
 
-Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoederontsteking. Oók vrouwen die net zijn bevallen...
+De kleur van je menstruatiecyclus geeft een indicatie over de gezondheid van je hormoonhuishouding. En wellicht nog belangrijker...
 
 [Ontdek meer inzichten](#)
 
@@ -318,11 +318,13 @@ Door een spiraaltje heeft 17% van de vrouwen een verhoogde kans op een baarmoede
 <br>
 
 https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
-### De man zonder hamer
+### Essentiële behandelingen
 
-artikel| **keelontsteking**
+artikel| **tandvleesontsteking**
 
-Je kent de symptomen maar al te goed wanneer het weer zo ver is...
+Bij jou halfjaarlijkse bezoek draait het niet alleen om je gebit. Je tandvlees verwacht ook de nodige aandacht. Alles om jou mond normaal te doen laten functioneren. 
+
+Een tandvleesontsteking ligt immers op de loer. Mede mogelijk gemaakt door micro organismen die jou mond bewonen...
 
 [Ontdek meer inzichten](#)
 
