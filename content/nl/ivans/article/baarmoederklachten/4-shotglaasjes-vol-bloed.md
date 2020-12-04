@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: 3 shotglaasjes vol bloed
+title: 4 shotglaasjes vol bloed
 type: artikel
 Category: | baarmoederklachten
 Publish: IVAN's
