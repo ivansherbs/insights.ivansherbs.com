@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: 4 shotglaasjes vol bloed
+title: 3 shotglaasjes vol bloed
 type: artikel
 Category: | baarmoederklachten
 Publish: IVAN's
@@ -14,13 +14,13 @@ Meta-tags: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongest
 Banner: https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
 ---
 
-Wanneer jij ongesteld bent komt er per keer 50ml aan bloed uitzetten. En voor de rekenwonders onder ons; dat zijn toch al gauw 4 shotglaasjes vol bloed per week. 
+Wanneer jij ongesteld bent komt er per keer ongeveer 80ml aan bloed uitzetten. En voor de rekenwonders onder ons; dat zijn toch al gauw 4 shotglaasjes vol bloed per week. 
 
 Welke drank mag je lekker zelf verzinnen. 
 
 Wist je dat?
 
-* de kleur van de uiteindelijk mix die zichtbaar is iets zegt over je innerlijke balans?
+* de kleur van de uiteindelijk mix die zichtbaar is letterlijk iets zegt over je innerlijke balans?
 
 ### Onderzoek
 
