@@ -144,9 +144,9 @@ https://drive.google.com/file/d/1SffkFIy2pJOTFPZJ7kmGGgUVXFtye6Kq/view?usp=shari
 
 ### Bevalling versus spiraaltje 
 
-Geinig he? Hoeveel kleuren je baarmoeder wel niet kan produceren. En wat dat zegt over je innerlijke balans. Over produceren en een baarmoeder gesproken. Naast een rijkelijk gevuld kleurenpalet, ligt het in de lijn der verwachtingen dat er ook wel eens één of meerdere kinderen worden geproduceerd.
+Geinig he? Hoeveel kleuren je baarmoeder wel niet kan ontwikkelen. En wat dat zegt over je innerlijke balans. Over ontwikkelen en een baarmoeder gesproken. Naast een rijkelijk gevuld kleurenpalet, ligt het in de lijn der verwachtingen dat er ook wel eens één of meerdere kinderen ter wereld worden gebracht.
 
-Dit fenomeen kan zorgen dat je meest kwetsbare orgaan een ontsteking kan oplopen. Deze dien je goed te verzorgen om narigheid te voorkomen. Nu vraag je jezelf waarschijnlijk af. 
+Dit fenomeen kan zorgen dat je meest kwetsbare orgaan een ontsteking kan oplopen. Deze dien je goed te verzorgen om narigheid te voorkomen. Nu vraag je jezelf waarschijnlijk af.
 
 Wat bedoel je hiermee? 
 
