@@ -9,7 +9,7 @@ Publish: IVAN's
   - baarmoeder
   - vrouw
   - moeder
-meta-description: 
+meta-description: Wist je dat? De verschillende kleuren rood die jij menstrueert iets vertelt over je innerlijkse balans. Benieuwd naar de inzichten?
 Meta-tags: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongesteld, menstruatie, baarmoeder, bevalling, oestrogeen, menopauze, keizersnede, 
 Banner: https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
 ---
