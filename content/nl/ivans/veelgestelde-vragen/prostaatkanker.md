@@ -31,7 +31,7 @@ We willen graag benadrukken dat Ivan Chai de anti-tumor activiteit versterkt. En
 
 Er zijn echter geen studies op klinisch niveau bekend. 
 
-> Verzorg je lichaam en geest met kruidenthee uit Siberië. En wij garanderen je dat je beter in staat bent de kans op prostaatkanker te verminderen.
+> Onderzoeken hebben aangetoond dat Ivan Chai een potentieel middel is om de kans op prostaatkanker te verkleinen. 
 
 Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van prostaatkanker, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
