@@ -13,7 +13,7 @@ Versterk dagelijks je lichaam en geest met kruiden uit Siberië.
 
 Wij geloven in het aanbieden van producten met krachtige impact op de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu. 
 
-Ons sociaal en verantwoordelijk gedrag richt zich ons op de volgende drie punten. 
+Ons sociaal en verantwoordelijk gedrag richt zich op de volgende drie punten. 
 
 * Introduceren kruiden uit Siberië
 
