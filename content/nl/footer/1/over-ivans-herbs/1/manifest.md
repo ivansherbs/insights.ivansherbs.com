@@ -1,6 +1,6 @@
 # Manifest
 
-Wij geloven in het versterken van de gezondheidszorg middels traditionele kruidengeneeskunde.
+Wij geloven in het versterken van onze gezondheidszorg middels traditionele kruidengeneeskunde.
 
 Er is een tijd van komen en gaan voor farmaceutische medicatie, echter het wordt niet altijd en overal gewaardeerd.
 
