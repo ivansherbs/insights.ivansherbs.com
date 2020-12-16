@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=shari
 
 ### Introduceren kruiden uit Siberië
 
-Wij geloven in het aanbieden van eenvoudige en biologische alledaagse producten.
+Wij geloven in het aanbieden van eenvoudige, veilige en biologische alledaagse producten.
 
 Onze toevoerlijn van kruiden zijn een aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. 
 
