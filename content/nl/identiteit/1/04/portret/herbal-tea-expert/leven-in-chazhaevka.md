@@ -79,7 +79,7 @@ Iedereen draagt zijn bijdrage door zich te richten op hetgeen waar je jezelf goe
 https://drive.google.com/file/d/15s8bekS2pIkrCTnBW_sZhjG9_VQ4RNAc/view?usp=sharing
 > Dagelijkse rijden we kilometers naar de velden. 
 
-In Siberië worden met name geneeskrachtige kruiden met de hand geoogst. Hierna kan het worden gedronken in de vorm van de Siberische kruidenthee Ivan Chai. Of als toevoeging worden gebruikt door het eten. Bij duurzaam gebruik is het kalmerende effect merkbaar. Mijn leven is drastisch veranderd na mijn mentale stoornis.
+In Chazhaevka worden kruiden met de hand geoogst. Hierna kan het worden gedronken als de kruidenthee Ivan Chai of een andere kruidenmelange. Het kan tevens als toevoeging worden gebruikt door het eten. Bij duurzaam gebruik is het kalmerende effect merkbaar. Mijn leven is drastisch veranderd na mijn mentale stoornis.
 
 **Stress is een ware sluipmoordenaar.**
 
