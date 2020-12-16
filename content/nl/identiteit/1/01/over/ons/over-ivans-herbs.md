@@ -13,7 +13,7 @@ Versterk dagelijks je lichaam en geest met kruiden uit Siberië.
 
 Wij geloven in het aanbieden van producten met krachtige impact op de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu. 
 
-Om ons sociaal en verantwoordelijk gedrag vorm te geven richten wij ons op de volgende drie punten. 
+Ons sociaal en verantwoordelijk gedrag richt zich ons op de volgende drie punten. 
 
 * Introduceren kruiden uit Siberië
 
@@ -35,28 +35,16 @@ De farmaceutische industrie wordt getypeerd door een opeenvolging van mislukking
 
 Deze genormaliseerde manier van werken dient daarom vergezeld te worden door een eenvoudig tegengeluid. 
 
-Dit doen wij door het aanbieden van Ivan Chai. 
-
-Een Siberische kruidenthee goed voor je lichaam en geest. 
-
-* Ivan Chai bevat 7 voordelen. 
-
-* Drink Ivan Chai tegen 17 problemen. 
-
-* Duurzaam productieproces volgens Eco7-Standaard.
+Dit doen wij door het aanbieden van kruiden uit Siberië. Goed voor lichaam en geest. 
 
 
 https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
 
 ### Informeren
 
-Wij hebben als doel het verbeteren van jou kennis over problemen.
+Wij hebben als doel het verbeteren van jou kennis over fysieke danwel lichamelijke problemen.
 
-Lichamelijke en geestelijke problemen wel te verstaan. 
-
-Dit doen wij in de vorm van IVAN’s. 
-
-IVAN’s is een online MAGAZINE om 17 alledaagse problemen bespreekbaar te maken. 
+Dit doen wij in de vorm van IVAN’s. IVAN’s is een online MAGAZINE om alledaagse problemen bespreekbaar te maken. 
 
 Ontdek de inzichten en laat je informeren.
 
