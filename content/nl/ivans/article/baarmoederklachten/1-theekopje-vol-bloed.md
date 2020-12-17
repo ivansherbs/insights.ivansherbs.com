@@ -2,7 +2,7 @@
 layout: article.html
 title: 1 theekopje vol bloed
 type: artikel
-Category: | baarmoederklachten
+Category: | menstruatiepijn
 Publish: IVAN's
   Author: Ivanka Lopukhina
   tags:
