@@ -26,7 +26,9 @@ Wist je dat?
 
 Een onafhankelijk instituut van verloskundigen en gynaecologen heeft hier uitvoerig onderzoek naar gedaan. De kleur van je menstruatiecyclus geeft een indicatie over de gezondheid van je hormoonhuishouding. En wellicht nog belangrijker, welke risicofactoren eraan zijn verbonden. 
 
-Wij geven jullie dan ook graag een overzicht. Met als aanvulling waarom Ivan Chai als eenvoudig en biologisch alledaags product je innerlijke balans helpt op peil je houden. 
+Wij geven jullie dan ook graag een overzicht. Met het antwoord op de vraag waarom Ivan Chai als eenvoudig, veilig en biologisch alledaags product je innerlijke balans op peil helpt te houden. 
+
+En waarom Ivan Chai als aanvulling op farmaceutische medicijnen kan worden gebruikt. 
 
 ### Kleurenpalet
 
