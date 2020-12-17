@@ -67,9 +67,9 @@ Dit is een arbeidsintensief proces waarbij het onderzoek tevens afhankelijk is v
 En met succes!
 
 **De bevindingen** van haar onderzoek hebben het volgende aangetoond.
-* Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
+* Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van een prostaatontsteking.
 
-* Ivan Chai gaat óók de groei van de prostaat tegen.
+* Ivan Chai gaat óók de groei van de prostaat tegen (bph).
 
 **Mooi bijkomend voordeel**
 * Ivan Chai verzorgt tevens de urinewegen.
