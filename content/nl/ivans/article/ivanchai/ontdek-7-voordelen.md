@@ -16,7 +16,7 @@ author: Ivan Alexandrovitsj
     - man 
     - vrouw
     - 45+
-meta-description: Op zoek naar een eenvoudig en biologisch alledaags product goed voor lichaam en geest? Ivan Chai bevat 7 voordelen tegen 17 problemen. Ontdek de Siberische kruidenthee Ivan Chai. 
+meta-description: Op zoek naar een eenvoudig en biologisch alledaags product goed voor lichaam en geest? Ivan Chai bevat 7 voordelen. Ontdek de Siberische kruidenthee Ivan Chai. 
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 ---
 
@@ -47,7 +47,7 @@ https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=shari
 
 ## Waarom Ivan Chai?
 
-Ivan Chai bevat 7 voordelen tegen 17 problemen. Goed voor lichaam en geest. 
+Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest. 
 
 Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen.
 
@@ -81,8 +81,6 @@ De werking kunnen we als volgt kort omschrijven.
 
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
-problemen| [infectie,](#Het-onzichtbare-leger) [luchtweginfectie,](#Theeleuten-je-kunt-niet-vroeg-genoeg-beginnen) [zwak afweersysteem](#alle-kleine-beetjes-helpen)
-
 <br>
 
 https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
@@ -104,8 +102,6 @@ Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken
 * Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen.
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.
-
-problemen| [baarmoederpijn,](#) [tandvleesontsteking,](#essentiële-behandelingen) [peesontsteking,](#Runners-high-versus-ontstoken-pees) [slijmbeursontsteking](#essentiële-behoeften)
 
 <br>
 
@@ -130,8 +126,6 @@ Benieuwd waarom?
 
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
-problemen| [hart- en vaatziekten](#Je-hart-als-bakermat-van-liefde)
-
 <br>
 
 https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
@@ -149,8 +143,6 @@ Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend 
 
 In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
 
-problemen| [slaapproblemen](#Stress-als-katalysator-op-slaapproblemen)
-
 <br>
 
 https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
@@ -167,8 +159,6 @@ Voor je het weet loop je té lang rond met angst. Of een overmatige hoeveelheid 
 Goed om te weten. Iedereen ervaart een lichte vorm van angst. En een beetje stress is oké. Beiden zorgen ervoor dat je erg gefocust en actief bent. Leer omgaan met lichtere vormen van angst en stress. En voorkom hiermee ernstige mentale klachten.
 
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
-
-problemen| [angst,](#angst-als-controlemechanisme) [stress,](#Ben-jij-er-al-achter-hoe-het-écht-voelt) [burn-out](#opladen-is-géén-optie)
 
 <br>
 
@@ -223,8 +213,6 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 
 Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen.
 
-problemen| [prostaatontsteking,](#Er-is-geen-touw-aan-vast-te-knopen) [vergrote prostaat,](#groeien-tot-je-erbij-neervalt) [prostaatkanker,](#Een-onopgemerkt-probleem) [urineweginfectie](#voorkom-relatieproblemen)
-
 <br>
 
 https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
@@ -253,8 +241,6 @@ In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij
 Om de statistieken er nog even bij te pakken. 75% van de patiënten van het prikkelbare darmsyndroom is vrouw. Je kunt last krijgen van je spijsverteringsstelsel wanneer je veranderingen ondergaan in je dieet. Van gezond eten naar fastfood en andersom. Of een keer heel erg pittig eten.
 
 Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten kunnen zelfs worden geëlimineerd door grote hoeveelheden Ivan Chai te drinken.
-
-problemen| [buikgriep](#een-voorspelbaar-probleem)
 
 <br>
 
