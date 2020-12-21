@@ -2,5 +2,8 @@
 
 Naar webwinkel:
 
-[button](bol.com)
-[button](amazon)
+[button- shopify]
+
+[button - bol.com]
+
+[button - amazon]
