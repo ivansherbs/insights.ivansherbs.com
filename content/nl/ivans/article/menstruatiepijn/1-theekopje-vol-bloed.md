@@ -202,4 +202,4 @@ Drink Ivan Chai niet alleen preventief tegen problemen. Maar ook om je fysiek en
 
 Mocht je toch onverhoopt een met een ernstige aandoening rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de farmaceutische behandelmethode.
 
-Ben jij benieuwd naar meer inzichten? 
+Ben jij benieuwd naar meer inzichten over baarmoederontstekingen?
