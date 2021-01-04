@@ -4,7 +4,7 @@ Title: Grootmoeders kennen de voordelen
 type: artikel
 category: | Ivan Chai
 publish: IVAN's
-author: Michael Koch
+author: Ivanka Lopukhina
     tags:
     - weerstand
     - ontsteking
