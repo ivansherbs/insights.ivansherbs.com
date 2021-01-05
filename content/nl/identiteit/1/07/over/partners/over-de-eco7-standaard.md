@@ -2,12 +2,12 @@
 layout: article.html
 title: Eco7-Standaard
 type: over
-category: | partners
+category: partners
 publish: IVAN's
 author: Ivan Alexandrovitsj
-  tags:
-  - community building
-  - natuur
+tags:
+- community building
+- natuur
 meta-description: Om het mileu te beschermen en de kwaliteit van ons product te kunnen waarborgen, zet onze Eco7-Standaard de norm... Lees snel meer over onze Eco7-Standaard. 
 meta-tags: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7-standaard
 banner: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing

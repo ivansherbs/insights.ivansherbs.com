@@ -1,9 +1,8 @@
 ---
 layout: article.html
-Title: Ontdek kruidengeneeskunde
-
-Button -> [Bestel nu]
+title: Ontdek kruidengeneeskunde
 ---
+<!-- Button -> [Bestel nu] -->
 
 ## Ontdek Ivan Chai
 

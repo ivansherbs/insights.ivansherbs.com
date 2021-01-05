@@ -2,15 +2,15 @@
 layout: article.html
 title: Het onzichtbare leger
 type: artikel
-category: | infecties
+category: infecties
 publish: IVAN's 
 author: Svetlana Petrova
 tags:
-  - weerstand
-  - vrouw
-  - infecties
-  - gevoel
-  - relatie
+- weerstand
+- vrouw
+- infecties
+- gevoel
+- relatie
 meta-description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmel? 
 meta-tags: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel
 banner: https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing

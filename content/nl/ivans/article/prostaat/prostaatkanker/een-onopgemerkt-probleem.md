@@ -2,15 +2,15 @@
 layout: article.html
 title: Een onopgemerkt probleem
 type: artikel
-category: | prostaatkanker
-Publish: IVAN's
+category: prostaatkanker
+publish: IVAN's
 author: Ivan Alexandrovitsj
 tags:
-  - man
-  - 45+
-  - eyeopener
-  - prostaat
-  - ziekten
+- man
+- 45+
+- eyeopener
+- prostaat
+- ziekten
 meta-description: Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. We kunnen echter één risicofactor met zekerheid vaststellen. Benieuwd naar de inzichten?
 meta-tags: prostaat, prostaatkanker, prostaatklachten, prostaatpijn, symtomen prostaat kanker, psa
 banner: https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing

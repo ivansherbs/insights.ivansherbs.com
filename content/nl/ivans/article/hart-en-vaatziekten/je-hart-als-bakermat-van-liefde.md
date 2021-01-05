@@ -2,14 +2,14 @@
 layout: article.html
 title: Je hart als bakermat van liefde
 type: artikel
-category: | hart- en vaatziekten
+category: hart- en vaatziekten
 publish: IVAN's
 author: Svetlana Petrova
 tags:
-  - eyeopener
-  - gevoel
-  - relatie
-  - ziekten
+- eyeopener
+- gevoel
+- relatie
+- ziekten
 meta-description: Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. Beniewd wat voor een invloed liefde heeft op je hart?
 meta-tags: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoelens, vaatziekten, 
 banner: https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing

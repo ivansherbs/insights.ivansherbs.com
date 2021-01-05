@@ -2,16 +2,16 @@
 layout: article.html
 title: 1 theekopje vol bloed
 type: artikel
-Category: | menstruatiepijn
-Publish: IVAN's
-  Author: Ivanka Lopukhina
-  tags:
-  - baarmoeder
-  - vrouw
-  - moeder
+category: menstruatiepijn
+publish: IVAN's
+author: Ivanka Lopukhina
+tags:
+- baarmoeder
+- vrouw
+- moeder
 meta-description: Wist je dat? De verschillende kleuren rood die jij menstrueert iets vertelt over je innerlijkse balans. Benieuwd naar de inzichten?
-Meta-tags: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongesteld, menstruatie, baarmoeder, bevalling, oestrogeen, menopauze, keizersnede, 
-Banner: https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
+meta-tags: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongesteld, menstruatie, baarmoeder, bevalling, oestrogeen, menopauze, keizersnede
+banner: https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
 ---
 
 Wanneer jij ongesteld bent komt er per keer ongeveer 80ml aan bloed uitzetten. En voor de rekenwonders onder ons; dat is toch al gauw 1 theekopje vol bloed per week. 

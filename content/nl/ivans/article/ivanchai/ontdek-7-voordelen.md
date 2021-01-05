@@ -2,20 +2,20 @@
 layout: article.html
 title: Ontdek 7 voordelen
 type: artikel
-category: | Ivan Chai
+category: Ivan Chai
 publish: IVAN's
 author: Ivan Alexandrovitsj
-    tags:
-    - weerstand
-    - ontsteking
-    - ziekten
-    - mentale klachten
-    - prostaat
-    - urinewegen
-    - buikkrampen
-    - man 
-    - vrouw
-    - 45+
+tags:
+- weerstand
+- ontsteking
+- ziekten
+- mentale klachten
+- prostaat
+- urinewegen
+- buikkrampen
+- man 
+- vrouw
+- 45+
 meta-description: Op zoek naar een eenvoudig, veilig en biologisch alledaags product goed voor lichaam en geest? Ivan Chai bevat 7 voordelen. Ontdek de Siberische kruidenthee Ivan Chai. 
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 ---

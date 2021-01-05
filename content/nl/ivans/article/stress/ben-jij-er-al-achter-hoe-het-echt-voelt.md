@@ -2,14 +2,14 @@
 layout: article.html
 title: Ben jij er al achter hoe het écht voelt?
 type: artikel
-category: | stress
+category: stress
 publish: IVAN's
-  author: Ivan Alexandrovitj
-  tags:
-  - stress
-  - mentale klachten
-  - werk
-  - gevoel
+author: Ivan Alexandrovitj
+tags:
+- stress
+- mentale klachten
+- werk
+- gevoel
 meta-description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Ontdek nu de inzichten. Leer omgaan met stress.
 meta-tags: stress, cortisol, stress verminderen, stresshormoon, wat is stress, omgaan met stress
 banner: https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing

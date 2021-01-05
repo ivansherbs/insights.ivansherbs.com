@@ -1,11 +1,11 @@
 ---
 layout: article.html
-title: Theeleuten: je kunt niet jong genoeg beginnen
+title: "Theeleuten: je kunt niet jong genoeg beginnen"
 type: artikel
-category: | luchtweginfecties
-Publish: IVAN's
-  Author: Ivanka Lopukhina 
-  tags:
+category: luchtweginfecties
+publish: IVAN's
+author: Ivanka Lopukhina 
+tags:
 - weerstand
 - gezin
 - infectie

@@ -2,14 +2,14 @@
 layout: article.html
 title: Runners high versus Ontstoken pees
 type: artikel
-category: | peesontsteking
+category: peesontsteking
 publish: IVAN's
 author: Ivan Alexandrovitsj
 tags:
-  - ontsteking
-  - sport
-  - ontsteking
-  - eyeopener
+- ontsteking
+- sport
+- ontsteking
+- eyeopener
 meta-description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken achillespees is zo opgelopen. Benieuwd naar de inzichten?
 meta-tags: hardlopen, hardlopers, achillespees, endorfine, endorfines, peesontsteking, duursport, duursporten, pees, pezen
 banner: https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing

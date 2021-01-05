@@ -2,14 +2,14 @@
 layout: article.html
 title: Opladen is géén optie
 type: artikel
-category: | burnout
+category: burnout
 publish: IVAN's
 author: Svetlana Petrova
 tags:
-  - mentale klachten
-  - werk
-  - eyeopener
-  - gevoel
+- mentale klachten
+- werk
+- eyeopener
+- gevoel
 meta-description: Meer dan 1.000.000 mensen in Nederland hebben te maken met een burnout klachten. Mede mogelijk gemaakt door meerdere factoren. Het krijgen van een burnout is een groeiend probleem. Benieuwd naar de inzichten?
 meta-tags: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, symptomen burnout, wat is een burnout, koffie, stress, stresshormoon, bloedsuikerspiegel
 banner: https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing

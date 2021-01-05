@@ -2,13 +2,13 @@
 layout: article.html
 title: Angst als controlemechanisme
 type: artikel
-category: | angst
+category: angst
 publish: IVAN's
 author: Svetlana Petrova
 tags:
-  - mentale klachten
-  - werk
-  - eyeopener
+- mentale klachten
+- werk
+- eyeopener
 meta-description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar de inzichten?
 meta-tags: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten, controle, fobie, sociale angst, paniek
 banner: https://drive.google.com/file/d/1kK2QSdSh3CrNpuy7ipcW_xpO6oPMTNJ-/view?usp=sharing

@@ -2,15 +2,15 @@
 layout: article.html
 title: Alle kleine beetjes helpen...
 type: artikel
-category: | zwak immuunsysteem
+category: zwak immuunsysteem
 publish: IVAN's
 author: Ivan Alexandrovitsj
 tags:
-  - weerstand
-  - levensstijl	
-  - eyeopener	
-  - ziekten	
-  - ouderdom
+- weerstand
+- levensstijl	
+- eyeopener	
+- ziekten	
+- ouderdom
 meta-description: Dit artikel is bedoeld voor iedereen die een zwak immuunsysteem wil voorkomen. Benieuwd naar de inzichten?
 meta-tags: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, voedingsstoffen, overgang, menopauze, oestrogeen
 banner: https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
