@@ -16,7 +16,7 @@ tags:
 - buikkrampen
 - man
 - vrouw
-- 45+
+- 46+
 meta-description: Grootmoeders uit de Sovjet-Unie kennen de geheimen van Ivan Chai. De Siberische kruidenthee Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest. Lees snel meer. 
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 ---
