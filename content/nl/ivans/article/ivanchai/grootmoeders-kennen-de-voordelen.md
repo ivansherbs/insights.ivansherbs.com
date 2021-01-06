@@ -3,8 +3,9 @@ layout: article.html
 title: Grootmoeders kennen de voordelen
 type: artikel
 category: Ivan Chai
-publish: IVAN's
-author: Ivanka Lopukhina
+publish:
+  author: Ivanka Lopukhina
+  date: 06.01.2021
 tags:
 - weerstand
 - ontsteking
