@@ -32,13 +32,30 @@ module.exports = function(eleventyConfig) {
 
     // *******************************
 
-    // use table of contets
     let mia = require('markdown-it-anchor');
-    let mitoc = require('markdown-it-table-of-contents');
     md.use(mia);
-    md.use(mitoc, {
-        includeLevel: [2, 3]
-    });
+
+    // use table of contetns
+    var supportedTocs = [
+        //[1],
+        //[2],
+        //[3],
+        [4]
+        //[1, 2],
+        //[2, 3],
+        //[3, 4],
+        //[1, 2, 3],
+        //[2, 3, 4],
+        //[1, 2, 3, 4]
+    ];
+    for (var i in supportedTocs) {
+        let mitoc = require('markdown-it-table-of-contents');
+        let pattern = '^\\[\\[toc *' + supportedTocs[i].join(', *') + '\\]\\]';
+        md.use(mitoc, {
+            includeLevel: supportedTocs[i],
+            markerPattern: new RegExp(pattern)
+        });
+    }
 
     // *******************************
 
