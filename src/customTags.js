@@ -1,3 +1,4 @@
+let fs = require('fs');
 let process = require('process');
 
 module.exports = function(eleventyConfig) {
@@ -7,5 +8,10 @@ module.exports = function(eleventyConfig) {
                 return Promise.resolve(process.env.RESOURCE_BASE_URL);
             }
         };
+    });
+
+    eleventyConfig.addShortcode('articleFragment', function(path) {
+        var fullPath = '_site/' + path + '/index.html';
+        return fs.readFileSync(fullPath);
     });
 };

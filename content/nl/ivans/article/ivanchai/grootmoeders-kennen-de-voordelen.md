@@ -1,5 +1,5 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Grootmoeders kennen de voordelen
 type: artikel
 category: Ivan Chai
@@ -19,6 +19,9 @@ tags:
 - 45+
 meta-description: Grootmoeders uit de Sovjet-Unie kennen de geheimen van Ivan Chai. De Siberische kruidenthee Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest. Lees snel meer. 
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
+fragments:
+  header: nl/ivans/voordelen/veilig-en-bewezen-effectief
+  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
 ---
 <!-- Header: https://drive.google.com/file/d/13l1cN-hFivGjzoujMtQehao_8adDBPEg/view?usp=sharing -->
 
