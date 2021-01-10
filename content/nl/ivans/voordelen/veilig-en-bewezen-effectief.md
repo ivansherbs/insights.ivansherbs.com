@@ -2,5 +2,4 @@
 >
 > <p style="text-align: right">Michael via ivansherbs.com</p>
 
-## Ivan Chai bevat 7 voordelen
-
+## Ivan Chai bevat 8 voordelen
