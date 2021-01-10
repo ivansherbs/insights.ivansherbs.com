@@ -22,9 +22,10 @@ meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, ve
 fragments:
   header: nl/ivans/voordelen/veilig-en-bewezen-effectief
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
+banner:
+  url: https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?fm=jpg&q=50
+  effect: o-lg-60d-black
 ---
-<!-- Header: https://drive.google.com/file/d/13l1cN-hFivGjzoujMtQehao_8adDBPEg/view?usp=sharing -->
-
 **Anekdotisch bewijs is krachtig bewijs**
 
 Een oplettende grootmoeder zal in haar verleden veel verhalen hebben gehoord. Net als alle grootmoeders die ik heb ontmoet! Of zoals de kinderen haar noemen, oma.
