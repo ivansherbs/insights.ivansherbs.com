@@ -88,7 +88,7 @@ Nu komt het! Na grootschalig klinisch onderzoek werd het na duizenden recensies 
 
 De oude wijze oma Treben raadde Ivan Chai verder aan voor een urineweg,- nier- en blaasontsteking.
 
-Geinig he!? Oma’s uit het oosten wisten dit dus allang. Echter heeft het European Medicines Agency te Amsterdam dit onderzoek van Maria Treben nogmaals geëvalueerd en goedgekeurd. 
+Geinig he!? Oma’s uit het oosten wisten dit dus allang. Echter heeft het European Medicines Agency te Amsterdam dit onderzoek van Maria Treben nogmaals bevestigd. 
 
 Oma’s kennis was hierbij dus dubbel bevestigd! 
 
