@@ -39,6 +39,6 @@ Geneeskrachtige kruiden kunnen als alternatief of aanvulling op medicijnen uit d
 
 Wanneer je vatbaar bent voor ziekten, zoals tijdens de wintermaanden, kunnen kruiden worden gebruikt voor het versterken van de weerstand. Kruiden bevatten stoffen die lichaam en geest op een zeer krachtige manier beïnvloeden, waarbij de complexe onderling verbonden processen positief worden beïnvloed. 
 
-> Kruiden worden door het European Medicines Agency (EMA) als veilig beschouwd, wanneer ze worden geconsumeerd zoals aangegeven.
+> Kruiden worden door het European Medicines Agency (EMA) als zeer veilig beschouwd, wanneer ze worden geconsumeerd zoals aangegeven.
 
 Wanneer geconsumeerd zoals aangegeven werkt Ivan Chai in de meeste gevallen langzamer dan medicijnen uit de farmaceutische industrie. In tegenstelling tot de meeste  medicijnen gaat de werking van kruiden wél vooraf aan een zogenaamde opbouwfase. Dit 'nadeel' wordt gecompenseerd door het vaak ontbreken van negatieve bijwerkingen wanneer kruiden worden geconsumeerd zoals voorgeschreven.
