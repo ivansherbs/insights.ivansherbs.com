@@ -18,8 +18,6 @@ banner: https://drive.google.com/file/d/1T73xuTdYiXmt3dm7G1u9Siz6bUDSpU7k/view?u
   url: 
   effect:
 ---
-**Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
-
 Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of gezondheidsproblemen te verzorgen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel; negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
 
 ### EMA
