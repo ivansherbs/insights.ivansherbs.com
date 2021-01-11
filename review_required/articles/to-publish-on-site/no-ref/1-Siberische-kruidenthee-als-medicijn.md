@@ -14,7 +14,7 @@ meta-description: Kruiden als medicijnen? Ontdek de inzichten van Ivan's Herbs |
 fragments:
   header: nl/ivans/voordelen/kruiden-zijn-de-natuurlijke-oplossing
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
-banner: https://drive.google.com/file/d/1kK2QSdSh3CrNpuy7ipcW_xpO6oPMTNJ-/view?usp=sharing
+banner: https://drive.google.com/file/d/1T73xuTdYiXmt3dm7G1u9Siz6bUDSpU7k/view?usp=sharing
   url: 
   effect:
 ---
