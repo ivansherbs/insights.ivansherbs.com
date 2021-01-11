@@ -90,7 +90,7 @@ De oude wijze oma Treben raadde Ivan Chai verder aan voor een urineweg,- nier- e
 
 Geinig he!? Oma’s uit het oosten wisten dit dus allang. Echter heeft het European Medicines Agency te Amsterdam dit onderzoek van Maria Treben nogmaals bevestigd. 
 
-Oma’s kennis was hierbij dus dubbel bevestigd! 
+Oma’s kennis was hierbij dus op academische wijze vastgelegd! 
 
 Mooi bijkomend voordeel. Ivan Chai versterkt het anti-tumor effect. En heeft met name een positieve werking heeft op gezonde prostaatcellen. Zo hield oma op eenvoudige wijze opa gelukkig en zijn prostaat gezond.
 
