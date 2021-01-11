@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Een voorspelbaar probleem
 type: artikel
 category: buikgriep
-publish: IVAN's
-author: Svetlana Petrova
+publish:
+  author: Svetlana Petrova
+  date:
 tags:
 - vrouw
 - levensstijl
@@ -12,9 +13,13 @@ tags:
 - buikpijn
 meta-description: Wat hebben diarree, antibiotica en een blaasontsteking gemeen? Lees het nu in het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW. 
 meta-tags: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip, antibiotica, blaasontsteking
+fragments:
+  header: nl/ivans/voordelen/7-verzorgt-het-spijsverteringsstelsel
+  footer: nl/ivans/veelgestelde-vragen/buikgriep
 banner: https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
+  url: 
+  effect:
 ---
-
 Dit is het DAGBOEK van een zeer emotionele, ontdane en onzekere vrouw. En nu zit ze ook nog eens ontzettend hard aan de diarree. 
 
 Zul je net zien. Bah.
