@@ -22,11 +22,10 @@ meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, ve
 fragments:
   header: nl/ivans/voordelen/veilig-en-bewezen-effectief
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
-banner:
+banner: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
   url:
   effect:
 ---
-
 ### Ivan Chai
 
 1. Versterkt de weerstand
