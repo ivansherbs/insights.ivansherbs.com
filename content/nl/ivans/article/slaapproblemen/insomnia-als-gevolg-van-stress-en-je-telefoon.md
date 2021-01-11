@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Insomnia als gevolg van stress en je telefoon
 type: artikel
 category: slaapproblemen
-publish: IVAN's
-author: Svetlana Petrova
+publish:
+  author: Svetlana Petrova
+  date:
 tags:
 - mentale klachten
 - werk
@@ -13,9 +14,13 @@ tags:
 - eyeopener
 meta-description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. De slaapproblematiek is groter dan je denkt. Benieuwd naar de inzichten over slapeloosheid? Ook wel insomnia?
 meta-tags: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblematiek, slecht slapen, slaapstoornis, goede nachtrust, stress, telefoon, kinderen, werken, werk
+fragments:
+  header: nl/ivans/voordelen/4-verbetert-de-nachtrust
+  footer: nl/ivans/veelgestelde-vragen/slaapproblemen
 banner: https://drive.google.com/file/d/1yFlWBPioqckSiKRYtORk_1eATX2ELZO-/view?usp=sharing
+  url: 
+  effect: 
 ---
-
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af. 
 
 ### Wanneer spreken we wél van een slaapprobleem?
@@ -85,7 +90,7 @@ punt
 
 .
 
-**Hiernaast zijn er ook nog andere redenen** waardoor jonge kinderen slaapproblemen kunnen oplopen. Al mogen we allen blij zijn dat de meeste problemen in de categorie **“first-world-problems”** valt in te delen. Denk aan het niet kunnen slapen omdat ze piekeren over de juiste naam voor het konijn.... Niet weten wie nou hun allerbeste vriendje is.... Voor het eerst op schoolkamp en allemaal dingen moeten regelen.... Of nog steeds bang zijn voor de wekelijkse rekentoets... en ga zo maar door. 
+**Hiernaast zijn er ook nog andere redenen** waardoor jonge kinderen slaapproblemen kunnen oplopen. Al mogen we allen blij zijn dat de meeste problemen in de categorie **“first-world-problems”** valt in te delen. Denk aan het niet kunnen slapen omdat ze piekeren over de juiste naam voor het konijn.... Niet weten wie nou hun allerbeste vriendje is.... Voor het eerst mee op schoolkamp en er allemaal dingen voor moeten regelen.... Of nog steeds bang zijn voor de wekelijkse rekentoets... en ga zo maar door. 
 
 Oké. GENOEG OVER KINDEREN. We gaan nu over op de tips.
 
