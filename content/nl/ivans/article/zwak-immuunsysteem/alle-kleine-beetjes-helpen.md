@@ -27,13 +27,17 @@ banner: https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?u
 
 ### Een overbiddelijke kwestie
 
-_“Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven._
+_“Kanker is één van de meest onverbiddelijke kwesties in het leven. 
+
+Voor je het weet zal je het zonlicht een laatste afscheid moeten geven._
 
 _Een afscheid waarbij het licht je uit je ogen kijkt._
 
 _Het liefst wil je blijven tot de ouderdom je bij je kladden grijpt._
 
-_Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat._
+_Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. 
+
+En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat._
 
 _God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak immuunsysteem voor langere duur je de nodige weerstand blijven geven.”_
 
