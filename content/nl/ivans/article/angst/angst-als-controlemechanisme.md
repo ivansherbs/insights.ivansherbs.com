@@ -132,9 +132,9 @@ Een Siberische kruidenthee.
 
 Mocht je toch onverhoopt met een overmatige hoeveelheid aan angst rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Goed om te weten. Bestrijd lichtere vormen van angst en vermijd het gebruik van farmaceutische medicijnen.
+Goed om te weten. Bestrijd lichtere vormen van angst en vermijd het gebruik van medicijnen uit de farmaceutische industrie.
 
-> Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
+> Het gebruik van medicijnen uit de farmaceutische industrie kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van angst.
 
