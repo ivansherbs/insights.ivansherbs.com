@@ -1,19 +1,24 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Essentiële behoeften
 type: artikel
 category: slijmbeursontsteking
-publish: IVAN's
-author: Ivan Alexandrovitsj
+publish:
+  author: Ivan Alexandrovitsj
+  date:
 tags:
 - ontsteking
 - 45+    
 - ouderdom
 meta-description: Bij een slijmbeursontsteking is niet alleen pijn, maar ook angst om te bewegen een allesbepalende factor. Benieuwd naar de inzichten?
 meta-tags: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspijn, gewricht, behoefte, slijmbeurs, slijmbeurzen, angst, pijn, bewegen
+fragments:
+  header: nl/ivans/voordelen/2-krachtige-ontstekingsremmer
+  footer: nl/ivans/veelgestelde-vragen/slijmbeursontsteking
 banner: https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
+  url: 
+  effect: 
 ---
-
 Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al helemaal met de meest gangbare activiteiten. Activiteiten die je op dagelijkse basis uitvoert.
 
 ### Essentiële behoefte
@@ -58,11 +63,11 @@ Ja. Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
 
 Ivan Chai werkt ook goed tegen angst vanwege de kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-### Combinatie farmaceutische medicijnen
+### Combinatie medicijnen uit de farmaceutische industrie
 
-Mocht je onverhoopt al met een slijmbeursontsteking rondlopen? En gebruik je hiervoor al farmaceutische medicijnen? Dat kan ik begrijpen. Soms heb je zware medicatie nodig. 
+Mocht je onverhoopt al met een slijmbeursontsteking rondlopen? En gebruik je hiervoor al medicijnen uit de farmaceutische industrie? Dat kan ik begrijpen. Soms heb je zware medicatie nodig. 
 
-Drink dan Ivan Chai om je fysiek en mentaal te ondersteunen bij het gebruik van deze medicijnen. Zie het als medicatie die elkaar aanvullen. Farmaceutische medicijnen aangevuld met traditionele kruidengeneeskunde als alledaags product. 
+Drink dan Ivan Chai om je fysiek en mentaal te ondersteunen bij het gebruik van deze medicijnen. Zie het als medicatie die elkaar aanvullen. Medicijnen uit de farmaceutische industrie aangevuld met traditionele kruidengeneeskunde als alledaags product. 
 
 Medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. Ivan Chai heeft 7 voordelen voor lichaam en geest die deze bijwerkingen verlichten. 
 
