@@ -27,9 +27,9 @@ banner: https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?u
 
 ### Een overbiddelijke kwestie
 
-_“Kanker is één van de meest onverbiddelijke kwesties in het leven. 
+_“Kanker is één van de meest onverbiddelijke kwesties in het leven._
 
-Voor je het weet zal je het zonlicht een laatste afscheid moeten geven._
+_Voor je het weet zal je het zonlicht een laatste afscheid moeten geven._
 
 _Een afscheid waarbij het licht je uit je ogen kijkt._
 
