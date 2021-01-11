@@ -66,9 +66,9 @@ Wellicht overbodig te melden. Oma wist uiteraard wel dat door het drinken van Iv
 
 ### 4. Verbetert de nachtrust 
 
-Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is een bekend kalmerend middel in de traditionele volksgeneeskunde. 
+Ivan Chai is cafeïnevrij en werkt goed tegen insomnia, ofwel slapeloosheid. Het helpt om slaapproblemen te overwinnen. Het staat in de traditionele kruidengeneeskunde bekend als een licht kalmerend middel. 
 
-Wetenschappers noch oma's weten precies hoe het helpt bij slaapstoornissen. Wanneer oma last had van slapeloosheid, dronk ze meerdere dagen op rij een paar koppen thee om lekker bij in slaap te vallen. 
+Wetenschappers noch oma's weten precies hoe het helpt bij slaapstoornissen. Echter wanneer oma last had van insomnia, dronk ze meerdere dagen op rij een paar koppen thee om lekker bij in slaap te vallen. 
 
 ### 5. Vermindert de kans op prikkelbaarheid en angst
 
