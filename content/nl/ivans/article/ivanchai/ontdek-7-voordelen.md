@@ -58,14 +58,14 @@ Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
 
 Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen.
 
-Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen.
+Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen.
 
 Denk bijvoorbeeld aan...
 * antibiotica
 * maagzuurremmers
 * anticonceptiepil
 
-Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen. Om de kans op ziekten te verkleinen en problemen te verzorgen. Maar ook als levenselixer of ter ontspanning.
+Drink Ivan Chai als alternatief of aanvulling op medicijnen. Om de kans op ziekten te verkleinen en problemen te verzorgen. Maar ook als levenselixer of ter ontspanning.
 
 <br>
 <br>
@@ -216,9 +216,9 @@ Tot op heden zijn er drie onderzoeken gedaan naar menselijke prostaatkankercelle
 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam, worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen. Graag willen we tot slot het volgende belichten.
 
-* Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam.
+* Prostaatklachten kunnen worden verholpen met medicijnen uit de farmaceutische industrie. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam.
 
-Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen.
+Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op medicijnen uit de farmaceutische industrie.
 
 <br>
 
