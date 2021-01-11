@@ -1,19 +1,24 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: 1 theekopje vol bloed
 type: artikel
-category: menstruatiepijn
-publish: IVAN's
-author: Ivanka Lopukhina
+category: menstruatiepijn en baarmoederontsteking
+publish:
+  author: Ivanka Lopukhina
+  date:
 tags:
 - baarmoeder
 - vrouw
 - moeder
 meta-description: Wist je dat? De verschillende kleuren rood die jij menstrueert iets vertelt over je innerlijkse balans. Benieuwd naar de inzichten?
 meta-tags: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongesteld, menstruatie, baarmoeder, bevalling, oestrogeen, menopauze, keizersnede
+fragments:
+  header: nl/ivans/voordelen/1-versterkt-de-weerstand
+  footer: nl/ivans/veelgestelde-vragen/baarmoederontsteking
 banner: https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
+  url: 
+  effect: 
 ---
-
 Wanneer jij ongesteld bent komt er per keer ongeveer 80ml aan bloed uitzetten. En voor de rekenwonders onder ons; dat is toch al gauw 1 theekopje vol bloed per week. 
 
 Welke kruidenmelange mag je lekker zelf verzinnen. 
@@ -28,7 +33,7 @@ Een onafhankelijk instituut van verloskundigen en gynaecologen heeft hier uitvoe
 
 Wij geven jullie dan ook graag een overzicht. Met het antwoord op de vraag waarom Ivan Chai als eenvoudig, veilig en biologisch alledaags product je innerlijke balans op peil helpt te houden. 
 
-En waarom Ivan Chai als aanvulling op farmaceutische medicijnen kan worden gebruikt. 
+En waarom Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie kan worden gebruikt. 
 
 ### Kleurenpalet
 
@@ -57,7 +62,7 @@ Ivan Chai werkt als een krachtige ontstekingsremmer. Het is bewezen effectief bi
 
 Ivan Chai vermindert de kans op stress. Dit wordt mogelijk gemaakt door de kalmerende werking op het centrale zenuwstelsel.
 
-Drink Ivan Chai tevens als aanvulling op farmaceutische medicijnen ( anticonceptiepil). Met name om ongewenste bijwerkingen te bestrijden. ( Dit bespreken we verderop in het artikel.) 
+Drink Ivan Chai tevens als aanvulling op medicijnen uit de farmaceutische industrie ( anticonceptiepil). Met name om ongewenste bijwerkingen te bestrijden. ( Dit bespreken we verderop in het artikel.) 
 
 ### Wittigrood
 
@@ -88,9 +93,9 @@ Wanneer deze gelei-klonten groot worden. Drink minder alcohol, zuivel, soja, sui
 
 **Waarom Ivan Chai?**
 
-We weten nu dat Ivan Chai vitamine C bevat wat van invloed is op het oestrogeenniveau. Om bij deze nog even terug te komen op het gebruik van farmaceutische medicijnen ( zoals de anticonceptiepil). 
+We weten nu dat Ivan Chai vitamine C bevat wat van invloed is op het oestrogeenniveau. Om bij deze nog even terug te komen op het gebruik van medicijnen uit de industrie uit de farmaceutische industrie ( zoals de anticonceptiepil). 
 
-Vanuit holistisch perspectief kan het hebben van menstruatiepijn ( in combinatie met farmaceutische medicijnen) meerdere klachten tot gevolg hebben buiten de baarmoeder om. Denk aan hoofdpijn, braken en misselijkheid. Maar ook ‘mood swings’ en een gevoel van angst. 
+Vanuit holistisch perspectief kan het hebben van menstruatiepijn ( in combinatie met medicijnen uit de farmaceutische industrie) meerdere klachten tot gevolg hebben buiten de baarmoeder om. Denk aan hoofdpijn, braken en misselijkheid. Maar ook ‘mood swings’ en een gevoel van angst. 
 
 Ivan Chai verzorgt het spijsverteringsstelsel. Naast de opname van voedingsstoffen helpt Ivan Chai de kans op maag- en darmklachten te verminderen. De kans op braken en misselijkheid wordt hierdoor verkleint. 
 
@@ -116,9 +121,9 @@ In tegenstelling tot donkerrood gaan bij deze kleur wél de alarmbellen rinkelen
 
 Waarom Ivan Chai?
 
-Nu je een soa hebt opgelopen krijg je waarschijnlijk farmaceutische medicijnen voorgeschreven door je huisarts. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Denk maar aan het gebruik van de pil. 
+Nu je een soa hebt opgelopen krijg je waarschijnlijk medicijnen uit de farmaceutische industrie voorgeschreven door je huisarts. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Denk maar aan het gebruik van de pil. 
 
-Drink Ivan Chai als aanvulling op deze farmaceutische medicijnen. Om de kans op ongewenste bijwerkingen te bestrijden.
+Drink Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie. Om de kans op ongewenste bijwerkingen te bestrijden.
 
 ### Felrood
 
@@ -176,7 +181,7 @@ Ivan Chai werkt als een krachtige ontstekingsremmer. En versterkt de weerstand. 
 
 * De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd.
 
-Wanneer je baarmoeder eenmaal een ontsteking heeft opgelopen kun je rekenen op een zeer heftige periode. Deze doen ongelooflijk veel pijn. En de zware farmaceutische medicijnen hebben gezien de kwetsbaarheid van dit orgaan extra heftige bijwerkingen.
+Wanneer je baarmoeder eenmaal een ontsteking heeft opgelopen kun je rekenen op een zeer heftige periode. Deze doen ongelooflijk veel pijn. En de zware medicijnen uit de farmaceutische industrie hebben gezien de kwetsbaarheid van dit orgaan extra heftige bijwerkingen.
 
 Hiernaast kun je bij deze heftige en terugkerende baarmoederontstekingen zelfs onvruchtbaar worden. En zonder vruchtbare baarmoeder, géén kinderen. Nog een reden om deze goed te verzorgen.
 
