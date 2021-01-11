@@ -144,7 +144,7 @@ Los deze puzzel zelf maar op.
 
 ## Tot slot 
 
-Laat ik het nogmaals herhalen. **Alle kleine beetjes helpen om je immuunsysteem sterk te houden.** Wat erbij kan helpen zijn eenvoudige en biologische alledaagse producten.
+Laat ik het nogmaals herhalen. **Alle kleine beetjes helpen om je immuunsysteem sterk te houden.** Wat erbij kan helpen zijn veilige, eenvoudige en bewezen effectieve biologische alledaagse producten.
 
 Met kleine veranderingen in alledaagse producten kun je op langere termijn gemakkelijk winst behalen. Voor lichaam en geest
 
