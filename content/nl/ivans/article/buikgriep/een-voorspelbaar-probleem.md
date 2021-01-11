@@ -40,7 +40,7 @@ Heel fijn allemaal. Dit keer komt het denk ik door de ANTIBIOTICA KUUR. Want ja.
 
 Ik heb WEER een BLAASONTSTEKING. Voor de tweede keer dit jaar.
 
-Dus nu slik ik nog meer FARMACEUTISCHE pillen. Alweer. Want een NATUURLIJKE en niet-chemische OPLOSSING heb ik nog niet gevonden. 
+Dus nu slik ik nog meer pillen uit de FARMACEUTISCHE INDUSTRIE. Alweer. Want een NATUURLIJKE en niet-chemische OPLOSSING heb ik nog niet gevonden. 
 
 Ik zit er nu aan te denken dan maar te stoppen met de ANTICONCEPTIEPIL. Weer eentje minder. Maar dat weet ik dus niet zeker. Want.
 
@@ -94,9 +94,9 @@ https://drive.google.com/file/d/1IgCEryUDLbFkXy92lN1XAUkOIVoWBCPY/view?usp=shari
 
 **TIP 1.**
 
-Laten we beginnen bij te bedenken of je farmaceutische medicijnen gebruikt?
+Laten we beginnen bij te bedenken of je medicijnen uit de farmaceutische industrie gebruikt?
 
-Vooral vrouwen raden we aan onderstaande tip helemaal te lezen. Hierbij vermelden we nadrukkelijk FARMACEUTISCHE medicijnen. Deze zijn vanwege de directe werking vaak van invloed op je SPIJSVERTERINGSSTELSEL.
+Vooral vrouwen raden we aan onderstaande tip helemaal te lezen. Hierbij vermelden we nadrukkelijk medicijnen uit de FARMACEUTISCHE INDUSTRIE. Deze zijn vanwege de directe werking vaak van invloed op je SPIJSVERTERINGSSTELSEL.
 
 We noemen een aantal voorbeelden. Denk aan een ANTIBIOTICA kuur! Als GEVOLG van bijvoorbeeld een BLAASONTSTEKING. 
 
@@ -118,7 +118,7 @@ Ga je naar een (sub) TROPISCH gebied? Zo ja. Dan is het VERSTANDIG onderstaande 
 
 Dus. Als we op deze manier naar buikgriep kijken. Is BUIKGRIEP vaak een voorspelbaar probleem. 
 
-MET ANDERE WOORDEN, je kunt verwachten dat wanneer je FARMACEUTISCHE medicijnen gebruikt of op vakantie gaat naar (sub) tropisch gebieden, je last gaat krijgen van buikgriep. Je kan hier dus door heel LOGISCH na te denken al op inspelen. Dit maakt buikgriep een VOORSPELBAAR probleem.
+MET ANDERE WOORDEN, je kunt verwachten dat wanneer je medicijnen uit de FARMACEUTISCHE INDUSTRIE gebruikt of op vakantie gaat naar (sub) tropisch gebieden, je last gaat krijgen van buikgriep. Je kan hier dus door heel LOGISCH na te denken al op inspelen. Dit maakt buikgriep een VOORSPELBAAR probleem.
 
 Voor we het vergeten!
 
@@ -130,7 +130,7 @@ Al moeten we ook de realiteit onder ogen zien dat niet alle rigoureuze veranderi
 
 Of je eet iets wat je even niet bent gewend maar wel heel erg lekker vind. Zoals een keer heel erg PITTIG ETEN. Hierdoor heeft je maag weer eens iets anders te verduren dan die VEGETARISCHE rode bieten wortel burger. Of die OVERHEERLIJKE licht in kilocalorieën GLUTENVRIJE verse QUINOA salade. Hmmmmmm. Ook dit kan negatieve gevolgen hebben voor je SPIJSVERTERINGSSTELSEL.
 
-Ja! Je weet waar we het over hebben. Voor het preventief behandelen van BUIKGRIEP, en dus ook als je FARMACEUTISCHE medicijnen gebruikt geven we je het volgende ADVIES.
+Ja! Je weet waar we het over hebben. Voor het preventief behandelen van BUIKGRIEP, en dus ook als je medicijnen uit de FARMACEUTISCHE INDUSTRIE gebruikt geven we je het volgende ADVIES.
 
 Denk aan **IVAN CHAI**. Een Siberische kruidenthee.
 
