@@ -35,9 +35,9 @@ _Een afscheid waarbij het licht je uit je ogen kijkt._
 
 _Het liefst wil je blijven tot de ouderdom je bij je kladden grijpt._
 
-_Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. 
+_Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat._
 
-En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat._
+_En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat._
 
 _God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak immuunsysteem voor langere duur je de nodige weerstand blijven geven.”_
 
