@@ -2,4 +2,4 @@
 
 "Ivan Chai helpt om je voedingsstoffen beter op te nemen waardoor je weerstand versterkt"
 
--Michael via ivansherbs.com
+> <p style="text-align: right">Michael via ivansherbs.com</p>
