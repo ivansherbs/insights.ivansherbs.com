@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Opladen is géén optie
 type: artikel
 category: burnout
-publish: IVAN's
-author: Svetlana Petrova
+publish:
+  author: Svetlana Petrova
+  date:
 tags:
 - mentale klachten
 - werk
@@ -12,7 +13,12 @@ tags:
 - gevoel
 meta-description: Meer dan 1.000.000 mensen in Nederland hebben te maken met een burnout klachten. Mede mogelijk gemaakt door meerdere factoren. Het krijgen van een burnout is een groeiend probleem. Benieuwd naar de inzichten?
 meta-tags: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, symptomen burnout, wat is een burnout, koffie, stress, stresshormoon, bloedsuikerspiegel
+fragments:
+  header: nl/ivans/voordelen/5-3-vermindert-de-kans-op-een-burn-out
+  footer: nl/ivans/veelgestelde-vragen/burnout
 banner: https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
+  url:
+  effect:
 ---
 
 **Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burnout bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren. 
