@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Runners high versus Ontstoken pees
 type: artikel
 category: peesontsteking
-publish: IVAN's
-author: Ivan Alexandrovitsj
+publish:
+  author: Ivan Alexandrovitsj
+  date:
 tags:
 - ontsteking
 - sport
@@ -12,9 +13,13 @@ tags:
 - eyeopener
 meta-description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken achillespees is zo opgelopen. Benieuwd naar de inzichten?
 meta-tags: hardlopen, hardlopers, achillespees, endorfine, endorfines, peesontsteking, duursport, duursporten, pees, pezen
+fragments:
+  header: nl/ivans/voordelen/2-krachtige-ontstekingsremmer
+  footer: nl/ivans/veelgestelde-vragen/peesontsteking
 banner: https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
+  url: 
+  effect: 
 ---
-
 We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks. Het is goed voor de gezondheid van je lichaam en je gemoedstoestand. 
 
 Zo ben je overdag fitter en komen er stoffen bij vrij waar je gelukkiger van wordt.
@@ -79,7 +84,7 @@ Een Siberische kruidenthee.
 
 **Goed om te weten.**
 
-Drink Ivan Chai niet alleen preventief tegen een peesontsteking. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
+Drink Ivan Chai niet alleen preventief tegen een peesontsteking. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van medicijnen uit de farmaceutische industrie.
 
 > Graag willen we het volgende benadrukken. Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een peesontsteking te voorkomen. Of te verzorgen.
 
