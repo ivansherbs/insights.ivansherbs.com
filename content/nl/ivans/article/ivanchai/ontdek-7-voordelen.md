@@ -17,7 +17,7 @@ tags:
 - man 
 - vrouw
 - 45+
-meta-description: Op zoek naar een eenvoudig, veilig en biologisch alledaags product goed voor lichaam en geest? Ivan Chai bevat 7 voordelen. Ontdek de Siberische kruidenthee Ivan Chai. 
+meta-description: Op zoek naar een veilig, eenvoudig te gebruiken en bewezen effectief biologisch alledaags product goed voor lichaam en geest? Ontdek de Siberische kruidenthee Ivan Chai. 
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 fragments:
   header: nl/ivans/voordelen/veilig-en-bewezen-effectief
