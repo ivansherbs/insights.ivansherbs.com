@@ -1,33 +1,44 @@
 ---
-layout: article.html
-title: Siberische kruidenthee als natuurlijke behandeling
+layout: article_with_header_and_footer.html
+title: Kruiden als medicijnen
+type: artikel
+category: kruidengeneeskunde
+publish:
+  author: Ivan Alexandrovitsj
+  date: 
+tags:
+- medicijn
+- kruiden
+- eyeopener
+meta-description: Kruiden als medicijnen? Ontdek de inzichten van Ivan's Herbs. 
+fragments:
+  header: nl/ivans/voordelen/kruiden-zijn-de-natuurlijke-oplossing
+  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
+banner: https://drive.google.com/file/d/1kK2QSdSh3CrNpuy7ipcW_xpO6oPMTNJ-/view?usp=sharing
+  url: 
+  effect:
 ---
-
-Door **Ivan’s Insights** | Kruidengeneeskunde <br>
-
 **Verzorg dagelijks lichaam en geest met kruiden uit Siberië**
 
-_Ivan Chai is de natuurlijke oplossing als alternatief op farmaceutische medicijnen. De 7 gezondheidsvoordelen van Ivan Chai hebben een krachtige impact op de gezondheid en algehele gemoedstoestand. Deze Siberische kruidenthee kan als preventieve behandeling worden gebruikt tegen 17 gezondheidsproblemen._
-
-> Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of gezondheidsproblemen te verzorgen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met farmaceutische medicijnen. Van alle goedgekeurde farmaceutische medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel; negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
+Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of gezondheidsproblemen te verzorgen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel; negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
 
 ### EMA
-Het European Medicines Agency (EMA) onderschrijft de geneeskrachtige werking te vinden in kruiden. Veel ziekten en gezondheidsproblemen zijn geëvalueerd door het Europese equivalent van de Amerikaanse Federal Drug Administration (FDA). 
+Het European Medicines Agency (EMA) onderschrijft de geneeskrachtige werking te vinden in kruiden. De werking van veel kruiden zijn geëvalueerd en bevestigd door het Europese equivalent van de Amerikaanse Federal Drug Administration (FDA). 
 
-Dit onafhankelijke instituut huisvest de 'Committee on Herbal Medicinal Products' (CHMP) wat zich volledig toewijdt aan het verzamelen en beoordelen van wetenschappelijke gegevens over kruiden; waarbij de ontwikkeling, evaluatie en veiligheid van kruiden met gezondheidsvoordelen en zonder negatieve bijwerkingen voor het menselijk lichaam centraal staat. Er wordt klinisch dan wel niet-klinisch bewijs geboden om aan te tonen hoe de actieve stoffen in kruiden de kans op ziekten verminderen en gezondheidsproblemen verzorgen.
+Dit onafhankelijke instituut huisvest de 'Committee on Herbal Medicinal Products' (CHMP) wat zich volledig toewijdt aan het verzamelen en beoordelen van wetenschappelijke gegevens over kruiden; waarbij de ontwikkeling, evaluatie en veiligheid van kruiden met gezondheidsvoordelen en zonder negatieve bijwerkingen voor het lichaam centraal staat. Er wordt klinisch dan wel niet-klinisch bewijs geboden om aan te tonen hoe de actieve stoffen in kruiden de kans op ziekten verminderen en gezondheidsproblemen verzorgen.
 
 ### Bevindingen
-Experts zijn al jaren van mening dat er in kruiden meerdere actieve stoffen zitten die de kans op ziekten verminderen en gezondheidsproblemen verzorgen. Deze kruiden zijn van extra toegevoegde waarde voor het menselijk lichaam. Het gebruik van deze kruiden volgens recept is vergelijkbaar met 'combinatietherapie'. 
+Experts zijn al jaren van mening dat kruiden meerdere actieve stoffen bevat die de kans op ziekten verminderen en gezondheidsproblemen verzorgen. Deze kruiden zijn van extra toegevoegde waarde voor lichaam en geest. Het gebruik van deze kruiden volgens recept is vergelijkbaar met 'combinatietherapie'. 
 
-In andere woorden, een behandeling volgens recept van meerdere farmaceutische medicijnen tegelijk, bedoeld om elkaars effectiviteit te versterken. Onderzoek gericht op farmaceutische medicijnen met slecht één actieve stof heeft het volgende aangetoond: 
+In andere woorden, een behandeling volgens recept van meerdere medicijnen uit de farmaceutische industrie tegelijk, bedoeld om elkaars effectiviteit te versterken. Onderzoek gericht op medicijnen met slecht één actieve stof heeft het volgende aangetoond: 
 
-> Veel farmaceutische medicijnen met slechts één actieve stof zijn 'blind' voor de complexe onderling verbonden processen in het menselijk lichaam. Er zijn door deze wetenschappelijke onderzoeken experts die beweren dat deze 'blinde' farmaceutische medicijnen, met slechts één actieve stof, zwaar worden overschat.
+> Veel medicijnen met slechts één actieve stof zijn 'blind' voor de complexe onderling verbonden processen in het lichaam. Er zijn door deze wetenschappelijke onderzoeken experts die beweren dat deze zogenaamde 'blinde' medicijnen uit de farmaceutische industrie met slechts één actieve stof, zwaar worden overschat.
 
 ### Natuurlijke behandeling
-Geneeskrachtige kruiden kunnen als alternatief op farmaceutische medicijnen worden gebruikt. De Siberische kruidenthee Ivan Chai kan worden gebruikt om de kans op ziekten te verminderen en gezondheidsproblemen verzorgen, ter ontspanning of als levenselixer. 
+Geneeskrachtige kruiden kunnen als alternatief of aanvulling op medicijnen uit de farmaceutische industrie worden gebruikt. Zo kunnen kruiden worden gebruikt om de kans op ziekten te verminderen en gezondheidsproblemen verzorgen, ter ontspanning of als levenselixer. 
 
-Wanneer je vatbaar bent voor ziekten, zoals tijdens de wintermaanden, kunnen kruiden worden gebruikt voor het versterken van de weerstand. Kruiden bevatten stoffen die het menselijk lichaam op een zeer krachtige manier beïnvloeden, waarbij de complexe onderling verbonden processen positief worden beïnvloed. 
+Wanneer je vatbaar bent voor ziekten, zoals tijdens de wintermaanden, kunnen kruiden worden gebruikt voor het versterken van de weerstand. Kruiden bevatten stoffen die lichaam en geest op een zeer krachtige manier beïnvloeden, waarbij de complexe onderling verbonden processen positief worden beïnvloed. 
 
-_De kruiden uit Siberië van Ivan's Herbs zijn door het European Medicines Agency (EMA) als veilig beschouwd, wanneer ze worden geconsumeerd zoals aangegeven._
+> Kruiden worden door het European Medicines Agency (EMA) als veilig beschouwd, wanneer ze worden geconsumeerd zoals aangegeven.
 
-Wanneer geconsumeerd zoals aangegeven werkt Ivan Chai in de meeste gevallen langzamer dan farmaceutische medicijnen. In tegenstelling tot de meeste farmaceutische medicijnen gaat de werking van kruiden vooraf aan een zogenaamde opbouwfase. Dit 'nadeel' wordt gecompenseerd door het ontbreken van negatieve bijwerkingen wanneer kruiden worden geconsumeerd zoals voorgeschreven.
+Wanneer geconsumeerd zoals aangegeven werkt Ivan Chai in de meeste gevallen langzamer dan medicijnen uit de farmaceutische industrie. In tegenstelling tot de meeste  medicijnen gaat de werking van kruiden wél vooraf aan een zogenaamde opbouwfase. Dit 'nadeel' wordt gecompenseerd door het vaak ontbreken van negatieve bijwerkingen wanneer kruiden worden geconsumeerd zoals voorgeschreven.
