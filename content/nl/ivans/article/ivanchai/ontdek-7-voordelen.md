@@ -23,8 +23,8 @@ fragments:
   header: nl/ivans/voordelen/veilig-en-bewezen-effectief
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-ivan-chai
 banner:
-  url: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
-  effect:
+  url: https://images.ctfassets.net/lyvtxhzy9zgr/1CMC9U5Hhx4jDvDv9oMpew/8292e1d2ef8b74ef5deefbcbfe26faf0/pour-in-ivan-chai.png?fm=jpg&q=50
+  effect: o-lg-60d-black
 ---
 ### Ivan Chai
 
@@ -42,14 +42,8 @@ banner:
 
 7. Verzorgt het spijsverteringsstelsel
 
-
-<br>
-<br>
-
-https://drive.google.com/file/d/12_Hu5NhPuwsw9qvkJ0jnRIjzrs-9XZGj/view?usp=sharing
-> SIBERIË| De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj.
-<br>
-<br>
+https://images.ctfassets.net/lyvtxhzy9zgr/2gjpo5VPHlB4zfJ2E8Tq5/8292e1d2ef8b74ef5deefbcbfe26faf0/pivan-chai-hills.png?fm=jpg&q=50
+> SIBERIË. De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj.
 
 ## Waarom Ivan Chai?
 
