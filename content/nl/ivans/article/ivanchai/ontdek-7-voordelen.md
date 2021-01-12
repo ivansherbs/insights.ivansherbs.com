@@ -23,7 +23,7 @@ fragments:
   header: nl/ivans/voordelen/veilig-en-bewezen-effectief
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-ivan-chai
 banner:
-  url: https://images.ctfassets.net/lyvtxhzy9zgr/1CMC9U5Hhx4jDvDv9oMpew/8292e1d2ef8b74ef5deefbcbfe26faf0/pour-in-ivan-chai.png?fm=jpg&q=50
+  url: https://images.ctfassets.net/lyvtxhzy9zgr/1CMC9U5Hhx4jDvDv9oMpew/8292e1d2ef8b74ef5deefbcbfe26faf0/1.png?fm=jpg&q=50
   effect: o-lg-60d-black
 ---
 ### Ivan Chai
@@ -42,8 +42,8 @@ banner:
 
 7. Verzorgt het spijsverteringsstelsel
 
-https://images.ctfassets.net/lyvtxhzy9zgr/2gjpo5VPHlB4zfJ2E8Tq5/8292e1d2ef8b74ef5deefbcbfe26faf0/pivan-chai-hills.png?fm=jpg&q=50
-> SIBERIË. De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj.
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/2gjpo5VPHlB4zfJ2E8Tq5/8292e1d2ef8b74ef5deefbcbfe26faf0/2.png?fm=jpg&q=50-->
+> De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj.
 
 ## Waarom Ivan Chai?
 
@@ -60,14 +60,8 @@ Denk bijvoorbeeld aan...
 
 Drink Ivan Chai als alternatief of aanvulling op medicijnen. Om de kans op ziekten te verkleinen en problemen te verzorgen. Maar ook als levenselixer of ter ontspanning.
 
-<br>
-<br>
-
-https://drive.google.com/file/d/15QSzmuXJlqEdYNZmeQ5M9hRMl0Y6P0Ha/view
-> SIBERIË| De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
-
-<br>
-<br>
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/gJlMzDkpnHCVrqBwnpQLa/8292e1d2ef8b74ef5deefbcbfe26faf0/3.png?fm=jpg&q=50-->
+> De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.
 
 ## 1. Ivan Chai versterkt de weerstand
 
@@ -81,12 +75,8 @@ De werking kunnen we als volgt kort omschrijven.
 
 Simpel gezegd, een gezond spijsverteringssysteem betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je afweersysteem. Door het versterken van je afweersysteem wordt de kans op problemen vele malen verminderd.
 
-<br>
-
-https://drive.google.com/file/d/1q8o47JjvlWXGyWGD2FW9HivIs23vvaSu/view?usp=sharing
-> SIBERIË| De seizoensarbeiders staan vroeg op om de kruiden te plukken in de wildernis van Siberië.
-<br>
-<br>
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/3Le11Z0jk9vTDMo8mcQzW0/8292e1d2ef8b74ef5deefbcbfe26faf0/4.png?fm=jpg&q=50-->
+> De seizoensarbeiders staan vroeg op om de kruiden te plukken in de wildernis van Siberië.
 
 ## 2. Ivan Chai werkt als een krachtige ontstekingsremmer
 
@@ -103,12 +93,8 @@ Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.
 
-<br>
-
-https://drive.google.com/file/d/1KVWyFWAZ_kF1ReGuMpjHZ4QR65SBkIBQ/view?usp=sharing
-> SIBERIË| Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de meest ervaren 'tea expert' in de gelegenheid een kwaliteitscontrole uit te voeren.
-<br>
-<br>
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/28IMJN1AoFeQRD0I7uG1Yw/8292e1d2ef8b74ef5deefbcbfe26faf0/5.png?fm=jpg&q=50-->
+> Na de oogst is binnengehaald worden de bladeren gespreid. Dit stelt de meest ervaren 'tea expert' in de gelegenheid een kwaliteitscontrole uit te voeren.
 
 ## 3. Ivan Chai versterkt de antioxiderede werking
 
@@ -126,12 +112,8 @@ Benieuwd waarom?
 
 Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
-<br>
-
-https://drive.google.com/file/d/1AWlPzpVXZjKMDYG32fLEKM0L7mgqQEJS/view?usp=sharing
-> SIBERIË| De bladeren van de kruiden worden met de hand gerold. Vervolgens worden de bladeren bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
-<br>
-<br>
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/1YeCYk9IuosjGU7cFtuQW3/8292e1d2ef8b74ef5deefbcbfe26faf0/6.png?fm=jpg&q=50-->
+> De bladeren van de kruiden worden met de hand gerold. Vervolgens worden de bladeren bedekt waarna er een natuurlijk fermentatieproces overheen gaat.
 
 ## 4. Ivan Chai verbetert de nachtrust
 
@@ -143,12 +125,8 @@ Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend 
 
 In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmerend middel. Momenteel doet de medische wereld diepgaand onderzoek naar de exacte reden hoe het helpt bij slaapstoornissen.
 
-<br>
-
-https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
-> SIBERIË| “Onze bosrijke omgeving biedt veel soorten kruiden.” vertelt Svetlana Petrova. “Dit biedt de mogelijkheid meerdere smaken te creëren. De basis van iedere smaak blijft echter hetzelfde. Dat is Ivan Chai vanwege de geneeskrachtige werking." aldus de herbal tea expert.
-<br>
-<br>
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/4EMI0SfiaL2oxE1zXJ8qP4/8292e1d2ef8b74ef5deefbcbfe26faf0/7.png?fm=jpg&q=50-->
+> “Onze bosrijke omgeving biedt veel soorten kruiden. Dit biedt de mogelijkheid meerdere smaken te creëren." vertelt Svetlana Petrova - Herbal Tea Expert
 
 ## 5. Ivan Chai vermindert de kans op angst, stress en een burn-out
 
@@ -160,12 +138,8 @@ Goed om te weten. Iedereen ervaart een lichte vorm van angst. En een beetje stre
 
 * Ivan Chai heeft een kalmerende werking. En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
 
-<br>
-
-https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
-> SIBERIË| Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer (+30°C) kan worden geoogst. In de winter (-40°C) ligt hier namelijk een dik pak sneeuw.
-<br>
-<br>
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/1xIwi3rPGISyU1T4m1Tvit/8292e1d2ef8b74ef5deefbcbfe26faf0/8.png?fm=jpg&q=50-->
+> "Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer (+30°C) kan worden geoogst. In de winter (-40°C) ligt hier namelijk een dik pak sneeuw." aldus Michael Koch - Oprichter Ivan's Herbs 
 
 ## 6. Ivan Chai verzorgt de gezondheid van de prostaat en urinewegen
 
@@ -177,29 +151,20 @@ In andere woorden, de kans dat jij met prostaatklachten rondloopt kan worden ver
 
 * Ivan Chai gaat óók de groei van de prostaat tegen.
 
-Mooi bijkomende voordeel.
-
-* Ivan Chai verzorgt de urinewegen.
-
-<br>
-
-https://drive.google.com/file/d/1bxFOJs2758W4NdoCYsKMyOMZwPbI4is2/view?usp=sharing
-> SIBERIË| De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben alleen de kruiden uit deze regio een verbazingwekkend sterke geneeskrachtige werking. 
-
-<br>
-<br>
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/WbZiBDHmv6wZQXIdynio5/8292e1d2ef8b74ef5deefbcbfe26faf0/9.png?fm=jpg&q=50-->
+> De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben alleen de kruiden uit deze regio een verbazingwekkend sterke geneeskrachtige werking. 
 
 Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen.
 
 **Vrouwen hebben er ook baat bij.**
 
-* Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten tegen urineweginfecties. 
+* Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten tegen een blaasontsteking. 
 
 Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat.
 
 Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel.
 
-* Ivan Chai versterkt de anti-tumoractiviteit.
+* Ivan Chai versterkt de anti-tumoractiviteit in de prostaat.
 
 **Let op!**
 
@@ -213,12 +178,8 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 
 Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op medicijnen uit de farmaceutische industrie.
 
-<br>
-
-https://drive.google.com/file/d/1Sy2h7F4uS7QrLSWX8f2oQ2CuJZvafuoO/view?usp=sharing
-> SIBERIË| Het plukken van de kruiden is een intensief proces. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt.
-<br>
-<br>
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/3q8sNvW9E7qAVKIQG9hEIe/8292e1d2ef8b74ef5deefbcbfe26faf0/10.png?fm=jpg&q=50-->
+> Het plukken van de kruiden is een intensief proces. Dit houdt in dat alles wat in de natuur groeit met de hand wordt geplukt.
 
 ## 7. Ivan Chai verzorgt het spijsverteringsstelsel
 
@@ -242,7 +203,5 @@ Om de statistieken er nog even bij te pakken. 75% van de patiënten van het prik
 
 Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten kunnen zelfs worden geëlimineerd door grote hoeveelheden Ivan Chai te drinken.
 
-<br>
-
-https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
-> SIBERIË| Na een fermentatieproces van 3 dagen wordt de Ivan Chai op traditionele wijze in zakken gestopt. Deze werkwijze verloopt geheel volgens onze Eco7 Standaard. 
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/75dEUbi4QxZUCypPS0Ldkz/8292e1d2ef8b74ef5deefbcbfe26faf0/11.png?fm=jpg&q=50-->
+> Na een fermentatieproces van 3 dagen wordt de Ivan Chai op traditionele wijze in zakken gestopt. Deze werkwijze verloopt geheel volgens onze Eco7 Standaard. 
