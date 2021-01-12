@@ -1,6 +1,6 @@
 ---
 layout: article_with_header_and_footer.html
-title: Grootmoeders kennen de voordelen
+title: "Ivan Chai: Grootmoeders kennen de voordelen"
 url: /nl/ivan-chai-grootmoeders-kennen-de-voordelen
 type: artikel
 category: Ivan Chai
@@ -67,9 +67,9 @@ Wellicht overbodig te melden. Oma wist uiteraard wel dat door het drinken van Iv
 
 ### 4. Verbetert de nachtrust 
 
-Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapstoornissen te overwinnen. Het is een bekend kalmerend middel in de traditionele volksgeneeskunde. 
+Ivan Chai is cafeïnevrij en werkt goed tegen insomnia, ofwel slapeloosheid. Het helpt om slaapproblemen te overwinnen. Het staat in de traditionele kruidengeneeskunde bekend als een licht kalmerend middel. 
 
-Wetenschappers noch oma's weten precies hoe het helpt bij slaapstoornissen. Wanneer oma last had van slapeloosheid, dronk ze meerdere dagen op rij een paar koppen thee om lekker bij in slaap te vallen. 
+Wetenschappers noch oma's weten precies hoe het helpt bij slaapstoornissen. Echter wanneer oma last had van insomnia, dronk ze meerdere dagen op rij een paar koppen thee om lekker bij in slaap te vallen. 
 
 ### 5. Vermindert de kans op prikkelbaarheid en angst
 
@@ -89,9 +89,9 @@ Nu komt het! Na grootschalig klinisch onderzoek werd het na duizenden recensies 
 
 De oude wijze oma Treben raadde Ivan Chai verder aan voor een urineweg,- nier- en blaasontsteking.
 
-Geinig he!? Oma’s uit het oosten wisten dit dus allang. Echter heeft het European Medicines Agency te Amsterdam dit onderzoek van Maria Treben nogmaals geëvalueerd en goedgekeurd. 
+Geinig he!? Oma’s uit het oosten wisten dit dus allang. Echter heeft het European Medicines Agency te Amsterdam dit onderzoek van Maria Treben nogmaals bevestigd. 
 
-Oma’s kennis was hierbij dus dubbel bevestigd! 
+Oma’s kennis was hierbij dus op academische wijze vastgelegd! 
 
 Mooi bijkomend voordeel. Ivan Chai versterkt het anti-tumor effect. En heeft met name een positieve werking heeft op gezonde prostaatcellen. Zo hield oma op eenvoudige wijze opa gelukkig en zijn prostaat gezond.
 

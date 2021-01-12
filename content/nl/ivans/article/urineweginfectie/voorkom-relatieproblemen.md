@@ -1,22 +1,27 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Voorkom relatieproblemen
 type: artikel
-category: urineweginfectie
-publish: IVAN's
-author: Svetlana Petrova
+category: blaasontsteking
+publish:
+  author: Svetlana Petrova
+  date:
 tags: 
 - vrouw
 - relatie
 - infectie
 - gevoel
 - urinewegen
-meta-description: 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking. De klachten worden bestreden met zware farmaceutische medicijnen. Wist je dat hierdoor een urineweginfectie van invloed is op jullie relatie? Lees snel meer.
+meta-description: 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking. De klachten worden bestreden met zware medicijnen uit de farmaceutische industrie. Wist je dat hierdoor een blaasontsteking van invloed is op jullie relatie? Lees snel meer.
 meta-tags: blaasontsteking, nierbekkenontsteking, blaasontsteking vrouw, urineweginfectie, symptomen blaasontsteking, relatie, relatieproblemen, urineverlies, communicatie, vertrouwen, vreemdgaan, carriere, financiele onafhankelijkheid, intimiteit
-banner: https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
+fragments:
+  header: nl/ivans/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen
+  footer: nl/ivans/veelgestelde-vragen/blaasontsteking
+banner:
+  url: https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
+  effect: 
 ---
-
-**Voorkom relatieproblemen door het voorkomen van een urineweginfectie.**
+**Voorkom relatieproblemen door het voorkomen van een blaasontsteking.**
 
 Ja!
 
@@ -36,9 +41,9 @@ Laten we bij deze opnieuw beginnen.
 
 ### Wist je dat...
 
-een urineweginfectie van invloed is op jullie relatie?
+een blaasontsteking van invloed is op jullie relatie?
 
-Dit zijn de bevindingen uit grootschalig Europees onderzoek. We kunnen begrijpen dat je niet direct de link legt tussen relatieproblemen en een urineweginfectie. 
+Dit zijn de bevindingen uit grootschalig Europees onderzoek. We kunnen begrijpen dat je niet direct de link legt tussen relatieproblemen en een blaasontsteking. 
 
 Je kunt relatieproblemen namelijk vanuit meerdere perspectieven benaderen. Zoals je weet benaderen wij ieder probleem het liefst vanuit holistisch perspectief. Hiermee bedoelen we dat een probleem meerdere oorzaken heeft. 
 
@@ -58,7 +63,7 @@ Laten we eerst even een **TOP 7** aan oorzaken van **RELATIEPROBLEMEN** doorneme
 
 https://drive.google.com/file/d/1H05NjEg8ZDrRS7PkIZ3bMKHhti2Lm2hw/view?usp=sharing
 
-En dan snap je ook makkelijker waarom een urineweginfectie van invloed is op jullie relatie.
+En dan snap je ook makkelijker waarom een blaasontsteking van invloed is op jullie relatie.
 
 ### 1. COMMUNICATIE
 
@@ -128,7 +133,7 @@ Ja.
 
 Seks.
 
-Echter zijn er **verschillende soorten intimiteit**. Denk aan intellectuele, sociale en fysieke intimiteit. Een urineweginfectie is een ernstige stoorzender wanneer we het hebben over intimiteit. Om maar een voorbeeld te noemen omdat je nu toch al aan seks dacht... 
+Echter zijn er **verschillende soorten intimiteit**. Denk aan intellectuele, sociale en fysieke intimiteit. Een blaasontsteking is een ernstige stoorzender wanneer we het hebben over intimiteit. Om maar een voorbeeld te noemen omdat je nu toch al aan seks dacht... 
 
 De meeste vrouwen vinden het niet fijn om seks te hebben met een blaasontsteking. 
 
@@ -145,17 +150,17 @@ Wat weer van invloed is op; noem maar een vorm van intimiteit 7 zinnen terug.
 Een chronische blaasontsteking komt echter vaker voor dan je denkt. 
 
 Om de statistieken er even bij te pakken:
-* Circa 20% van de vrouwen heeft jaarlijks te maken met een urineweginfectie. 
+* Circa 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking. 
 
 En eenmaal een infectie opgelopen. Dan heeft tussen de 27% en 50% **binnen 1 jaar** weer een infectie! 
 
-Veel vrouwen ervaren dit probleem dus als **chronisch**. Wat wil zeggen dat deze infectie ook vaker dan 1 keer per jaar terugkomt! Een urineweginfectie voorkomt hierbij het kunnen beoefenen van één zeer gewilde behoefte in een relatie. 
+Veel vrouwen ervaren dit probleem dus als **chronisch**. Wat wil zeggen dat deze infectie ook vaker dan 1 keer per jaar terugkomt! Een blaasontsteking voorkomt hierbij het kunnen beoefenen van één zeer gewilde behoefte in een relatie. 
 
 Seks.
 
 En nu komt de verrassing.
 
-De grootste **risicofactor** voor het krijgen van een urineweginfectie in de vorm van een blaasontsteking is...
+De grootste **risicofactor** voor het krijgen van een blaasontsteking is...
 
 Seks. 
 
@@ -169,7 +174,7 @@ Met relatieproblemen tot gevolg.
 
 Helemaal wanneer we dit vanuit holistisch perspectief combineren met de overige 6 punten wat van invloed is op jullie leven. De (tevens zeer verrassende) statistieken van deze oorzaken bespreken we wel een andere keer. 
 
-Nog even ter info. Waar wij je bewust van willen maken is het volgende. De kans om een probleem als een urineweginfectie te verminderen is mogelijk met **eenvoudige en biologische alledaagse producten**. Denk aan Ivan Chai. Een Siberische kruidenthee. 
+Nog even ter info. Waar wij je bewust van willen maken is het volgende. De kans om een probleem als een blaasontsteking te verminderen is mogelijk met **veilige, eenvoudig te gebruiken en bewezen effectieve biologische alledaagse producten**. Denk aan Ivan Chai. Een Siberische kruidenthee. 
 
 **Bijkomende voordelen.** 
 

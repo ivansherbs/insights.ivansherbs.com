@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Een onopgemerkt probleem
 type: artikel
 category: prostaatkanker
-publish: IVAN's
-author: Ivan Alexandrovitsj
+publish:
+  author: Ivan Alexandrovitsj
+  date:
 tags:
 - man
 - 45+
@@ -13,9 +14,13 @@ tags:
 - ziekten
 meta-description: Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. We kunnen echter één risicofactor met zekerheid vaststellen. Benieuwd naar de inzichten?
 meta-tags: prostaat, prostaatkanker, prostaatklachten, prostaatpijn, symtomen prostaat kanker, psa
-banner: https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing
+fragments:
+  header: nl/ivans/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
+  footer: nl/ivans/veelgestelde-vragen/prostaatkanker
+banner:
+ url: https://drive.google.com/file/d/17jkuLaoDik9hFbqFHrLKFZRaw7zt8LyB/view?usp=sharing
+ effect: 
 ---
-
 We gaan het nu kort hebben over een heel gevaarlijk probleem. 
 
 Namelijk.
@@ -45,9 +50,11 @@ Mannen bezoeken dan een arts vanwege lichte prostaatklachten. Onder lichte prost
 Een vergrote prostaat is een goedaardige aandoening. Het blijft hierdoor bij een controle altijd even spannend welke van de problemen je last hebt. 
 
 **Tip** <br>
-Hou hier dus rekening mee mocht je ooit een arts bezoeken vanwege prostaatklachten. 
+Houd hier dus rekening mee mocht je ooit een arts bezoeken vanwege prostaatklachten. 
+
+Wanneer prostaatkanker niet tijdig wordt geconstateerd is het bijna niet te genezen. 
 
 **Goed om te weten.** <br>
-Wanneer niet tijdig geconstateerd en uitgezaaid naar de rest van het lichaam, is prostaatkanker bijna niet te genezen. 
+Ivan Chai heeft een positieve werking op gezonde prostaatcellen.
 
 Op zoek naar meer verdieping? 

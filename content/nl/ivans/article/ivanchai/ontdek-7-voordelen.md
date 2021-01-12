@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Ontdek 7 voordelen
 type: artikel
 category: Ivan Chai
-publish: IVAN's
-author: Ivan Alexandrovitsj
+publish:
+  author: Ivan Alexandrovitsj
+  date: 07.01.2021
 tags:
 - weerstand
 - ontsteking
@@ -16,10 +17,15 @@ tags:
 - man 
 - vrouw
 - 45+
-meta-description: Op zoek naar een eenvoudig, veilig en biologisch alledaags product goed voor lichaam en geest? Ivan Chai bevat 7 voordelen. Ontdek de Siberische kruidenthee Ivan Chai. 
+meta-description: Op zoek naar een veilig, eenvoudig te gebruiken en bewezen effectief biologisch alledaags product goed voor lichaam en geest? Ontdek de Siberische kruidenthee Ivan Chai. 
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
+fragments:
+  header: nl/ivans/voordelen/veilig-en-bewezen-effectief
+  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
+banner:
+  url: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
+  effect:
 ---
-
 ### Ivan Chai
 
 1. Versterkt de weerstand
@@ -51,14 +57,14 @@ Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
 
 Waar wij je op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen en problemen te verzorgen.
 
-Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met farmaceutische medicijnen. Deze farmaceutische medicijnen hebben veel ongewenste bijwerkingen.
+Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met medicijnen. Deze medicijnen hebben veel ongewenste bijwerkingen.
 
 Denk bijvoorbeeld aan...
 * antibiotica
 * maagzuurremmers
 * anticonceptiepil
 
-Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen. Om de kans op ziekten te verkleinen en problemen te verzorgen. Maar ook als levenselixer of ter ontspanning.
+Drink Ivan Chai als alternatief of aanvulling op medicijnen. Om de kans op ziekten te verkleinen en problemen te verzorgen. Maar ook als levenselixer of ter ontspanning.
 
 <br>
 <br>
@@ -209,9 +215,9 @@ Tot op heden zijn er drie onderzoeken gedaan naar menselijke prostaatkankercelle
 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam, worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen. Graag willen we tot slot het volgende belichten.
 
-* Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam.
+* Prostaatklachten kunnen worden verholpen met medicijnen uit de farmaceutische industrie. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam.
 
-Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen.
+Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op medicijnen uit de farmaceutische industrie.
 
 <br>
 
@@ -245,4 +251,4 @@ Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten 
 <br>
 
 https://drive.google.com/file/d/1iio1hXTYtn8lJ0oagBhfr8x8PeIt6H7C/view?usp=sharing
-> SIBERIË| Na een fermentatieproces van 3 dagen wordt de Ivan Chai op traditionele wijze in zakken gestopt. Deze werkwijze verloopt geheel volgens de Eco7-Standaard. 
+> SIBERIË| Na een fermentatieproces van 3 dagen wordt de Ivan Chai op traditionele wijze in zakken gestopt. Deze werkwijze verloopt geheel volgens onze Eco7 Standaard. 

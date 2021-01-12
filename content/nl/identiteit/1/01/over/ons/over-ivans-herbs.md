@@ -6,7 +6,8 @@ publish: IVAN's
 category: kruiden uit Siberië
 meta-description: Wij geloven in het aanbieden van producten met krachtige impact de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu. Benieuwd waar wij voor staan?
 meta-tags: gezondheid, ivan chai, kruiden, kruidengeneeskunde, medicijn, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7-standaard 
-banner: https://drive.google.com/file/d/1om-8ue0Oj6DrRGzOVNujjTmcvFztidlU/view?usp=sharing
+banner:
+  url: https://drive.google.com/file/d/1om-8ue0Oj6DrRGzOVNujjTmcvFztidlU/view?usp=sharing
 ---
 
 Versterk dagelijks je lichaam en geest met kruiden uit Siberië.

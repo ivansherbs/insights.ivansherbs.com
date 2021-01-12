@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Ben jij er al achter hoe het écht voelt?
 type: artikel
 category: stress
-publish: IVAN's
-author: Ivan Alexandrovitj
+publish:
+  author: Ivan Alexandrovitj
+  date:
 tags:
 - stress
 - mentale klachten
@@ -12,9 +13,13 @@ tags:
 - gevoel
 meta-description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Ontdek nu de inzichten. Leer omgaan met stress.
 meta-tags: stress, cortisol, stress verminderen, stresshormoon, wat is stress, omgaan met stress
-banner: https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
+fragments:
+  header: nl/ivans/voordelen/5-1-vermindert-de-kans-op-stress
+  footer: nl/ivans/veelgestelde-vragen/stress
+banner:
+  url: https://drive.google.com/file/d/1uDkhpPokGyD4cbcXL2fPiNqXVtZNq32e/view?usp=sharing
+  effect: 
 ---
-
 **We kennen allemaal het gevoel** dat je het maximale uit je dag wilt halen. Je hebt immers bergen met werk liggen. En die deadlines naderen.
 
 **Je staat uitgerust op.** Je bent fysiek fit. Je dagplanning is netjes op orde. En je begint op tijd. Je werkt hard. Je werk gefocust. Je krijgt veel gedaan. En wat betreft die werkdruk waar iedereen het over heeft. Die heb je onder controle...
@@ -45,7 +50,7 @@ https://drive.google.com/file/d/1zpQTg9zieA0FuUcRrxKRggCGvSDR09SJ/view?usp=shari
 
 Mocht je toch onverhoopt met een overmatige hoeveelheid aan stress rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode. 
 
-Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
+Het gebruik van medicijnen uit de farmaceutische industrie kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen stress.
 

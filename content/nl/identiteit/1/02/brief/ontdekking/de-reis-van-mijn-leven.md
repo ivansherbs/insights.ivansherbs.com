@@ -12,7 +12,8 @@ tags:
 - sport
 meta-description: Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Ik ben al ruim 7 jaar bezig met het bestuderen van de geneeskrachtige werking in kruiden. De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudige en biologische alledaagse producten met geneeskrachtige werking. 
 meta-tags: ivan Chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtig, michael koch
-banner: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
+banner:
+  url: https://drive.google.com/file/d/1XibDLVcmerLVyp6yCkAYcdGWKhtqtMW1/view?usp=sharing
 ---
 
 Geachte Levensgenieter,

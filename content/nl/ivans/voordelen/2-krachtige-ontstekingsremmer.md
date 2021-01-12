@@ -1,5 +1,5 @@
-<h2>Ivan Chai werkt als krachtige ontstekingsremmer</h2>
-
-"Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen"
-
--Ivanka via ivansherbs.com
+><h2>Krachtige ontstekingsremmer</h2>
+>
+>"Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen"
+>
+> <p style="text-align: right">-Michael via ivansherbs.com</p>

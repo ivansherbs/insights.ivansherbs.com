@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: De man zonder hamer
 type: artikel
 category: keelontsteking
-publish: IVAN's
-author: Ivan Alexandrovitsj
+publish:
+  author: Ivan Alexandrovitsj
+  date:
 tags:
 - ontsteking
 - levensstijl
@@ -12,9 +13,13 @@ tags:
 - gevoel
 meta-description: Hou jij ook van een paar glazen alcohol? Allemaal op één avond? Lees dan even heel snel de brief van Ivan over overmatig alcohol gebruik.
 meta-tags: keelontsteking, keelontsteking symptomen, keelpijn bij slikken, symptomen keelontsteking, ontstoken keel, droge keel, alcohol, droge mond en keel
-banner: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
+fragments:
+  header: nl/ivans/voordelen/2-krachtige-ontstekingsremmer
+  footer: nl/ivans/veelgestelde-vragen/keelontsteking
+banner:
+  url: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
+  effect: 
 ---
-
 Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL. En dat allemaal op één avond. Voel je vooral niet aangesproken. We bekijken zometeen namelijk ook nog even de statistieken. HA-HA.
 
 .................

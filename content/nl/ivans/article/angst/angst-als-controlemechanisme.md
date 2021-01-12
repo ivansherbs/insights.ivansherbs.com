@@ -1,19 +1,24 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Angst als controlemechanisme
 type: artikel
 category: angst
-publish: IVAN's
-author: Svetlana Petrova
+publish:
+  author: Svetlana Petrova
+  date: 
 tags:
 - mentale klachten
 - werk
 - eyeopener
 meta-description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar de inzichten?
 meta-tags: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten, controle, fobie, sociale angst, paniek
-banner: https://drive.google.com/file/d/1kK2QSdSh3CrNpuy7ipcW_xpO6oPMTNJ-/view?usp=sharing
+fragments:
+  header: nl/ivans/voordelen/5-2-vermindert-de-kans-op-angst
+  footer: nl/ivans/veelgestelde-vragen/angst
+banner:
+  url: https://drive.google.com/file/d/1kK2QSdSh3CrNpuy7ipcW_xpO6oPMTNJ-/view?usp=sharing
+  effect:
 ---
-
 **ANGST** is een emotie die we allen een keer hebben ervaren. 
 
 De één heftiger dan de ander. Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Iets wat jij op dat moment als een bedreiging of gevaar hebt beschouwt.
@@ -127,9 +132,9 @@ Een Siberische kruidenthee.
 
 Mocht je toch onverhoopt met een overmatige hoeveelheid aan angst rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Goed om te weten. Bestrijd lichtere vormen van angst en vermijd het gebruik van farmaceutische medicijnen.
+Goed om te weten. Bestrijd lichtere vormen van angst en vermijd het gebruik van medicijnen uit de farmaceutische industrie.
 
-> Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
+> Het gebruik van medicijnen uit de farmaceutische industrie kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van angst.
 

@@ -1,6 +1,6 @@
 ### Advies 
 
-Drink Ivan Chai als alternatief of aanvulling op farmaceutische medicijnen.
+Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie.
 
 * ter voorkoming van problemen
 * ter behandeling van problemen
@@ -16,7 +16,7 @@ In het algemeen geven de onderstaande doseringen voldoende resultaat:
 
 #### Is het effect van Ivan Chai direct voelbaar?
 
-In tegenstelling tot de meeste farmaceutische medicijnen, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
+In tegenstelling tot de meeste medicijnen uit de farmaceutische industrie, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase zul je het verschil merkbaar voelen. 
 
 In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
@@ -27,9 +27,9 @@ Wij raden het aan de kuur als preventieve behandeling met regelmaat te herhalen.
 #### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 
 Er zijn tot op heden geen ongewenste bijwerkingen van Ivan Chai gemeld:
-> Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij farmaceutische medicijnen.
+> Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
  
-LET OP! Als u farmaceutische medicijnen gebruikt voorgeschreven door uw behandelend arts, maak deze kuur dan eerst af. Stop nooit zomaar met een kuur of behandeling.
+LET OP! Als u medicijnen uit de farmaceutische industrie gebruikt voorgeschreven door uw behandelend arts, maak deze kuur dan eerst af. Stop nooit zomaar met een kuur of behandeling.
  
 Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
  
@@ -60,6 +60,6 @@ Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelhede
 
 Ivan Chai heeft een geneeskrachtige werking.
 
-Het European Medicines Agency te Amsterdam heeft de werking van Ivan Chai op de prostaat en urinewegen geëvalueerd en goedgekeurd. Dit met name omdat er langdurig grootschalig klinisch onderzoek aan te pas is gekomen. 
+Het European Medicines Agency te Amsterdam heeft de werking van Ivan Chai op de prostaat en urinewegen nogmaals geëvalueerd en bevestigd. Dit met name omdat er langdurig grootschalig klinisch onderzoek aan te pas is gekomen. 
 
 De overige voordelen worden ondersteund ook ondersteund. Echter door hedendaags onderzoek.

@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Alle kleine beetjes helpen...
 type: artikel
 category: zwak immuunsysteem
-publish: IVAN's
-author: Ivan Alexandrovitsj
+publish: 
+  author: Ivan Alexandrovitsj
+  date:
 tags:
 - weerstand
 - levensstijl	
@@ -13,22 +14,30 @@ tags:
 - ouderdom
 meta-description: Dit artikel is bedoeld voor iedereen die een zwak immuunsysteem wil voorkomen. Benieuwd naar de inzichten?
 meta-tags: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, voedingsstoffen, overgang, menopauze, oestrogeen
-banner: https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
+fragments:
+  header: nl/ivans/voordelen/1-versterkt-de-weerstand
+  footer: nl/ivans/veelgestelde-vragen/zwak-immuunsysteem
+banner:
+  url: https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
+  effect: 
 ---
-
-**Vandaag begin ik voor de verandering** met het voordragen van een hééél mooi gedicht over kanker. 
+**Vandaag begin ik voor de verandering** met het voordragen van een hééél mooi gedicht over kanker.
 
 .................
 
 ### Een overbiddelijke kwestie
 
-_“Kanker is één van de meest onverbiddelijke kwesties in het leven. Voor je het weet zal je het zonlicht een laatste afscheid moeten geven._
+_“Kanker is één van de meest onverbiddelijke kwesties in het leven._
+
+_Voor je het weet zal je het zonlicht een laatste afscheid moeten geven._
 
 _Een afscheid waarbij het licht je uit je ogen kijkt._
 
 _Het liefst wil je blijven tot de ouderdom je bij je kladden grijpt._
 
-_Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat. En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat._
+_Echter mogen we van geluk spreken dat er iets als een chemotherapie bestaat._
+
+_En je de mogelijkheid geeft terug te vechten tegen de ziekte die je zo haat._
 
 _God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zwak immuunsysteem voor langere duur je de nodige weerstand blijven geven.”_
 
@@ -101,11 +110,11 @@ Om te beginnen. We mogen van geluk spreken dat er iets bestaat als chemotherapie
 
 **Om het je in het kort duidelijk te maken.** Delen van de complexe onderling verbonden interne processen van het lichaam worden kapot gemaakt. En hierdoor ernstig verstoord. Deze extreme invloeden van buitenaf zorgen voor een instabiel en zwak immuunsysteem. Je lichaam zal met veel moeite over jaren heen weer zijn hersteld. En dan nog te bedenken dat er ook mentale klachten kunnen meespelen zoals angst. Angst voor het onzekere en de behandeling. 
 
-**Wat weer van invloed is op het algehele herstelproces.** Het kan zijn dat je hierdoor tevens gedwongen farmaceutische medicijnen moet gebruiken met ongewenste bijwerkingen. Dit is in de meeste gevallen van invloed op de kwetsbaarheid van je lichaam. Je lichaam moet wennen aan je nieuwe levensstijl.
+**Wat weer van invloed is op het algehele herstelproces.** Het kan zijn dat je hierdoor tevens gedwongen medicijnen uit de farmaceutische industrie moet gebruiken met ongewenste bijwerkingen. Dit is in de meeste gevallen van invloed op de kwetsbaarheid van je lichaam. Je lichaam zal moet wennen aan je nieuwe levensstijl.
 
 ### Meerdere oorzaken
 
-Uiteraard zijn er veel meer oorzaken voor een zwak immuunsysteem. Ook minder zware **farmaceutische medicijnen** ( antibiotica) om een aandoening te verdrijven zijn al van invloed. 
+Uiteraard zijn er veel meer oorzaken voor een zwak immuunsysteem. Ook minder zware **medicijnen uit de farmaceutische industrie** ( antibiotica) om een aandoening te verdrijven zijn al van invloed. 
 
 Of denk aan het hebben van **bloedarmoede**. Ofwel **ijzertekort**. Wat ook weer te maken kan hebben met de **overgang** of **menopauze**. Als gevolg van een **laag oestrogeen** gehalte. En ga zo maar door. Om deze lijst niet onnodig lang te maken. Laten we het voor nu hierbij. Ook bij deze oorzaken geldt. 
 
@@ -135,13 +144,13 @@ Los deze puzzel zelf maar op.
 
 ## Tot slot 
 
-Laat ik het nogmaals herhalen. **Alle kleine beetjes helpen om je immuunsysteem sterk te houden.** Wat erbij kan helpen zijn eenvoudige en biologische alledaagse producten.
+Laat ik het nogmaals herhalen. **Alle kleine beetjes helpen om je immuunsysteem sterk te houden.** Wat erbij kan helpen zijn veilige, eenvoudige en bewezen effectieve biologische alledaagse producten.
 
 Met kleine veranderingen in alledaagse producten kun je op langere termijn gemakkelijk winst behalen. Voor lichaam en geest
 
 **Denk aan Ivan Chai. Een Siberische kruidenthee met 7 voordelen.**
 
-Drink Ivan Chai preventief tegen een zwak immuunsysteem. Of om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
+Drink Ivan Chai preventief tegen een zwak immuunsysteem. Of om je fysiek en mentaal te ondersteunen bij het gebruik van medicijnen uit de farmaceutische industrie.
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een zwak immuunsysteem te verzorgen.
 

@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Groeien tot je erbij neervalt...
 type: artikel
 category: vergrote prostaat
-publish: IVAN's
-author: Ivan Alexandrovitsj
+publish: 
+  author: Ivan Alexandrovitsj
+  date:
 tags:
 - man
 - 45+
@@ -12,9 +13,13 @@ tags:
 - prostaat
 meta-description: Prostaatklachten? bph? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Ook wel bekend als benigne prostaat hyperplasie. Benieuwd naar de inzichten? 
 meta-tags: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroot, benigne prostaat hyperplasie, maria treben, urineverlies
-banner: https://drive.google.com/file/d/1sBXXj9X5weqMuLzgNl1KLs-1857xPFTk/view?usp=sharing
+fragments:
+  header: nl/ivans/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
+  footer: nl/ivans/veelgestelde-vragen/vergrote-prostaat
+banner:
+  url: https://drive.google.com/file/d/1sBXXj9X5weqMuLzgNl1KLs-1857xPFTk/view?usp=sharing
+  effect: 
 ---
-
 Wist je dat sommige delen van het lichaam niet willen stoppen met groeien?
 
 **Túúúúrlijk komt dit je bekend voor.**
@@ -106,6 +111,6 @@ En met succes!
 Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van een ernstige vergrote prostaat, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Graag willen we tot slot het volgende belichten.
-* Prostaatklachten kunnen worden verholpen met farmaceutische medicijnen. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op farmaceutische medicijnen.
+* Prostaatklachten kunnen worden verholpen met medicijnen uit de farmaceutische industrie. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij je bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op medicijnen uit de farmaceutische industrie.
 
 Op zoek naar meer verdieping?

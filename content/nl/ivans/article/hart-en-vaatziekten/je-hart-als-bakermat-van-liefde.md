@@ -1,25 +1,30 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Je hart als bakermat van liefde
 type: artikel
 category: hart- en vaatziekten
-publish: IVAN's
-author: Svetlana Petrova
+publish:
+  author: Svetlana Petrova
+  date:
 tags:
 - eyeopener
 - gevoel
 - relatie
 - ziekten
 meta-description: Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. Beniewd wat voor een invloed liefde heeft op je hart?
-meta-tags: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoelens, vaatziekten, 
-banner: https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
+meta-tags: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoelens, vaatziekten
+fragments:
+  header: nl/ivans/voordelen/3-versterkt-de-antioxiderede-werking
+  footer: nl/ivans/veelgestelde-vragen/hart-en-vaatziekten
+banner:
+  url: https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
+  effect:
 ---
-
 **Het hart** heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. De hedendaagse hartvorm wordt al sinds de middeleeuwen gebruikt om gepassioneerde hartstochtelijke liefdevolle gevoelens naar elkaar toe weer te geven. En met succes.
 
 **Deze symbolische betekenis** van het hart is zo diep doorgedrongen tot onze maatschappij dat het centraal staat bij vele uitdrukkingen. Het is ontstaan door emoties die ten grondslag liggen aan onze hartslag. De innerlijke beleving van verliefd worden, liefde, houden van en verlies zijn hierdoor letterlijk te voelen in je hart. 
 
-**Dit fenomeen** waarbij het liefhebben van een ander persoon centraal staat is en blijft voor velen een mysterieus verschijnsel. Echter blijft dit onderdeel van je gehele leven als mens. Van begin tot het einde. Je zult altijd wel ergen van houden, iets lief hebben, ergens om geven. Of je het nou leuk vindt...of niet. 
+**Dit fenomeen** waarbij het liefhebben van een ander persoon centraal staat is en blijft voor velen een mysterieus verschijnsel. Echter blijft dit onderdeel van je gehele leven als mens. Van begin tot het einde. Je zult altijd wel ergen van houden, iets lief hebben, ergens om geven.
 
 **Door de eeuwen** heen werd er al door verschillende filosofen hartstochtelijk over gediscussieerd. Denk aan een lijst met namen als Aristoteles, Socrates en Hippocrates. Deze heren waren het er destijds al over eens. Het hart is **één van de belangrijkste organen** van het menselijk lichaam. Samen met de hersenen zwaaien zij de scepter. 
 
@@ -49,12 +54,12 @@ https://drive.google.com/file/d/1pL-XQzOhZQ9sA9vYbB-O6g_YYt4eq9uj/view?usp=shari
  
 **Gezien de complexiteit** van alleen al het hart en de verbindende taak van je bloedvaten zijn hart- en vaatziekten moeilijk te herkennen. Bewustwording is een eerste stap richting het preventief behandelen van deze problemen.
 
-**Nog even ter informatie.** Drink Ivan Chai niet alleen preventief tegen hart- en vaatziekten. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen. Hiernaast heeft Ivan Chai een kalmerende werking op je centrale zenuwstelsel. 
+**Nog even ter informatie.** Drink Ivan Chai niet alleen preventief tegen hart- en vaatziekten. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van medicijnen uit de farmaceutische industrie. Hiernaast heeft Ivan Chai een kalmerende werking op je centrale zenuwstelsel. 
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent hart- en vaatziekten te voorkomen.
 
 Mocht je toch onverhoopt een hart- en vaatziekten oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Bij gebruik van zware farmaceutische medicijnen, raden wij het aan eerst met een deskundige te overleggen of Ivan Chai kan worden gedronken.
+Bij gebruik van zware medicijnen uit de farmaceutische industrie raden wij het aan eerst met een deskundige te overleggen of Ivan Chai kan worden gedronken.
 
 Benieuwd naar de impact van hart- en vaatziekten?

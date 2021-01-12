@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: Het onzichtbare leger
 type: artikel
-category: infecties
-publish: IVAN's 
-author: Svetlana Petrova
+category: vaginale schimmelinfectie
+publish:
+  author: Svetlana Petrova
+  date:
 tags:
 - weerstand
 - vrouw
@@ -13,9 +14,13 @@ tags:
 - relatie
 meta-description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmel? 
 meta-tags: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel
-banner: https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
+fragments:
+  header: nl/ivans/voordelen/1-versterkt-de-weerstand 
+  footer: nl/ivans/veelgestelde-vragen/infectie
+banner:
+  url: https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
+  effect: 
 ---
-
 Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want.
 
 * Wist je dat **3 op de 4 vrouwen** last krijgt van een **vaginale schimmelinfectie**?!
@@ -68,7 +73,7 @@ Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vr
 
 ### En nu vraag je jezelf af waar dit door komt?
 
-Dit komt met name door de menstruatie (denk aan je hormoonspiegel) óf gebruik van bepaalde farmaceutische medicijnen.
+Dit komt met name door de menstruatie (denk aan je hormoonspiegel) óf gebruik van bepaalde medicijnen uit de farmaceutische industrie.
 
 Zoals de anticonceptiepil. Maar ook seksuele opwinding, zwangerschap en de overgang zijn hierop van invloed.
 
@@ -145,7 +150,7 @@ En zonder pardon. Doen ze het weer. Wanneer ze dit met veel doen dan krijg je ee
 
 **Laat ik het maar nog een keer herhalen.** Man of vrouw… 
 
-Het gebruik van farmaceutische medicijnen, of het nou antibiotica is of de anticonceptiepil, het vergroot de kans op een infectie. En wanneer je het hebt opgelopen.
+Het gebruik van medicijnen uit de farmaceutische industrie, of het nou antibiotica is of de anticonceptiepil, het vergroot de kans op een infectie. En wanneer je het hebt opgelopen.
 
 Denk dan vervolgens niet dat je één van de gelukkigen bent. En dat bij jou de infectie vanzelf overgaat. Je moet een infectie behandelen.
 
@@ -266,7 +271,7 @@ Wist je dat Ivan Chai de kans vermindert op stress?
 
 En ook angst en een burn-out?
 
-**Ivan Chai bevat een kalmerende werking.** Deze kalmerende werking is van invloed op je centrale zenuwstelsel. En niet zo heftig als bij farmaceutische medicijnen! 
+**Ivan Chai bevat een kalmerende werking.** Deze kalmerende werking is van invloed op je centrale zenuwstelsel. En niet zo heftig als bij  medicijnen uit de farmaceutische industrie! 
 
 En zonder heftige bijwerkingen. 
 
@@ -286,6 +291,6 @@ Goed.
 
 Mocht je onverhoopt een zware infectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Vergeet niet dat een infectie makkelijk kan terugkomen.
+Vergeet niet dat een vaginale schimmelinfectie makkelijk kan terugkomen.
 
 Wil jij meer weten over infecties?

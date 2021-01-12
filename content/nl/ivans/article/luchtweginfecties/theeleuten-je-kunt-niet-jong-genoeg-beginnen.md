@@ -1,10 +1,11 @@
 ---
-layout: article.html
+layout: article_with_header_and_footer.html
 title: "Theeleuten: je kunt niet jong genoeg beginnen"
 type: artikel
 category: luchtweginfecties
-publish: IVAN's
-author: Ivanka Lopukhina 
+publish:
+  author: Ivanka Lopukhina
+  date:
 tags:
 - weerstand
 - gezin
@@ -13,9 +14,13 @@ tags:
 - levensstijl
 meta-description: Verzorg bekende luchtweginfecties met Ivan Chai. Ook al op jonge leeftijd kun je een verkoudheid, griep of pseudokroep makkelijk verzorgen. Ontdek snel meer. 
 meta-tags: griep, verkoudheid, kinderen, oma, pseudokroep, moeders, luchtweginfectie, luchtweginfecties
-banner: https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
+fragments:
+  header: nl/ivans/voordelen/1-versterkt-de-weerstand
+  footer: nl/ivans/veelgestelde-vragen/luchtweginfectie
+banner:
+  url: https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
+  effect: 
 ---
-
 Iedereen heeft wel eens last van een luchtweginfectie. Denk aan een verkoudheid of griep.
 En iedereen weet het.
 
@@ -26,7 +31,7 @@ Hier heeft iedereen last van. Dit effect kan worden versterkt door een ongezonde
 
 Of. Nu komt het. 
 
-**Door gebruik van farmaceutische medicijnen.**
+**Door gebruik van medicijnen uit de farmaceutische industrie.**
 
 Denk aan antibiotica, anticonceptiepil of maagzuurremmers. Deze medicijnen lossen problemen op, maar maken je aan de andere kant ook weer vatbaarder voor nieuwe problemen. 
 
