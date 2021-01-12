@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+rm -rf _site
+
 ./build.sh
 
 if [ -f "_site/_redirects" ]

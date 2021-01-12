@@ -21,7 +21,7 @@ meta-description: Op zoek naar een veilig, eenvoudig te gebruiken en bewezen eff
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 fragments:
   header: nl/ivans/voordelen/veilig-en-bewezen-effectief
-  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
+  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-ivan-chai
 banner:
   url: https://drive.google.com/file/d/1r-r5zyxgRk7RJR-Efo6lCb7EkIZrxuH7/view?usp=sharing
   effect:

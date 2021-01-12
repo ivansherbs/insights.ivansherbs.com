@@ -22,7 +22,7 @@ meta-description: Grootmoeders uit de Sovjet-Unie kennen de geheimen van Ivan Ch
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 fragments:
   header: nl/ivans/voordelen/veilig-en-bewezen-effectief
-  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
+  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-ivan-chai
 banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?fm=jpg&q=50
   effect: o-lg-60d-black
