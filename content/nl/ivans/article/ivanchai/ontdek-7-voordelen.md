@@ -89,7 +89,7 @@ Een ontsteking kun je op veel verschillende manieren oplopen. Voor jou beeldvorm
 
 Zoals je ziet kun je ontstekingen al oplopen gedurende de normale gang van zaken. Drink Ivan Chai om de normale gang van zaken te beschermen.
 
-* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Het voorkomen van ontstekingen middels Ivan Chai is een effectieve manier om veel problemen te behandelen.
+* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. 
 
 Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.
 
@@ -98,11 +98,11 @@ Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd
 
 ## 3. Ivan Chai versterkt de antioxiderede werking
 
-Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. Je lichaam kan meerdere dagen op rij zonder voeding. Eén dag zonder water. 
+Voor alles wat je doet heb je voedingstoffen nodig. Alle onderdelen uit het lichaam hebben ieder ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. Je lichaam kan meerdere dagen op rij zonder voeding. Echter één dag zonder water.
 
 Hoe je het went of keert, je lichaam heeft 24/7 zuurstof nodig. De zuurstof die je inademt moet als een voedingsstof worden opgenomen in het lichaam. Dat gebeurt door middel van bloed. Om ervoor te zorgen dat zuurstofarm bloed wordt ververst en direct weer in het lichaam wordt gecirculeerd, heeft het hart deze nobele taak op zich genomen.
 
-Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurstof via de bloedvaten. Door een alledaags product als Siberische kruidenthee te drinken wordt dit gehele zuurstof proces versoepelt. 
+Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurstof via de bloedvaten. Door een alledaags product als Siberische kruidenthee te drinken wordt dit gehele zuurstof proces versoepelt.
 
 Met als gevolg dat je minder vatbaar bent voor hart- en vaatziekten.
 
@@ -119,7 +119,7 @@ Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
 
 Slaapproblemen hebben meer impact op je leven dan op het eerste gezicht lijkt. Je functioneert overdag voor je gevoel minder goed. Je bent minder scherp, hebt minder energie en voelt je lusteloos. 
 
-Wat veel mensen niet weten is dat een slaapstoornis een groeiend en zorgwekkend probleem is op de werkvloer. Een goede nachtrust helpt je lichaam en geest om te herstellen. En zorgt ervoor dat je overdag productiever bent. Het drinken van Siberische kruidenthee kan helpen bij dit probleem.
+Wat veel mensen niet weten is dat insomnia, ofwel slapeloosheid, een groeiend en zorgwekkend probleem is op de werkvloer. Een goede nachtrust helpt je lichaam en geest om te herstellen. En zorgt ervoor dat je overdag productiever bent. Het drinken van Siberische kruidenthee kan helpen bij dit probleem.
 
 * Ivan Chai is cafeïnevrij. Het helpt je om te slapen én slaapstoornissen te overwinnen.
 
@@ -147,9 +147,9 @@ Prostaatklachten zijn een veelvoorkomend probleem. 30% van de mannen van 50 jaar
 
 In andere woorden, de kans dat jij met prostaatklachten rondloopt kan worden vermindert. Er is gebruik gemaakt van grootschalig klinisch onderzoek om aan te tonen dat Ivan Chai werkt tegen verschillende prostaatklachten. De bevindingen van langdurig klinisch onderzoek hebben het volgende aangetoond.
 
-* Ivan Chai werd na duizenden recensies van mannen effectief bevonden voor het verhelpen van de zwelling en ontsteking van de prostaatklier.
+* Ivan Chai werd na duizenden recensies van mannen effectief bevonden tegen een prostaatontsteking.
 
-* Ivan Chai gaat óók de groei van de prostaat tegen.
+* Ivan Chai gaat óók de groei van de prostaat tegen. In andere woorden werkt Ivan Chai goed tegen een vergrote prostaat (bph).
 
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/WbZiBDHmv6wZQXIdynio5/8292e1d2ef8b74ef5deefbcbfe26faf0/9.png?fm=jpg&q=50-->
 > De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben alleen de kruiden uit deze regio een verbazingwekkend sterke geneeskrachtige werking. 
@@ -160,7 +160,7 @@ Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen.
 
 * Het European Medicines Agency (EMA) heeft dit kruid goedgekeurd voor het gebruik gericht op de verlichting van symptomen en klachten tegen een blaasontsteking. 
 
-Deze symptomen en klachten zijn vergelijkbaar aan die van een vergrote prostaat.
+Deze symptomen en klachten zijn vergelijkbaar met die van een vergrote prostaat (bph).
 
 Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel.
 
@@ -168,9 +168,9 @@ Tot slot heeft Ivan Chai nog één onderbelicht bijkomend voordeel.
 
 **Let op!**
 
-Tot op heden zijn er drie onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En dus de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
+Tot op heden zijn er drie onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie; en de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
 
-* Het antitumor effect is echter wél goed bestudeerd. Het heeft met name een positieve werking op gezonde prostaatcellen.
+* Het antitumor effect is echter wél goed bestudeerd. Ivan Chai heeft met name een positieve werking op gezonde prostaatcellen.
 
 De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam, worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen. Graag willen we tot slot het volgende belichten.
 
@@ -183,25 +183,19 @@ Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling o
 
 ## 7. Ivan Chai verzorgt het spijsverteringsstelsel
 
-Ai!
+Ai! Je moet alweer voor de zoveelste keer naar het toilet. Je maag en darmen gaan wederom als een jekko te keer. Het liefst zou je nu weer op 'normale wijze' op de doos willen zitten. 
 
-Je moet alweer voor de zoveelste keer naar het toilet. Je maag en darmen gaan wederom als een jekko te keer. Het liefst zou je nu weer op 'normale wijze' op de doos willen zitten. 
+Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt. Met een veilig, eenvoudig te gebruiken en effectief bewezen door klinisch onderzoek alledaags product. Start met deze kennis periodiek een preventieve behandeling met Ivan Chai.
 
-Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt. Met een eenvoudig en biologisch alledaags product. Waar je misschien niet van op de hoogte bent is het volgende. Het is te voorspellen wanneer je last gaat krijgen van buikgriep!
-
-Start met deze kennis een preventieve behandeling met Ivan Chai. Verminder de kans en de symptomen op natuurlijke wijze.
-
-want..
-
-Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Denk aan Gastritis en Colitis, maar ook een maagzweer kan worden behandelt door het drinken van Ivan Chai.
+Ivan Chai verzorgt je spijsverteringsstelsel en helpt de kans op maag- en darmklachten te verminderen. Denk aan gastritis en colitis, maar ook een maagzweer kan worden behandelt door het drinken van Ivan Chai.
 
 * Ivan Chai helpt je om spijsverteringsonevenwichtigheden te stabiliseren voor mensen met een prikkelbaar darmsyndroom.
 
 In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. En een ontsteking in zowel de dikke als dunne darm.
 
-Om de statistieken er nog even bij te pakken. 75% van de patiënten van het prikkelbare darmsyndroom is vrouw. Je kunt last krijgen van je spijsverteringsstelsel wanneer je veranderingen ondergaan in je dieet. Van gezond eten naar fastfood en andersom. Of een keer heel erg pittig eten.
+Om de statistieken er nog even bij te pakken. 75% van de patiënten van het prikkelbare darmsyndroom is vrouw. Je kunt last krijgen van je spijsverteringsstelsel wanneer je veranderingen ondergaan in je dieet. Of wanneer je intensief gebruik maakt van medicijnen uit de farmaceutische industrie.
 
-Tot slot, voor wanneer het je onverhoopt mocht overkomen. Kleine darmparasieten kunnen zelfs worden geëlimineerd door grote hoeveelheden Ivan Chai te drinken.
+Tot slot, klinisch onderzoek heeft zelfs aangetoond dat kleine darmparasieten kunnen worden geëlimineerd door het drinken van grote hoeveelheden Ivan Chai.
 
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/75dEUbi4QxZUCypPS0Ldkz/8292e1d2ef8b74ef5deefbcbfe26faf0/11.png?fm=jpg&q=50-->
 > Na een fermentatieproces van 3 dagen wordt de Ivan Chai op traditionele wijze in zakken gestopt. Deze werkwijze verloopt geheel volgens onze Eco7 Standaard. 
