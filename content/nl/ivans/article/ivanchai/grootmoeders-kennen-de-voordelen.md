@@ -109,7 +109,7 @@ We mogen onszelf gelukkig prijzen met de vele natuurlijke gezondheids wijsheden 
 
 Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. Bent u benieuwd hoe het wordt gemaak? Lees dan snel verder.
 
-[image https://images.ctfassets.net/lyvtxhzy9zgr/1l9SnBSBEZfW02wSOdZfOS/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma-field-ivan-chai.png?fm=jpg&q=50]
+[imagehttps://images.ctfassets.net/lyvtxhzy9zgr/1l9SnBSBEZfW02wSOdZfOS/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma-field-ivan-chai.png?fm=jpg&q=50]
 
 ### Verwerking
 
