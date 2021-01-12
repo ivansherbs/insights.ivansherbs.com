@@ -1,6 +1,7 @@
 ---
 layout: article_with_header_and_footer.html
 title: Grootmoeders kennen de voordelen
+url: /nl/ivan-chai-grootmoeders-kennen-de-voordelen
 type: artikel
 category: Ivan Chai
 publish:
