@@ -107,9 +107,11 @@ Tot slot. De oma's uit de Altaj hadden zelfs geleerd dat darmparasieten geëlimi
 
 We mogen onszelf gelukkig prijzen met de vele natuurlijke gezondheids wijsheden van oma's!
 
-Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. Bent u benieuwd hoe het wordt gemaak? Lees dan snel verder.
+Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. 
 
-[imagehttps://images.ctfassets.net/lyvtxhzy9zgr/1l9SnBSBEZfW02wSOdZfOS/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma-field-ivan-chai.png?fm=jpg&q=50]
+Bent u benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
+
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/1l9SnBSBEZfW02wSOdZfOS/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma-field-ivan-chai.png?fm=jpg&q=50-->
 
 ### Verwerking
 
