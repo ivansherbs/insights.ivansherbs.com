@@ -65,6 +65,6 @@ Ivan’s Herbs biedt producten aan die als veilig, eenvoudig te gebruiken en bew
 
 Goed voorbeeld: 
 
-Het European Medicines Agency te Amsterdam heeft de werking van Ivan Chai op de prostaat en urinewegen nogmaals geëvalueerd en bevestigd. Dit met name omdat er langdurig grootschalig klinisch onderzoek aan te pas is gekomen.
+Het European Medicines Agency gevestigd te Amsterdam heeft de werking van Ivan Chai op de prostaat en urinewegen nogmaals geëvalueerd en bevestigd. Dit met name omdat er langdurig grootschalig klinisch onderzoek aan te pas is gekomen.
 
 Ivan's Herbs biedt een 100% tevredenheidsgarantie. Vragen? Wij zijn online goed te bereiken. Wacht niet langer en bestel uw product.
