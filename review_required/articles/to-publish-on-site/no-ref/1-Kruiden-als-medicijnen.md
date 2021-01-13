@@ -13,7 +13,7 @@ tags:
 meta-description: Kruiden als medicijnen? Maak kennis met de inzichten van Ivan's Herbs. Ontdek wat kruidengeneeskunde, aromatherapie en supplementen voor U kan betekenen. 
 fragments:
   header: nl/ivans/voordelen/kruiden-zijn-de-natuurlijke-oplossing
-  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
+  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-producten-ivans-herbs
 banner: 
   url: https://images.ctfassets.net/lyvtxhzy9zgr/2AYwP5RbWkLhbJkMZe4pHF/8292e1d2ef8b74ef5deefbcbfe26faf0/12.png?fm=jpg&q=50
   effect:
