@@ -14,16 +14,16 @@ meta-description: Kruiden als medicijnen? Maak kennis met de inzichten van Ivan'
 fragments:
   header: nl/ivans/voordelen/kruiden-zijn-de-natuurlijke-oplossing
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
-banner: https://images.ctfassets.net/lyvtxhzy9zgr/2AYwP5RbWkLhbJkMZe4pHF/8292e1d2ef8b74ef5deefbcbfe26faf0/12.png?fm=jpg&q=50
-  url: 
+banner: 
+  url: https://images.ctfassets.net/lyvtxhzy9zgr/2AYwP5RbWkLhbJkMZe4pHF/8292e1d2ef8b74ef5deefbcbfe26faf0/12.png?fm=jpg&q=50
   effect:
 ---
 Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of gezondheidsproblemen te verzorgen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel; negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
 
 ### EMA
-Het European Medicines Agency (EMA) onderschrijft de geneeskrachtige werking te vinden in kruiden. De werking van veel kruiden zijn geëvalueerd en bevestigd door het Europese equivalent van de Amerikaanse Federal Drug Administration (FDA). 
+Het European Medicines Agency (EMA) gevestigd te Amsterdam onderschrijft de geneeskrachtige werking te vinden in kruiden. De werking van veel kruiden zijn geëvalueerd en bevestigd door het Europese equivalent van de Amerikaanse Federal Drug Administration (FDA). 
 
-Dit onafhankelijke instituut huisvest de 'Committee on Herbal Medicinal Products' (CHMP) wat zich volledig toewijdt aan het verzamelen en beoordelen van wetenschappelijke gegevens over kruiden; waarbij de ontwikkeling, evaluatie en veiligheid van kruiden met gezondheidsvoordelen en zonder negatieve bijwerkingen voor het lichaam centraal staat. Er wordt klinisch dan wel niet-klinisch bewijs geboden om aan te tonen hoe de actieve stoffen in kruiden de kans op ziekten verminderen en gezondheidsproblemen verzorgen.
+Dit onafhankelijke instituut huisvest de 'Committee on Herbal Medicinal Products' (CHMP) wat zich volledig toewijdt aan het verzamelen en beoordelen van wetenschappelijke gegevens over kruiden; waarbij de ontwikkeling, evaluatie en veiligheid van kruiden met geneeskrachtige werking en zonder negatieve bijwerkingen voor het lichaam centraal staat. Er wordt klinisch dan wel niet-klinisch bewijs geboden om aan te tonen hoe de actieve stoffen in kruiden de kans op ziekten verminderen en gezondheidsproblemen verzorgen.
 
 ### Bevindingen
 Experts zijn al jaren van mening dat kruiden meerdere actieve stoffen bevat die de kans op ziekten verminderen en gezondheidsproblemen verzorgen. Deze kruiden zijn van extra toegevoegde waarde voor lichaam en geest. Het gebruik van deze kruiden volgens recept is vergelijkbaar met 'combinatietherapie'. 
@@ -39,4 +39,4 @@ Wanneer je vatbaar bent voor ziekten, zoals tijdens de wintermaanden, kunnen kru
 
 > Kruiden worden door het European Medicines Agency (EMA) als zeer veilig beschouwd, wanneer ze worden geconsumeerd zoals aangegeven.
 
-Wanneer geconsumeerd zoals aangegeven werkt Ivan Chai in de meeste gevallen langzamer dan medicijnen uit de farmaceutische industrie. In tegenstelling tot de meeste  medicijnen gaat de werking van kruiden wél vooraf aan een zogenaamde opbouwfase. Dit 'nadeel' wordt gecompenseerd door het vaak ontbreken van negatieve bijwerkingen wanneer kruiden worden geconsumeerd zoals voorgeschreven.
+Wanneer geconsumeerd zoals aangegeven werken kruiden in de meeste gevallen langzamer dan medicijnen uit de farmaceutische industrie. In tegenstelling tot de meeste  medicijnen gaat de werking van kruiden wél vooraf aan een zogenaamde opbouwfase. Dit 'nadeel' wordt gecompenseerd door het vaak ontbreken van negatieve bijwerkingen wanneer kruiden worden geconsumeerd zoals voorgeschreven.
