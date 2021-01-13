@@ -15,8 +15,7 @@ In het algemeen geven de onderstaande doseringen voldoende resultaat:
 * Drink 1 kop vóór de maaltijd. En 2 keer per dag. Voor ten minste 14 dagen. <br>
 
 #### Is het effect van Ivan Chai direct voelbaar?
-
-In tegenstelling tot de meeste medicijnen uit de farmaceutische industrie, gaat de werking van Ivan Chai vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase is het effect voelbaar.
+De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase is het effect voelbaar.
 
 In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
