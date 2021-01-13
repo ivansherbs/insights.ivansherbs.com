@@ -11,6 +11,7 @@ tags:
 - kruiden
 - eyeopener
 meta-description: Kruiden als medicijnen? Maak kennis met de inzichten van Ivan's Herbs. Ontdek wat kruidengeneeskunde, aromatherapie en supplementen voor U kan betekenen. 
+meta-tags: kruiden, medicijnen, European Medicines Agency, farmaceutische industrie, expert, Amerikaanse Federal Drug Administration, wetenschap, gegevens
 fragments:
   header: nl/ivans/voordelen/kruiden-zijn-de-natuurlijke-oplossing
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-producten-ivans-herbs
