@@ -22,7 +22,7 @@ In andere woorden, één kop Ivan Chai maakt niet het verschil.
 
 #### Wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?
 
-Wij raden het aan de kuur als preventieve behandeling met regelmaat te herhalen.
+Wij raden het aan periodiek een preventieve behandeling met regelmaat te herhalen.
  
 #### Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
 
