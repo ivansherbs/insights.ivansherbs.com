@@ -12,5 +12,3 @@ fi
 
 # serve the content
 npx eleventy --serve --watch --dryrun --quiet
-
-
