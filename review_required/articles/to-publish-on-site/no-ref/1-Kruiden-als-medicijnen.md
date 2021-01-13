@@ -10,11 +10,11 @@ tags:
 - medicijn
 - kruiden
 - eyeopener
-meta-description: Kruiden als medicijnen? Ontdek de inzichten van Ivan's Herbs | kruidengeneeskunde | aromatherapie | supplementen
+meta-description: Kruiden als medicijnen? Maak kennis met de inzichten van Ivan's Herbs. Ontdek wat kruidengeneeskunde, aromatherapie en supplementen voor U kan betekenen. 
 fragments:
   header: nl/ivans/voordelen/kruiden-zijn-de-natuurlijke-oplossing
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling
-banner: https://drive.google.com/file/d/1T73xuTdYiXmt3dm7G1u9Siz6bUDSpU7k/view?usp=sharing
+banner: https://images.ctfassets.net/lyvtxhzy9zgr/2AYwP5RbWkLhbJkMZe4pHF/8292e1d2ef8b74ef5deefbcbfe26faf0/12.png?fm=jpg&q=50
   url: 
   effect:
 ---
