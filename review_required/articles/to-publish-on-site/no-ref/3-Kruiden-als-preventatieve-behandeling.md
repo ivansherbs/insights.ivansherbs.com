@@ -29,4 +29,6 @@ Kruidengeneeskunde in de vorm van kruidenthee, aromatherapie en supplementen kun
 
 **Verschillende herboristen** delen deze denkwijze. Hiernaast zien holistic wellness healers, master herbalists en spiritueel docenten de kracht in geneeskrachtige kruiden. Voordeel is dat de voedingsstoffen in kruiden makkelijker kunnen worden opgenomen dan één actieve stof. Kruiden worden al meer dan 1000 jaar door verschillende culturen gebruikt en zelfs in de Bijbel vermeld vanwege geneeskrachtige eigenschappen.
 
-**In het licht van de bevindingen** gericht op een focus-groep waarvan het overgrote deel bestond uit vrouwen, was ontevredenheid over een behandeling met medicijnen uit de farmaceutische industrie de reden om de voorkeur uit te laten gaan naar een behandeling met kruiden. Overheden, artsen en de farmaceutische industrie mogen zich bewust worden van dit groeiende probleem onder de desbetreffende gebruikers. Ons advies aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
+**In het licht van de bevindingen** gericht op een focus-groep waarvan het overgrote deel bestond uit vrouwen, was ontevredenheid over een behandeling met medicijnen uit de farmaceutische industrie de reden om de voorkeur uit te laten gaan naar een behandeling met kruiden. Overheden, artsen en de farmaceutische industrie mogen zich bewust worden van dit groeiende probleem onder de desbetreffende gebruikers. 
+
+**Ons advies** aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
