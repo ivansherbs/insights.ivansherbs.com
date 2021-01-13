@@ -64,7 +64,7 @@ De producten van Ivan’s Herbs zijn hierdoor gelukkig ook veilig voor kinderen.
 
 ### Tot slot
 
-Ivan’s Herbs biedt producten aan die veilig, eenvoudig te gebruiken en bewezen effectief door klinisch onderzoek zijn verklaard. 
+Ivan’s Herbs biedt producten aan die als veilig, eenvoudig te gebruiken en bewezen effectief door klinisch onderzoek zijn verklaard.
 
 Goed voorbeeld: 
 
