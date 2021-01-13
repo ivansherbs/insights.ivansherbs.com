@@ -19,7 +19,9 @@ banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/2AYwP5RbWkLhbJkMZe4pHF/8292e1d2ef8b74ef5deefbcbfe26faf0/12.png?fm=jpg&q=50
   effect:
 ---
-Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of gezondheidsproblemen te verzorgen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel; negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
+Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of gezondheidsproblemen te verzorgen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel; 
+
+> Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
 
 ### EMA
 Het European Medicines Agency (EMA) gevestigd te Amsterdam onderschrijft de geneeskrachtige werking te vinden in kruiden. De werking van veel kruiden zijn geëvalueerd en bevestigd door het Europese equivalent van de Amerikaanse Federal Drug Administration (FDA). 
