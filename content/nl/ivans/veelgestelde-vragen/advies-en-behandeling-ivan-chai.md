@@ -1,4 +1,4 @@
-### Advies 
+### Advies Ivan Chai
 
 Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie.
 
@@ -12,7 +12,9 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
 #### Welke dosering en behandelingskuur raden jullie aan?
 
 In het algemeen geven de onderstaande doseringen voldoende resultaat:
-* Drink 1 kop vóór de maaltijd. En 2 keer per dag. Voor ten minste 14 dagen. <br>
+* Drink 1 kop vóór de maaltijd
+* 2 keer per dag
+* ten minste 14 dagen
 
 #### Is het effect van Ivan Chai direct voelbaar?
 De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase is het effect voelbaar.
@@ -50,7 +52,7 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
  
 #### Contra-indicaties en waarschuwingen
 
-Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen. En is gelukkig veilig voor kinderen.
+Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen. Tevens veilig voor kinderen.
  
 **Zwangerschap, borstvoeding en vruchtbaarheid**
 
@@ -59,6 +61,8 @@ Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelhede
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
 
 ### Tot slot
+
+Ivan’s Herbs biedt producten aan die als veilig, eenvoudig te gebruiken en bewezen effectief door klinisch onderzoek zijn verklaard.
 
 Ivan Chai heeft een geneeskrachtige werking.
 
