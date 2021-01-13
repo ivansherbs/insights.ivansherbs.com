@@ -7,6 +7,13 @@ category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
   date: 06.01.2021
+shopify:
+  placement:
+  - beforeFooter
+  - afterHeader
+  tags:
+  - insomnia
+  - sdfdsfd
 tags:
 - weerstand
 - ontsteking
@@ -50,6 +57,8 @@ In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed ond
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van candida (gist) in het spijsverteringsstelsel. 
 
 Iedereen begrijpt de volgende logische redenering van oma. Een gezonde spijsvertering betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem.
+
+[[shopoify]]
 
 ### 2. Krachtige ontstekingsremmer
 
