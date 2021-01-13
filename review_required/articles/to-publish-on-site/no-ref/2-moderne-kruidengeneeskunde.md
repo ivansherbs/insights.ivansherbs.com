@@ -40,6 +40,9 @@ Het komt voor dat mensen de integratie en behandeling met traditionele kruidenge
 Binnen de gezondheidszorg is het handig om opties te hebben. Kruidengeneeskunde biedt hierbij keuzemogelijkheden. Gezondheidsproblemen kunnen worden aangepakt met conventionele behandelingen of ze kunnen worden gecombineerd met behandelmethode uit de traditionele kruidengeneeskunde. Mensen zijn op zoek naar alternatieve behandelmethode. Dogma's loslaten en benaderingen integreren kan hierbij vaak nuttig zijn.
 
 ### Advies
-Kruidengeneeskunde omvat de veelomvattende disciplines wetenschap als geschiedenis. Hoewel kruidengeneeskunde langer bestaat en wordt gebruikt wil het niet zeggen dat het beter is, echter informeert het verleden het heden. Directeur van de Northeast School of Botanical Medicine: 
+Kruidengeneeskunde omvat de veelomvattende disciplines wetenschap als geschiedenis. Hoewel kruidengeneeskunde langer bestaat en wordt gebruikt wil het niet zeggen dat het beter is, echter informeert het verleden het heden. 
 
->_"Ik moedig mensen aan om voorzichtig te zijn met alle soorten medicijnen. Pas het scepticisme ook toe op conventionele geneeskunde. Oefen je scepsis, onderzoek en sta open zoals een goede scepticus is."_
+>"Ik moedig mensen aan om voorzichtig te zijn met alle soorten medicijnen. Pas het scepticisme ook toe op conventionele geneeskunde. Oefen je scepsis, onderzoek en sta open zoals een goede scepticus is."
+
+aldus de Directeur van de Northeast School of Botanical Medicine
+
