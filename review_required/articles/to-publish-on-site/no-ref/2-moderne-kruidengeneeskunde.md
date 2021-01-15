@@ -10,8 +10,8 @@ tags:
 - medicijn
 - kruiden
 - eyeopener
-meta-description: Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, aromatherapie, supplementen
-meta-tags: medicijnen, kruidenthee, aromatherapie, supplementen, bijwerkingen, community building, kruidengeneeskunde, geneeskunde
+meta-description: Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, aromatherapie, supplementen, kruidenpoeder
+meta-tags: medicijnen, kruidenthee, aromatherapie, supplementen, kruidenpoeder, bijwerkingen, community building, kruidengeneeskunde, geneeskunde
 fragments:
   header: nl/ivans/voordelen/vraag-naar-natuurlijke-behandelingen
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-producten-ivans-herbs
@@ -21,9 +21,9 @@ banner:
 ---
 In de moderne samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken. Dit met name door de vele bijwerkingen die kunnen optreden. De vraag naar natuurlijke behandelingen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dient een natuurlijke behandeling beter te worden geïntroduceerd om ook als preventieve behandeling te kunnen worden gebruikt.
 
-> “De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van veilige, eenvoudig te gebruiken en bewezen effectieve natuurlijke behandelingen die de kans op ziekten verkleinen en gezondheidsproblemen verzorgen.” Denk aan kruidenthee, aromatherapie en supplementen. 
+> “De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van veilige, eenvoudig te gebruiken en bewezen effectieve natuurlijke behandelingen die de kans op ziekten verkleinen en problemen behandelen.” Denk aan kruidenthee, aromatherapie, supplementen en kruidenpoeder. 
 
-### Community building 
+### Community building
 Een gesprek tussen twee specialisten uit verschillende disciplines vindt plaats. Wat typerend is voor deze vakgebieden is dat bij community building lokale samenwerkingsverbanden, omgangsvormen dan wel denkwijze centraal staat. De vraag naar kennis om het publiek beter te informeren over het gebruik van traditionele kruidengeneeskunde komt vanuit de kant van de hedendaagse geneeskunde. 
 
 De weergave vindt plaats in de vorm van een interview met een conventioneel arts en een herborist. Beide werkzaam bij onafhankelijke instituten gericht op het welzijn van de mens. Hieronder een samenvatting van de besproken onderwerpen tussen de directeur hartchirurgie en pediatrie bij UVAhealth en de directeur van de Northeast School of Botanical Medicine.
@@ -37,7 +37,7 @@ De klinische behandelmethode van een herborist is over het algemeen minder gespe
 Het komt voor dat mensen de integratie en behandeling met traditionele kruidengeneeskunde in combinatie met hedendaagse geneeskunde niet willen accepteren. Alleen ruimdenkend en kritisch personen die bereid zijn om beide velden te integreren en te accepteren, zien in dat zowel traditionele kruidengeneeskunde als hedendaagse geneeskunde nodig is om patiënten te helpen.
 
 ### Keuzemogelijkheden
-Binnen de gezondheidszorg is het handig om opties te hebben. Kruidengeneeskunde biedt hierbij keuzemogelijkheden. Gezondheidsproblemen kunnen worden aangepakt met conventionele behandelingen of ze kunnen worden gecombineerd met behandelmethode uit de traditionele kruidengeneeskunde. Mensen zijn op zoek naar alternatieve behandelmethode. Dogma's loslaten en benaderingen integreren kan hierbij vaak nuttig zijn.
+Binnen de gezondheidszorg is het handig om opties te hebben. Kruidengeneeskunde biedt hierbij keuzemogelijkheden. Problemen kunnen worden aangepakt met conventionele behandelingen of ze kunnen worden gecombineerd met behandelmethode uit de traditionele kruidengeneeskunde. Mensen zijn op zoek naar alternatieve behandelmethode. Dogma's loslaten en benaderingen integreren kan hierbij vaak nuttig zijn.
 
 ### Advies
 Kruidengeneeskunde omvat de veelomvattende disciplines wetenschap als geschiedenis. Hoewel kruidengeneeskunde langer bestaat en wordt gebruikt wil het niet zeggen dat het beter is, echter informeert het verleden het heden. 
