@@ -51,7 +51,8 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 #### Contra-indicaties en waarschuwingen
 
 Het gebruik van de producten van Ivan’s Herbs kan als extreem veilig worden beschouwd.
-De veilig voor kinderen verschilt per product. 
+
+Veilig voor kinderen verschilt per product. 
  
 **Zwangerschap, borstvoeding en vruchtbaarheid**
 
