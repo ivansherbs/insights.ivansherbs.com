@@ -52,7 +52,9 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
  
 #### Contra-indicaties en waarschuwingen
 
-Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen. Tevens veilig voor kinderen.
+Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen. 
+
+Veilig voor kinderen.
  
 **Zwangerschap, borstvoeding en vruchtbaarheid**
 
