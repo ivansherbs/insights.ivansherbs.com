@@ -10,8 +10,8 @@ tags:
 - medicijn
 - kruiden
 - eyeopener
-meta-description: Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, aromatherapie, supplementen, kruidenpoeder
-meta-tags: medicijnen, kruidenthee, aromatherapie, supplementen, kruidenpoeder, bijwerkingen, community building, kruidengeneeskunde, geneeskunde
+meta-description: Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, etherische oliën, supplementen, kruidenpoeder
+meta-tags: medicijnen, kruidenthee, etherische oliën, supplementen, kruidenpoeder, bijwerkingen, community building, kruidengeneeskunde, geneeskunde
 fragments:
   header: nl/ivans/voordelen/vraag-naar-natuurlijke-behandelingen
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-producten-ivans-herbs
@@ -21,7 +21,7 @@ banner:
 ---
 In de moderne samenleving wordt het gebruik van conventionele medicijnen in twijfel getrokken. Dit met name door de vele bijwerkingen die kunnen optreden. De vraag naar natuurlijke behandelingen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dient een natuurlijke behandeling beter te worden geïntroduceerd om ook als preventieve behandeling te kunnen worden gebruikt.
 
-> “De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van veilige, eenvoudig te gebruiken en bewezen effectieve natuurlijke behandelingen die de kans op ziekten verkleinen en problemen behandelen.” Denk aan kruidenthee, aromatherapie, supplementen en kruidenpoeder. 
+> “De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van veilige, eenvoudig te gebruiken en bewezen effectieve natuurlijke behandelingen die de kans op ziekten verkleinen en problemen behandelen.” Denk aan kruidenthee, etherische oliën, supplementen en kruidenpoeder. 
 
 ### Community building
 Een gesprek tussen twee specialisten uit verschillende disciplines vindt plaats. Wat typerend is voor deze vakgebieden is dat bij community building lokale samenwerkingsverbanden, omgangsvormen dan wel denkwijze centraal staat. De vraag naar kennis om het publiek beter te informeren over het gebruik van traditionele kruidengeneeskunde komt vanuit de kant van de hedendaagse geneeskunde. 
