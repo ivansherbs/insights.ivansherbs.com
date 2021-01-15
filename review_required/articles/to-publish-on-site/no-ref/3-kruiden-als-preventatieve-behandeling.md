@@ -11,7 +11,7 @@ tags:
 - kruiden
 - eyeopener
 meta-description: Kruiden krijgen de voorkeur boven medicijnen uit de farmaceutische industrie. Lees ons artikel. Ontdek de inzichten van Ivan's Herbs. Maak kennis met kruiden uit Siberië.
-meta-tags: kruiden, medicijnen, kruidenthee, aromatherapie, supplementen, behandeling, kruidengeneeskunde, farmaceutische industrie, artikel
+meta-tags: kruiden, medicijnen, kruidenthee, etherische oliën, supplementen, behandeling, kruidengeneeskunde, farmaceutische industrie, artikel
 fragments:
   header: nl/ivans/voordelen/voeten
   footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-producten-ivans-herbs
@@ -19,7 +19,7 @@ banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/6e3i4gE4bff395rS4h8GJw/8292e1d2ef8b74ef5deefbcbfe26faf0/14.png?fm=jpg&q=50
   effect:
 ---
-Kruidengeneeskunde in de vorm van kruidenthee, aromatherapie en supplementen kunnen worden gebruikt als preventieve behandeling. Uit onderzoek is gebleken dat het gebruik van kruiden de voorkeur krijgt boven het gebruik van medicijnen uit de farmaceutische industrie. De Wereldgezondheidsorganisatie schat dat 80% van de wereldbevolking gebruik maakt van kruidengeneeskunde bij gebrek aan conventionele medicijnen. 
+Kruidengeneeskunde in de vorm van kruidenthee, etherische oliën en supplementen kunnen worden gebruikt als preventieve behandeling. Uit onderzoek is gebleken dat het gebruik van kruiden de voorkeur krijgt boven het gebruik van medicijnen uit de farmaceutische industrie. De Wereldgezondheidsorganisatie schat dat 80% van de wereldbevolking gebruik maakt van kruidengeneeskunde bij gebrek aan conventionele medicijnen. 
 
 **In de afgelopen 10 jaar** is het gebruik van kruiden met 380% gestegen. Kruiden en medicijnen uit de farmaceutische industrie zijn nauw met elkaar verbonden. Veel conventionele medicijnen vinden hun oorsprong in de kruidengeneeskunde. Kruiden hebben echter niet meer dezelfde potentie als medicijnen uit de farmaceutische industrie.
 
