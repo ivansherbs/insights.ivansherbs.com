@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify_around_main_content.html
 title: "Ivan Chai: Grootmoeders kennen de voordelen"
 url: /nl/ivan-chai-grootmoeders-kennen-de-voordelen
 type: artikel
@@ -26,6 +26,11 @@ fragments:
 banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?fm=jpg&q=50
   effect: o-lg-60d-black
+shopify:
+  # Mandatory: get the collection ID from the Shopify URL when you edit the collection you want to display here
+  collection: 235445256358
+  # Optional: can be one of: cart (default), modal, checkout, onlineStore
+  buttonDestination: cart
 ---
 **Anekdotisch bewijs is krachtig bewijs**
 
