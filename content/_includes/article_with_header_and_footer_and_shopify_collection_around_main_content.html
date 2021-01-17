@@ -1,9 +1,9 @@
 ---
 layout: article_with_header_and_footer.html
 ---
-<div class="shopify-collection" data-collection="{{ shopify.collection }}" data-buttonDestination="{{ shopify.buttonDestination }}"></div>
+{% shopifyCollection shopify %}
 {{ content }}
-<div class="shopify-collection" data-collection="{{ shopify.collection }}" data-buttonDestination="{{ shopify.buttonDestination }}"></div>
+{% shopifyCollection shopify %}
 
 <!-- Shopify products -->
 <script>

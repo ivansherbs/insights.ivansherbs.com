@@ -44,6 +44,8 @@ Gelukkig voor ons geldt dit voor oma's overal ter wereld. Het fijne is dat je er
 
 Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in Siberië vanwege 7 voordelen. Goed voor lichaam en geest. 
 
+{% shopifyCollection 223561908390 'modal' %}
+
 ### Benieuwd naar de 7 voordelen?
 
 Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Chai. Ze weten het allemaal. Zo vroeg ze mij gelijk. Wat wil je weten? De werking op de urinewegen? spijsvertering? angst? Oma doet er zo een boekje over open. Zelfs de prostaat van opa heeft er baat bij. Dit hebben we uitvoerig besproken.
