@@ -3,8 +3,6 @@
 function generate_redirects {
   echo '# Content custom URLs' > _site/_redirects
 
-  grep -rI 'url:' content | sed 's/^/# /'>> _site/_redirects
-
   grep --recursive --line-number --include '*.md' --binary-file=without-match --regexp '^url:' content | while read -r redirect_config
   do
     redirect_to=$(echo "${redirect_config}" | cut -d ':' -f 1 | sed 's/^content//' | sed 's/\.md$//')

@@ -11,6 +11,4 @@ then
 fi
 
 # serve the content
-npx eleventy --serve --watch --dryrun --quiet
-
-
+npx eleventy --serve --watch --quiet
