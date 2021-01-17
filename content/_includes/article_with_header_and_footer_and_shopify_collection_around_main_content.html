@@ -4,3 +4,29 @@ layout: article_with_header_and_footer.html
 <div class="shopify-collection" data-collection="{{ shopify.collection }}" data-buttonDestination="{{ shopify.buttonDestination }}"></div>
 {{ content }}
 <div class="shopify-collection" data-collection="{{ shopify.collection }}" data-buttonDestination="{{ shopify.buttonDestination }}"></div>
+
+<!-- Shopify products -->
+<script>
+    var client = ShopifyBuy.buildClient({
+        domain: 'ivansherbs.myshopify.com',
+        storefrontAccessToken: '1cb388a2e9f947c0c6d44c4a6d641feb'
+    });
+    var ui = ShopifyBuy.UI.init(client);
+    var shopifyContainers = document.getElementsByClassName('shopify-collection');
+    for (var container of shopifyContainers) {
+        var collectionId = container.dataset.collection;
+        if (!collectionId) {
+            continue;
+        }
+        var buttonDestination = container.dataset.buttondestination || 'cart';
+        ui.createComponent('collection', {
+            id: collectionId,
+            node: container,
+            options: {
+                product: {
+                    buttonDestination: buttonDestination
+                }
+            }
+        });
+    }
+</script>

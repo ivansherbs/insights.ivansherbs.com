@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify_around_main_content.html
+layout: article_with_header_and_footer_and_shopify_collection_around_main_content.html
 title: "Ivan Chai: Grootmoeders kennen de voordelen"
 url: /nl/ivan-chai-grootmoeders-kennen-de-voordelen
 type: artikel
