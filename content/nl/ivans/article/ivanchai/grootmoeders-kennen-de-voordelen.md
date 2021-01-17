@@ -112,18 +112,22 @@ Tot slot. De oma's uit de Altaj hadden zelfs geleerd dat darmparasieten geëlimi
 
 We mogen onszelf gelukkig prijzen met de vele natuurlijke gezondheids wijsheden van oma's!
 
-Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. Jij ook? 
+Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. 
+
+Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
+
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/3q8sNvW9E7qAVKIQG9hEIe/8292e1d2ef8b74ef5deefbcbfe26faf0/10.png?fm=jpg&q=50-->
 
 ### Verwerking
 
-Ivan Chai wordt verwerkt in Siberische ecodorpen. Ver weg van de bewoonde wereld. Dit gebeurt door kruidenthee experts die zo dicht mogelijk bij de natuur willen wonen. Alles wordt er biologisch verbouwd. Dit gebeurt als volgt. 
+Ivan Chai wordt verwerkt in Siberische ecodorpen. Ver weg van de bewoonde wereld. Dit gebeurt door kruidenthee experts die zo dicht mogelijk bij de natuur willen wonen. Alles wordt er biologisch verbouwd of groeit in de wildernis. Het productieproces ziet er ongeveer als volgt uit.
 
 De bladeren waar Ivan Chai van wordt gemaakt groeien in de wildernis. En worden met de hand geplukt. Met de hand? Ja. Gewoon met de hand. Dit komt omdat de ecodorp bewoners het proces zo puur mogelijk willen houden. 
 
 Het oogsten gebeurt daarom alleen wanneer de kruiden helemaal zijn volgroeid. Gelukkig gebeurt dit net als vroeger allemaal zonder chemicaliën.
 
-Wanneer de bladeren van de kruiden zijn geoogst gaat er een natuurlijk fermentatieproces overheen. De meest ervaren kruidenthee expert overziet het proces. En zorgt ervoor dat de bladeren worden gedroogd. Dit duurt ongeveer drie dagen. 
+Wanneer de bladeren van de kruiden zijn geoogst gaat er een natuurlijk fermentatieproces overheen. De meest ervaren kruidenthee expert overziet het proces. En zorgt ervoor dat de bladeren op natuurlijke wijze worden gedroogd. Dit duurt ongeveer drie dagen. 
 
 En weet je wat? 
 
-De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Vandaar dat Ivan Chai ook afkomstig is uit de traditionele Russische kruidengeneeskunde. 
+De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
