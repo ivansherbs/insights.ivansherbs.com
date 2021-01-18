@@ -47,9 +47,11 @@ Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in S
 
 ### Benieuwd naar de 7 voordelen?
 
-Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Chai. Ze weten het allemaal. Zo vroeg ze mij gelijk. Wat wil je weten? De werking op de urinewegen? spijsvertering? angst? Oma doet er zo een boekje over open. Zelfs de prostaat van opa heeft er baat bij. Dit hebben we uitvoerig besproken.
+Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Chai. Ze weten het allemaal. Zo vroeg ze mij gelijk. Wat wil je weten? De werking op de urinewegen? Spijsvertering? Angst? Oma doet er zo een boekje over open. Zelfs de prostaat van opa heeft er baat bij. Dit hebben we uitvoerig besproken.
 
 In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed onderzocht. Te beginnen bij het eerste voordeel.  
+
+{% shopifyCollection 235510562982 'modal' %}
 
 ### 1. Versterkt de weerstand
 
@@ -133,6 +135,3 @@ En weet je wat?
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
 
-{% shopifyCollection 235510562982 'modal' %}
-{% shopifybuttonDestination 'cart' %}
-{% shopifybuttonText 'In winkelwagen' %}
