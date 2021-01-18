@@ -28,7 +28,7 @@ banner:
   effect: o-lg-60d-black
 shopify:
   # Mandatory: get the collection ID from the Shopify URL when you edit the collection you want to display here
-  collection:
+  collection: 235510562982
   # Optional: can be one of: cart (default), modal, checkout, onlineStore
   buttonDestination: cart
   buttonText: In winkelwagen
