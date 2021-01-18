@@ -28,7 +28,7 @@ banner:
   effect: o-lg-60d-black
 shopify:
   # Mandatory: get the collection ID from the Shopify URL when you edit the collection you want to display here
-  collection: 235445256358
+  collection:
   # Optional: can be one of: cart (default), modal, checkout, onlineStore
   buttonDestination: cart
   buttonText: In winkelwagen
@@ -44,8 +44,6 @@ Het zijn dé betrouwbare bronnen over voeding en welzijn. Een pluspunt is dat ze
 Gelukkig voor ons geldt dit voor oma's overal ter wereld. Het fijne is dat je er ook nog eens veel van kunt leren. Zo zijn oma's uit de voormalige Sovjet-Unie op de hoogte van de voordelen van Ivan Chai.
 
 Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in Siberië vanwege 7 voordelen. Goed voor lichaam en geest. 
-
-{% shopifyCollection 235510562982 'modal' %}
 
 ### Benieuwd naar de 7 voordelen?
 
@@ -134,3 +132,5 @@ Wanneer de bladeren van de kruiden zijn geoogst gaat er een natuurlijk fermentat
 En weet je wat? 
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
+
+{% shopifyCollection 235510562982 'modal' %}
