@@ -51,7 +51,7 @@ Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Ch
 
 In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed onderzocht. Te beginnen bij het eerste voordeel.  
 
-{% shopifyCollection 235510562982 'modal' %}
+{% shopifyCollection 235548934310 'modal' %}
 
 ### 1. Versterkt de weerstand
 
