@@ -19,14 +19,23 @@ layout: article_with_header_and_footer.html
             continue;
         }
         var buttonDestination = container.dataset.buttondestination || 'cart';
+        var buttonText = container.dataset.buttontext;
+
+        var options = {
+            product: {
+                buttonDestination: buttonDestination
+            }
+        };
+
+        if (buttonText) {
+            options.product.text = options.product.text || {};
+            options.product.text.button = buttonText;
+        }
+
         ui.createComponent('collection', {
             id: collectionId,
             node: container,
-            options: {
-                product: {
-                    buttonDestination: buttonDestination
-                }
-            }
+            options: options
         });
     }
 </script>

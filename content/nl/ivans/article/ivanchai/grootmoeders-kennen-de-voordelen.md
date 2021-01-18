@@ -31,6 +31,7 @@ shopify:
   collection: 235445256358
   # Optional: can be one of: cart (default), modal, checkout, onlineStore
   buttonDestination: cart
+  buttonText: In winkelwagen
 ---
 **Anekdotisch bewijs is krachtig bewijs**
 
@@ -44,7 +45,7 @@ Gelukkig voor ons geldt dit voor oma's overal ter wereld. Het fijne is dat je er
 
 Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in Siberië vanwege 7 voordelen. Goed voor lichaam en geest. 
 
-{% shopifyCollection 223561908390 'modal' %}
+{% shopifyCollection 235510562982 'modal' %}
 
 ### Benieuwd naar de 7 voordelen?
 

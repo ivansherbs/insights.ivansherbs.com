@@ -1,6 +1,8 @@
 let fs = require('fs');
 let process = require('process');
 
+const ENUM_SHOPIFY_BUTTON_DESTINATIONS = ['cart', 'modal', 'checkout', 'onlineStore'];
+
 module.exports = function(eleventyConfig) {
     eleventyConfig.addLiquidTag('resourceDomain', function() {
         return {
@@ -17,18 +19,22 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addShortcode('shopifyCollection', function() {
 
+        // abort if no arguments
         if (!arguments[0]) {
             return '';
         }
 
+        // initializations
         var collectionId,
-            buttonDestination = 'cart';
+            buttonText,
+            buttonDestination = ENUM_SHOPIFY_BUTTON_DESTINATIONS[0];
 
         // default usage with page front-matter configuration
         if (typeof arguments[0] === 'object') {
             var shopifyOptions = arguments[0];
             collectionId = shopifyOptions.collection;
             buttonDestination = shopifyOptions.buttonDestination;
+            buttonText = shopifyOptions.buttonText;
         }
         // custom usage with inline configuration
         else {
@@ -36,10 +42,19 @@ module.exports = function(eleventyConfig) {
             buttonDestination = arguments[1];
         }
 
+        // validations
         if (!collectionId) {
             return '';
         }
+        if (ENUM_SHOPIFY_BUTTON_DESTINATIONS.indexOf(buttonDestination) == -1) {
+            buttonDestination = ENUM_SHOPIFY_BUTTON_DESTINATIONS[0];
+        }
 
-        return `<div class="shopify-collection" data-collection="${ collectionId }" data-buttonDestination="${ buttonDestination }"></div>`;
+        var buttonTextAttribute = '';
+        if (buttonText) {
+            buttonTextAttribute = `data-buttonText="${ buttonText }"`;
+        }
+
+        return `<div class="shopify-collection" data-collection="${ collectionId }" data-buttonDestination="${ buttonDestination }" ${ buttonTextAttribute }></div>`;
     });
 };
