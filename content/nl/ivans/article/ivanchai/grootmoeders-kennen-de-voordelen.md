@@ -117,9 +117,9 @@ We mogen onszelf gelukkig prijzen met de vele natuurlijke gezondheids wijsheden 
 
 Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. 
 
-Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
+{% shopifyCollection 235550015654 'modal' %}
 
-<!--https://images.ctfassets.net/lyvtxhzy9zgr/3q8sNvW9E7qAVKIQG9hEIe/8292e1d2ef8b74ef5deefbcbfe26faf0/10.png?fm=jpg&q=50-->
+Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
 
 ### Verwerking
 
@@ -135,4 +135,4 @@ En weet je wat?
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
 
-{% shopifyCollection 235543658662 'modal' %}
+{% shopifyCollection 235510562982 'modal' %}
