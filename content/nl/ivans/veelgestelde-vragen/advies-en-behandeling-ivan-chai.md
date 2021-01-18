@@ -71,5 +71,3 @@ Ivan Chai heeft een geneeskrachtige werking.
 Het European Medicines Agency te Amsterdam heeft de werking van Ivan Chai op de prostaat en urinewegen nogmaals geëvalueerd en bevestigd. Dit met name omdat er langdurig grootschalig klinisch onderzoek aan te pas is gekomen. 
 
 De overige voordelen worden ondersteund ook ondersteund. Echter door hedendaags onderzoek.
-
-{% shopifyCollection 235543658662 'modal' %}
