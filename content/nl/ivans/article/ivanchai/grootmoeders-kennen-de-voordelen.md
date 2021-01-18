@@ -6,7 +6,7 @@ type: artikel
 category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
-  date: 06.01.2021
+  date: 17.01.2021
 tags:
 - weerstand
 - ontsteking
