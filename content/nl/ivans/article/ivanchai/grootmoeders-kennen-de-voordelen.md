@@ -51,7 +51,7 @@ Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Ch
 
 In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed onderzocht. Te beginnen bij het eerste voordeel.  
 
-{% shopifyCollection 235548934310 'modal' %}
+{% shopifyCollection 235548934310 'modal' buttonDestination 'cart' buttonText 'In winkelwagen' %}
 
 ### 1. Versterkt de weerstand
 
@@ -117,7 +117,7 @@ We mogen onszelf gelukkig prijzen met de vele natuurlijke gezondheids wijsheden 
 
 Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. 
 
-{% shopifyCollection 235550015654 'modal' %}
+{% shopifyCollection 235550015654 'modal' buttonDestination 'cart' buttonText 'In winkelwagen' %}
 
 Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
 
@@ -137,4 +137,4 @@ En weet je wat?
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
 
-{% shopifyCollection 235510562982 'modal' %}
+{% shopifyCollection 235510562982 'modal' buttonDestination 'cart' buttonText 'In winkelwagen' %}
