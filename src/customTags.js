@@ -17,6 +17,10 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addShortcode('shopifyCollection', function() {
 
+        if (!arguments[0]) {
+            return '';
+        }
+
         var collectionId,
             buttonDestination = 'cart';
 
