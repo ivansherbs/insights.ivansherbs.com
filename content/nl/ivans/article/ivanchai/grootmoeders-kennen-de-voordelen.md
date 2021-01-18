@@ -121,6 +121,8 @@ Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s 
 
 Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
 
+<!--https://images.ctfassets.net/lyvtxhzy9zgr/3q8sNvW9E7qAVKIQG9hEIe/8292e1d2ef8b74ef5deefbcbfe26faf0/10.png?fm=jpg&q=50-->
+
 ### Verwerking
 
 Ivan Chai wordt verwerkt in Siberische ecodorpen. Ver weg van de bewoonde wereld. Dit gebeurt door kruidenthee experts die zo dicht mogelijk bij de natuur willen wonen. Alles wordt er biologisch verbouwd of groeit in de wildernis. Het productieproces ziet er ongeveer als volgt uit.
