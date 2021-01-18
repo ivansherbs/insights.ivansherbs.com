@@ -133,6 +133,4 @@ En weet je wat?
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
 
-{% shopifyCollection 235510562982 'modal' %}
-{% shopifybuttonDestination 'cart' %}
-{% shopifybuttonText 'In winkelwagen' %}
+{% shopifyCollection 235510562982 'modal' %}{% shopifybuttonDestination 'cart' %}{% shopifybuttonText 'In winkelwagen' %}
