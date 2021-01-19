@@ -47,9 +47,9 @@ banner:
 
 ## Waarom Ivan Chai?
 
-Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
+Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer of gewoon ter ontspanning.
 
-Waar wij u op willen wijzen is het gebruik van Ivan Chai om de kans op ziekten te verkleinen en problemen te behandelen.
+Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
 
 Als gevolg van problemen komt iedereen gedurende zijn of haar leven in aanraking met medicijnen. Medicijnen uit de farmaceutische industrie hebben veel ongewenste bijwerkingen.
 
@@ -58,7 +58,7 @@ Denk bijvoorbeeld aan
 * maagzuurremmers
 * anticonceptiepil
 
-Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer of gewoon ter ontspanning.
+Drink Ivan Chai om de kans op ziekten te verkleinen en problemen te behandelen.
 
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/gJlMzDkpnHCVrqBwnpQLa/8292e1d2ef8b74ef5deefbcbfe26faf0/3.png?fm=jpg&q=50-->
 > <p style="text-align: right">De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.</p>
