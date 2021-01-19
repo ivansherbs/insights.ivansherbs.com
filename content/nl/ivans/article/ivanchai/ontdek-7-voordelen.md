@@ -100,8 +100,6 @@ Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zult u geneigd
 
 ## 3. Versterkt de antioxiderede werking
 
-Antioxidanten hebben een positieve werking op uw hart- en vaatstelsel.
-
 Voor alles wat u doet zijn voedingsstoffen van essentieel belang. Alle onderdelen uit het lichaam hebben ieder apart ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. Uw lichaam kan meerdere dagen op rij zonder voeding. Echter één dag zonder water.
 
 Hoe u het ook went of keert, uw lichaam heeft 24/7 zuurstof nodig. De zuurstof die u inademt moet als een voedingsstof worden opgenomen in het lichaam. Dat gebeurt door middel van bloed. Om ervoor te zorgen dat zuurstofarm bloed wordt ververst en direct weer in het lichaam wordt gecirculeerd, heeft het hart deze nobele taak op zich genomen.
@@ -110,9 +108,9 @@ Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurs
 
 ## Waarom Ivan Chai?
 
-* Ivan Chai zit boordevol Polyfenolen. 
+* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. 
 
-Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten.
+Antioxidanten hebben een positieve werking op uw hart- en vaatstelsel.
 
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/1YeCYk9IuosjGU7cFtuQW3/8292e1d2ef8b74ef5deefbcbfe26faf0/6.png?fm=jpg&q=50-->
 > <p style="text-align: right">De bladeren van de kruiden worden met de hand gerold, waarna er een natuurlijk fermentatieproces overheen gaat.</p>
@@ -121,7 +119,7 @@ Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten.
 
 Slaapproblemen hebben meer impact op uw leven dan op het eerste gezicht lijkt. U functioneert overdag minder goed. U bent minder scherp, heeft minder energie en voelt zich lusteloos.
 
-Wat veel mensen niet weten is dat insomnia, ofwel slapeloosheid, een groeiend en zorgwekkend probleem is gedurende de dagelijkse arbeid. Een goede nachtrust helpt uw lichaam en geest te herstellen. Het zorgt ervoor dat u overdag productiever bent. Het drinken van Ivan Chai kan echter helpen bij dit probleem.
+Wat veel mensen niet weten is dat insomnia, ofwel slapeloosheid, een groeiend en zorgwekkend probleem is gedurende de dagelijkse arbeid. Een goede nachtrust helpt uw lichaam en geest te herstellen. Het zorgt ervoor dat u overdag productiever bent.
 
 ## Waarom Ivan Chai?
 
@@ -147,7 +145,7 @@ Iedereen ervaart een lichte vorm van angst. En een beetje stress is oké. Beiden
 
 ## Waarom Ivan Chai?
 
-* Ivan Chai heeft een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op uw centrale zenuwstelsel.
+* Ivan Chai bevat een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat deze kalmerende werking effect heeft op uw centrale zenuwstelsel.
 
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/1xIwi3rPGISyU1T4m1Tvit/8292e1d2ef8b74ef5deefbcbfe26faf0/8.png?fm=jpg&q=50-->
 > <p style="text-align: right">"Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer (+30°C) kan worden geoogst. In de winter (-40°C) ligt hier namelijk een dik pak sneeuw." aldus Michael Koch - Oprichter Ivan's Herbs</p>
