@@ -91,9 +91,11 @@ Zoals u merkt heeft u een verhoogt risico op ontstekingen gedurende de normale g
 
 ## Waarom Ivan Chai?
 
-* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen.
+* Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Ook te drinken als preventieve behandeling wanneer u bijvoorbeeld last heeft van gevoelige gewrichten.
 
-Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zult u geneigd zijn snel over te stappen op medicijnen. Verminder de kans op de ongewenste bijwerkingen door het drinken van Ivan Chai.
+Mooi bijkomend voordeel.
+
+Vaak bent u geneigd over te stappen op medicijnen uit de farmaceutische industrie om de pijn te verhelpen gepaard met een ontsteking. Verminder de kans op de ongewenste bijwerkingen door het drinken van Ivan Chai.
 
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/28IMJN1AoFeQRD0I7uG1Yw/8292e1d2ef8b74ef5deefbcbfe26faf0/5.png?fm=jpg&q=50-->
 > <p style="text-align: right">Na de oogst is binnengehaald worden de bladeren gespreid. Direct worden de kwaliteitscontroles uitgevoerd</p>
