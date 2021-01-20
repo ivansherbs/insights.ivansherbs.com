@@ -28,9 +28,9 @@ https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=shari
 
 ### Introduceren kruiden uit Siberië
 
-Wij geloven in het aanbieden van eenvoudige, veilige en biologische alledaagse producten.
+Wij geloven in het aanbieden van producten afkomstig uit de traditionele kruidengeneeskunde.
 
-Onze toevoerlijn van kruiden zijn een aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. 
+Onze toevoerlijn van kruiden zijn een alternatief of aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie
 
 De farmaceutische industrie wordt getypeerd door een opeenvolging van mislukkingen al zoekende naar een wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering.
 
@@ -82,17 +82,14 @@ Om daad bij woord te voegen zijn we overgegaan op verpakkingsmaterialen die eeuw
 
 Of op een natuurlijke wijze volledig afbreken.
 
-Kortom.
+**Kortom,**
+door het steunen van deze gemeenschappen dragen we bij aan onze samenleving door hun waarden waarin gezondheid en natuur centraal staan in acht te nemen. 
 
-Door het steunen van deze gemeenschappen dragen we bij aan onze samenleving door hun waarden waarin gezondheid en natuur centraal staan in acht te nemen.
-
-Zowel voor ons eigen bedrijf als voor onze klanten. 
-
-Industrieën verstoren continu de norm. 
+Zowel voor ons eigen bedrijf als voor onze klanten. Industrieën verstoren continu de norm. 
 
 Onze klanten kunnen op ons vertrouwen hen te informeren over veilige, eenvoudig te gebruiken en effectief bewezen alledaagse producten; goed voor lichaam en geest.
 
-**Nog even ter informatie...**
+**Nog even ter informatie.**
 
 Vergeet niet dat onze producten kunnen worden gebruikt als alternatief of aanvulling op medicijnen uit de farmaceutische industrie. 
 
