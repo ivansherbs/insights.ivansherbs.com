@@ -43,9 +43,9 @@ https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=shari
 
 ### Informeren
 
-Wij hebben als doel het verbeteren van jou kennis over fysieke danwel lichamelijke problemen.
+Wij hebben als doel het verbeteren van jou kennis over fysieke danwel lichamelijke problemen. Dit streven wij door het schrijven van artikelen over lichaam en geest. 
 
-Dit doen wij in de vorm van IVAN’s. IVAN’s is een online MAGAZINE om alledaagse problemen bespreekbaar te maken. 
+De adviezen die wij geven over onze producten zijn gebasseerd op hedendaagse onderzoeken, waarvan de meerderheid effectief bewezen door klinische onderzoeken. 
 
 Ontdek de inzichten en laat je informeren.
 
