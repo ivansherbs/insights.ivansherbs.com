@@ -90,11 +90,11 @@ Zowel voor ons eigen bedrijf als voor onze klanten.
 
 Industrieën verstoren continu de norm. 
 
-Onze klanten kunnen op ons vertrouwen hen te informeren over eenvoudige en biologische alledaagse producten.
+Onze klanten kunnen op ons vertrouwen hen te informeren over veilige, eenvoudig te gebruiken en effectief bewezen alledaagse producten; goed voor lichaam en geest.
 
 **Nog even ter informatie...**
 
-Vergeet niet dat onze producten kunnen worden gebruikt als alternatief of aanvulling op farmaceutische medicijnen. 
+Vergeet niet dat onze producten kunnen worden gebruikt als alternatief of aanvulling op medicijnen uit de farmaceutische industrie. 
 
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. 
 
