@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify_collection_around_main_content.html
+layout: article_with_header_and_footer_and_shopify_collections.html
 title: "Ivan Chai: Grootmoeders kennen de voordelen"
 url: /nl/ivan-chai-grootmoeders-kennen-de-voordelen
 type: artikel
@@ -26,12 +26,6 @@ fragments:
 banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?fm=jpg&q=50
   effect: o-lg-60d-black
-shopify:
-  # Mandatory: get the collection ID from the Shopify URL when you edit the collection you want to display here
-  collection: 235445256358
-  # Optional: can be one of: cart (default), modal, checkout, onlineStore
-  buttonDestination: cart
-  buttonText: In winkelwagen
 ---
 **Anekdotisch bewijs is krachtig bewijs**
 
@@ -45,7 +39,7 @@ Gelukkig voor ons geldt dit voor oma's overal ter wereld. Het fijne is dat je er
 
 Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in Siberië vanwege 7 voordelen. Goed voor lichaam en geest. 
 
-{% shopifyCollection 235510562982 'modal' %}
+{% shopifyCollection 235510562982 'buttonDestination' 'modal' 'buttonText' 'In winkelwagen' %}
 
 ### Benieuwd naar de 7 voordelen?
 

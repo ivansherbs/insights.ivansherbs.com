@@ -4,38 +4,3 @@ layout: article_with_header_and_footer.html
 {% shopifyCollection shopify %}
 {{ content }}
 {% shopifyCollection shopify %}
-
-<!-- Shopify products -->
-<script>
-    var client = ShopifyBuy.buildClient({
-        domain: 'ivansherbs.myshopify.com',
-        storefrontAccessToken: '1cb388a2e9f947c0c6d44c4a6d641feb'
-    });
-    var ui = ShopifyBuy.UI.init(client);
-    var shopifyContainers = document.getElementsByClassName('shopify-collection');
-    for (var container of shopifyContainers) {
-        var collectionId = container.dataset.collection;
-        if (!collectionId) {
-            continue;
-        }
-        var buttonDestination = container.dataset.buttondestination || 'cart';
-        var buttonText = container.dataset.buttontext;
-
-        var options = {
-            product: {
-                buttonDestination: buttonDestination
-            }
-        };
-
-        if (buttonText) {
-            options.product.text = options.product.text || {};
-            options.product.text.button = buttonText;
-        }
-
-        ui.createComponent('collection', {
-            id: collectionId,
-            node: container,
-            options: options
-        });
-    }
-</script>

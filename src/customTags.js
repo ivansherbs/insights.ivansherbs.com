@@ -25,36 +25,41 @@ module.exports = function(eleventyConfig) {
         }
 
         // initializations
-        var collectionId,
-            buttonText,
-            buttonDestination = ENUM_SHOPIFY_BUTTON_DESTINATIONS[0];
+        var shopifyOptions = {
+            buttonDestination: ENUM_SHOPIFY_BUTTON_DESTINATIONS[0]
+        };
 
         // default usage with page front-matter configuration
         if (typeof arguments[0] === 'object') {
-            var shopifyOptions = arguments[0];
-            collectionId = shopifyOptions.collection;
-            buttonDestination = shopifyOptions.buttonDestination;
-            buttonText = shopifyOptions.buttonText;
+            shopifyOptions.collection = arguments[0].collection;
+            shopifyOptions.buttonDestination = arguments[0].buttonDestination;
+            shopifyOptions.buttonText = arguments[0].buttonText;
         }
         // custom usage with inline configuration
         else {
-            collectionId = arguments[0];
-            buttonDestination = arguments[1];
+            console.dir(arguments);
+            shopifyOptions.collection = arguments[0];
+            for (var i = 1; i < arguments.length; ++i) {
+                shopifyOptions[arguments[i]] = arguments[++i];
+            }
         }
 
         // validations
-        if (!collectionId) {
+        if (!shopifyOptions.collection) {
             return '';
         }
-        if (ENUM_SHOPIFY_BUTTON_DESTINATIONS.indexOf(buttonDestination) == -1) {
-            buttonDestination = ENUM_SHOPIFY_BUTTON_DESTINATIONS[0];
+        if (ENUM_SHOPIFY_BUTTON_DESTINATIONS.indexOf(shopifyOptions.buttonDestination) == -1) {
+            shopifyOptions.buttonDestination = ENUM_SHOPIFY_BUTTON_DESTINATIONS[0];
         }
 
-        var buttonTextAttribute = '';
-        if (buttonText) {
-            buttonTextAttribute = `data-buttonText="${ buttonText }"`;
+        // build the data attributes
+        var dataAttributes = '';
+        for (var key in shopifyOptions) {
+            if (shopifyOptions[key]) {
+                dataAttributes += ` data-${ key }="${ shopifyOptions[key] }"`;
+            }
         }
 
-        return `<div class="shopify-collection" data-collection="${ collectionId }" data-buttonDestination="${ buttonDestination }" ${ buttonTextAttribute }></div>`;
+        return `<div class="shopify-collection" ${ dataAttributes }></div>`;
     });
 };
