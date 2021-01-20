@@ -28,9 +28,9 @@ https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=shari
 
 ### Introduceren kruiden uit Siberië
 
-Wij geloven in het aanbieden van eenvoudige, veilige en biologische alledaagse producten.
+Wij geloven in het aanbieden van producten afkomstig uit de traditionele kruidengeneeskunde.
 
-Onze toevoerlijn van kruiden zijn een aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie. 
+Onze toevoerlijn van kruiden zijn een alternatief of aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie
 
 De farmaceutische industrie wordt getypeerd door een opeenvolging van mislukkingen al zoekende naar een wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering.
 
@@ -43,9 +43,9 @@ https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=shari
 
 ### Informeren
 
-Wij hebben als doel het verbeteren van jou kennis over fysieke danwel lichamelijke problemen.
+Wij hebben als doel het verbeteren van jou kennis over fysieke danwel lichamelijke problemen. Dit streven wij door het schrijven van artikelen over lichaam en geest. 
 
-Dit doen wij in de vorm van IVAN’s. IVAN’s is een online MAGAZINE om alledaagse problemen bespreekbaar te maken. 
+De adviezen die wij geven over onze producten zijn gebasseerd op hedendaagse onderzoeken, waarvan de meerderheid effectief bewezen door klinische onderzoeken. 
 
 Ontdek de inzichten en laat je informeren.
 
@@ -82,19 +82,16 @@ Om daad bij woord te voegen zijn we overgegaan op verpakkingsmaterialen die eeuw
 
 Of op een natuurlijke wijze volledig afbreken.
 
-Kortom.
+**Kortom,**
+door het steunen van deze gemeenschappen dragen we bij aan onze samenleving door hun waarden waarin gezondheid en natuur centraal staan in acht te nemen. 
 
-Door het steunen van deze gemeenschappen dragen we bij aan onze samenleving door hun waarden waarin gezondheid en natuur centraal staan in acht te nemen.
+Zowel voor ons eigen bedrijf als voor onze klanten. Industrieën verstoren continu de norm. 
 
-Zowel voor ons eigen bedrijf als voor onze klanten. 
+Onze klanten kunnen op ons vertrouwen hen te informeren over veilige, eenvoudig te gebruiken en effectief bewezen alledaagse producten; goed voor lichaam en geest.
 
-Industrieën verstoren continu de norm. 
+**Nog even ter informatie.**
 
-Onze klanten kunnen op ons vertrouwen hen te informeren over eenvoudige en biologische alledaagse producten.
-
-**Nog even ter informatie...**
-
-Vergeet niet dat onze producten kunnen worden gebruikt als alternatief of aanvulling op farmaceutische medicijnen. 
+Vergeet niet dat onze producten kunnen worden gebruikt als alternatief of aanvulling op medicijnen uit de farmaceutische industrie. 
 
 Ons advies aan de farmaceutische industrie is om te blijven ontdekken. 
 

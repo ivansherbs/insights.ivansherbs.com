@@ -6,7 +6,7 @@ type: artikel
 category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
-  date: 06.01.2021
+  date: 17.01.2021
 tags:
 - weerstand
 - ontsteking
@@ -39,13 +39,13 @@ Gelukkig voor ons geldt dit voor oma's overal ter wereld. Het fijne is dat je er
 
 Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in Siberië vanwege 7 voordelen. Goed voor lichaam en geest. 
 
-{% shopifyCollection 235510562982 'buttonDestination' 'modal' 'buttonText' 'In winkelwagen' %}
-
 ### Benieuwd naar de 7 voordelen?
 
-Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Chai. Ze weten het allemaal. Zo vroeg ze mij gelijk. Wat wil je weten? De werking op de urinewegen? spijsvertering? angst? Oma doet er zo een boekje over open. Zelfs de prostaat van opa heeft er baat bij. Dit hebben we uitvoerig besproken.
+Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Chai. Ze weten het allemaal. Zo vroeg ze mij gelijk. Wat wil je weten? De werking op de urinewegen? Spijsvertering? Angst? Oma doet er zo een boekje over open. Zelfs de prostaat van opa heeft er baat bij. Dit hebben we uitvoerig besproken.
 
 In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed onderzocht. Te beginnen bij het eerste voordeel.  
+
+{% shopifyCollection 235548934310 'buttonDestination' 'modal' 'buttonText' 'In winkelwagen' %}
 
 ### 1. Versterkt de weerstand
 
@@ -111,6 +111,8 @@ We mogen onszelf gelukkig prijzen met de vele natuurlijke gezondheids wijsheden 
 
 Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. 
 
+{% shopifyCollection 235550015654 'buttonDestination' 'cart' 'buttonText' 'In winkelwagen' %}
+
 Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
 
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/3q8sNvW9E7qAVKIQG9hEIe/8292e1d2ef8b74ef5deefbcbfe26faf0/10.png?fm=jpg&q=50-->
@@ -128,3 +130,5 @@ Wanneer de bladeren van de kruiden zijn geoogst gaat er een natuurlijk fermentat
 En weet je wat? 
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
+
+{% shopifyCollection 235510562982 'buttonDestination' 'cart' 'buttonText' 'In winkelwagen' %}
