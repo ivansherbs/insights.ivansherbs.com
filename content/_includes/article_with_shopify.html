@@ -1,0 +1,71 @@
+---
+layout: article.html
+---
+{{ content }}
+
+<!-- Shopify -->
+<script>
+    var client = ShopifyBuy.buildClient({
+        domain: 'ivansherbs.myshopify.com',
+        storefrontAccessToken: '1cb388a2e9f947c0c6d44c4a6d641feb'
+    });
+    var ui = ShopifyBuy.UI.init(client);
+
+    // collections
+    var collectionContainers = document.getElementsByClassName('shopify-collection');
+    for (var container of collectionContainers) {
+        var collectionId = container.dataset.collection;
+        if (!collectionId) {
+            continue;
+        }
+
+        var buttonDestination = container.dataset.buttondestination || 'cart';
+        var buttonText = container.dataset.buttontext;
+
+        var options = {
+            product: {
+                buttonDestination: buttonDestination
+            }
+        };
+
+        if (buttonText) {
+            options.product.text = options.product.text || {};
+            options.product.text.button = buttonText;
+        }
+
+        ui.createComponent('collection', {
+            id: collectionId,
+            node: container,
+            options: options
+        });
+    }
+
+    // products
+    var productContainers = document.getElementsByClassName('shopify-product');
+    for (var container of productContainers) {
+        var productId = container.dataset.product;
+        if (!productId) {
+            continue;
+        }
+
+        var buttonDestination = container.dataset.buttondestination || 'cart';
+        var buttonText = container.dataset.buttontext;
+
+        var options = {
+            product: {
+                buttonDestination: buttonDestination
+            }
+        };
+
+        if (buttonText) {
+            options.product.text = options.product.text || {};
+            options.product.text.button = buttonText;
+        }
+
+        ui.createComponent('product', {
+            id: productId,
+            node: container,
+            options: options
+        });
+    }
+</script>

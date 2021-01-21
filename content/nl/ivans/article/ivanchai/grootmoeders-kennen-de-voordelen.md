@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify_collections.html
+layout: article_with_header_and_footer_and_shopify.html
 title: "Ivan Chai: Grootmoeders kennen de voordelen"
 url: /nl/ivan-chai-grootmoeders-kennen-de-voordelen
 type: artikel
@@ -27,6 +27,8 @@ banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?fm=jpg&q=50
   effect: o-lg-60d-black
 ---
+{% shopifyProduct 5781072871590 'buttonText' 'In winkelwagen' %}
+
 **Anekdotisch bewijs is krachtig bewijs**
 
 Een oplettende grootmoeder zal in haar verleden veel verhalen hebben gehoord. Net als alle grootmoeders die ik heb ontmoet! Of zoals de kinderen haar noemen, oma.

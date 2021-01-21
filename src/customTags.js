@@ -37,7 +37,6 @@ module.exports = function(eleventyConfig) {
         }
         // custom usage with inline configuration
         else {
-            console.dir(arguments);
             shopifyOptions.collection = arguments[0];
             for (var i = 1; i < arguments.length; ++i) {
                 shopifyOptions[arguments[i]] = arguments[++i];
@@ -61,5 +60,51 @@ module.exports = function(eleventyConfig) {
         }
 
         return `<div class="shopify-collection" ${ dataAttributes }></div>`;
+    });
+
+    eleventyConfig.addShortcode('shopifyProduct', function() {
+
+        // abort if no arguments
+        if (!arguments[0]) {
+            return '';
+        }
+
+        // initializations
+        var shopifyOptions = {
+            buttonDestination: ENUM_SHOPIFY_BUTTON_DESTINATIONS[0]
+        };
+
+        // default usage with page front-matter configuration
+        if (typeof arguments[0] === 'object') {
+            shopifyOptions.product = arguments[0].product;
+            shopifyOptions.buttonDestination = arguments[0].buttonDestination;
+            shopifyOptions.buttonText = arguments[0].buttonText;
+        }
+        // custom usage with inline configuration
+        else {
+            shopifyOptions.product = arguments[0];
+            for (var i = 1; i < arguments.length; ++i) {
+                shopifyOptions[arguments[i]] = arguments[++i];
+            }
+        }
+
+        // validations
+        if (!shopifyOptions.product) {
+            return '';
+        }
+        if (ENUM_SHOPIFY_BUTTON_DESTINATIONS.indexOf(shopifyOptions.buttonDestination) == -1) {
+            shopifyOptions.buttonDestination = ENUM_SHOPIFY_BUTTON_DESTINATIONS[0];
+        }
+
+        // build the data attributes
+        var dataAttributes = '';
+        for (var key in shopifyOptions) {
+            if (shopifyOptions[key]) {
+                dataAttributes += ` data-${ key }="${ shopifyOptions[key] }"`;
+            }
+        }
+
+        // style it to be automatically centered
+        return `<div class="shopify-product" style="margin: auto" ${ dataAttributes }></div>`;
     });
 };
