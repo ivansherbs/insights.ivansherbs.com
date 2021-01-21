@@ -7,9 +7,9 @@ node_modules/
 # log files
 *.log
 
-# Vim temporary files
-*.swp
-*.swo
+# Vim session and temporary files
+*.vim
+*.sw?
 
 # 11ty
 _site/
