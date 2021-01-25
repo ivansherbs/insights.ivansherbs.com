@@ -129,13 +129,17 @@ Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/3q8sNvW9E7qAVKIQG9hEIe/8292e1d2ef8b74ef5deefbcbfe26faf0/10.png?fm=jpg&q=50-->
 ### Verwerking
 
-Ivan Chai wordt verwerkt in Siberische ecodorpen. Ver weg van de bewoonde wereld. Dit gebeurt door kruidenthee experts die zo dicht mogelijk bij de natuur willen wonen. Alles wordt er biologisch verbouwd of groeit in de wildernis. Het productieproces ziet er ongeveer als volgt uit.
+Ivan Chai wordt verwerkt in Siberische ecodorpen. Ver weg van de bewoonde wereld. Dit gebeurt door kruidenthee experts die zo dicht mogelijk bij de natuur willen wonen. Alles wordt er op organische wijze verbouwt of groeit in de wildernis. Het duurzame productieproces ziet er ongeveer als volgt uit.
 
-De bladeren waar Ivan Chai van wordt gemaakt groeien in de wildernis. En worden met de hand geplukt. Met de hand? Ja. Gewoon met de hand. Dit komt omdat de ecodorp bewoners het proces zo puur mogelijk willen houden. 
+De bladeren waar Ivan Chai van wordt gemaakt groeien in de wildernis en worden met de hand geplukt. 
 
-Het oogsten gebeurt daarom alleen wanneer de kruiden helemaal zijn volgroeid. Gelukkig gebeurt dit net als vroeger allemaal zonder chemicaliën.
+Met de hand? 
 
-Wanneer de bladeren van de kruiden zijn geoogst gaat er een natuurlijk fermentatieproces overheen. De meest ervaren kruidenthee expert overziet het proces. En zorgt ervoor dat de bladeren op natuurlijke wijze worden gedroogd. Dit duurt ongeveer drie dagen. 
+Ja. Gewoon met de hand. Dit komt omdat de ecodorp bewoners het proces zo schoon mogelijk willen houden. 
+
+Het plukken gebeurt daarom ook alleen wanneer de kruiden helemaal zijn volgroeid. Gelukkig gebeurt dit net als vroeger allemaal zonder chemicaliën.
+
+Wanneer de kruiden zijn geplukt gaat er een natuurlijk fermentatieproces overheen. De kruiden worden met rust gelaten zodat de natuur zijn werk kan doen. De meest ervaren kruidenthee expert overziet het proces. Wanneer de kruiden zijn gefermenteerd worden de bladeren op natuurlijke wijze worden gedroogd. Dit duurt ongeveer drie dagen. 
 
 En weet je wat? 
 
