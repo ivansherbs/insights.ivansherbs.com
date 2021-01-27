@@ -138,10 +138,6 @@ Het plukken gebeurt daarom ook alleen wanneer de kruiden helemaal zijn volgroeid
 
 Wanneer de kruiden zijn geplukt gaat er een natuurlijk fermentatieproces overheen. De kruiden worden met rust gelaten zodat de natuur zijn werk kan doen. De meest ervaren kruidenthee expert overziet het proces. Wanneer de kruiden zijn gefermenteerd worden de bladeren op natuurlijke wijze gedroogd. Dit duurt ongeveer drie dagen. 
 
-En weet je wat? 
-
-De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
-
 Om deze manier van werken hou vast te geven is de Eco7 Standaard in het leven geroepen:
 
     - Kruiden groeien in de wildernis
@@ -157,5 +153,9 @@ Om deze manier van werken hou vast te geven is de Eco7 Standaard in het leven ge
     - Duurzaam productieproces
 
     - Geen aroma’s toegevoegd
+    
+En weet je wat? 
+
+De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
 
 {% shopifyCollection 235510562982 'buttonDestination' 'cart' 'buttonText' 'In winkelwagen' %}
