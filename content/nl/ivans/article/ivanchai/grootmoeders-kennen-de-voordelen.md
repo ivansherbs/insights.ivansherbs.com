@@ -27,7 +27,7 @@ banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?fm=jpg&q=50
   effect: o-lg-60d-black
 ---
-{% shopifyProduct 5781072871590 'buttonText' 'In winkelwagen' %}
+{% shopifyCollection 235548934310 'buttonDestination' 'modal' 'buttonText' 'In winkelwagen' %}
 
 **Anekdotisch bewijs is krachtig bewijs**
 
@@ -47,9 +47,6 @@ Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in S
 Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Chai. Ze weten het allemaal. Zo vroeg ze mij gelijk. Wat wil je weten? De werking op de urinewegen? Spijsvertering? Angst? Oma doet er zo een boekje over open. Zelfs de prostaat van opa heeft er baat bij. Dit hebben we uitvoerig besproken.
 
 In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed onderzocht. Te beginnen bij het eerste voordeel.  
-
-{% shopifyCollection 235548934310 'buttonDestination' 'modal' 'buttonText' 'In winkelwagen' %}
-
 
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/gJlMzDkpnHCVrqBwnpQLa/8292e1d2ef8b74ef5deefbcbfe26faf0/3.png?fm=jpg&q=50-->
 ### 1. Versterkt de weerstand
@@ -135,14 +132,30 @@ De bladeren waar Ivan Chai van wordt gemaakt groeien in de wildernis en worden m
 
 Met de hand? 
 
-Ja. Gewoon met de hand. Dit komt omdat de ecodorp bewoners het proces zo schoon mogelijk willen houden. 
+Ja. Gewoon met de hand. Dit komt omdat de ecodorp bewoners het proces zo schoon mogelijk willen houden. Ze willen dat de natuur zo veel mogelijk met rust wordt gehouden.
 
 Het plukken gebeurt daarom ook alleen wanneer de kruiden helemaal zijn volgroeid. Gelukkig gebeurt dit net als vroeger allemaal zonder chemicaliën.
 
-Wanneer de kruiden zijn geplukt gaat er een natuurlijk fermentatieproces overheen. De kruiden worden met rust gelaten zodat de natuur zijn werk kan doen. De meest ervaren kruidenthee expert overziet het proces. Wanneer de kruiden zijn gefermenteerd worden de bladeren op natuurlijke wijze worden gedroogd. Dit duurt ongeveer drie dagen. 
+Wanneer de kruiden zijn geplukt gaat er een natuurlijk fermentatieproces overheen. De kruiden worden met rust gelaten zodat de natuur zijn werk kan doen. De meest ervaren kruidenthee expert overziet het proces. Wanneer de kruiden zijn gefermenteerd worden de bladeren op natuurlijke wijze gedroogd. Dit duurt ongeveer drie dagen. 
 
 En weet je wat? 
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
+
+Om deze manier van werken hou vast te geven is de Eco7 Standaard in het leven geroepen:
+
+    - Kruiden groeien in de wildernis
+
+    - Kruiden moeten zijn volgroeid
+
+    - Kruiden zijn vrij van chemicaliën
+
+    - Kruiden worden met de hand geplukt
+
+    - Kruiden worden op natuurlijk wijze gedroogd
+
+    - Duurzaam productieproces
+
+    - Geen aroma’s toegevoegd
 
 {% shopifyCollection 235510562982 'buttonDestination' 'cart' 'buttonText' 'In winkelwagen' %}
