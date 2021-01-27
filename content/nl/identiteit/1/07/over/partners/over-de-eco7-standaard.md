@@ -30,11 +30,11 @@ Graag ondersteunen wij deze unieke denkwijze waar mens en milieu centraal staan.
 
     - Kruiden worden met de hand geplukt
 
-    - Natuurlijk fermentatieproces
+    - Kruiden worden op natuurlijk wijze gedroogd
+
+    - Duurzaam productieproces
 
     - Geen aroma’s toegevoegd
-
-    - Verpakt onder beschermende atmosfeer
 
 ### Productieproces
 
