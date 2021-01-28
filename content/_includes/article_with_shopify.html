@@ -5,6 +5,44 @@ layout: article.html
 
 <!-- Shopify -->
 <script>
+    var I18N = {
+        NL: {
+            product: {
+                button: 'In winkelwagen'
+            },
+            cart: {
+                title: 'Winkelwagen',
+                empty: 'Uw winkelwagen is leeg.',
+                button: 'Afrekenen',
+                total: 'Subtotaal',
+                currency: 'EUR',
+                notice: 'Verzendkosten en kortingscodes worden toegevoegd bij het afrekenen.',
+                noteDescription: 'Opmerkingen'
+            }
+        }
+    };
+
+    function addTranslations(language, options) {
+        if (!options) {
+            return {};
+        }
+
+        if (!language || language === 'EN' || !I18N[language]) {
+            return options;
+        }
+
+        for (const component in I18N[language]) {
+            options[component] = options[component] || {};
+            options[component].text = options[component].text || {};
+
+            for (const label in I18N[language][component]) {
+                options[component].text[label] = I18N[language][component][label];
+            }
+        }
+
+        return options;
+    }
+
     var client = ShopifyBuy.buildClient({
         domain: 'ivansherbs.myshopify.com',
         storefrontAccessToken: '1cb388a2e9f947c0c6d44c4a6d641feb'
@@ -19,6 +57,7 @@ layout: article.html
             continue;
         }
 
+        var language = container.dataset.language || 'EN';
         var buttonDestination = container.dataset.buttondestination || 'cart';
         var buttonText = container.dataset.buttontext;
 
@@ -27,6 +66,8 @@ layout: article.html
                 buttonDestination: buttonDestination
             }
         };
+
+        options = addTranslations(language, options);
 
         if (buttonText) {
             options.product.text = options.product.text || {};
@@ -48,6 +89,7 @@ layout: article.html
             continue;
         }
 
+        var language = container.dataset.language || 'EN';
         var buttonDestination = container.dataset.buttondestination || 'cart';
         var buttonText = container.dataset.buttontext;
 
@@ -56,6 +98,8 @@ layout: article.html
                 buttonDestination: buttonDestination
             }
         };
+
+        options = addTranslations(language, options);
 
         if (buttonText) {
             options.product.text = options.product.text || {};

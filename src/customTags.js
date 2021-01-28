@@ -26,14 +26,13 @@ module.exports = function(eleventyConfig) {
 
         // initializations
         var shopifyOptions = {
+            language: 'EN',
             buttonDestination: ENUM_SHOPIFY_BUTTON_DESTINATIONS[0]
         };
 
         // default usage with page front-matter configuration
         if (typeof arguments[0] === 'object') {
-            shopifyOptions.collection = arguments[0].collection;
-            shopifyOptions.buttonDestination = arguments[0].buttonDestination;
-            shopifyOptions.buttonText = arguments[0].buttonText;
+            shopifyOptions = arguments[0];
         }
         // custom usage with inline configuration
         else {
@@ -71,14 +70,13 @@ module.exports = function(eleventyConfig) {
 
         // initializations
         var shopifyOptions = {
+            language: 'EN',
             buttonDestination: ENUM_SHOPIFY_BUTTON_DESTINATIONS[0]
         };
 
         // default usage with page front-matter configuration
         if (typeof arguments[0] === 'object') {
-            shopifyOptions.product = arguments[0].product;
-            shopifyOptions.buttonDestination = arguments[0].buttonDestination;
-            shopifyOptions.buttonText = arguments[0].buttonText;
+            shopifyOptions = arguments[0];
         }
         // custom usage with inline configuration
         else {
