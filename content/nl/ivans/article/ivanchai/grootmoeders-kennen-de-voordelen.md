@@ -27,7 +27,7 @@ banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?fm=jpg&q=50
   effect: o-lg-60d-black
 ---
-{% shopifyCollection 235548934310 'buttonDestination' 'modal' 'buttonText' 'In winkelwagen' %}
+{% shopifyCollection 235548934310 'buttonDestination' 'modal' 'language' 'NL' %}
 
 **Anekdotisch bewijs is krachtig bewijs**
 
@@ -121,7 +121,7 @@ Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s 
 
 Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
 
-{% shopifyCollection 235550015654 'buttonDestination' 'cart' 'buttonText' 'In winkelwagen' %}
+{% shopifyCollection 235550015654 'buttonDestination' 'cart' 'language' 'NL' %}
 
 <!--https://images.ctfassets.net/lyvtxhzy9zgr/3q8sNvW9E7qAVKIQG9hEIe/8292e1d2ef8b74ef5deefbcbfe26faf0/10.png?fm=jpg&q=50-->
 ### Verwerking
@@ -158,4 +158,4 @@ En weet je wat?
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
 
-{% shopifyCollection 235510562982 'buttonDestination' 'cart' 'buttonText' 'In winkelwagen' %}
+{% shopifyCollection 235510562982 'buttonDestination' 'cart' 'language' 'NL' %}
