@@ -8,7 +8,9 @@ layout: article.html
     var I18N = {
         NL: {
             product: {
-                button: 'In winkelwagen'
+                button: 'In winkelwagen',
+                outOfStock: 'Uitverkocht',
+                unavailable: 'Niet beschikbaar'
             },
             cart: {
                 title: 'Winkelwagen',
@@ -18,6 +20,9 @@ layout: article.html
                 currency: 'EUR',
                 notice: 'Verzendkosten en kortingscodes worden toegevoegd bij het afrekenen.',
                 noteDescription: 'Opmerkingen'
+            },
+            modalProduct: {
+                button: 'In winkelwagen'
             }
         }
     };
@@ -64,6 +69,13 @@ layout: article.html
         var options = {
             product: {
                 buttonDestination: buttonDestination
+            },
+            cart: {
+                events: {
+                    updateItemQuantity: function(cart) {
+                        debugger;
+                    }
+                }
             }
         };
 
