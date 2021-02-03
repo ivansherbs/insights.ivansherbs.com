@@ -26,7 +26,7 @@ De eenvoudig te gebruiken producten rechtstreeks uit de natuur die mij werden ge
 
 Zijn naam is Andrey Nikitin. Het preventief behandelen van gezondheidsproblemen met kruiden stond centraal bij de kennisoverdracht. Hier zijn mij waardevolle lessen bijgebracht.
 
-https://drive.google.com/file/d/1iaR7Ii8atdPzT1U8Phpx145W7OtwEOtS/view?usp=sharing
+https://drive.google.com/file/d/1TBthYsUrhcG94LuCirUpSeWdMQsSL3mB/view?usp=sharing
 > De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van eenvoudig te gebruiken producten rechtstreeks uit de natuur met geneeskrachtige werking
 
 Gedurende mijn verblijf voelde ik mij dan ook steeds fitter worden. Mede mogelijk gemaakt door het dagelijks oogsten van kruiden uit Siberië. Nog nooit heb ik mij zo sterk gevoeld. Dit heeft mij aan het denken gezet. Ik had besloten een nieuwe uitdaging aan te gaan. Ik moet en zou de Belukha beklimmen. De hoogste berg van Siberië.
