@@ -30,6 +30,7 @@ function collect_contentful_images {
 echo $id_list
   # we need the directory for the contentful data
   mkdir -p content/_data/contentful
+  curl -v "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}"
 echo 1
   # generate the contentful image list
   curl --silent "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" # | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url + "?fm=jpg&q=50&w=1080" )' > content/_data/contentful/images.json
