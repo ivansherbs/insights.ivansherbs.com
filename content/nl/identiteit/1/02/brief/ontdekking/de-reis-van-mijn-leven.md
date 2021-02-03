@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1TBthYsUrhcG94LuCirUpSeWdMQsSL3mB/view?usp=shari
 
 Gedurende mijn verblijf voelde ik mij dan ook steeds fitter worden. Mede mogelijk gemaakt door het dagelijks oogsten van kruiden uit Siberië. Nog nooit heb ik mij zo sterk gevoeld. Dit heeft mij aan het denken gezet. Ik had besloten een nieuwe uitdaging aan te gaan. Ik moet en zou de Belukha beklimmen. De hoogste berg van Siberië.
 
-Deze meerdaagse expedities staat erom bekend gepaard te gaan met zowel diepte als hoogtepunten. Het daagt u uit waardoor u als mens verandert. 
+Deze meerdaagse expedities staat erom bekend gepaard te gaan met zowel diepte als hoogtepunten. Het heeft mij dan ook uitgedaagd waardoor ik als mens ben verandert.  
 Uiteraard loopt ut deze expedities niet alleen. Zou ook vreemd zijn gezien de verraderlijke weersomstandigheden. De top behalen is een prestatie die u als team neerzet. Met een diverse groep van alle leeftijden.
 
 Gedurende deze expeditie heb ik onder andere een herborist ontmoet genaamd Ivan Alexandrovitsj. Ivan was met 63 jaar veruit de oudste van de expeditie groep. Ten tijde van deze expeditie viel mij iets op. Overigens niet alleen mij. Maar meedere expeditieleden. Dit kwam door de volgende gebeurtenis. 
