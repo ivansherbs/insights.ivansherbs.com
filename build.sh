@@ -27,21 +27,14 @@ function collect_contentful_images {
     >&2 echo "Missing value for environment variable value: CONTENTFUL_ACCESS_TOKEN"
     return 1
   fi
-echo $id_list
+
   # we need the directory for the contentful data
   mkdir -p content/_data/contentful
-  jq --version
-  curl -v "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}"
-echo 1
+
   # generate the contentful image list
-  curl --silent "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" # | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url + "?fm=jpg&q=50&w=1080" )' > content/_data/contentful/images.json
-echo 2
-  ls -l content/_data/contentful/images.json
-echo 3
-  cat content/_data/contentful/images.json
-echo 4
+  curl --silent --globoff "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url + "?fm=jpg&q=50&w=1080" )' > content/_data/contentful/images.json
+
   cat content/_data/contentful/images.json | grep "https"
-echo 5
 }
 
 function main {
