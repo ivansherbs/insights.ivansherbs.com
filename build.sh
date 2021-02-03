@@ -30,6 +30,7 @@ function collect_contentful_images {
 echo $id_list
   # we need the directory for the contentful data
   mkdir -p content/_data/contentful
+  jq --version
   curl -v "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}"
 echo 1
   # generate the contentful image list
