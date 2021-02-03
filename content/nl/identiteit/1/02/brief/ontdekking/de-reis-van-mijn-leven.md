@@ -22,7 +22,7 @@ Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Ik ben al ruim 7 jaar 
 
 Gedurende de rondreis van mijn leven heb ik besloten mijn kennis en kunde hierover te vergroten. Om mijn doelstellingen te behalen, heb ik besloten één jaar in Chazhaevka te verblijven. Chazhaevka is een Siberische ecodorp ver weg van de bewoonde wereld.
 
-De eenvoudig te gebruiken producten rechtstreeks uit de natuur die mij werden geïntroduceerd bevatten vele voordelen. Niet alleen voor je lichaam. Maar ook voor je geest. Dagelijks had ik het genoegen nauw samen te werken met de meest ervaren 'herbal tea expert' uit het ecodorp.
+De eenvoudig te gebruiken producten rechtstreeks uit de natuur die mij werden geïntroduceerd bevatten vele voordelen. Niet alleen voor uw lichaam. Maar ook voor uw geest. Dagelijks had ik het genoegen nauw samen te werken met de meest ervaren 'herbal tea expert' uit het ecodorp.
 
 Zijn naam is Andrey Nikitin. Het preventief behandelen van gezondheidsproblemen met kruiden stond centraal bij de kennisoverdracht. Hier zijn mij waardevolle lessen bijgebracht.
 
@@ -31,8 +31,8 @@ https://drive.google.com/file/d/1TBthYsUrhcG94LuCirUpSeWdMQsSL3mB/view?usp=shari
 
 Gedurende mijn verblijf voelde ik mij dan ook steeds fitter worden. Mede mogelijk gemaakt door het dagelijks oogsten van kruiden uit Siberië. Nog nooit heb ik mij zo sterk gevoeld. Dit heeft mij aan het denken gezet. Ik had besloten een nieuwe uitdaging aan te gaan. Ik moet en zou de Belukha beklimmen. De hoogste berg van Siberië.
 
-Deze meerdaagse expedities staat erom bekend gepaard te gaan met zowel diepte als hoogtepunten. Het daagt je uit waardoor je als mens verandert. 
-Uiteraard loop je deze expedities niet alleen. Zou ook vreemd zijn gezien de verraderlijke weersomstandigheden. De top behalen is een prestatie die je als team neerzet. Met een diverse groep van alle leeftijden.
+Deze meerdaagse expedities staat erom bekend gepaard te gaan met zowel diepte als hoogtepunten. Het daagt u uit waardoor u als mens verandert. 
+Uiteraard loopt ut deze expedities niet alleen. Zou ook vreemd zijn gezien de verraderlijke weersomstandigheden. De top behalen is een prestatie die u als team neerzet. Met een diverse groep van alle leeftijden.
 
 Gedurende deze expeditie heb ik onder andere een herborist ontmoet genaamd Ivan Alexandrovitsj. Ivan was met 63 jaar veruit de oudste van de expeditie groep. Ten tijde van deze expeditie viel mij iets op. Overigens niet alleen mij. Maar meedere expeditieleden. Dit kwam door de volgende gebeurtenis. 
 
@@ -49,7 +49,7 @@ Gabriel was in eerste instantie groot scepticus om deze start te maken. Echter, 
 
 Mijn les zover gedurende de reis van mijn leven?
 
-Maak gebruik van veilige, eenvoudig te gebruiken en effectief bewezen alledaagse producten, uiteraard rechtstreeks uit de natuur. Goed voor lichaam en geest. Mijn advies is dan ook om te beginnen bij iets wat je waarschijnlijk toch al consumeert. Namelijk kruidenthee.
+Maak gebruik van veilige, eenvoudig te gebruiken en effectief bewezen alledaagse producten, uiteraard rechtstreeks uit de natuur. Goed voor lichaam en geest. Mijn advies is dan ook om te beginnen bij iets wat u waarschijnlijk toch al consumeert. Namelijk kruidenthee.
 
 Wees verstandig. 
 
