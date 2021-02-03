@@ -48,8 +48,9 @@ Eenmaal thuis gekomen kon ik niet wacht om mijn ervaringen te delen met Gabriel 
 Gabriel was in eerste instantie groot scepticus om deze start te maken. Echter, eenmaal de eerste stappen gezet, kon ook hij deze reis niet weerstaan. 
 
 Mijn les zover gedurende de reis van mijn leven?
+Maak gebruik van veilige, eenvoudig te gebruiken producten, bewezen effectief door klinisch onderzoek en uiteraard rechtstreeks uit de natuur; goed voor lichaam en geest. 
 
-Maak gebruik van veilige, eenvoudig te gebruiken en effectief bewezen alledaagse producten, uiteraard rechtstreeks uit de natuur. Goed voor lichaam en geest. Mijn advies is dan ook om te beginnen bij iets wat u waarschijnlijk toch al consumeert. Namelijk kruidenthee.
+Mijn advies is dan ook om te beginnen bij iets wat u waarschijnlijk toch al consumeert. Namelijk kruidenthee.
 
 Wees verstandig. 
 
