@@ -12,7 +12,40 @@ function generate_redirects {
   done
 }
 
+function collect_contentful_images {
+  # grep for all contentful images
+  id_list=$(grep -r 'contentful.images' --no-filename --binary-file=without-match content | cut -d '.' -f 3 | cut -d ' ' -f 1 | sed -e 's/$/,/g' | tr -d '\n')
+
+  # finish here if no images
+  if [ -z "${id_list}" ]
+  then
+    return
+  fi
+
+  if [ -z "${CONTENTFUL_ACCESS_TOKEN}" ]
+  then
+    >&2 echo "Missing value for environment variable value: CONTENTFUL_ACCESS_TOKEN"
+    return 1
+  fi
+
+  # we need the directory for the contentful data
+  mkdir -p content/_data/contentful
+
+  # generate the contentful image list
+  curl --silent "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url + "?fm=jpg&q=50&w=1080" )' > content/_data/contentful/images.json
+
+  cat content/_data/contentful/images.json | grep "https"
+}
+
 function main {
+  # page images
+  echo "IVAN: Collecting contentful images ..."
+  collect_contentful_images
+  if [ $? -gt 0 ]
+  then
+    return 1
+  fi
+
   # templates pre-rendering
   echo "IVAN: Pre-processing template fragments ..."
   npx eleventy --input content/nl/ivans/veelgestelde-vragen --output _site/nl/ivans/veelgestelde-vragen
@@ -27,4 +60,4 @@ function main {
   generate_redirects
 }
 
-main
+main $@

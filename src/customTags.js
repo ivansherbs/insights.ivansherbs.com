@@ -105,4 +105,14 @@ module.exports = function(eleventyConfig) {
         // style it to be automatically centered
         return `<div class="shopify-product" style="margin: auto" ${ dataAttributes }></div>`;
     });
+
+    eleventyConfig.addShortcode('image', function() {
+
+        // abort if no arguments
+        if (!arguments[0]) {
+            return '';
+        }
+
+        return `<div class="blog-img"><img src="${arguments[0]}"></div>`;
+    });
 };
