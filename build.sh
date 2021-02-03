@@ -34,7 +34,12 @@ echo 1
   # generate the contentful image list
   curl --silent "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url + "?fm=jpg&q=50&w=1080" )' > content/_data/contentful/images.json
 echo 2
+  ls -l content/_data/contentful/images.json
+echo 3
+  cat content/_data/contentful/images.json
+echo 4
   cat content/_data/contentful/images.json | grep "https"
+echo 5
 }
 
 function main {
