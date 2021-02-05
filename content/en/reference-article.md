@@ -1,5 +1,5 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Reference Article
 meta:
   description: This is the HTML meta description used also by search engines
@@ -7,6 +7,11 @@ meta:
 publish:
   author: If not provided, Ivan's Insights will be used
   date: Aug 28, 2020
+style: |
+  .single-blog-page .blog-box .blog-img img {
+      width: initial;
+      max-width: 100%;
+  }
 ---
 [[toc]]
 
@@ -46,6 +51,110 @@ This information is visible for the user on the article page.
 
 * `publish.author` - the author of the article. If not provided, `Ivan's Insights` will be used as default.
 * `publish.date` - the date when this article was published. You can use any string/format you want as no validation is performed. If not provided, the date is not visible on the article page.
+
+# Custom Markdown
+
+## Contentful images
+
+Short version:
+
+```
+[[contentfulImage <image_id>]]
+```
+
+where the `<image_id>` is the ID of an image published using Contentful.
+
+Long version:
+
+```
+[[contentfulImage <image_id> option=value ...]]
+```
+
+where you can provide as many `option=value` pairs using the options names and values supported by the [Contentful Images API](https://www.contentful.com/developers/docs/references/images-api/).
+
+### Front matter
+
+You can provide also default properties for all Contentful images on a page by defining the properties in the front matter:
+
+```
+---
+contentful:
+  imageOptions:
+    fm: jpg
+    q: 50
+---
+... all the images on this page will be fetched using the JPEG format and a 50% quality...
+```
+
+### Example 1
+
+```
+[[contentfulImage 4xERvF6aRTWBQwMFipxC3k]]
+```
+
+uses the default Contentful options:
+
+* format: `fm=jpq` (will return a JPEG image regardless of the image uploaded on Contentful)
+* quality: `q=50` (will decrease the quality of the image to 50%)
+
+and generates:
+
+[[contentfulImage 4xERvF6aRTWBQwMFipxC3k]]
+
+### Example 2
+
+```
+[[contentfulImage 4xERvF6aRTWBQwMFipxC3k fm=png q=100 fit=pad w=600 h=200 bg=yellow]]
+```
+
+generates:
+
+[[contentfulImage 4xERvF6aRTWBQwMFipxC3k fm=png q=100 w=600 h=200 fit=pad bg=yellow]]
+
+## Shopify products
+
+```
+{ % shopifyProduct <product_id> 'option1' 'value1' 'option2' 'value2' %}
+```
+
+where:
+
+* `<collection_id>` is the ID of a product collection deined in Shopify (visible in the Shopify URL when viewing a collection)
+* supported options are:
+  * `buttonDestination` with possible values: `cart` (default), `modal`, `checkout`, `onlineStore`
+  * `buttonText` with any string as value to change the buy button text
+  * `language` with possible values: `EN` (default), `NL`
+
+### Example
+
+{% shopifyProduct 5659783987366 'buttonDestination' 'cart' 'language' 'EN' %}
+
+**Note**: As we have two Shopify examples in different languages on the same page (product example in `EN` and collection example in `NL`), the Shopify integration will show the language last used o this page (which is `NL`).
+
+## Shopify collections
+
+```
+{ % shopifyCollection <collection_id> 'option1' 'value1' 'option2' 'value2' %}
+```
+
+where:
+
+* `<collection_id>` is the ID of a product collection deined in Shopify (visible in the Shopify URL when viewing a collection)
+* supported options are:
+  * `buttonDestination` with possible values: `cart` (default), `modal`, `checkout`, `onlineStore`
+  * `buttonText` with any string as value to change the buy button text
+  * `language` with possible values: `EN` (default), `NL`
+
+### Example
+
+```
+{ % shopifyCollection 235510562982 'buttonDestination' 'modal' 'language' 'NL' %}
+```
+
+generates:
+
+{% shopifyCollection 235510562982 'buttonDestination' 'modal' 'language' 'NL' %}
+
 
 # Formatting
 
