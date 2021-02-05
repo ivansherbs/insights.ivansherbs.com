@@ -47,8 +47,14 @@ function main {
     return 3
   fi
 
+  debug_arg=
+  if [ "$1" == "--debug" ]
+  then
+    debug_arg='--node-arg=--inspect'
+  fi
+
   # serve the content
-  npx eleventy --serve --watch --quiet
+  npx ${debug_arg} eleventy --serve --watch --quiet
   if [ $? -gt 0 ]
   then
     return 4

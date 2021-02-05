@@ -15,4 +15,4 @@ node_modules/
 _site/
 
 # generated resources
-content/_data/contentful/images.json
+content/_data/generated/

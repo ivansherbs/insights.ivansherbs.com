@@ -14,7 +14,7 @@ function generate_redirects {
 
 function collect_contentful_images {
   # grep for all contentful images
-  id_list=$(grep -r 'contentful.images' --no-filename --binary-file=without-match content | cut -d '.' -f 3 | cut -d ' ' -f 1 | sed -e 's/$/,/g' | tr -d '\n')
+  id_list=$(grep -r -E '\[\[\s*contentfulImage\s+\w+' --no-filename --binary-file=without-match content | cut -d ']' -f 1 | awk '{ print $2 }' | sed -e 's/$/,/g' | tr -d '\n')
 
   # finish here if no images
   if [ -z "${id_list}" ]
@@ -29,20 +29,21 @@ function collect_contentful_images {
   fi
 
   # we need the directory for the contentful data
-  mkdir -p content/_data/contentful
+  mkdir -p content/_data/generated/contentful
 
   # generate the contentful image list
-  curl --silent --globoff "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url + "?fm=jpg&q=50&w=1080" )' > content/_data/contentful/images.json
+  curl --silent --globoff "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url)' > content/_data/generated/contentful/images.json
 
-  cat content/_data/contentful/images.json | grep "https"
+  cat content/_data/generated/contentful/images.json | grep "https"
 }
 
 function main {
   # page images
-  echo "IVAN: Collecting contentful images ..."
+  echo "IVAN: Collecting Contentful images ..."
   collect_contentful_images
   if [ $? -gt 0 ]
   then
+    >&2 echo "IVAN: Failed to collect Contentful images"
     return 1
   fi
 

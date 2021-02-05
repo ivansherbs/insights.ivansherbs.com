@@ -26,6 +26,10 @@ fragments:
 banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?fm=jpg&q=50
   effect: o-lg-60d-black
+contentful:
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 {% shopifyCollection 235548934310 'buttonDestination' 'modal' 'language' 'NL' %}
 
@@ -41,7 +45,7 @@ Gelukkig voor ons geldt dit voor oma's overal ter wereld. Het fijne is dat je er
 
 Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in Siberië vanwege 7 voordelen. Goed voor lichaam en geest. 
 
-{% image contentful.images.2gjpo5VPHlB4zfJ2E8Tq5 %}
+[[contentfulImage 2gjpo5VPHlB4zfJ2E8Tq5]]
 
 ### Benieuwd naar de 7 voordelen?
 
@@ -49,7 +53,7 @@ Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Ch
 
 In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed onderzocht. Te beginnen bij het eerste voordeel.  
 
-{% image contentful.images.gJlMzDkpnHCVrqBwnpQLa %}
+[[contentfulImage gJlMzDkpnHCVrqBwnpQLa]]
 
 ### 1. Versterkt de weerstand
 
@@ -57,7 +61,7 @@ De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit bli
 
 Iedereen begrijpt de volgende logische redenering van oma. Een gezonde spijsvertering betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem.
 
-{% image contentful.images.3Le11Z0jk9vTDMo8mcQzW0 %}
+[[contentfulImage 3Le11Z0jk9vTDMo8mcQzW0]]
 
 ### 2. Krachtige ontstekingsremmer
 
@@ -65,7 +69,7 @@ Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectiever dan cor
 
 Een alerte oma heeft dit altijd al geweten. Het preventief behandelen van ontstekingen is een effectieve manier om veel problemen te verhelpen, zoals een blaas- of slijmbeursontsteking. 
 
-{% image contentful.images.28IMJN1AoFeQRD0I7uG1Yw %}
+[[contentfulImage 28IMJN1AoFeQRD0I7uG1Yw]]
 
 ### 3. Antioxiderede werking
 
@@ -75,7 +79,7 @@ Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bes
 
 Wellicht overbodig te melden. Oma wist uiteraard wel dat door het drinken van Ivan Chai, ieders hart hierdoor beter bleef kloppen. 
 
-{% image contentful.images.1YeCYk9IuosjGU7cFtuQW3 %}
+[[contentfulImage 1YeCYk9IuosjGU7cFtuQW3]]
 
 ### 4. Verbetert de nachtrust 
 
@@ -83,7 +87,7 @@ Ivan Chai is cafeïnevrij en werkt goed tegen insomnia, ofwel slapeloosheid. Het
 
 Wetenschappers noch oma's weten precies hoe het helpt bij slaapstoornissen. Echter wanneer oma last had van insomnia, dronk ze meerdere dagen op rij een paar koppen thee om lekker bij in slaap te vallen. 
 
-{% image contentful.images.4EMI0SfiaL2oxE1zXJ8qP4 %}
+[[contentfulImage 4EMI0SfiaL2oxE1zXJ8qP4]]
 
 ### 5. Vermindert de kans op prikkelbaarheid en angst
 
@@ -93,7 +97,7 @@ Iedere Rus die ik ben tegengekomen kent Ivan Chai. En heeft het vroeger van oma 
 
 Kinderen houden nou eenmaal van deze smaak! En nu blijven ze ook nog eens lekker rustig. 
 
-{% image contentful.images.1xIwi3rPGISyU1T4m1Tvit %}
+[[contentfulImage 1xIwi3rPGISyU1T4m1Tvit]]
 
 ### 6. Verzorgt de gezondheid van de urinewegen (en opa’s prostaat)
 
@@ -111,7 +115,7 @@ Oma’s kennis was hierbij dus op academische wijze vastgelegd!
 
 Mooi bijkomend voordeel. Ivan Chai versterkt het anti-tumor effect. En heeft met name een positieve werking heeft op gezonde prostaatcellen. Zo hield oma op eenvoudige wijze opa gelukkig en zijn prostaat gezond.
 
-{% image contentful.images.WbZiBDHmv6wZQXIdynio5 %}
+[[contentfulImage WbZiBDHmv6wZQXIdynio5]]
 
 ### 7. Verzorgt het spijsverteringsstelsel
 
@@ -131,7 +135,7 @@ Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
 
 {% shopifyCollection 235550015654 'buttonDestination' 'cart' 'language' 'NL' %}
 
-{% image contentful.images.3q8sNvW9E7qAVKIQG9hEIe %}
+[[contentfulImage 3q8sNvW9E7qAVKIQG9hEIe]]
 
 ### Verwerking
 

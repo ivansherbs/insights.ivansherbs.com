@@ -59,6 +59,12 @@ module.exports = function(eleventyConfig) {
 
     // *******************************
 
+    var mir = require('markdown-it-replace-it');
+    require('./src/markdownReplacements').forEach(r => mir.replacements.push(r));
+    md.use(mir);
+
+    // *******************************
+
     // set the configured md as the content generator engine for md files
     eleventyConfig.setLibrary('md', md);
 
