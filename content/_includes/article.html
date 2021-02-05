@@ -61,6 +61,34 @@
     <!-- TODO load async and move to particular layout -->
     <script src="https://sdks.shopifycdn.com/buy-button/1.0.0/buybutton.js"></script>
 
+    <!-- Overrides -->
+    <style>
+        @media (min-width: 992px) {
+            .container {
+                max-width: 800px
+            }
+        }
+        @media (min-width: 1200px) {
+            .container {
+                max-width: 880px
+            }
+        }
+        .single-blog-page .blog-box .blog-details {
+            font-size: 20px;
+        }
+        .single-blog-page .blog-box .blog-details p {
+            font-size: 1em;
+            line-height: 1.6em;
+            margin: 1.5em 0;
+        }
+        .single-blog-page .blog-box .blog-details h2 {
+            font-size: 1.5em;
+        }
+        .single-blog-page .blog-box .blog-details h3 {
+            font-size: 1.2em;
+        }
+    </style>
+
     <!-- Custom styles from front matter data -->
     <style>{{ style }}</style>
 </head>
