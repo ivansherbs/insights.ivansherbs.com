@@ -22,19 +22,13 @@ Wij ondersteunen hiermee de volgende aspecten die de samenwerking met zich mee b
 
 Graag ondersteunen wij deze unieke denkwijze waar mens en milieu centraal staan. Deze unieke levensstijl richt zich op duurzaam gebruik van de omgeving. Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, zetten onderstaande normen onze **Eco7 Standaard**.
 
-    - Kruiden groeien in de wildernis
-
-    - Kruiden moeten zijn volgroeid
-
-    - Kruiden zijn vrij van chemicaliën
-
-    - Kruiden worden met de hand geplukt
-
-    - Kruiden worden op natuurlijk wijze gedroogd
-
-    - Duurzaam productieproces
-
-    - Geen aroma’s toegevoegd
+- Kruiden groeien in de wildernis
+- Kruiden staan in bloei wanneer geplukt
+- Kruiden zijn vrij van chemicaliën
+- Kruiden zijn met de hand geplukt
+- Duurzaam productieproces
+- Geen aroma’s toegevoegd
+- Vrij van dierenleed
 
 ### Productieproces
 
