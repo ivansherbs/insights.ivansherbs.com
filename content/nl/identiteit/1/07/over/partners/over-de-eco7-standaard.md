@@ -11,7 +11,7 @@ tags:
 meta-description: Om het mileu te beschermen en de kwaliteit van ons product te kunnen waarborgen, zet onze Eco7 Standaard de norm... Lees snel meer over onze Eco7 Standaard. 
 meta-tags: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7 standaard, ontbossingen
 banner:
-  url: https://images.ctfassets.net/lyvtxhzy9zgr/6WCbol2zIYPBmUdXxJRGns/56bb2c12dedf933340e1b5b6ad834f72/pour-in-ivan-chai.png?fm=jpg&q=30
+  url: https://images.ctfassets.net/lyvtxhzy9zgr/6WCbol2zIYPBmUdXxJRGns/56bb2c12dedf933340e1b5b6ad834f72/production-proces-herbs-dying.png?fm=jpg&q=30
 ---
 
 **Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka.** <br>
@@ -28,13 +28,13 @@ Graag ondersteunen wij deze unieke denkwijze waar mensen, natuur en dieren centr
 Door onze **Eco7 Standaard** te volgen zijn onze producten tevens:
 - Vrij van ontbossing
 
-[[contentfulImage 5wAgIjT0YESBBdOVYAT9Rj]]
+[[contentfulImage 2jv9WqrhsH6aBkcLdoNvBu]]
 
 ### Productieproces
 
 De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo klimaatneutraal mogelijk te houden. Alles wordt dan ook op een traditionele wijze verpakt. Nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka.
     
-[[contentfulImage 9pvPCboy1qMMkcH3YOkpk]]
+[[contentfulImage 5wAgIjT0YESBBdOVYAT9Rj]]
 
 ### Klimaat
 
@@ -44,6 +44,5 @@ De kruiden uit deze omgeving hebben zich op een andere manier ontwikkeld dan eld
 
 De allerlaatste kwaliteitscontrole vindt plaats middels een officieuse thee ceremonie. De smaakbeleving staat hierbij centraal. 
 
-Geniet van het moment. 
 
 [[contentfulImage Nxks3KWngMqEF7JcGIEL4]]
