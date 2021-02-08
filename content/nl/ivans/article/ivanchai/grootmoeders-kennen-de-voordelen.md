@@ -30,8 +30,10 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
-{% shopifyCollection 235548934310 'buttonDestination' 'modal' 'language' 'NL' %}
+[[shopifyCollection 235548934310 buttonDestination=modal]]
 
 **Anekdotisch bewijs is krachtig bewijs**
 
@@ -47,7 +49,7 @@ Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in S
 
 [[contentfulImage 2gjpo5VPHlB4zfJ2E8Tq5]]
 
-### Benieuwd naar de 7 voordelen?
+## Benieuwd naar de 7 voordelen?
 
 Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Chai. Ze weten het allemaal. Zo vroeg ze mij gelijk. Wat wil je weten? De werking op de urinewegen? Spijsvertering? Angst? Oma doet er zo een boekje over open. Zelfs de prostaat van opa heeft er baat bij. Dit hebben we uitvoerig besproken.
 
@@ -133,11 +135,12 @@ Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s 
 
 Ben je benieuwd geworden hoe Ivan Chai wordt gemaakt? Lees dan snel verder.
 
-{% shopifyCollection 235550015654 'buttonDestination' 'cart' 'language' 'NL' %}
+<!-- TODO missing Shopify collection -->
+[[shopifyCollection 235550015654 buttonDestination=cart]]
 
 [[contentfulImage 3q8sNvW9E7qAVKIQG9hEIe]]
 
-### Verwerking
+## Verwerking
 
 Ivan Chai wordt verwerkt in Siberische ecodorpen. Ver weg van de bewoonde wereld. Dit gebeurt door kruidenthee experts die zo dicht mogelijk bij de natuur willen wonen. Alles wordt er op organische wijze verbouwt of groeit in de wildernis. Het duurzame productieproces ziet er ongeveer als volgt uit.
 
@@ -171,4 +174,4 @@ En weet je wat?
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
 
-{% shopifyCollection 235510562982 'buttonDestination' 'cart' 'language' 'NL' %}
+[[shopifyCollection 235510562982 buttonDestination=cart]]

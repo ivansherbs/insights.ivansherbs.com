@@ -67,7 +67,7 @@ where the `<image_id>` is the ID of an image published using Contentful.
 Long version:
 
 ```
-[[contentfulImage <image_id> option=value ...]]
+[[contentfulImage <image_id> option1=value\ 1 option2='value 2' option3="velue 3" ...]]
 ```
 
 where you can provide as many `option=value` pairs using the options names and values supported by the [Contentful Images API](https://www.contentful.com/developers/docs/references/images-api/).
@@ -83,7 +83,7 @@ contentful:
     fm: jpg
     q: 50
 ---
-... all the images on this page will be fetched using the JPEG format and a 50% quality...
+... all the images on this page will be fetched using the JPEG format and a 50% quality ...
 ```
 
 ### Example 1
@@ -114,27 +114,46 @@ generates:
 ## Shopify products
 
 ```
-{ % shopifyProduct <product_id> 'option1' 'value1' 'option2' 'value2' %}
+[[shopifyProduct <product_id> option1=value\ 1 option2='value 2' option3="value 3" ...]]
 ```
 
 where:
 
-* `<collection_id>` is the ID of a product collection deined in Shopify (visible in the Shopify URL when viewing a collection)
+* `<product_id>` is the ID of a product collection deined in Shopify (visible in the Shopify URL when viewing a collection)
 * supported options are:
-  * `buttonDestination` with possible values: `cart` (default), `modal`, `checkout`, `onlineStore`
+  * `buttonDestination` with possible values: `cart`, `modal` (default), `checkout`, `onlineStore`
   * `buttonText` with any string as value to change the buy button text
   * `language` with possible values: `EN` (default), `NL`
 
+### Front matter
+
+You can provide also default properties for all Shopify products on a page by defining the properties in the front matter:
+
+```
+---
+shopify:
+  language: NL
+  buttonDestination: onlineStore
+---
+... all the products on this page will be displayed in Dutch and link directory to the Shopify online store ...
+```
+
 ### Example
 
-{% shopifyProduct 5659783987366 'buttonDestination' 'cart' 'language' 'EN' %}
+```
+[[shopifyProduct 5659783987366 buttonDestination=cart language=EN]]
+```
+
+generates:
+
+[[shopifyProduct 5659783987366 buttonDestination=cart language=EN]]
 
 **Note**: As we have two Shopify examples in different languages on the same page (product example in `EN` and collection example in `NL`), the Shopify integration will show the language last used o this page (which is `NL`).
 
 ## Shopify collections
 
 ```
-{ % shopifyCollection <collection_id> 'option1' 'value1' 'option2' 'value2' %}
+[[shopifyCollection <collection_id> option1=value\ 1 option2='value 2' option3="value 3"]]
 ```
 
 where:
@@ -145,15 +164,28 @@ where:
   * `buttonText` with any string as value to change the buy button text
   * `language` with possible values: `EN` (default), `NL`
 
+### Front matter
+
+You can provide also default properties for all Shopify products in all collection on a page by defining the properties in the front matter:
+
+```
+---
+shopify:
+  language: NL
+  buttonDestination: onlineStore
+---
+... all the products in all collection on this page will be displayed in Dutch and link directory to the Shopify online store ...
+```
+
 ### Example
 
 ```
-{ % shopifyCollection 235510562982 'buttonDestination' 'modal' 'language' 'NL' %}
+[[shopifyCollection 235510562982 buttonDestination=modal language=NL]]
 ```
 
 generates:
 
-{% shopifyCollection 235510562982 'buttonDestination' 'modal' 'language' 'NL' %}
+[[shopifyCollection 235510562982 buttonDestination=modal language=NL]]
 
 
 # Formatting

@@ -4,124 +4,122 @@ layout: article.html
 {{ content }}
 
 <!-- Shopify -->
+<style>
+.shopify-product {
+    margin: auto;
+}
+</style>
 <script>
-    var I18N = {
-        NL: {
-            product: {
-                button: 'In winkelwagen',
-                outOfStock: 'Uitverkocht',
-                unavailable: 'Niet beschikbaar'
-            },
-            cart: {
-                title: 'Winkelwagen',
-                empty: 'Uw winkelwagen is leeg.',
-                button: 'Afrekenen',
-                total: 'Subtotaal',
-                currency: 'EUR',
-                notice: 'Verzendkosten en kortingscodes worden toegevoegd bij het afrekenen.',
-                noteDescription: 'Opmerkingen'
-            },
-            modalProduct: {
-                button: 'In winkelwagen'
-            }
+var I18N = {
+    NL: {
+        product: {
+            button: 'In winkelwagen',
+            outOfStock: 'Uitverkocht',
+            unavailable: 'Niet beschikbaar'
+        },
+        cart: {
+            title: 'Winkelwagen',
+            empty: 'Uw winkelwagen is leeg.',
+            button: 'Afrekenen',
+            total: 'Subtotaal',
+            currency: 'EUR',
+            notice: 'Verzendkosten en kortingscodes worden toegevoegd bij het afrekenen.',
+            noteDescription: 'Opmerkingen'
+        },
+        modalProduct: {
+            button: 'In winkelwagen'
         }
-    };
+    }
+};
 
-    function addTranslations(language, options) {
-        if (!options) {
-            return {};
-        }
+function addTranslations(language, options) {
+    if (!options) {
+        return {};
+    }
 
-        if (!language || language === 'EN' || !I18N[language]) {
-            return options;
-        }
-
-        for (const component in I18N[language]) {
-            options[component] = options[component] || {};
-            options[component].text = options[component].text || {};
-
-            for (const label in I18N[language][component]) {
-                options[component].text[label] = I18N[language][component][label];
-            }
-        }
-
+    if (!language || language === 'EN' || !I18N[language]) {
         return options;
     }
 
-    var client = ShopifyBuy.buildClient({
-        domain: 'ivansherbs.myshopify.com',
-        storefrontAccessToken: '1cb388a2e9f947c0c6d44c4a6d641feb'
+    for (const component in I18N[language]) {
+        options[component] = options[component] || {};
+        options[component].text = options[component].text || {};
+
+        for (const label in I18N[language][component]) {
+            options[component].text[label] = I18N[language][component][label];
+        }
+    }
+
+    return options;
+}
+
+var client = ShopifyBuy.buildClient({
+    domain: 'ivansherbs.myshopify.com',
+    storefrontAccessToken: '1cb388a2e9f947c0c6d44c4a6d641feb'
+});
+var ui = ShopifyBuy.UI.init(client);
+
+// collections
+var collectionContainers = document.getElementsByClassName('shopify-collection');
+for (var container of collectionContainers) {
+    var collectionId = container.dataset.collection;
+    if (!collectionId) {
+        continue;
+    }
+
+    var language = container.dataset.language || 'EN';
+    var buttonDestination = container.dataset.buttondestination || 'cart';
+    var buttonText = container.dataset.buttontext;
+
+    var options = {
+        product: {
+            buttonDestination: buttonDestination
+        }
+    };
+
+    options = addTranslations(language, options);
+
+    if (buttonText) {
+        options.product.text = options.product.text || {};
+        options.product.text.button = buttonText;
+    }
+
+    ui.createComponent('collection', {
+        id: collectionId,
+        node: container,
+        options: options
     });
-    var ui = ShopifyBuy.UI.init(client);
+}
 
-    // collections
-    var collectionContainers = document.getElementsByClassName('shopify-collection');
-    for (var container of collectionContainers) {
-        var collectionId = container.dataset.collection;
-        if (!collectionId) {
-            continue;
-        }
-
-        var language = container.dataset.language || 'EN';
-        var buttonDestination = container.dataset.buttondestination || 'cart';
-        var buttonText = container.dataset.buttontext;
-
-        var options = {
-            product: {
-                buttonDestination: buttonDestination
-            },
-            cart: {
-                events: {
-                    updateItemQuantity: function(cart) {
-                        debugger;
-                    }
-                }
-            }
-        };
-
-        options = addTranslations(language, options);
-
-        if (buttonText) {
-            options.product.text = options.product.text || {};
-            options.product.text.button = buttonText;
-        }
-
-        ui.createComponent('collection', {
-            id: collectionId,
-            node: container,
-            options: options
-        });
+// products
+var productContainers = document.getElementsByClassName('shopify-product');
+for (var container of productContainers) {
+    var productId = container.dataset.product;
+    if (!productId) {
+        continue;
     }
 
-    // products
-    var productContainers = document.getElementsByClassName('shopify-product');
-    for (var container of productContainers) {
-        var productId = container.dataset.product;
-        if (!productId) {
-            continue;
+    var language = container.dataset.language || 'EN';
+    var buttonDestination = container.dataset.buttondestination || 'cart';
+    var buttonText = container.dataset.buttontext;
+
+    var options = {
+        product: {
+            buttonDestination: buttonDestination
         }
+    };
 
-        var language = container.dataset.language || 'EN';
-        var buttonDestination = container.dataset.buttondestination || 'cart';
-        var buttonText = container.dataset.buttontext;
+    options = addTranslations(language, options);
 
-        var options = {
-            product: {
-                buttonDestination: buttonDestination
-            }
-        };
-
-        options = addTranslations(language, options);
-
-        if (buttonText) {
-            options.product.text = options.product.text || {};
-            options.product.text.button = buttonText;
-        }
-
-        ui.createComponent('product', {
-            id: productId,
-            node: container,
-            options: options
-        });
+    if (buttonText) {
+        options.product.text = options.product.text || {};
+        options.product.text.button = buttonText;
     }
+
+    ui.createComponent('product', {
+        id: productId,
+        node: container,
+        options: options
+    });
+}
 </script>
