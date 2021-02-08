@@ -9,7 +9,8 @@
     "markdown-it-anchor": "^7.0.0",
     "markdown-it-link-attributes": "^3.0.0",
     "markdown-it-replace-it": "^1.0.0",
-    "markdown-it-table-of-contents": "^0.5.1"
+    "markdown-it-table-of-contents": "^0.5.1",
+    "yaml": "^1.10.0"
   },
   "devDependencies": {
     "eslint": "^7.17.0"

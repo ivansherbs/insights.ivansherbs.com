@@ -1,6 +1,7 @@
-let fs = require('fs');
-let process = require('process');
+const fs = require('fs');
+const process = require('process');
 
+const I18N = require('../content/_data/i18n');
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addLiquidTag('resourceDomain', function() {
@@ -24,5 +25,11 @@ module.exports = function(eleventyConfig) {
         }
 
         return `<div class="blog-img"><img src="${arguments[0]}"></div>`;
+    });
+
+    eleventyConfig.addPairedShortcode('i18n', function(defaultText, key, forceLanguage) {
+        var pageLocationLanguage = (this.page.filePathStem.match(/^\/([a-zA-Z]{2})\//) || [])[1];
+        var language = (forceLanguage || pageLocationLanguage || 'EN').toUpperCase();
+        return (I18N[key] || {})[language] || defaultText || `? I18N:${key}:${language} ?`;
     });
 };

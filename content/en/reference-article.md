@@ -52,6 +52,97 @@ This information is visible for the user on the article page.
 * `publish.author` - the author of the article. If not provided, `Ivan's Insights` will be used as default.
 * `publish.date` - the date when this article was published. You can use any string/format you want as no validation is performed. If not provided, the date is not visible on the article page.
 
+# Page Language
+
+In order to support multiple languages overall on this we:
+
+## Translations
+
+All the translations needed should be present in the `content/_data/i18n.yml` file. This has the following structure:
+
+```
+---
+my_key:
+  EN: This is the English text
+  NL: Dit is de Nederlandse tekst
+tags:
+  EN: Tags
+  NL: Trefwoorden
+```
+
+## Default language
+
+The page default language is detemned in based on the path of the page (without considering the custom page URL). For example, if a page is located under `content/nl/`, the language will be `NL`, if no other value is defined in the front matter data of the page or any of its parent layouts.
+
+## Using translations on pages
+
+In order to use translations on pages, the following liquid custom tag need to be used at every location where a translated/translatable label is needed:
+
+```
+{% i18n '<key>' '<language>' %}<default_text>{% endi18n %}
+```
+
+where:
+
+* `<key>` is the translation key defined in the `i18n.yml` file
+* `<language> is the language in which you need the translation`
+* `<default_text>` is the text that will appear if no value is defined for the `<key>` in that `<language>`
+
+## Examples
+
+### Example 1 - One label translation
+
+```
+{{'{'}}% i18n 'tags' 'NL' %}Tags{{'{'}}% endi18n %}
+```
+
+generates:
+
+{% i18n 'tags' 'NL' %}Tags{% endi18n %}
+
+### Example 2 - Page-defined language
+
+```
+---
+language: NL
+---
+{{'{'}}% i18n 'tags' language  %}Tags{{'{'}}% endi18n %}
+{{'{'}}% i18n 'share' language %}Share{{'{'}}% endi18n %}
+```
+
+generates:
+
+{% i18n 'tags' 'NL' %}Tags{% endi18n %}<br/>
+{% i18n 'share' 'NL' %}Tags{% endi18n %}
+
+### Example 3 - Language based on page location
+
+If this page is defined at location `content/nl/example-page.md`, the following code snippet:
+
+```
+{{'{'}}% i18n 'tags' %}Tags{{'{'}}% endi18n %}
+```
+
+generates:
+
+{% i18n 'tags' 'NL' %}Tags{% endi18n %}<br/>
+
+because the `/nl/` was detected as the first segment in the path after `content`.
+
+### Example 4 - Missing translation
+
+Assuming this code snippet is used on a page **not defined** under a `content` directory (like `en`, `nl`):
+
+```
+{{'{'}}% i18n 'dummy' `NL` %}{{'{'}}% endi18n %}
+```
+
+generates:
+
+{% i18n 'dummy' 'NL' %}{% endi18n %}<br/>
+
+as the `dummy` key is missing fot the `NL` translation and no `<default_text>` was provide in between the `{% i18n %}` and `{% endi18n %}` tags.
+
 # Custom Markdown
 
 ## Contentful images
