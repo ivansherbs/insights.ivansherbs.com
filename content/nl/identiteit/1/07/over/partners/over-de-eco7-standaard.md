@@ -17,7 +17,6 @@ banner:
 **Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka.** <br>
 _Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn. Wij ondersteunen hiermee de volgende aspecten die de samenwerking met zich mee brengt._
 
-
 [[contentfulImage 7yWGJa0IjVBd98c2hILzrw]]
 
 ### Community building
@@ -26,7 +25,7 @@ Graag ondersteunen wij deze unieke denkwijze waar mensen, natuur en dieren centr
 
 [[contentfulImage 33upUsF4sWTXTvV1IHVNRb]]
 
-Door onze Eco7 Standaard te volgen zijn onze producten tevens:
+Door onze **Eco7 Standaard** te volgen zijn onze producten tevens:
 - Vrij van ontbossing
 
 [[contentfulImage 5wAgIjT0YESBBdOVYAT9Rj]]
@@ -43,6 +42,8 @@ Het Siberische landklimaat heeft een grote invloed op de 7 voordelen te vinden i
 
 De kruiden uit deze omgeving hebben zich op een andere manier ontwikkeld dan elders op de wereld. Vanuit ecologisch perspectief doet vermoeden dat de werkzame stoffen een gevolg zijn van het extreme klimaat, in combinatie met de vruchtbare gronden langs de rivieren.
 
-De allerlaatste kwaliteitscontrole vindt plaats middels een officieuse thee ceremonie. De smaakbeleving staat hierbij centraal.
+De allerlaatste kwaliteitscontrole vindt plaats middels een officieuse thee ceremonie. De smaakbeleving staat hierbij centraal. 
+
+Geniet van het moment. 
 
 [[contentfulImage Nxks3KWngMqEF7JcGIEL4]]
