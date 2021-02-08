@@ -10,8 +10,7 @@ tags:
 - natuur
 meta-description: Om het mileu te beschermen en de kwaliteit van ons product te kunnen waarborgen, zet onze Eco7 Standaard de norm... Lees snel meer over onze Eco7 Standaard. 
 meta-tags: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7 standaard, ontbossingen
-banner:
-  url: https://images.ctfassets.net/lyvtxhzy9zgr/6WCbol2zIYPBmUdXxJRGns/56bb2c12dedf933340e1b5b6ad834f72/production-proces-herbs-dying.png?fm=jpg&q=30
+banner:[[contentfulImage 6WCbol2zIYPBmUdXxJRGns]]
 ---
 
 **Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka.** <br>
