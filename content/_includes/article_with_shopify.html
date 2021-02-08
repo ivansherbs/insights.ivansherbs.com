@@ -13,21 +13,21 @@ layout: article.html
 var I18N = {
     NL: {
         product: {
-            button: 'In winkelwagen',
-            outOfStock: 'Uitverkocht',
-            unavailable: 'Niet beschikbaar'
+            button: '{% i18n "shopify.product.button" "NL" %}{% endi18n %}',
+            outOfStock: '{% i18n "shopify.product.outOfStock" "NL" %}{% endi18n %}',
+            unavailable: '{% i18n "shopify.product.unavailable" "NL" %}{% endi18n %}'
         },
         cart: {
-            title: 'Winkelwagen',
-            empty: 'Uw winkelwagen is leeg.',
-            button: 'Afrekenen',
-            total: 'Subtotaal',
-            currency: 'EUR',
-            notice: 'Verzendkosten en kortingscodes worden toegevoegd bij het afrekenen.',
-            noteDescription: 'Opmerkingen'
+            title: '{% i18n "shopify.cart.title" "NL" %}{% endi18n %}',
+            empty: '{% i18n "shopify.cart.empty" "NL" %}{% endi18n %}',
+            button: '{% i18n "shopify.cart.button" "NL" %}{% endi18n %}',
+            total: '{% i18n "shopify.cart.total" "NL" %}{% endi18n %}',
+            currency: '{% i18n "shopify.cart.currency" "NL" %}{% endi18n %}',
+            notice: '{% i18n "shopify.cart.notice" "NL" %}{% endi18n %}',
+            noteDescription: '{% i18n "shopify.cart.noteDescription" "NL" %}{% endi18n %}'
         },
         modalProduct: {
-            button: 'In winkelwagen'
+            button: '{% i18n "shopify.modalProduct.button" "NL" %}{% endi18n %}'
         }
     }
 };

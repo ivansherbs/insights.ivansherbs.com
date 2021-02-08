@@ -1,4 +1,5 @@
 ---
+# Generic content
 by:
   EN: by
   NL: door
@@ -8,3 +9,27 @@ share:
 tags:
   EN: Tags
   NL: Trefwoorden
+
+# Shopify integrations
+shopify.product.button:
+  NL: In winkelwagen
+shopify.product.outOfStock:
+  NL: Uitverkocht
+shopify.product.unavailable:
+  NL: Niet op voorraad
+shopify.cart.title:
+  NL: Winkelwagen
+shopify.cart.empty:
+  NL: Uw winkelwagen is leeg.
+shopify.cart.button:
+  NL: Afrekenen
+shopify.cart.total:
+  NL: Subtotaal
+shopify.cart.currency:
+  NL: EUR
+shopify.cart.notice:
+  NL: Verzendkosten en kortingscodes worden toegevoegd bij het afrekenen.
+shopify.cart.noteDescription:
+  NL: Opmerkingen
+shopify.modalProduct.button:
+  NL: In winkelwagen
