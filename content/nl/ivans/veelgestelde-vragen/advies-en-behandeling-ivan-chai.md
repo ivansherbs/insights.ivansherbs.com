@@ -1,9 +1,13 @@
+[[contentfulImage Nxks3KWngMqEF7JcGIEL4]]
+
 ### Advies Ivan Chai
 
 Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie.
 
 * ter voorkoming van problemen
 * ter behandeling van problemen
+* als levenselixer 
+* of gewoon ter ontspanning omdat het lekker is. 
 
 ### Veelgestelde vragen
 
