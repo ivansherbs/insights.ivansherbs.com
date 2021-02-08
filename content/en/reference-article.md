@@ -134,7 +134,7 @@ because the `/nl/` was detected as the first segment in the path after `content`
 Assuming this code snippet is used on a page **not defined** under a `content` directory (like `en`, `nl`):
 
 ```
-{{'{'}}% i18n 'dummy' `NL` %}{{'{'}}% endi18n %}
+{{'{'}}% i18n 'dummy' 'NL' %}{{'{'}}% endi18n %}
 ```
 
 generates:
