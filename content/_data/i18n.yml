@@ -9,6 +9,9 @@ share:
 tags:
   EN: Tags
   NL: Trefwoorden
+ benefits:
+  EN: Benefits
+  NL: Voordelen
 
 # Shopify integrations
 shopify.product.button:
