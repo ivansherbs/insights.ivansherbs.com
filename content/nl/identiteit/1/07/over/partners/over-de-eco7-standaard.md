@@ -24,7 +24,7 @@ Graag ondersteunen wij deze unieke denkwijze waar mensen, natuur en dieren centr
 [[contentfulImage 1odkh3aKoDuuAcFaShilid]]
 
 Door onze Eco7 Standaard te volgen zijn onze producten tevens:
-- Vrij van ontbossingen
+- Vrij van ontbossing
 
 [[contentfulImage 5wAgIjT0YESBBdOVYAT9Rj]]
 
