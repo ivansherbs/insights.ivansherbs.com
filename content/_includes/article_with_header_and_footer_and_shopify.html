@@ -1,6 +1,10 @@
 ---
 layout: article_with_shopify.html
 ---
-{% articleFragment fragments.header %}
+{% if fragments.header %}
+  {% articleFragment fragments.header %}
+{% endif %}
 {{ content }}
-{% articleFragment fragments.footer %}
+{% if fragments.footer %}
+  {% articleFragment fragments.footer %}
+{% endif %}

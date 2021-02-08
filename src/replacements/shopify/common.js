@@ -29,11 +29,11 @@ module.exports = function(displayType) {
         return () => '';
     }
 
-    return function (s, frontMatter) {
+    return function (markdownText, frontMatter) {
         var completePattern = markdownPatterns[displayType];
 
         // no match, no fun
-        var match = s.match(completePattern);
+        var match = markdownText.match(completePattern);
         if (!match) {
             return '';
         }
