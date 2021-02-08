@@ -156,7 +156,13 @@ Wanneer de kruiden zijn geplukt gaat er een natuurlijk fermentatieproces overhee
 
 Om deze manier van werken hou vast te geven is de Eco7 Standaard in het leven geroepen:
 
-[[contentfulImage 1odkh3aKoDuuAcFaShilid]]
+- Kruiden groeien in de wildernis
+- Kruiden staan in bloei wanneer geplukt
+- Kruiden zijn vrij van chemicaliën
+- Kruiden zijn met de hand geplukt
+- Duurzaam productieproces
+- Geen aroma’s toegevoegd
+- Vrij van dierenleed
     
 Door onze Eco7 Standaard te volgen zijn onze producten tevens:
 - Vrij van ontbossing
