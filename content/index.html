@@ -1,23 +1,39 @@
 ---
-layout: article.html
+layout: collection.html
 title: All Articles
 ---
-<html>
-    <head>
-    </head>
-    <body>
-        {%- assign sortedTags = collections | sorted_lowercase_keys -%}
-        {%- for tag in sortedTags -%}
-          {% if tag != 'all' %}
-            <h2>{{ tag | title_case }}</h2>
-            <ul>
-            {%- for article in collections[tag] -%}
-                <li>
-                    <a href="{{ article.url }}">{{ article.data.title }}</a>
-                </li>
-            {%- endfor -%}
-            </ul>
-          {% endif %}
-        {%- endfor -%}
-    </body>
-</html>
+{%- assign sortedTags = collections | sorted_lowercase_keys -%}
+{%- for tag in sortedTags -%}
+  {% if tag != 'all' %}
+    <div class="row">
+        <div class="col-md-12 col-lg-12">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>{{ tag | title_case: 'NL' }}</h2>
+                </div>
+                {%- for article in collections[tag] -%}
+                <div class="col-md-4">
+                    <div class="blog-box">
+                        <div class="blog-img">
+                            <a href="{{ article.url }}"><img src="https://via.placeholder.com/551x325" class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="blog-details">
+                            <div class="space-15"></div>
+                            <h3><a href="{{ article.url }}">{{ article.data.title }}</a></h3>
+                            <div class="space-15"></div>
+                            <p>{{ article.data.meta-description }}</p>
+                            <div class="space-15"></div>
+                            <ul class="news-meta">
+                                <li><span class="lnr lnr-user"></span> By Admin</li>
+                                <li><span class="lnr lnr-clock"></span> Feb 26, 2018</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+    {%- endfor -%}
+            </div>
+        </div>
+    </div>
+    <div class="space-50"></div>
+  {% endif %}
+{%- endfor -%}
