@@ -1,5 +1,14 @@
 module.exports = function(eleventyConfig) {
 
+    // TODO add when 11ty v1.0 is released with the addGlobalData feature
+    //// ******************
+    //// Custom global data
+    //// ******************
+    //
+    //eleventyConfig.addGlobalData('env', {
+    //    RESOURCE_BASE_URL: process.env.RESOURCE_BASE_URL
+    //});
+
     // ******************
     // custom liquid tags
     // ******************

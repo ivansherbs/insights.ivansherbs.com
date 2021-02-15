@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 function generate_redirects {
   echo '# Content custom URLs' > _site/_redirects
 
@@ -37,6 +39,17 @@ function collect_contentful_images {
   cat content/_data/generated/contentful/images.json | grep "https"
 }
 
+function pre_render_fragments {
+  echo "IVAN: Copying _data directory to fragment directory ..."
+  cp -r content/_data content/nl/fragments/
+
+  echo "IVAN: Pre-processing template fragments ..."
+  npx eleventy --input content/nl/fragments --output _site/nl/fragments
+
+  echo "IVAN: Removing _data directory from fragment directory ..."
+  rm -r content/nl/fragments/_data
+}
+
 function main {
   # page images
   echo "IVAN: Collecting Contentful images ..."
@@ -47,12 +60,16 @@ function main {
     return 1
   fi
 
-  # templates pre-rendering
+  # template pre-rendering
   echo "IVAN: Pre-processing template fragments ..."
-  npx eleventy --input content/nl/ivans/veelgestelde-vragen --output _site/nl/ivans/veelgestelde-vragen
-  npx eleventy --input content/nl/ivans/voordelen --output _site/nl/ivans/voordelen
+  pre_render_fragments
+  if [ $? -gt 0 ]
+  then
+    >&2 echo "IVAN: Failed to pre-render template fragments"
+    return 2
+  fi
 
-  # templates rendering
+  # template rendering
   echo "IVAN: Processing templates ..."
   npx eleventy
 

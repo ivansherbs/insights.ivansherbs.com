@@ -14,8 +14,8 @@ tags:
 meta-description: Wat hebben diarree, antibiotica en een blaasontsteking gemeen? Lees het nu in het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW. 
 meta-tags: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip, antibiotica, blaasontsteking
 fragments:
-  header: nl/ivans/voordelen/7-verzorgt-het-spijsverteringsstelsel
-  footer: nl/ivans/veelgestelde-vragen/buikgriep
+  header: nl/fragments/voordelen/7-verzorgt-het-spijsverteringsstelsel
+  footer: nl/fragments/faq/buikgriep
 banner:
   url: https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
   effect:

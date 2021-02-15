@@ -14,8 +14,8 @@ tags:
 meta-description: Hou jij ook van een paar glazen alcohol? Allemaal op één avond? Lees dan even heel snel de brief van Ivan over overmatig alcohol gebruik.
 meta-tags: keelontsteking, keelontsteking symptomen, keelpijn bij slikken, symptomen keelontsteking, ontstoken keel, droge keel, alcohol, droge mond en keel
 fragments:
-  header: nl/ivans/voordelen/2-krachtige-ontstekingsremmer
-  footer: nl/ivans/veelgestelde-vragen/keelontsteking
+  header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
+  footer: nl/fragments/faq/keelontsteking
 banner:
   url: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
   effect: 
