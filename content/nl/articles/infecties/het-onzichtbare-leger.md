@@ -9,7 +9,7 @@ publish:
 tags:
 - weerstand
 - vrouw
-- infecties
+- infectie
 - gevoel
 - relatie
 meta-description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmel?

@@ -1,0 +1,23 @@
+---
+layout: article.html
+title: All Articles
+---
+<html>
+    <head>
+    </head>
+    <body>
+        {%- assign sortedTags = collections | sorted_lowercase_keys -%}
+        {%- for tag in sortedTags -%}
+          {% if tag != 'all' %}
+            <h2>{{ tag | title_case }}</h2>
+            <ul>
+            {%- for article in collections[tag] -%}
+                <li>
+                    <a href="{{ article.url }}">{{ article.data.title }}</a>
+                </li>
+            {%- endfor -%}
+            </ul>
+          {% endif %}
+        {%- endfor -%}
+    </body>
+</html>
