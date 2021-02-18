@@ -47,7 +47,7 @@ Gelukkig voor ons geldt dit voor oma's overal ter wereld. Het fijne is dat je er
 
 Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in Siberië vanwege 7 voordelen. Goed voor lichaam en geest. 
 
-[[contentfulImage 2gjpo5VPHlB4zfJ2E8Tq5 fm=jpg q=50 effect: o-lg-60d-black]]
+[[contentfulImage 2gjpo5VPHlB4zfJ2E8Tq5]]
 
 ## Benieuwd naar de 7 voordelen?
 
@@ -55,7 +55,7 @@ Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Ch
 
 In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed onderzocht. Te beginnen bij het eerste voordeel.  
 
-[[contentfulImage gJlMzDkpnHCVrqBwnpQLa fm=jpg q=50 effect: o-lg-60d-black]]
+[[contentfulImage gJlMzDkpnHCVrqBwnpQLa]]
 
 ### 1. Versterkt de weerstand
 
