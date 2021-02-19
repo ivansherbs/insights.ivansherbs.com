@@ -27,20 +27,18 @@ contentful:
 shopify:
   language: NL
 ---
-Het European Medicines Agency gevestigd in Amsterdam heeft de geneeskrachtigewerking van Ivan Chai tegen verschillende prostaatklachten bevestigd:
+### Effectiviteit
+
+Het European Medicines Agency gevestigd in Amsterdam heeft Ivan Chai als behandeling goedgekeurd voor de verlichting van symptomen die verband houden met een:
 * Prostaatontsteking
 * Vergrote prostaat (BPH)
 
-Bijkomend voordeel voor de prostaat: 
+Bijkomend voordeel: 
 * Ivan Chai versterkt de de anti-tumoractiviteit.
 
 Tot op heden zijn er meerdere onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
 
 Mooi bijkomend voordeel. Ivan Chai werkt goed tegen een blaasontsteking (ook bij vrouwen).
-
-### Effectiviteit
-
-Ivan Chai is als behandeling goedgekeurd voor de verlichting van symptomen die verband houden met een vergrote prostaat (bph) en prostaatontsteking.
 
 ### Dosering
 
@@ -62,7 +60,7 @@ Interacties (wisselwerking met andere medicijnen) zijn gedurende klinische onder
 
 **Ivan's Herbs biedt een 100% tevredenheidsgarantie. Vragen? Wij zijn online goed te bereiken. Wacht niet langer en bestel uw product.**
 
-Goed om te weten bij het uitzoeken van uw producten. De basis van al onze geneeskrachtige Siberische kruidentheeën is Ivan Chai vanwege de geneeskrachtige werking.
+Goed om te weten bij het uitzoeken van uw producten. De basis van al onze Siberische kruidentheeën is Ivan Chai vanwege de geneeskrachtige werking.
 
 [[shopifyCollection 235543658662 buttonDestination=modal]]
 
