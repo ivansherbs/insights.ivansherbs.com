@@ -31,7 +31,7 @@ Het European Medicines Agency gevestigd in Amsterdam heeft de geneeskrachtigewer
 * Prostaatontsteking
 * Vergrote prostaat (BPH)
 
-Bijkomend voordeel: 
+Bijkomend voordeel voor de prostaat: 
 * Ivan Chai versterkt de de anti-tumoractiviteit.
 
 Tot op heden zijn er meerdere onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.
