@@ -6,7 +6,7 @@ type: artikel
 category: Ivan Chai
 publish:
   author: Ivan Alexandrovitj
-  date: 17.01.2021
+  date: 31.03.2021
 tags:
 - prostaat
 - urinewegen
@@ -38,21 +38,26 @@ Tot op heden zijn er meerdere onderzoeken gedaan naar menselijke prostaatkankerc
 
 Mooi bijkomend voordeel. Ivan Chai werkt goed tegen een blaasontsteking (ook bij vrouwen).
 
-**Effectiviteit**
+### Effectiviteit
+
 Ivan Chai is als behandeling goedgekeurd voor de verlichting van symptomen die verband houden met een vergrote prostaat (bph) en prostaatontsteking.
 
-**Dosering**
+### Dosering
+
 Het European Medicines Agency raadt tweemaal daags 1.5 - 2 gram Siberische kruidenthee aan.
 
-**Veiligheid**
+### Veiligheid
+
 Vanwege het meer dan 30 jaar veelvuldig traditionele medicinale gebruik van epilobium angustifolium kan het drinken van Ivan Chai als veilig worden beschouwd.
 
-**Bijwerkingen**
+### Bijwerkingen
+
 Er zijn tot op heden geen ongewenste of ernstige bijwerkingen en sterfgevallen van Ivan Chai gemeld.
 
 Ter info: Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
 
-**Interacties**
+### Interacties
+
 Interacties (wisselwerking met andere medicijnen) zijn gedurende klinische onderzoeken of casestudy's tot nu toe niet gemeld.
 
 **Ivan's Herbs biedt een 100% tevredenheidsgarantie. Vragen? Wij zijn online goed te bereiken. Wacht niet langer en bestel uw product.**
@@ -60,3 +65,11 @@ Interacties (wisselwerking met andere medicijnen) zijn gedurende klinische onder
 Goed om te weten bij het uitzoeken van uw producten. De basis van al onze geneeskrachtige Siberische kruidentheeën is Ivan Chai vanwege de geneeskrachtige werking.
 
 [[shopifyCollection 235543658662 buttonDestination=modal]]
+
+Al onze kruiden zijn geselecteerd volgens Eco7 Standaard.
+
+[[contentfulImage 33upUsF4sWTXTvV1IHVNRb]]
+
+Door onze Eco7 Standaard te volgen zijn onze producten tevens:
+
+* Vrij van ontbossing
