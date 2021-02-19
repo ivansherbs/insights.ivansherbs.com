@@ -5,7 +5,7 @@ url: /nl/ivan-chai-prostaat
 type: artikel
 category: Ivan Chai
 publish:
-  author: Ivanka Lopukhina
+  author: Ivan Alexandrovitj
   date: 17.01.2021
 tags:
 - prostaat
