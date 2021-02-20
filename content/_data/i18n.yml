@@ -12,6 +12,10 @@ tags:
 benefits:
   EN: Benefits
   NL: Voordelen
+home:
+  EN: Home
+  NL: Startpagina
+  
 
 # Shopify integrations
 shopify.product.button:
