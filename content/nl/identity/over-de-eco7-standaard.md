@@ -20,13 +20,11 @@ contentful:
 shopify:
   language: NL
 ---
+### Community building
 
-**Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka.** <br>
-_Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn. Wij ondersteunen hiermee de volgende aspecten die de samenwerking met zich mee brengt._
+Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka. Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn. Wij ondersteunen hiermee de volgende aspecten die de samenwerking met zich mee brengt.
 
 [[contentfulImage 7yWGJa0IjVBd98c2hILzrw]]
-
-### Community building
 
 Graag ondersteunen wij deze unieke denkwijze waar mensen, natuur en dieren centraal staan. Deze unieke levensstijl richt zich op duurzaam gebruik van de omgeving. Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, zetten onderstaande normen onze **Eco7 Standaard**.
 
