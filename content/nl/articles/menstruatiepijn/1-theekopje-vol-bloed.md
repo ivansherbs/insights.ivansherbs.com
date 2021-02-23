@@ -187,7 +187,7 @@ Hiernaast kun je bij deze heftige en terugkerende baarmoederontstekingen zelfs o
 
 ### Ben jij op zoek naar?
 
-Een eenvoudig en biologisch alledaags product
+Een veilig product zonder bijwerkingen, rechtstreeks uit de natuur...
 
 * om je menstruatiepijn te verlichten?
 * met ontstekingsremmende werking? 
