@@ -37,13 +37,13 @@ Door onze **Eco7 Standaard** te volgen zijn onze producten tevens:
 
 [[contentfulImage 2jv9WqrhsH6aBkcLdoNvBu]]
 
-### Productieproces
+### Duurzaam productieproces
 
 De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo klimaatneutraal mogelijk te houden. Alles wordt dan ook op een traditionele wijze verpakt. Nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka.
     
 [[contentfulImage 5wAgIjT0YESBBdOVYAT9Rj]]
 
-### Klimaat
+### Schoon en gezond klimaat
 
 Het Siberische landklimaat heeft een grote invloed op de 7 voordelen te vinden in Ivan Chai. Wij halen ons product daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden hebben gevormd niet in de weg te staan.
 
