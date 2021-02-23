@@ -49,7 +49,4 @@ Het Siberische landklimaat heeft een grote invloed op de 7 voordelen te vinden i
 
 De kruiden uit deze omgeving hebben zich op een andere manier ontwikkeld dan elders op de wereld. Vanuit ecologisch perspectief doet vermoeden dat de werkzame stoffen een gevolg zijn van het extreme klimaat, in combinatie met de vruchtbare gronden langs de rivieren.
 
-De allerlaatste kwaliteitscontrole vindt plaats middels een officieuse thee ceremonie. De smaakbeleving staat hierbij centraal. 
-
-
 [[contentfulImage Nxks3KWngMqEF7JcGIEL4]]
