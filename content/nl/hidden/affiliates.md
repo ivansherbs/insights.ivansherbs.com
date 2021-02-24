@@ -291,8 +291,8 @@ https://youtu.be/3u3PUcrQ11I
 
 Vergeet overigens vooral niet onze slogan:
 
-“Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer; maar óók gewoon lekker ter ontspanning.”
+_“Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer; maar óók gewoon lekker ter ontspanning.”_
 
-Benieuwd naar de commissiestructuur?
+### Benieuwd naar de commissiestructuur?
 
  
