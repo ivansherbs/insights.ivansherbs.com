@@ -1,13 +1,20 @@
-### Geachte Affiliates,
+---
+layout: article_with_header_and_footer_and_shopify.html
+url: /nl/affiliates
+shopify:
+  language: NL
+  banner:
+  url: https://images.ctfassets.net/lyvtxhzy9zgr/6csVsKRo3aDFZgyA0ojdEV/8292e1d2ef8b74ef5deefbcbfe26faf0/white-logo.png?fm=jpg&q=50
+---
+<--! @ Gabi, can you make this page hidden from customers? !-->
+Geachte Affiliates,
 
 Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs.
 
-Voor ik onze producten introduceer zal ik eerst kort omschrijven wat het DNA is van Ivan’s Herbs en welke denkwijze wij ondersteunen. 
-
-De reden dat wij dit aankaarten is omdat wij het van belang vinden op lange termijn met u te kunnen samenwerken als ambassadeur van ons merk.
+Laten we snel ingaan op het DNA van Ivan’s Herbs en welke denkwijze wij ondersteunen. 
+De reden dat we dit eerst aankaarten is omdat wij het van belang vinden op langere termijn met u te kunnen samenwerken als ambassadeur van ons merk.
 
 Wij richten ons op het promoten van kruiden uit Siberië in de vorm van kruidenthee, etherische oliën, supplementen en kruiden in poedervorm. 
-
 Momenteel zijn wij online actief in Europa, het VK en Noord-Amerika. 
 
 ### Benieuwd naar het DNA van Ivan’s Herbs?
@@ -261,19 +268,19 @@ Door het gebruik van antibiotica kan de darmflora uit balans raken.
 Jazeker. Wij vinden het van belang dat consumenten op een juiste wijze worden geïnformeerd over zowel fysieke als mentale problemen. Om onze doelen na te streven hebben wij daarom een apart deel van onze website speciaal toegewijd aan artikelen over verschillende oorzaken en problemen. 
 
 Om een voorbeeld te noemen. 
-Het artikel “1 theekopje vol bloed” gaat over menstruatiepijn, wat de verschillende kleuren bloed vertellen over de gezondheid van het vrouwelijk lichaam en hoe Ivan Chai kan bijdragen aan het versterken van het lichaam gedurende de periode van de maand; waarin veel vrouwen gebruik maken van medicijnen uit de farmaceutische industrie, zoals de anticonceptiepil.
+Het artikel “1 theekopje vol bloed” gaat over menstruatiepijn, wat de verschillende kleuren bloed vertellen over de gezondheid van het vrouwelijk lichaam en hoe Ivan Chai kan bijdragen aan het versterken van de gezondheid gedurende die periode van de maand; waarin veel vrouwen gebruik maken van medicijnen uit de farmaceutische industrie, zoals de anticonceptiepil.
 
 Deze producten bevatten veel bijwerkingen waardoor dagelijkse bezigheden ernstig kunnen worden verstoord.
-Enkele voorbeelden: hoofdpijn, braken, misselijkheid, versterkt gevoel van angst, zogenaamde ‘moodswings’ en stress
+Enkele voorbeelden: hoofdpijn, braken, misselijkheid, versterkt gevoel van angst, zogenaamde ‘moodswings’ en stress.
 
-Lees deze artikelen en kom erachter “Waarom Ivan Chai?” kan worden gebruikt als overheerlijke kruidenthee als aanvulling op het gebruik van farmaceutische medicijnen. 
+Lees deze artikelen en kom erachter “Waarom Ivan Chai?” kan worden gedronken als aanvulling op het gebruik van farmaceutische medicijnen. 
 
 ### Waar richten wij ons op in de artikelen?
-Ivan’s Herbs probeert de lezer een zo eenvoudig mogelijke uitleg te geven wat er fysiek en dan wel mentaal zich afspeelt in lichaam en geest. In bovenstaand voorbeeld menstruatiepijn in combinatie met de anticonceptiepil.
+Ivan’s Herbs probeert de lezer een zo eenvoudig mogelijke uitleg te geven wat er fysiek en dan wel mentaal zich allemaal afspeelt. 
 
-Hiernaast hebben we bijvoorbeeld ook artikelen gericht op de risicofactoren van prostaatklachten, waarom“Runners high” de kans op een peesontsteking vergroot of waarom een slaapproblemen (insomnia) een gevolg is van stress en je telefoon.
+Wij hebben bijvoorbeeld ook artikelen gericht op de risicofactoren van prostaatklachten, “Runners high” in combinatie met de kans op een peesontsteking of waarom een slaapproblemen (insomnia) een gevolg is van stress en uw telefoon.
 
-Goed om te weten. Onze auteurs richten zich ieder op aparte doelgroepen, vandaar dat de schrijfstijl per artikel kan verschillen, waardoor u zich wellicht meer aangetrokken kan voelen tot bepaalde onderwerpen.
+Goed om te weten. Onze auteurs richten zich ieder op aparte doelgroepen, vandaar dat de schrijfstijl per artikel kan verschillen. Hierdoor voelt u zich wellicht wat meer aangetrokken tot bepaalde onderwerpen.
 
 De website is als volgt.
 
