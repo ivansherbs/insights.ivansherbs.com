@@ -1,5 +1,5 @@
 ### Samenwerkingsverbanden
 
-Bent u een affiliate en op zoek naar een samenwerking met Ivan's Herbs?
+Momenteel is Ivan's Herbs op zoek naar samenwerkings verbanden met affiliates.
 
-Stuur een email naar marketing@ivansherbs.com
+Wilt u bij interesse zo vriendelijk zijn een email te versturen naar marketing@ivansherbs.com?
