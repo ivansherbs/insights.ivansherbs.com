@@ -112,7 +112,7 @@ Sterker nog, wij staan graag open voor samenwerkingen waarbij een “jongere” 
 - Ik vind het belangrijk dat mensen goed worden geïnformeerd over gezondheidsvoordelen in producten.
 - Ik vind het belangrijk dat een merken rekening houden met het milieu.
 - Ik ben op zoek naar een langdurige samenwerking om meerdere producten te promoten.
-- Dus... zitten we nu op 1 lijn?
+- Ik heb op bovenstaande volmondig 'JA' geantwoord.
 
 Dan vraagt u zich waarschijnlijk af.
 
