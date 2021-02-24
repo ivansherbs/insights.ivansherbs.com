@@ -112,8 +112,9 @@ Sterker nog, wij staan graag open voor samenwerkingen waarbij een “jongere” 
 - Ik vind het belangrijk dat mensen goed worden geïnformeerd over gezondheidsvoordelen in producten.
 - Ik vind het belangrijk dat een merken rekening houden met het milieu.
 - Ik ben op zoek naar een langdurige samenwerking om meerdere producten te promoten.
-- 
-Dus... zitten we nu op 1 lijn? Dan vraagt u zich waarschijnlijk af.
+- Dus... zitten we nu op 1 lijn?
+
+Dan vraagt u zich waarschijnlijk af.
 
 ### Hoe ziet een toekomstige samenwerking eruit?
 Wij verkopen onze Ivan Chai in verschillende geschenkdozen (giftsets) met pakketten (packs) die u online kunt bestellen. Om het de consument zo makkelijk mogelijk te maken en mee te nemen in onze ‘customer journey’ willen we graag eerst de starter pack onder de aandacht brengen. 
