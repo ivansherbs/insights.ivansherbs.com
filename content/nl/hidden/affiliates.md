@@ -1,4 +1,4 @@
-Beste Affiliates,
+### Geachte Affiliates,
 
 Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs.
 
