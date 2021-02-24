@@ -111,8 +111,8 @@ En laten we wel wezen...
 Wie houden er nou niet van een overheerlijk kopje thee om even lekker te ontspannen en tot rust te komen?
 
 ### Samenwerken met affiliates met een ‘jongere’ doelgroep, is dat mogelijk?
-Jazeker! Na verloop van tijd verlagen wij langzaam de leeftijdscategorie en hiervoor hoeft u dus niet te wachten op ons.
-Sterker nog, wij staan graag open voor samenwerkingen waarbij een “jongere” doelgroepen wordt getarget. Helemaal wanneer je onderstaande ‘statements’ met een volmondig ‘JA’ kunt beantwoorden:
+Jazeker! Na verloop van tijd verlagen wij langzaam de leeftijdscategorie. Hiervoor hoeft u vooral dus niet op ons te wachten.
+Sterker nog, wij staan graag open voor samenwerkingen waarbij een “jongere” doelgroepen wordt getarget. Helemaal wanneer u onderstaande ‘statements’ met een volmondig ‘JA’ kunt beantwoorden:
 
 - Ik gebruik kruiden om lichaam en geest te versterken.
 - Ik gebruik kruiden als preventieve behandeling tegen gezondheidsproblemen.
@@ -120,7 +120,7 @@ Sterker nog, wij staan graag open voor samenwerkingen waarbij een “jongere” 
 - Ik vind het belangrijk dat mensen goed worden geïnformeerd over gezondheidsvoordelen in producten.
 - Ik vind het belangrijk dat een merken rekening houden met het milieu.
 - Ik ben op zoek naar een langdurige samenwerking om meerdere producten te promoten.
-- Ik heb op bovenstaande volmondig 'JA' geantwoord.
+- Ik heb op bovenstaande ‘statements’ volmondig met 'JA' beantwoord.
 
 Dan vraagt u zich waarschijnlijk af.
 
@@ -303,4 +303,5 @@ _“Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceut
 
 ### Benieuwd naar de commissiestructuur?
 
- 
+
+
