@@ -101,7 +101,7 @@ Goed om te weten. Onze producten met het hoofdbestanddeel Epilobium angustifoliu
 
 Wij richten ons op mensen die zich bewust zijn van de producten die ze op dagelijkse basis consumeren om hun gezondheid te versterken en gezondheidsproblemen preventief te behandelen. Dit zijn mensen uit iedere leeftijdscategorie van de bevolking.
 
-Vanuit strategisch oogpunt hebben wij echter de keuze gemaakt om te starten met het voeren van campagne op via google en social media gericht op volwassenen van 55+. 
+Vanuit strategisch oogpunt hebben wij echter de keuze gemaakt om te starten met het voeren van campagne via verschillende platformen en social media gericht op volwassenen van 55+. 
 In onze campagnes staat het informeren van de gezondheidsvoordelen voor lichaam en geest centraal. Dit doen wij middels de artikelen op insights.ivansherbs.com.
 
 ### Waarom deze doelgroep?
@@ -120,7 +120,8 @@ Sterker nog, wij staan graag open voor samenwerkingen waarbij een “jongere” 
 - Ik vind het belangrijk dat mensen goed worden geïnformeerd over gezondheidsvoordelen in producten.
 - Ik vind het belangrijk dat een merken rekening houden met het milieu.
 - Ik ben op zoek naar een langdurige samenwerking om meerdere producten te promoten.
-- Ik heb op bovenstaande ‘statements’ volmondig met 'JA' beantwoord.
+
+Heeft u bovenstaande ‘statements’ volmondig met 'JA' kunnen beantwoorden?
 
 Dan vraagt u zich waarschijnlijk af.
 
