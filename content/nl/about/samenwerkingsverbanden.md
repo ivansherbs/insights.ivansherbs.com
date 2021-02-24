@@ -11,3 +11,5 @@ shopify:
 Momenteel is Ivan's Herbs op zoek naar samenwerkingen met affiliates.
 
 Wilt u bij interesse zo vriendelijk zijn een email te versturen naar marketing@ivansherbs.com?
+
+[[shopifyCollection 235548934310 buttonDestination=modal]]
