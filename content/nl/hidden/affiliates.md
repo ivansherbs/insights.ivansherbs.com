@@ -5,8 +5,9 @@ shopify:
   language: NL
   banner:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/6csVsKRo3aDFZgyA0ojdEV/8292e1d2ef8b74ef5deefbcbfe26faf0/white-logo.png?fm=jpg&q=50
+@ Gabi, can you make this page hidden from customers?
 ---
-<--! @ Gabi, can you make this page hidden from customers? !-->
+
 Geachte Affiliates,
 
 Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs.
