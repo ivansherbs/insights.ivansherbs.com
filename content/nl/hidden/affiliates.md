@@ -121,7 +121,7 @@ Wij verkopen onze Ivan Chai in verschillende geschenkdozen (giftsets) met pakket
 
 ### Waar bestaat het eerste pakket uit?
 1 Geschenkdoos: Starters pack
-- Design tube: Ivan Chai
+- Design tube: Ivan Chai <br>
 Keuze uit 3 van de 4 value pack:
 - Green Ivan Chai
 - Bergenia Chai
@@ -155,13 +155,13 @@ Hierbij moet je denken aan navul-pakketten (refillers) om uw tube mee te hervull
 ### En verder?
 Jawel, mocht uw verkoop goed gaan. Dan zouden we graag de overstap willen maken naar de verkoop van onze overige producten. Denk hierbij aan:
 
-### Etherische oliën
-- Lavendel Etherische Olie | 10 ml
-- Roomse Kamille Etherische Olie | 10 ml
-- Wierook Etherische Olie | 10 ml
-- Scharlei Etherische Olie | 10 ml
-- Mandarijn Etherische Olie | 10 ml
-- Wilde Marjolein Etherische Olie | 10 ml 
+### Etherische oliën | 10 ml
+- Lavendel Etherische Olie
+- Roomse Kamille Etherische Olie
+- Wierook Etherische Olie
+- Scharlei Etherische Olie
+- Mandarijn Etherische Olie
+- Wilde Marjolein Etherische Olie
 
 Goed om te weten. Wanneer de tijd daar is willen we deze verkoop een ‘boost’ geven middels de verkoop van aroma-diffusers, ofwel luchtbevochtigers.
 
