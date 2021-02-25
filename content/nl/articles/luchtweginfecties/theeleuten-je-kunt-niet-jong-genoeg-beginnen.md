@@ -44,7 +44,7 @@ Dus.
 
 Helemaal gedurende de wintermaanden en wanneer je medicijnen gebruikt. Zo houdt je lichaam en geest zo lang mogelijk gezond. Hetzelfde geldt overigens voor kinderen.
 
-https://drive.google.com/file/d/1ykqyTeBV695Mu7aGAKuA_Bv6bCj4H1Qy/view?usp=sharing
+[[contentfulImage jzBqnonxxAVQmrGfLbOJr]]
 
 **Kinderen hebben ook extra voedingsstoffen nodig.**
 
