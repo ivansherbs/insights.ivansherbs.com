@@ -17,9 +17,10 @@ meta-tags: blaasontsteking, nierbekkenontsteking, blaasontsteking vrouw, urinewe
 fragments:
   header: nl/fragments/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen
   footer: nl/fragments/faq/blaasontsteking
-banner:
-  url: https://drive.google.com/file/d/1YRWPLXLmTC-TnWvOdT1GRBw4Zdwo70s3/view?usp=sharing
-  effect: 
+contentful: yqeQB14oEyeRpNjdqrxRf
+  imageOptions:
+    fm: jpg
+    q: 50 
 ---
 **Voorkom relatieproblemen door het voorkomen van een blaasontsteking.**
 
