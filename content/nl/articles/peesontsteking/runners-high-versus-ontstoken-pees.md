@@ -16,9 +16,10 @@ meta-tags: hardlopen, hardlopers, achillespees, endorfine, endorfines, peesontst
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/peesontsteking
-banner:
-  url: https://drive.google.com/file/d/1hg2o9I5ROHFX7uVd9zz2el6GhpC3zZG9/view?usp=sharing
-  effect: 
+contentful: 5EMwMAfSFCPHtmA9LGWHiN
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks. Het is goed voor de gezondheid van je lichaam en je gemoedstoestand. 
 
