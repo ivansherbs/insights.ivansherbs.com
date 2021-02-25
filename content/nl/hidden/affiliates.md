@@ -7,7 +7,6 @@ shopify:
   url: https://images.ctfassets.net/lyvtxhzy9zgr/6csVsKRo3aDFZgyA0ojdEV/8292e1d2ef8b74ef5deefbcbfe26faf0/white-logo.png?fm=jpg&q=50
 @ Gabi, can you make this page hidden from customers?
 ---
-<p style="text-align: right">_"Versterk dagelijks lichaam en geest met kruiden uit Siberië."_</p>
 
 ### Geachte Affiliate,
 
