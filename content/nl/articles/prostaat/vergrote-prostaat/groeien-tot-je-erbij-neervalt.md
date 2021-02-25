@@ -79,7 +79,7 @@ En je wil er eigenlijk zo snel mogelijk van af. Voor we dieper ingaan op Ivan Ch
 
 Eerst nog even het volgende.
 
-https://drive.google.com/file/d/1NNMBYZTRvfCVLJ9X5NyJC10ILg7r-43v/view?usp=sharing
+[[contentfulImage 2wuZhDmd7i4wxq6bWnqHFh]]
 
 **Voor het belang van het verhaal en de volledigheid** willen we je eerst even kennis laten maken met Maria Treben. 
 
