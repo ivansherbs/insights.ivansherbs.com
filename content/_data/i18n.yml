@@ -15,7 +15,30 @@ benefits:
 home:
   EN: Home
   NL: Startpagina
-  
+products:
+  EN: Products
+  NL: Producten
+our story
+  EN: Our story
+  NL: Ons verhaal
+benefits:
+  EN: Benefits
+  NL: Voordelen
+whole herbs
+  EN: Whole herbs
+  NL: Kruidenthee
+essential oils:
+  EN: Essential oils
+  NL: Etherische oliën
+supplements
+  EN: Supplements
+  NL: Supplementen
+herb powders:
+  EN: Herb Powders
+  NL: Kruiden in poedervorm
+store:
+  EN: Store
+  NL: Winkel
 
 # Shopify integrations
 shopify.product.button:
