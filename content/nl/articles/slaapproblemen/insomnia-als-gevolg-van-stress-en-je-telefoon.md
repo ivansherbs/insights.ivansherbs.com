@@ -60,7 +60,7 @@ Denk hierbij aan de volgende problemen.
 
 **Een overvolle agenda**, het leven op school en daarnaast zijn het ook uitermate sociale wezens die behoefte hebben om zichzelf te ontplooien. Het verschil met vroeger is dat we tegenwoordig een mobiele telefoon hebben. Kinderen hebben hierdoor een extra prikkel die ze letterlijk overal mee naartoe nemen, waardoor ze hun hoofd niet vaak genoeg leeg maken.
 
-https://drive.google.com/file/d/1IhyqqYMdLSB0qnJE0ZUDl28gHBBmLAK-/view?usp=sharing
+[[contentfulImage 3U3LCmWccLvbVpA0twOhEJ]]
 
 ### Kortom
 
