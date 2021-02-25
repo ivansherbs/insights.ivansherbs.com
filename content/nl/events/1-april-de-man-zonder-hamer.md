@@ -71,7 +71,7 @@ Inderdaad. Je gevoel vertelt je dat je wel een lichte keelontsteking moet hebben
 
 Want alsof je géén alcohol meer gaat drinken. ha-ha. Tuurlijk wel. Hier komt de tip. 
 
-https://drive.google.com/file/d/1pdLIhgG_pb-XG23Aepqn0t62hmKupLRe/view?usp=sharing
+[[contentfulImage 6JUxtmQpjSTBeA5dy0TQsM]]
 
 **Drink Ivan Chai.** Voor en ná een avondje uit met mannen. Of lekker met de meiden. Want.
 
