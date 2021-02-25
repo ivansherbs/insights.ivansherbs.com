@@ -15,9 +15,10 @@ meta-tags: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten
 fragments:
   header: nl/fragments/voordelen/5-2-vermindert-de-kans-op-angst
   footer: nl/fragments/faq/angst
-banner:
-  url: https://drive.google.com/file/d/1kK2QSdSh3CrNpuy7ipcW_xpO6oPMTNJ-/view?usp=sharing
-  effect:
+contentful: 5DBGCimPakHZxfe3I4oykk
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 **ANGST** is een emotie die we allen een keer hebben ervaren. 
 
