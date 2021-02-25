@@ -340,6 +340,6 @@ Met vriendelijke groet,
 
 ### Ivan Herbs | Nederland
 
-Korte Noorderweg 27G
-1221 NA Hilversum
+Korte Noorderweg 27G <br>
+1221 NA Hilversum <br>
 collaboration@ivansherbs.com
