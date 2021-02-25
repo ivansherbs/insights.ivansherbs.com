@@ -18,8 +18,10 @@ meta-tags: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblemat
 fragments:
   header: nl/fragments/voordelen/4-verbetert-de-nachtrust
   footer: nl/fragments/faq/slaapproblemen
-banner:
-  url: https://drive.google.com/file/d/1yFlWBPioqckSiKRYtORk_1eATX2ELZO-/view?usp=sharing
+contentful: 48u2gVeJExSmuZRlo25XRI
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af.
 
