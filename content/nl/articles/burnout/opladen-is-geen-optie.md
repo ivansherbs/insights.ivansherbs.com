@@ -16,9 +16,10 @@ meta-tags: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, 
 fragments:
   header: nl/fragments/voordelen/5-3-vermindert-de-kans-op-een-burn-out
   footer: nl/fragments/faq/burnout
-banner:
-  url: https://drive.google.com/file/d/1BPA_-DV3LrkAuKi72q7OJKvckXegFb5s/view?usp=sharing
-  effect:
+contentful: 39T1Y3A7bqbfLgU5XHgYsz
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 
 **Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burnout bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren. 
