@@ -51,7 +51,7 @@ Neurotransmitters hebben ieder hun eigenaardigheden. Zo heeft endorfine de eigen
 
 Een goed voorbeeld hiervan is bijvoorbeeld de zogenaamde ‘runners high’. 
 
-https://drive.google.com/file/d/1w5R0M2jAeJTE_hTzZfldx8fWL59ETzT9/view?usp=sharing
+[[contentfulImage 4CUEXr80q5Zz2g0WsXPC9F]]
 
 **Wie van de hardlopers kent dit gevoel niet?**
 
