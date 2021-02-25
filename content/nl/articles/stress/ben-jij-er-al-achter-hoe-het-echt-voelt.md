@@ -29,7 +29,7 @@ contentful: 5JaWGHcKZcci9DTiL4Z9TJ
 
 **Goed voorbereid.** Zo zou je het kunnen noemen. En je weet je efficiëntie en effectiviteit met de dag weer aan te scherpen. Echter.
 
-https://drive.google.com/file/d/1zpQTg9zieA0FuUcRrxKRggCGvSDR09SJ/view?usp=sharing
+[[contentfulImage 5IBxmnlUG19CJhG0ejG22u]]
 
 **Zonder dat je het door hebt** ben je alleen maar met werk bezig. En waar je geen rekening mee houdt is het gevoel en de symptomen van stress. Dit is ook niet vreemd want het is ook niet van de ene op de andere dag direct voelbaar. 
 
