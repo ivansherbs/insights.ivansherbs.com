@@ -16,9 +16,10 @@ meta-tags: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroo
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/vergrote-prostaat
-banner:
-  url: https://drive.google.com/file/d/1sBXXj9X5weqMuLzgNl1KLs-1857xPFTk/view?usp=sharing
-  effect: 
+contentful: 6xcM2KvlVvivv2iX1GFuem
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 Wist je dat sommige delen van het lichaam niet willen stoppen met groeien?
 
