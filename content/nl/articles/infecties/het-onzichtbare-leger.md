@@ -93,7 +93,7 @@ Ja! Ook mannen kunnen last krijgen van deze onzichtbare legers!
 
 Denk nu maar aan een piemel.
 
-https://drive.google.com/file/d/15MoaWGRG_ZOdjpOo42T89Bb1gwwFvkGl/view?usp=sharing
+[[contentfulImage 5QVSnyIboRVO2CM5nTVJxO]]
 
 Maar ook wanneer je een orale beurt krijgt kunnen de legers zich verplaatsen van strijdveld. Ze macheren er lustig op los.
 
