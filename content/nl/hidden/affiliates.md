@@ -9,7 +9,7 @@ shopify:
 ---
 <p style="text-align: right">_"Versterk dagelijks lichaam en geest met kruiden uit Siberië."_</p>
 
-Geachte Affiliate,
+### Geachte Affiliate,
 
 Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs.
 
