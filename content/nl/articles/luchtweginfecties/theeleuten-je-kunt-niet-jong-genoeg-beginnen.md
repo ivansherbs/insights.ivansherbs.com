@@ -17,9 +17,10 @@ meta-tags: griep, verkoudheid, kinderen, oma, pseudokroep, moeders, luchtweginfe
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/luchtweginfectie
-banner:
-  url: https://drive.google.com/file/d/1ig6IB1WJjuLCHpRBqxlvG4DuMfRFiYVT/view?usp=sharing
-  effect: 
+contentful: SbIjsbRGTjCMMdRCPp1IJ
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 Iedereen heeft wel eens last van een luchtweginfectie. Denk aan een verkoudheid of griep.
 En iedereen weet het.
