@@ -15,9 +15,10 @@ meta-tags: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongest
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/baarmoederontsteking
-banner:
-  url: https://drive.google.com/file/d/12FniJkt0HLlQGTupSiHKVCYpxogwLvk5/view?usp=sharing
-  effect: 
+contentful: 3lidLjItmhwzao6CK8R3HA
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 Wanneer jij ongesteld bent komt er per keer ongeveer 80ml aan bloed uitzetten. En voor de rekenwonders onder ons; dat is toch al gauw 1 theekopje vol bloed per week. 
 
