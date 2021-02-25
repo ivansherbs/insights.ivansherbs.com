@@ -31,7 +31,7 @@ fragments:
 
 **Hedendaags onderzoek** geeft ze dan ook géén ongelijk. Simpel gezegd hebben je hersenen de mogelijkheid om te denken en te onthouden. Dit geeft ze de mogelijkheid de rest van je lichaam aan te sturen. Je hersenen zijn hierdoor het controlecentrum van je lichaam. Ze communiceren met ieder orgaan via je zenuwstelsel. Jij ervaart dit bewust of onbewust. Hetzelfde geldt voor je hart.
 
-https://drive.google.com/file/d/1pL-XQzOhZQ9sA9vYbB-O6g_YYt4eq9uj/view?usp=sharing
+[[contentfulImage 5ihHZTXg9tZx68IVitqXrQ]]
 
 **Het hart** is in bezit van een vergelijkbaar controlecentrum. Mogelijk gemaakt door een zogenaamd intern mini zenuwstelsel waardoor je deze organen vanuit neurologisch perspectief met elkaar kunt vergelijken. 
 
