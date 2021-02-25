@@ -16,9 +16,10 @@ meta-tags: prostaatklachten, prostaatpijn, prostaatontsteking, prostaat vergroot
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/prostaatontsteking
-banner:
-  url: https://drive.google.com/file/d/1fnqaRPxQylzkxCImfJjYqEJTdQe0KBVs/view?usp=sharing
-  effect: 
+contentful: 78JnemnLWoZdd6jZJ8gN61
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 Wanneer je ouder wordt weet je dat dagelijkse bezigheden meer tijd gaan kosten. Als man weet je dat je op latere leeftijd meer kans hebt op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken waarom ik dit probleem graag aankaarten bij mannen. 
 
