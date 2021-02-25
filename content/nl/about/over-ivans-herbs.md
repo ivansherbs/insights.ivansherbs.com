@@ -10,7 +10,7 @@ banner:
   url: https://drive.google.com/file/d/1om-8ue0Oj6DrRGzOVNujjTmcvFztidlU/view?usp=sharing
 ---
 
-Versterk dagelijks je lichaam en geest met kruiden uit Siberië.
+_"Versterk dagelijks lichaam en geest met kruiden uit Siberië."_
 
 Wij geloven in het aanbieden van producten met krachtige impact op de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu. 
 
