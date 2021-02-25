@@ -12,18 +12,17 @@ tags:
 - urinewegen
 - man
 - 45+
-meta-description: Prostaatklachten? Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. 
+meta-description: Prostaatklachten? Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. Benieuwd naar de inzichten?
 meta-tags: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bph, prostaatontsteking, prostaatkanker
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: 
 banner:
-  url: https://images.ctfassets.net/lyvtxhzy9zgr/12pAkMpkrjbU6TARZvxcF4/8292e1d2ef8b74ef5deefbcbfe26faf0/headernr1.png?fm=jpg&q=50
-  effect: o-lg-60d-black
-contentful:
+contentful: 12pAkMpkrjbU6TARZvxcF4
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 shopify:
   language: NL
 ---
