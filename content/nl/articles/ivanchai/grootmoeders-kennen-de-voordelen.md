@@ -23,13 +23,11 @@ meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, ve
 fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
-banner:
-  url: https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?fm=jpg&q=50
-  effect: o-lg-60d-black
-contentful:
+contentful: 2vrE8NyGxDPnLOJ1pX0Bdy
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 shopify:
   language: NL
 ---
