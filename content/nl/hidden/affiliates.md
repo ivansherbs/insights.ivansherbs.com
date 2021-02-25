@@ -320,13 +320,13 @@ _“Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceut
 ### Social media campagnes als ambassadeur?
 Goed om te weten. Mocht de samenwerking bevallen en er voor beide partijen een win-win situatie worden gecreëerd, dan investeren wij graag in uw social media campagnes.
 
-Benieuwd op welke platformen wij momenteel actief zijn?
+### Benieuwd op welke platformen wij momenteel actief zijn?
 
 https://www.paypro.nl/
 
 Ter info: mochten wij overstappen van platform, dan laten wij u dat zo spoedig mogelijk weten.
 
-Heeft u bepaalde ideeën over het promoten van onze kruiden, maar heeft u meer materiaal nodig?
+### Heeft u bepaalde ideeën over het promoten van onze kruiden, maar heeft u meer materiaal nodig?
 
 Wij staan open voor een gesprek: collaboration@ivansherbs.com
 
@@ -338,7 +338,7 @@ Met vriendelijke groet,
 
 [[contentfulImage 4xERvF6aRTWBQwMFipxC3k]]
 
-Ivan Herbs | Nederland
+### Ivan Herbs | Nederland
 
 Korte Noorderweg 27G
 1221 NA Hilversum
