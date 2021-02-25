@@ -105,7 +105,7 @@ Vanuit strategisch oogpunt hebben wij echter de keuze gemaakt om te starten met 
 In onze campagnes staat het informeren van de gezondheidsvoordelen voor lichaam en geest centraal. Dit doen wij middels de artikelen op insights.ivansherbs.com.
 
 ### Waarom deze doelgroep?
-De reden is als volgt. Deze doelgroep wordt ook een dagje ouder en kan producten goed voor lichaam en geest goed gebruiken. Wij vinden het daarom van belang om ons eerst te richten op het informeren van volwassenen van 55+.
+De reden is als volgt. Deze doelgroep wordt ook een dagje ouder en kan producten die het lichaam en geest versterken goed gebruiken. Daarom vinden wij het van belang om ons eerst te richten op het informeren van volwassenen van 55+ over de voordelen van kruiden uit Siberië.
 
 En laten we wel wezen…
 
