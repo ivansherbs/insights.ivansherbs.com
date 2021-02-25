@@ -50,7 +50,7 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 **"Emotieloos."** Waarbij je zelfs je toevlucht probeert te zoeken in series zoals Friends. hahaha. Ja. Ook die personen bestaan. hahah. Je staat op dat moment alleen letterlijk even stil in de tweede versnelling. En dan vraag je jezelf af.
 
-https://drive.google.com/file/d/1xRSR-uCLEo5S5krFPwxqMVBWKyqfmGQM/view?usp=sharing
+[[contentfulImage 1JHuT6XnZZJZoVV3qYrYYl]]
 
 ### Carrière
 
