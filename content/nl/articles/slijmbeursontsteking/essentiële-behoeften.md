@@ -42,7 +42,7 @@ Bij vermijding van de pijn kun je in een neerwaartse spiraal terecht komen waarb
 
 En om het allemaal wat erger te maken. Als gevolg kan dit leiden tot behoud van angst, ongeloof om te bewegen en in sommige gevallen zelfs leiden tot depressie. 
 
-https://drive.google.com/file/d/1jPOulMsS0oHDfTA38R4Pkl5CQJV6c9Ta/view?usp=sharing
+[[contentfulImage 5aUSyN86TPvSluaeHHoxn4]]
 
 ### We moeten vooruit
 
