@@ -16,9 +16,10 @@ meta-tags: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare 
 fragments:
   header: nl/fragments/voordelen/7-verzorgt-het-spijsverteringsstelsel
   footer: nl/fragments/faq/buikgriep
-banner:
-  url: https://drive.google.com/file/d/1mgsWM-6Cl5JUuZyPzbrCW70WErs0_hes/view?usp=sharing
-  effect:
+contentful: flSdkxTJqPovxqWtadqVj
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 Dit is het DAGBOEK van een zeer emotionele, ontdane en onzekere vrouw. En nu zit ze ook nog eens ontzettend hard aan de diarree. 
 
