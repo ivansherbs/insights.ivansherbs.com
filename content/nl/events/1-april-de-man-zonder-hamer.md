@@ -16,9 +16,10 @@ meta-tags: keelontsteking, keelontsteking symptomen, keelpijn bij slikken, sympt
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/keelontsteking
-banner:
-  url: https://drive.google.com/file/d/1_Pv-F0wWbo845gKeq5qSmqaACbVqdigR/view?usp=sharing
-  effect: 
+contentful: 1RkPkuO0uwOeVRXiaZMnYP
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL. En dat allemaal op één avond. Voel je vooral niet aangesproken. We bekijken zometeen namelijk ook nog even de statistieken. HA-HA.
 
