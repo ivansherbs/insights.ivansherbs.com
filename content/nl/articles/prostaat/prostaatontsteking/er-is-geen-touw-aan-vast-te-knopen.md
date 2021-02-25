@@ -54,7 +54,7 @@ Wij willen je naar aanleiding van onze bewering graag nog even het volgende meeg
 
 Ivan chai beschermt de gezondheid van je prostaat. Voor we verder gaan met de inzichten over prostaatklachten. Eerst nog even het volgende.
 
-https://drive.google.com/file/d/1J_WpDp-xx7Q3WOFd4Q0xR2wytcQOp14e/view?usp=sharing
+[[contentfulImage 4jBzDTxhzRWfhXqgvpjqyu]]
 
 **Voor het belang van het verhaal en de volledigheid** willen we je eerst even kennis laten maken met Maria Treben.
 
