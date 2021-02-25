@@ -40,7 +40,7 @@ Wat onderzoek betreft tast de medische wereld nog volop in het duister. Veel baa
 
 Vóór je 50ste is prostaatkanker namelijk zeer zeldzaam. 
 
-https://drive.google.com/file/d/1hqkfTq3sOLZNmO4T40S1gmG6dqMxGoiQ/view?usp=sharing
+[[contentfulImage 41JzaoJn44F7FsaTsJ99LL]]
 
 ### Eenmaal prostaatkanker opgelopen.
 
