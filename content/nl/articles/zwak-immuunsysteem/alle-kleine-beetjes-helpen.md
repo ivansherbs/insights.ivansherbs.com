@@ -17,9 +17,10 @@ meta-tags: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, v
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/zwak-immuunsysteem
-banner:
-  url: https://drive.google.com/file/d/1vWF0DaD9Fd691fcblrq6e9eMu0HpU-uy/view?usp=sharing
-  effect: 
+contentful: 5pgdM9iextTTxvIE7fHNU2
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 **Vandaag begin ik voor de verandering** met het voordragen van een hééél mooi gedicht over kanker.
 
