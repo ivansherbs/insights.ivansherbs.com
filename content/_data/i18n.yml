@@ -39,6 +39,9 @@ herb powders:
 store:
   EN: Store
   NL: Winkel
+currency:
+  EN: $
+  NL: €
 
 # Shopify integrations
 shopify.product.button:
