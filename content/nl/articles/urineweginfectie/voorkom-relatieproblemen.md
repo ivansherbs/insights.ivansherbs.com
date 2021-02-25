@@ -62,7 +62,7 @@ En visa versa! Van onder naar boven! Van links naar rechts! En van top tot teen!
 
 Laten we eerst even een **TOP 7** aan oorzaken van **RELATIEPROBLEMEN** doornemen. Gewoon om even in te komen.
 
-https://drive.google.com/file/d/1H05NjEg8ZDrRS7PkIZ3bMKHhti2Lm2hw/view?usp=sharing
+[[contentfulImage 1ngqrJzkf0sE0a1L3seFdH]]
 
 En dan snap je ook makkelijker waarom een blaasontsteking van invloed is op jullie relatie.
 
