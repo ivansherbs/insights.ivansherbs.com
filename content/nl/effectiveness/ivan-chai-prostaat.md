@@ -66,7 +66,7 @@ Goed om te weten bij het uitzoeken van uw producten. De basis van al onze Siberi
 
 Al onze kruiden zijn geselecteerd volgens Eco7 Standaard.
 
-[[contentfulImage 33upUsF4sWTXTvV1IHVNRb]]
+[[contentfulImage 5iloeRnHPD7jqJDCtEjGJs]]
 
 Door onze Eco7 Standaard te volgen zijn onze producten tevens:
 
