@@ -11,7 +11,7 @@ shopify:
 
 ### Geachte Affiliate,
 
-Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs.
+Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs | Nederland
 
 ### Benieuwd naar het DNA van Ivan’s Herbs?
 De reden dat we dit eerst aankaarten is omdat wij het belangrijk vinden om op lange termijn met u te kunnen samenwerken als ambassadeur van ons merk.
