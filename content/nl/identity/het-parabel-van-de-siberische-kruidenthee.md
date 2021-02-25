@@ -11,8 +11,11 @@ tags:
 meta-description: Ontdek de geschiedenis van Ivan Chai. De traditionele Russische geneeskunde is gericht op het gebruik van geneeskrachtige kruiden. In de 17e eeuw waren het de monniken ter hoogte van de Altaj... Lees het volledige verhaal. 
 meta-tags: geschiedenis, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtige werking, 17e eeuw, rusland, russische revolutie,
 banner:
-  url: https://images.ctfassets.net/lyvtxhzy9zgr/1azw20zjK4vskIM0iFv1OF/ea93975525c6237507a117e9b075ec9b/dry_ivan_chai_with_flowers_1.jpg?q=50&fit=fill&h=700&w=1500
-  effect: o-lg-60d-black
+contentful: 1azw20zjK4vskIM0iFv1OF
+  imageOptions:
+    fm: jpg
+    q: 50
+    effect: o-lg-60d-black
 ---
 
 ## In de 17e eeuw
