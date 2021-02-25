@@ -148,7 +148,7 @@ Groene Ivan Chai bevat een juist frisse bitterzoete en grassige smaak.
 
 Benieuwd geworden naar het effect van een bevalling of spiraaltje? 
 
-https://drive.google.com/file/d/1SffkFIy2pJOTFPZJ7kmGGgUVXFtye6Kq/view?usp=sharing
+[[contentfulImage 295TmPMgvdjoj44lJ6bCl6]]
 
 ### Bevalling versus spiraaltje 
 
