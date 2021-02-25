@@ -15,9 +15,10 @@ meta-tags: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspi
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/slijmbeursontsteking
-banner:
-  url: https://drive.google.com/file/d/1pL4buTF7PVF4ljJ8TdGmKny9CfkaMQXj/view?usp=sharing
-  effect: 
+contentful: sleZsUJOtOiDOZu5jF2MR
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al helemaal met de meest gangbare activiteiten. Activiteiten die je op dagelijkse basis uitvoert.
 
