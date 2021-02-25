@@ -16,9 +16,10 @@ meta-tags: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoe
 fragments:
   header: nl/fragments/voordelen/3-versterkt-de-antioxiderede-werking
   footer: nl/fragments/faq/hart-en-vaatziekten
-banner:
-  url: https://drive.google.com/file/d/1EGI4dADUdThVHrIlyLKuYMyB1_tfPrUV/view?usp=sharing
-  effect:
+  contentful: 2gVNGIp4yhtESqHRBqRuAs
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
 **Het hart** heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. De hedendaagse hartvorm wordt al sinds de middeleeuwen gebruikt om gepassioneerde hartstochtelijke liefdevolle gevoelens naar elkaar toe weer te geven. En met succes.
 
