@@ -91,7 +91,7 @@ We geven je bij deze wat houvast mee zodat ook jij in de TOEKOMST kunt kijken. H
 
 Dit doen we in de vorm van 3 tips.
 
-https://drive.google.com/file/d/1IgCEryUDLbFkXy92lN1XAUkOIVoWBCPY/view?usp=sharing
+[[contentfulImage 3n1lRS8tUtxm1sGkKYMkDz]]
 
 **TIP 1.**
 
