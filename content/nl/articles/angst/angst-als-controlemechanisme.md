@@ -77,7 +77,7 @@ Leuk he deze inzichten over lichtere vormen van angst?
 
 Bovenstaande voorbeelden spelen zich met name af in het bedrijfsleven. 
 
-https://drive.google.com/file/d/1JD-2Ksg7LWQoL-MjR_AHyNDY13LA5zlD/view?usp=sharing
+[[contentfulImage 73j1hBFJlm3IocmdEjXkIk]]
 
 **Angst is een emotie van alle leeftijden.**
 
