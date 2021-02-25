@@ -19,7 +19,7 @@ Wij geloven in het aanbieden van producten met krachtige impact op de gezondheid
 
 Wij richten ons op het promoten van kruiden uit Siberië in de vorm van kruidenthee, etherische oliën, supplementen en kruiden in poedervorm. Momenteel zijn wij online actief in Europa, het VK en Noord-Amerika.
 
-Ons manifest luidt als volgt:
+### Ons manifest luidt als volgt:
 
 Wij geloven in het versterken van onze gezondheidszorg middels traditionele kruidengeneeskunde.
 
