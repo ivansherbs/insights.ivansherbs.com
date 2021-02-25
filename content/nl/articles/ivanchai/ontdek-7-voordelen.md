@@ -218,3 +218,8 @@ Tot slot, klinisch onderzoek heeft zelfs aangetoond dat kleine darmparasieten ku
 
 [[contentfulImage 75dEUbi4QxZUCypPS0Ldkz]]
 > <p style="text-align: right">Na een fermentatieproces van 3 dagen wordt de Ivan Chai op traditionele wijze in zakken gestopt. Deze werkwijze verloopt geheel volgens onze Eco7 Standaard.</p>
+
+### Bent u benieuwd wat Ivan Chai voor u kan betekenen?
+Onderaan deze pagina kunt u ons advies en veelgestelde vragen vinden.
+
+[[shopifyCollection 235510562982 buttonDestination=cart]]
