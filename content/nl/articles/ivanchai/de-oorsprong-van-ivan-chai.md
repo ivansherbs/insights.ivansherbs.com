@@ -24,12 +24,12 @@ contentful: 2HOzwlQheosz5tIAa69mwT
 shopify:
   language: NL
 ---
-De natuur in Siberië is overweldigend. Het wordt gekenmerkt door het Altai gebergte en het Russische Grootlandschap. Een plek op aarde waar de stille kracht van de natuur niet kan worden ontkent. Het immense oppervlakte beslaat het grootste deel van Rusland waardoor de Noordelijke Ijszee en de uitlopers van de Altaj met elkaar zijn verbonden.
+De natuur in Siberië is overweldigend. Het wordt gekenmerkt door het Altai gebergte en het Russische Grootlandschap. Een plek op aarde waar de stille kracht van de natuur niet kan worden ontkent. Het immense oppervlakte beslaat het grootste deel van Rusland waardoor de Noordelijke Ijszee en de uitlopers van de Altai met elkaar zijn verbonden.
 
 [[contentfulImage 7taZpp875UdbncNeuopmAt q=50 w=551 h=325]]
 
-### De Gouden bergen van Altaj
-Eén van de mooiste gebieden in Siberië is het Altaj gebergte. Ze heeft vanwege haar schoonheid en krachtige uitstraling de bijnaam Siberisch Zwitserland verkregen. Het wordt gezien als de belangrijkste bergketens in de westelijk Siberische biogeografische regio. Dit overweldigende gebergte liggende in het hart van Siberië heeft haar plek veroverd op de UNESCO werelderfgoedlijst. Dit paradijselijke deel van Rusland heeft met 4506 meter als hoogst gelegen punt de Belukha. Deze bergtoppen observeren vanaf grote hoogte de op afstand gelegen drassige vlakte wat zich langzaamaan transformeert tot wildernis.
+### De Gouden bergen van Altai
+Eén van de mooiste gebieden in Siberië is het Altai gebergte. Ze heeft vanwege haar schoonheid en krachtige uitstraling de bijnaam Siberisch Zwitserland verkregen. Het wordt gezien als de belangrijkste bergketens in de westelijk Siberische biogeografische regio. Dit overweldigende gebergte liggende in het hart van Siberië heeft haar plek veroverd op de UNESCO werelderfgoedlijst. Dit paradijselijke deel van Rusland heeft met 4506 meter als hoogst gelegen punt de Belukha. Deze bergtoppen observeren vanaf grote hoogte de op afstand gelegen drassige vlakte wat zich langzaamaan transformeert tot wildernis.
 
 [[contentfulImage 5qTAUq9UXsDYKRvbpVShPJ q=50 w=551 h=325]]
 
