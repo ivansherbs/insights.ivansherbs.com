@@ -7,7 +7,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
 * ter voorkoming van problemen
 * ter behandeling van problemen
 * als levenselixer 
-* of gewoon ter ontspanning omdat het lekker is. 
+* maar óók gewoon lekker ter ontspanning.
 
 ### Veelgestelde vragen
 
@@ -68,7 +68,7 @@ Veilig voor kinderen.
 
 ### Tot slot
 
-Ivan’s Herbs biedt producten aan die als veilig, eenvoudig te gebruiken en bewezen effectief door klinisch onderzoek zijn verklaard.
+Ivan’s Herbs biedt veilige producten aan zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief door klinisch onderzoek.
 
 Ivan Chai heeft een geneeskrachtige werking.
 
