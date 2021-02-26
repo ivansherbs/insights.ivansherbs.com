@@ -44,7 +44,7 @@ Vanaf de bergtoppen van de Belukha tot aan de bodem van de rivieren heerst zonde
 [[contentfulImage wGQ1Bz2pYVZn8SDeW23yY q=50 w=551 h=3250]]
 
 ### Wildernis
-Deze wildernis van het boreaal woud wordt met name gedomineerd door bomen. Heel veel bomen. In dit onoverzichtelijke domein houdt met name de welbekende spar en grove den de wacht. Gezien het bijzondere landklimaat is dit woud met name gevuld met bomen afkomstig uit de dennenfamilie. Met name deze familie weet deze pure omstandigheden op wonderbaarlijke wijze goed te weerstaan. Zo nu en dan wordt deze eentonigheid onderbroken door het loofbos. Ook zij heeft haar plekjes heeft weten te bemachtigen. Echter de welbekende natuurlijk selectie is ook voor bomen van kracht.
+Deze wildernis van het boreaal woud wordt met name gedomineerd door bomen. Heel veel bomen. In dit onoverzichtelijke domein houdt met name de welbekende spar en grove den de wacht. Gezien het bijzondere landklimaat is dit woud met name gevuld met bomen afkomstig uit de dennenfamilie. Met name deze familie weet deze pure omstandigheden op wonderbaarlijke wijze goed te weerstaan. Zo nu en dan wordt deze eentonigheid onderbroken door het loofbos. Ook zij heeft haar plekjes heeft weten te bemachtigen. Echter ook voor bomen geldt de welbekende natuurlijke selectie.
 
 [[contentfulImage 2HevNQVa3p0WuYTZn2L7EK q=50 w=551 h=325]]
 
