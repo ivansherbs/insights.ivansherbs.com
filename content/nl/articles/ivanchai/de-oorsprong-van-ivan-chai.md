@@ -12,7 +12,7 @@ tags:
 - natuur
 - duurzaam
 Meta-description: Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. Wij halen onze producten daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden hebben gevormd niet in de weg te staan. Benieuwd naar de inzichten?
-Meta-tags: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, natuur, rusland, bomen, spar, den, tiaga, gezondheid, evolutie, wildernis, Altai 
+Meta-tags: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, natuur, rusland, bomen, spar, den, tiaga, gezondheid, evolutie, wildernis, Altaj 
 fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
@@ -24,12 +24,12 @@ contentful: 2HOzwlQheosz5tIAa69mwT
 shopify:
   language: NL
 ---
-De natuur in Siberië is overweldigend. Het wordt gekenmerkt door het Altai gebergte en het Russische Grootlandschap. Een plek op aarde waar de stille kracht van de natuur niet kan worden ontkent. Het immense oppervlakte beslaat het grootste deel van Rusland waardoor de Noordelijke Ijszee en de uitlopers van de Altai met elkaar zijn verbonden.
+De natuur in Siberië is overweldigend. Het wordt gekenmerkt door het Altaj gebergte en het Russische Grootlandschap. Een plek op aarde waar de stille kracht van de natuur niet kan worden ontkent. Het immense oppervlakte beslaat het grootste deel van Rusland waardoor de Noordelijke Ijszee en de uitlopers van de Altaj met elkaar zijn verbonden.
 
 [[contentfulImage 7taZpp875UdbncNeuopmAt q=50 w=551 h=325]]
 
-### De Gouden bergen van Altai
-Eén van de mooiste gebieden in Siberië is het Altai gebergte. Ze heeft vanwege haar schoonheid en krachtige uitstraling de bijnaam Siberisch Zwitserland verkregen. Het wordt gezien als de belangrijkste bergketens in de westelijk Siberische biogeografische regio. Dit overweldigende gebergte liggende in het hart van Siberië heeft haar plek veroverd op de UNESCO werelderfgoedlijst. Dit paradijselijke deel van Rusland heeft met 4506 meter als hoogst gelegen punt de Belukha. Deze bergtoppen observeren vanaf grote hoogte de op afstand gelegen drassige vlakte wat zich langzaamaan transformeert tot wildernis.
+### De Gouden bergen van Altaj
+Eén van de mooiste gebieden in Siberië is het Altaj gebergte. Ze heeft vanwege haar schoonheid en krachtige uitstraling de bijnaam Siberisch Zwitserland verkregen. Het wordt gezien als de belangrijkste bergketens in de westelijk Siberische biogeografische regio. Dit overweldigende gebergte liggende in het hart van Siberië heeft haar plek veroverd op de UNESCO werelderfgoedlijst. Dit paradijselijke deel van Rusland heeft met 4506 meter als hoogst gelegen punt de Belukha. Deze bergtoppen observeren vanaf grote hoogte de op afstand gelegen drassige vlakte wat zich langzaamaan transformeert tot wildernis.
 
 [[contentfulImage 5qTAUq9UXsDYKRvbpVShPJ q=50 w=551 h=325]]
 
