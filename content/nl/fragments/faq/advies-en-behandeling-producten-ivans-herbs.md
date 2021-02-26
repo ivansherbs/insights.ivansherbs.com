@@ -1,9 +1,11 @@
 ### Advies producten Ivan's Herbs
 
-Gebruik de producten van Ivan’s Herbs als alternatief of aanvulling op medicijnen uit de farmaceutische industrie.
+Gebruik de producten van Ivan’s Herbs als alternatief of aanvulling op medicijnen uit de farmaceutische industrie:
 
 * ter voorkoming van problemen
 * ter behandeling van problemen
+* als levenselixer
+* maar óók gewoon lekker ter ontspanning.
 
 ### Veelgestelde vragen
 
@@ -62,9 +64,9 @@ De veiligheid voor kinderen verschilt per product.
 
 ### Tot slot
 
-Ivan’s Herbs biedt producten aan die als veilig, eenvoudig te gebruiken en bewezen effectief door klinisch onderzoek zijn verklaard.
+Ivan’s Herbs biedt veilige producten aan zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief door klinisch onderzoek.
 
-Goed voorbeeld: 
+Goed voorbeeld ter bevestiging van bovenstaande: 
 
 Het European Medicines Agency gevestigd te Amsterdam heeft de werking van Ivan Chai op de prostaat en urinewegen nogmaals geëvalueerd en bevestigd. Dit met name omdat er langdurig grootschalig klinisch onderzoek aan te pas is gekomen.
 
