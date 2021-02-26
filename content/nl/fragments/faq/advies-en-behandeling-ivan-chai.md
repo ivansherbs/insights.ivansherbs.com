@@ -2,7 +2,7 @@
 
 ### Advies Ivan Chai
 
-Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie.
+Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie:
 
 * ter voorkoming van problemen
 * ter behandeling van problemen
