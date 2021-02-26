@@ -77,7 +77,7 @@ Volgens de traditionele kruidengeneeskunde kunnen de kruiden worden gebruikt om 
 [[contentfulImage 1odkh3aKoDuuAcFaShilid q=50 w=551 h=325]]
 
 ### Schoon en gezond klimaat
-Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. Wij halen onze producten daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden hebben gevormd niet in de weg te staan.
+Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. Wij halen onze producten daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden heeft gevormd niet in de weg te staan.
 
 In andere woorden, dit houdt in dat onze producten vrij zijn van ontbossing.
 
