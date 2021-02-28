@@ -11,8 +11,9 @@ tags:
 - ivan chai
 - natuur
 - duurzaam
+- -eyeopener
 Meta-description: Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. Wij halen onze producten daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden hebben gevormd niet in de weg te staan. Benieuwd naar de inzichten?
-Meta-tags: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, natuur, rusland, bomen, spar, den, tiaga, gezondheid, evolutie, wildernis, Altaj 
+Meta-tags: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, natuur, rusland, bomen, spar, den, tiaga, gezondheid, evolutie, wildernis, Altaj, fireweed, ivan chai, epilobium angustifolium
 fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
@@ -49,8 +50,7 @@ Deze wildernis van het boreaal woud wordt met name gedomineerd door bomen. Heel 
 [[contentfulImage 2HevNQVa3p0WuYTZn2L7EK q=50 w=551 h=325]]
 
 ### Natuurlijke selectie
-De natuur heeft overal rekening mee gehouden. Gedurende de zomermaanden ontwaken er jaarlijks verschillende vuren door de warmte van de hittegolf. Deze snel uitdijende vuurzeeën
-kunnen wel tientallen kilometers groot worden en hebben als doel het creëren van ruimte. Wat de natuur echter over het hoofd heeft gezien is de bemoeienis van de mensheid die door de toenemende mate van klimaatveranderingen ervoor hebben gezorgd dat deze bosbranden sneller en feller aan het werk worden gezet. Zowaar met desastreuze gevolgen voor diezelfde mensheid van dien.
+De natuur heeft overal rekening mee gehouden. Gedurende de zomermaanden ontwaken er jaarlijks verschillende vuren door de warmte van de hittegolf. Deze snel uitdijende vuurzeeën kunnen in omvang wel tientallen kilometers groot worden. Wat de natuur echter over het hoofd heeft gezien is de bemoeienis van de mensheid die door de toenemende mate van klimaatveranderingen ervoor hebben gezorgd dat deze bosbranden sneller en feller aan het werk worden gezet. Zowaar met desastreuze gevolgen voor diezelfde mensheid van dien.
 
 [[contentfulImage iAeTxoUwGVvkvkkHMhQ8f q=50 w=551 h=325]]
 
@@ -60,7 +60,7 @@ Bosbranden van deze schaal hebben grote impact op de wereld. De reden is als vol
 [[contentfulImage 4x0emA3XeTlYvZ8CCDKVKl q=50 w=551 h=325]]
 
 ### Kruiden uit Siberië
-Gelukkig bieden bosbranden ook nieuw leven. Waar bosbranden plaatsmaken voor dood en verderf, zien kruiden hun kans om nieuw leven te scheppen. De achtergelaten as maakt de grond een ware voedingsbodem voor kruiden. Kruiden veroveren hierdoor met snelheid terrein om hun erfenis voort te zetten. Eén van deze kruiden staat bekend onder de latijnse naam Epilobium angustifolium, in het engels ook wel Fireweed.
+Gelukkig bieden bosbranden tevens nieuw leven. Waar bosbranden plaatsmaken voor open ruimte gevuld met dood en verderf, zien kruiden de kans schoon om hun machtspositie uit te breiden. De achtergelaten as maakt de grond een ware voedingsbodem voor kruiden. Kruiden veroveren hierdoor met snelheid terrein om hun erfenis voort te zetten. Eén van deze kruiden staat bekend onder de latijnse naam Epilobium angustifolium, in het engels ook wel Fireweed.
 
 > Deze kruiden uit Siberië staan erom bekend jaarlijks het vuur te achtervolgen om hun familienaam eer aan te doen; en met succes.
 
@@ -74,7 +74,7 @@ De natuurlijke evolutie heeft bepaald dat deze kruiden anders zijn geëvolueerd 
 ### Ivan Chai
 Volgens de traditionele kruidengeneeskunde kunnen de kruiden worden gebruikt om Ivan Chai mee te zetten. Ofwel Siberische kruidenthee. Een medicijn rechtstreeks uit de natuur zonder bijwerkingen. Overheerlijk van smaak en vrij van cafeïne. Tegenwoordig is deze Siberische kruidenthee bewezen effectief middels klinisch onderzoek. Bevestigd door het European Medicines Agency. Bij gebruik wordt de gezondheid en algehele gemoedstoestand op den duur versterkt. Goed om te weten is dat Ivan Chai ook als preventieve behandeling kan worden gebruikt tegen verschillende gezondheidsproblemen.
 
-[[contentfulImage 1odkh3aKoDuuAcFaShilid q=50 w=551 h=325]]
+[[contentfulImage 3xKUwUrpfazDdetcucaJQf q=50 w=551 h=325]]
 
 ### Schoon en gezond klimaat
 Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. Wij halen onze producten daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden heeft gevormd niet in de weg te staan.
