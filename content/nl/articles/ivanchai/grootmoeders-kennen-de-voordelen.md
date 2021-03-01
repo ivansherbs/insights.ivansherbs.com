@@ -170,6 +170,7 @@ En weet je wat?
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
 
 **Benieuwd wat Ivan Chai voor u kan betekenen?** <br>
+
 Onderaan deze pagina kunt u ons advies lezen.
 
 [[shopifyCollection 235510562982 buttonDestination=cart]]
