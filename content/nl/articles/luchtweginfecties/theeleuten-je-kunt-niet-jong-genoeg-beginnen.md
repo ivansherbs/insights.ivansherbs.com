@@ -17,7 +17,7 @@ meta-tags: griep, verkoudheid, kinderen, oma, pseudokroep, moeders, luchtweginfe
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/luchtweginfectie
-contentful: SbIjsbRGTjCMMdRCPp1IJ
+contentful: 2kRaYcWbCxpo4WI9of9G2M
   imageOptions:
     fm: jpg
     q: 50
