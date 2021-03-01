@@ -16,7 +16,7 @@ meta-tags: keelontsteking, keelontsteking symptomen, keelpijn bij slikken, sympt
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/keelontsteking
-contentful: 1RkPkuO0uwOeVRXiaZMnYP
+contentful: 5ny5zFpu16syUr5BcbujzF
   imageOptions:
     fm: jpg
     q: 50
