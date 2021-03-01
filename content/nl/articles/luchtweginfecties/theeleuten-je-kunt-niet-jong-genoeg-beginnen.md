@@ -68,7 +68,7 @@ Je lichaam vecht hierdoor beter tegen het virus. En je bent weer sneller beter.
 
 **Kortom.**
 
-Je kunt je kinderen niet jong genoeg laten kennismaken met eenvoudige en biologische alledaagse producten die het opnemen van voedingsstoffen bevorderen.
+Je kunt je kinderen niet jong genoeg laten kennismaken met veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek; die het opnemen van voedingsstoffen bevorderen.
 
 En dit geeft jullie ook de gelegenheid om samen lekker te theeleuten met elkaar. Gezellig met opa en oma erbij.
 
