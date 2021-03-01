@@ -4,7 +4,7 @@ title: Insomnia als gevolg van stress en je telefoon
 type: artikel
 category: slaapproblemen
 publish:
-  author: Svetlana Petrova
+  author: Sasha Popov
   date:
 tags:
 - eyeopener
@@ -14,7 +14,7 @@ tags:
 - stress
 - werk
 meta-description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. De slaapproblematiek is groter dan je denkt. Benieuwd naar de inzichten over slapeloosheid? Ook wel insomnia?
-meta-tags: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblematiek, slecht slapen, slaapstoornis, goede nachtrust, stress, telefoon, kinderen, werken, werk
+meta-tags: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblematiek, slecht slapen, slaapstoornis, goede nachtrust, stress, telefoon, kinderen, werken, werk, sasha
 fragments:
   header: nl/fragments/voordelen/4-verbetert-de-nachtrust
   footer: nl/fragments/faq/slaapproblemen
@@ -50,7 +50,8 @@ Binnen dit onderzoek nemen de Nederlanders mee vanaf 12 jaar en ouder. Dus ook *
 
 Stress bij kinderen is moeilijk te herkennen. Het ontstaat door een combinatie van factoren waarbij een toenemende mate van technologie in ons dagelijks leven een belangrijke rol speelt. Speciaal voor de ouders en toekomstig ouders onder ons nog even wat extra achtergrond informatie.
 
-**Onderzoek heeft aangetoond** dat kinderen steeds vaker beschikken over een smartphone.
+**Onderzoek heeft aangetoond** 
+dat kinderen steeds vaker beschikken over een smartphone.
 * 5 procent van alle vierjarigen heeft al een smartphone.
 * 94 procent van de twaalfjarige loopt rond met een mobiele telefoon!
 
@@ -100,7 +101,9 @@ Oké. GENOEG OVER KINDEREN. We gaan nu over op de tips.
 
 Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook van invloed op je prestatie op werk. En iedereen die daar mee te maken heeft. Kun je nagaan hoeveel invloed dit probleem heeft op de Nederlandse economie. Hoeveel lees je verderop in het artikel.
 
-**Om je nachtrust te verbeteren** zijn er tal van tips te vinden. Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten. Denk aan Ivan Chai. Een Siberische kruidenthee. Goed voor jong en oud.
+**Om je nachtrust te verbeteren** zijn er tal van tips te vinden. Waar wij je op willen wijzen is het gebruik van veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek. 
+
+**Denk aan Ivan Chai.** Een Siberische kruidenthee. Goed voor jong en oud.
 
 > Onderzoek heeft aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel. Wat goed werkt tegen stress. Een groot deel van slaapproblemen wordt veroorzaakt door stress. Met name dit probleem zorgt voor slapeloze nachten.
 
@@ -108,7 +111,7 @@ Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook 
 
 **Zo ben je waarschijnlijk bekend met** het niet op een scherm kijken een half uur voor je gaat slapen, géén alcohol, géén cafeïne na 5 uur, zorgen voor voldoende sporten maar niet vlak voor je het bed instapt, een boek lezen, yoga, mindfulness en meditatie. En ga zo maar door.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent slaapproblemen te voorkomen.
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. Wij garanderen je dat je beter in staat bent slaapproblemen te voorkomen.
 
 Mocht je toch onverhoopt slaapproblemen rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
