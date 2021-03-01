@@ -4,7 +4,7 @@ title: 1 theekopje vol bloed
 type: artikel
 category: menstruatiepijn en baarmoederontsteking
 publish:
-  author: Ivanka Lopukhina
+  author: Svetlana Petrova
   date:
 tags:
 - baarmoeder
