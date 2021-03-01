@@ -15,7 +15,7 @@ meta-tags: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongest
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/baarmoederontsteking
-contentful: 3lidLjItmhwzao6CK8R3HA
+contentful: 3WNXpchZTbTDgsEXSz0DRB
   imageOptions:
     fm: jpg
     q: 50
