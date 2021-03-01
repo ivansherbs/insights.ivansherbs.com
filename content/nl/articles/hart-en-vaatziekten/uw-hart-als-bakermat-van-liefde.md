@@ -11,7 +11,8 @@ tags:
 - gevoel
 - relatie
 - ziekten
-meta-description: Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. Benieuwd wat liefde voor een invloed heeft op uw hart?
+- vrouw
+meta-description: Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. Benieuwd naar de inzichten?
 meta-tags: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoelens, vaatziekten
 fragments:
   header: nl/fragments/voordelen/3-versterkt-de-antioxiderede-werking
