@@ -107,13 +107,13 @@ Maria Treben had van de werking gehoord. En wilde dit graag bewijzen. Zij was da
 
 Nu komt het! Na grootschalig klinisch onderzoek werd het na duizenden recensies van mannen effectief bevonden voor het verhelpen van een prostaatontsteking en een vergrote prostaat.
 
-De oude wijze oma Treben raadde Ivan Chai verder aan voor een urineweg,- nier- en blaasontsteking.
+De oude wijze oma Treben raadde Ivan Chai verder aan voor zowel een nier- als blaasontsteking.
 
 Geinig he!? Oma’s uit het oosten wisten dit dus allang. Echter heeft het European Medicines Agency te Amsterdam dit onderzoek van Maria Treben nogmaals bevestigd. 
 
 Oma’s kennis was hierbij dus op academische wijze vastgelegd! 
 
-Mooi bijkomend voordeel. Ivan Chai versterkt het anti-tumor effect. En heeft met name een positieve werking heeft op gezonde prostaatcellen. Zo hield oma op eenvoudige wijze opa gelukkig en zijn prostaat gezond.
+Mooi bijkomend voordeel. Ivan Chai versterkt het anti-tumor effect. Deze kruidenthee heeft met name een positieve werking op gezonde prostaatcellen. Zo hield oma op eenvoudige wijze opa gelukkig en zijn prostaat gezond.
 
 [[contentfulImage WbZiBDHmv6wZQXIdynio5]]
 
@@ -129,7 +129,7 @@ Tot slot. De oma's uit de Altaj hadden zelfs geleerd dat darmparasieten geëlimi
 
 We mogen onszelf gelukkig prijzen met de vele natuurlijke gezondheids wijsheden van oma's!
 
-Goed om te weten. Ivan Chai bevat een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. 
+Goed om te weten. Ivan Chai komt voort uit een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. 
 
 Benieuwd geworden hoe Ivan Chai wordt gemaakt?
 
