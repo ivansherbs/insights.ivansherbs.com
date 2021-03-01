@@ -17,7 +17,7 @@ meta-tags: blaasontsteking, nierbekkenontsteking, blaasontsteking vrouw, urinewe
 fragments:
   header: nl/fragments/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen
   footer: nl/fragments/faq/blaasontsteking
-contentful: yqeQB14oEyeRpNjdqrxRf
+contentful: 13fMZBUHfYMm3r0xclV8fD
   imageOptions:
     fm: jpg
     q: 50 
