@@ -17,7 +17,7 @@ tags:
 - man
 - vrouw
 - 45+
-meta-description: Op zoek naar veilige, eenvoudig te gebruiken en bewezen effectieve alledaagse producten goed voor lichaam en geest? Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie.
+meta-description: Op zoek naar veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek goed voor lichaam en geest? Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer maar óók gewoon lekker ter ontspanning. Benieuwd naar de inzichten?
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief
