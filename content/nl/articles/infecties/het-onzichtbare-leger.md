@@ -12,7 +12,7 @@ tags:
 - infectie
 - gevoel
 - relatie
-meta-description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmel?
+meta-description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties?
 meta-tags: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
