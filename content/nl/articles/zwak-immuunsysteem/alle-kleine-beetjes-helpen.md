@@ -17,7 +17,7 @@ meta-tags: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, v
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/zwak-immuunsysteem
-contentful: 47NFYM20ZJzoJ3pVuNmdUK
+contentful: DBaP54JgOt8KM8d8KnLAg
   imageOptions:
     fm: jpg
     q: 50
