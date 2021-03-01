@@ -4,7 +4,7 @@ title: Essentiële behoeften
 type: artikel
 category: slijmbeursontsteking
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivanka Lopukhina
   date:
 tags:
 - ontsteking
