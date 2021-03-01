@@ -26,7 +26,8 @@ stress zich niet alleen tussen de oren afspeelt?
 
 **Stress wordt geleid door jouw interne stress-systeem.** Dit systeem bestaat uit je centrale zenuwstelsel en het perifeer zenuwstelsel (het zenuwstelsel net buiten het centrale zenuwstelsel gelegen). In andere woorden, stress is voelbaar van top tot teen.
 
-Wist je tevens dat stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel psychotische aandoeningen? 
+### Wist je tevens dat...
+stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel psychotische aandoeningen? 
 
 **We kennen allemaal het gevoel** dat je het maximale uit je dag wilt halen. Je hebt immers bergen met werk liggen en die deadlines naderen.
 
