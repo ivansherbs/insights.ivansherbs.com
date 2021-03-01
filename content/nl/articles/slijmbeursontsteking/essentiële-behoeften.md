@@ -24,7 +24,7 @@ Het is fijn om u niet in te hoeven houden. Zeker niet wanneer u beweegt en al he
 
 ### Essentiële behoefte
 
-Een slijmbeursontsteking kan zelfs de meest essentiële behoefte al flink dwarsbomen. U wilt graag sporten en overheerlijke recepten blijven koken. Wanneer het mooi weer is wil u graag naar buiten. Om bijvoorbeeld heerlijk te wandelen door de natuur. Of wat dacht u van een middagje tuinieren? Waarbij u het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin.
+Een slijmbeursontsteking kan zelfs de meest essentiële behoefte al flink dwarsbomen. U wilt graag sporten en overheerlijke recepten blijven koken. Wanneer het mooi weer is wilt u graag naar buiten. Om bijvoorbeeld heerlijk te wandelen door de natuur. Of wat dacht u van een middagje tuinieren; waarbij u het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin?
 
 **”Een slijmbeursontsteking zorgt niet alleen fysiek, maar ook mentaal voor problemen.”**
 
