@@ -18,7 +18,7 @@ meta-tags: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblemat
 fragments:
   header: nl/fragments/voordelen/4-verbetert-de-nachtrust
   footer: nl/fragments/faq/slaapproblemen
-contentful: 48u2gVeJExSmuZRlo25XRI
+contentful: 5aWUslWsXLMPYVRtJGvAZ4
   imageOptions:
     fm: jpg
     q: 50
