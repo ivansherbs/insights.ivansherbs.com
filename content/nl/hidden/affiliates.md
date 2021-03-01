@@ -63,8 +63,9 @@ Komt uw DNA en denkwijze enigszins overeen met die van ons? En wilt u graag nade
 
 Dan adviseer ik u eerst kort de tijd te nemen om onze video te bekijken die wij gebruiken om ons publiek te informeren over de oorsprong en verwerking van Ivan Chai.
 
-<iframe width="420" height="345" src="https://youtu.be/3u3PUcrQ11I?autoplay=1">
-</iframe>
+    <iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/3u3PUcrQ11I?autoplay=1"
+  frameborder="0"></iframe>
 
 Zoals u wellicht al heeft begrepen zit er Ivan Chai in iedere smaak Siberische kruidenthee die wij verkopen.
 
@@ -302,8 +303,9 @@ https://insights.ivansherbs.com/nl/identity/het-parabel-van-de-siberische-kruide
 
 En voor het gemak nogmaals de video naar de oorsprong en verwerking van Ivan Chai:
 
-<iframe width="420" height="345" src="https://youtu.be/3u3PUcrQ11I?autoplay=1">
-</iframe>
+    <iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/3u3PUcrQ11I?autoplay=1"
+  frameborder="0"></iframe>
 
 Vergeet overigens vooral niet onze slogan:
 
