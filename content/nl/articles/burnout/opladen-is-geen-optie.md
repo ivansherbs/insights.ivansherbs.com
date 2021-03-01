@@ -88,7 +88,9 @@ De kans op een burnout wordt vergroot door het drinken van koffie. Dit heeft te 
 
 **Het klinkt makkelijker gezegd dan gedaan.** Gek genoeg overkomt dit namelijk meer dan **1.000.000 mensen per dag** in Nederland! Veel he?! 
 
-**Waar ik je op wil wijzen** is het gebruik van eenvoudige en biologische alledaagse producten om dit probleem te bestrijden. Denk aan **Ivan Chai**. Een Siberische kruidenthee. De reden is als volgt.
+**Waar wij je op willen wijzen is** het gebruik veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
+
+. Denk aan **Ivan Chai**. Een Siberische kruidenthee. De reden is als volgt.
 
 **Ivan Chai heeft een kalmerende werking.** En staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Onderzoek ondersteund deze kalmerende werking. En heeft aangetoond dat de kalmerende werking effect heeft op je **centrale zenuwstelsel**.
 
