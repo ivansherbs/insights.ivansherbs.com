@@ -4,7 +4,7 @@ title: "Theeleuten: je kunt niet jong genoeg beginnen"
 type: artikel
 category: luchtweginfecties
 publish:
-  author: Ivanka Lopukhina
+  author: Svetlana Petrova
   date:
 tags:
 - weerstand
