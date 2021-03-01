@@ -33,7 +33,7 @@ shopify:
 ---
 [[shopifyCollection 235548934310 buttonDestination=modal]]
 
-**Anekdotisch bewijs is krachtig bewijs**
+**Anekdotisch bewijs is krachtig bewijs!!!!**
 
 Een oplettende grootmoeder zal in haar verleden veel verhalen hebben gehoord. Net als alle grootmoeders die ik heb ontmoet! Of zoals de kinderen haar noemen, oma.
 
