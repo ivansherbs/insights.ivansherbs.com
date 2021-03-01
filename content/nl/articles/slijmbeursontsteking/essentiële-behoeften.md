@@ -20,60 +20,68 @@ contentful: 1cuURYWqxLkX7VCHOmLXhQ
     fm: jpg
     q: 50
 ---
-Het is fijn om je niet in te hoeven houden. Zeker niet wanneer je beweegt. En al helemaal met de meest gangbare activiteiten. Activiteiten die je op dagelijkse basis uitvoert.
+Het is fijn om u niet in te hoeven houden. Zeker niet wanneer u beweegt en al helemaal met de meest gangbare activiteiten. Activiteiten die u op dagelijkse basis uitvoert.
 
 ### Essentiële behoefte
 
-Een slijmbeursontsteking kan zelfs de meest essentiële behoefte al flink dwarsbomen. Je wil graag sporten en je overheerlijke recepten blijven koken. En wanneer het mooi weer is wil je graag naar buiten. Om heerlijk te wandelen door de natuur. Of wat dacht je van een middagje tuinieren? Waarbij je het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin.
+Een slijmbeursontsteking kan zelfs de meest essentiële behoefte al flink dwarsbomen. U wilt graag sporten en overheerlijke recepten blijven koken. Wanneer het mooi weer is wil u graag naar buiten. Om bijvoorbeeld heerlijk te wandelen door de natuur. Of wat dacht u van een middagje tuinieren? Waarbij u het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin.
 
 **”Een slijmbeursontsteking zorgt niet alleen fysiek, maar ook mentaal voor problemen.”**
 
-Je ziet al op tegen het draaien van een simpel wasje. Maar ook het poetsen van je tanden. En zelfs opstaan uit bed kunnen als lastig worden ervaren. Vanuit holistisch perspectief wordt je hierdoor niet alleen fysiek maar ook mentaal belast. Dit heeft te maken met de emotie angst. 
+U ziet al op tegen het draaien van een simpel wasje. Maar ook het poetsen van uw tanden. Zelfs opstaan uit bed kunnen als lastig worden ervaren. Vanuit holistisch perspectief wordt u hierdoor niet alleen fysiek maar ook mentaal belast. Dit heeft te maken met de emotie angst.
 
 ### Wat gebeurt er mentaal?
 
-Vanuit wetenschappelijk perspectief zijn er grofweg twee mogelijkheden waaraan je jezelf kunt schikken. Ik begin hierbij met het introduceren van twee uiterste van elkaar. Namelijk confrontatie en vermijding. 
+Vanuit wetenschappelijk perspectief zijn er grofweg twee mogelijkheden waaraan u zich kunt schikken. Laten we voor het gemak beginnen met het introduceren van twee uiterste van elkaar. Namelijk confrontatie versus vermijding.
 
-In andere woorden. Je gaat het gevecht aan met de pijn of vermijd de pijn. Deze keuze wordt je mede mogelijk gemaakt door angst die je ervaart, als gevolg van de pijn die je eventueel kunt krijgen door het bewegen van je lichaam. Volgen we het nog? 
+In andere woorden. U gaat het gevecht aan mét de pijn of vermijd de pijn. Deze keuze wordt u mede mogelijk gemaakt door angst die u ervaart, als gevolg van de pijn die u eventueel kunt krijgen door het bewegen van uw lichaam. Volgen we het nog?
 
-Simpel gezegd. Bij confrontatie ga je overduidelijk het gevecht aan. Wetende dat je pijn kunt ervaren en leert kennen. Waarna de angst voor pijn overtijd vermindert en je er wellicht mee om leert gaan.
+Simpel gezegd. Bij confrontatie gaat u overduidelijk het gevecht aan. Wetende dat u pijn kunt ervaren en leert kennen. Waarna de angst voor pijn overtijd vermindert en u er wellicht mee om leert leven.
 
-Bij vermijding van de pijn kun je in een neerwaartse spiraal terecht komen waarbij het probleem, de situatie en de negatieve gevoelens die je hebt naar de pijn worden versterkt. Met name het vermijden van de pijn kan ervoor zorgen dat jouw essentiële behoefte worden ingeperkt. 
+Hier tegenover staat vermijding van de pijn. Wanneer u kiest voor vermijding kunt u echter in een neerwaartse spiraal terecht komen waarbij het probleem, de situatie en de negatieve gevoelens die u heeft naar de pijn worden versterkt. Met name bij het vermijden van pijn kunnen uw essentiële behoefte ernstig worden beperkt.
 
-En om het allemaal wat erger te maken. Als gevolg kan dit leiden tot behoud van angst, ongeloof om te bewegen en in sommige gevallen zelfs leiden tot depressie. 
+Nu we het er toch over hebben. Als gevolg kan dit leiden tot behoud van angst, ongeloof om te bewegen en in sommige gevallen zelfs leiden tot depressie.
 
 [[contentfulImage 5aUSyN86TPvSluaeHHoxn4]]
 
-### We moeten vooruit
+### U moet vooruit
 
-Echter wordt je ook een dagje ouder. Niets aan te doen. Je leert er maar mee leven. 
+Echter wordt u ook een dagje ouder. Niets aan te doen. U leert er maar mee leven.
 
-Zoals gezegd zitten aan het ouder worden enkele consequenties verbonden. Om maar weer even terug te vallen op hetgeen waarmee we zijn begonnen. Het kan eenmaal voorkomen dat door ouderdom je slijmbeurzen sneller geïrriteerd raken.
+Zoals gezegd zitten aan het ouder worden enkele consequenties verbonden. Om maar weer even terug te vallen op hetgeen waarmee we zijn begonnen. Het kan eenmaal voorkomen dat door ouderdom uw slijmbeurzen sneller geïrriteerd raken.
 
-Met geïrriteerd bedoelen we ontstoken. Hierdoor kun je jezelf minder soepel bewegen. Met als gevolg dat je slijmbeurzen, ofwel de beschermkappen rondom je gewrichten, even rust nodig hebben. Hierdoor kun je een irrationele vorm van angst tegen pijn creëren. Wat kan leiden tot het verminderen van de essentiële behoefte die je op dagelijkse basis graag uitvoert. De vraag blijft echter. 
+Met geïrriteerd bedoelen we ontstoken. Hierdoor kunt u zichzelf minder soepel bewegen. Met als gevolg dat uw slijmbeurzen (ofwel de beschermkappen rondom uw gewrichten) even rust nodig hebben. Hierdoor kunt u een irrationele vorm van angst tegen pijn creëren. Wat kan leiden tot het verminderen van de essentiële behoefte die u op dagelijkse basis graag uitvoert. De vraag blijft echter.
 
 ### Is er een oplossing?
 
-Ja. Dit soort problemen kun je preventief behandelen. Een ontsteking kan je voorkomen en onderdrukken. Met eenvoudige en biologische alledaagse producten.
+Ja. Dit soort problemen kunt u preventief behandelen. 
 
-Denk aan Ivan Chai. Een Siberische kruidenthee. Ivan Chai werkt als een krachtige ontstekingsremmer. Hierdoor verminder je de kans op een slijmbeursontsteking. 
+Een ontsteking kunt u voorkomen en onderdrukken met veilige producten rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
+
+Denk aan Ivan Chai. Een Siberische kruidenthee. Ivan Chai werkt als een krachtige ontstekingsremmer. 
 
 **Meerdere voordelen?**
 
 Ja. Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
 
-Ivan Chai werkt ook goed tegen angst vanwege de kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek heeft aangetoond dat de kalmerende werking effect heeft op je centrale zenuwstelsel.
+Ivan Chai werkt ook goed tegen angst vanwege de kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek heeft aangetoond dat de kalmerende werking effect heeft op uw centrale zenuwstelsel.
 
 ### Combinatie medicijnen uit de farmaceutische industrie
 
-Mocht je onverhoopt al met een slijmbeursontsteking rondlopen? En gebruik je hiervoor al medicijnen uit de farmaceutische industrie? Dat kan ik begrijpen. Soms heb je zware medicatie nodig. 
+Mocht u onverhoopt al met een slijmbeursontsteking rondlopen? 
 
-Drink dan Ivan Chai om je fysiek en mentaal te ondersteunen bij het gebruik van deze medicijnen. Zie het als medicatie die elkaar aanvullen. Medicijnen uit de farmaceutische industrie aangevuld met traditionele kruidengeneeskunde als alledaags product. 
+Maakt u hiervoor al medicijnen uit de farmaceutische industrie? 
 
-Medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. Ivan Chai heeft 7 voordelen voor lichaam en geest die deze bijwerkingen verlichten. 
+Dat kunnen we begrijpen. Soms heeft u zwaardere medicatie nodig.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een slijmbeursontsteking te verzorgen. En soepele gewrichten te behouden!
+### Is het verstandig om Ivan Chai te drinken?
 
-Mocht je toch onverhoopt een zwaardere vorm van een slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Jazeker! Drink dan Ivan Chai om u fysiek en mentaal te ondersteunen bij het gebruik van deze medicijnen. Zie het als medicatie die elkaar aanvullen. Medicijnen uit de farmaceutische industrie aangevuld met traditionele kruidengeneeskunde als alledaags product.
 
-Wil je meer weten over het behoud van soepele gewrichten?
+Medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. Ivan Chai voordelen voor lichaam en geest die deze bijwerkingen verlichten.
+
+> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in uw dagelijkse routine. We garanderen dat u beter in staat bent een slijmbeursontsteking te verzorgen en soepele gewrichten te behouden!
+
+Mocht u toch onverhoopt een zware slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. Laat u informeren over de behandelmethode.
+
+Wilt u meer weten over het behoud van soepele gewrichten?
