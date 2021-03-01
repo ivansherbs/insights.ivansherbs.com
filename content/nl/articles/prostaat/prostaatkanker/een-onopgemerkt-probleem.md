@@ -12,7 +12,7 @@ tags:
 - eyeopener
 - prostaat
 - ziekten
-meta-description: Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. We kunnen echter één risicofactor met zekerheid vaststellen. Benieuwd naar de inzichten?
+meta-description: Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. We kunnen echter één risicofactor met zekerheid vaststellen... Benieuwd naar de inzichten?
 meta-tags: prostaat, prostaatkanker, prostaatklachten, prostaatpijn, symtomen prostaat kanker, psa
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
@@ -38,20 +38,20 @@ Wat onderzoek betreft tast de medische wereld nog volop in het duister. Veel baa
 
 * Leeftijd. 
 
-Vóór je 50ste is prostaatkanker namelijk zeer zeldzaam. 
+Vóór uw 50ste is prostaatkanker namelijk zeer zeldzaam. 
 
 [[contentfulImage 41JzaoJn44F7FsaTsJ99LL]]
 
-### Eenmaal prostaatkanker opgelopen.
+### Eenmaal prostaatkanker opgelopen...
 
 Dan komen de meeste mannen er pas laat achter. Dit komt omdat prostaatkanker langzaam groeit. Vaak komt dit probleem pas aan het licht bij een medische controle. Dit komt omdat prostaatkanker wel degelijk de dagelijkse bezigheden flink kan dwarsbomen. 
 
 Mannen bezoeken dan een arts vanwege lichte prostaatklachten. Onder lichte prostaatklachten verstaan we symptomen vergelijkbaar met die van een vergrote prostaat. Er zit echter wel enig verschil in deze twee problemen. 
 
-Een vergrote prostaat is een goedaardige aandoening. Het blijft hierdoor bij een controle altijd even spannend welke van de problemen je last hebt. 
+Een vergrote prostaat is een goedaardige aandoening. Het blijft hierdoor bij een controle altijd even spannend van welke probleem u last heeft. 
 
 **Tip** <br>
-Houd hier dus rekening mee mocht je ooit een arts bezoeken vanwege prostaatklachten. 
+Houd hier dus rekening mee mocht u ooit een arts bezoeken vanwege prostaatklachten. 
 
 Wanneer prostaatkanker niet tijdig wordt geconstateerd is het bijna niet te genezen. 
 
