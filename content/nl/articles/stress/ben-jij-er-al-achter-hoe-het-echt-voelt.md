@@ -16,7 +16,7 @@ meta-tags: stress, cortisol, stress verminderen, stresshormoon, wat is stress, o
 fragments:
   header: nl/fragments/voordelen/5-1-vermindert-de-kans-op-stress
   footer: nl/fragments/faq/stress
-contentful: 1XIqGDkGpBkPhlRsmqkwdq
+contentful: 3trDQrnAPyKfBsSInJtB7g
   imageOptions:
     fm: jpg
     q: 50
