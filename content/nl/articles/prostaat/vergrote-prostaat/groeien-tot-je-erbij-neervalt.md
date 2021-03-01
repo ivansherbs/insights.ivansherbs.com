@@ -16,7 +16,7 @@ meta-tags: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroo
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/vergrote-prostaat
-contentful: 6xcM2KvlVvivv2iX1GFuem
+contentful: 7LnD9ZPfNyYfW4m4huMGrC
   imageOptions:
     fm: jpg
     q: 50
