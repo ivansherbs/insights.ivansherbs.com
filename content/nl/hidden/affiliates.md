@@ -330,7 +330,7 @@ Ter info: mochten wij overstappen van platform, dan laten wij u dat zo spoedig m
 
 ### Heeft u bepaalde ideeën over het promoten van onze kruiden, maar heeft u meer materiaal nodig?
 
-Wij staan open voor een gesprek: collaboration@ivansherbs.com
+Wij staan open voor een gesprek.
 
 Tot slot, 
 
