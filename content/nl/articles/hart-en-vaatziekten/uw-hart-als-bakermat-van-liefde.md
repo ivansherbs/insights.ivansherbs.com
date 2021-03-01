@@ -4,7 +4,7 @@ title: Uw hart als bakermat van liefde
 type: artikel
 category: hart- en vaatziekten
 publish:
-  author:Ivanka Lopukhina
+  author: Ivanka Lopukhina
   date:
 tags:
 - eyeopener
