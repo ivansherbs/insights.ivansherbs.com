@@ -32,7 +32,7 @@ En nu vraag je jezelf waarschijnlijk af.
 
 Nou. Laat ik het maar gelijk verklappen. Omdat dat er veel zijn en ik het besef wil kweken dat het makkelijk te voorkomen is.
 
-Met eenvoudige en biologische alledaagse producten.
+Met veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
 Ik ga je bij deze een aantal tips geven om dit te voorkomen. Maar eerst ga ik je wat meer informeren over dit probleem zelf.
 
@@ -163,7 +163,7 @@ We weten nu het volgende.
 
 Wat ze doen. Waar ze wonen. Hoe ze eruit zien. En wat voor een schade er kan worden aangericht wanneer ze zich massaal groeperen.
 
-Dan zijn we nu eindelijk aangekomen bij de tips! Bestaande uit het gebruik van eenvoudige en biologische alledaagse producten.
+Dan zijn we nu eindelijk aangekomen bij de tips! Bestaande uit het gebruik van de veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
 ### Tip nummer 1
 
