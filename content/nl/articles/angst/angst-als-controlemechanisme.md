@@ -93,7 +93,7 @@ Naast sociale angst bestaat bijvoorbeeld **faalangst**.
 
 Tevens een vorm van angst op dagelijkse basis.
 
-**Denk aan die ene keer in een overvolle collegezaal.** Waarbij de docent onverwacht een complexe vraag stelde. En je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen. Om vervolgens met eer en geweten weer plaats te mogen nemen. Waarbij je het gevoel hebt overgehouden iedereen de les te hebt gelezen. 
+**Denk aan die ene keer in een overvolle collegezaal.** Waarbij de docent onverwacht een complexe vraag stelde en je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen. Om vervolgens met eer en geweten weer plaats te mogen nemen. Waarbij je het gevoel hebt overgehouden iedereen de les te hebt gelezen. 
 
 Wellicht een fijne gedachten. Op angst kun je jezelf vaak niet voorbereiden. Zoals in een ziekenhuis.
 
@@ -123,11 +123,9 @@ Een combinatie van verschillende factoren zorgen ervoor dat je gevoel van angst 
 
 Of die van je kinderen.
 
-Waar wij je op willen wijzen is het gebruik van eenvoudige en biologische alledaagse producten om dit probleem te bestrijden.
+Waar wij je op willen wijzen is het gebruik veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
-Denk aan **Ivan Chai**. 
-
-Een Siberische kruidenthee.
+Denk aan **Ivan Chai**. Een Siberische kruidenthee.
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent angst te voorkomen.
 
