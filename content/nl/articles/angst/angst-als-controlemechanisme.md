@@ -15,7 +15,7 @@ meta-tags: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten
 fragments:
   header: nl/fragments/voordelen/5-2-vermindert-de-kans-op-angst
   footer: nl/fragments/faq/angst
-contentful: 1pewuj3fgNVDScraUTR3i1
+contentful: 3BPQgrvSsxOBnqdOXJv65w
   imageOptions:
     fm: jpg
     q: 50
