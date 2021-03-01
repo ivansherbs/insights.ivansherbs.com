@@ -4,7 +4,7 @@ title: Runners high versus Ontstoken pees
 type: artikel
 category: peesontsteking
 publish:
-  author: Ivan Alexandrovitsj
+  author: Sasha Popov
   date:
 tags:
 - ontsteking
@@ -35,7 +35,7 @@ Dit wordt veroorzaakt door het volgende. En ja, dit proces is complexer dan we n
 
 ### Endorfine
 
-Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Met name bij duursporten verhoog je de waarde van deze stoffen. 
+Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Met name bij **duursporten** verhoog je de waarde van deze stoffen. 
 
 Met een verandering van je gemoedstoestand tot gevolg.
 
@@ -75,22 +75,18 @@ Wanneer dit gebeurt zendt je pees een signaal. Dit ervaar jij vervolgens als pij
 
 Je zult rust moeten nemen om hiervan te herstellen. En dit kost jammer genoeg tijd. Het gevolg van dit probleem is dat jij even niet kunt sporten. En thuis op de bank zit.
 
-Probeer voortaan een peesontsteking preventief te behandelen. Ontstekingen kan je voorkomen en onderdrukken.
+Probeer voortaan een peesontsteking preventief te behandelen. Ontstekingen kan je voorkomen en onderdrukken met veilige producten, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
-Met eenvoudige en biologische alledaagse producten.
-
-Denk hierbij aan Ivan Chai.
-
-Een Siberische kruidenthee.
+Denk hierbij aan Ivan Chai. Een Siberische kruidenthee.
 
 **Goed om te weten.**
 
 Drink Ivan Chai niet alleen preventief tegen een peesontsteking. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van medicijnen uit de farmaceutische industrie.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent een peesontsteking te voorkomen. Of te verzorgen.
+> Graag willen we het volgende benadrukken. Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine. We garanderen dat je beter in staat bent een peesontsteking te voorkomen of te verzorgen.
 
-Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. Laat je informeren over de behandelmethode.
 
 Wil je meer weten over een peesontsteking?
 
-En hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
+Of hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
