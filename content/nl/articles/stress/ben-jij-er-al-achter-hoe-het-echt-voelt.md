@@ -49,7 +49,7 @@ stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel p
 
 **Denk hierbij aan** angst en een burnout. Ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie kunnen de overhand nemen. De gevolgen van stress zijn echter niet te overzien. Simpelweg omdat je niet weet voor welke problemen je gevoelig bent. 
 
-**Wanneer we kijken wat het met je lichaam doet** is met tevens adrenaline in een overtollige hoeveelheid aanwezig. Door langdurige overbelasting van jouw interne stress-systeem kan dit leiden tot haaruitval of het beschadigen van organen.
+**Wanneer we kijken wat het met je lichaam doet** is tevens adrenaline in een overtollige hoeveelheid aanwezig. Door langdurige overbelasting van jouw interne stress-systeem kan dit leiden van haaruitval tot orgaanletsel.
 
 **Stel dat** je nog nooit veel stress hebt ervaren. Dan dien je antwoord te vinden op de vraag, wat is stress? Het is namelijk moeilijk om je te realiseren dat je last hebt van een overmatige hoeveelheid aan zowel cortisol als adrenaline. De eerste stap richting het aanpakken van stress, is het leren herkennen. Jezelf toegeven dat je er last van hebt en dat er het één en ander aan moet veranderen. Dit probleem kun je aanpakken door het veranderen van je levensstijl. Hierdoor leer je omgaan met stress.
 
