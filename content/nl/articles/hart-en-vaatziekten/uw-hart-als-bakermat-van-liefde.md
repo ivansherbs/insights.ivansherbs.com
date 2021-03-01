@@ -65,5 +65,3 @@ Mocht u toch onverhoopt hart- en vaatziekten oplopen, ga verstandig te werk. Bel
 Bij gebruik van zware medicijnen uit de farmaceutische industrie raden wij het aan eerst met een deskundige te overleggen of Ivan Chai kan worden gedronken.
 
 Benieuwd naar de impact van hart- en vaatziekten?
-
-
