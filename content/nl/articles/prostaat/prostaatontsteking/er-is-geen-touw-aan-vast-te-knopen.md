@@ -16,7 +16,7 @@ meta-tags: prostaatklachten, prostaatpijn, prostaatontsteking, prostaat vergroot
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/prostaatontsteking
-contentful: 78JnemnLWoZdd6jZJ8gN61
+contentful: 4oTTNycALC9hhywkuufdiD
   imageOptions:
     fm: jpg
     q: 50
