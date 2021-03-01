@@ -16,7 +16,7 @@ meta-tags: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare 
 fragments:
   header: nl/fragments/voordelen/7-verzorgt-het-spijsverteringsstelsel
   footer: nl/fragments/faq/buikgriep
-contentful: flSdkxTJqPovxqWtadqVj
+contentful: 37Bs8iLiIbgDtnLsOZdr4e
   imageOptions:
     fm: jpg
     q: 50
