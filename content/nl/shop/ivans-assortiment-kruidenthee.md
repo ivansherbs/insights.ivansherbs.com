@@ -23,7 +23,7 @@ shopify:
   language: NL
 ---
 
-**Bestsellers | Collectie | Favorieten | Follow Up | Kilo zakken | Overig**
+**Bestsellers | Collectie | Favorieten | Follow Up | Extra | Overig**
 
 Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
 
@@ -43,7 +43,7 @@ Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en 
 
 [[shopifyCollection 261582815398 buttonDestination=cart]]
 
-## Ivan´s | Kilo zakken
+## Ivan´s | Extra
 
 [[shopifyCollection 261576589478 buttonDestination=cart]]
 
