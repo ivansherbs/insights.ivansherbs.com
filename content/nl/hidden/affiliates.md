@@ -1,10 +1,8 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
 url: /nl/affiliates
 shopify:
   language: NL
-  banner:
-  url: https://images.ctfassets.net/lyvtxhzy9zgr/6csVsKRo3aDFZgyA0ojdEV/8292e1d2ef8b74ef5deefbcbfe26faf0/white-logo.png?fm=jpg&q=50
+contentful: 6csVsKRo3aDFZgyA0ojdEV
 @ Gabi, can you make this page hidden from customers?
 ---
 
@@ -63,9 +61,7 @@ Komt uw DNA en denkwijze enigszins overeen met die van ons? En wilt u graag nade
 
 Dan adviseer ik u eerst kort de tijd te nemen om onze video te bekijken die wij gebruiken om ons publiek te informeren over de oorsprong en verwerking van Ivan Chai.
 
-    <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/3u3PUcrQ11I?autoplay=1"
-  frameborder="0"></iframe>
+ <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/3u3PUcrQ11I?autoplay=1" frameborder="0"></iframe>
 
 Zoals u wellicht al heeft begrepen zit er Ivan Chai in iedere smaak Siberische kruidenthee die wij verkopen.
 
@@ -132,7 +128,7 @@ Dan vraagt u zich waarschijnlijk af.
 Wij verkopen onze Ivan Chai in verschillende geschenkdozen (giftsets) met pakketten (packs) die u online kunt bestellen. Om het de consument zo makkelijk mogelijk te maken en mee te nemen in onze ‘customer journey’ willen we graag eerst de starter pack onder de aandacht brengen.
 
 ### Waar bestaat het eerste pakket uit?
-1 Geschenkdoos: Starters pack
+1 Geschenkdoos: Starters Set
 - Design tube: Ivan Chai <br>
 Keuze uit 3 van de 4 value pack:
 - Green Ivan Chai
@@ -161,7 +157,7 @@ Let op! De design tube is herbruikbaar en wordt gevuld met de valuepacks (vervol
 Hiernaast hebben we ook nog meerdere pakketten die we op een later moment onder de aandacht willen brengen.
 Hierbij moet je denken aan navul-pakketten (refillers) om uw tube mee te hervullen:
 - Ivan’s Follow up (bestaande uit value packs: Ivan Chai, Green Ivan Chai, Bergenia Chai, Meadowsweet Chai, Ziziphora Chai)
-- Ivan’s Favorites (bestaande uit value packs: Ivan Chai, Green Ivan Chai)
+- Ivan’s Favorieten (bestaande uit value packs: Ivan Chai, Green Ivan Chai)
 - Mix Chai Pack (bestaande uit value packs: Bergenia Chai, Meadowsweet Chai, Ziziphora Chai)
 
 ### En verder?
@@ -301,23 +297,23 @@ Hierbij wil Ivan’s Herbs u nog graag de geschiedenis van Ivan Chai onder de aa
 
 https://insights.ivansherbs.com/nl/identity/het-parabel-van-de-siberische-kruidenthee/
 
-En voor het gemak nogmaals de video naar de oorsprong en verwerking van Ivan Chai:
-
-    <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/3u3PUcrQ11I?autoplay=1"
-  frameborder="0"></iframe>
-
-Vergeet overigens vooral niet onze slogan:
+En één van onze vele slogans:
 
 _“Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer; maar óók gewoon lekker ter ontspanning.”_
 
+### Mocht u benieuwd zijn naar de oorsprong van Ivan Chai en waarom deze kruidensoort de familienaam 'Fireweed' heeft gekrgen?
+
+https://insights.ivansherbs.com/nl/articles/ivanchai/de-oorsprong-van-ivan-chai
+
 ### Benieuwd naar de commissiestructuur?
 
+Start: % per verkoop
 
+Na x bestellingen: 20%
 
+Na x bestellingen: 25%
 
-
-
+Waarna we de mogelijkheden bespreken voor de verkoop van onze overige producten.
 
 ### Social media campagnes als ambassadeur?
 Goed om te weten. Mocht de samenwerking bevallen en er voor beide partijen een win-win situatie worden gecreëerd, dan investeren wij graag in uw social media campagnes.
@@ -342,6 +338,4 @@ Met vriendelijke groet,
 
 ### Ivan Herbs | Nederland
 
-Korte Noorderweg 27G <br>
-1221 NA Hilversum <br>
 collaboration@ivansherbs.com
