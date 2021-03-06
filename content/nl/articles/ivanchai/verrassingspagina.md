@@ -30,7 +30,7 @@ Welkom op onze verrassingspagina.
 
 Op deze pagina treft u onze exclusieve aanbiedingen. Deze zijn enkel aan te schaffen middels uw meest favoriete kortingscode die u kunt vinden op uw Loyaltea mok (uit de Starter Set & Royaltea Giftset).
 
-###Benieuwd naar onze exclusieve aanbiedingen?
+Benieuwd naar onze exclusieve aanbiedingen?
 
 **40% korting:**
 
