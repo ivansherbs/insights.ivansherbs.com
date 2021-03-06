@@ -1,7 +1,7 @@
 ---
 layout: article_with_header_and_footer_and_shopify.html
-title: "Verrassings-pagina"
-url: /nl/verrassing
+title: "Exclusieve aanbiedingen"
+url: /nl/exclusieve-aanbiedingen
 type: artikel
 category:
 publish:
@@ -25,9 +25,9 @@ shopify:
 
 ### Geachte Loyaltea member,
 
-Welkom op onze verrassingspagina.
+Welkom op onze pagina met exclusieve aanbiedingen.
 
-Op deze pagina treft u onze exclusieve aanbiedingen. Doe uw aankoop middels uw meest favoriete kortingscode die u kunt vinden op uw Loyaltea beker (uit de Starter Set & Royaltea Giftset).
+Doe uw aankoop middels de kortingscode die u kunt vinden op uw Loyaltea beker (uit de Starter Set & Royaltea Giftset).
 
 Benieuwd naar onze exclusieve aanbiedingen?
 
