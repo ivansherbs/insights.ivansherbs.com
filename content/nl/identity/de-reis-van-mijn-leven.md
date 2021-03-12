@@ -5,7 +5,8 @@ type:
 category: 
 publish:
 author: Michael Koch
-meta-tags: ivan Chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, natuur, geneeskrachtig, michael koch, ivan's herbs,
+meta-tags: ivan Chai, kruiden, kruidenthee, kruidengeneeskunde, medicijnen, dierenleed, patenten, ecodorp, kennis, voordelen, lichaam, geest, siberië, rusland, siberië, , natuur, geneeskrachtig, michael koch, ivan's herbs, farmaceutische industrie, remedie, Zürich, mont blanc, producten, veilig
+meta-description: Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar natuurlijke producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
 contentful: 4xERvF6aRTWBQwMFipxC3k
   imageOptions:
     fm: jpg
@@ -19,17 +20,18 @@ shopify:
 
 ### Geachte Levensgenieter,
 
+
 Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar natuurlijke producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
 
 ### Kruiden uit Siberië
 
-Sinds mijn 20ste levensjaar ben ik bezig met het bestuderen van de geneeskrachtige werking in kruiden. Kruidengeneeskunde bevat vele voordelen voor lichaam en geest. Belangrijk bijkomend voordeel is dat deze medicijnen in de meeste gevallen kunnen worden geconsumeerd zonder enige vorm van bijwerkingen.
+Sinds mijn 20ste levensjaar ben ik bezig met het bestuderen van de geneeskrachtige werking in kruiden. Kruidengeneeskunde bevat vele voordelen voor lichaam en geest. 
 
-Daar tegenover staat de farmaceutische industrie wat dagelijk medicijnen produceert onderhevig aan een complex chemisch proces waarbij dieren worden misbruikt om de werking vast te stellen. 
+Belangrijk bijkomend voordeel van kruidengeneeskunde is dat deze medicijnen in de meeste gevallen kunnen worden geconsumeerd zonder enige vorm van bijwerkingen. Daar tegenover staat de farmaceutische industrie wat dagelijk medicijnen produceert onderhevig aan een complex chemisch proces waarbij dieren worden misbruikt om de werking vast te stellen. 
 
-In mijn opinie wordt de farmaceutische industrie getypeerd door een opeenvolging van mislukkingen op zoek naar een wondermiddel in een complexe en besloten omgeving waarbij patenten de boventoon zetten tot veranderingen. Deze gehele industrie dient vergezeld te worden door een eenvoudig tegengeluid in de vorm van kruiden rechtstreeks uit de natuur, zonder bijwerkingen en vrij van dierenleed.
+In mijn opinie wordt de farmaceutische industrie getypeerd door een opeenvolging van mislukkingen op zoek naar een wondermiddel in een complexe en besloten omgeving waarbij patenten de boventoon zetten tot veranderingen. Deze gehele industrie dient daarom te worden vergezeld door een eenvoudig tegengeluid in de vorm van kruiden rechtstreeks uit de natuur, zonder bijwerkingen en vrij van dierenleed.
 
-In andere woorden, mensen hebben geen herhaalrecepten nodig, maar dienen beter te worden geïnformeerd over het gebruik van natuurlijke remedies. Begrijp mij niet verkeerd. Ik ben niet tegen de farmaceutische industrie. Ik ben voor een wereld waar mens en milieu centraal staan, vrij van dierenleed.
+In andere woorden, mensen hebben geen herhaalrecepten nodig, maar dienen beter te worden geïnformeerd over het gebruik van natuurlijke remedies. Begrijp mij niet verkeerd. Ik ben niet tegen de farmaceutische industrie. Ik ben voor een wereld waar mens en milieu centraal staan; vrij van dierenleed.
 
 ### Siberische ecodorp: Chazhaevka
 Wat velen nog niet weten is dat het Russische grootlandschap erom bekend staat vele geneeskrachtige kruiden te herbergen.
@@ -86,56 +88,12 @@ Kruidenthee.
 
 Wees verstandig. Versterk dagelijks lichaam en geest met kruiden uit Siberië. 
 
-Graag wil ik u meegeven dat Ivan's Insights vol staat met inzichten, waarbij wij alledaagse problemen bespreekbaar maken. 
+Graag wil ik u meegeven dat Ivan's Insights vol staat met inzichten, waarbij wij ons richten op het bespreekbaar maken van alledaagse problemen.
 
-Tot slot, wil ik u bij deze dan ook een warm welkom heten op onze website.
+Dit gezegd hebbende, wil ik u tot slot bij deze een warm welkom heten op onze website.
 
 Met vriendelijke groet,
 
 [[contentfulImage 653HTp5db45ziENw8JQE4]]
 
 Michael Koch
-
-Ps.
-
-Zoals reeds beloofd, hierbij uw KORTINGSCODE:
-
-<p style="text-align: center"><b>ivans-herbs-kruidenthee</b></p>
-
-Ter info: uw kortingscode is geldig voor onze bestsellers
-
-Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
-
-## Bestsellers | Top 3
-
-[[shopifyCollection 261575540902 buttonDestination=cart]]
-
-## Collectie | Kruidenthee
-
-Kruidentheeën als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer, maar óók gewoon lekker ter ontspanning. Benieuwd naar de verschillende smaken?
-
-[[shopifyCollection 235510562982 buttonDestination=cart]]
-
-## Ivan´s | Favorieten 
-
-Graag bieden wij de mogelijkheid om uw meest favoriete kruidenthee in verschillende formaten aan te schaffen. Wist u dat binnenkort een Ivan Chai met rokerige smaak beschikbaar komt?
-
-[[shopifyCollection 261575966886 buttonDestination=cart]]
-
-## Ivan's | Follow Up
-
-Wij geven u graag een opvolging die door uw brievenbus heen past. Wel zo makkelijk of niet?
-
-[[shopifyCollection 261582815398 buttonDestination=cart]]
-
-## Ivan´s | Kleinere Volumes
-
-Onder het mom: _"voor ieder wat wils"_. Benieuwd met wat voor een etherische oliën, supplementen of kruiden in poedervorm u onze kleinere hoeveelheden kunt combineren?
-
-[[shopifyCollection 261581570214 buttonDestination=cart]]
-
-## Ivan´s | Extra Veel Volume
-
-Voor de enorme theedrinker die er gewoon geen genoeg van kan krijgen. Wist u dat een kopje thee ongeveer 14 cent kost?
-
-[[shopifyCollection 261576589478 buttonDestination=cart]]
