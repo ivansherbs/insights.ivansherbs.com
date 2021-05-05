@@ -14,7 +14,8 @@ meta-tags: kruidenthee, assortiment, pakketten, bestsellers, collectie, favoriet
 fragments:
   header: nl/fragments/voordelen/drink-ivan-chai
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
-contentful: 3BMJ7e2ogSnTsV7AQRK2QF
+banner: 3BMJ7e2ogSnTsV7AQRK2QF
+contentful:
   imageOptions:
     fm: jpg
     q: 50

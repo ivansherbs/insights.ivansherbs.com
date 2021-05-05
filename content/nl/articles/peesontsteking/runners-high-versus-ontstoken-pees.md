@@ -16,7 +16,8 @@ meta-tags: hardlopen, hardlopers, achillespees, endorfine, endorfines, peesontst
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/peesontsteking
-contentful: 5nsKyyn7wlXZORSvBx0AdB
+banner: 5nsKyyn7wlXZORSvBx0AdB
+contentful:
   imageOptions:
     fm: jpg
     q: 50

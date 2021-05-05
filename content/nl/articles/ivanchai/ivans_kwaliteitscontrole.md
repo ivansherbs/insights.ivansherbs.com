@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article.html
 title: "Ivan's kwaliteitscontrole: wat is Ivan Chai en hoe smaakt het?"
 type: artikel
 category: Ivan Chai
@@ -9,11 +9,9 @@ publish:
 tags:
 - ivan chai
 meta-description: Wat is Ivan Chai en hoe smaakt het?
-Meta-tags: thee, ivan chai, kruiden, kruidenthee, fireweed, epilobium angustifolium, European Medicines Agency, kruidengeneeskunde, cafeïnevrij, Siberië
-fragments:
-  header:
-  footer:
-Contentful: 6M6qLeZVXT6g1GMPLpk14n
+meta-tags: thee, ivan chai, kruiden, kruidenthee, fireweed, epilobium angustifolium, European Medicines Agency, kruidengeneeskunde, cafeïnevrij, Siberië
+banner: 6M6qLeZVXT6g1GMPLpk14n
+contentful:
   imageOptions:
     fm: jpg
     q: 50

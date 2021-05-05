@@ -17,8 +17,8 @@ meta-tags: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bp
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: 
-banner:
-contentful: 12pAkMpkrjbU6TARZvxcF4
+banner: 12pAkMpkrjbU6TARZvxcF4
+contentful:
   imageOptions:
     fm: jpg
     q: 50

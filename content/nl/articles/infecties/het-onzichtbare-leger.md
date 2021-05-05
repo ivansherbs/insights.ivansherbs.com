@@ -17,7 +17,8 @@ meta-tags: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infect
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/infectie
-contentful: 5vgkjriNf0Iais5agiBLIe
+banner: 5vgkjriNf0Iais5agiBLIe
+contentful:
   imageOptions:
     fm: jpg
     q: 50

@@ -15,7 +15,8 @@ meta-tags: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspi
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/slijmbeursontsteking
-contentful: 1cuURYWqxLkX7VCHOmLXhQ
+banner: 1cuURYWqxLkX7VCHOmLXhQ
+contentful:
   imageOptions:
     fm: jpg
     q: 50

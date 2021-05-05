@@ -10,10 +10,8 @@ publish:
 tags:
 meta-description:
 meta-tags:
-fragments:
-  header:
-  footer:
-contentful: 4xERvF6aRTWBQwMFipxC3k
+banner: 4xERvF6aRTWBQwMFipxC3k
+contentful:
   imageOptions:
     fm: jpg
     q: 

@@ -6,7 +6,8 @@ category:
 publish:
 author: Michael Koch
 meta-tags: ivan Chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, natuur, geneeskrachtig, michael koch, ivan's herbs,
-contentful: 4xERvF6aRTWBQwMFipxC3k
+banner: 4xERvF6aRTWBQwMFipxC3k
+contentful:
   imageOptions:
     fm: jpg
     q: 50

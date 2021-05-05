@@ -17,7 +17,8 @@ Meta-tags: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, na
 fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
-contentful: 2HOzwlQheosz5tIAa69mwT
+banner: 2HOzwlQheosz5tIAa69mwT
+contentful:
   imageOptions:
     fm: jpg
     q: 50

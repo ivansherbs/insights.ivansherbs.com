@@ -16,7 +16,8 @@ meta-tags: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, 
 fragments:
   header: nl/fragments/voordelen/5-3-vermindert-de-kans-op-een-burn-out
   footer: nl/fragments/faq/burnout
-contentful: 6CiwLZ3Sy56j7IPi8Agfwu
+banner: 6CiwLZ3Sy56j7IPi8Agfwu
+contentful:
   imageOptions:
     fm: jpg
     q: 50

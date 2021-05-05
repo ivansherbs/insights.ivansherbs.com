@@ -17,7 +17,8 @@ meta-tags: prostaat, prostaatkanker, prostaatklachten, prostaatpijn, symtomen pr
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/prostaatkanker
-contentful: 63nqIZxDsZpBZugo5Vz18G
+banner: 63nqIZxDsZpBZugo5Vz18G
+contentful:
   imageOptions:
     fm: jpg
     q: 50

@@ -22,7 +22,8 @@ meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, ve
 fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
-contentful: 6v0zAskc4cqu5ItFFRm5Q5
+banner: 6v0zAskc4cqu5ItFFRm5Q5
+contentful:
   imageOptions:
     fm: jpg
     q: 50

@@ -2,11 +2,12 @@
 url: /nl/affiliates
 shopify:
   language: NL
-contentful: 6csVsKRo3aDFZgyA0ojdEV
-@ Gabi, can you make this page hidden from customers?
+banner: 6csVsKRo3aDFZgyA0ojdEV
 ---
 
-### Geachte Affiliate,
+TODO  make this page hidden from customers
+
+### Geachte Affiliate
 
 Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs | Nederland
 
