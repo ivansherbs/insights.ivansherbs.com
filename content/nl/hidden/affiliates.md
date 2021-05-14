@@ -12,7 +12,9 @@ contentful:
     effect: o-lg-60d-black
 ---
 
-### Geachte Affiliate,
+TODO  make this page hidden from customers
+
+### Geachte Affiliate
 
 Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs | Nederland
 

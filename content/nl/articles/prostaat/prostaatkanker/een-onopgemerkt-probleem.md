@@ -19,7 +19,7 @@ fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/prostaatkanker
 banner: 63nqIZxDsZpBZugo5Vz18G
-contentful: 
+contentful:
   imageOptions:
     fm: jpg
     q: 50
