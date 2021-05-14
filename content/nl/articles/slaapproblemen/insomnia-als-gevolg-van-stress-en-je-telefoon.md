@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: Insomnia als gevolg van stress en je telefoon
+url: /nl/artikel/insomnia-als-gevolg-van-stress-en-je-telefoon
 type: artikel
 category: slaapproblemen
 publish:
@@ -18,11 +19,15 @@ meta-tags: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblemat
 fragments:
   header: nl/fragments/voordelen/4-verbetert-de-nachtrust
   footer: nl/fragments/faq/slaapproblemen
-contentful: 5aWUslWsXLMPYVRtJGvAZ4
+banner: 5aWUslWsXLMPYVRtJGvAZ4
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af.
 
 ### Wanneer spreken we wél van een slaapprobleem?
@@ -116,3 +121,5 @@ Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook 
 Mocht je toch onverhoopt slaapproblemen rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Benieuwd naar de impact van slaapproblemen op Nederland?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

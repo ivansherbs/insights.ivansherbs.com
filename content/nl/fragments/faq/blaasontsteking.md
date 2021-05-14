@@ -1,18 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een blaasontsteking?](#wat-is-een-blaasontsteking)
-
-* [Hebben zowel mannen als vrouwen last van dit probleem?](#Hebben-zowel-mannen-als-vrouwen-last-van-dit-probleem)
-
-* [Waarom is dit probleem van invloed op de kwaliteit van je leven?](#Waarom-is-dit-probleem-van-invloed-op-de-kwaliteit-van-je-leven)
-
-* [Komt een blaasontsteking dan alleen door seks?](#Komt-een-blaasontsteking-dan-alleen-door-seks)
-
-* [Hoe komen ongewenste bacteriën in je lichaam?](#Hoe-komen-ongewenste-bacterien-in-je-lichaam)
-
-* [Zijn er bepaalde risicofactoren?](#Zijn-er-bepaalde-risicofactoren)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is een blaasontsteking?
 

@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: Groeien tot u erbij neervalt...
+url: /nl/artikel/groeien-tot-u-erbij-neervalt
 type: artikel
 category: vergrote prostaat
 publish: 
@@ -16,11 +17,15 @@ meta-tags: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroo
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/vergrote-prostaat
-contentful: 7LnD9ZPfNyYfW4m4huMGrC
+banner: 7LnD9ZPfNyYfW4m4huMGrC
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+   effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Wist u dat sommige delen van het lichaam niet willen stoppen met groeien?
 
 **Túúúúrlijk komt u dit bekend voor.**
@@ -121,3 +126,5 @@ Het **European Medicines Agency** heeft de werking van Ivan Chai **geëvalueerd 
 Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. Laat u informeren over de behandelmethode.
 
 Op zoek naar meer verdieping?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

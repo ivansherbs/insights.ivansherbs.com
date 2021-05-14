@@ -1,10 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Hoeveel impact hebben hart- en vaatziekten in Nederland?](#Hoeveel-impact-hebben-hart-en-vaatziekten-in-Nederland?)
-
-* [Waardoor krijg je een hart- en vaatziekten?](#Waardoor-krijg-je-een-hart-en-vaatziekten)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Hoeveel impact hebben hart- en vaatziekten in Nederland?
 

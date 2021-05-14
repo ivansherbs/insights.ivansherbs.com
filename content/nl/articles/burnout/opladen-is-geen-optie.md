@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: Opladen is géén optie
+url: /nl/artikel/opladen-is-geen-optie
 type: artikel
 category: burnout
 publish:
@@ -16,11 +17,14 @@ meta-tags: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, 
 fragments:
   header: nl/fragments/voordelen/5-3-vermindert-de-kans-op-een-burn-out
   footer: nl/fragments/faq/burnout
-contentful: 6CiwLZ3Sy56j7IPi8Agfwu
+banner: 6CiwLZ3Sy56j7IPi8Agfwu
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
 
 **Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burnout bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren. 
 
@@ -103,3 +107,5 @@ Goed om te weten.
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burnout.
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

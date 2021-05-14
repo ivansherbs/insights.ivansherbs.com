@@ -1,14 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is stress?](#wat-is-stress)
-
-* [Hoe ontstaat stress?](#Hoe-ontstaat-stress)
-
-* [Wat zijn de oorzaken van stress?](#Wat-zijn-de-oorzaken-van-stress)
-
-* [Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?](#Wat-kan-er-gebeuren-wanneer-je-té-lang-met-veel-stress-rondloopt)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is stress?
 

@@ -1,25 +1,30 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: 1 theekopje vol bloed
+url: /nl/artikel/1-theekopje-vol-bloed
 type: artikel
 category: menstruatiepijn en baarmoederontsteking
 publish:
   author: Svetlana Petrova
   date:
 tags:
-- baarmoeder
 - vrouw
 - moeder
-meta-description: Wist je dat? De verschillende kleuren rood die jij menstrueert iets vertelt over je innerlijkse balans. Benieuwd naar de inzichten?
+- buikkrampen
+meta-description: Wist je dat? De verschillende kleuren rood die jij menstrueert iets vertelt over je innerlijkse balans. Benieuwd naar de inzichten? Misschien is dit artikel wel het delen waard...
 meta-tags: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongesteld, menstruatie, baarmoeder, bevalling, oestrogeen, menopauze, keizersnede
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/baarmoederontsteking
-contentful: 26tAtHceESEXQYOWF7OG8h
+banner: 26tAtHceESEXQYOWF7OG8h
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Wanneer jij ongesteld bent komt er per keer ongeveer 80ml aan bloed uitzetten. En voor de rekenwonders onder ons; dat is toch al gauw 1 theekopje vol bloed per week. 
 
 Welke kruidenmelange mag je lekker zelf verzinnen. 
@@ -39,6 +44,8 @@ En waarom Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie
 ### Kleurenpalet
 
 Laten we bij deze dieper ingaan op dit maandelijkse kleurenpalet om de gezondheid van je lichaam nader te bepalen. Te beginnen bij een kleur vaker geproduceerd door de fanatieke sporters, stresskippen en anticonceptiepil gebruikers onder ons. 
+
+[[contentfulImage 1ydHsGguUIjquLvuxKDLWf]]
 
 ### Rozerood
 
@@ -65,6 +72,8 @@ Ivan Chai vermindert de kans op stress. Dit wordt mogelijk gemaakt door de kalme
 
 Drink Ivan Chai tevens als aanvulling op medicijnen uit de farmaceutische industrie ( anticonceptiepil). Met name om ongewenste bijwerkingen te bestrijden. ( Dit bespreken we verderop in het artikel.) 
 
+[[contentfulImage 3yLnMoa5I3txFa7ZzZajsa]]
+
 ### Wittigrood
 
 Met wittig rood bedoelen we ook wel waterig rood. Een kleur die je oploopt bij weinig, of juist heel veel menstrueren. Dit wijst op bloedarmoede. Oftewel ijzertekort. 
@@ -81,6 +90,8 @@ Een tekort aan vitamine C kun je oplopen door:
 Om te beginnen. Vitamine C is rijkelijk te vinden in Ivan Chai. Door de vitamine C wordt je weerstand versterkt. 
 
 Ivan Chai verzorgt je spijsverteringsstelsel. Met als gevolg dat voedingsstoffen beter worden opgenomen. Ook de opname van ijzer wordt hierdoor bevordert. 
+
+[[contentfulImage 41HoJLKcpCOgTTNd76vCiA]]
 
 ### Rode-gelei
 
@@ -102,6 +113,8 @@ Ivan Chai verzorgt het spijsverteringsstelsel. Naast de opname van voedingsstoff
 
 Ivan Chai bevat zoals eerder beschreven een kalmerende werking. Onderzoek heeft aangetoond dat deze kalmerende werking van invloed is op je centrale zenuwstelsel. Deze kalmerende werking is al eeuwen bekend in de traditionele kruidengeneeskunde. Maar nu ook erkend door hedendaags onderzoek ( hierdoor is Ivan Chai ook effectief tegen stress en angst).
 
+[[contentfulImage 5iNEfH10KUpFE8IBE07gTW]]
+
 ### Donkerrood
 
 Hiermee bedoel ik tegen het bruin-rood en zwart-rood aan. Dit zul je zien aan het begin en einde van je menstruatiecyclus. 
@@ -116,6 +129,8 @@ Nu we het toch hebben over zuurstof in je bloed. Ivan Chai versterkt de antioxid
 
 ( En even buiten de baarmoeder om. Deze werking is tevens effectief tegen hart- en vaatziekten. Ontdek deze voordelen in een ander artikel dat we hebben geschreven: “Je hart als bakermat van liefde”)
 
+[[contentfulImage 7li3aJIlzHTImb7PQvKqyN]]
+
 ### Oranje Rood
 
 In tegenstelling tot donkerrood gaan bij deze kleur wél de alarmbellen rinkelen. Denk hierbij aan een soa. Ruikt alles ook een beetje apart? Bel dan even heel snel een huisarts of GGD praktijk op. 
@@ -125,6 +140,8 @@ Waarom Ivan Chai?
 Nu je een soa hebt opgelopen krijg je waarschijnlijk medicijnen uit de farmaceutische industrie voorgeschreven door je huisarts. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Denk maar aan het gebruik van de pil. 
 
 Drink Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie. Om de kans op ongewenste bijwerkingen te bestrijden.
+
+[[contentfulImage 6NuMZCBtt53d8aTU52B0AM]]
 
 ### Felrood
 
@@ -140,6 +157,8 @@ Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
 
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
+[[contentfulImage 1vB1xerKYxnJ3gOGKckz94]]
+
 **Groene Ivan Chai?**
 
 En voor de groene thee drinkers onder ons. Het bestaat; Groene Ivan Chai. 
@@ -147,8 +166,6 @@ En voor de groene thee drinkers onder ons. Het bestaat; Groene Ivan Chai.
 Groene Ivan Chai bevat een juist frisse bitterzoete en grassige smaak.
 
 Benieuwd geworden naar het effect van een bevalling of spiraaltje? 
-
-[[contentfulImage 295TmPMgvdjoj44lJ6bCl6]]
 
 ### Bevalling versus spiraaltje 
 
@@ -186,6 +203,8 @@ Wanneer je baarmoeder eenmaal een ontsteking heeft opgelopen kun je rekenen op e
 
 Hiernaast kun je bij deze heftige en terugkerende baarmoederontstekingen zelfs onvruchtbaar worden. En zonder vruchtbare baarmoeder, géén kinderen. Nog een reden om deze goed te verzorgen.
 
+[[contentfulImage 295TmPMgvdjoj44lJ6bCl6]]
+
 ### Ben jij op zoek naar?
 
 Een veilig product zonder bijwerkingen, rechtstreeks uit de natuur...
@@ -209,3 +228,5 @@ Drink Ivan Chai niet alleen preventief tegen problemen. Maar ook om je fysiek en
 Mocht je toch onverhoopt een met een ernstige aandoening rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de farmaceutische behandelmethode.
 
 Ben jij benieuwd naar meer inzichten over baarmoederontstekingen?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

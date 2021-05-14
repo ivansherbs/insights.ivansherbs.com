@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: Angst als controlemechanisme
+url: /nl/artikel/angst-als-controlemechanisme
 type: artikel
 category: angst
 publish:
@@ -15,11 +16,17 @@ meta-tags: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten
 fragments:
   header: nl/fragments/voordelen/5-2-vermindert-de-kans-op-angst
   footer: nl/fragments/faq/angst
-contentful: 3BPQgrvSsxOBnqdOXJv65w
+banner: 3BPQgrvSsxOBnqdOXJv65w
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 **ANGST** is een emotie die we allen een keer hebben ervaren. 
 
 De één heftiger dan de ander. Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Iets wat jij op dat moment als een bedreiging of gevaar hebt beschouwt.
@@ -138,3 +145,5 @@ Goed om te weten. Bestrijd lichtere vormen van angst en vermijd het gebruik van 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van angst.
 
 Benieuwd hoeveel mensen last hebben van angst?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

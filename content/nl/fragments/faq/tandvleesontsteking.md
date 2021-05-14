@@ -1,15 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een tandvleesontsteking?](#Wat-is-een-tandvleesontsteking)
-
-* [Wat zijn de symptomen van een tandvleesontsteking?](#Wat-zijn-de-symptomen-van-een-tandvleesontsteking?)
-
-* [Welke medicijnen vergroten de kans op een infectie met ontstoken tandvlees tot gevolg?](#Welke-medicijnen-vergroten-de-kans-op-een-infectie-met-ontstoken-tandvlees-tot-gevolg?)
-
-* [Waardoor vergroot ik de kans op ontstoken tandvlees?](#Waardoor-vergroot-ik-de-kans-op-ontstoken-tandvlees?)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai?)
-
+[[toc]]
 
 ### Wat is een tandvleesontsteking?
 

@@ -1,21 +1,25 @@
 ---
-layout: article.html
+layout: article_with_header_and_shopify.html
 title: Zonder probleem bereikte Ivan de top
+url: /nl/artikel/zonder-probleem-bereikte-ivan-de-top
 type: interview 
 category: holisme
-publish: IVAN's
-author: Ivan Alexandrovitsj
+publish:
+author: Michael Koch
 tags:
 - levensstijl
-- holisme
 - sport
 meta-description: Lees nu het interview van Ivan Alexandrovitsj. “Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op 17 gezondheidsproblemen te verminderen”, vertelt Ivan Alexandrovitsj.
-meta-tags: interview, holisme, holistisch, ivan chai, kruiden, kruidengeneeskunde, expeditie, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtige werking
-banner:
-  url: https://drive.google.com/file/d/1ZAACIYC7e3kI8iV3i1ukDcfksB99q7FK/view?usp=sharing  
+meta-tags: interview, top, holisme, holistisch, ivan chai, kruiden, kruidengeneeskunde, expeditie, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, alledaags product, geneeskrachtige werking
+banner: 59lblQYjVQRKlu7gzerhQX
+contentful:
+  imageOptions:
+    fm: jpg
+    q: 50
+    effect: o-lg-60d-black
 ---
 
-“Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op 17 gezondheidsproblemen te verminderen”, vertelt Ivan Alexandrovitsj.
+“Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op gezondheidsproblemen te verminderen”, vertelt Ivan Alexandrovitsj.
 
 Ivan en Michael hebben elkaar destijds ontmoet gedurende een meerdaagse expeditie naar de top van de Belukha. 
 
@@ -29,8 +33,8 @@ De oude wijze man wist door ervaring de jongere expeditieleden door de bare tijd
 
 De extreme weersomstandigheden liegen er namelijk niet om. 
 
-https://drive.google.com/file/d/17Ey8dHygOmt7dN5Abffc0HEiZd5-nZf0/view?usp=sharing
-> De jongere expeditieleden besluiten Ivan eens even aan de tand te voelen. 
+[[contentfulImage 3x8kJsfjcEaqOppS3QrA4]]
+> De expeditieleden op weg naar de top... 
 
 V **Welke veranderingen in jouw levensstijl hebben voor zo'n gezond en sterk lichaam gezorgd?**
 
@@ -52,8 +56,8 @@ Het nemen van tijd voor de handelingen die ik uitvoer spelen hierbij een belangr
 
 Hiernaast heb ik het lichaam bekeken vanuit een holistisch perspectief om de kans op gezondheidsproblemen te verkleinen.
 
-https://drive.google.com/file/d/1chEPEKBF38Fl_P0KnBosAL0jD7Yy_5FR/view?usp=sharing
-> Expeditiekamp Belukha
+[[contentfulImage 1YlVSpYMyk67MhqATJtUrg]]
+> Expeditiekamp halverwege de Belukha
 
 V **Wat wordt bedoeld met het holistische perspectief?**
 
@@ -61,11 +65,11 @@ Deze visie bestrijkt het menselijk lichaam als geheel. Hiermee bedoel ik de gezo
 
 De mens wordt in zijn totaliteit benaderd.
 
-Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken liggen er eenvoudige en biologische producten voor de hand.
+Denk aan de lichamelijke, mentale, sociale en emotionele kant. Het zien van samenhang in voor en tegenspoed staat hierbij centraal. Om deze te versterken zijn er eenvoudige producten beschikbaar rechtstreeks uit de natuur.
 
-V **Waar moet ik aan denken bij het gebruik van eenvoudige en biologische producten?**
+V **Waar moet ik aan denken bij het gebruik van eenvoudige producten rechtstreeks uit de natuur?**
 
-Met name het gebruik van kruiden bieden soelaas in de traditionele volksgeneeskunde. Denk hierbij aan kruidenthee uit Siberië goed voor lichaam en geest
+Met name het gebruik van kruiden bieden soelaas in de traditionele volksgeneeskunde. In Siberië groeien deze kruiden letterlijk in de wildernis. Denk hierbij aan de kruiden waar Ivan Chai van wordt gemaakt. Goed voor lichaam en geest.
 
 Volgens deze traditionele geneeskunde waren deze kruiden vooral goed voor het versterken van de weerstand, de werking als krachtige ontstekingsremmer en verzorgen van het spijsverteringsstelsel.
 
@@ -79,7 +83,7 @@ V **Het gebruik van kruiden om gezondheidsproblemen aan te pakken klinkt als een
 
 Kruiden kunnen op verschillende manieren worden gebruikt. 
 
-Dagelijks drink ik bijvoorbeeld Ivan Chai, een kruidenthee gemaakt door kruiden uit Siberië. 
+Dagelijks drink ik bijvoorbeeld Ivan Chai, een kruidenthee gemaakt met kruiden uit Siberië. 
 
 De kruiden waarvan Ivan Chai wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben alleen de kruiden uit deze regio een sterk heilzame werking. 
 
@@ -93,7 +97,7 @@ Het gebruik van kruiden klinkt wellicht alternatief, als mens ben ik op zoek naa
 
 Uiteraard met een positief effect op het lichaam en geest! 
 
-https://drive.google.com/file/d/15Nuy_SfQeh9R22tHgEhwE43RsC6W_7IV/view?usp=sharing
+[[contentfulImage 4Zab82vKBZCfvkqxQKdZaE]]
 > “...zonder probleem bereikte Ivan de top.”
 
 Het klopt dat de werking wellicht wat langer duurt dan conventionele geneesmiddelen, maar preventief problemen voorkomen is beter dan genezen. 
@@ -102,7 +106,7 @@ Dit gebeurt tegenwoordig vaak met farmaceutische geneesmiddelen die worden ontwi
 
 Deze vorm van geneesmiddelen houd ik liever buiten mijn lichaam.
 
-V **Wanneer kiezen mensen voor een alternatief op farmaceutische geneesmiddelen?**
+V **Wanneer kiezen mensen voor een alternatief op medicijnen uit de farmaceutische industrie?**
 
 Over het algemeen kiezen mensen voor alternatieve geneesmiddelen wanneer ze het vertrouwen in conventionele geneesmiddelen zijn verloren. 
 

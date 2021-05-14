@@ -1,16 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is buikgriep?](#wat-is-buikgriep)
-
-* [Wat zijn maagklachten?](#Wat-zijn-maagklachten)
-
-* [Komt dit probleem veel voor?](#Komt-dit-probleem-veel-voor)
-
-* [Wat zijn darmklachten?](#Wat-zijn-darmklachten)
-
-* [Is er ook wel eens sprake van chronische darmklachten?](#Is-er-ook-wel-eens-sprake-van-chronische-darmklachten)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is buikgriep?
 

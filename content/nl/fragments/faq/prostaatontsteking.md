@@ -1,12 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een prostaatontsteking?](#Wat-is-een-prostaatontsteking)
-
-* [Zijn de symptomen anders bij chronische klachten?](#Zijn-de-symptomen-anders-bij-chronische-klachten)
-
-* [Welk effect heeft het gebruik van farmaceutische medicijnen?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is een prostaatontsteking?
 

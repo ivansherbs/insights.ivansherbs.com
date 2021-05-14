@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: Alle kleine beetjes helpen...
+url: /nl/artikel/alle-kleine-beetjes-helpen
 type: artikel
 category: zwak immuunsysteem
 publish: 
@@ -17,11 +18,15 @@ meta-tags: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, v
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/zwak-immuunsysteem
-contentful: DBaP54JgOt8KM8d8KnLAg
+banner: DBaP54JgOt8KM8d8KnLAg
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 **Vandaag begin ik voor de verandering** met het voordragen van een hééél mooi gedicht over kanker.
 
 .................
@@ -156,3 +161,5 @@ Drink Ivan Chai preventief tegen een zwak immuunsysteem. Of om je fysiek en ment
 Mocht je onverhoopt met een zwak immuunsysteem blijven rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Benieuwd hoe Siberische kruidenthee van invloed is op je immuunsysteem?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

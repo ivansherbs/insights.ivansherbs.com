@@ -1,18 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een infectie?](#Wat-is-een-infectie)
-
-* [Waardoor krijg je een infectie?](#Waardoor-krijg-je-een-infectie)
-
-* [Welke medicijnen zijn van invloed op infecties?](#Welke-medicijnen-zijn-van-invloed-op-infecties)
-
-* [Welk effect heeft het gebruik van medicijnen op infecties?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-infecties)
-
-* [Zijn er meerdere manieren waardoor je een infectie kunt oplopen?](#Zijn-er-meerdere-manieren-waardoor-je-een-infectie-kunt-oplopen)
-
-* [Waardoor vergroot ik de kans op een infectie?](#Waardoor-vergroot-ik-de-kans-op-een-infectie)
-
-* [Waarom Ivan Chai?](#Waarom-Ivan-Chai)
+[[toc]]
 
 ### Wat is een infectie?
 

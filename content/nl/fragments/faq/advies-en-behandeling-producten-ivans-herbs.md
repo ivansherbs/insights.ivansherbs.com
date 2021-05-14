@@ -1,4 +1,4 @@
-### Advies producten Ivan's Herbs
+## Advies producten Ivan's Herbs
 
 Gebruik de producten van Ivan’s Herbs als alternatief of aanvulling op medicijnen uit de farmaceutische industrie:
 
@@ -7,25 +7,25 @@ Gebruik de producten van Ivan’s Herbs als alternatief of aanvulling op medicij
 * als levenselixer
 * maar óók gewoon lekker ter ontspanning.
 
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-[[toc 4]]
+[[toc]]
 
-#### Welke dosering en behandelingskuur raden jullie aan?
+### Welke dosering en behandelingskuur raden jullie aan?
 
 De dosering en behandelingskuur verschilt per product van Ivan’s Herbs. Wij streven ernaar per product een zo eenduidig mogelijke advies mee te geven. 
 
-#### Is het effect van kruiden uit Siberië direct voelbaar?
+### Is het effect van kruiden uit Siberië direct voelbaar?
 
 De werking van de producten van Ivan’s Herbs gaan vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase is het effect voelbaar.
 
 In andere woorden, eenmalig gebruik van het product maakt niet direct het verschil.
 
-#### Wanneer mijn klachten zijn verholpen, kan ik stoppen met het gebruik van de producten van Ivan’s Herbs?
+### Wanneer mijn klachten zijn verholpen, kan ik stoppen met het gebruik van de producten van Ivan’s Herbs?
 
 Wij raden het aan periodiek een preventieve behandeling met regelmaat te herhalen.
  
-#### Treden er ongewenste bijwerkingen op na gebruik van de producten van Ivan’s Herbs?
+### Treden er ongewenste bijwerkingen op na gebruik van de producten van Ivan’s Herbs?
 
 Er zijn tot op heden geen ongewenste bijwerkingen van onze producten gemeld:
 
@@ -68,6 +68,6 @@ Ivan’s Herbs biedt veilige producten aan zonder bijwerkingen, rechtstreeks uit
 
 Goed voorbeeld ter bevestiging van bovenstaande: 
 
-Het European Medicines Agency gevestigd te Amsterdam heeft de werking van Ivan Chai op de prostaat en urinewegen nogmaals geëvalueerd en bevestigd. Dit met name omdat er langdurig grootschalig klinisch onderzoek aan te pas is gekomen.
+Het European Medicines Agency heeft de werking van Ivan Chai op de prostaat en urinewegen nogmaals geëvalueerd en bevestigd. De reden voor deze evaluatie door het EMA is het langdurig grootschalig klinisch onderzoek wat er aan te pas is gekomen om deze resultaten te verzamelen.
 
-Ivan's Herbs biedt een 100% tevredenheidsgarantie. Vragen? Wij zijn online goed te bereiken. Wacht niet langer en bestel uw product.
+De overige voordelen worden ondersteund ook ondersteund. Echter door hedendaags onderzoek.

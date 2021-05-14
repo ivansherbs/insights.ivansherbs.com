@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: Runners high versus Ontstoken pees
+url: /nl/artikel/runners-high-versus-ontstoken-pees
 type: artikel
 category: peesontsteking
 publish:
@@ -12,15 +13,19 @@ tags:
 - ontsteking
 - eyeopener
 meta-description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken achillespees is zo opgelopen. Benieuwd naar de inzichten?
-meta-tags: hardlopen, hardlopers, achillespees, endorfine, endorfines, peesontsteking, duursport, duursporten, pees, pezen
+meta-tags: hardlopen, hardlopers, achillespees, endorfine, endorfines, peesontsteking, duursport, duursporten, pees, pezen, sasha
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/peesontsteking
-contentful: 5nsKyyn7wlXZORSvBx0AdB
+banner: 5nsKyyn7wlXZORSvBx0AdB
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks. Het is goed voor de gezondheid van je lichaam en je gemoedstoestand. 
 
 Zo ben je overdag fitter en komen er stoffen bij vrij waar je gelukkiger van wordt.
@@ -90,3 +95,5 @@ Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga v
 Wil je meer weten over een peesontsteking?
 
 Of hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]
