@@ -18,8 +18,8 @@ meta-tags: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoe
 fragments:
   header: nl/fragments/voordelen/3-versterkt-de-antioxiderede-werking
   footer: nl/fragments/faq/hart-en-vaatziekten
-  banner: 5qaPb48K5Cil5YfyqQggFl
-  contentful:
+banner: 5qaPb48K5Cil5YfyqQggFl
+contentful:
   imageOptions:
     fm: jpg
     q: 50

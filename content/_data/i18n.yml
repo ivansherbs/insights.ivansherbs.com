@@ -18,16 +18,13 @@ home:
 products:
   EN: Products
   NL: Producten
-our story:
+our_story:
   EN: Our story
   NL: Ons verhaal
-benefits:
-  EN: Benefits
-  NL: Voordelen
-whole herbs:
+whole_herbs:
   EN: Whole herbs
   NL: Kruidenthee
-essential oils:
+essential_oils:
   EN: Essential oils
   NL: Etherische oliën
 supplements:
@@ -42,7 +39,7 @@ store:
 currency:
   EN: $
   NL: €
-all articles:
+all_articles:
   EN: All articles
   NL: Alle artikelen
 articles:
@@ -51,7 +48,6 @@ articles:
 story:
   EN: Story
   NL: Verhaal
-
 
 # Shopify integrations
 shopify.product.button:

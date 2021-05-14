@@ -37,7 +37,7 @@ Kruidentheeën als alternatief of aanvulling op medicijnen uit de farmaceutische
 
 [[shopifyCollection 235510562982 buttonDestination=cart]]
 
-## Ivan´s | Favorieten 
+## Ivan´s | Favorieten
 
 Graag bieden wij de mogelijkheid om uw meest favoriete kruidenthee in verschillende formaten aan te schaffen. Wist u dat binnenkort een Ivan Chai met rokerige smaak beschikbaar komt?
 
