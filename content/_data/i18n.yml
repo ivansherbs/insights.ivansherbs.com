@@ -39,7 +39,7 @@ store:
 currency:
   EN: $
   NL: €
-all articles:
+all_articles:
   EN: All articles
   NL: Alle artikelen
 articles:
