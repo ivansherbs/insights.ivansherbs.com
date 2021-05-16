@@ -30,4 +30,4 @@ jobs:
         run: |
           echo "The job status was: ${{ job.status }}"
           echo "The test step output was:"
-          echo "${{ step.test_content.outputs.errors }}" | jq
+          echo "${{ steps.test_content.outputs.errors }}" | jq
