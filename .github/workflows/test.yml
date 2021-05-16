@@ -30,6 +30,7 @@ jobs:
           error_count=$(echo "${test_errors}" | jq 'fromjson | length')
           echo ""
           echo "Error count: ${error_count}"
+          echo "Errors: ${test_errors}"
           # expose the collected errors as a step output
           echo "::set-output name=errors::${test_errors}"
           # fail this step to trigger the next step
