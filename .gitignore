@@ -22,3 +22,6 @@ content/_data/generated/
 
 # VSCode
 .vscode/
+
+# test report
+test_report.json

@@ -12,6 +12,22 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - run: npm ci
-      - run: npm test
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm ci
+      - name: Test content
+        id: test_content
+        run: |
+          # run mocha tests and generate a JSON report
+          npm run test-ci | tee "test_report.json"
+          # collect the errors from the test report
+          test_errors=$(cat "test_report.json" | jq '.tests[] | select(.err.message) | { error: .err.name, title: .fullTitle, message: .err.message }')
+          # expose the collected errors as a step output
+          echo "::set-output name=errors::${test_errors}\n"
+      - name:
+        if: always()
+        run: |
+          echo "The job status was: ${{ job.status }}"
+          echo "The test step output was:"
+          echo "${{ step.test_content.outputs.errors }}" | jq

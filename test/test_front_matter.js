@@ -108,9 +108,9 @@ LANGUAGES.forEach(language => {
             done();
         });
 
-        describe(`YAML syntax`, function () {
+        describe(`- YAML syntax`, function () {
 
-            it('has no syntax errors', async function () {
+            it('- has no syntax errors', async function () {
 
                 const filterOutGoodFiles = async (arr, predicate) => {
                     const results = await Promise.all(arr.map(predicate));
@@ -125,12 +125,12 @@ LANGUAGES.forEach(language => {
             });
         });
 
-        describe('page fragments', function () {
+        describe('- page fragments', function () {
 
             const findFragmentProblems = async (arr) =>
                 await Promise.all(arr.map(mdFile => util.promisify(findProblemsWithFragments)(`${CONTENT_PATH}${language}/${mdFile}`)));
 
-            it('have valid paths', async function () {
+            it('- have valid paths', async function () {
 
                 const problems = await findFragmentProblems(mdFiles);
                 const badFiles = mdFiles
