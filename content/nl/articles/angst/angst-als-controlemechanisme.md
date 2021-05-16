@@ -14,7 +14,7 @@ tags:
 meta-description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar de inzichten?
 meta-tags: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten, controle, fobie, sociale angst, paniek
 fragments:
-  header: nl/fragments/voordelen1/5-2-vermindert-de-kans-op-angst
+  header: nl/fragments/voordelen/5-2-vermindert-de-kans-op-angst
   footer: nl/fragments/faq/angst
 banner: 3BPQgrvSsxOBnqdOXJv65w
 contentful:
