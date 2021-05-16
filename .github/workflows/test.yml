@@ -31,7 +31,7 @@ jobs:
           echo ""
           echo "Error count: ${error_count}"
           # expose the collected errors as a step output
-          echo "::set-output name=errors::${test_errors}\n"
+          echo "::set-output name=errors::${test_errors}"
           # fail this step to trigger the next step
           exit 1
         env:
