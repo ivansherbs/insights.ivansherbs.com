@@ -18,24 +18,24 @@ jobs:
         run: npm ci
       - name: Test content
         id: test_content
+        run: npm test
+      - name: Collect errors
+        if: failure()
         run: |
-          npm test
-          if [ $? -ne 0 ]
-          then
-            # run mocha tests again and generate the test report JSON file
-            # the test-ci NPM script reads the value of the REPORT_FILE environment variable
-            npm run test-ci
-            # collect the errors from the test report
-            test_errors=$(cat "${REPORT_FILE}" | jq '.tests[] | select(.err.message) | { error: .err.name, title: .fullTitle, message: .err.message }')
-            error_count=$(echo "${test_errors}" | jq 'length')
-            echo "Found ${error_count} errors"
-            # expose the collected errors as a step output
-            echo "::set-output name=errors::${test_errors}\n"
-            exit 1
-          fi
+          # run mocha tests again and generate the test report JSON file
+          # the test-ci NPM script reads the value of the REPORT_FILE environment variable
+          npm run test-ci
+          # collect the errors from the test report
+          test_errors=$(cat "${REPORT_FILE}" | jq '.tests[] | select(.err.message) | { error: .err.name, title: .fullTitle, message: .err.message }')
+          error_count=$(echo "${test_errors}" | jq 'length')
+          echo "Found ${error_count} errors"
+          # expose the collected errors as a step output
+          echo "::set-output name=errors::${test_errors}\n"
+          # fail this step to trigger the next step
+          exit 1
         env:
           REPORT_FILE: test_report.json
-      - name: Notify on error
+      - name: Notify errors
         if: failure()
         run: |
           echo "The job status was: ${{ job.status }}"
