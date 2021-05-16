@@ -2,13 +2,12 @@
 layout: article_with_header_and_footer_and_shopify.html
 title: Privacykennisgeving
 fragments:
-  header: 
-  footer:
+  header:
 url: /nl/over/legal/privacykennisgeving
 shopify:
   language: NL
 banner: 4MRpYTwSVcPQJhLq00GZEm
-contentful: 
+contentful:
   imageOptions:
     fm: jpg
     q: 50

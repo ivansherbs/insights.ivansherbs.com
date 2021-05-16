@@ -13,7 +13,6 @@ meta-description: Bekijk ons assortiment aan Siberische matcha. Gegarandeerd de 
 meta-tags: matcha, kruiden, thee, assortiment, pakketten, bestsellers, drank, voeding, collectie, kruidenthee, water, bestsellers, 1kg
 fragments:
   header:
-  footer: 
 banner: 5IvxBq8h7Zkmb457iHVYgL
 contentful:
   imageOptions:
@@ -35,4 +34,4 @@ Ivan's Herbs biedt naast de collectie kruidenthee ook een assortiment aan Siberi
 
 Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water? Koop kilo zakken om voordeel op te doen.
 
-[[shopifyCollection 267300176038 buttonDestination=cart]] 
+[[shopifyCollection 267300176038 buttonDestination=cart]]

@@ -13,7 +13,6 @@ meta-description: Bekijk ons ruime assortiment aan etherische oliën. Gegarandee
 meta-tags: etherische oliën, etherische olien, assortiment, bestsellers, 10ml, bestsellers, dierenleed, aromadiffuser
 fragments:
   header:
-  footer: 
 banner: 6Z5Y2apMYmKPwOkbBkBDdz
 contentful:
   imageOptions:
@@ -25,7 +24,7 @@ shopify:
 ---
 **Bestsellers | 10ml**
 
-Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken. Bewezen effectief en vrij van dierenleed. 
+Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken. Bewezen effectief en vrij van dierenleed.
 
 ## Bestsellers
 

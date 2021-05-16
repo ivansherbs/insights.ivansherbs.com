@@ -16,7 +16,6 @@ meta-description: Prostaatklachten? Drink Ivan Chai tegen een vergrote prostaat 
 meta-tags: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bph, prostaatontsteking, prostaatkanker
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
-  footer: 
 banner: 12pAkMpkrjbU6TARZvxcF4
 contentful:
   imageOptions:
@@ -34,7 +33,7 @@ Het European Medicines Agency (EMA) gevestigd in Amsterdam heeft Ivan Chai als b
 * Prostaatontsteking
 * Vergrote prostaat (BPH)
 
-Bijkomend voordeel: 
+Bijkomend voordeel:
 * Ivan Chai versterkt de de anti-tumoractiviteit.
 
 Tot op heden zijn er meerdere onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie en de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai.

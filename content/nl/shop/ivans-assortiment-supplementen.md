@@ -13,7 +13,6 @@ meta-description: Bekijk ons assortiment aan supplementen. Gegarandeerd de hoogs
 meta-tags: vegan, capsules, supplementen, kruiden, assortiment, bestsellers, collectie, kwaliteit, dierenleed, ontbossing
 fragments:
   header:
-  footer:
 banner: 1hvV8UeDYPLElw2il8Kfjb
 contentful:
   imageOptions:
