@@ -26,7 +26,7 @@ jobs:
           # the test-ci NPM script reads the value of the REPORT_FILE environment variable
           npm run test-ci
           # collect the errors from the test report
-          test_errors=$(cat "${REPORT_FILE}" | jq '.tests[] | select(.err.message) | { error: .err.name, title: .fullTitle, message: .err.message }')
+          test_errors=$(cat "${REPORT_FILE}" | jq '.tests[] | select(.err.message) | [{ error: .err.name, title: .fullTitle, message: .err.message }]')
           error_count=$(echo "${test_errors}" | jq 'length')
           echo "Found ${error_count} errors"
           # expose the collected errors as a step output
