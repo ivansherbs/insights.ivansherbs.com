@@ -25,12 +25,14 @@ jobs:
           # collect the errors from the test report
           test_errors=$(cat "${REPORT_FILE}" | jq '.tests[] | select(.err.message) | { error: .err.name, title: .fullTitle, message: .err.message }')
           # expose the collected errors as a step output
-          echo "${test_errors}"
+          error_count=$(echo "${test_errors}" | jq 'length')
+          echo "Found ${error_count} errors"
           echo "::set-output name=errors::${test_errors}\n"
+          exit "${error_count}"
         env:
           REPORT_FILE: test_report.json
       - name: Notify on error
-        if: always()
+        if: failure()
         run: |
           echo "The job status was: ${{ job.status }}"
           echo "The test step output was:"
