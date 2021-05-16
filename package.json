@@ -20,7 +20,7 @@
     },
     "scripts": {
         "test": "mocha",
-        "test-ci": "mocha --reporter json | tee report.json"
+        "test-ci": "if [ -z \"${REPORT_FILE}\" ]; then REPORT_FILE=test_report.json; fi; mocha --reporter json | tee \"${REPORT_FILE}\""
     },
     "repository": {
         "type": "git",

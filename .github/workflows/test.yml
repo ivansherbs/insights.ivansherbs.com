@@ -19,12 +19,15 @@ jobs:
       - name: Test content
         id: test_content
         run: |
-          # run mocha tests and generate a JSON report
-          npm run test-ci | tee "test_report.json"
+          # run mocha tests and generate the test report JSON file
+          # the test-ci NPM script reads the value of the REPORT_FILE environment variable
+          npm run test-ci
           # collect the errors from the test report
-          test_errors=$(cat "test_report.json" | jq '.tests[] | select(.err.message) | { error: .err.name, title: .fullTitle, message: .err.message }')
+          test_errors=$(cat "${REPORT_FILE}" | jq '.tests[] | select(.err.message) | { error: .err.name, title: .fullTitle, message: .err.message }')
           # expose the collected errors as a step output
           echo "::set-output name=errors::${test_errors}\n"
+        env:
+          REPORT_FILE: test_report.json
       - name: Notify on error
         if: always()
         run: |
