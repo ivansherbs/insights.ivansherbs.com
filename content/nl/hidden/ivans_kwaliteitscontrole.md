@@ -11,8 +11,7 @@ tags:
 meta-description: Wat is Ivan Chai en hoe smaakt het?
 meta-tags: thee, ivan chai, kruiden, kruidenthee, fireweed, epilobium angustifolium, European Medicines Agency, kruidengeneeskunde, cafeïnevrij, Siberië
 fragments:
-  header: /nl/fragments/voordelen/tip-waterkoker.md
-  footer:
+  header: /nl/fragments/voordelen/tip-waterkoker
 banner: 6M6qLeZVXT6g1GMPLpk14n
 contentful:
   imageOptions:

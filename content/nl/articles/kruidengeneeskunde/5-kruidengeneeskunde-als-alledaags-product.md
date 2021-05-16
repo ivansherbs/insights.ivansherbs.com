@@ -14,8 +14,7 @@ tags:
 meta-description: Dagelijks gebruik van kruiden met geneeskrachtige werking? Maak kennis met de producten van Ivan's Herbs.
 meta-tags: medicijnen, kruiden, farmaceutische industrie, probleem, natuurlijk, product, kruidenthee, aromatherapie, supplement, kruidengeneeskunde, angst, stress
 fragments:
-  header: nl/ivans/voordelen/alledaags-product
-  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-producten-ivans-herbs
+  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner: 6jCeZ8QN3TNIwNhdwcjvNZ
 contentful:
   imageOptions:

@@ -14,8 +14,8 @@ tags:
 meta-description: Kruiden krijgen de voorkeur boven medicijnen uit de farmaceutische industrie. Lees ons artikel. Ontdek de inzichten van Ivan's Herbs. Maak kennis met kruiden uit Siberië.
 meta-tags: kruiden, medicijnen, kruidenthee, aromatherapie, supplementen, behandeling, kruidengeneeskunde, farmaceutische industrie, artikel
 fragments:
-  header: nl/ivans/voordelen/voeten
-  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-producten-ivans-herbs
+  header: nl/fragments/voordelen/voeten
+  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner: 24ZRQeE3b0ZfgC5y89uvuS
 contentful:
   imageOptions:

@@ -14,8 +14,8 @@ tags:
 meta-description: "Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, aromatherapie, supplementen"
 meta-tags: medicijnen, kruidenthee, aromatherapie, supplementen, bijwerkingen, community building, kruidengeneeskunde, geneeskunde
 fragments:
-  header: nl/ivans/voordelen/vraag-naar-natuurlijke-behandelingen
-  footer: nl/ivans/veelgestelde-vragen/advies-en-behandeling-producten-ivans-herbs
+  header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
+  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner: 28vX6CG5KUWyOxP0UHKTPi
 contentful:
   imageOptions:
@@ -48,7 +48,6 @@ Binnen de gezondheidszorg is het handig om opties te hebben. Kruidengeneeskunde 
 ### Advies
 Kruidengeneeskunde omvat de veelomvattende disciplines wetenschap als geschiedenis. Hoewel kruidengeneeskunde langer bestaat en wordt gebruikt wil het niet zeggen dat het beter is, echter informeert het verleden het heden.
 
->"Ik moedig mensen aan om voorzichtig te zijn met alle soorten medicijnen. Pas het scepticisme ook toe op conventionele geneeskunde. Oefen je scepsis, onderzoek en sta open zoals een goede scepticus is."
+> "Ik moedig mensen aan om voorzichtig te zijn met alle soorten medicijnen. Pas het scepticisme ook toe op conventionele geneeskunde. Oefen je scepsis, onderzoek en sta open zoals een goede scepticus is."
 
 aldus de Directeur van de Northeast School of Botanical Medicine
-
