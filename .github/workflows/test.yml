@@ -25,7 +25,7 @@ jobs:
           test_errors=$(cat "test_report.json" | jq '.tests[] | select(.err.message) | { error: .err.name, title: .fullTitle, message: .err.message }')
           # expose the collected errors as a step output
           echo "::set-output name=errors::${test_errors}\n"
-      - name:
+      - name: Notify on error
         if: always()
         run: |
           echo "The job status was: ${{ job.status }}"
