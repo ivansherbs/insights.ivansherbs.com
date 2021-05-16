@@ -17,18 +17,20 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Test content
-        id: test_content
         run: npm test
       - name: Collect errors
+        id: test_content
         if: failure()
         run: |
           # run mocha tests again and generate the test report JSON file
           # the test-ci NPM script reads the value of the REPORT_FILE environment variable
           npm run test-ci
           # collect the errors from the test report
-          test_errors=$(cat "${REPORT_FILE}" | jq '.tests[] | select(.err.message) | [{ error: .err.name, title: .fullTitle, message: .err.message }]')
-          error_count=$(echo "${test_errors}" | jq 'length')
-          echo "Found ${error_count} errors"
+          test_errors=$(cat "${REPORT_FILE}" | jq '.tests[] | select(.err.message) | [{ error: .err.name, title: .fullTitle, message: .err.message }] | tojson')
+          error_count=$(echo "${test_errors}" | jq 'fromjson | length')
+          echo ""
+          echo "Error count: ${error_count}"
+          echo ""
           # expose the collected errors as a step output
           echo "::set-output name=errors::${test_errors}\n"
           # fail this step to trigger the next step
