@@ -23,7 +23,7 @@ contentful:
 shopify:
   language: NL
 ---
-Bekijk ons assortiment aan meest verkochte kruiden uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Al onze producten komen rechstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
+Bekijk ons assortiment aan best verkochte kruiden uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Vrij van dierenleed en ontbossing.
 
 
 ## Bestsellers | Top 3
