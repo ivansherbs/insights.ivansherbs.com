@@ -14,7 +14,7 @@ meta-tags: kruidenthee, assortiment, bestsellers, favorieten, kilobags, inzichte
 fragments:
   header: nl/fragments/voordelen/denkaanivansherbs
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
-banner: AFBEELDING TOEVOEGEN 
+banner: 3XhZQYyivs60Y9LajhLC81
 contentful:
   imageOptions:
     fm: jpg
@@ -23,7 +23,7 @@ contentful:
 shopify:
   language: NL
 ---
-Bekijk onze assortiment aan meest verkochte kruiden uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Al onze producten komen rechstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing. 
+Bekijk ons assortiment aan meest verkochte kruiden uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Al onze producten komen rechstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
 
 ## Bestsellers | Top 3
