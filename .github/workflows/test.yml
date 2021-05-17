@@ -41,6 +41,5 @@ jobs:
       - name: Notify errors
         if: failure()
         run: |
-          echo "The job status was: ${{ job.status }}"
-          echo "The test step output was:"
+          echo "Notifying errors:"
           echo ${{ steps.generate_test_report.outputs.errors }} | jq '.[] | .title + ": " + .message'
