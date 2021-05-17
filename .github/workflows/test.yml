@@ -43,4 +43,4 @@ jobs:
         run: |
           echo "The job status was: ${{ job.status }}"
           echo "The test step output was:"
-          echo "${{ steps.generate_test_report.outputs.errors }}"
+          #echo "${{ steps.generate_test_report.outputs.errors }}"
