@@ -16,8 +16,8 @@ tags:
 meta-description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties?
 meta-tags: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel, poenie,
 fragments:
-  header: nl/fragments/voordelen/1-versterkt-de-weerstand
-  footer: nl/fragments/faq/infectie
+  header: de/fragments/voordelen/1-versterkt-de-weerstand
+  footer: nl/fragments/faq/infectie123
 banner: 5vgkjriNf0Iais5agiBLIe
 contentful:
   imageOptions:
@@ -67,7 +67,7 @@ Over het algemeen bewegen ze zich daarom naar warme en vochtige plekken. De plek
 
 ### Begeerlijk doelwit
 
-Echter bij vrouwen is vooral de intieme zone doelwit van deze micro organismen; want dat zijn deze onzichtbare leger: micro organismen. 
+Echter bij vrouwen is vooral de intieme zone doelwit van deze micro organismen; want dat zijn deze onzichtbare leger: micro organismen.
 
 Micro organismen kiezen het liefst een woonomgeving uit waar ze zonder moeite veel schade kunnen aanrichten. Logisch, toch?
 
