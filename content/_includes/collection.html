@@ -121,16 +121,16 @@
                 <div class="collapse navbar-collapse" id="main_menu">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link anchor active" href="{{ env.RESOURCE_BASE_URL }}/">Home</a>
+                            <a class="nav-link anchor active" href="{{ env.RESOURCE_BASE_URL }}/">{% i18n 'home' language %}Home{% endi18n %}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#main_benefits">{% i18n 'benefits' language %}Benefits{% endi18n %}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#products">Producten</a>
+                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#products">{% i18n 'products' language %}Products{% endi18n %}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#story">Ons verhaal</a>
+                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#articles">{% i18n 'articles' language %}Articles{% endi18n %}</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -138,10 +138,12 @@
                                 Winkel
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item anchor" href="https://www.bol.com/" target="_blank">bol.com</a>
-                                <a class="dropdown-item anchor" href="https://www.etsy.com/" target="_blank">Etsy</a>
-                                <a class="dropdown-item anchor" href="https://www.amazon.com/" target="_blank">Amazon</a>
-                                <a class="dropdown-item anchor" href="{{ env.RESOURCE_BASE_URL }}/#map">Winkels</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/shop/ivans-assortiment-siberische-kruidenthee" target="_blank">Kruidenthee</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/shop/ivans-assortiment-etherische-olien" target="_blank">Etherische oliën</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/shop/ivans-assortiment-supplementen" target="_blank">Supplementen</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/shop/ivans-assortiment-matcha" target="_blank">Matcha</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/exclusieve-aanbiedingen" target="_blank">Exclusieve aanbiedingen?</a>
+                                <a class="dropdown-item anchor" href="{{ env.RESOURCE_BASE_URL }}/#map">Assortiment</a>
                             </div>
                         </li>
                         <li class="nav-item">
