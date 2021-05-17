@@ -2,16 +2,44 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ main ]
+    branches:
+    - '*'
   pull_request:
-    branches: [ main ]
+    branches:
+    - '*'
 
 jobs:
-  build:
-
+  test:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - run: npm ci
-      - run: npm test
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm ci
+      - name: Test content
+        run: npm test
+      - name: Collect errors
+        id: generate_test_report
+        if: failure()
+        run: |
+          # run mocha tests again and generate the test report JSON file
+          # the test-ci NPM script reads the value of the REPORT_FILE environment variable
+          npm run test-ci
+          # collect the errors from the test report
+          test_errors=$(cat "${REPORT_FILE}" | jq -c '.tests | map(select(.err.message)) | map({ error: .err.name, title: .fullTitle, message: .err.message })' | jq -R)
+          error_count=$(echo "${test_errors}" | jq 'fromjson | length')
+          echo ""
+          echo "Error count: ${error_count}"
+          echo "Errors: ${test_errors}"
+          # expose the collected errors as a step output
+          echo "::set-output name=errors::${test_errors}"
+          echo 123
+          # fail this step to trigger the next step
+          exit 1
+        env:
+          REPORT_FILE: test_report.json
+      - name: Notify errors
+        if: failure()
+        run: |
+          echo "Notifying errors:"
+          echo ${{ steps.generate_test_report.outputs.errors }} | jq '.[] | .title + ": " + .message'

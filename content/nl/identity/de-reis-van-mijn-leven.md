@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_header_and_shopify.html
 title: De reis van mijn leven
+url: /nl/artikel/de-reis-van-mijn-leven
 type:
 category: 
 publish:
@@ -12,7 +13,7 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect:
+    effect: o-lg-60d-black
 shopify:
   language: NL
 ---
@@ -98,3 +99,4 @@ Met vriendelijke groet,
 [[contentfulImage 653HTp5db45ziENw8JQE4]]
 
 Michael Koch
+

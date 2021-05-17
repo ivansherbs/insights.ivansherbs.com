@@ -10,7 +10,7 @@
     <meta name=”keywords” content="{{ meta.keywords }}">
     <meta name=”author” content="{{ publish.author | default: 'Ivan\'s Insights' }}">
 
-    <title>{{ title }} | Ivan's Herbs</title>
+    <title>{{ title }} | Ivan's Herbs, Herbs from Siberia</title>
 
     <!-- Favicon -->
     <link rel="icon" href="{{ env.RESOURCE_BASE_URL }}/img/favicon.png">
@@ -50,7 +50,8 @@
     <![endif]-->
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script> 
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -130,7 +131,7 @@
                             <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#products">{% i18n 'products' language %}Products{% endi18n %}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#story">{% i18n 'our story' language %}Our story{% endi18n %}</a>
+                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#story">{% i18n 'articles' language %}Articles{% endi18n %}</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -141,12 +142,12 @@
                                 <a class="dropdown-item anchor" href="https://www.ivansherbs.com/collections/whole-herbs" target="_blank">{% i18n 'whole herbs' language %}Whole Herbs{% endi18n %}</a>
                                 <a class="dropdown-item anchor" href="https://www.ivansherbs.com/collections/oils" target="_blank">{% i18n 'essential oils' language %}Essential Oils{% endi18n %}</a>
                                 <a class="dropdown-item anchor" href="https://www.ivansherbs.com/collections/supplements" target="_blank">{% i18n 'supplements' language %}Supplements{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://www.ivansherbs.com/collections/herb-powders" target="_blank">{% i18n 'herb powders' language %}Herb Powders{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="https://www.ivansherbs.com/collections/herb-powders" target="_blank">{% i18n 'matcha' language %}Matcha{% endi18n %}</a>
                                 <a class="dropdown-item anchor" href="{{ env.RESOURCE_BASE_URL }}/#map">{% i18n 'store' language %}Store{% endi18n %}</a>
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#contact">Contact</a>
+                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#contact">Eco7</a>
                         </li>
                     </ul>
                 </div>
@@ -168,7 +169,7 @@
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-12">
-                            <h1>{{ title }}</h1>
+                            <h1>{% i18n 'alle artikelen' language %}Alle artikelen{% endi18n %}</h1>
                         </div>
                     </div>
                 </div>
@@ -252,13 +253,13 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="widget">
-                            <h6>Quick Links</h6>
+                            <h6>Ivan´s</h6>
                             <ul>
                                 <li>
-                                    <a href="#">Home</a>
+                                    <a href="#">Startpagina</a>
                                 </li>
                                 <li>
-                                    <a href="#story">Ons verhaal</a>
+                                    <a href="#story">Artikelen</a>
                                 </li>
                                 <li>
                                     <a href="#main_benefits">Voordelen</a>
@@ -290,7 +291,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="widget">
-                            <h6>Quick Contact</h6>
+                            <h6>Contact</h6>
                             <ul>
                                 <li>
                                     <span>WhatsApp:</span>
@@ -313,7 +314,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-4">
-                        <p>All rights reserved © <a href="#">Ivan's Herbs V.O.F.</a>2020</p> <p>Korte Noorderweg 27G <br> 1221 NA Hilversum <br> orders@ivansherbs.com</p>
+                        <p>All rights reserved © <a href="#">Ivan's Herbs V.O.F.</a>Herbs from Siberia, 2021</p> <p>Korte Noorderweg 27G <br> 1221 NA Hilversum <br> orders@ivansherbs.com</p>
                         <p> KvK: 75553155 </p>
                     </div>
                     <div class="offset-md-4 col-md-4">

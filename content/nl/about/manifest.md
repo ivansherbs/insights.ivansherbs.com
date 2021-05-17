@@ -1,7 +1,17 @@
-# Manifest
-
-Wij geloven in het versterken van onze gezondheidszorg middels traditionele kruidengeneeskunde.
-
+---
+layout: article_with_header_and_footer_and_shopify.html
+title: Ivan´s manifest
+fragments:
+  header: nl/fragments/voordelen/wij-geloven-manifest
+url: /nl/over/manifest
+shopify:
+  language: NL
+banner: 4MRpYTwSVcPQJhLq00GZEm
+contentful:
+  imageOptions:
+    fm: jpg
+    q: 50
+---
 Er is een tijd van komen en gaan voor medicijnen, echter wordt het gebruik niet altijd en overal gewaardeerd. Mensen hebben geen herhaalrecepten nodig, maar dienen beter te worden geïnformeerd over het gebruik van natuurlijke medicatie.
 
 Hoe je het wendt of keert, de eerste apotheken zijn en blijven een feit. Middels effectieve en veilige kruidengeneeskunde richten wij ons op het aanpassen van de huidige gezondheidszorg.

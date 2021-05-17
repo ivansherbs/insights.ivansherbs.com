@@ -1,11 +1,12 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: De man zonder hamer
+url: /nl/artikel/de-man-zonder-hamer
 type: artikel
 category: keelontsteking
 publish:
   author: Ivan Alexandrovitsj
-  date:
+  date: 1 april
 tags:
 - ontsteking
 - levensstijl
@@ -21,7 +22,10 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL. En dat allemaal op één avond. Voel je vooral niet aangesproken. We bekijken zometeen namelijk ook nog even de statistieken. HA-HA.
 
 .................
@@ -103,3 +107,5 @@ Drink Ivan Chai niet alleen preventief tegen een keelontsteking. Maar ook om je 
 Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. Mocht je toch onverhoopt een zwaardere vorm van een keelontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Meer weten over een keelontsteking?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

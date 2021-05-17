@@ -1,18 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een peesontsteking](#Wat-is-een-peesontsteking)
-
-* [Waardoor krijg je een peesontsteking?](#Waardoor-krijg-je-een-peesontsteking)
-
-* [Aan welke sporten moet ik denken?](#Aan-welke-sporten-moet-ik-denken)
-
-* [Welke symptomen duiden op een peesontsteking?](#Welke-symptomen-duiden-op-een-peesontsteking)
-
-* [Welke farmaceutische medicijnen behandelen een peesontsteking?](#Welke-farmaceutische-medicijnen-behandelen-een-peesontsteking)
-
-* [Welk effect heeft het gebruik van medicijnen op een peesontsteking?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-een-peesontsteking)
-
-* [Waarom Ivan Chai](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is een peesontsteking?
 

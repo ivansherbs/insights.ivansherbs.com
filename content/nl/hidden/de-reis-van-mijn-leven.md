@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_header_and_shopify.html
 title: De reis van mijn leven
+url: /nl/artikel/met-korting/de-reis-van-mijn-leven
 type:
 category: 
 publish:
@@ -11,7 +12,7 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect:
+    effect: o-lg-60d-black
 shopify:
   language: NL
 ---
@@ -20,7 +21,7 @@ shopify:
 
 ### Geachte Levensgenieter,
 
-Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar natuurlijke producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
+Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
 
 ### Kruiden uit Siberië
 

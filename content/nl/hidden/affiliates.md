@@ -1,8 +1,15 @@
 ---
-url: /nl/affiliates
+layout: article_with_header_and_shopify.html
+title: De reis van mijn leven
+url: /nl/samenwerkingen/affiliates
 shopify:
   language: NL
 banner: 6csVsKRo3aDFZgyA0ojdEV
+contentful:
+  imageOptions:
+    fm: jpg
+    q: 50
+    effect: o-lg-60d-black
 ---
 
 TODO  make this page hidden from customers

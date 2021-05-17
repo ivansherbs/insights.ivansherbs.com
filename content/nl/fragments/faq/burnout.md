@@ -1,14 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een burnout?](#wat-is-een-burnout)
-
-* [Komt dit probleem vaak voor?](#komt-dit-probleem-vaak-voor)
-
-* [Wat heeft een burnout te maken met stress?](#wat-heeft-een-burnout-te-maken-met-stress)
-
-* [Is dit dan ook vergelijkbaar met een bore-out?](#is-dit-dan-ook-vergelijkbaar-met-een-bore-out)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is een burnout?
 

@@ -6,11 +6,10 @@ type: artikel
 category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
-  date: 17.01.2021
+  date:
 tags:
 - weerstand
 - ontsteking
-- ziekten
 - mentale klachten
 - prostaat
 - urinewegen
@@ -32,7 +31,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 235548934310 buttonDestination=modal]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]
 
 ## Anekdotisch bewijs is krachtig bewijs
 
@@ -44,7 +43,7 @@ Het zijn dé betrouwbare bronnen over voeding en welzijn. Een pluspunt is dat ze
 
 Gelukkig voor ons geldt dit voor oma's overal ter wereld. Het fijne is dat u er ook nog eens veel van kunt leren. Zo zijn oma's uit de voormalige Sovjet-Unie op de hoogte van de voordelen van Ivan Chai.
 
-Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in Siberië vanwege 7 voordelen. Goed voor lichaam en geest. 
+Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in Siberië vanwege 7 voordelen. Goed voor lichaam en geest.
 
 [[contentfulImage 2gjpo5VPHlB4zfJ2E8Tq5]]
 
@@ -52,13 +51,13 @@ Ivan Chai staat ook wel bekend als Siberische kruidenthee. Het werd geoogst in S
 
 Vraag oma's uit de voormalige Sovjet-Unie maar wat de voordelen zijn van Ivan Chai. Ze weten het allemaal. Zo vroeg ze mij gelijk. Wat wilt u weten? De werking op de urinewegen? Spijsvertering? Angst? Oma doet er zo een boekje over open. Zelfs de prostaat van opa heeft er baat bij. Dit hebben we uitvoerig besproken.
 
-In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed onderzocht. Te beginnen bij het eerste voordeel.  
+In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed onderzocht. Te beginnen bij het eerste voordeel.
 
 [[contentfulImage gJlMzDkpnHCVrqBwnpQLa]]
 
 ### 1. Versterkt de weerstand
 
-De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van candida (gist) in het spijsverteringsstelsel. 
+De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van candida (gist) in het spijsverteringsstelsel.
 
 Iedereen begrijpt de volgende logische redenering van oma. Een gezonde spijsvertering betekent een betere opname van voedingsstoffen, wat leidt tot een versterkt immuunsysteem.
 
@@ -66,37 +65,37 @@ Iedereen begrijpt de volgende logische redenering van oma. Een gezonde spijsvert
 
 ### 2. Krachtige ontstekingsremmer
 
-Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectiever dan cortison bij het onderdrukken van ontstekingen. 
+Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectiever dan cortison bij het onderdrukken van ontstekingen.
 
-Een alerte oma heeft dit altijd al geweten. Het preventief behandelen van ontstekingen is een effectieve manier om veel problemen te verhelpen, zoals een blaas- of slijmbeursontsteking. 
+Een alerte oma heeft dit altijd al geweten. Het preventief behandelen van ontstekingen is een effectieve manier om veel problemen te verhelpen, zoals een blaas- of slijmbeursontsteking.
 
 [[contentfulImage 28IMJN1AoFeQRD0I7uG1Yw]]
 
 ### 3. Antioxiderede werking
 
-Oma is misschien minder bekend met het woord “'antioxidant”. Laat staan van het woord ‘polyfenol’. Om maar even wat medische termen te gebruiken. 
+Oma is misschien minder bekend met het woord “'antioxidant”. Laat staan van het woord ‘polyfenol’. Om maar even wat medische termen te gebruiken.
 
-Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten. 
+Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten.
 
-Wellicht overbodig te melden. Oma wist uiteraard wel dat door het drinken van Ivan Chai, ieders hart hierdoor beter bleef kloppen. 
+Wellicht overbodig te melden. Oma wist uiteraard wel dat door het drinken van Ivan Chai, ieders hart hierdoor beter bleef kloppen.
 
 [[contentfulImage 1YeCYk9IuosjGU7cFtuQW3]]
 
-### 4. Verbetert de nachtrust 
+### 4. Verbetert de nachtrust
 
-Ivan Chai is cafeïnevrij en werkt goed tegen insomnia, ofwel slapeloosheid. Het helpt om slaapproblemen te overwinnen. Het staat in de traditionele kruidengeneeskunde bekend als een licht kalmerend middel. 
+Ivan Chai is cafeïnevrij en werkt goed tegen insomnia, ofwel slapeloosheid. Het helpt om slaapproblemen te overwinnen. Het staat in de traditionele kruidengeneeskunde bekend als een licht kalmerend middel.
 
-Wetenschappers noch oma's weten precies hoe het helpt bij slaapstoornissen. Echter wanneer oma last had van insomnia, dronk ze meerdere dagen op rij een paar koppen thee om lekker bij in slaap te vallen. 
+Wetenschappers noch oma's weten precies hoe het helpt bij slaapstoornissen. Echter wanneer oma last had van insomnia, dronk ze meerdere dagen op rij een paar koppen thee om lekker bij in slaap te vallen.
 
 [[contentfulImage 4EMI0SfiaL2oxE1zXJ8qP4]]
 
 ### 5. Vermindert de kans op prikkelbaarheid en angst
 
-Ivan Chai heeft een kalmerende werking. Dit is waarschijnlijk de reden dat Russen deze drank ook aan kinderen geven. Na hedendaags onderzoek is gebleken dat deze kalmerende werking effect heeft op uw centrale zenuwstelsel. 
+Ivan Chai heeft een kalmerende werking. Dit is waarschijnlijk de reden dat Russen deze drank ook aan kinderen geven. Na hedendaags onderzoek is gebleken dat deze kalmerende werking effect heeft op uw centrale zenuwstelsel.
 
-Iedere Rus die ik ben tegengekomen kent Ivan Chai. En heeft het vroeger van oma gekregen. Dit komt ook omdat oma's wisten dat Ivan Chai van nature een lichtzoete smaak bevat. En niet bitter wordt bij te lang trekken. 
+Iedere Rus die ik ben tegengekomen kent Ivan Chai. En heeft het vroeger van oma gekregen. Dit komt ook omdat oma's wisten dat Ivan Chai van nature een lichtzoete smaak bevat. En niet bitter wordt bij te lang trekken.
 
-Kinderen houden nou eenmaal van deze smaak! En nu blijven ze ook nog eens lekker rustig. 
+Kinderen houden nou eenmaal van deze smaak! En nu blijven ze ook nog eens lekker rustig.
 
 [[contentfulImage 1xIwi3rPGISyU1T4m1Tvit]]
 
@@ -104,15 +103,15 @@ Kinderen houden nou eenmaal van deze smaak! En nu blijven ze ook nog eens lekker
 
 Uw oma heeft waarschijnlijk nooit het woord “urogentiaalionimus” uitgesproken, maar ze wist wel af van de gezonde werking op de urinewegen. En op die van opa’s prostaat.
 
-Maria Treben had van de werking gehoord. En wilde dit graag bewijzen. Zij was dan ook een ware pionier in de kruidengeneeskunde. Ze had Ivan Chai als behandeling vrij specifiek in gebruik genomen voor de prostaat. 
+Maria Treben had van de werking gehoord. En wilde dit graag bewijzen. Zij was dan ook een ware pionier in de kruidengeneeskunde. Ze had Ivan Chai als behandeling vrij specifiek in gebruik genomen voor de prostaat.
 
 Nu komt het! Na grootschalig klinisch onderzoek werd het na duizenden recensies van mannen effectief bevonden voor het verhelpen van een prostaatontsteking en een vergrote prostaat.
 
 De oude wijze oma Treben raadde Ivan Chai verder aan voor zowel een nier- als blaasontsteking.
 
-Geinig he!? Oma’s uit het oosten wisten dit dus allang. Echter heeft het European Medicines Agency te Amsterdam dit onderzoek van Maria Treben nogmaals bevestigd. 
+Geinig he!? Oma’s uit het oosten wisten dit dus allang. Echter heeft het European Medicines Agency te Amsterdam dit onderzoek van Maria Treben nogmaals bevestigd.
 
-Oma’s kennis was hierbij dus op academische wijze vastgelegd! 
+Oma’s kennis was hierbij dus op academische wijze vastgelegd!
 
 Mooi bijkomend voordeel. Ivan Chai versterkt het anti-tumor effect. Deze kruidenthee heeft met name een positieve werking op gezonde prostaatcellen. Zo hield oma op eenvoudige wijze opa gelukkig en zijn prostaat gezond.
 
@@ -120,17 +119,17 @@ Mooi bijkomend voordeel. Ivan Chai versterkt het anti-tumor effect. Deze kruiden
 
 ### 7. Verzorgt het spijsverteringsstelsel
 
-Oma's uit de Sovjet-Unie zullen u vertellen dat Ivan Chai de gezondheid van het spijsverteringsstelsel verzorgd. Zweren, gastritis en colitis kunnen allemaal worden verzorgd door Ivan Chai te drinken. 
+Oma's uit de Sovjet-Unie zullen u vertellen dat Ivan Chai de gezondheid van het spijsverteringsstelsel verzorgd. Zweren, gastritis en colitis kunnen allemaal worden verzorgd door Ivan Chai te drinken.
 
-In andere woorden, het verhelpt maag- en darmklachten. Hedendaags onderzoek heeft aangetoond dat van het Prikkelbaar Darm Syndroom, 75% van de patiënten vrouw is. Gelukkig helpt Ivan Chai om spijsverteringsonevenwichtigheden te stabiliseren! Dus oma zat als preventieve behandeling periodiek aan de Ivan Chai. 
+In andere woorden, het verhelpt maag- en darmklachten. Hedendaags onderzoek heeft aangetoond dat van het Prikkelbaar Darm Syndroom, 75% van de patiënten vrouw is. Gelukkig helpt Ivan Chai om spijsverteringsonevenwichtigheden te stabiliseren! Dus oma zat als preventieve behandeling periodiek aan de Ivan Chai.
 
-Oma raadt het tevens aan voor mensen die hun buik moeten kalmeren. Dit gaat met name op voor mensen die veranderingen ondergaan in hun dieet. 
+Oma raadt het tevens aan voor mensen die hun buik moeten kalmeren. Dit gaat met name op voor mensen die veranderingen ondergaan in hun dieet.
 
 Tot slot. De oma's uit de Altaj hadden zelfs geleerd dat darmparasieten geëlimineerd kunnen worden door een afkooksel te drinken.
 
 We mogen onszelf gelukkig prijzen met de vele natuurlijke gezondheids wijsheden van oma's!
 
-Goed om te weten. Ivan Chai komt voort uit een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken. 
+Goed om te weten. Ivan Chai komt voort uit een uiterst duurzaam productieproces. Oma’s uit de Sovjet-Unie ondersteunen deze manier van werken.
 
 Benieuwd geworden hoe Ivan Chai wordt gemaakt?
 
@@ -143,15 +142,15 @@ Benieuwd geworden hoe Ivan Chai wordt gemaakt?
 
 Ivan Chai wordt verwerkt in Siberische ecodorpen. Ver weg van de bewoonde wereld. Dit gebeurt door kruidenthee experts die zo dicht mogelijk bij de natuur willen wonen. Alles wordt er op organische wijze verbouwt of groeit in de wildernis. Het duurzame productieproces ziet er ongeveer als volgt uit.
 
-De bladeren waar Ivan Chai van wordt gemaakt groeien in de wildernis en worden met de hand geplukt. 
+De bladeren waar Ivan Chai van wordt gemaakt groeien in de wildernis en worden met de hand geplukt.
 
-Gewoon met de hand? 
+Gewoon met de hand?
 
 Ja. Gewoon met de hand. Dit komt omdat de ecodorp bewoners het proces zo schoon mogelijk willen houden. Ze willen dat de natuur zo veel mogelijk met rust wordt gehouden.
 
 Het plukken gebeurt daarom ook alleen wanneer de kruiden helemaal zijn volgroeid. Gelukkig gebeurt dit net als vroeger allemaal zonder chemicaliën.
 
-Wanneer de kruiden zijn geplukt gaat er een natuurlijk fermentatieproces overheen. De kruiden worden met rust gelaten zodat de natuur zijn werk kan doen. De meest ervaren kruidenthee expert overziet het proces. Wanneer de kruiden zijn gefermenteerd worden de bladeren op natuurlijke wijze gedroogd. Dit duurt ongeveer drie dagen. 
+Wanneer de kruiden zijn geplukt gaat er een natuurlijk fermentatieproces overheen. De kruiden worden met rust gelaten zodat de natuur zijn werk kan doen. De meest ervaren kruidenthee expert overziet het proces. Wanneer de kruiden zijn gefermenteerd worden de bladeren op natuurlijke wijze gedroogd. Dit duurt ongeveer drie dagen.
 
 Om deze manier van werken hou vast te geven is de Eco7 Standaard in het leven geroepen:
 
@@ -162,11 +161,11 @@ Om deze manier van werken hou vast te geven is de Eco7 Standaard in het leven ge
 - Duurzaam productieproces
 - Geen aroma’s toegevoegd
 - Vrij van dierenleed
-    
+
 Door onze Eco7 Standaard te volgen zijn onze producten tevens:
 - Vrij van ontbossing
 
-En weet u wat? 
+En weet u wat?
 
 De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen geleden. Deze manier van werken is generatie tot generatie overgedragen om de natuur zo min mogelijk te belasten.
 
@@ -174,4 +173,4 @@ De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen 
 
 Onderaan deze pagina kunt u ons advies lezen.
 
-[[shopifyCollection 235510562982 buttonDestination=cart]]
+[[shopifyCollection 235510562982 buttonDestination=modal]]
