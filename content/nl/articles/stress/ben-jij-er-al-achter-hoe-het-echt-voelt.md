@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: Ben jij er al achter hoe het écht voelt?
+url: /nl/artikel/ben-jij-er-al-achter-hoe-het-voelt
 type: artikel
 category: stress
 publish:
@@ -16,11 +17,15 @@ meta-tags: stress, cortisol, stress verminderen, stresshormoon, wat is stress, o
 fragments:
   header: nl/fragments/voordelen/5-1-vermindert-de-kans-op-stress
   footer: nl/fragments/faq/stress
-contentful: 3trDQrnAPyKfBsSInJtB7g
+banner: 3trDQrnAPyKfBsSInJtB7g
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 ### Wist je dat...
 stress zich niet alleen tussen de oren afspeelt? 
 
@@ -67,3 +72,4 @@ Lees verder hoe Ivan Chai je kan helpen bij het verminderen stress.
 
 Wil je dieper ingaan op het onderwerp stress?
 
+[[shopifyCollection 235510562982 buttonDestination=modal]]

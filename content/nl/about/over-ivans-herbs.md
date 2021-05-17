@@ -1,13 +1,17 @@
 ---
 layout: article.html
-title: Over Ivan's Herbs 
+title: Over Ivan's Herbs
+url: /nl/over/over-ivans-herbs
 type: over
-publish: IVAN's
-category: kruiden uit Siberië
+publish:
+category:
 meta-description: Wij geloven in het aanbieden van producten met krachtige impact de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu. Benieuwd waar wij voor staan?
 meta-tags: gezondheid, ivan chai, kruiden, kruidengeneeskunde, medicijn, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7-standaard 
-banner:
-  url: https://drive.google.com/file/d/1om-8ue0Oj6DrRGzOVNujjTmcvFztidlU/view?usp=sharing
+banner: 4QEhQAiCVkb9eHfP9zNnoR
+contentful:
+  imageOptions:
+    fm: png
+    q:
 ---
 
 _"Versterk dagelijks lichaam en geest met kruiden uit Siberië."_
@@ -22,9 +26,7 @@ Ons sociaal en verantwoordelijk gedrag richt zich op de volgende drie punten.
 
 * Community building
 
-
-
-https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
+[[contentfulImage 587qcANxXb7WGYZqYUirxd]]
 
 ### Introduceren kruiden uit Siberië
 
@@ -38,8 +40,7 @@ Deze genormaliseerde manier van werken dient daarom vergezeld te worden door een
 
 Dit doen wij door het aanbieden van kruiden uit Siberië. Goed voor lichaam en geest. 
 
-
-https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
+[[contentfulImage KQWFaPqRC6rGOX9G2rhPg]]
 
 ### Informeren
 
@@ -50,7 +51,7 @@ De adviezen die wij geven over onze producten zijn gebasseerd op hedendaagse ond
 Ontdek de inzichten en laat je informeren.
 
 
-https://drive.google.com/file/d/1VTjogHe9no4IiHM4wPo-QaRCXZf2tTys/view?usp=sharing
+[[contentfulImage QzIUfEuB5zxJRYozJxlCw]]
 
 ### Community building
 

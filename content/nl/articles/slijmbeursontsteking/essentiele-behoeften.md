@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: Essentiële behoeften
+url: /nl/artikel/essentiele-behoefte
 type: artikel
 category: slijmbeursontsteking
 publish:
@@ -15,11 +16,15 @@ meta-tags: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspi
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/slijmbeursontsteking
-contentful: 1cuURYWqxLkX7VCHOmLXhQ
+banner: 1cuURYWqxLkX7VCHOmLXhQ
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Het is fijn om u niet in te hoeven houden. Zeker niet wanneer u beweegt en al helemaal met de meest gangbare activiteiten. Activiteiten die u op dagelijkse basis uitvoert.
 
 ### Essentiële behoefte
@@ -85,3 +90,5 @@ Medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. Ivan Chai voordel
 Mocht u toch onverhoopt een zware slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. Laat u informeren over de behandelmethode.
 
 Wilt u meer weten over het behoud van soepele gewrichten?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

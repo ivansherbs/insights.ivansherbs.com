@@ -18,30 +18,36 @@ home:
 products:
   EN: Products
   NL: Producten
-our story:
+our_story:
   EN: Our story
   NL: Ons verhaal
-benefits:
-  EN: Benefits
-  NL: Voordelen
-whole herbs:
+whole_herbs:
   EN: Whole herbs
   NL: Kruidenthee
-essential oils:
+essential_oils:
   EN: Essential oils
   NL: Etherische oliën
 supplements:
   EN: Supplements
   NL: Supplementen
-herb powders:
-  EN: Herb Powders
-  NL: Kruiden in poedervorm
+matcha:
+  EN: Matcha
+  NL: Matcha
 store:
   EN: Store
   NL: Winkel
 currency:
   EN: $
   NL: €
+all_articles:
+  EN: All articles
+  NL: Alle artikelen
+articles:
+  EN: Articles
+  NL: Artikelen
+story:
+  EN: Story
+  NL: Verhaal
 
 # Shopify integrations
 shopify.product.button:

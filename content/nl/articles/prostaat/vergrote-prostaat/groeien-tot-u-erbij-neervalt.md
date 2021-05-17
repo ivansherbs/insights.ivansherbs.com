@@ -1,9 +1,10 @@
 ---
-layout: article_with_header_and_footer.html
-title: Groeien tot u erbij neervalt...
+layout: article_with_header_and_footer_and_shopify.html
+title: Groeien tot u erbij neervalt…
+url: /nl/artikel/groeien-tot-u-erbij-neervalt
 type: artikel
 category: vergrote prostaat
-publish: 
+publish:
   author: Ivan Alexandrovitsj
   date:
 tags:
@@ -11,25 +12,29 @@ tags:
 - 45+
 - eyeopener
 - prostaat
-meta-description: Prostaatklachten? bph? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Ook wel bekend als benigne prostaat hyperplasie. Benieuwd naar de inzichten? 
+meta-description: Prostaatklachten? bph? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Ook wel bekend als benigne prostaat hyperplasie. Benieuwd naar de inzichten?
 meta-tags: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroot, benigne prostaat hyperplasie, maria treben, urineverlies
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/vergrote-prostaat
-contentful: 7LnD9ZPfNyYfW4m4huMGrC
+banner: 7LnD9ZPfNyYfW4m4huMGrC
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Wist u dat sommige delen van het lichaam niet willen stoppen met groeien?
 
 **Túúúúrlijk komt u dit bekend voor.**
 
-De meest bekende voorbeelden zijn uw haar en nagels. Maar ook niet zichtbare organen hebben de neiging de rest van uw leven te blijven groeien. 
+De meest bekende voorbeelden zijn uw haar en nagels. Maar ook niet zichtbare organen hebben de neiging de rest van uw leven te blijven groeien.
 
 **Tot u erbij neervalt.**
 
-We hebben het over uw prostaat. Wanneer uw prostaat lekker blijft doorgroeien kan dit problemen opleveren. Echter zijn niet alle problemen slecht voor uw lichaam. We beschouwen een vergrote prostaat dan ook als een goedaardige aandoening. 
+We hebben het over uw prostaat. Wanneer uw prostaat lekker blijft doorgroeien kan dit problemen opleveren. Echter zijn niet alle problemen slecht voor uw lichaam. We beschouwen een vergrote prostaat dan ook als een goedaardige aandoening.
 
 Met goedaardig bedoelen we dat ze het lichaam géén schade aan doen. Maar wel als vervelend kunnen worden ervaren.
 
@@ -37,9 +42,9 @@ Komt u dit bekent voor?
 
 **Túúúúrlijk komt dit u dit bekend voor.**
 
-Laten we wederom met herkenbare voorbeelden beginnen zodat we gedurende de rest van het artikel op één lijn zitten. 
+Laten we wederom met herkenbare voorbeelden beginnen zodat we gedurende de rest van het artikel op één lijn zitten.
 
-**Wat willen we hiermee aantonen?** 
+**Wat willen we hiermee aantonen?**
 
 Dat deze goedaardige problemen meer voorkomen dan u denkt. U staat er gewoon niet bij stil.
 
@@ -55,7 +60,7 @@ Dit is een goedaardig tumor. Het gezwel groeit niet door weefsel heen en valt da
 Ontstaat door een opeenhoping van pigment. Gemiddeld genomen heeft een mens 25 moedervlekken. Echter kunnen moedervlekken bij te veel blootstelling aan UV-straling uitgroeien tot een agressieve vorm van huidkanker. Deze goedaardige aandoening ontstaat uit het niets.
 Meestal op jonge leeftijd.
 
-Zoals u ziet zijn er tal van goedaardige aandoeningen die kunnen ontstaan op jongere leeftijd. 
+Zoals u ziet zijn er tal van goedaardige aandoeningen die kunnen ontstaan op jongere leeftijd.
 
 **Hier is niets mis mee.**
 
@@ -63,7 +68,7 @@ Over het algemeen kunt u gewoon normaal blijven functioneren met een goedaardige
 
 **Mooi.**
 
-We zitten op 1 lijn wat betreft de goedaardige aandoeningen. 
+We zitten op 1 lijn wat betreft de goedaardige aandoeningen.
 
 Er zijn óók goedaardige problemen die pas op latere leeftijd ontstaan. **Eén van die problemen** is een vergrote prostaat. Voor uw beeldvorming over de omvang van dit probleem, hierbij de statistieken.
 
@@ -87,7 +92,7 @@ Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in 
 
 Nu is het lastige aan het vakgebied kruidengeneeskunde dat het moeilijk is om bevinding te bewijzen. Er is gelukkig een manier.
 
-Namelijk met **grootschalig klinisch onderzoek**. Echter moeten **duizenden patiënten** bereidwillig zijn het onderzoek kracht bij te zetten. 
+Namelijk met **grootschalig klinisch onderzoek**. Echter moeten **duizenden patiënten** bereidwillig zijn het onderzoek kracht bij te zetten.
 
 Dit is een arbeidsintensief proces waarbij het onderzoek tevens afhankelijk is van de welwillendheid van de al die patiënten om het onderzoek succesvol af te ronden.
 
@@ -121,3 +126,5 @@ Het **European Medicines Agency** heeft de werking van Ivan Chai **geëvalueerd 
 Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. Laat u informeren over de behandelmethode.
 
 Op zoek naar meer verdieping?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

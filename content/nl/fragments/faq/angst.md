@@ -1,14 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is de definitie van angst?](#wat-is-de-definitie-van-angst)
-
-* [Hoe ontstaat een gevoel van angst?](#Hoe-ontstaat-een-gevoel-van-angst)
-
-* [Is angst in Nederland een zorgwekkend probleem?](#Is-angst-in-Nederland-een-zorgwekkend-probleem)
-
-* [Zijn er omstandigheden die het gevoel activeren?](#Zijn-er-omstandigheden-die-het-gevoel-activeren)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is de definitie van angst?
 

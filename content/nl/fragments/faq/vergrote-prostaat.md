@@ -1,10 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een vergrote prostaat?](#Wat-is-een-vergrote-prostaat)
-
-* [Welk effect heeft het gebruik van farmaceutische medicijnen?](#Welk-effect-heeft-het-gebruik-van-farmaceutische-medicijnen)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is een vergrote prostaat?
 

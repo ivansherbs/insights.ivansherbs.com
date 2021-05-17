@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article_with_header_and_footer_and_shopify.html
 title: Voorkom relatieproblemen
+url: /nl/artikel/voorkom-relatieproblemen
 type: artikel
 category: blaasontsteking
 publish:
@@ -17,11 +18,15 @@ meta-tags: blaasontsteking, nierbekkenontsteking, blaasontsteking vrouw, urinewe
 fragments:
   header: nl/fragments/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen
   footer: nl/fragments/faq/blaasontsteking
-contentful: 13fMZBUHfYMm3r0xclV8fD
+banner: 13fMZBUHfYMm3r0xclV8fD
+contentful:
   imageOptions:
     fm: jpg
     q: 50 
+    effect: o-lg-60d-black  
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 **Voorkom relatieproblemen door het voorkomen van een blaasontsteking.**
 
 Ja!
@@ -188,3 +193,5 @@ Beide goed voor je relatie!
 Dus. Recapitulerend en terugkijkende op dit artikel. 
 
 ### Wat zou jij doen? 
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

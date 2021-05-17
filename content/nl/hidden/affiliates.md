@@ -1,12 +1,20 @@
 ---
-url: /nl/affiliates
+layout: article_with_header_and_shopify.html
+title: De reis van mijn leven
+url: /nl/samenwerkingen/affiliates
 shopify:
   language: NL
-contentful: 6csVsKRo3aDFZgyA0ojdEV
-@ Gabi, can you make this page hidden from customers?
+banner: 6csVsKRo3aDFZgyA0ojdEV
+contentful:
+  imageOptions:
+    fm: jpg
+    q: 50
+    effect: o-lg-60d-black
 ---
 
-### Geachte Affiliate,
+TODO  make this page hidden from customers
+
+### Geachte Affiliate
 
 Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs | Nederland
 

@@ -1,20 +1,21 @@
 ---
 layout: article_with_header_and_footer_and_shopify.html
 title: "Ivan's Assortiment | Kruidenthee"
-url: /nl/shop/ivans-assortiment-kruidenthee
+url: /nl/shop/ivans-assortiment-siberische-kruidenthee
 type: artikel
 category: Ivan Chai
 publish:
   author:
   date:
 tags:
-- kruidenthee
+- Assortiment
 meta-description: Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
 meta-tags: kruidenthee, assortiment, pakketten, bestsellers, collectie, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
   header: nl/fragments/voordelen/drink-ivan-chai
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
-contentful: 3BMJ7e2ogSnTsV7AQRK2QF
+banner: q0Hxrkdc2T9yjvrH7yFyY
+contentful:
   imageOptions:
     fm: jpg
     q: 50
@@ -22,10 +23,9 @@ contentful: 3BMJ7e2ogSnTsV7AQRK2QF
 shopify:
   language: NL
 ---
-
 **Bestsellers | Collectie | Favorieten | Follow Up | Kleinere Volumes | Extra Veel Volume**
 
-Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
+Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Kijk gerust even verder...
 
 ## Bestsellers | Top 3
 
@@ -37,7 +37,7 @@ Kruidentheeën als alternatief of aanvulling op medicijnen uit de farmaceutische
 
 [[shopifyCollection 235510562982 buttonDestination=cart]]
 
-## Ivan´s | Favorieten 
+## Ivan´s | Favorieten
 
 Graag bieden wij de mogelijkheid om uw meest favoriete kruidenthee in verschillende formaten aan te schaffen. Wist u dat binnenkort een Ivan Chai met rokerige smaak beschikbaar komt?
 
@@ -49,9 +49,9 @@ Wij geven u graag een opvolging die door uw brievenbus heen past. Wel zo makkeli
 
 [[shopifyCollection 261582815398 buttonDestination=cart]]
 
-## Ivan Chai | Kleinere Volumes
+## Ivan's | Kleinere Volumes
 
-Onder het mom: _"voor ieder wat wils"_. Benieuwd met wat voor een etherische oliën, supplementen of kruiden in poedervorm u onze kleinere hoeveelheden kunt combineren?
+Onder het mom: _"voor ieder wat wils"_. Benieuwd met wat voor een etherische oliën, supplementen of matcha u onze kleinere hoeveelheden kunt combineren?
 
 [[shopifyCollection 261581570214 buttonDestination=cart]]
 

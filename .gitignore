@@ -19,3 +19,9 @@ content/_data/generated/
 
 # Local Netlify folder
 .netlify
+
+# VSCode
+.vscode/
+
+# test report
+test_report.json

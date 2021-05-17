@@ -10,14 +10,12 @@ publish:
 tags:
 meta-description:
 meta-tags:
-fragments:
-  header:
-  footer:
-contentful: 4xERvF6aRTWBQwMFipxC3k
+banner: 16RsdtNWvRY1oCKeEEbfMH
+contentful:
   imageOptions:
     fm: jpg
-    q: 
-    effect:
+    q:
+    effect: o-lg-60d-black
 shopify:
   language: NL
 ---

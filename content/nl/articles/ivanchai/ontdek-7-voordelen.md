@@ -1,6 +1,7 @@
 ---
-layout: article_with_header_and_footer.html
-title: Ontdek 7 voordelen
+layout: article_with_header_and_footer_and_shopify.html
+title: "Ivan Chai: Ontdek 7 voordelen"
+url: /nl/artikel/ontdek-7-voordelen
 type: artikel
 category: Ivan Chai
 publish:
@@ -9,7 +10,6 @@ publish:
 tags:
 - weerstand
 - ontsteking
-- ziekten
 - mentale klachten
 - prostaat
 - urinewegen
@@ -17,16 +17,20 @@ tags:
 - man
 - vrouw
 - 45+
-meta-description: Op zoek naar veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek goed voor lichaam en geest? Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer maar óók gewoon lekker ter ontspanning. Benieuwd naar de inzichten?
+meta-description: Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer maar óók gewoon lekker ter ontspanning. Benieuwd naar de inzichten?
 meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
-contentful: 6v0zAskc4cqu5ItFFRm5Q5
+banner: 6v0zAskc4cqu5ItFFRm5Q5
+contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 ### Ivan Chai
 
 1. Versterkt de weerstand
@@ -99,7 +103,7 @@ Mooi bijkomend voordeel.
 Vaak bent u geneigd over te stappen op medicijnen uit de farmaceutische industrie om de pijn te verhelpen gepaard met een ontsteking. Verminder de kans op de ongewenste bijwerkingen door het drinken van Ivan Chai.
 
 [[contentfulImage 28IMJN1AoFeQRD0I7uG1Yw]]
-> <p style="text-align: right">Na de oogst is binnengehaald worden de bladeren gespreid. Direct worden de kwaliteitscontroles uitgevoerd</p>
+> <p style="text-align: right">Na de oogst is binnengehaald worden de bladeren gespreid. Direct worden de eerste kwaliteitscontroles uitgevoerd</p>
 
 ## 3. Versterkt de antioxiderede werking
 

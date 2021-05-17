@@ -1,17 +1,19 @@
 ---
-layout: article.html
+layout: article_with_header_and_shopify.html
 title: De reis van mijn leven
+url: /nl/artikel/de-reis-van-mijn-leven
 type:
 category: 
 publish:
 author: Michael Koch
 meta-tags: ivan Chai, kruiden, kruidenthee, kruidengeneeskunde, medicijnen, dierenleed, patenten, ecodorp, kennis, voordelen, lichaam, geest, siberië, rusland, siberië, , natuur, geneeskrachtig, michael koch, ivan's herbs, farmaceutische industrie, remedie, Zürich, mont blanc, producten, veilig
 meta-description: Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar natuurlijke producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
-contentful: 4xERvF6aRTWBQwMFipxC3k
+banner: 4xERvF6aRTWBQwMFipxC3k
+contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect:
+    effect: o-lg-60d-black
 shopify:
   language: NL
 ---
@@ -97,3 +99,4 @@ Met vriendelijke groet,
 [[contentfulImage 653HTp5db45ziENw8JQE4]]
 
 Michael Koch
+
