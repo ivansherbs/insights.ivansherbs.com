@@ -67,7 +67,7 @@ Over het algemeen bewegen ze zich daarom naar warme en vochtige plekken. De plek
 
 ### Begeerlijk doelwit
 
-Echter bij vrouwen is vooral de intieme zone doelwit van deze micro organismen; want dat zijn deze onzichtbare leger: micro organismen. 
+Echter bij vrouwen is vooral de intieme zone doelwit van deze micro organismen; want dat zijn deze onzichtbare leger: micro organismen.
 
 Micro organismen kiezen het liefst een woonomgeving uit waar ze zonder moeite veel schade kunnen aanrichten. Logisch, toch?
 
