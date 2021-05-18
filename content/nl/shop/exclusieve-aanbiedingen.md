@@ -1,21 +1,22 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
-title: "Exclusieve aanbiedingen"
+layout: article_with_shopify.html
+title: Exclusieve aanbiedingen
 url: /nl/exclusieve-aanbiedingen
 type: artikel
-category:
+category: TODO
 publish:
-  author:
-  date:
-tags:
-meta-description:
-meta-tags:
-banner: 4xERvF6aRTWBQwMFipxC3k
+  author: TODO
+  date: TODO
+tags: TODO
+meta:
+  description: TODO
+  keywords: TODO
+banner:
+  image: 4xERvF6aRTWBQwMFipxC3k
 contentful:
   imageOptions:
     fm: jpg
-    q: 
-    effect:
+    q: 50
 shopify:
   language: NL
 ---

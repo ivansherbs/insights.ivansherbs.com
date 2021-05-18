@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: "Ivan's Assortiment | Kruidenthee"
 url: /nl/shop/ivans-assortiment-kruidenthee
 type: artikel
@@ -9,21 +9,22 @@ publish:
   date:
 tags:
 - kruidenthee
-meta-description: Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
-meta-tags: kruidenthee, assortiment, pakketten, bestsellers, collectie, favorieten, kilobags, inzichten, geschenkdoos
+meta:
+  description: Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
+  keywords: kruidenthee, assortiment, pakketten, bestsellers, collectie, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
   header: nl/fragments/voordelen/drink-ivan-chai
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
-banner: 3BMJ7e2ogSnTsV7AQRK2QF
+banner:
+  image: 3BMJ7e2ogSnTsV7AQRK2QF
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---
-
 **Bestsellers | Collectie | Favorieten | Follow Up | Kleinere Volumes | Extra Veel Volume**
 
 Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
@@ -38,7 +39,7 @@ Kruidentheeën als alternatief of aanvulling op medicijnen uit de farmaceutische
 
 [[shopifyCollection 235510562982 buttonDestination=cart]]
 
-## Ivan´s | Favorieten 
+## Ivan´s | Favorieten
 
 Graag bieden wij de mogelijkheid om uw meest favoriete kruidenthee in verschillende formaten aan te schaffen. Wist u dat binnenkort een Ivan Chai met rokerige smaak beschikbaar komt?
 

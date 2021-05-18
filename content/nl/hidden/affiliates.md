@@ -1,8 +1,7 @@
 ---
 url: /nl/affiliates
-shopify:
-  language: NL
-banner: 6csVsKRo3aDFZgyA0ojdEV
+banner:
+  image: 6csVsKRo3aDFZgyA0ojdEV
 ---
 
 TODO  make this page hidden from customers
@@ -329,7 +328,7 @@ Ter info: mochten wij overstappen van platform, dan laten wij u dat zo spoedig m
 
 Wij staan open voor een gesprek.
 
-Tot slot, 
+Tot slot,
 
 Wij kijken uit naar een succesvolle samenwerking.
 

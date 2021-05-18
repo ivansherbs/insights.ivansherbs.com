@@ -8,9 +8,11 @@ publish:
   date: 07.01.2021
 tags:
 - ivan chai
-meta-description: Wat is Ivan Chai en hoe smaakt het?
-meta-tags: thee, ivan chai, kruiden, kruidenthee, fireweed, epilobium angustifolium, European Medicines Agency, kruidengeneeskunde, cafeïnevrij, Siberië
-banner: 6M6qLeZVXT6g1GMPLpk14n
+meta:
+  description: Wat is Ivan Chai en hoe smaakt het?
+  keywords: thee, ivan chai, kruiden, kruidenthee, fireweed, epilobium angustifolium, European Medicines Agency, kruidengeneeskunde, cafeïnevrij, Siberië
+banner:
+  image: 6M6qLeZVXT6g1GMPLpk14n
 contentful:
   imageOptions:
     fm: jpg

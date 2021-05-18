@@ -1,6 +1,6 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
-title: "De oorsprong van Ivan Chai"
+layout: article_with_shopify.html
+title: De oorsprong van Ivan Chai
 url: /nl/de-oorsprong-van-ivan-chai
 type: artikel
 category: Ivan Chai
@@ -11,18 +11,20 @@ tags:
 - ivan chai
 - natuur
 - duurzaam
-- -eyeopener
-Meta-description: Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. Wij halen onze producten daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden hebben gevormd niet in de weg te staan. Benieuwd naar de inzichten?
-Meta-tags: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, natuur, rusland, bomen, spar, den, tiaga, gezondheid, evolutie, wildernis, Altaj, fireweed, ivan chai, epilobium angustifolium
+- eyeopener
+meta:
+  description: Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. Wij halen onze producten daarom enkel uit de wildernis van Siberië. Simpelweg om de natuurlijke evolutie die deze kruiden hebben gevormd niet in de weg te staan. Benieuwd naar de inzichten?
+  keywords: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, natuur, rusland, bomen, spar, den, tiaga, gezondheid, evolutie, wildernis, Altaj, fireweed, ivan chai, epilobium angustifolium
 fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
-banner: 2HOzwlQheosz5tIAa69mwT
+banner:
+  image: 2HOzwlQheosz5tIAa69mwT
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---

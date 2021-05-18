@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer.html
+layout: article.html
 title: Essentiële behoeften
 type: artikel
 category: slijmbeursontsteking
@@ -8,14 +8,16 @@ publish:
   date:
 tags:
 - ontsteking
-- 45+    
+- 45+
 - ouderdom
-meta-description: Bij een slijmbeursontsteking is niet alleen pijn, maar ook angst om te bewegen een allesbepalende factor. Benieuwd naar de inzichten?
-meta-tags: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspijn, gewricht, behoefte, slijmbeurs, slijmbeurzen, angst, pijn, bewegen
+meta:
+  description: Bij een slijmbeursontsteking is niet alleen pijn, maar ook angst om te bewegen een allesbepalende factor. Benieuwd naar de inzichten?
+  keywords: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspijn, gewricht, behoefte, slijmbeurs, slijmbeurzen, angst, pijn, bewegen
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/slijmbeursontsteking
-banner: 1cuURYWqxLkX7VCHOmLXhQ
+banner:
+  image: 1cuURYWqxLkX7VCHOmLXhQ
 contentful:
   imageOptions:
     fm: jpg
@@ -55,11 +57,11 @@ Met geïrriteerd bedoelen we ontstoken. Hierdoor kunt u zichzelf minder soepel b
 
 ### Is er een oplossing?
 
-Ja. Dit soort problemen kunt u preventief behandelen. 
+Ja. Dit soort problemen kunt u preventief behandelen.
 
 Een ontsteking kunt u voorkomen en onderdrukken met veilige producten rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
-Denk aan Ivan Chai. Een Siberische kruidenthee. Ivan Chai werkt als een krachtige ontstekingsremmer. 
+Denk aan Ivan Chai. Een Siberische kruidenthee. Ivan Chai werkt als een krachtige ontstekingsremmer.
 
 **Meerdere voordelen?**
 
@@ -69,9 +71,9 @@ Ivan Chai werkt ook goed tegen angst vanwege de kalmerende werking. Het staat in
 
 ### Combinatie medicijnen uit de farmaceutische industrie
 
-Mocht u onverhoopt al met een slijmbeursontsteking rondlopen? 
+Mocht u onverhoopt al met een slijmbeursontsteking rondlopen?
 
-Maakt u hiervoor al medicijnen uit de farmaceutische industrie? 
+Maakt u hiervoor al medicijnen uit de farmaceutische industrie?
 
 Dat kunnen we begrijpen. Soms heeft u zwaardere medicatie nodig.
 

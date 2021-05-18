@@ -8,17 +8,16 @@ author: Ivan Alexandrovitsj
 tags:
 - community building
 - natuur
-meta-description: Om het mileu te beschermen en de kwaliteit van ons product te kunnen waarborgen, zet onze Eco7 Standaard de norm... Lees snel meer over onze Eco7 Standaard. 
-meta-tags: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7 standaard, ontbossingen
+meta:
+  description: Om het mileu te beschermen en de kwaliteit van ons product te kunnen waarborgen, zet onze Eco7 Standaard de norm... Lees snel meer over onze Eco7 Standaard.
+  keywords: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7 standaard, ontbossingen
 banner:
-  url: https://images.ctfassets.net/lyvtxhzy9zgr/6WCbol2zIYPBmUdXxJRGns/8292e1d2ef8b74ef5deefbcbfe26faf0/production-proces-herbs-dyingbanner.png?fm=jpg&q=50
+  image: 6WCbol2zIYPBmUdXxJRGns
   effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-shopify:
-  language: NL
 ---
 ### Community building
 
@@ -38,7 +37,7 @@ Door onze **Eco7 Standaard** te volgen zijn onze producten tevens:
 ### Duurzaam productieproces
 
 De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo klimaatneutraal mogelijk te houden. Alles wordt dan ook op een traditionele wijze verpakt. Nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka.
-    
+
 [[contentfulImage 5wAgIjT0YESBBdOVYAT9Rj]]
 
 ### Schoon en gezond klimaat
