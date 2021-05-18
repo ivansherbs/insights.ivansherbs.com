@@ -2,8 +2,11 @@
 layout: article.html
 title: "Vaginal Yeast Infection Home Remedies: What You Need to Know"
 meta:
-  description: Learn about vaginal yeast infection home remedies. Read about the signs of a yeast infection, what causes it, what it looks like, and what is a yeast infection.
-  keywords: TODO
+  description: Master yeast infection home remedies. Learn the signs of a vaginal yeast infection, what causes it, how long it lasts, and what it is.
+  keywords: yeast infection, women's health, women's health care, women's health problems, women's health and fitness
+publish:
+  author: Michael Koch
+  date: August 26, 2020
 ---
 
 ![vaginal-yeast-infection-itch](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/vaginal-yeast-infection-itch.jpg)
@@ -22,19 +25,21 @@ Here's a breakdown of the topics I will cover:
 
 Let’s get on with it.
 
+
 ## What is a Yeast Infection?
 
 A yeast infection (also called candidiasis) is fungal infection on different body parts.
 
 A trusted academic center, the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/yeast-infection/symptoms-causes/syc-20378999), defines a vaginal yeast infection as:
 
-> ...a fungal infection that causes irritation, discharge and intense itchiness of the vagina and the vulva — the tissues at the vaginal opening.
+> … a fungal infection that causes irritation, discharge and intense itchiness of the vagina and the vulva — the tissues at the vaginal opening.
 
 Put another way, it's a yeast overgrowth in the vagina that causes problems.
 
 The technical term is vulvovaginal candidiasis. It's named after the fungus, *Candida albicans*, which causes this infection most of the time.
 
 Let's see some fast home remedies that you can do to treat it.
+
 
 ## Yeast Infection Home Remedies
 
@@ -47,8 +52,6 @@ Run the signs of your yeast infection by them. Get a test and let them know how 
 Even pharmaceutical medicines don't not work every time for everyone. The same is true for home remedies.
 
 Ok, now we are ready for the home remedies.
-
-
 
 **Drink Ivan Chai like a Russian**
 
@@ -90,8 +93,6 @@ It's fine to drink Ivan Chai even if you are completely healthy.
 
 In fact, Ivan Chai is safe for children. Pretty cool, huh?
 
-
-
 **Get Wild with Oregano**
 
 You don't need your typical oregano you find on your pizza. That's common oregano (*Origanum marjoram*).
@@ -99,8 +100,6 @@ You don't need your typical oregano you find on your pizza. That's common oregan
 You need Essential Oil of Oregano made from wild Oregano. I'll avoid confusion with a picture of wild Oregano (*Origanum vulgare*).
 
 ![wild-oregano-vaginal-yeast-infection](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/wild-oregano-vaginal-yeast-infection.jpg)
-
-
 
 Where's the proof?
 
@@ -122,8 +121,6 @@ Caution for those will bleeding disorders.
 
 Wild oregano is a blood thinner. Don't use it at all if you have blood-clotting issues or are already taking blood thinners.
 
-
-
 **Get high on Vitamin C**
 
 No, you can't get high on it. At least not that I'm aware of.
@@ -140,7 +137,7 @@ Let me tell you.
 
 Taking Vitamin C helps regulate your blood sugar. Still wondering what's the point?
 
-*Candida albicans* loves sugar. Reduce your sugar levels, and you'll reduce *Candida albicans* .
+*Candida albicans* loves sugar. Reduce your sugar levels, and you'll reduce *Candida albicans*.
 
 There's good proof to that. Check this graph from a [study on vaginal yeast and diabetics](https://pubmed.ncbi.nlm.nih.gov/18182346/):
 
@@ -168,8 +165,6 @@ It boosts the effectiveness and prolongs the effect.
 
 Prefer food over supplements? Check these [foods with the highest Vitamin C](https://www.healthline.com/nutrition/vitamin-c-foods).
 
-
-
 **When Coconuts and Tampons become One**
 
 Coconut oil is the fatty oil that comes from coconuts. It's a known anti-fungal.
@@ -186,8 +181,6 @@ Remember to change the tampon often.
 
 *Important note:* Before using coconut oil in your vagina, you should check with your doctor.
 
-
-
 **Test before you treat**
 
 Again, you need to be sure you have a yeast infection. For that you need a test.
@@ -195,19 +188,18 @@ Again, you need to be sure you have a yeast infection. For that you need a test.
 But before you go get a test, you need a signal, right? Read on for some yeast infection signs.
 
 
-
 ## Signs of Yeast Infection
 
-So you are asking yourself "how do i know if I have a yeast infection?"
+So you are asking yourself "how do I know if I have a yeast infection?"
 
 The following are signs of a vaginal yeast infection:
 
-- Watery vaginal discharge
-- Itching and irritation in the vagina and vulva
-- Vaginal pain, soreness, and rash
-- Redness and swelling of the vulva
-- Thick white vaginal discharge like cottage cheese (read on for a picture)
-- A burning sensation, especially during sex or while urinating
+- watery vaginal discharge
+- itching and irritation in the vagina and vulva
+- vaginal pain, soreness, and rash
+- redness and swelling of the vulva
+- thick white vaginal discharge like cottage cheese (read on for a picture)
+- a burning sensation, especially during sex or while urinating
 
 Of course, these are only signs of a yeast infection. The best way to know for sure is a test.
 
@@ -226,11 +218,9 @@ In short, almost 75% of women are wrong in self-diagnosing without a test.
 
 What's worse is that a wrong self-diagnosis can confuse you. Here's another great excerpt from the same story:
 
-> "If you treat yourself and it never goes away, you shouldn't continue to treat yourself... You're making a situation worse and you can get into cyclic episodes where you think you have a yeast infection all of the time."
+> "If you treat yourself and it never goes away, you shouldn't continue to treat yourself… You're making a situation worse and you can get into cyclic episodes where you think you have a yeast infection all of the time."
 >
 > -[Susan Hoffstetter](https://www.sciencedaily.com/releases/2007/09/070910165110.htm), assistant Professor of Women's Health
-
-
 
 In other words, it's very important that you identify the correct infection.
 
@@ -280,7 +270,7 @@ You want to know what causes it right? Knowing empowers you to prevent it.
 
 *Candida albicans* is most likely the fungus that causes a vaginal yeast infection. Other *Candida* fungi can also produce yeast infections.
 
-So the big question is....
+So the big question is…
 
 **What makes yeast overgrow in the vagina?**
 
@@ -301,11 +291,9 @@ Going deeper into each of the causes of a yeast infection can get messy. I'll sa
 
 ## What does a Yeast Infection look like?
 
-It's time to get graphic. Scroll below to see a vaginal yeast infection picture.
+It's time to get graphic.
 
-![what does a yeast infection look like](/Volumes/GoogleDrive/My Drive/1_Site Development/00_Site_Content/2_Articles/yeast-infection-home-remedies/images/what does a yeast infection look like.jpg)
-
-*Image credit: [Mikael Häggström, 2014](https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg).*
+A pelvic examination shows what a yeast infection looks like up close. Click on this link if you'd like to see [a picture (graphic content)](https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg).
 
 If you closed your eyes, no problem. I'll describe the yeast infection discharge for you.
 
@@ -400,7 +388,7 @@ Here's an excerpt from a well respected [journal on plant medicine](https://phyt
 
 ![fireweed-vaginal-yeast-infection](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/fireweed-vaginal-yeast-infection.png)
 
-In short, fireweed acts againts yeast.
+In short, fireweed acts against yeast.
 
 Drink Ivan Chai two to three times daily to use it as a preventative remedy. This is especially true during times of stress.
 
@@ -410,7 +398,7 @@ You can [get a trial of Ivan Chai](https://shop.ivansherbs.com/products/vaginal-
 
 It's common sense, and it's proven by studies. Reduce stress levels and yeast infections occur less often.
 
-A well regarded [journal of women's health](https://www.tandfonline.com/doi/abs/10.1080/01674820601168176) published a concrete finding. Have a look at the conclusion of the study (note that RVVC stands for Recurrent vulvovaginal candidiasis):
+A well regarded [journal of women's health](https://www.tandfonline.com/doi/abs/10.1080/01674820601168176) published a concrete finding. Have a look at the conclusion of the study (note that RVVC stands for *Recurrent vulvovaginal candidiasis*):
 
 ![stress-causes-vaginal-yeast-infections](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/stress-causes-vaginal-yeast-infections.png)
 
@@ -422,7 +410,7 @@ So cut stress, get enough sleep, and exercise. Your immune system will improve a
 
 The vagina is a self-cleaning system. Don't douche it.
 
-A popular [Slideshare on women's hygiene](https://www.slideshare.net/doctortvrao/vaginal-hygienewhat-every-women-should-know#22) confirms this:
+The [Office of Women's Health](https://www.womenshealth.gov/a-z-topics/douching) has a page confirming this:
 
 ![douching-vaginal-yeast-infections](/Volumes/GoogleDrive/My Drive/1_Site Development/0_Articles/yeast-infection-home-remedies/images/douching-vaginal-yeast-infections.png)
 
@@ -506,7 +494,6 @@ The general consensus is that it works, but it burns.
 
 Oil-based creams and ointments also weaken silicone and latex. Make it a point to have another method of birth control as your back-up.
 
-
 **Prescription Drugs**
 
 These are your heavy guns. These are appropriate for severe yeast infections.
@@ -516,7 +503,6 @@ They often come in 7 or 14 day doses. Some are single day dose.
 The same forms apply here. Creams, tablets, ointments, or suppositories.
 
 Like oil-based OTC drugs, get a back up birth-control. The oil weakens latex and silicone in condoms and diaphragms.
-
 
 **Conclusion**
 
@@ -531,6 +517,5 @@ For recurring yeast infections remember to stay dry. Get natural anti-fungals in
 For recurring yeast infections, a more serious pharmaceutical drug is worth investigating.
 
 Stay true to the tips in this article and I guarantee you'll be in a better position to fight yeast infections.
-
 
 *How did these home remedies help you with yeast infections? Did you see any relief or have infections less often? Write below or directly to me at michael@ivansherbs.com.*
