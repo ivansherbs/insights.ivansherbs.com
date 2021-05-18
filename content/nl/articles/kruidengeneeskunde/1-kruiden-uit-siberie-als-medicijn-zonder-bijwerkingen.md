@@ -11,7 +11,7 @@ tags:
 - medicijn
 - kruidengeneeskunde
 - eyeopener
-meta-description: Kruiden als medicijnen? Maak kennis met de inzichten van Ivan's Herbs. Ontdek wat kruidengeneeskunde, aromatherapie, supplementen en matcha kan betekenen voor lichaam en geest.
+meta-description:  Ontdek wat thee, aromatherapie, supplementen en matcha op basis van kruiden uit Siberië kan betekenen voor lichaam en geest. Benieuwd naar de inzichten?
 meta-tags: kruiden, medicijnen, European Medicines Agency, farmaceutische industrie, expert, Amerikaanse Federal Drug Administration, wetenschap, gegevens
 fragments:
   header: nl/fragments/voordelen/kruiden-zijn-de-natuurlijke-oplossing
