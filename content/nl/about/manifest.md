@@ -1,12 +1,12 @@
 ---
 layout: article.html
-title: Ivan´s manifest
+title: Ivan's Manifest
+url: /nl/over/manifest
+type: about
 fragments:
   header: nl/fragments/voordelen/wij-geloven-manifest
-url: /nl/over/manifest
-shopify:
-  language: NL
-banner: 4MRpYTwSVcPQJhLq00GZEm
+banner:
+  image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:
   imageOptions:
     fm: jpg

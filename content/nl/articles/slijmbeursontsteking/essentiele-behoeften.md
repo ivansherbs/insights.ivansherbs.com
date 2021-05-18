@@ -6,7 +6,6 @@ type: article
 category: slijmbeursontsteking
 publish:
   author: Ivanka Lopukhina
-  date:
 tags:
 - ontsteking
 - 45+
@@ -24,6 +23,8 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 

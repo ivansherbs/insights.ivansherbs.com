@@ -6,7 +6,6 @@ type: article
 category: hart- en vaatziekten
 publish:
   author: Ivanka Lopukhina
-  date:
 tags:
 - eyeopener
 - gevoel
@@ -26,6 +25,8 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 

@@ -5,8 +5,7 @@ url: /nl/shop/ivans-assortiment-siberische-matcha
 type: article
 category: siberische matcha
 publish:
-  author:
-  date:
+  author: TODO
 tags:
 - assortiment
 meta:

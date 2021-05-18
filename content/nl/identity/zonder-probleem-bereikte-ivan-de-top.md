@@ -5,7 +5,7 @@ type: interview
 url: /nl/artikel/zonder-probleem-bereikte-ivan-de-top
 category: holisme
 publish:
-author: Michael Koch
+  author: Michael Koch
 tags:
 - levensstijl
 - sport

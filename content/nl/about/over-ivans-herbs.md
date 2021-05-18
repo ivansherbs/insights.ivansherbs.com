@@ -2,8 +2,7 @@
 layout: article.html
 title: Over Ivan's Herbs
 url: /nl/over/over-ivans-herbs
-type: over
-publish: IVAN's
+type: about
 category: kruiden uit Siberië
 meta:
   description: Wij geloven in het aanbieden van producten met krachtige impact de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu. Benieuwd waar wij voor staan?

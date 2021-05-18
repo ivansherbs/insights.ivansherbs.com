@@ -14,9 +14,9 @@ function generate_redirects {
   done
 }
 
-function collect_contentful_images {
-  # grep for all contentful images
-  id_list=$(grep -r -E '\[\[\s*contentfulImage\s+\w+' --no-filename --binary-file=without-match content | cut -d ']' -f 1 | awk '{ print $2 }' | sed -e 's/$/,/g' | tr -d '\n')
+function collect_contentful_inline_images {
+  # grep for all Contentful inline images
+  id_list=$(grep -r -E '\[\[\s*contentfulImage\s+\w+' --no-filename --binary-file=without-match content | cut -d ']' -f 1 | awk '{ print $2 }' | sort -u | sed -e 's/$/,/g' | tr -d '\n')
 
   # finish here if no images
   if [ -z "${id_list}" ]
@@ -30,13 +30,38 @@ function collect_contentful_images {
     return 1
   fi
 
-  # we need the directory for the contentful data
+  # we need the directory for the Contentful data
   mkdir -p content/_data/generated/contentful
 
-  # generate the contentful image list
+  # generate the Contentful image list
   curl --silent --globoff "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url)' > content/_data/generated/contentful/images.json
 
   cat content/_data/generated/contentful/images.json | grep "https"
+}
+
+function collect_contentful_banner_images {
+  # grep for all Contentful banner images
+  id_list=$(grep -r -A2 -E '^banner:' --no-filename --binary-file=without-match content | grep 'image:' | awk '{ print $2 }' | sort -u | sed -e 's/$/,/g' | tr -d '\n')
+
+  # finish here if no images
+  if [ -z "${id_list}" ]
+  then
+    return
+  fi
+
+  if [ -z "${CONTENTFUL_ACCESS_TOKEN}" ]
+  then
+    >&2 echo "Missing value for environment variable value: CONTENTFUL_ACCESS_TOKEN"
+    return 1
+  fi
+
+  # we need the directory for the Contentful data
+  mkdir -p content/_data/generated/contentful
+
+  # generate the Contentful image list
+  curl --silent --globoff "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url)' > content/_data/generated/contentful/banners.json
+
+  cat content/_data/generated/contentful/banners.json | grep "https"
 }
 
 function pre_render_fragments {
@@ -51,13 +76,22 @@ function pre_render_fragments {
 }
 
 function main {
-  # page images
-  echo "IVAN: Collecting Contentful images ..."
-  collect_contentful_images
+  # inline images
+  echo "IVAN: Collecting Contentful inline images ..."
+  collect_contentful_inline_images
   if [ $? -gt 0 ]
   then
-    >&2 echo "IVAN: Failed to collect Contentful images"
+    >&2 echo "IVAN: Failed to collect Contentful inline images"
     return 1
+  fi
+
+  # banner images
+  echo "IVAN: Collecting Contentful banner images ..."
+  collect_contentful_banner_images
+  if [ $? -gt 0 ]
+  then
+    >&2 echo "IVAN: Failed to collect Contentful banner images"
+    return 2
   fi
 
   # template pre-rendering
@@ -66,7 +100,7 @@ function main {
   if [ $? -gt 0 ]
   then
     >&2 echo "IVAN: Failed to pre-render template fragments"
-    return 2
+    return 3
   fi
 
   # template rendering

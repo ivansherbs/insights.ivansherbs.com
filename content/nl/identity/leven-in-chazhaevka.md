@@ -4,8 +4,8 @@ title: Leven in Chazhaevka
 url: /nl/artikel/leven-in-chazhaevka
 type: portret
 category: herbal tea expert
-publish: IVAN's
-author: Svetlana Petrova
+publish:
+  author: Svetlana Petrova
 tags:
 - levensstijl
 - community building
@@ -18,7 +18,6 @@ banner:
   image: 5PgkPxKEArgv1xTgzK4xt
   effect: o-lg-60d-black
 ---
-
 Lees nu het portret van Svetlana Petrova. Eén van de herbal tea experts uit Chazhaevka. Community building in combinatie met creativiteit staan met name centraal in haar nieuwe leven. Lees haar verhaal.
 
 **Een leven vol drukte?**

@@ -8,8 +8,9 @@ publish:
   author: TODO
 tags:
 - Assortiment
-meta-description: Bekijk ons ruime assortiment aan etherische oliën. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende kleine amberkleurige glazen flesjes die overal mee naar toe kunnen worden genomen?
-meta-tags: etherische oliën, etherische olien, assortiment, bestsellers, 10ml, bestsellers, dierenleed, aromadiffuser
+meta:
+  description: Bekijk ons ruime assortiment aan etherische oliën. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende kleine amberkleurige glazen flesjes die overal mee naar toe kunnen worden genomen?
+  keywords: etherische oliën, etherische olien, assortiment, bestsellers, 10ml, bestsellers, dierenleed, aromadiffuser
 fragments:
   header:
 banner:

@@ -4,13 +4,11 @@ title: "Ivan's Assortiment | Bestsellers"
 url: /nl/shop/ivans-assortiment-bestsellers
 type: article
 category: Ivan Chai
-publish:
-  author:
-  date:
 tags:
-- Assortiment
-meta-description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit volgens Eco7 Standaard. Benieuwd naar onze bestsellers?
-meta-tags: kruidenthee, assortiment, bestsellers, favorieten, kilobags, inzichten, geschenkdoos
+- assortiment
+meta:
+  description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit volgens Eco7 Standaard. Benieuwd naar onze bestsellers?
+  keywords: kruidenthee, assortiment, bestsellers, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
   header: nl/fragments/voordelen/denkaanivansherbs
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
