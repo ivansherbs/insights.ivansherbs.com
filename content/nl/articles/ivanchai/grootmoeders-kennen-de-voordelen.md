@@ -13,7 +13,6 @@ tags:
 - prostaat
 - urinewegen
 - buikkrampen
-- man
 - vrouw
 - 45+
 meta:

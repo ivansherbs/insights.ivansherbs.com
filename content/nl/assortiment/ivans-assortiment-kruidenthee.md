@@ -1,17 +1,16 @@
 ---
 layout: article_with_shopify.html
-title: "Ivan's Assortiment | Kruidenthee"
-url: /nl/shop/ivans-assortiment-siberische-kruidenthee
+title: Kruidenthee
+url: /nl/assortiment/ivans-assortiment-siberische-kruidenthee
 type: article
 category: Ivan Chai
 tags:
-- kruidenthee
 - assortiment
 meta:
-  description: Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
+  description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit. Goed voor lichaam en geest. Wacht niet langer en bestel vandaag nog het product dat bij u past. Benieuwd naar de verschillende pakketten?
   keywords: kruidenthee, assortiment, pakketten, bestsellers, collectie, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
-  header: nl/fragments/voordelen/drink-ivan-chai
+  header:
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
 banner:
   image: q0Hxrkdc2T9yjvrH7yFyY
@@ -60,3 +59,4 @@ Onder het mom: _"voor ieder wat wils"_. Benieuwd met wat voor een etherische oli
 Voor de enorme theedrinker die er gewoon geen genoeg van kan krijgen. Wist u dat een kopje thee ongeveer 14 cent kost?
 
 [[shopifyCollection 261576589478 buttonDestination=cart]]
+

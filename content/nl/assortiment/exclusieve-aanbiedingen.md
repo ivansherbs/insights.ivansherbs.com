@@ -1,16 +1,15 @@
 ---
 layout: article_with_shopify.html
 title: Exclusieve aanbiedingen
-url: /nl/exclusieve-aanbiedingen
+url: /nl/assortiment/exclusieve-aanbiedingen
 type: article
-category: TODO
-publish:
-  author: TODO
-  date: TODO
-tags: TODO
+tags:
 meta:
-  description: TODO
-  keywords: TODO
+  description:
+  keywords:
+fragments:
+  header:
+  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:
   image: 16RsdtNWvRY1oCKeEEbfMH
   effect: o-lg-60d-black
