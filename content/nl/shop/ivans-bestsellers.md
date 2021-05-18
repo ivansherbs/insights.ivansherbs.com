@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: "Ivan's Assortiment | Bestsellers"
 url: /nl/shop/ivans-assortiment-bestsellers
 type: artikel
@@ -14,12 +14,13 @@ meta-tags: kruidenthee, assortiment, bestsellers, favorieten, kilobags, inzichte
 fragments:
   header: nl/fragments/voordelen/denkaanivansherbs
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
-banner: 3XhZQYyivs60Y9LajhLC81
+banner:
+  image: 3XhZQYyivs60Y9LajhLC81
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---

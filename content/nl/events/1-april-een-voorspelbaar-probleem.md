@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Een voorspelbaar probleem
 url: /nl/artikel/een-voorspelbaar-probleem
-type: artikel
+type: article
 category: buikgriep
 publish:
   author: Svetlana Petrova
@@ -20,11 +20,11 @@ fragments:
   footer: nl/fragments/faq/buikgriep
 banner:
   image: 37Bs8iLiIbgDtnLsOZdr4e
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---

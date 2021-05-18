@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article.html
 title: Kruiden als preventatieve behandeling
 url: /nl/kruiden-als-preventatieve-behandeling
 type: artikel
@@ -16,14 +16,13 @@ meta-tags: kruiden, medicijnen, kruidenthee, aromatherapie, supplementen, behand
 fragments:
   header: nl/fragments/voordelen/voeten
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
-banner: 24ZRQeE3b0ZfgC5y89uvuS
+banner:
+  image: 24ZRQeE3b0ZfgC5y89uvuS
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
-shopify:
-  language: NL
 ---
 Kruidengeneeskunde in de vorm van kruidenthee, aromatherapie supplementen en matcha kunnen worden gebruikt als preventieve behandeling. Uit onderzoek is gebleken dat het gebruik van kruiden de voorkeur krijgt boven het gebruik van medicijnen uit de farmaceutische industrie. De Wereldgezondheidsorganisatie (WHO) schat zelfs dat 80% van de wereldbevolking gebruik maakt van kruidengeneeskunde bij gebrek aan producten uit de farmaceutische industrie.
 

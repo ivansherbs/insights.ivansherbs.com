@@ -21,11 +21,13 @@ fragments:
   footer: nl/fragments/faq/luchtweginfectie
 banner:
   image: 2kRaYcWbCxpo4WI9of9G2M
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
