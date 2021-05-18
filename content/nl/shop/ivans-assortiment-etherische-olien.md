@@ -1,24 +1,24 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: "Ivan's Assortiment | Etherische oliën"
 url: /nl/shop/ivans-assortiment-etherische-olien
-type: artikel
+type: article
 category: etherische oliën
 publish:
-  author:
-  date:
+  author: TODO
 tags:
 - Assortiment
 meta-description: Bekijk ons ruime assortiment aan etherische oliën. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende kleine amberkleurige glazen flesjes die overal mee naar toe kunnen worden genomen?
 meta-tags: etherische oliën, etherische olien, assortiment, bestsellers, 10ml, bestsellers, dierenleed, aromadiffuser
 fragments:
   header:
-banner: 6Z5Y2apMYmKPwOkbBkBDdz
+banner:
+  image: 6Z5Y2apMYmKPwOkbBkBDdz
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect:
 shopify:
   language: NL
 ---

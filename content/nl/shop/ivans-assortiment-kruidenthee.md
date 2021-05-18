@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: "Ivan's Assortiment | Kruidenthee"
 url: /nl/shop/ivans-assortiment-siberische-kruidenthee
 type: artikel
@@ -8,18 +8,21 @@ publish:
   author:
   date:
 tags:
-- Assortiment
-meta-description: Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
-meta-tags: kruidenthee, assortiment, pakketten, bestsellers, collectie, favorieten, kilobags, inzichten, geschenkdoos
+- kruidenthee
+- assortiment
+meta:
+  description: Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
+  keywords: kruidenthee, assortiment, pakketten, bestsellers, collectie, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
   header: nl/fragments/voordelen/drink-ivan-chai
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
-banner: q0Hxrkdc2T9yjvrH7yFyY
+banner:
+  image: q0Hxrkdc2T9yjvrH7yFyY
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---

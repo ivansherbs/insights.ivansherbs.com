@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: Uw hart als bakermat van liefde
 url: /nl/artikel/uw-hart-als-bakermat-van-liefde
 type: artikel
@@ -13,17 +13,19 @@ tags:
 - relatie
 - ziekten
 - vrouw
-meta-description: Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. Benieuwd naar de inzichten?
-meta-tags: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoelens, vaatziekten
+meta:
+  description: Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. Benieuwd naar de inzichten?
+  keywords: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoelens, vaatziekten
 fragments:
   header: nl/fragments/voordelen/3-versterkt-de-antioxiderede-werking
   footer: nl/fragments/faq/hart-en-vaatziekten
-banner: 5qaPb48K5Cil5YfyqQggFl
+banner:
+  image: 5qaPb48K5Cil5YfyqQggFl
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
@@ -58,7 +60,7 @@ contentful:
 **Gedurende deze periode** bestaat de kans dat u spreekwoordelijk een extra marathon loopt; zonder dat u daar erg in heeft.
 
 **Dit is schadelijk voor uw hart- en vaatstelsel.** Even voor het gemak nemen we aan dat u zelf de link al heeft gelegd tussen hartkloppingen, bloedvaten, de verbinding met organen, bloeddruk en de nodige hart- en vaatziekten die op de loer liggen.
- 
+
 **Gezien de complexiteit** van alleen al het hart en de verbindende taak van uw bloedvaten zijn hart- en vaatziekten moeilijk te herkennen. Bewustwording is een eerste stap richting het preventief behandelen van deze problemen.
 
 **Nog even ter informatie.** Drink Ivan Chai niet alleen preventief tegen hart- en vaatziekten. Maar ook om u fysiek en mentaal te ondersteunen bij het gebruik van medicijnen uit de farmaceutische industrie. Hiernaast heeft Ivan Chai een kalmerende werking op uw centrale zenuwstelsel. Goed tegen angst.

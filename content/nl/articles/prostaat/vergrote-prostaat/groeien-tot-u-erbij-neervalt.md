@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: Groeien tot u erbij neervalt…
 url: /nl/artikel/groeien-tot-u-erbij-neervalt
 type: artikel
@@ -12,17 +12,19 @@ tags:
 - 45+
 - eyeopener
 - prostaat
-meta-description: Prostaatklachten? bph? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Ook wel bekend als benigne prostaat hyperplasie. Benieuwd naar de inzichten?
-meta-tags: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroot, benigne prostaat hyperplasie, maria treben, urineverlies
+meta:
+  description: Prostaatklachten? bph? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Ook wel bekend als benigne prostaat hyperplasie. Benieuwd naar de inzichten?
+  keywords: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroot, benigne prostaat hyperplasie, maria treben, urineverlies
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/vergrote-prostaat
-banner: 7LnD9ZPfNyYfW4m4huMGrC
+banner:
+  image: 7LnD9ZPfNyYfW4m4huMGrC
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 

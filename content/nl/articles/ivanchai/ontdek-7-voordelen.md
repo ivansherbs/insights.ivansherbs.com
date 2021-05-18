@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: "Ivan Chai: Ontdek 7 voordelen"
 url: /nl/artikel/ontdek-7-voordelen
 type: artikel
@@ -17,17 +17,21 @@ tags:
 - man
 - vrouw
 - 45+
-meta-description: Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer maar óók gewoon lekker ter ontspanning. Benieuwd naar de inzichten?
-meta-tags: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
+meta:
+  description: Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer maar óók gewoon lekker ter ontspanning. Benieuwd naar de inzichten?
+  keywords: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
-banner: 6v0zAskc4cqu5ItFFRm5Q5
+banner:
+  image: 6v0zAskc4cqu5ItFFRm5Q5
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
@@ -115,7 +119,7 @@ Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurs
 
 ## Waarom Ivan Chai?
 
-* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. 
+* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten.
 
 Antioxidanten hebben een positieve werking op uw hart- en vaatstelsel.
 
@@ -141,12 +145,12 @@ In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmere
 
 Angst op dagelijkse basis komt vaker voor dan u denkt. Of wat dacht u van een overmatige hoeveelheid aan cortisol, de aanstichter van stress?
 
-* Angst is één van de minst handelbare emoties. 
-* Stress acteert als een ware sluipmoordenaar. 
+* Angst is één van de minst handelbare emoties.
+* Stress acteert als een ware sluipmoordenaar.
 
-Wanneer een overmatige hoeveelheid van beide niet tijdig wordt aangepakt, kan dit leiden tot ernstige mentale klachten. 
+Wanneer een overmatige hoeveelheid van beide niet tijdig wordt aangepakt, kan dit leiden tot ernstige mentale klachten.
 
-Goed om te weten. 
+Goed om te weten.
 
 Iedereen ervaart een lichte vorm van angst. En een beetje stress is oké. Beiden zorgen ervoor dat u erg gefocust en actief bent. Leer daarom omgaan met lichtere vormen van angst en stress.
 
@@ -187,7 +191,7 @@ Tot op heden zijn er enkele onderzoeken gedaan naar (menselijke) prostaatkankerc
 
 * Het antitumor effect is echter wél goed bestudeerd. Ivan Chai heeft met name een positieve werking op gezonde prostaatcellen.
 
-De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen. 
+De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenotheïne B. Ivan Chai kan door de positieve werking die Oenotheïne B heeft op het lichaam worden gebruikt als preventieve behandeling om de kans op prostaatkanker te verkleinen.
 
 Graag willen we tot slot het volgende belichten.
 
@@ -202,7 +206,7 @@ Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling o
 
 Soms heeft u van die dagen, dat u alweer voor de zoveelste keer naar het toilet moet. U maag en darmen gaan wederom als een jekko te keer. Het liefst zou u dan ook weer op 'normale wijze' op het toilet willen zitten.
 
-Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt. Met een veilig, eenvoudig te gebruiken en effectief bewezen door klinisch onderzoek alledaags product. 
+Had dit probleem nou maar gewoon zo goed als mogelijk preventief behandelt. Met een veilig, eenvoudig te gebruiken en effectief bewezen door klinisch onderzoek alledaags product.
 
 Start met deze kennis periodiek een preventieve behandeling met Ivan Chai.
 
@@ -214,7 +218,7 @@ Ivan Chai verzorgt uw spijsverteringsstelsel en helpt de kans op maag- en darmkl
 
 In andere woorden, het vermindert de kans op maag- en darmklachten. Denk hierbij aan het voorkomen van een ontsteking in de maagwand. Of een ontsteking in zowel de dikke als dunne darm.
 
-Om de statistieken er nog even bij te pakken. 
+Om de statistieken er nog even bij te pakken.
 
 75% van de patiënten van het prikkelbare darmsyndroom is vrouw. U kunt last krijgen van uw spijsverteringsstelsel wanneer u veranderingen ondergaan in uw dieet. Of wanneer u intensief gebruik maakt van medicijnen uit de farmaceutische industrie.
 

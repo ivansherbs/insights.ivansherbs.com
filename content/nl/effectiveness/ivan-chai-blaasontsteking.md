@@ -1,12 +1,11 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
-title: "Blaasontsteking..."
+layout: article_with_shopify.html
+title: Blaasontsteking...
 url: /nl/ivan-chai-blaasontsteking
-type: artikel
+type: article
 category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
-  date:
 tags:
 - urinewegen
 - vrouw
@@ -16,12 +15,13 @@ meta-tags: ivan chai, kruiden, blaasontsteking, urineweginfectie
 fragments:
   header: nl/fragments/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen
   footer: nl/fragments/faq/blaasontsteking
-banner: 12pAkMpkrjbU6TARZvxcF4
+banner:
+  image: 12pAkMpkrjbU6TARZvxcF4
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---
