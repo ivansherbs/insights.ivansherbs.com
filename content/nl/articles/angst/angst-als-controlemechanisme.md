@@ -1,11 +1,11 @@
 ---
 layout: article.html
 title: Angst als controlemechanisme
+url: /nl/artikel/angst-als-controlemechanisme
 type: artikel
 category: angst
 publish:
   author: Svetlana Petrova
-  date:
 tags:
 - mentale klachten
 - werk
@@ -18,10 +18,13 @@ fragments:
   footer: nl/fragments/faq/angst
 banner:
   image: 3BPQgrvSsxOBnqdOXJv65w
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
 **ANGST** is een emotie die we allen een keer hebben ervaren.
 
@@ -37,9 +40,7 @@ Laten we onze Van Dale er eens bijpakken.
 
 ### angst
 
-(de; m; meervoud: angsten)
-
-**1.** gevoel van beklemming, vrees, onveiligheid of onzekerheid: iets met angst en beven tegemoetzien er erg tegen opzien, het vrezen; hij stond duizend angsten uit; in angst zitten
+> (de; m; meervoud: angsten) **1.** gevoel van beklemming, vrees, onveiligheid of onzekerheid: iets met angst en beven tegemoetzien er erg tegen opzien, het vrezen; hij stond duizend angsten uit; in angst zitten
 
 **Waar veel mensen snel aan denken bij angst** is een gevoel waarbij je plotseling wilt vluchten.
 
@@ -141,3 +142,5 @@ Goed om te weten. Bestrijd lichtere vormen van angst en vermijd het gebruik van 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van angst.
 
 Benieuwd hoeveel mensen last hebben van angst?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

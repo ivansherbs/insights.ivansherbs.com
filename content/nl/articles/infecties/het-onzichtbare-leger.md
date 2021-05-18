@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Het onzichtbare leger
+url: /nl/artikel/het-ontzichtbare-leger
 type: artikel
 category: vaginale schimmelinfectie
 publish:
@@ -14,18 +15,21 @@ tags:
 - relatie
 meta:
   description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties?
-  keywords: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel
+  keywords: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel, poenie
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/infectie
 banner:
   image: 5vgkjriNf0Iais5agiBLIe
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
-Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want.
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
+Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want...
 
 * Wist je dat **3 op de 4 vrouwen** last krijgt van een **vaginale schimmelinfectie**?!
 
@@ -65,11 +69,11 @@ Over het algemeen bewegen ze zich daarom naar warme en vochtige plekken. De plek
 
 ### Begeerlijk doelwit
 
-Maar bij vrouwen is vooral de intieme zone doelwit van deze micro organismen. Want dat zijn deze onzichtbare leger.
+Echter bij vrouwen is vooral de intieme zone doelwit van deze micro organismen; want dat zijn deze onzichtbare leger: micro organismen.
 
-Micro organismen. De woonomgeving die deze micro organismen kiezen is alles bepalend voor de schade die ze daar zonder moeite kunnen aanrichten.
+Micro organismen kiezen het liefst een woonomgeving uit waar ze zonder moeite veel schade kunnen aanrichten. Logisch, toch?
 
-Wanneer de weersomstandigheden de micro organismen gunstig gezind zijn. Kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen. Hierdoor is het een veel voorkomend probleem. Want bij een kleine overtolligheid aan deze micro  organismen kunnen ze je al flink te grazen nemen!
+Wanneer de weersomstandigheden de micro organismen gunstig gezind zijn, kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen. Hierdoor is het voor veel vrouwen een veel voorkomend probleem. Want bij een kleine hoeveelheid aan deze micro organismen kunnen zij vrouwen al flink te grazen nemen.
 
 ### Verhoogd risico vrouwen
 
@@ -86,7 +90,7 @@ Zoals de anticonceptiepil. Maar ook seksuele opwinding, zwangerschap en de overg
 Denk ook aan het hebben van diabetes, een zwak afweersysteem, stress, slaapproblemen en een slecht dieet met veel suiker.
 
 Sommige factoren correleren met elkaar. Denk aan het hebben van slaapproblemen wat kan leiden tot een zwak afweersysteem.
-Om het niet te wetenschappelijk te maken laat ik de details lekker achterwege.
+Om het niet te diep op in te gaan laat ik de wetenschappelijke termen even lekker achterwege.
 
 Waar het om gaat is het volgende. Man of vrouw.
 
@@ -95,6 +99,8 @@ Waar het om gaat is het volgende. Man of vrouw.
 Ja! Ook mannen kunnen last krijgen van deze onzichtbare legers!
 
 Denk nu maar aan een piemel.
+
+(.....)
 
 [[contentfulImage 5QVSnyIboRVO2CM5nTVJxO]]
 
@@ -122,15 +128,13 @@ Er is echter één maar….
 
 Ik wil je even **waarschuwen** dat dit heel ongemakkelijk kan zijn wanneer mensen die je niet goed kent even meekijken. Maar echt heel ongemakkelijk.
 
-[**KLIK HIER**](#)
-
-<!-- @Gabriel Can you find an suitable horrible looking picture of a Vaginal Yeast Infection. And make an seperate page of this picture. Then we can capture an audience who likes to watch disgusting looking problems. Which is funny BECAUSE WE CAN TARGET THEM WITH EVEN MORE DISGUSTING HORRIBLE LOOKING FYSICAL PROBLEMS HAHAHAHHAA. I mean. look at doctor pimple poppers. She has an whole tv show. people love to watch that kinda stuff -->
+[**KLIK HIER**](#https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg)
 
 En...
 
 Tevreden?
 
-Zijn ze toch niet meer zo onzichtbaar wanneer ze zich massaal groeperen…
+Zijn ze toch niet meer zo onzichtbaar wanneer ze zich massaal groeperen en schade aanrichten…
 
 En nee. Het is géén soa.
 
@@ -298,3 +302,5 @@ Mocht je onverhoopt een zware infectie oplopen, ga verstandig te werk. Bel een d
 Vergeet niet dat een vaginale schimmelinfectie makkelijk kan terugkomen.
 
 Wil jij meer weten over infecties?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Geen touw aan vast te knopen...
+url: /nl/artikel/geen-touw-aan-vast-te-knopen
 type: artikel
 category: prostaatontsteking
 publish:
@@ -19,11 +20,14 @@ fragments:
   footer: nl/fragments/faq/prostaatontsteking
 banner:
   image: 4oTTNycALC9hhywkuufdiD
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Naarmate de tijd verstrijkt en u ouder wordt, weet u dat dagelijkse bezigheden meer tijd gaan kosten. Een man weet dat hij op latere leeftijd meer kans heeft op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken waarom ik dit probleem graag aankaarten bij mannen.
 
 * 30% van de mannen ouder dan 50 jaar heeft problemen met plassen.
@@ -36,11 +40,11 @@ De bewering is als volgt.
 
 Deze bewering onderbouwen wij op de volgende manier.
 
-* U kunt uw hele leven gezond hebben gegeten en gedronken. Veel hebben gesport en bewogen op dagelijkse basis. Géén alcohol en géén drugs hebben gebruikt; en last krijgen van een prostaatontsteking...
+* U kunt uw hele leven gezond hebben gegeten en gedronken. Veel hebben gesport én minimaal 10.000 stappen hebben gezet dagelijkse basis. Géén alcohol en géén drugs hebben gebruikt; en last krijgen van een prostaatontsteking...
 
-* U kunt uw hele leven ongezond hebben gegeten en gedronken. Niet hebben gesport en niet hebben bewogen op dagelijkse basis. Véél alcohol en drugs hebben gebruikt; en last krijgen van een prostaatontsteking...
+* U kunt uw hele leven ongezond hebben gegeten en gedronken. Niet hebben gesport en vooral géén 10.000 stappen hebben gezet op dagelijkse basis. Véél alcohol en drugs hebben gebruikt; en last krijgen van een prostaatontsteking...
 
-* U leidt momenteel een leven waarbij u, net als vroeger, zo nu en dan heel gezond eet en drinkt. Zo nu en dan sport en op dagelijkse basis beweegt. Zo nu en dan een beetje buiten de lijntjes kleurt, waarbij u het totaal niet erg vindt eens te diep in het glaasje te kijken; om vervolgens tóch nog last te krijgen van een prostaatontsteking!
+* U leidt momenteel een leven waarbij u, net als vroeger, zo nu en dan een héél gezond dieet volgt. Zo nu en dan sport én waarbij u op dagelijkse basis om en nabij de 10.000 stappen zet. Zo nu en dan een beetje buiten de lijntjes kleurt, waarbij u het totaal niet erg vindt eens te diep in het glaasje te kijken; om vervolgens tóch nog last te krijgen van een prostaatontsteking!
 
 **In andere woorden.** <br>
 U kunt uw hele leven naar eigen inziens hebben ingedeeld met de beschikbare gezonde producten die momenteel te verkrijgen zijn. Als u niet bewust op zoek gaat en rekening houdt met prostaatklachten, dan loopt u net als iedere man een vergrote kans een prostaatontsteking op te lopen.
@@ -113,3 +117,5 @@ Het **European Medicines Agency** heeft de werking van Ivan Chai **geëvalueerd 
 Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. Laat u informeren over de behandelmethode.
 
 Op zoek naar meer verdieping?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

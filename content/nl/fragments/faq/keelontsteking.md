@@ -1,16 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een keelontsteking?](#Wat-is-een-keelontsteking)
-
-* [Waardoor krijg je een keelontsteking?](#Waardoor-krijg-je-een-keelontsteking)
-
-* [Welke symptomen duiden op een keelontsteking?](#Welke-symptomen-duiden-op-een-keelontsteking)
-
-* [Welke farmaceutische medicijnen behandelen een keelontsteking?](#Welke-farmaceutische-medicijnen-behandelen-een-keelontsteking)
-
-* [En wat als ik toch antibiotica wil gebruiken?](#En-wat-als-ik-toch-antibiotica-wil-gebruiken)
-
-* [Waarom Ivan Chai](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is een keelontsteking?
 

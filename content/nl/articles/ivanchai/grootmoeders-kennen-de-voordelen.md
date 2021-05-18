@@ -6,11 +6,10 @@ type: artikel
 category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
-  date: 17.01.2021
+  date:
 tags:
 - weerstand
 - ontsteking
-- ziekten
 - mentale klachten
 - prostaat
 - urinewegen
@@ -34,7 +33,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 235548934310 buttonDestination=modal]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]
 
 ## Anekdotisch bewijs is krachtig bewijs
 
@@ -176,4 +175,4 @@ De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen 
 
 Onderaan deze pagina kunt u ons advies lezen.
 
-[[shopifyCollection 235510562982 buttonDestination=cart]]
+[[shopifyCollection 235510562982 buttonDestination=modal]]

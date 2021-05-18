@@ -1,15 +1,17 @@
 ---
 layout: article.html
 title: De reis van mijn leven
+url: /nl/artikel/de-reis-van-mijn-leven
+type:
 category: TODO
 publish:
   author: Michael Koch
-
 meta:
   description: Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar natuurlijke producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
   keywords: ivan Chai, kruiden, kruidenthee, kruidengeneeskunde, medicijnen, dierenleed, patenten, ecodorp, kennis, voordelen, lichaam, geest, siberië, rusland, siberië, , natuur, geneeskrachtig, michael koch, ivan's herbs, farmaceutische industrie, remedie, Zürich, mont blanc, producten, veilig
 banner:
   image: 4xERvF6aRTWBQwMFipxC3k
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
@@ -19,7 +21,6 @@ contentful:
 <p style="text-align: right"><i>"Versterk lichaam en geest met kruiden uit Siberië"</i></p>
 
 ### Geachte Levensgenieter,
-
 
 Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar natuurlijke producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
 
@@ -34,6 +35,7 @@ In mijn opinie wordt de farmaceutische industrie getypeerd door een opeenvolging
 In andere woorden, mensen hebben geen herhaalrecepten nodig, maar dienen beter te worden geïnformeerd over het gebruik van natuurlijke remedies. Begrijp mij niet verkeerd. Ik ben niet tegen de farmaceutische industrie. Ik ben voor een wereld waar mens en milieu centraal staan; vrij van dierenleed.
 
 ### Siberische ecodorp: Chazhaevka
+
 Wat velen nog niet weten is dat het Russische grootlandschap erom bekend staat vele geneeskrachtige kruiden te herbergen.
 
 Gedurende de rondreis van mijn leven heb ik dan ook zonder enige vorm van aarzeling besloten mijn kennis en kunde over kruiden te vergaren in Rusland. Hierdoor ben ik per toeval terecht gekomen in Chazhaevka; een Siberisch ecodorp ver weg van de bewoonde wereld. Dit ecodorp ligt immers midden in de wildernis van Siberië en richt zich volkomen op mens en milieu.

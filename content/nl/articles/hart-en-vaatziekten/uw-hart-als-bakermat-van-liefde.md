@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Uw hart als bakermat van liefde
+url: /nl/artikel/uw-hart-als-bakermat-van-liefde
 type: artikel
 category: hart- en vaatziekten
 publish:
@@ -20,11 +21,14 @@ fragments:
   footer: nl/fragments/faq/hart-en-vaatziekten
 banner:
   image: 5qaPb48K5Cil5YfyqQggFl
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 **Het hart** heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. De hedendaagse hartvorm wordt al sinds de middeleeuwen gebruikt om gepassioneerde hartstochtelijke liefdevolle gevoelens naar elkaar toe weer te geven; en met succes.
 
 **Deze symbolische betekenis** van het hart is zo diep doorgedrongen tot onze maatschappij dat het centraal staat bij vele uitdrukkingen. Het is ontstaan door emoties die ten grondslag liggen aan onze hartslag. De innerlijke beleving van verliefd worden, liefde, houden van en verlies zijn hierdoor letterlijk te voelen in uw hart.
@@ -68,3 +72,5 @@ Mocht u toch onverhoopt hart- en vaatziekten oplopen, ga verstandig te werk. Bel
 Bij gebruik van zware medicijnen uit de farmaceutische industrie raden wij het aan eerst met een deskundige te overleggen of Ivan Chai kan worden gedronken.
 
 Benieuwd naar de impact van hart- en vaatziekten?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

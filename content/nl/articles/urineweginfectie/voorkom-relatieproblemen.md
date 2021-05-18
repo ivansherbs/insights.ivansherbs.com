@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Voorkom relatieproblemen
+url: /nl/artikel/voorkom-relatieproblemen
 type: artikel
 category: blaasontsteking
 publish:
@@ -20,11 +21,14 @@ fragments:
   footer: nl/fragments/faq/blaasontsteking
 banner:
   image: 13fMZBUHfYMm3r0xclV8fD
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 **Voorkom relatieproblemen door het voorkomen van een blaasontsteking.**
 
 Ja!
@@ -191,3 +195,5 @@ Beide goed voor je relatie!
 Dus. Recapitulerend en terugkijkende op dit artikel.
 
 ### Wat zou jij doen?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

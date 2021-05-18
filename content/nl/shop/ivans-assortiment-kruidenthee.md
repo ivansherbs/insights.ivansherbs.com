@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
 title: "Ivan's Assortiment | Kruidenthee"
-url: /nl/shop/ivans-assortiment-kruidenthee
+url: /nl/shop/ivans-assortiment-siberische-kruidenthee
 type: artikel
 category: Ivan Chai
 publish:
@@ -9,6 +9,7 @@ publish:
   date:
 tags:
 - kruidenthee
+- assortiment
 meta:
   description: Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
   keywords: kruidenthee, assortiment, pakketten, bestsellers, collectie, favorieten, kilobags, inzichten, geschenkdoos
@@ -16,7 +17,7 @@ fragments:
   header: nl/fragments/voordelen/drink-ivan-chai
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
 banner:
-  image: 3BMJ7e2ogSnTsV7AQRK2QF
+  image: q0Hxrkdc2T9yjvrH7yFyY
   effect: o-lg-60d-black
 contentful:
   imageOptions:
@@ -27,7 +28,7 @@ shopify:
 ---
 **Bestsellers | Collectie | Favorieten | Follow Up | Kleinere Volumes | Extra Veel Volume**
 
-Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
+Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Kijk gerust even verder...
 
 ## Bestsellers | Top 3
 
@@ -51,9 +52,9 @@ Wij geven u graag een opvolging die door uw brievenbus heen past. Wel zo makkeli
 
 [[shopifyCollection 261582815398 buttonDestination=cart]]
 
-## Ivan Chai | Kleinere Volumes
+## Ivan's | Kleinere Volumes
 
-Onder het mom: _"voor ieder wat wils"_. Benieuwd met wat voor een etherische oliën, supplementen of kruiden in poedervorm u onze kleinere hoeveelheden kunt combineren?
+Onder het mom: _"voor ieder wat wils"_. Benieuwd met wat voor een etherische oliën, supplementen of matcha u onze kleinere hoeveelheden kunt combineren?
 
 [[shopifyCollection 261581570214 buttonDestination=cart]]
 

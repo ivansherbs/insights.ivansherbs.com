@@ -1,16 +1,17 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Een voorspelbaar probleem
+url: /nl/artikel/een-voorspelbaar-probleem
 type: artikel
 category: buikgriep
 publish:
   author: Svetlana Petrova
-  date:
+  date: 1 april
 tags:
 - vrouw
 - levensstijl
 - eyeopener
-- buikpijn
+- buikkrampen
 meta:
   description: Wat hebben diarree, antibiotica en een blaasontsteking gemeen? Lees het nu in het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW.
   keywords: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip, antibiotica, blaasontsteking
@@ -23,7 +24,12 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Dit is het DAGBOEK van een zeer emotionele, ontdane en onzekere vrouw. En nu zit ze ook nog eens ontzettend hard aan de diarree.
 
 Zul je net zien. Bah.
@@ -143,3 +149,5 @@ Denk aan **IVAN CHAI**. Een Siberische kruidenthee.
 Mocht je toch onverhoopt een zwaardere vorm van buikgriep oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Op zoek naar meer GEESTVERRUIMENDE inzichten?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

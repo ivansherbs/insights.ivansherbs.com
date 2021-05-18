@@ -1,10 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat zijn de symptomen van prostaatkanker?](#wat-zijn-de-symptomen-van-prostaatkanker)
-
-* [Hoe kun je prostaatkanker constateren?](#Hoe-kun-je-prostaatkanker-constateren)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat zijn de symptomen van prostaatkanker?
 

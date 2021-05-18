@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Een onopgemerkt probleem
+url: /nl/artikel/een-onopgemerkt-probleem
 type: artikel
 category: prostaatkanker
 publish:
@@ -20,11 +21,14 @@ fragments:
   footer: nl/fragments/faq/prostaatkanker
 banner:
   image: 63nqIZxDsZpBZugo5Vz18G
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 We gaan het nu kort hebben over een heel gevaarlijk probleem.
 
 Namelijk.
@@ -62,3 +66,5 @@ Wanneer prostaatkanker niet tijdig wordt geconstateerd is het bijna niet te gene
 Ivan Chai heeft een positieve werking op gezonde prostaatcellen.
 
 Op zoek naar meer verdieping?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

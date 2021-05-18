@@ -1,9 +1,15 @@
 ---
-url: /nl/affiliates
+layout: article.html
+title: De reis van mijn leven
+url: /nl/samenwerkingen/affiliates
 banner:
   image: 6csVsKRo3aDFZgyA0ojdEV
+  effect: o-lg-60d-black
+contentful:
+  imageOptions:
+    fm: jpg
+    q: 50
 ---
-
 TODO  make this page hidden from customers
 
 ### Geachte Affiliate
@@ -11,6 +17,7 @@ TODO  make this page hidden from customers
 Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs | Nederland
 
 ### Benieuwd naar het DNA van Ivan’s Herbs?
+
 De reden dat we dit eerst aankaarten is omdat wij het belangrijk vinden om op lange termijn met u te kunnen samenwerken als ambassadeur van ons merk.
 
 Wij geloven in het aanbieden van producten met krachtige impact op de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu.
@@ -84,6 +91,7 @@ Dit komt vanwege de 7 voordelen goed voor lichaam en geest.
 7. Verzorgt het spijsverteringsstelsel
 
 ### Zijn deze voordelen bewezen effectief?
+
 Jazeker. De voordelen van Ivan Chai zijn bewezen effectief middels klinisch onderzoek.
 
 LET OP.
@@ -102,6 +110,7 @@ Vanuit strategisch oogpunt hebben wij echter de keuze gemaakt om te starten met 
 In onze campagnes staat het informeren van de gezondheidsvoordelen voor lichaam en geest centraal. Dit doen wij middels de artikelen op insights.ivansherbs.com.
 
 ### Waarom deze doelgroep?
+
 De reden is als volgt. Deze doelgroep wordt ook een dagje ouder en kan producten die het lichaam en geest versterken goed gebruiken. Daarom vinden wij het van belang om ons eerst te richten op het informeren van volwassenen van 55+ over de voordelen van kruiden uit Siberië.
 
 En laten we wel wezen…
@@ -109,6 +118,7 @@ En laten we wel wezen…
 Wie houden er nou niet van een overheerlijk kopje thee om even lekker te ontspannen en tot rust te komen?
 
 ### Samenwerken met affiliates met een ‘jongere’ doelgroep, is dat mogelijk?
+
 Jazeker! Na verloop van tijd verlagen wij langzaam de leeftijdscategorie. Hiervoor hoeft u vooral dus niet op ons te wachten.
 
 Sterker nog, wij staan graag open voor samenwerkingen waarbij een “jongere” doelgroepen wordt getarget. Helemaal wanneer u onderstaande ‘statements’ met een volmondig ‘JA’ kunt beantwoorden:
@@ -125,9 +135,11 @@ Heeft u bovenstaande ‘statements’ volmondig met 'JA' kunnen beantwoorden?
 Dan vraagt u zich waarschijnlijk af.
 
 ### Hoe ziet een toekomstige samenwerking eruit?
+
 Wij verkopen onze Ivan Chai in verschillende geschenkdozen (giftsets) met pakketten (packs) die u online kunt bestellen. Om het de consument zo makkelijk mogelijk te maken en mee te nemen in onze ‘customer journey’ willen we graag eerst de starter pack onder de aandacht brengen.
 
 ### Waar bestaat het eerste pakket uit?
+
 1 Geschenkdoos: Starters Set
 - Design tube: Ivan Chai <br>
 Keuze uit 3 van de 4 value pack:
@@ -139,6 +151,7 @@ Keuze uit 3 van de 4 value pack:
 Let op! De design tube is herbruikbaar en wordt gevuld met de valuepacks (vervolgbestellingen van kleine hoeveelheden <150 gram duwen we gewoon door de brievenbus naar binnen, wel zo makkelijk).
 
 ### Smaakt dit naar meer?
+
 2 Geschenkdoos: Loyaltea Pack
 - Value pack: Ivan Chai
 - Value pack: Green Ivan Chai
@@ -147,6 +160,7 @@ Let op! De design tube is herbruikbaar en wordt gevuld met de valuepacks (vervol
 - Value pack: Ziziphora Chai
 
 ### Bent u een enorme thee-drinker of op zoek naar een leuk cadeau?
+
 3 Geschenkdoos: Royaltea Giftset
 - Design tube: Ivan Chai
 - Design tube: Green Ivan Chai
@@ -161,9 +175,11 @@ Hierbij moet je denken aan navul-pakketten (refillers) om uw tube mee te hervull
 - Mix Chai Pack (bestaande uit value packs: Bergenia Chai, Meadowsweet Chai, Ziziphora Chai)
 
 ### En verder?
+
 Jawel, mocht uw verkoop goed gaan. Dan zouden we graag de overstap willen maken naar de verkoop van onze overige producten. Denk hierbij aan:
 
 ### Etherische oliën | 10 ml
+
 - Lavendel Etherische Olie
 - Roomse Kamille Etherische Olie
 - Wierook Etherische Olie
@@ -174,6 +190,7 @@ Jawel, mocht uw verkoop goed gaan. Dan zouden we graag de overstap willen maken 
 Goed om te weten. Wanneer de tijd daar is willen we deze verkoop een ‘boost’ geven middels de verkoop van aroma-diffusers, ofwel luchtbevochtigers.
 
 ### Supplementen
+
 - Siberische Ginseng
 - Siberische paddenstoelen (Chaga)
 - Rogge Graspollen
@@ -181,6 +198,7 @@ Goed om te weten. Wanneer de tijd daar is willen we deze verkoop een ‘boost’
 - Pompoenpit olie
 
 ### Kruiden in Poedervorm
+
 - Siberische Matcha in poedervorm
 - Meadowsweet Chai in poedervorm
 - Bergenia Chai  in poedervorm
@@ -188,24 +206,30 @@ Goed om te weten. Wanneer de tijd daar is willen we deze verkoop een ‘boost’
 - Zwarte Bes Blad in poedervorm
 
 ### Worden de producten ook gecombineerd?
+
 Jazeker. Gaandeweg zullen we uiteraard ook bundels gaan uitbrengen waarbij er een combinatie wordt gemaakt van de best verkochte producten.
 
 ### Al zin om te beginnen met de verkoop?
+
 Dan richten wij ons nu nog even op een aantal belangrijke statieken en oorzaken om door te nemen. Hier hechten wij veel waarde aan omdat met uw hulp belangrijke gezondheidsproblemen kunnen worden aangepakt en preventief kunnen worden behandelt.
 
 ### Waarom statistieken in combinatie met oorzaken?
+
 Statistieken en oorzaken tonen voor veel mensen al aan dat ze een vergroot risico lopen op gezondheidsproblemen. Zowel fysiek als mentaal.
 
 Door gebruik van statistieken en oorzaken hopen wij mensen zich ervan bewust te maken dat de mogelijkheid bestaat dat mensen een preventieve behandeling kunnen starten om de kans op ziekten en gezondheidsproblemen te verkleinen.
 
 ### Wat raden wij onze klanten aan?
+
 Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer, maar óók gewoon lekker ter ontspanning.
 
 Let op.
 Ivan Chai bevat een krachtige werking om problemen (preventief) te behandelen: echter één kop maakt niet het verschil. Pas na verloop van tijd zijn de kruiden effectief. Het drinken van Ivan Chai zorgt ervoor dat je lichaam als het ware wordt opgeladen.
 
 VOORDEEL 1
+
 ### Verzorgt de gezondheid van de prostaat en urinewegen
+
 30% van de mannen ouder dan 50 jaar heeft last van zijn prostaat. Denk aan:
 - Prostaatontsteking
 - Vergrote prostaat (BPH)
@@ -216,20 +240,26 @@ De voordelen tegen prostaatontsteking, vergrote prostaat (bhp) en blaasontstekin
 Wat betreft prostaatkanker. Tot op heden zijn er meerdere onderzoeken gedaan naar menselijke prostaatkankercellen. Deze onderzoeken hebben aangetoond dat Ivan Chai van invloed is op de mate van de PSA-secretie. En de veranderingen hierin aanzienlijk kunnen verlagen. Er zijn echter géén studies op klinisch niveau bekend gericht op het PSA-niveau in combinatie met Ivan Chai. Het antitumor effect is echter wél goed bestudeerd. Het heeft met name een positieve werking op gezonde prostaatcellen.
 
 VOORDEEL 2
+
 ### Versterkt de antioxiderede werking
+
 - Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 - 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
 - In Nederland leven naar schatting 670.000 vrouwen met een hart- of vaatziekten.
 - Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen vanwege een hart- of vaatziekten
 
 VOORDEEL 3
+
 ### Slaapproblemen
+
 - 20 - 30% van de Nederlanders van 12 jaar of ouder heeft naar eigen zeggen problemen met slapen.
 - Oorzaken: stress, onregelmatige werktijden, een mobiele telefoon en koffie.
 - Slaapproblemen verhogen de kans op een nog slechtere gezondheid.
 
 VOORDEEL 4
+
 ### Versterkt de weerstand
+
 Bij gebruik van sommige producten uit de farmaceutische industrie wordt de weerstand verzwakt, waardoor de kans op schimmelinfecties, virale luchtweginfecties of een zwak immuunsysteem worden vergroot. Hiernaast is het van belang dat vrouwen gedurende sommige activiteiten preventief hun lichaam versterken.
 
 - Antibiotica: per jaar 4.000.000 keer verkocht voor alleen al oraal gebruik.
@@ -240,14 +270,18 @@ Bij gebruik van sommige producten uit de farmaceutische industrie wordt de weers
 - Het plaatsen van een spiraaltje vergroot de kans op een ontsteking. 17% van de vrouwen loopt rond met een spiraaltje.
 
 VOORDEEL 5
+
 ### Krachtige ontstekingsremmer
+
 Dit voordeel kan een enorm veel mensen helpen nare ontstekingen te voorkomen.
 - Keelontsteking: verhoogt risico door het drinken van alcohol, roken, schreeuwen in combinatie met stress.
 - Peesontsteking: een peesontsteking kan ontstaan bij een belastende activiteit waarbij de pees herhaaldelijk onder druk komt te staan. Met name bij duursporten krijgen pezen het zwaar te verduren. Denk aan al die voeten, achilles pezen, knieen of liezen van al die hardlopers en wielrenners.
 - Slijmbeursontsteking: op oudere leeftijd kunnen de meest gangbare activiteiten de beschermkappen op gewrichten al irriteren, met een ontsteking tot gevolg.
 
 VOORDEEL 6
+
 ### Vermindert de kans op stress, angst & burnout klachten
+
 Ivan Chai bevat een kalmerende werking op het centrale zenuwstelsel.
 - 53% van de medewerkers ervaart stress op werk.
 - Langdurig te maken hebben met een overmatige hoeveelheid aan stress kan leiden tot zwaardere mentale problemen zoals agressie, manie, psychose en depressie.
@@ -257,7 +291,9 @@ Ivan Chai bevat een kalmerende werking op het centrale zenuwstelsel.
 - Volgens de grote zorgverzekeraars heeft rond de 20% van de werkende mensen last van burnout klachten. Dagelijks hebben 1.300.000 mensen last van dit probleem. Dit wordt vaak mede veroorzaakt door stress.
 
 VOORDEEL 7
+
 ### Verzorgt het spijsverteringsstelsel
+
 Buikgriep is de verzamelnaam voor alle klachten die worden veroorzaakt door een ontsteking van het slijmvlies in het maag-darmstelsel. Een voedselvergiftiging is een van de veel voorkomende varianten. Zweren, Gastritis en Colitis kunnen allemaal worden verholpen door het drinken van Ivan Chai.
 Door het gebruik van antibiotica kan de darmflora uit balans raken.
 
@@ -269,6 +305,7 @@ Door het gebruik van antibiotica kan de darmflora uit balans raken.
 - Een ontsteking in de darmwand heeft verschillende oorzaken. De meest voorkomende ontstekingen zijn virale- of bacteriële-, medicatie geïnduceerde-, alcohol- of drugs gerelateerde darmontstekingen, of zijn een gevolg van een slechte doorbloeding door bijvoorbeeld te lang stil zitten.
 
 ### Is er nog meer materiaal waar we naar kunnen kijken?
+
 Jazeker. Wij vinden het van belang dat consumenten op een juiste wijze worden geïnformeerd over zowel fysieke als mentale problemen. Om onze doelen na te streven hebben wij daarom een apart deel van onze website speciaal toegewijd aan artikelen over verschillende oorzaken en problemen.
 
 Om een voorbeeld te noemen.
@@ -281,6 +318,7 @@ Enkele voorbeelden: hoofdpijn, braken, misselijkheid, versterkt gevoel van angst
 Lees deze artikelen en kom erachter “Waarom Ivan Chai?” kan worden gedronken als aanvulling op het gebruik van farmaceutische medicijnen.
 
 ### Waar richten wij ons op in de artikelen?
+
 Ivan’s Herbs probeert de lezer een zo eenvoudig mogelijke uitleg te geven wat er fysiek en dan wel mentaal zich allemaal afspeelt.
 
 Wij hebben bijvoorbeeld ook artikelen gericht op de risicofactoren van prostaatklachten, “Runners high” in combinatie met de kans op een peesontsteking of waarom een slaapproblemen (insomnia) een gevolg is van stress en uw telefoon.
@@ -316,6 +354,7 @@ Na x bestellingen: 25%
 Waarna we de mogelijkheden bespreken voor de verkoop van onze overige producten.
 
 ### Social media campagnes als ambassadeur?
+
 Goed om te weten. Mocht de samenwerking bevallen en er voor beide partijen een win-win situatie worden gecreëerd, dan investeren wij graag in uw social media campagnes.
 
 ### Benieuwd op welke platformen wij momenteel actief zijn?
@@ -337,5 +376,7 @@ Met vriendelijke groet,
 [[contentfulImage 4xERvF6aRTWBQwMFipxC3k]]
 
 ### Ivan Herbs | Nederland
+
+TODO Stefan: does this email exist?
 
 collaboration@ivansherbs.com

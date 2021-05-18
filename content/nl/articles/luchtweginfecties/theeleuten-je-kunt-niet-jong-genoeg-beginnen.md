@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: "Theeleuten: je kunt niet jong genoeg beginnen"
+url: /nl/artikel/theeleuten-je-kunt-niet-jong-genoeg-beginnen
 type: artikel
 category: luchtweginfecties
 publish:
@@ -24,7 +25,10 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+    effect: o-lg-60d-black
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Iedereen heeft wel eens last van een luchtweginfectie. Denk aan een verkoudheid of griep.
 En iedereen weet het.
 
@@ -98,3 +102,5 @@ Eenvoudig een verkoudheid of griep voorkomen?
 Of Pseudokroep verzorgen?
 
 > Lees snel verder en ontvang óók tips voor het drinken van Ivan Chai met kinderen!
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

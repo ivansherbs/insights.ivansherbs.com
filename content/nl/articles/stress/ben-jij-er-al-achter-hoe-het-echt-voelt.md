@@ -1,11 +1,11 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Ben jij er al achter hoe het écht voelt?
+url: /nl/artikel/ben-jij-er-al-achter-hoe-het-voelt
 type: artikel
 category: stress
 publish:
   author: Sasha Popov
-  date:
 tags:
 - stress
 - mentale klachten
@@ -19,11 +19,14 @@ fragments:
   footer: nl/fragments/faq/stress
 banner:
   image: 3trDQrnAPyKfBsSInJtB7g
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 ### Wist je dat...
 stress zich niet alleen tussen de oren afspeelt?
 
@@ -69,3 +72,5 @@ Het gebruik van medicijnen uit de farmaceutische industrie kan ongewenste bijwer
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen stress.
 
 Wil je dieper ingaan op het onderwerp stress?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

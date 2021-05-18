@@ -1,16 +1,18 @@
 ---
 layout: article.html
 title: "Ivan's kwaliteitscontrole: wat is Ivan Chai en hoe smaakt het?"
+url: /nl/artikel/ivans-kwaliteitscontrole-wat-is-ivan-chai-en-hoe-smaakt-het
 type: artikel
 category: Ivan Chai
 publish:
-  author: Ivan Alexandrovitsj
-  date: 07.01.2021
+  author: TODO
 tags:
 - ivan chai
 meta:
   description: Wat is Ivan Chai en hoe smaakt het?
   keywords: thee, ivan chai, kruiden, kruidenthee, fireweed, epilobium angustifolium, European Medicines Agency, kruidengeneeskunde, cafeïnevrij, Siberië
+fragments:
+  header: /nl/fragments/voordelen/tip-waterkoker
 banner:
   image: 6M6qLeZVXT6g1GMPLpk14n
 contentful:
@@ -18,7 +20,6 @@ contentful:
     fm: jpg
     q: 50
 ---
-**Tip**: zet nu eerst een goed gevulde waterkoker aan (bij voorkeur minimaal 1 liter)
 
 Ivan Chai is een Siberische kruidenthee gemaakt van gefermenteerde in het wild groeiende kruiden. Deze kruiden gaan onder de Latijnse benaming epilobium angustifolium.
 

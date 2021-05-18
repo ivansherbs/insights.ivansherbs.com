@@ -1,6 +1,7 @@
 ---
 layout: article_with_shopify.html
 title: De reis van mijn leven
+url: /nl/artikel/met-korting/de-reis-van-mijn-leven
 category: TODO
 publish:
   author: Michael Koch
@@ -9,6 +10,7 @@ meta:
   keywords: ivan Chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, natuur, geneeskrachtig, michael koch, ivan's herbs
 banner:
   image: 4xERvF6aRTWBQwMFipxC3k
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
@@ -20,7 +22,7 @@ shopify:
 
 ### Geachte Levensgenieter,
 
-Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar natuurlijke producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
+Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
 
 ### Kruiden uit Siberië
 

@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Opladen is géén optie
+url: /nl/artikel/opladen-is-geen-optie
 type: artikel
 category: burnout
 publish:
@@ -19,11 +20,13 @@ fragments:
   footer: nl/fragments/faq/burnout
 banner:
   image: 6CiwLZ3Sy56j7IPi8Agfwu
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
 
 **Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burnout bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren.
 
@@ -106,3 +109,5 @@ Goed om te weten.
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burnout.
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

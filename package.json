@@ -19,7 +19,8 @@
         "yaml-lint": "^1.2.4"
     },
     "scripts": {
-        "test": "mocha"
+        "test": "mocha",
+        "test-ci": "if [ -z \"${REPORT_FILE}\" ]; then REPORT_FILE=test_report.json; fi; mocha --reporter json | tee \"${REPORT_FILE}\""
     },
     "repository": {
         "type": "git",

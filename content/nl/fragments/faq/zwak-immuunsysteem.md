@@ -1,14 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een immuunsysteem](#Wat-is-een-immuunsysteem)
-
-* [Wanneer spreek je van een zwak immuunsysteem?](#Wanneer-spreek-je-van-een-zwak-immuunsysteem)
-
-* [Wanneer krijg je last van een zwak immuunsysteem?](#Wanneer-krijg-je-last-van-een-zwak-immuunsysteem)
-
-* [Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?](#Welk-effect-heeft-het-gebruik-van-medicijnen-op-een-zwak-immuunsysteem)
-
-* [Waarom Ivan Chai?](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is een immuunsysteem?
 

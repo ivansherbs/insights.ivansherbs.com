@@ -1,12 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat weten we van slaapproblemen?](#Wat-weten-we-van-slaapproblemen)
-
-* [Heeft werkend Nederland last van slaapproblemen?](#Heeft-werkend-Nederland-last-van-slaapproblemen)
-
-* [Waardoor worden slaapproblemen veroorzaakt?](#Waardoor-worden-slaapproblemen-veroorzaakt)
-
-* [Waarom Ivan Chai?](#Waarom-ivan-chai)
+[[toc]]
 
 ### Wat weten we van slaapproblemen?
 

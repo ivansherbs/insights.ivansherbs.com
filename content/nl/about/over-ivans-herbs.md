@@ -1,6 +1,7 @@
 ---
 layout: article.html
 title: Over Ivan's Herbs
+url: /nl/over/over-ivans-herbs
 type: over
 publish: IVAN's
 category: kruiden uit Siberië
@@ -8,9 +9,12 @@ meta:
   description: Wij geloven in het aanbieden van producten met krachtige impact de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu. Benieuwd waar wij voor staan?
   keywords: gezondheid, ivan chai, kruiden, kruidengeneeskunde, medicijn, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7-standaard
 banner:
-  url: https://drive.google.com/file/d/1om-8ue0Oj6DrRGzOVNujjTmcvFztidlU/view?usp=sharing
+  image: 4QEhQAiCVkb9eHfP9zNnoR
+contentful:
+  imageOptions:
+    fm: png
+    q: 50
 ---
-
 _"Versterk dagelijks lichaam en geest met kruiden uit Siberië."_
 
 Wij geloven in het aanbieden van producten met krachtige impact op de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu.
@@ -18,14 +22,10 @@ Wij geloven in het aanbieden van producten met krachtige impact op de gezondheid
 Ons sociaal en verantwoordelijk gedrag richt zich op de volgende drie punten.
 
 * Introduceren kruiden uit Siberië
-
 * Informeren
-
 * Community building
 
-
-
-https://drive.google.com/file/d/1asEOYcVK3d_HDhfxIprSLmp2ds-iEwBZ/view?usp=sharing
+[[contentfulImage 587qcANxXb7WGYZqYUirxd]]
 
 ### Introduceren kruiden uit Siberië
 
@@ -39,8 +39,7 @@ Deze genormaliseerde manier van werken dient daarom vergezeld te worden door een
 
 Dit doen wij door het aanbieden van kruiden uit Siberië. Goed voor lichaam en geest.
 
-
-https://drive.google.com/file/d/1QR8Oo2af8V7IF4xbiUIZwLo_6HEaRCcp/view?usp=sharing
+[[contentfulImage KQWFaPqRC6rGOX9G2rhPg]]
 
 ### Informeren
 
@@ -51,7 +50,7 @@ De adviezen die wij geven over onze producten zijn gebasseerd op hedendaagse ond
 Ontdek de inzichten en laat je informeren.
 
 
-https://drive.google.com/file/d/1VTjogHe9no4IiHM4wPo-QaRCXZf2tTys/view?usp=sharing
+[[contentfulImage QzIUfEuB5zxJRYozJxlCw]]
 
 ### Community building
 
@@ -70,13 +69,9 @@ Deze bewoners streven naar een unieke levensstijl zo dicht mogelijk bij de natuu
 Om onze duurzaamheid te uiten naar deze Siberische ecodorpen en onze klanten richten wij ons op het volgende.
 
 * Wij maken gebruik van klimaatneutrale verpakkingen.
-
 * Wij verminderen onze eigen CO2 uitstoot in het dagelijks leven.
-
 * Wij streven ernaar ons product zo milieuvriendelijk mogelijk te vervoeren.
-
 * Wij steunen groeperingen die zich inzetten tegen plastic en voor een schoner milieu.
-
 * Wij zijn altijd op zoek naar samenwerkingsverbanden met gelijkgestemde bedrijven.
 
 Om daad bij woord te voegen zijn we overgegaan op verpakkingsmaterialen die eeuwig meegaan.

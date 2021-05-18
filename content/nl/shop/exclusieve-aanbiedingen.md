@@ -12,7 +12,8 @@ meta:
   description: TODO
   keywords: TODO
 banner:
-  image: 4xERvF6aRTWBQwMFipxC3k
+  image: 16RsdtNWvRY1oCKeEEbfMH
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg

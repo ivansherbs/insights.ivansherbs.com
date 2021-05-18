@@ -1,6 +1,7 @@
 ---
-layout: article.html
-title: Groeien tot u erbij neervalt...
+layout: article_with_shopify.html
+title: Groeien tot u erbij neervalt…
+url: /nl/artikel/groeien-tot-u-erbij-neervalt
 type: artikel
 category: vergrote prostaat
 publish:
@@ -19,11 +20,14 @@ fragments:
   footer: nl/fragments/faq/vergrote-prostaat
 banner:
   image: 7LnD9ZPfNyYfW4m4huMGrC
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Wist u dat sommige delen van het lichaam niet willen stoppen met groeien?
 
 **Túúúúrlijk komt u dit bekend voor.**
@@ -124,3 +128,5 @@ Het **European Medicines Agency** heeft de werking van Ivan Chai **geëvalueerd 
 Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverhoopt last krijgen van een ernstige prostaatontsteking, ga verstandig te werk. Bel een deskundige bij twijfel. Laat u informeren over de behandelmethode.
 
 Op zoek naar meer verdieping?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

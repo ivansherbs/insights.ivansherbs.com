@@ -1,6 +1,7 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Insomnia als gevolg van stress en je telefoon
+url: /nl/artikel/insomnia-als-gevolg-van-stress-en-je-telefoon
 type: artikel
 category: slaapproblemen
 publish:
@@ -21,11 +22,14 @@ fragments:
   footer: nl/fragments/faq/slaapproblemen
 banner:
   image: 5aWUslWsXLMPYVRtJGvAZ4
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af.
 
 ### Wanneer spreken we wél van een slaapprobleem?
@@ -119,3 +123,5 @@ Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook 
 Mocht je toch onverhoopt slaapproblemen rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Benieuwd naar de impact van slaapproblemen op Nederland?
+
+[[shopifyCollection 235510562982 buttonDestination=modal]]

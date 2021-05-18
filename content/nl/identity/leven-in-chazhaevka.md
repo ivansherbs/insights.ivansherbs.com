@@ -1,6 +1,7 @@
 ---
 layout: article.html
 title: Leven in Chazhaevka
+url: /nl/artikel/leven-in-chazhaevka
 type: portret
 category: herbal tea expert
 publish: IVAN's
@@ -12,9 +13,10 @@ tags:
 - gevoel
 meta:
   description: Lees nu het portret van Svetlana Petrova. Eén van de herbal tea experts uit Chazhaevka. Community building in combinatie met creativiteit staan met name centraal in haar nieuwe leven. Lees haar verhaal.
-  keywords: community building, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtige werking, portret, mediteren
+  keywords: community building, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, natuur, alledaags product, geneeskrachtige werking, portret, mediteren
 banner:
-  url: https://drive.google.com/file/d/1of0pW7e1SCXDiLEvNKRA8uJMauIitrM_/view?usp=sharing
+  image: 5PgkPxKEArgv1xTgzK4xt
+  effect: o-lg-60d-black
 ---
 
 Lees nu het portret van Svetlana Petrova. Eén van de herbal tea experts uit Chazhaevka. Community building in combinatie met creativiteit staan met name centraal in haar nieuwe leven. Lees haar verhaal.
@@ -23,7 +25,7 @@ Lees nu het portret van Svetlana Petrova. Eén van de herbal tea experts uit Cha
 
 Niet meer voor deze natuurliefhebber. We hebben het over Svetlana. Eén van de herbal tea experts uit Siberië. Ze doet er alles aan om zo veel mogelijk van de buitenlucht te kunnen genieten. Met name in de zomermaanden kan ze niet vroeg genoeg opstaan. De dagen worden gevuld met haar favoriete bezigheden.
 
-https://drive.google.com/file/d/11ovwoc7qv2AWDPRyUdgh9b_yrqVOIz2G/view?usp=sharing
+[[contentfulImage 10tOZ5NxWE2rJht40x4uEO]]
 > Overdag doet ze haar verhaal.
 
 Denk aan mediteren, arbeid in de openlucht, vuur maken en koken in de stilte van de Siberische wildernis.
@@ -56,7 +58,7 @@ Mijn vriendinnen zaten naar eigen inziens wel op hun plek. Vernieuwing was de en
 
 Mijn meest dierbare spullen had ik al ingepakt. Ik zei de dag erna mijn baan op en ging er vandoor. Mijn pijlers waren gericht op Vladivostok via de trans-Siberische spoorlijn. Wat bekend staat vanwege de prachtige natuur.
 
-https://drive.google.com/file/d/1zc9l0HG4CehCJoXKpYWMajjHOjqYafag/view?usp=sharing
+[[contentfulImage 7mCfWXL2lne4StC6OeGgNL]]
 > Na veel wikken en wegen besloot ik tot rust te komen in het Altaj gebergte.
 
 Eenmaal aangekomen heb ik eerst weken doelloos rondgereisd. En met plezier.
@@ -65,7 +67,7 @@ Eenmaal aangekomen heb ik eerst weken doelloos rondgereisd. En met plezier.
 
 Met name het mediteren vroeg in de ochtend heeft mij er doorheen geholpen. In het begin had ik hier even moeite mee gezien de chaos in mijn hoofd. Gedurende mijn rondreis ben ik verschillende interessante persoonlijkheden tegengekomen.
 
-https://drive.google.com/file/d/1_kboeRzo5nb0cx3sQSC-5wbqOTAU3RZK/view?usp=sharing
+[[contentfulImage 4J8FMSNPQsfx95uzNUlp1e]]
 >Mijn dagelijkse routine paste ik langzaam aan.
 
 Zij hebben mij geadviseerd open te staan voor plantaardige producten die de gemoedstoestand tot rust konden brengen.
@@ -78,7 +80,7 @@ Als seizoensarbeider ben ik begonnen in één van de vele Siberische ecodorpen v
 
 Iedereen draagt zijn bijdrage door zich te richten op hetgeen waar je jezelf goed bij voelt. Hierdoor wordt waarde gecreëerd zonder druk opgelegd te krijgen. Kort gezegd staat iedereen achter de handelingen die worden uitgevoerd. Uiteraard onder een paraplu van gedeelde normen en waarden van de community. Wat deze gedeelde normen en waarden zijn? Daar kom je na verloop van tijd zelf achter.
 
-https://drive.google.com/file/d/15s8bekS2pIkrCTnBW_sZhjG9_VQ4RNAc/view?usp=sharing
+[[contentfulImage 1VGABGZh7emrLkqzwXeHAS]]
 > Dagelijkse rijden we kilometers naar de velden.
 
 In Chazhaevka worden kruiden met de hand geoogst. Hierna kan het worden gedronken als de kruidenthee Ivan Chai of een andere kruidenmelange. Het kan tevens als toevoeging worden gebruikt door het eten. Bij duurzaam gebruik is het kalmerende effect merkbaar. Mijn leven is drastisch veranderd na mijn mentale stoornis.

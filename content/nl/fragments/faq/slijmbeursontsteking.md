@@ -1,14 +1,6 @@
-### Veelgestelde vragen
+## Veelgestelde vragen
 
-* [Wat is een slijmbeursontsteking?](#wat-is-een-slijmbeursontsteking)
-
-* [Waardoor krijg je een slijmbeursontsteking?](#Waardoor-krijg-je-een-slijmbeursontsteking)
-
-* [Welke symptomen duiden op een slijmbeursontsteking?](#Welke-symptomen-duiden-op-een-slijmbeursontsteking)
-
-* [Welke farmaceutische medicijnen behandelen een slijmbeursontsteking?](#Welke-farmaceutische-medicijnen-behandelen-een-slijmbeursontsteking)
-
-* [Waarom Ivan Chai](#waarom-ivan-chai)
+[[toc]]
 
 ### Wat is een slijmbeursontsteking?
 

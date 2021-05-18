@@ -1,9 +1,9 @@
 ---
 layout: article_with_shopify.html
 title: Samenwerkingsverbanden met affiliates
-url: /nl/samenwerkingsverbanden
+url: /nl/over/samenwerkingsverbanden
 banner:
-  image: 6D4XL6Tp1NHChtfrSu0IfV
+  image: 4QEhQAiCVkb9eHfP9zNnoR
   effect: o-lg-60d-black
 shopify:
   language: NL

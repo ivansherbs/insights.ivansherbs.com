@@ -1,10 +1,13 @@
 ---
 layout: article.html
-title: Duurzaamheid
+title: "Oprichter ecodorp over duurzaamheid"
+url: /nl/over/oprichter-ecodorp-over-duurzaamheid
+shopify:
+  language: NL
 type: interview
 category: community building
-publish: IVAN's
-author: Andrey Nikitin
+publish:
+  author: Ivan Alexandrovitsj
 tags:
 - levensstijl
 - community building
@@ -12,9 +15,10 @@ tags:
 - duurzaam
 meta:
   description: Lees nu het interview over het Siberische ecodorp Chazhaevka. "Chazhaevka is een Siberische ecodorp wat als doel heeft zowel sociaal, economisch als ecologisch duurzaam te zijn", vertelt Andrey Nikitin.
-  keywords: community building, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtig werking
+  keywords: community building, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, natuur, biologisch, alledaags product, geneeskrachtig werking
 banner:
-  url: https://drive.google.com/file/d/1kbbirD0H6Ja04ABLNPzbzO4HZQ06HWl2/view?usp=sharing
+  image: 3ilK7ATfSjg0WyW07dDoFu
+  effect: o-lg-60d-black
 ---
 
 "Chazhaevka is een Siberische ecodorp wat als doel heeft zowel sociaal, economisch als ecologisch duurzaam te zijn", vertelt Andrey Nikitin.
@@ -43,7 +47,7 @@ Wij zagen dat Rusland een gebrek had aan kwalitatief hoogwaardige theeën. Hierd
 
 En met succes!
 
-https://drive.google.com/file/d/1tKGATA5Wmmh0gLmglBggyVloE3xMuAf_/view?usp=sharing
+[[contentfulImage 7CqRpFeLTY0lCi1lfgbC3v]]
 > In het begin kwamen de theeën met name uit China.
 
 Hier genoten wij met volle teugen van aangezien wij ons de pioniers voelden van de Russische thee markt. Onze onervarenheid heeft ons echter direct naar Azië geleid.
@@ -64,7 +68,7 @@ Na voldoende kennis te hebben opgedaan over de oorsprong van de meest geneeskrac
 
 Het leven in de stad heeft mij veel goed gedaan.
 
-https://drive.google.com/file/d/1q8b-Nqv-jRiRx8Q6ItjiLgbtNnPd5qAr/view?usp=sharing
+[[contentfulImage HGaZXROfP757A4CMYXP2Y]]
 > Het oprichten van een Siberische ecodorp heb ik altijd nagestreefd.
 
 Al moet ik er bij vertellen dat mijn innerlijke motivatie om goed te zijn voor mens en milieu ervoor hebben gezorgd dat we ons dorp konden oprichten.
@@ -83,7 +87,7 @@ En niet te vergeten!
 
 Om de smaakbeleving te vergroten combineren wij dit met de overige beschikbare geneeskrachtige kruiden uit de omgeving.
 
-https://drive.google.com/file/d/1a9sUIPZ9zHD1nNYRw8lxJAnVBC_bzzmk/view?usp=sharing
+[[contentfulImage 1wDtb1JvFYdeVQjq1TCfiK]]
 > Overigens kan de lichter gefermenteerde versie van Ivan Chai ook door het eten worden gebruikt.
 
 Gelukkig voor ons staat er altijd een nieuwe generatie klaar; om de ambacht van het produceren van kruiden en het in stand houden van een ecodorp aan te leren.
@@ -98,4 +102,4 @@ Alleen al bij deze gedachten wordt ik hier dolgelukkig van.
 
 Creativiteit staat bij ons tevens hoog in het vaandel, waardoor wij ons dorp aan de lopende band blijven verbeteren.
 
-Maak kennis met Chazhaevka en de 7 voordelen van Ivan Chai!
+Maak kennis met Chazhaevka en de geneeskrachtige werking van kruiden uit Siberië.
