@@ -45,6 +45,7 @@ jobs:
           echo ${{ steps.generate_test_report.outputs.errors }} | jq '.[] | .title + ": " + .message'
       - name: Notify errors
         uses: bryannice/gitactions-slack-notification@2.0.0
+        if: failure()
         env:
           SLACK_INCOMING_WEBHOOK: ${{ secrets.SLACK_INCOMING_WEBHOOK }}
           SLACK_MESSAGE: 'Demo''ing the Slack Notification'
