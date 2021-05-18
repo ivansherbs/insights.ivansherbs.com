@@ -2,7 +2,7 @@
 layout: article.html
 title: Kruidengeneeskunde als alledaags product
 url: /nl/kruidengeneeskunde-als-alledaags-product
-type: artikel
+type: article
 category: kruidengeneeskunde
 publish:
   author: Svetlana Petrova

@@ -2,7 +2,7 @@
 layout: article.html
 title: Kruiden als preventatieve behandeling
 url: /nl/kruiden-als-preventatieve-behandeling
-type: artikel
+type: article
 category: kruidengeneeskunde
 publish:
   author: Ivanka Lopukhina

@@ -2,7 +2,7 @@
 layout: article.html
 title: Angst als controlemechanisme
 url: /nl/artikel/angst-als-controlemechanisme
-type: artikel
+type: article
 category: angst
 publish:
   author: Svetlana Petrova

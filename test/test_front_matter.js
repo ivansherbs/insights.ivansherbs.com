@@ -87,6 +87,34 @@ function findProblemsWithContentfulOption(filePath, callback) {
     });
 }
 
+function findProblemsWithLayout(filePath, callback) {
+    readFrontMatter(filePath, (err, frontMatter) => {
+        // no front matter
+        if (!frontMatter) {
+            callback(null);
+            return;
+        }
+
+        var frontMatterObject = yaml.parse(frontMatter);
+
+        // no layout declared
+        if (!frontMatterObject.layout) {
+            callback(null, 'missing layout');
+            return;
+        }
+
+        // layout defined
+        try {
+            fs.statSync(CONTENT_PATH + '/_includes/' + frontMatterObject.layout);
+        } catch (error) {
+            callback(null, `layout: ${frontMatterObject.layout}`);
+            return;
+        }
+
+        callback(null);
+    });
+}
+
 function findProblemsWithFragments(filePath, callback) {
     readFrontMatter(filePath, (err, frontMatter) => {
         // no front matter
@@ -106,22 +134,24 @@ function findProblemsWithFragments(filePath, callback) {
         var errors = [];
 
         // header fragment defined
-        if (frontMatterObject.fragments.header) {
-            var headerPath = frontMatterObject.fragments.header + '.md';
+        var header = frontMatterObject.fragments.header;
+        if (header) {
+            var headerPath = header + '.md';
             try {
                 fs.statSync(CONTENT_PATH + headerPath);
             } catch (error) {
-                errors.push('header');
+                errors.push(`header: ${header}`);
             }
         }
 
         // footer fragment defined
-        if (frontMatterObject.fragments.footer) {
-            var footerPath = frontMatterObject.fragments.footer + '.md';
+        var footer = frontMatterObject.fragments.footer;
+        if (footer) {
+            var footerPath = footer + '.md';
             try {
                 fs.statSync(CONTENT_PATH + footerPath);
             } catch (error) {
-                errors.push('footer');
+                errors.push(`footer: ${footer}`);
             }
         }
 
@@ -164,6 +194,22 @@ describe(`front matter`, function () {
                     });
 
                     assert.strictEqual(badFiles.length, 0, `Found YAML syntax errors in the front matter of the following files:\n  ${badFiles.join('\n  ')}`);
+                });
+            });
+
+            describe('- page layouts', function () {
+
+                const findLayoutProblems = async (arr) =>
+                    await Promise.all(arr.map(mdFile => util.promisify(findProblemsWithLayout)(`${CONTENT_PATH}${language}/${mdFile}`)));
+
+                it('- have valid paths', async function () {
+
+                    const problems = await findLayoutProblems(mdFiles);
+                    const badFiles = mdFiles
+                        .map((file, index) => problems[index] ? `${file} (${problems[index]})` : undefined)
+                        .filter(mdFile => !!mdFile);
+
+                    assert.strictEqual(badFiles.length, 0, `The following pages have invalid layout references:\n  ${badFiles.join('\n  ')}`);
                 });
             });
 

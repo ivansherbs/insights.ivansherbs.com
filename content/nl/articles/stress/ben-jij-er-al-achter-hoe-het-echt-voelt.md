@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Ben jij er al achter hoe het écht voelt?
 url: /nl/artikel/ben-jij-er-al-achter-hoe-het-voelt
-type: artikel
+type: article
 category: stress
 publish:
   author: Sasha Popov

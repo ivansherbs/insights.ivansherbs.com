@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: De man zonder hamer
 url: /nl/artikel/de-man-zonder-hamer
-type: artikel
+type: article
 category: keelontsteking
 publish:
   author: Ivan Alexandrovitsj

@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Prostaatklachten?
 url: /nl/ivan-chai-prostaat
-type: artikel
+type: article
 category: Ivan Chai
 publish:
   author: Ivan Alexandrovitj

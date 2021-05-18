@@ -2,7 +2,7 @@
 layout: article.html
 title: Moderne Kruidengeneeskunde
 url: /nl/moderne-kruidengeneeskunde
-type: artikel
+type: article
 category: kruidengeneeskunde
 publish:
   author: Ivan Alexandrovitsj

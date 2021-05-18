@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Opladen is géén optie
 url: /nl/artikel/opladen-is-geen-optie
-type: artikel
+type: article
 category: burnout
 publish:
   author: Svetlana Petrova

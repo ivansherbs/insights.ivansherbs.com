@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Insomnia als gevolg van stress en je telefoon
 url: /nl/artikel/insomnia-als-gevolg-van-stress-en-je-telefoon
-type: artikel
+type: article
 category: slaapproblemen
 publish:
   author: Sasha Popov

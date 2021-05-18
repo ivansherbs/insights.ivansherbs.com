@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Voorkom relatieproblemen
 url: /nl/artikel/voorkom-relatieproblemen
-type: artikel
+type: article
 category: blaasontsteking
 publish:
   author: Svetlana Petrova

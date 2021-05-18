@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Een onopgemerkt probleem
 url: /nl/artikel/een-onopgemerkt-probleem
-type: artikel
+type: article
 category: prostaatkanker
 publish:
   author: Ivan Alexandrovitsj

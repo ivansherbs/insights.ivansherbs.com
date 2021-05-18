@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Essentiële behoeften
 url: /nl/artikel/essentiele-behoefte
-type: artikel
+type: article
 category: slijmbeursontsteking
 publish:
   author: Ivanka Lopukhina

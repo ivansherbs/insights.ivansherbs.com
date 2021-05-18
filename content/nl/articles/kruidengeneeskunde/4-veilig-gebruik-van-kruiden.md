@@ -2,7 +2,7 @@
 layout: article.html
 title: Veilig gebruik van kruiden
 url: /nl/veilig-gebruik-van-kruiden
-type: artikel
+type: article
 category: kruidengeneeskunde
 publish:
   author: Ivan Alexandrovitsj

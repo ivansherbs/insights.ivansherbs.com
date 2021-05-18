@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Exclusieve aanbiedingen
 url: /nl/exclusieve-aanbiedingen
-type: artikel
+type: article
 category: TODO
 publish:
   author: TODO

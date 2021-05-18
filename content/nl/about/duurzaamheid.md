@@ -1,9 +1,7 @@
 ---
 layout: article.html
-title: "Oprichter ecodorp over duurzaamheid"
+title: Oprichter ecodorp over duurzaamheid
 url: /nl/over/oprichter-ecodorp-over-duurzaamheid
-shopify:
-  language: NL
 type: interview
 category: community building
 publish:
@@ -20,7 +18,6 @@ banner:
   image: 3ilK7ATfSjg0WyW07dDoFu
   effect: o-lg-60d-black
 ---
-
 "Chazhaevka is een Siberische ecodorp wat als doel heeft zowel sociaal, economisch als ecologisch duurzaam te zijn", vertelt Andrey Nikitin.
 
 Andrey Nikitin is één van de oprichters van het Siberische ecodorp Chazhaevka. Het produceren van Ivan Chai staat binnen deze community centraal.
@@ -39,7 +36,7 @@ Andrey staat er altijd voor open om zijn kennis en kunde over te dragen aan de n
 
 Na een dag hard werken vindt het volgende gesprek plaats.
 
-V **Wat heeft jou ertoe gezet Chazhaevka op te richten?**
+**Wat heeft jou ertoe gezet Chazhaevka op te richten?**
 
 Al meer dan 20 jaar ben ik bezig met het verkopen van thee. Toen ik 23 jaar oud was heb ik samen met mijn broer een thee bedrijf opgezet.
 
@@ -73,7 +70,7 @@ Het leven in de stad heeft mij veel goed gedaan.
 
 Al moet ik er bij vertellen dat mijn innerlijke motivatie om goed te zijn voor mens en milieu ervoor hebben gezorgd dat we ons dorp konden oprichten.
 
-V **Hoe zorgen jullie voor het in stand houden van een ecodorp?**
+**Hoe zorgen jullie voor het in stand houden van een ecodorp?**
 
 Voor het oprichten en in stand houden van een ecodorp moet je je aangetrokken voelen tot de natuur en zeker zijn van je zaak ervan te kunnen leven.
 

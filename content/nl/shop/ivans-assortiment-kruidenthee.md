@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: "Ivan's Assortiment | Kruidenthee"
 url: /nl/shop/ivans-assortiment-siberische-kruidenthee
-type: artikel
+type: article
 category: Ivan Chai
 publish:
   author:

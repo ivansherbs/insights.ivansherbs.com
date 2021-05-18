@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Uw hart als bakermat van liefde
 url: /nl/artikel/uw-hart-als-bakermat-van-liefde
-type: artikel
+type: article
 category: hart- en vaatziekten
 publish:
   author: Ivanka Lopukhina

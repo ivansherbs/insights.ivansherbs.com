@@ -2,7 +2,7 @@
 layout: article.html
 title: "Ivan's kwaliteitscontrole: wat is Ivan Chai en hoe smaakt het?"
 url: /nl/artikel/ivans-kwaliteitscontrole-wat-is-ivan-chai-en-hoe-smaakt-het
-type: artikel
+type: article
 category: Ivan Chai
 publish:
   author: TODO

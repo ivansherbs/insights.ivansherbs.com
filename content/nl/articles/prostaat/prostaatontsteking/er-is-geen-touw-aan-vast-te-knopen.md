@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Geen touw aan vast te knopen...
 url: /nl/artikel/geen-touw-aan-vast-te-knopen
-type: artikel
+type: article
 category: prostaatontsteking
 publish:
   author: Ivan Alexandrovitsj

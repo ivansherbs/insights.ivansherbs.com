@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: "Ivan's Assortiment | Supplementen"
 url: /nl/shop/ivans-assortiment-supplementen
 type: article

@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: "Theeleuten: je kunt niet jong genoeg beginnen"
 url: /nl/artikel/theeleuten-je-kunt-niet-jong-genoeg-beginnen
-type: artikel
+type: article
 category: luchtweginfecties
 publish:
   author: Svetlana Petrova

@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Runners high versus Ontstoken pees
 url: /nl/artikel/runners-high-versus-ontstoken-pees
-type: artikel
+type: article
 category: peesontsteking
 publish:
   author: Sasha Popov

@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: "Ivan's Assortiment | Siberische matcha"
 url: /nl/shop/ivans-assortiment-siberische-matcha
-type: artikel
+type: article
 category: siberische matcha
 publish:
   author:

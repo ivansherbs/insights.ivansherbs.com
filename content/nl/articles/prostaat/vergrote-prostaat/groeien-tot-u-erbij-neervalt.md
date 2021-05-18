@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Groeien tot u erbij neervalt…
 url: /nl/artikel/groeien-tot-u-erbij-neervalt
-type: artikel
+type: article
 category: vergrote prostaat
 publish:
   author: Ivan Alexandrovitsj

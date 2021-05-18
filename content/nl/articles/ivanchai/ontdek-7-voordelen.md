@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: "Ivan Chai: Ontdek 7 voordelen"
 url: /nl/artikel/ontdek-7-voordelen
-type: artikel
+type: article
 category: Ivan Chai
 publish:
   author: Ivan Alexandrovitsj

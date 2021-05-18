@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: "Ivan Chai: Grootmoeders kennen de voordelen"
 url: /nl/ivan-chai-grootmoeders-kennen-de-voordelen
-type: artikel
+type: article
 category: Ivan Chai
 publish:
   author: Ivanka Lopukhina

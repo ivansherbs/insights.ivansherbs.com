@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Alle kleine beetjes helpen...
 url: /nl/artikel/alle-kleine-beetjes-helpen
-type: artikel
+type: article
 category: zwak immuunsysteem
 publish:
   author: Ivan Alexandrovitsj

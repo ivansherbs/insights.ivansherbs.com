@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: "Ivan's Assortiment | Bestsellers"
 url: /nl/shop/ivans-assortiment-bestsellers
-type: artikel
+type: article
 category: Ivan Chai
 publish:
   author:

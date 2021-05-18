@@ -2,7 +2,7 @@
 layout: article.html
 title: Eco7 Standaard
 url: /nl/artikel/eco7-standaard
-type: artikel
+type: article
 category: partners
 publish:
 author: Ivan Alexandrovitsj

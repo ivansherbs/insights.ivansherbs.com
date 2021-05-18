@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: Het onzichtbare leger
 url: /nl/artikel/het-ontzichtbare-leger
-type: artikel
+type: article
 category: vaginale schimmelinfectie
 publish:
   author: Svetlana Petrova

@@ -2,7 +2,7 @@
 layout: article_with_shopify.html
 title: 1 theekopje vol bloed
 url: /nl/artikel/1-theekopje-vol-bloed
-type: artikel
+type: article
 category: menstruatiepijn en baarmoederontsteking
 publish:
   author: Svetlana Petrova
