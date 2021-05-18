@@ -48,5 +48,5 @@ jobs:
         if: failure()
         env:
           SLACK_INCOMING_WEBHOOK: ${{ secrets.SLACK_INCOMING_WEBHOOK }}
-          SLACK_MESSAGE: 'Demo''ing the Slack Notification'
+          SLACK_MESSAGE: 'Demo''ing `the code` for @gabriel.petrovay using Slack Notification\n```the error```'
           SLACK_TITLE: 'Slack Notification Demo'
