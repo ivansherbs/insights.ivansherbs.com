@@ -5,7 +5,7 @@ url: /nl/artikel/leven-in-chazhaevka
 type: portret
 category: herbal tea expert
 publish: IVAN's
-author: Svetlana Petrova
+  author: Svetlana Petrova
 tags:
 - levensstijl
 - community building

@@ -6,7 +6,6 @@ type: article
 category: vaginale schimmelinfectie
 publish:
   author: Svetlana Petrova
-  date:
 tags:
 - weerstand
 - vrouw
@@ -26,6 +25,8 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 

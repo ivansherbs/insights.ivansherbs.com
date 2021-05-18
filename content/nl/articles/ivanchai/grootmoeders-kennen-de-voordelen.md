@@ -6,7 +6,6 @@ type: article
 category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
-  date:
 tags:
 - weerstand
 - ontsteking

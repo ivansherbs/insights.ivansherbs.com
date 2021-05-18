@@ -5,7 +5,7 @@ url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee
 type: geschiedenis
 category: Ivan Chai
 publish:
-author: Sasha Popov
+  author: Sasha Popov
 tags:
 - geschiedenis
 - ivan chai

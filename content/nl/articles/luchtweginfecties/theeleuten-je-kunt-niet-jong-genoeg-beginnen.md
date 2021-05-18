@@ -6,7 +6,6 @@ type: article
 category: luchtweginfecties
 publish:
   author: Svetlana Petrova
-  date:
 tags:
 - weerstand
 - gezin

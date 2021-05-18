@@ -6,7 +6,6 @@ type: article
 category: burnout
 publish:
   author: Svetlana Petrova
-  date:
 tags:
 - mentale klachten
 - werk
@@ -25,6 +24,8 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 

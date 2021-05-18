@@ -4,9 +4,6 @@ title: "Ivan's Assortiment | Kruidenthee"
 url: /nl/shop/ivans-assortiment-siberische-kruidenthee
 type: article
 category: Ivan Chai
-publish:
-  author:
-  date:
 tags:
 - kruidenthee
 - assortiment

@@ -6,7 +6,6 @@ type: article
 category: slaapproblemen
 publish:
   author: Sasha Popov
-  date:
 tags:
 - eyeopener
 - gevoel
@@ -27,6 +26,8 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 

@@ -6,7 +6,6 @@ type: article
 category: zwak immuunsysteem
 publish:
   author: Ivan Alexandrovitsj
-  date:
 tags:
 - weerstand
 - levensstijl
@@ -26,6 +25,8 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 

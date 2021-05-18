@@ -5,7 +5,7 @@ url: /nl/artikel/eco7-standaard
 type: article
 category: partners
 publish:
-author: Ivan Alexandrovitsj
+  author: Ivan Alexandrovitsj
 tags:
 - community building
 - natuur
