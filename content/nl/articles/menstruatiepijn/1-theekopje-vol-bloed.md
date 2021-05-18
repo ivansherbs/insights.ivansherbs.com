@@ -47,9 +47,9 @@ En waarom Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie
 
 Laten we bij deze dieper ingaan op dit maandelijkse kleurenpalet om de gezondheid van je lichaam nader te bepalen. Te beginnen bij een kleur vaker geproduceerd door de fanatieke sporters, stresskippen en anticonceptiepil gebruikers onder ons.
 
-[[contentfulImage 1ydHsGguUIjquLvuxKDLWf]]
-
 ### Rozerood
+
+[[contentfulImage 1ydHsGguUIjquLvuxKDLWf]]
 
 Deze kleur geeft aan dat je oestrogeenniveau zich aan de lage kant bevindt. Over het algemeen gaat deze kleur gepaard met weinig menstrueren.
 
@@ -74,9 +74,9 @@ Ivan Chai vermindert de kans op stress. Dit wordt mogelijk gemaakt door de kalme
 
 Drink Ivan Chai tevens als aanvulling op medicijnen uit de farmaceutische industrie ( anticonceptiepil). Met name om ongewenste bijwerkingen te bestrijden. ( Dit bespreken we verderop in het artikel.)
 
-[[contentfulImage 3yLnMoa5I3txFa7ZzZajsa]]
-
 ### Wittigrood
+
+[[contentfulImage 3yLnMoa5I3txFa7ZzZajsa]]
 
 Met wittig rood bedoelen we ook wel waterig rood. Een kleur die je oploopt bij weinig, of juist heel veel menstrueren. Dit wijst op bloedarmoede. Oftewel ijzertekort.
 
@@ -93,9 +93,10 @@ Om te beginnen. Vitamine C is rijkelijk te vinden in Ivan Chai. Door de vitamine
 
 Ivan Chai verzorgt je spijsverteringsstelsel. Met als gevolg dat voedingsstoffen beter worden opgenomen. Ook de opname van ijzer wordt hierdoor bevordert.
 
+### Rode-gelei
+
 [[contentfulImage 41HoJLKcpCOgTTNd76vCiA]]
 
-### Rode-gelei
 
 Voor wie niet weet wat ik bedoel met ‘gelei’. Denk dan maar aan rode jam( klonten). Bij een beetje rode gelei hoef je niet gelijk de noodklok te luiden. Echter, bij een een toename in rode-gelei kan dit wijze op een te hoog oestrogeen gehalte. Nare bijkomstigheid is dat je vaker last hebt van menstruatiepijn.
 
@@ -115,9 +116,9 @@ Ivan Chai verzorgt het spijsverteringsstelsel. Naast de opname van voedingsstoff
 
 Ivan Chai bevat zoals eerder beschreven een kalmerende werking. Onderzoek heeft aangetoond dat deze kalmerende werking van invloed is op je centrale zenuwstelsel. Deze kalmerende werking is al eeuwen bekend in de traditionele kruidengeneeskunde. Maar nu ook erkend door hedendaags onderzoek ( hierdoor is Ivan Chai ook effectief tegen stress en angst).
 
-[[contentfulImage 5iNEfH10KUpFE8IBE07gTW]]
-
 ### Donkerrood
+
+[[contentfulImage 5iNEfH10KUpFE8IBE07gTW]]
 
 Hiermee bedoel ik tegen het bruin-rood en zwart-rood aan. Dit zul je zien aan het begin en einde van je menstruatiecyclus.
 
@@ -131,9 +132,9 @@ Nu we het toch hebben over zuurstof in je bloed. Ivan Chai versterkt de antioxid
 
 ( En even buiten de baarmoeder om. Deze werking is tevens effectief tegen hart- en vaatziekten. Ontdek deze voordelen in een ander artikel dat we hebben geschreven: “Je hart als bakermat van liefde”)
 
-[[contentfulImage 7li3aJIlzHTImb7PQvKqyN]]
-
 ### Oranje Rood
+
+[[contentfulImage 7li3aJIlzHTImb7PQvKqyN]]
 
 In tegenstelling tot donkerrood gaan bij deze kleur wél de alarmbellen rinkelen. Denk hierbij aan een soa. Ruikt alles ook een beetje apart? Bel dan even heel snel een huisarts of GGD praktijk op.
 
@@ -143,9 +144,9 @@ Nu je een soa hebt opgelopen krijg je waarschijnlijk medicijnen uit de farmaceut
 
 Drink Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie. Om de kans op ongewenste bijwerkingen te bestrijden.
 
-[[contentfulImage 6NuMZCBtt53d8aTU52B0AM]]
-
 ### Felrood
+
+[[contentfulImage 6NuMZCBtt53d8aTU52B0AM]]
 
 Oftewel de normale menstruatie kleur rood. Voor jouw beeldvorming. Denk maar aan “Ferrari rood”. Of “Coca Cola rood”. Hoe je het ook noemt. Jij bent volgens het maandelijkse kleurenpalet gezond verklaart.
 
@@ -159,9 +160,9 @@ Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
 
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
-[[contentfulImage 1vB1xerKYxnJ3gOGKckz94]]
-
 **Groene Ivan Chai?**
+
+[[contentfulImage 1vB1xerKYxnJ3gOGKckz94]]
 
 En voor de groene thee drinkers onder ons. Het bestaat; Groene Ivan Chai.
 
@@ -219,11 +220,11 @@ Een veilig product zonder bijwerkingen, rechtstreeks uit de natuur...
 
 Denk aan Ivan Chai. Een Siberische kruidenthee. Goed voor lichaam en geest.
 
-### Mooi bijkomend voordeel
+### Bijkomende voordelen:
 
 * Ivan Chai bevat géén cafeïne, géén toegevoegde suikers en géén aroma’s
 
-Drink Ivan Chai niet alleen preventief tegen problemen. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van farmaceutische medicijnen.
+Drink Ivan Chai niet alleen preventief tegen problemen. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van medicijnen uit de farmaceutische industrie.
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent baarmoederaandoeningen te verzorgen.
 
