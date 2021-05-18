@@ -1,8 +1,8 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: Opladen is géén optie
 url: /nl/artikel/opladen-is-geen-optie
-type: artikel
+type: article
 category: burnout
 publish:
   author: Svetlana Petrova
@@ -12,21 +12,23 @@ tags:
 - werk
 - eyeopener
 - gevoel
-meta-description: Meer dan 1.000.000 mensen in Nederland hebben te maken met een burnout klachten. Mede mogelijk gemaakt door meerdere factoren. Het krijgen van een burnout is een groeiend probleem. Benieuwd naar de inzichten?
-meta-tags: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, symptomen burnout, wat is een burnout, koffie, stress, stresshormoon, bloedsuikerspiegel
+meta:
+  description: Meer dan 1.000.000 mensen in Nederland hebben te maken met een burnout klachten. Mede mogelijk gemaakt door meerdere factoren. Het krijgen van een burnout is een groeiend probleem. Benieuwd naar de inzichten?
+  keywords: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, symptomen burnout, wat is een burnout, koffie, stress, stresshormoon, bloedsuikerspiegel
 fragments:
   header: nl/fragments/voordelen/5-3-vermindert-de-kans-op-een-burn-out
   footer: nl/fragments/faq/burnout
-banner: 6CiwLZ3Sy56j7IPi8Agfwu
+banner:
+  image: 6CiwLZ3Sy56j7IPi8Agfwu
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
-**Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burnout bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren. 
+**Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burnout bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren.
 
 Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van te maken. Ze was er zelf ook door gegrepen. En goed ook.
 
@@ -34,13 +36,13 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 **Wanneer ik terugkijk** op die periode uit mijn leven. Is het eigenlijk zo gek nog niet dat ik een burnout heb opgelopen. Je gaat immers op in het werkende leven.
 
-**Want waarom ook niet?** Helemaal met de juiste arbeidsvoorwaarde. Ik kan het mij nog goed herinneren. Op een dag liep ik samen met mijn collega door kantoor. We hadden het over aankomende projecten. En het afwerken van deadlines. En bovenal, jawel, de **ruime vergoeding** die we (lees: ik) zou krijgen. Dus ik gooide het er toen vervolgens maar uit.  
+**Want waarom ook niet?** Helemaal met de juiste arbeidsvoorwaarde. Ik kan het mij nog goed herinneren. Op een dag liep ik samen met mijn collega door kantoor. We hadden het over aankomende projecten. En het afwerken van deadlines. En bovenal, jawel, de **ruime vergoeding** die we (lees: ik) zou krijgen. Dus ik gooide het er toen vervolgens maar uit.
 
-**"Ha! En nu al helemaal niet meer."** Want waarom zou ik uitgerekend nu op vakantie willen gaan? hahaha. Ik zit er net zo lekker in. 
+**"Ha! En nu al helemaal niet meer."** Want waarom zou ik uitgerekend nu op vakantie willen gaan? hahaha. Ik zit er net zo lekker in.
 
 **Toen keek hij mij verbaasd aan** en zei ik vervolgens. "Pauze nemen doe ik wel een andere keer. Daar heb ik nu echt even geen zin in." Dus ja. Zo kwam ik op het idee om nog even door te gaan. En dan zien ze meteen hoe gedreven ik ben.
 
-**Besides**, ik kan mijn dagen net zo goed even opsparen. Of beter gezegd gewoon laten uitbetalen. Dus. **Dit was het moment waar ik de fout in ging.** Tergkijkend vertike ik het om rust te nemen. En even goed op te laden. Ik stelde destijd mijn collega’s vaak dezelfde vraag. 
+**Besides**, ik kan mijn dagen net zo goed even opsparen. Of beter gezegd gewoon laten uitbetalen. Dus. **Dit was het moment waar ik de fout in ging.** Tergkijkend vertike ik het om rust te nemen. En even goed op te laden. Ik stelde destijd mijn collega’s vaak dezelfde vraag.
 
 ### Wat zou jij doen?
 
@@ -48,7 +50,7 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 **Wat versta ik hier tegenwoordig onder versta?** Om te beginnen. Op tijd naar huis gaan. Een weekend vrij nemen. Of zelfs even met vakantie gaan. Gewoon even je hoofd leeg maken. Het is verstandig dit dus wel te doen.
 
-### Complexiteit 
+### Complexiteit
 
 **Klinkt vrij eenvoudig of niet?** Echter ligt dit probleem tussen de oren wel even wat complexer. Een burnout ontstaat meestal tijdens het **werken**. En zonder dat je er erg in hebt is het zover. Opeens is je lichaam **fysiek en mentaal** helemaal uitgeput. En doe je niets liever dan thuis op de bank blijven zitten.
 
@@ -66,7 +68,7 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 **OPLADEN IS GÉÉN OPTIE.** Gedurende mijn eigen burnout heb ik mij verdiept in verschillende onderzoeken. Er zijn **verschillende factoren** die hierin meespelen. Voor het overzicht gaan we er nu niet te diep op in. Dat is wel zo makkelijk voor nu.
 
-### Belangrijke factoren 
+### Belangrijke factoren
 
 **Samenvattend** is een burnout op de werkvloer met name afhankelijk van een aantal factoren. Het draait om **emotionele uitputting**. Je kunt jezelf minder goed geestelijk voldoening geven. Oftewel. Je gedachten en drang om te werken zitten elkaar in de weg. En je hebt een gebrek aan het behalen van je **persoonlijke doelstellingen**. Dit allemaal bij elkaar kan een **heftige mentale reactie** losmaken door de cortisol die hierbij vrij komt.
 
@@ -74,11 +76,11 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 ### Koffie?
 
-De kans op een burnout wordt vergroot door het drinken van koffie. Dit heeft te maken met het volgende. Koffie ontregelt je **bloedsuikerspiegel**. 
+De kans op een burnout wordt vergroot door het drinken van koffie. Dit heeft te maken met het volgende. Koffie ontregelt je **bloedsuikerspiegel**.
 
 **Kort samengevat.** De overproductie van adrenaline die wordt aangemaakt heeft **nadelige gevolgen** voor je **spijsverteringsstelsel**. Omdat die simpelweg sneller uitgeput raakt. Hierdoor raakt je **bloedsuikerspiegel** door de war met als gevolg. Een vergrote kans op een burnout.
 
-**Laat ik het nog maar een keer herhalen.** Voordat we massaal koffie de schuld geven. En voor de duidelijkheid. 
+**Laat ik het nog maar een keer herhalen.** Voordat we massaal koffie de schuld geven. En voor de duidelijkheid.
 
 **Een burnout is** een gevolg van een lange periode aan fysieke en mentale **overbelasting**. Want. Vergeet niet dat je buiten werk om óók nog sport. En avonden uit gaat. Maanden lang gaat het goed. En iedereen die ooit een burnout heeft gehad droomt zelfs van werken.
 
@@ -90,7 +92,7 @@ De kans op een burnout wordt vergroot door het drinken van koffie. Dit heeft te 
 
 **Zorg anders even** dat het nemen van rust óók een plek op de agenda verkrijgt. Om je hoofd leeg te maken. Want. Wanneer je **het stresshormoon goed aanpakt**, hoef je minder snel kennis te maken met de gevolgen. Het krijgen van een burnout. En ik weet het.
 
-**Het klinkt makkelijker gezegd dan gedaan.** Gek genoeg overkomt dit namelijk meer dan **1.000.000 mensen per dag** in Nederland! Veel he?! 
+**Het klinkt makkelijker gezegd dan gedaan.** Gek genoeg overkomt dit namelijk meer dan **1.000.000 mensen per dag** in Nederland! Veel he?!
 
 **Waar wij je op willen wijzen is** het gebruik veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
@@ -102,7 +104,7 @@ De kans op een burnout wordt vergroot door het drinken van koffie. Dit heeft te 
 
 Mocht je toch onverhoopt met een zware burnout rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Goed om te weten. 
+Goed om te weten.
 
 > Het gebruik van farmaceutische medicijnen kan ongewenste bijwerkingen met zich meebrengen. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zoals een zwak immuunsysteem. Of een vermoeide geest.
 

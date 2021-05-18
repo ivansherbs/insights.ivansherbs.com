@@ -1,8 +1,8 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
-title: "Prostaatklachten?"
+layout: article_with_shopify.html
+title: Prostaatklachten?
 url: /nl/ivan-chai-prostaat
-type: artikel
+type: article
 category: Ivan Chai
 publish:
   author: Ivan Alexandrovitj
@@ -12,16 +12,18 @@ tags:
 - urinewegen
 - man
 - 45+
-meta-description: Prostaatklachten? Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. Benieuwd naar de inzichten?
-meta-tags: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bph, prostaatontsteking, prostaatkanker
+meta:
+  description: Prostaatklachten? Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. Benieuwd naar de inzichten?
+  keywords: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bph, prostaatontsteking, prostaatkanker
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
-banner: 12pAkMpkrjbU6TARZvxcF4
+banner:
+  image: 12pAkMpkrjbU6TARZvxcF4
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---

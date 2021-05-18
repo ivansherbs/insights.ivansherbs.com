@@ -2,17 +2,19 @@
 layout: article.html
 title: "Ivan's kwaliteitscontrole: wat is Ivan Chai en hoe smaakt het?"
 url: /nl/artikel/ivans-kwaliteitscontrole-wat-is-ivan-chai-en-hoe-smaakt-het
-type: artikel
+type: article
 category: Ivan Chai
 publish:
-  author:
+  author: TODO
 tags:
 - ivan chai
-meta-description: Wat is Ivan Chai en hoe smaakt het?
-meta-tags: thee, ivan chai, kruiden, kruidenthee, fireweed, epilobium angustifolium, European Medicines Agency, kruidengeneeskunde, cafeïnevrij, Siberië
+meta:
+  description: Wat is Ivan Chai en hoe smaakt het?
+  keywords: thee, ivan chai, kruiden, kruidenthee, fireweed, epilobium angustifolium, European Medicines Agency, kruidengeneeskunde, cafeïnevrij, Siberië
 fragments:
   header: /nl/fragments/voordelen/tip-waterkoker
-banner: 6M6qLeZVXT6g1GMPLpk14n
+banner:
+  image: 6M6qLeZVXT6g1GMPLpk14n
 contentful:
   imageOptions:
     fm: jpg

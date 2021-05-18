@@ -1,27 +1,28 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article.html
 title: Angst als controlemechanisme
 url: /nl/artikel/angst-als-controlemechanisme
-type: artikel
+type: article
 category: angst
 publish:
   author: Svetlana Petrova
-  date:
 tags:
 - mentale klachten
 - werk
 - eyeopener
-meta-description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar de inzichten?
-meta-tags: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten, controle, fobie, sociale angst, paniek
+meta:
+  description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar de inzichten?
+  keywords: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten, controle, fobie, sociale angst, paniek
 fragments:
   header: nl/fragments/voordelen/5-2-vermindert-de-kans-op-angst
   footer: nl/fragments/faq/angst
-banner: 3BPQgrvSsxOBnqdOXJv65w
+banner:
+  image: 3BPQgrvSsxOBnqdOXJv65w
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---

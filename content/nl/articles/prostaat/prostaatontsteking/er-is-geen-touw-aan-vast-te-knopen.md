@@ -1,8 +1,8 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: Geen touw aan vast te knopen...
 url: /nl/artikel/geen-touw-aan-vast-te-knopen
-type: artikel
+type: article
 category: prostaatontsteking
 publish:
   author: Ivan Alexandrovitsj
@@ -12,50 +12,52 @@ tags:
 - 45+
 - eyeopener
 - prostaat
-meta-description: Prostaatklachten? Prostaatpijn? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar de inzichten?
-meta-tags: prostaatklachten, prostaatpijn, prostaatontsteking, prostaat vergroot, ontsteking prostaat symptomen, ontsteking prostaat, maria treben, klinisch onderzoek
+meta:
+  description: Prostaatklachten? Prostaatpijn? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar de inzichten?
+  keywords: prostaatklachten, prostaatpijn, prostaatontsteking, prostaat vergroot, ontsteking prostaat symptomen, ontsteking prostaat, maria treben, klinisch onderzoek
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/prostaatontsteking
-banner: 4oTTNycALC9hhywkuufdiD
+banner:
+  image: 4oTTNycALC9hhywkuufdiD
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
-Naarmate de tijd verstrijkt en u ouder wordt, weet u dat dagelijkse bezigheden meer tijd gaan kosten. Een man weet dat hij op latere leeftijd meer kans heeft op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken waarom ik dit probleem graag aankaarten bij mannen. 
+Naarmate de tijd verstrijkt en u ouder wordt, weet u dat dagelijkse bezigheden meer tijd gaan kosten. Een man weet dat hij op latere leeftijd meer kans heeft op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken waarom ik dit probleem graag aankaarten bij mannen.
 
-* 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. 
+* 30% van de mannen ouder dan 50 jaar heeft problemen met plassen.
 
-Eén van die klachten is een **prostaatontsteking**. En nu komt gelijk het vervelende aan dit probleem. Dit doen wij in de vorm van een bewering die wij gaan onderbouwen. 
+Eén van die klachten is een **prostaatontsteking**. En nu komt gelijk het vervelende aan dit probleem. Dit doen wij in de vorm van een bewering die wij gaan onderbouwen.
 
 De bewering is als volgt.
 
 **"Er is geen touw aan vast te knopen of je op latere leeftijd te maken krijgt met een prostaatontsteking."**
 
-Deze bewering onderbouwen wij op de volgende manier. 
+Deze bewering onderbouwen wij op de volgende manier.
 
 * U kunt uw hele leven gezond hebben gegeten en gedronken. Veel hebben gesport én minimaal 10.000 stappen hebben gezet dagelijkse basis. Géén alcohol en géén drugs hebben gebruikt; en last krijgen van een prostaatontsteking...
 
 * U kunt uw hele leven ongezond hebben gegeten en gedronken. Niet hebben gesport en vooral géén 10.000 stappen hebben gezet op dagelijkse basis. Véél alcohol en drugs hebben gebruikt; en last krijgen van een prostaatontsteking...
 
-* U leidt momenteel een leven waarbij u, net als vroeger, zo nu en dan een héél gezond dieet volgt. Zo nu en dan sport én waarbij u op dagelijkse basis om en nabij de 10.000 stappen zet. Zo nu en dan een beetje buiten de lijntjes kleurt, waarbij u het totaal niet erg vindt eens te diep in het glaasje te kijken; om vervolgens tóch nog last te krijgen van een prostaatontsteking..! 
+* U leidt momenteel een leven waarbij u, net als vroeger, zo nu en dan een héél gezond dieet volgt. Zo nu en dan sport én waarbij u op dagelijkse basis om en nabij de 10.000 stappen zet. Zo nu en dan een beetje buiten de lijntjes kleurt, waarbij u het totaal niet erg vindt eens te diep in het glaasje te kijken; om vervolgens tóch nog last te krijgen van een prostaatontsteking!
 
 **In andere woorden.** <br>
-U kunt uw hele leven naar eigen inziens hebben ingedeeld met de beschikbare gezonde producten die momenteel te verkrijgen zijn. Als u niet bewust op zoek gaat en rekening houdt met prostaatklachten, dan loopt u net als iedere man een vergrote kans een prostaatontsteking op te lopen. 
+U kunt uw hele leven naar eigen inziens hebben ingedeeld met de beschikbare gezonde producten die momenteel te verkrijgen zijn. Als u niet bewust op zoek gaat en rekening houdt met prostaatklachten, dan loopt u net als iedere man een vergrote kans een prostaatontsteking op te lopen.
 
-En voor ons gevoel zijn dat er veel.  
+En voor ons gevoel zijn dat er veel.
 
 * Reminder: +50 jaar / 30%
 
-Deze problemen kunnen de dagelijkse bezigheden flink verstoren. U kunt zelf wel bedenken hoe, op wat voor een manier en waar. Dat gaan we u in dit artikel niet uitleggen. 
+Deze problemen kunnen de dagelijkse bezigheden flink verstoren. U kunt zelf wel bedenken hoe, op wat voor een manier en waar. Dat gaan we u in dit artikel niet uitleggen.
 
 Wel dat het een probleem is om al rekening mee te houden op **‘jongere’ leeftijd**. Even voor de duidelijkheid. Met jongere leeftijd bedoelen we hiermee **rond de 45 jaar**.
 
-Wij willen u naar aanleiding van onze bewering graag nog even het volgende meegeven. **Het is verstandig** zo nu en dan uw lichaam even goed te reinigen met Siberische kruidenthee. 
+Wij willen u naar aanleiding van onze bewering graag nog even het volgende meegeven. **Het is verstandig** zo nu en dan uw lichaam even goed te reinigen met Siberische kruidenthee.
 
 Ivan chai beschermt de gezondheid van uw prostaat. Voor we verder gaan met de inzichten over prostaatklachten. Eerst nog even het volgende.
 
@@ -67,7 +69,7 @@ Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in 
 
 Nu is het lastige aan het vakgebied kruidengeneeskunde dat het moeilijk is om bevinding te bewijzen. Er is gelukkig een manier.
 
-Namelijk met **grootschalig klinisch onderzoek**. Echter moeten **duizenden patiënten** bereidwillig zijn het onderzoek kracht bij te zetten. 
+Namelijk met **grootschalig klinisch onderzoek**. Echter moeten **duizenden patiënten** bereidwillig zijn het onderzoek kracht bij te zetten.
 
 Dit is een arbeidsintensief proces waarbij het onderzoek tevens afhankelijk is van de welwillendheid van de al die patiënten om het onderzoek succesvol af te ronden.
 
@@ -96,17 +98,17 @@ Graag willen we tot slot het volgende belichten.
 
 **Tot slot.**
 
-Laten we van dit moment gebruik maken om gelijk even het verschil uit te leggen tussen een vergrote prostaat en een prostaatontsteking. 
+Laten we van dit moment gebruik maken om gelijk even het verschil uit te leggen tussen een vergrote prostaat en een prostaatontsteking.
 
-In tegenstelling tot een vergrote prostaat, is een prostaatontsteking géén goedaardige aandoening. Een prostaatontsteking beschadigd namelijk wél uw lichaam. 
+In tegenstelling tot een vergrote prostaat, is een prostaatontsteking géén goedaardige aandoening. Een prostaatontsteking beschadigd namelijk wél uw lichaam.
 
-En nu echt tot slot nog 1 waardevolle tip. Voor wanneer u een prostaatontsteking mocht hebben opgelopen. Eén van de adviezen is veel te drinken (2 tot 3 liter). 
+En nu echt tot slot nog 1 waardevolle tip. Voor wanneer u een prostaatontsteking mocht hebben opgelopen. Eén van de adviezen is veel te drinken (2 tot 3 liter).
 
 **Wees verstandig.**
 
-Denk aan Ivan Chai. 
+Denk aan Ivan Chai.
 
-Een Siberische kruidenthee met voordelen voor de prostaat. 
+Een Siberische kruidenthee met voordelen voor de prostaat.
 
 **Let op!**
 

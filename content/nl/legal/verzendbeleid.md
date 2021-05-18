@@ -1,12 +1,13 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article.html
 title: Verzendbeleid
 fragments:
   header:
 url: /nl/over/legal/verzendbeleid
 shopify:
   language: NL
-banner: 4MRpYTwSVcPQJhLq00GZEm
+banner:
+  image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:
   imageOptions:
     fm: jpg

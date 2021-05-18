@@ -1,18 +1,20 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
-title:
+layout: article_with_shopify.html
+title: TODO
 url: /nl/over/werken-bij-ivans-herbs
-shopify:
-  language: NL
-banner: 4MRpYTwSVcPQJhLq00GZEm
+banner:
+  image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:
   imageOptions:
     fm: png
-    q:
-    effect:
+    q: 50
+shopify:
+  language: NL
 ---
+Benieuwd naar de mogelijkheden?
 
-Benieuwd naar de mogelijkheden? <br>
-Stuur dan onmiddelijk een email met uw cv + pasfoto + motivatiebrief naar werkenbij@ivansherbs.nl
+TODO Stefan: does this email exist?
+
+Stuur dan onmiddelijk een email met uw cv + pasfoto + motivatiebrief naar werkenbij@ivansherbs.com
 
 [[shopifyCollection 235510562982 buttonDestination=modal]]

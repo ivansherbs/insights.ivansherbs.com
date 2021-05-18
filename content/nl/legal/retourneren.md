@@ -1,12 +1,13 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article.html
 title: Retourneren
 fragments:
   header:
 url: /nl/over/legal/retourneren
 shopify:
   language: NL
-banner: 4MRpYTwSVcPQJhLq00GZEm
+banner:
+  image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:
   imageOptions:
     fm: jpg
@@ -21,15 +22,19 @@ To start a return, you can contact us at orders@ivansherbs.com. If your return i
 You can always contact us for any return question at orders@ivansherbs.com.
 
 ### Damages and issues
+
 Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.
 
 ### Exceptions / non-returnable items
+
 Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.
 
 Unfortunately, we cannot accept returns on sale items or gift cards.
 
 ### Exchanges
+
 The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.
 
 ### Refunds
+
 We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.

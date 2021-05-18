@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article.html
 title: Ivan´s manifest
 fragments:
   header: nl/fragments/voordelen/wij-geloven-manifest

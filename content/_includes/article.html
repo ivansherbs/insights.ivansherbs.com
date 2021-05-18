@@ -198,7 +198,13 @@
                                         {% endif %}
                                     </ul>
                                     {% endif %}
+                                    {% if fragments.header %}
+                                        {% articleFragment fragments.header %}
+                                    {% endif %}
                                     {{ content }}
+                                    {% if fragments.footer %}
+                                        {% articleFragment fragments.footer %}
+                                    {% endif %}
                                 </div>
                                 <hr>
                                 <div class="post-tag-area d-md-flex justify-content-between align-items-center">
