@@ -10,14 +10,8 @@ tags:
 - medicijn
 - kruidengeneeskunde
 - eyeopener
-<<<<<<< HEAD
 meta-description: "Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, aromatherapie, supplementen en matcha uit Siberie. Benieuwd naar de inzichten?"
 meta-tags: medicijnen, kruidenthee, aromatherapie, supplementen, bijwerkingen, community building, kruidengeneeskunde, geneeskunde
-=======
-meta:
-  description: "Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, aromatherapie, supplementen"
-  keywords: medicijnen, kruidenthee, aromatherapie, supplementen, bijwerkingen, community building, kruidengeneeskunde, geneeskunde
->>>>>>> 170de8609b179aa0d798ed80d4efaa8cb353263b
 fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs

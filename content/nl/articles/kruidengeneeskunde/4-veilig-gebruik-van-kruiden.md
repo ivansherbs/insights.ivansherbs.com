@@ -10,14 +10,8 @@ tags:
 - medicijn
 - kruidengeneeskunde
 - eyeopener
-<<<<<<< HEAD
 meta-description: "Kruidengeneeskunde: negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie. Maak kennis met kruidengeneeskunde in de vorm van kruidenthee, aromatherapie en supplementen. Benieuwd naar de inzichten?"
 meta-tags: kruiden, medicijnen, farmaceutische industrie, bijwerkingen, veilig, behandeling, apothekers, natuurlijke producten, zwangere vrouwen, kinderen, ouderen
-=======
-meta:
-  description: "Kruidengeneeskunde: negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie. Maak kennis met kruidengeneeskunde in de vorm van kruidenthee, aromatherapie en supplementen."
-  keywords: kruiden, medicijnen, farmaceutische industrie, bijwerkingen, veilig, behandeling, apothekers, natuurlijke producten, zwangere vrouwen, kinderen, ouderen
->>>>>>> 170de8609b179aa0d798ed80d4efaa8cb353263b
 fragments:
   header: nl/fragments/voordelen/negatieve-bijwerkingen
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
