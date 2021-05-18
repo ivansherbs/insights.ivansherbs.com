@@ -38,8 +38,17 @@ jobs:
           exit 1
         env:
           REPORT_FILE: test_report.json
-      - name: Notify errors
+      - name: Format errors
         if: failure()
         run: |
           echo "Notifying errors:"
           echo ${{ steps.generate_test_report.outputs.errors }} | jq '.[] | .title + ": " + .message'
+      - name: Notify errors
+        uses: bryannice/gitactions-slack-notification@2.0.0
+        if: failure()
+        env:
+          SLACK_INCOMING_WEBHOOK: ${{ secrets.SLACK_INCOMING_WEBHOOK }}
+          SLACK_TITLE: 'Errors'
+          SLACK_MESSAGE: "```Error one goes here```\n```Error two goes here```\n```Error three goes here```"
+          SLACK_COLOR: '#ff0000'
+          GITHUB_REF:
