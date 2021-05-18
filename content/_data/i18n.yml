@@ -33,6 +33,9 @@ supplements:
 matcha:
   EN: Matcha
   NL: Matcha
+special_offers:
+  EN: Special offers
+  NL: Exclusieve aanbiedingen
 store:
   EN: Store
   NL: Winkel

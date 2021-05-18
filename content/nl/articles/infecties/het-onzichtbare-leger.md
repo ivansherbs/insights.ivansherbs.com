@@ -1,29 +1,32 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: Het onzichtbare leger
 url: /nl/artikel/het-ontzichtbare-leger
-type: artikel
+type: article
 category: vaginale schimmelinfectie
 publish:
   author: Svetlana Petrova
-  date:
 tags:
 - weerstand
 - vrouw
 - infectie
 - gevoel
 - relatie
-meta-description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties?
-meta-tags: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel, poenie,
+meta:
+  description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties?
+  keywords: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel, poenie
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/infectie
-banner: 5vgkjriNf0Iais5agiBLIe
+banner:
+  image: 5vgkjriNf0Iais5agiBLIe
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 

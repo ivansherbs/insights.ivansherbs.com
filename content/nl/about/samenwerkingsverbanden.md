@@ -1,15 +1,12 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
-title: "Samenwerkingsverbanden met affiliates"
+layout: article_with_shopify.html
+title: Samenwerkingsverbanden met affiliates
 url: /nl/over/samenwerkingsverbanden
+banner:
+  image: 4QEhQAiCVkb9eHfP9zNnoR
+  effect: o-lg-60d-black
 shopify:
   language: NL
-banner: 4QEhQAiCVkb9eHfP9zNnoR
-contentful:
-  imageOptions:
-    fm: png
-    q:
-    effect: o-lg-60d-black
 ---
 Momenteel is Ivan's Herbs op zoek naar samenwerkingen met affiliates.
 

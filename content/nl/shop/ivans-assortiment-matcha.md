@@ -1,24 +1,25 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: "Ivan's Assortiment | Siberische matcha"
 url: /nl/shop/ivans-assortiment-siberische-matcha
-type: artikel
+type: article
 category: siberische matcha
 publish:
-  author:
-  date:
+  author: TODO
 tags:
-- Assortiment
-meta-description: Bekijk ons assortiment aan Siberische matcha. Gegarandeerd de hoogste kwaliteit. Benieuwd naar onze matcha kilozakken?
-meta-tags: matcha, kruiden, thee, assortiment, pakketten, bestsellers, drank, voeding, collectie, kruidenthee, water, bestsellers, 1kg
+- assortiment
+meta:
+  description: Bekijk ons assortiment aan Siberische matcha. Gegarandeerd de hoogste kwaliteit. Benieuwd naar onze matcha kilozakken?
+  keywords: matcha, kruiden, thee, assortiment, pakketten, bestsellers, drank, voeding, collectie, kruidenthee, water, bestsellers, 1 kg
 fragments:
   header:
-banner: 5IvxBq8h7Zkmb457iHVYgL
+banner:
+  image: 5IvxBq8h7Zkmb457iHVYgL
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---

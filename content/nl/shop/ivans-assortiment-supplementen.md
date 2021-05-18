@@ -1,24 +1,25 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: "Ivan's Assortiment | Supplementen"
 url: /nl/shop/ivans-assortiment-supplementen
-type: artikel
+type: article
 category: supplementen
 publish:
-  author:
-  date:
+  author: TODO
 tags:
 - Assortiment
-meta-description: Bekijk ons assortiment aan supplementen. Gegarandeerd de hoogste kwaliteit. Benieuwd naar onze vegan capsules?
-meta-tags: vegan, capsules, supplementen, kruiden, assortiment, bestsellers, collectie, kwaliteit, dierenleed, ontbossing
+meta:
+  description: Bekijk ons assortiment aan supplementen. Gegarandeerd de hoogste kwaliteit. Benieuwd naar onze vegan capsules?
+  keywords: vegan, capsules, supplementen, kruiden, assortiment, bestsellers, collectie, kwaliteit, dierenleed, ontbossing
 fragments:
   header:
-banner: 1hvV8UeDYPLElw2il8Kfjb
+banner:
+  image: 1hvV8UeDYPLElw2il8Kfjb
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 shopify:
   language: NL
 ---

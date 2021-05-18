@@ -1,27 +1,29 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: 1 theekopje vol bloed
 url: /nl/artikel/1-theekopje-vol-bloed
-type: artikel
+type: article
 category: menstruatiepijn en baarmoederontsteking
 publish:
   author: Svetlana Petrova
-  date:
 tags:
 - vrouw
 - moeder
-- buikkrampen
-meta-description: Wist je dat? De verschillende kleuren rood die jij menstrueert iets vertelt over je innerlijkse balans. Benieuwd naar de inzichten? Misschien is dit artikel wel het delen waard...
-meta-tags: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongesteld, menstruatie, baarmoeder, bevalling, oestrogeen, menopauze, keizersnede
+meta:
+  description: Wist je dat? De verschillende kleuren rood die jij menstrueert iets vertelt over je innerlijkse balans. Benieuwd naar de inzichten? Misschien is dit artikel wel het delen waard...
+  keywords: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongesteld, menstruatie, baarmoeder, bevalling, oestrogeen, menopauze, keizersnede
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/baarmoederontsteking
-banner: 26tAtHceESEXQYOWF7OG8h
+banner:
+  image: 26tAtHceESEXQYOWF7OG8h
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
@@ -44,11 +46,19 @@ En waarom Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie
 ### Kleurenpalet
 
 Laten we bij deze dieper ingaan op dit maandelijkse kleurenpalet om de gezondheid van je lichaam nader te bepalen. Te beginnen bij een kleur vaker geproduceerd door de fanatieke sporters, stresskippen en anticonceptiepil gebruikers onder ons.
+<<<<<<< HEAD
 
 ### Rozerood
 
 [[contentfulImage 1ydHsGguUIjquLvuxKDLWf]]
 
+=======
+
+[[contentfulImage 1ydHsGguUIjquLvuxKDLWf]]
+
+### Rozerood
+
+>>>>>>> 170de8609b179aa0d798ed80d4efaa8cb353263b
 Deze kleur geeft aan dat je oestrogeenniveau zich aan de lage kant bevindt. Over het algemeen gaat deze kleur gepaard met weinig menstrueren.
 
 Oestrogeen is van belang voor het soepel houden van je vagina. En de productie van cervixslijm, ook wel baarmoederhalsslijm. Bij een tekort aan cervixslijm wordt je baarmoeder minder goed beschermd.
@@ -71,11 +81,19 @@ Ivan Chai werkt als een krachtige ontstekingsremmer. Het is bewezen effectief bi
 Ivan Chai vermindert de kans op stress. Dit wordt mogelijk gemaakt door de kalmerende werking op het centrale zenuwstelsel.
 
 Drink Ivan Chai tevens als aanvulling op medicijnen uit de farmaceutische industrie ( anticonceptiepil). Met name om ongewenste bijwerkingen te bestrijden. ( Dit bespreken we verderop in het artikel.)
+<<<<<<< HEAD
 
 ### Wittigrood
 
 [[contentfulImage 3yLnMoa5I3txFa7ZzZajsa]]
 
+=======
+
+[[contentfulImage 3yLnMoa5I3txFa7ZzZajsa]]
+
+### Wittigrood
+
+>>>>>>> 170de8609b179aa0d798ed80d4efaa8cb353263b
 Met wittig rood bedoelen we ook wel waterig rood. Een kleur die je oploopt bij weinig, of juist heel veel menstrueren. Dit wijst op bloedarmoede. Oftewel ijzertekort.
 
 Ijzertekort kan verschillende oorzaken hebben. De meest voor de hand liggende oorzaak is een tekort aan vitamine C.
@@ -88,10 +106,15 @@ Een tekort aan vitamine C kun je oplopen door:
 **Waarom Ivan Chai?**
 
 Om te beginnen. Vitamine C is rijkelijk te vinden in Ivan Chai. Door de vitamine C wordt je weerstand versterkt.
+<<<<<<< HEAD
 
 Ivan Chai verzorgt je spijsverteringsstelsel. Met als gevolg dat voedingsstoffen beter worden opgenomen. Ook de opname van ijzer wordt hierdoor bevordert.
 
 ### Rode-gelei
+=======
+
+Ivan Chai verzorgt je spijsverteringsstelsel. Met als gevolg dat voedingsstoffen beter worden opgenomen. Ook de opname van ijzer wordt hierdoor bevordert.
+>>>>>>> 170de8609b179aa0d798ed80d4efaa8cb353263b
 
 [[contentfulImage 41HoJLKcpCOgTTNd76vCiA]]
 
@@ -116,12 +139,19 @@ Ivan Chai bevat zoals eerder beschreven een kalmerende werking. Onderzoek heeft 
 
 ### Donkerrood
 
+<<<<<<< HEAD
 [[contentfulImage 5iNEfH10KUpFE8IBE07gTW]]
 
 Hiermee bedoel ik tegen het bruin-rood en zwart-rood aan. Dit zul je zien aan het begin en einde van je menstruatiecyclus.
 
 Schrik jij van deze kleur?
 
+=======
+Hiermee bedoel ik tegen het bruin-rood en zwart-rood aan. Dit zul je zien aan het begin en einde van je menstruatiecyclus.
+
+Schrik jij van deze kleur?
+
+>>>>>>> 170de8609b179aa0d798ed80d4efaa8cb353263b
 Hier is niets mis mee. Je menstruatiebloed heeft simpelweg meer tijd gehad om te oxideren. Ofwel, te reageren op zuurstof. Met een onconventioneel rood kleurtje tot gevolg.
 
 Waarom Ivan Chai?
@@ -132,8 +162,11 @@ Nu we het toch hebben over zuurstof in je bloed. Ivan Chai versterkt de antioxid
 
 ### Oranje Rood
 
+<<<<<<< HEAD
 [[contentfulImage 7li3aJIlzHTImb7PQvKqyN]]
 
+=======
+>>>>>>> 170de8609b179aa0d798ed80d4efaa8cb353263b
 In tegenstelling tot donkerrood gaan bij deze kleur wél de alarmbellen rinkelen. Denk hierbij aan een soa. Ruikt alles ook een beetje apart? Bel dan even heel snel een huisarts of GGD praktijk op.
 
 Waarom Ivan Chai?
@@ -144,8 +177,11 @@ Drink Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie. Om
 
 ### Felrood
 
+<<<<<<< HEAD
 [[contentfulImage 6NuMZCBtt53d8aTU52B0AM]]
 
+=======
+>>>>>>> 170de8609b179aa0d798ed80d4efaa8cb353263b
 Oftewel de normale menstruatie kleur rood. Voor jouw beeldvorming. Denk maar aan “Ferrari rood”. Of “Coca Cola rood”. Hoe je het ook noemt. Jij bent volgens het maandelijkse kleurenpalet gezond verklaart.
 
 Waarom Ivan Chai?
@@ -160,8 +196,11 @@ Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwar
 
 **Groene Ivan Chai?**
 
+<<<<<<< HEAD
 [[contentfulImage 1vB1xerKYxnJ3gOGKckz94]]
 
+=======
+>>>>>>> 170de8609b179aa0d798ed80d4efaa8cb353263b
 En voor de groene thee drinkers onder ons. Het bestaat; Groene Ivan Chai.
 
 Groene Ivan Chai bevat een juist frisse bitterzoete en grassige smaak.

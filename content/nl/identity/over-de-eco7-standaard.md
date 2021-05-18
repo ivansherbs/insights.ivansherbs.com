@@ -1,30 +1,30 @@
 ---
-layout: article_with_header_and_shopify.html
+layout: article.html
 title: Eco7 Standaard
 url: /nl/artikel/eco7-standaard
-type: artikel
+type: article
 category: partners
 publish:
-author: Ivan Alexandrovitsj
+  author: Ivan Alexandrovitsj
 tags:
 - community building
 - natuur
-meta-description: Om het mileu te beschermen en de kwaliteit van ons product te kunnen waarborgen, zet onze Eco7 Standaard de norm... Lees snel meer over onze Eco7 Standaard. 
-meta-tags: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7 standaard, ontbossingen
-shopify:
-  language: NL
-banner: 6ciOm8zBwl5FKm8TBItrQ5
+meta:
+  description: Om het mileu te beschermen en de kwaliteit van ons product te kunnen waarborgen, zet onze Eco7 Standaard de norm... Lees snel meer over onze Eco7 Standaard.
+  keywords: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7 standaard, ontbossingen
+banner:
+  image: 6ciOm8zBwl5FKm8TBItrQ5
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
 ---
 Om het milieu te beschermen is de Eco7 Standaard in het leven geroepen. Benieuwd hoe deze standaard tot stand is gekomen?
 
 ### Community building
 
-Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka. Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn. Graag ondersteunen wij deze unieke denkwijze waar mensen, natuur en dieren centraal staan. Deze levensstijl richt zich namelijk op duurzaam gebruik van de omgeving. 
+Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka. Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn. Graag ondersteunen wij deze unieke denkwijze waar mensen, natuur en dieren centraal staan. Deze levensstijl richt zich namelijk op duurzaam gebruik van de omgeving.
 
 [[contentfulImage 7yWGJa0IjVBd98c2hILzrw]]
 
@@ -37,6 +37,10 @@ De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Iva
 ### Schoon en gezond klimaat
 
 Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. De kruiden uit deze omgeving hebben zich op een andere manier ontwikkeld dan elders op de wereld. Vanuit ecologisch perspectief doet vermoeden dat de werkzame stoffen een gevolg zijn van het extreme klimaat, in combinatie met de vruchtbare gronden langs de rivieren. Met name na een grote bosbrand kan men er van op aan dat kruiden de afgebrande gebieden in rap tempo overnemen.
+
+TODO Review Stefan: Is the following paragraph needed?
+
+De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo klimaatneutraal mogelijk te houden. Alles wordt dan ook op een traditionele wijze verpakt. Nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka.
 
 [[contentfulImage 5wAgIjT0YESBBdOVYAT9Rj]]
 

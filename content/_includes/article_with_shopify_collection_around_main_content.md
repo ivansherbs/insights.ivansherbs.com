@@ -1,0 +1,6 @@
+---
+layout: article_with_shopify.html
+---
+[[shopifyCollection {{ shopify.collection }}]]
+{{ content }}
+[[shopifyCollection {{ shopify.collection }}]]

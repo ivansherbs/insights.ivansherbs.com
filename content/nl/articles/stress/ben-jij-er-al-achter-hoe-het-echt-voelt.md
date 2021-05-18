@@ -1,38 +1,41 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: Ben jij er al achter hoe het écht voelt?
 url: /nl/artikel/ben-jij-er-al-achter-hoe-het-voelt
-type: artikel
+type: article
 category: stress
 publish:
   author: Sasha Popov
-  date:
 tags:
 - stress
 - mentale klachten
 - werk
 - gevoel
-meta-description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Ontdek nu de inzichten. Leer omgaan met stress.
-meta-tags: stress, cortisol, stress verminderen, stresshormoon, wat is stress, omgaan met stress
+meta:
+  description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Ontdek nu de inzichten. Leer omgaan met stress.
+  keywords: stress, cortisol, stress verminderen, stresshormoon, wat is stress, omgaan met stress
 fragments:
   header: nl/fragments/voordelen/5-1-vermindert-de-kans-op-stress
   footer: nl/fragments/faq/stress
-banner: 3trDQrnAPyKfBsSInJtB7g
+banner:
+  image: 3trDQrnAPyKfBsSInJtB7g
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
 ### Wist je dat...
-stress zich niet alleen tussen de oren afspeelt? 
+stress zich niet alleen tussen de oren afspeelt?
 
 **Stress wordt geleid door jouw interne stress-systeem.** Dit systeem bestaat uit je centrale zenuwstelsel en het perifeer zenuwstelsel (het zenuwstelsel net buiten het centrale zenuwstelsel gelegen). In andere woorden, stress is voelbaar van top tot teen.
 
 ### Wist je tevens dat...
-stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel psychotische aandoeningen? 
+stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel psychotische aandoeningen?
 
 **We kennen allemaal het gevoel** dat je het maximale uit je dag wilt halen. Je hebt immers bergen met werk liggen en die deadlines naderen.
 
@@ -52,7 +55,7 @@ stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel p
 
 **Je komt tot de realisatie** dat je stijf staat van de cortisol. Het befaamde stresshormoon wat momenteel giert door je lichaam geeft aan dat je zwaar gespannen bent. Voordeel is dat je er nu eindelijk achter hoe stress écht voelt. Fijn he? Al dat werken. Waar veel mensen niet bij stilstaan is dat langdurige stress kan leiden tot nog heftigere problemen.
 
-**Denk hierbij aan** angst en een burnout. Ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie kunnen de overhand nemen. De gevolgen van stress zijn echter niet te overzien. Simpelweg omdat je niet weet voor welke problemen je gevoelig bent. 
+**Denk hierbij aan** angst en een burnout. Ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie kunnen de overhand nemen. De gevolgen van stress zijn echter niet te overzien. Simpelweg omdat je niet weet voor welke problemen je gevoelig bent.
 
 **Wanneer we kijken wat het met je lichaam doet** is tevens adrenaline in een overtollige hoeveelheid aanwezig. Door langdurige overbelasting van jouw interne stress-systeem kan dit leiden van haaruitval tot orgaanletsel.
 

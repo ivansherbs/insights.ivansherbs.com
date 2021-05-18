@@ -1,32 +1,35 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: Runners high versus Ontstoken pees
 url: /nl/artikel/runners-high-versus-ontstoken-pees
-type: artikel
+type: article
 category: peesontsteking
 publish:
   author: Sasha Popov
-  date:
 tags:
 - ontsteking
 - sport
 - ontsteking
 - eyeopener
-meta-description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken achillespees is zo opgelopen. Benieuwd naar de inzichten?
-meta-tags: hardlopen, hardlopers, achillespees, endorfine, endorfines, peesontsteking, duursport, duursporten, pees, pezen, sasha
+meta:
+  description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken achillespees is zo opgelopen. Benieuwd naar de inzichten?
+  keywords: hardlopen, hardlopers, achillespees, endorfine, endorfines, peesontsteking, duursport, duursporten, pees, pezen, sasha
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/peesontsteking
-banner: 5nsKyyn7wlXZORSvBx0AdB
+banner:
+  image: 5nsKyyn7wlXZORSvBx0AdB
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
-We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks. Het is goed voor de gezondheid van je lichaam en je gemoedstoestand. 
+We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks. Het is goed voor de gezondheid van je lichaam en je gemoedstoestand.
 
 Zo ben je overdag fitter en komen er stoffen bij vrij waar je gelukkiger van wordt.
 
@@ -34,13 +37,13 @@ Zo ben je overdag fitter en komen er stoffen bij vrij waar je gelukkiger van wor
 
 Het nadeel is dat wanneer je vaak **sport** dit verslavend kan werken, waardoor je onderdelen van je lichaam overbelast. Met ontstekingen tot gevolg. Hoe dat in z'n werking gaat, gaan we je in dit artikel vertellen.
 
-Sport zorgt ervoor dat je beter in je vel zit. 
+Sport zorgt ervoor dat je beter in je vel zit.
 
 Dit wordt veroorzaakt door het volgende. En ja, dit proces is complexer dan we nu doen laten overkomen. Voor de uitleg gaan we dan ook niet in op de detail. Om te beginnen. Sport zorgt voor een boost van de neurotransmitters.
 
 ### Endorfine
 
-Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Met name bij **duursporten** verhoog je de waarde van deze stoffen. 
+Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Met name bij **duursporten** verhoog je de waarde van deze stoffen.
 
 Met een verandering van je gemoedstoestand tot gevolg.
 
@@ -54,7 +57,7 @@ Goed. Om het overzicht niet te verliezen gaan we snel verder. En houden we het b
 
 Neurotransmitters hebben ieder hun eigenaardigheden. Zo heeft endorfine de eigenaardigheid dat het **verslavend werkt**. Je kunt hierdoor periodes in je leven ervaren dat je meer wil sporten. Of sterker nog, dat je gedurende het sporten wil blijven sporten!
 
-Een goed voorbeeld hiervan is bijvoorbeeld de zogenaamde ‘runners high’. 
+Een goed voorbeeld hiervan is bijvoorbeeld de zogenaamde ‘runners high’.
 
 [[contentfulImage 4CUEXr80q5Zz2g0WsXPC9F]]
 
@@ -72,9 +75,9 @@ Ik heb het over je pezen.
 
 ### Pezen
 
-Pezen mogen het **vuile werk** op zich nemen wanneer jij lekker aan het sporten bent geslagen. Denk nu maar eens aan je achillespees. Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te verduren. Zij hebben de taak de spieren vast te houden aan het bot. Wanneer een pees langdurig onder hevige druk komt te staan, kan die geïrriteerd raken. Meestal gebeurt dit na verloop van tijd door herhaaldelijke overbelasting. 
+Pezen mogen het **vuile werk** op zich nemen wanneer jij lekker aan het sporten bent geslagen. Denk nu maar eens aan je achillespees. Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te verduren. Zij hebben de taak de spieren vast te houden aan het bot. Wanneer een pees langdurig onder hevige druk komt te staan, kan die geïrriteerd raken. Meestal gebeurt dit na verloop van tijd door herhaaldelijke overbelasting.
 
-Soms gebeurt dit acuut. Door bijvoorbeeld een verkeerde explosieve beweging. In andere woorden, een pijnlijke achillespees is zo opgelopen! 
+Soms gebeurt dit acuut. Door bijvoorbeeld een verkeerde explosieve beweging. In andere woorden, een pijnlijke achillespees is zo opgelopen!
 
 Wanneer dit gebeurt zendt je pees een signaal. Dit ervaar jij vervolgens als pijn. Deze pijn kan je langdurig beperken in je dagelijkse bezigheden.
 

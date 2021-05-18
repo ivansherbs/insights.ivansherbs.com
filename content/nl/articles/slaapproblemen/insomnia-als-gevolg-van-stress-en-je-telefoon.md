@@ -1,12 +1,11 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: Insomnia als gevolg van stress en je telefoon
 url: /nl/artikel/insomnia-als-gevolg-van-stress-en-je-telefoon
-type: artikel
+type: article
 category: slaapproblemen
 publish:
   author: Sasha Popov
-  date:
 tags:
 - eyeopener
 - gevoel
@@ -14,17 +13,21 @@ tags:
 - nachtrust
 - stress
 - werk
-meta-description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. De slaapproblematiek is groter dan je denkt. Benieuwd naar de inzichten over slapeloosheid; ook wel insomnia?
-meta-tags: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblematiek, slecht slapen, slaapstoornis, goede nachtrust, stress, telefoon, kinderen, werken, werk, sasha
+meta:
+  description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. De slaapproblematiek is groter dan je denkt. Benieuwd naar de inzichten over slapeloosheid; ook wel insomnia?
+  keywords: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblematiek, slecht slapen, slaapstoornis, goede nachtrust, stress, telefoon, kinderen, werken, werk, sasha
 fragments:
   header: nl/fragments/voordelen/4-verbetert-de-nachtrust
   footer: nl/fragments/faq/slaapproblemen
-banner: 5aWUslWsXLMPYVRtJGvAZ4
+banner:
+  image: 5aWUslWsXLMPYVRtJGvAZ4
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
@@ -55,7 +58,7 @@ Binnen dit onderzoek nemen de Nederlanders mee vanaf 12 jaar en ouder. Dus ook *
 
 Stress bij kinderen is moeilijk te herkennen. Het ontstaat door een combinatie van factoren waarbij een toenemende mate van technologie in ons dagelijks leven een belangrijke rol speelt. Speciaal voor de ouders en toekomstig ouders onder ons nog even wat extra achtergrond informatie.
 
-**Onderzoek heeft aangetoond** 
+**Onderzoek heeft aangetoond**
 dat kinderen steeds vaker beschikken over een smartphone.
 * 5 procent van alle vierjarigen heeft al een smartphone.
 * 94 procent van de twaalfjarige loopt rond met een mobiele telefoon!
@@ -106,7 +109,7 @@ Oké. GENOEG OVER KINDEREN. We gaan nu over op de tips.
 
 Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook van invloed op je prestatie op werk. En iedereen die daar mee te maken heeft. Kun je nagaan hoeveel invloed dit probleem heeft op de Nederlandse economie. Hoeveel lees je verderop in het artikel.
 
-**Om je nachtrust te verbeteren** zijn er tal van tips te vinden. Waar wij je op willen wijzen is het gebruik van veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek. 
+**Om je nachtrust te verbeteren** zijn er tal van tips te vinden. Waar wij je op willen wijzen is het gebruik van veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
 **Denk aan Ivan Chai.** Een Siberische kruidenthee. Goed voor jong en oud.
 

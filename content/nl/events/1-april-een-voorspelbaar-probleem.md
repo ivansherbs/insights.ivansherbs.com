@@ -1,8 +1,8 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
+layout: article_with_shopify.html
 title: Een voorspelbaar probleem
 url: /nl/artikel/een-voorspelbaar-probleem
-type: artikel
+type: article
 category: buikgriep
 publish:
   author: Svetlana Petrova
@@ -12,21 +12,25 @@ tags:
 - levensstijl
 - eyeopener
 - buikkrampen
-meta-description: Wat hebben diarree, antibiotica en een blaasontsteking gemeen? Lees het nu in het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW. 
-meta-tags: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip, antibiotica, blaasontsteking
+meta:
+  description: Wat hebben diarree, antibiotica en een blaasontsteking gemeen? Lees het nu in het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW.
+  keywords: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip, antibiotica, blaasontsteking
 fragments:
   header: nl/fragments/voordelen/7-verzorgt-het-spijsverteringsstelsel
   footer: nl/fragments/faq/buikgriep
-banner: 37Bs8iLiIbgDtnLsOZdr4e
+banner:
+  image: 37Bs8iLiIbgDtnLsOZdr4e
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
+shopify:
+  language: NL
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
-Dit is het DAGBOEK van een zeer emotionele, ontdane en onzekere vrouw. En nu zit ze ook nog eens ontzettend hard aan de diarree. 
+Dit is het DAGBOEK van een zeer emotionele, ontdane en onzekere vrouw. En nu zit ze ook nog eens ontzettend hard aan de diarree.
 
 Zul je net zien. Bah.
 
@@ -34,19 +38,19 @@ Zul je net zien. Bah.
 
 Lief DAGBOEK,
 
-Vandaag was weer een hele vervelende dag voor mij. Ik zit gvd alweer aan de DIARREE. 
+Vandaag was weer een hele vervelende dag voor mij. Ik zit gvd alweer aan de DIARREE.
 
 ALWEER! Hou je toch niet voor mogelijk. Naaaah.
 
 Ik heb dus wederom last van mijn buik. En dit keer is het NIET de ZWARE MENSTRUATIEPIJN. Waar ik ook altijd last van heb.
 
-Nee. GELUKKIG heb ik dit keer eens een ander probleem. Voor de verandering. Gewoon even iets anders. 
+Nee. GELUKKIG heb ik dit keer eens een ander probleem. Voor de verandering. Gewoon even iets anders.
 
 Heel fijn allemaal. Dit keer komt het denk ik door de ANTIBIOTICA KUUR. Want ja.
 
 Ik heb WEER een BLAASONTSTEKING. Voor de tweede keer dit jaar.
 
-Dus nu slik ik nog meer pillen uit de FARMACEUTISCHE INDUSTRIE. Alweer. Want een NATUURLIJKE en niet-chemische OPLOSSING heb ik nog niet gevonden. 
+Dus nu slik ik nog meer pillen uit de FARMACEUTISCHE INDUSTRIE. Alweer. Want een NATUURLIJKE en niet-chemische OPLOSSING heb ik nog niet gevonden.
 
 Ik zit er nu aan te denken dan maar te stoppen met de ANTICONCEPTIEPIL. Weer eentje minder. Maar dat weet ik dus niet zeker. Want.
 
@@ -58,7 +62,7 @@ Dus. Ik heb WÉÉÉÉR last van mijn BUIK. Het komt er dit keer echt ONGELOOFLIJ
 
 Je moest eens weten. Hier kan geen parfum meer tegenop. En ik maar spuiten. Alles leeg.
 
-GAD-VER-DAMME. Wat een putlucht. 
+GAD-VER-DAMME. Wat een putlucht.
 
 Wat ik dus denk is dat ik door de ANTIBIOTICA mijn IMMUUNSYSTEEM aan het verzwakken ben. Ik heb dus gelezen dat je daar dus hard van aan de DIARREE kan gaan.
 
@@ -66,7 +70,7 @@ Dus ja. En hier bovenop. Ben ik nu ook nog eens mijn hormoonhuishouding flink DO
 
 Door de ANTICONCEPTIEPIL. Juist ja.
 
-Zul je net zien. Mijn HORMOON-HUISHOUDING. Doe even normaal. Konden ze er nou niet even een gewoon woord voor vinden? 
+Zul je net zien. Mijn HORMOON-HUISHOUDING. Doe even normaal. Konden ze er nou niet even een gewoon woord voor vinden?
 
 Ik heb dus geen zin om te stoppen met de anticonceptiepil. Maar ook wil ik geen condooms gebruiken.
 
@@ -78,11 +82,11 @@ Het is gewoon VERSCHRIKKELIJK. Je zou het ook wel een KLEIN DRAMA noemen.
 
 Hier wil ik dus vanaf. Maar ik heb GEEN IDEE hoe. En of ik er makkelijk vanaf kan komen.
 
-Mijn vraag aan jou. ALWEER. Voor de zoveelste keer. Maar nu toch echt hopelijk de laatste keer. Want ik wil dit niet meer. 
+Mijn vraag aan jou. ALWEER. Voor de zoveelste keer. Maar nu toch echt hopelijk de laatste keer. Want ik wil dit niet meer.
 
 WAT ZOU JIJ DOEN?
 
-Liefs 
+Liefs
 
 X
 
@@ -90,7 +94,7 @@ X
 
 ### Wist je dat je het krijgen van buikkrampen vaak kunt voorspellen?
 
-Wat je dus eigenlijk doet is gewoon even in de TOEKOMST kijken. We gaan je deze truc ook even leren. Wel zo makkelijk. Dit doe je door gewoon even LOGISCH na te denken wat voor periode er voor de boeg staat. 
+Wat je dus eigenlijk doet is gewoon even in de TOEKOMST kijken. We gaan je deze truc ook even leren. Wel zo makkelijk. Dit doe je door gewoon even LOGISCH na te denken wat voor periode er voor de boeg staat.
 
 We geven je bij deze wat houvast mee zodat ook jij in de TOEKOMST kunt kijken. Hierdoor kun je de kans op DARMKLACHTEN die zorgen voor nare situaties verminderen.
 
@@ -104,7 +108,7 @@ Laten we beginnen bij te bedenken of je medicijnen uit de farmaceutische industr
 
 Vooral vrouwen raden we aan onderstaande tip helemaal te lezen. Hierbij vermelden we nadrukkelijk medicijnen uit de FARMACEUTISCHE INDUSTRIE. Deze zijn vanwege de directe werking vaak van invloed op je SPIJSVERTERINGSSTELSEL.
 
-We noemen een aantal voorbeelden. Denk aan een ANTIBIOTICA kuur! Als GEVOLG van bijvoorbeeld een BLAASONTSTEKING. 
+We noemen een aantal voorbeelden. Denk aan een ANTIBIOTICA kuur! Als GEVOLG van bijvoorbeeld een BLAASONTSTEKING.
 
   - Door het gebruik van ANTIBIOTICA kan je darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een ANTIBIOTICA kuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geAssocieerde Diarree - AAD. AAD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van ANTIBIOTICA de patiënt acht weken na de kuur nog last had van diarree.
 
@@ -122,7 +126,7 @@ Ga je naar een (sub) TROPISCH gebied? Zo ja. Dan is het VERSTANDIG onderstaande 
 
 > Wanneer we naar de STATISTIEKEN kijken zien we dat de incidentie van TURISTA gedurende onze wintermaanden hoger is dan gedurende de zomer. TURISTA kan worden veroorzaakt door een bacterie, virus of parasiet.
 
-Dus. Als we op deze manier naar buikgriep kijken. Is BUIKGRIEP vaak een voorspelbaar probleem. 
+Dus. Als we op deze manier naar buikgriep kijken. Is BUIKGRIEP vaak een voorspelbaar probleem.
 
 MET ANDERE WOORDEN, je kunt verwachten dat wanneer je medicijnen uit de FARMACEUTISCHE INDUSTRIE gebruikt of op vakantie gaat naar (sub) tropisch gebieden, je last gaat krijgen van buikgriep. Je kan hier dus door heel LOGISCH na te denken al op inspelen. Dit maakt buikgriep een VOORSPELBAAR probleem.
 
@@ -130,7 +134,7 @@ Voor we het vergeten!
 
 **TIP 3.**
 
-Ga je binnenkort op DIEET? Buikgriep kan ook worden veroorzaakt door het radicaal veranderen van je dieet. Dit komt minder vaak voor, maar bestaat wel. Wanneer de zomer eraan komt gooien veel strandliefhebbers namelijk rigoureus hun DIEET om voor hun ideale strandlichaam. Met BUIKKRAMPEN tot gevolg. 
+Ga je binnenkort op DIEET? Buikgriep kan ook worden veroorzaakt door het radicaal veranderen van je dieet. Dit komt minder vaak voor, maar bestaat wel. Wanneer de zomer eraan komt gooien veel strandliefhebbers namelijk rigoureus hun DIEET om voor hun ideale strandlichaam. Met BUIKKRAMPEN tot gevolg.
 
 Al moeten we ook de realiteit onder ogen zien dat niet alle rigoureuze veranderingen van DIEET te zijn voorzien. Het tegenovergestelde kan ook effect hebben op je SPIJSVERTERINGSSTELSEL. Je kunt namelijk ook gewoon HEEL GEZOND eten en JEZELF EENS TE BUITEN GAAN aan een snelle VETTE HAP van de snackbar. Of een niet nader te noemen fastfoodketen.
 

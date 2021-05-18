@@ -1,12 +1,11 @@
 ---
-layout: article_with_header_and_footer_and_shopify.html
-title: "Kruiden uit Siberië als medicijnen zonder bijwerkingen"
+layout: article.html
+title: Kruiden uit Siberië als medicijnen zonder bijwerkingen
 url: /nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen
-type: artikel
+type: article
 category: kruidengeneeskunde
 publish:
   author: Ivanka Lopukhina
-  date:
 tags:
 - medicijn
 - kruidengeneeskunde
@@ -16,14 +15,13 @@ meta-tags: kruiden, medicijnen, European Medicines Agency, farmaceutische indust
 fragments:
   header: nl/fragments/voordelen/kruiden-zijn-de-natuurlijke-oplossing
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
-banner: 1f848joAWGXkrV2sxDjcvI
+banner:
+  image: 1f848joAWGXkrV2sxDjcvI
+  effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
     q: 50
-    effect: o-lg-60d-black
-shopify:
-  language: NL
 ---
 Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of problemen te behandelen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel;
 
