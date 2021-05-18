@@ -49,4 +49,5 @@ jobs:
         env:
           SLACK_INCOMING_WEBHOOK: ${{ secrets.SLACK_INCOMING_WEBHOOK }}
           SLACK_TITLE: 'Errors'
-          SLACK_MESSAGE: '```Demo''ing `the code````\nfor <@gabriel> using Slack Notification\n```the error```'
+          SLACK_MESSAGE: '```Error one goes here```\n```Error two goes here```\n```Error three goes here```'
+          SLACK_COLOR: 'red'
