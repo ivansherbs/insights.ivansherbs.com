@@ -11,7 +11,7 @@ tags:
 - kruidengeneeskunde
 - eyeopener
 meta:
-  description: Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, aromatherapie, supplementen
+  description: "Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, aromatherapie, supplementen"
   keywords: medicijnen, kruidenthee, aromatherapie, supplementen, bijwerkingen, community building, kruidengeneeskunde, geneeskunde
 fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur

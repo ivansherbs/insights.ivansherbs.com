@@ -10,7 +10,7 @@ tags:
 - medicijn
 - kruidengeneeskunde
 - eyeopener
-meta
+meta:
   description: Dagelijks gebruik van kruiden met geneeskrachtige werking? Maak kennis met de producten van Ivan's Herbs.
   keywords: medicijnen, kruiden, farmaceutische industrie, probleem, natuurlijk, product, kruidenthee, aromatherapie, supplement, kruidengeneeskunde, angst, stress
 fragments:
