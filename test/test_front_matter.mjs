@@ -79,7 +79,7 @@ describe(`front matter`, function () {
                     await Promise.all(arr.map(mdFile => util.promisify(FrontMatter.findProblemsWithContentfulOption)(`${CONTENT_PATH}${language}/${mdFile}`)));
 
 
-                it('- have valid image paths', async function () {
+                it('- uses only available options', async function () {
 
                     const problems = await findContentfulOptionProblems(mdFiles);
                     const badFiles = mdFiles
