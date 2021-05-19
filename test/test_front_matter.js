@@ -1,13 +1,8 @@
-const assert = require('assert');
-const glob = require('glob');
-const util = require('util');
+import assert from 'assert';
+import glob from 'glob';
+import util from 'util';
 
-const {
-    filterOutFilesWithValidFrontMatterSyntax,
-    findProblemsWithLayout,
-    findProblemsWithFragments,
-    findProblemsWithContentfulOption
-} = require('./lib/front_matter');
+import * as FrontMatter from './lib/front_matter.js';
 
 const CONTENT_PATH = 'content/';
 const LANGUAGES = ['en', 'nl'];
@@ -39,7 +34,7 @@ describe(`front matter`, function () {
                     }
 
                     const badFiles = await filterOutGoodFiles(mdFiles, async mdFile => {
-                        return await util.promisify(filterOutFilesWithValidFrontMatterSyntax)(`${CONTENT_PATH}${language}/${mdFile}`);
+                        return await util.promisify(FrontMatter.filterOutFilesWithValidFrontMatterSyntax)(`${CONTENT_PATH}${language}/${mdFile}`);
                     });
 
                     assert.strictEqual(badFiles.length, 0, `Found YAML syntax errors in the front matter of the following files:\n  ${badFiles.join('\n  ')}`);
@@ -49,7 +44,7 @@ describe(`front matter`, function () {
             describe('- page layouts', function () {
 
                 const findLayoutProblems = async (arr) =>
-                    await Promise.all(arr.map(mdFile => util.promisify(findProblemsWithLayout)(`${CONTENT_PATH}${language}/${mdFile}`)));
+                    await Promise.all(arr.map(mdFile => util.promisify(FrontMatter.findProblemsWithLayout)(`${CONTENT_PATH}${language}/${mdFile}`)));
 
                 it('- have valid paths', async function () {
 
@@ -65,7 +60,7 @@ describe(`front matter`, function () {
             describe('- page fragments', function () {
 
                 const findFragmentProblems = async (arr) =>
-                    await Promise.all(arr.map(mdFile => util.promisify(findProblemsWithFragments)(`${CONTENT_PATH}${language}/${mdFile}`)));
+                    await Promise.all(arr.map(mdFile => util.promisify(FrontMatter.findProblemsWithFragments)(`${CONTENT_PATH}${language}/${mdFile}`)));
 
                 it('- have valid paths', async function () {
 
@@ -81,7 +76,7 @@ describe(`front matter`, function () {
             describe('- Contentful page options', function () {
 
                 const findContentfulOptionProblems = async (arr) =>
-                    await Promise.all(arr.map(mdFile => util.promisify(findProblemsWithContentfulOption)(`${CONTENT_PATH}${language}/${mdFile}`)));
+                    await Promise.all(arr.map(mdFile => util.promisify(FrontMatter.findProblemsWithContentfulOption)(`${CONTENT_PATH}${language}/${mdFile}`)));
 
 
                 it('- have valid image paths', async function () {

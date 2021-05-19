@@ -18,6 +18,7 @@
         "mocha": "^8.2.1",
         "yaml-lint": "^1.2.4"
     },
+    "type": "module",
     "scripts": {
         "test": "mocha",
         "test-ci": "if [ -z \"${REPORT_FILE}\" ]; then REPORT_FILE=test_report.json; fi; mocha --reporter json | tee \"${REPORT_FILE}\""
