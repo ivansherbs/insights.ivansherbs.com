@@ -1,4 +1,4 @@
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
 
     // TODO add when 11ty v1.0 is released with the addGlobalData feature
     //require('./src/globalData')(eleventyConfig);

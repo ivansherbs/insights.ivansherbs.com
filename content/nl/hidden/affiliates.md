@@ -2,6 +2,9 @@
 layout: article.html
 title: De reis van mijn leven
 url: /nl/samenwerkingen/affiliates
+meta:
+  description: TODO
+  keywords: TODO
 banner:
   image: 6csVsKRo3aDFZgyA0ojdEV
   effect: o-lg-60d-black

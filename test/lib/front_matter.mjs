@@ -1,7 +1,7 @@
-const fs = require('fs');
-const readline = require('readline');
-const yaml = require('yaml');
-const yamllint = require('yaml-lint');
+import fs from 'fs';
+import readline from 'readline';
+import yaml from 'yaml';
+import yamllint from 'yaml-lint';
 
 const CONTENT_PATH = 'content/';
 const CONTENTFUL_IMAGE_API_OPTIONS = [
@@ -34,7 +34,7 @@ function readFrontMatter(filePath, callback) {
 
 }
 
-function filterOutFilesWithValidFrontMatterSyntax(filePath, callback) {
+export function filterOutFilesWithValidFrontMatterSyntax(filePath, callback) {
     readFrontMatter(filePath, (err, frontMatter) => {
         if (!frontMatter) {
             callback(null, false);
@@ -46,7 +46,7 @@ function filterOutFilesWithValidFrontMatterSyntax(filePath, callback) {
     });
 }
 
-function findProblemsWithContentfulOption(filePath, callback) {
+export function findProblemsWithContentfulOption(filePath, callback) {
     readFrontMatter(filePath, (err, frontMatter) => {
         // no front matter
         if (!frontMatter) {
@@ -82,7 +82,7 @@ function findProblemsWithContentfulOption(filePath, callback) {
     });
 }
 
-function findProblemsWithLayout(filePath, callback) {
+export function findProblemsWithLayout(filePath, callback) {
     readFrontMatter(filePath, (err, frontMatter) => {
         // no front matter
         if (!frontMatter) {
@@ -110,7 +110,7 @@ function findProblemsWithLayout(filePath, callback) {
     });
 }
 
-function findProblemsWithFragments(filePath, callback) {
+export function findProblemsWithFragments(filePath, callback) {
     readFrontMatter(filePath, (err, frontMatter) => {
         // no front matter
         if (!frontMatter) {
@@ -159,7 +159,39 @@ function findProblemsWithFragments(filePath, callback) {
     });
 }
 
-exports.filterOutFilesWithValidFrontMatterSyntax = filterOutFilesWithValidFrontMatterSyntax;
-exports.findProblemsWithFragments = findProblemsWithFragments;
-exports.findProblemsWithLayout = findProblemsWithLayout;
-exports.findProblemsWithContentfulOption = findProblemsWithContentfulOption;
+export function findProblemsWithMeta(filePath, callback) {
+    readFrontMatter(filePath, (err, frontMatter) => {
+        // no front matter
+        if (!frontMatter) {
+            callback(null);
+            return;
+        }
+
+        var frontMatterObject = yaml.parse(frontMatter);
+
+        var errors = ['description', 'keywords'];
+
+        // no fragments declared
+        if (!frontMatterObject.meta) {
+            callback(null, errors);
+            return;
+        }
+
+        // meta description defined
+        if (frontMatterObject.meta.description) {
+            errors = errors.filter(value => value !== 'description');
+        }
+
+        // meta keywords defined
+        if (frontMatterObject.meta.keywords) {
+            errors = errors.filter(value => value !== 'keywords');
+        }
+
+        if (errors.length) {
+            callback(null, errors);
+            return;
+        }
+
+        callback(null);
+    });
+}

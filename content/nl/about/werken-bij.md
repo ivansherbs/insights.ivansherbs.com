@@ -2,6 +2,9 @@
 layout: article_with_shopify.html
 title: TODO
 url: /nl/over/werken-bij-ivans-herbs
+meta:
+  description: TODO
+  keywords: TODO
 banner:
   image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:
