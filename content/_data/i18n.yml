@@ -51,6 +51,17 @@ articles:
 story:
   EN: Story
   NL: Verhaal
+giftset:
+  EN: Giftset
+  NL: Geschenkdoos
+collection:
+  EN: Collection
+  NL: Assortiment
+
+#vc.ivansherbs.com
+best_sellers:
+  EN: Best sellers
+  NL: Bestsellers
 
 # Shopify integrations
 shopify.product.button:

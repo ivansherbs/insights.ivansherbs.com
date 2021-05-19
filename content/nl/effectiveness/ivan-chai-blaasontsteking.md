@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Blaasontsteking...
+title: Last van een blaasontsteking?
 url: /nl/ivan-chai-blaasontsteking
 type: article
 category: Ivan Chai
@@ -11,13 +11,13 @@ tags:
 - vrouw
 - 45+
 meta:
-  description: Last van een blaasontsteking? Drink Ivan Chai tegen een urineweginfectie ofwel blaasontsteking. Benieuwd naar de inzichten?
+  description: Drink Ivan Chai tegen een urineweginfectie ofwel blaasontsteking. Benieuwd naar de inzichten?
   keywords: ivan chai, kruiden, blaasontsteking, urineweginfectie
 fragments:
   header: nl/fragments/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen
   footer: nl/fragments/faq/blaasontsteking
 banner:
-  image: 12pAkMpkrjbU6TARZvxcF4
+  image: 4vo8kkt8XMKN2xqhgfUsyl
   effect: o-lg-60d-black
 contentful:
   imageOptions:
