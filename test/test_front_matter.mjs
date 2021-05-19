@@ -89,6 +89,22 @@ describe(`front matter`, function () {
                     assert.strictEqual(badFiles.length, 0, `Found invalid contentful image options in the front matter of the following files:\n  ${badFiles.join('\n  ')}`);
                 });
             });
+
+            describe('- page meta', function () {
+
+                const findMetaProblems = async (arr) =>
+                    await Promise.all(arr.map(mdFile => util.promisify(FrontMatter.findProblemsWithMeta)(`${CONTENT_PATH}${language}/${mdFile}`)));
+
+                it('- has both description and keywords', async function () {
+
+                    const problems = await findMetaProblems(mdFiles);
+                    const badFiles = mdFiles
+                        .map((file, index) => problems[index] ? `${file} (${problems[index].join(', ')})` : undefined)
+                        .filter(mdFile => !!mdFile);
+
+                    assert.strictEqual(badFiles.length, 0, `Found pages that are missing meta (description, keywords) information:\n  ${badFiles.join('\n  ')}`);
+                });
+            });
         });
     });
 });

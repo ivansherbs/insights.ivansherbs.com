@@ -158,3 +158,40 @@ export function findProblemsWithFragments(filePath, callback) {
         callback(null);
     });
 }
+
+export function findProblemsWithMeta(filePath, callback) {
+    readFrontMatter(filePath, (err, frontMatter) => {
+        // no front matter
+        if (!frontMatter) {
+            callback(null);
+            return;
+        }
+
+        var frontMatterObject = yaml.parse(frontMatter);
+
+        var errors = ['description', 'keywords'];
+
+        // no fragments declared
+        if (!frontMatterObject.meta) {
+            callback(null, errors);
+            return;
+        }
+
+        // meta description defined
+        if (frontMatterObject.meta.description) {
+            errors = errors.filter(value => value !== 'description');
+        }
+
+        // meta keywords defined
+        if (frontMatterObject.meta.keywords) {
+            errors = errors.filter(value => value !== 'keywords');
+        }
+
+        if (errors.length) {
+            callback(null, errors);
+            return;
+        }
+
+        callback(null);
+    });
+}
