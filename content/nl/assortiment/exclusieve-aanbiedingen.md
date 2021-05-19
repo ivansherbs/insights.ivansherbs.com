@@ -3,10 +3,9 @@ layout: article_with_shopify.html
 title: Exclusieve aanbiedingen
 url: /nl/assortiment/exclusieve-aanbiedingen
 type: article
-tags:
 meta:
-  description:
-  keywords:
+  description: TODO
+  keywords: TODO
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
@@ -43,10 +42,13 @@ Benieuwd naar onze exclusieve aanbiedingen?
 [[shopifyCollection 261741445286 buttonDestination=cart]]
 
 ### Is uw kortingscode altijd geldig?
+
 Jazeker. Uw kortingscode kunt u blijven gebruiken voor nieuwe exclusieve aanbiedingen.
 
 ### Hoe vaak wordt deze pagina vernieuwd?
+
 Om de twee weken vernieuwen wij deze pagina. Uiteraard houden wij u ook via onze nieuwsbrief op de hoogte.
 
 ### Uw beker laten vallen?
+
 Stuur ons vandaag nog een berichtje. Wij zoeken graag een passende oplossing voor onze Loyaltea members. Wellicht hebben we wel een nóg mooiere beker voor u in de aanbieding...

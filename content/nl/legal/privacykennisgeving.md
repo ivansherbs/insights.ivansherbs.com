@@ -1,11 +1,11 @@
 ---
 layout: article.html
 title: Privacykennisgeving
-fragments:
-  header:
 url: /nl/over/legal/privacykennisgeving
-shopify:
-  language: NL
+type: legal
+meta:
+  description: TODO
+  keywords: TODO
 banner:
   image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:

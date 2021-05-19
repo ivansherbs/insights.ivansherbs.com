@@ -1,11 +1,12 @@
 ---
 layout: article.html
 title: Retourneren
+url: /nl/over/legal/retourneren
+meta:
+  description: TODO
+  keywords: TODO
 fragments:
   header:
-url: /nl/over/legal/retourneren
-shopify:
-  language: NL
 banner:
   image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:

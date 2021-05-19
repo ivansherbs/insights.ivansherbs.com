@@ -10,8 +10,9 @@ tags:
 - medicijn
 - kruidengeneeskunde
 - eyeopener
-meta-description: Dagelijks gebruik van kruiden met geneeskrachtige werking is mogelijk met de producten van Ivan's Herbs, Herbs from Siberia. Benieuwd naar de inzichten?
-meta-tags: medicijnen, kruiden, farmaceutische industrie, probleem, natuurlijk, product, kruidenthee, aromatherapie, supplement, kruidengeneeskunde, angst, stress
+meta:
+  description: Dagelijks gebruik van kruiden met geneeskrachtige werking is mogelijk met de producten van Ivan's Herbs, Herbs from Siberia. Benieuwd naar de inzichten?
+  keywords: medicijnen, kruiden, farmaceutische industrie, probleem, natuurlijk, product, kruidenthee, aromatherapie, supplement, kruidengeneeskunde, angst, stress
 fragments:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:

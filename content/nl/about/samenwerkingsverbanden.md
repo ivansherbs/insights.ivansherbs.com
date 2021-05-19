@@ -2,6 +2,9 @@
 layout: article_with_shopify.html
 title: Samenwerkingsverbanden met affiliates
 url: /nl/over/samenwerkingsverbanden
+meta:
+  description: TODO
+  keywords: TODO
 banner:
   image: 4QEhQAiCVkb9eHfP9zNnoR
   effect: o-lg-60d-black
