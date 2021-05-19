@@ -55,10 +55,10 @@ jobs:
           # prepare the variables we need for the Slack message
           git_commit_sha=${{ github.sha }}
           git_commit_sha_short=${git_commit_sha:0:7}
-          git_commit_url=https://github.com/${{ github.repository }}/commit/${git_commit_sha}|${git_commit_sha_short}
-          git_repo_url=https://github.com/${{ github.repository }}|${{ github.repository }}
+          git_commit_url="<https://github.com/${{ github.repository }}/commit/${git_commit_sha}|${git_commit_sha_short}>"
+          git_repo_url="<https://github.com/${{ github.repository }}|${{ github.repository }}>"
 
-          slack_message="Whoops! <@${slack_user}> We smell some problem with your recent changes in <${git_repo_url}> (commit <${git_commit_url}>):\n"
+          slack_message="Whoops! <@${slack_user}> We smell some problem with your recent changes in ${git_repo_url} (commit ${git_commit_url}):\n"
           echo "::set-output name=slack-message::${slack_message}${formatted_errors}"
       - name: Send message to Slack API
         uses: archive/github-actions-slack@v2.0.1
