@@ -4,7 +4,7 @@ title: Gebruiksvoorwaarden
 url: /nl/over/legal/gebruiksvoorwaarden
 meta:
   description: TODO
-  keywords: TODO
+  keywords:
 banner:
   image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:
