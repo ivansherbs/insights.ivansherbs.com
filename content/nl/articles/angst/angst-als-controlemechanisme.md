@@ -23,8 +23,6 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
-shopify:
-  language: NL
 ---
 **ANGST** is een emotie die we allen een keer hebben ervaren.
 

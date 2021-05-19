@@ -13,7 +13,7 @@ Gebruik de producten van Ivan’s Herbs als alternatief of aanvulling op medicij
 
 ### Welke dosering en behandelingskuur raden jullie aan?
 
-De dosering en behandelingskuur verschilt per product van Ivan’s Herbs. Wij streven ernaar per product een zo eenduidig mogelijke advies mee te geven. 
+De dosering en behandelingskuur verschilt per product van Ivan’s Herbs. Wij streven ernaar per product een zo eenduidig mogelijke advies mee te geven.
 
 ### Is het effect van kruiden uit Siberië direct voelbaar?
 
@@ -24,19 +24,19 @@ In andere woorden, eenmalig gebruik van het product maakt niet direct het versch
 ### Wanneer mijn klachten zijn verholpen, kan ik stoppen met het gebruik van de producten van Ivan’s Herbs?
 
 Wij raden het aan periodiek een preventieve behandeling met regelmaat te herhalen.
- 
+
 ### Treden er ongewenste bijwerkingen op na gebruik van de producten van Ivan’s Herbs?
 
 Er zijn tot op heden geen ongewenste bijwerkingen van onze producten gemeld:
 
 > Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
- 
-LET OP! 
+
+LET OP!
 
 Als u medicijnen uit de farmaceutische industrie gebruikt voorgeschreven door uw behandelend arts, maak deze kuur dan eerst af. Stop nooit zomaar met een kuur of behandeling.
- 
+
 Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
- 
+
 * Misselijkheid
 * Maagpijn
 * Braken (eventueel met bloed)
@@ -49,13 +49,13 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 * Nierfunctiestoornis
 * Verlaagde bloeddruk
 * Coma
- 
+
 #### Contra-indicaties en waarschuwingen
 
 Het gebruik van de producten van Ivan’s Herbs kan als extreem veilig worden beschouwd.
 
-De veiligheid voor kinderen verschilt per product. 
- 
+De veiligheid voor kinderen verschilt per product.
+
 **Zwangerschap, borstvoeding en vruchtbaarheid**
 
 * Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.
@@ -66,7 +66,7 @@ De veiligheid voor kinderen verschilt per product.
 
 Ivan’s Herbs biedt veilige producten aan zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief door klinisch onderzoek.
 
-Goed voorbeeld ter bevestiging van bovenstaande: 
+Goed voorbeeld ter bevestiging van bovenstaande:
 
 Het European Medicines Agency heeft de werking van Ivan Chai op de prostaat en urinewegen nogmaals geëvalueerd en bevestigd. De reden voor deze evaluatie door het EMA is het langdurig grootschalig klinisch onderzoek wat er aan te pas is gekomen om deze resultaten te verzamelen.
 

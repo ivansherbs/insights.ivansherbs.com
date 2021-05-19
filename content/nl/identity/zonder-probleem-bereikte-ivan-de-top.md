@@ -18,7 +18,6 @@ contentful:
     fm: jpg
     q: 50
 ---
-
 “Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op gezondheidsproblemen te verminderen”, vertelt Ivan Alexandrovitsj.
 
 Ivan en Michael hebben elkaar destijds ontmoet gedurende een meerdaagse expeditie naar de top van de Belukha.
