@@ -41,7 +41,7 @@ jobs:
         id: format_slack_message
         if: failure()
         run: |
-          formatted_errors=$(echo '${{ steps.generate_test_report.outputs.errors }}' | jq 'map("*" + .fullTitle + "*:\n```" + .message + "```") | join("\n")')
+          formatted_errors=$(echo '${{ steps.generate_test_report.outputs.errors }}' | jq 'map("*" + .title + "*:\n```" + .message + "```") | join("\n")')
 
           # removing surrounding quotes and cleanup remaining escaped quotes (as we are not in JSON anymore)
           formatted_errors=${formatted_errors#\"}
