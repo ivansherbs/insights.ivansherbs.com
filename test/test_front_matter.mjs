@@ -2,7 +2,7 @@ import assert from 'assert';
 import glob from 'glob';
 import util from 'util';
 
-import * as FrontMatter from './lib/front_matter.js';
+import * as FrontMatter from './lib/front_matter.mjs';
 
 const CONTENT_PATH = 'content/';
 const LANGUAGES = ['en', 'nl'];
