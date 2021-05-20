@@ -53,9 +53,12 @@ jobs:
           git_run_url="<https://github.com/ivansherbs/insights.ivansherbs.com/actions/runs/${{ github.run_id }}|Integration tests>"
           git_repo_url="<https://github.com/${{ github.repository }}|${{ github.repository }}>"
 
+          echo "${WRONG_REFERENCES}"
           formatted_errors=":fire:*The following Contentful image refereces are not valid:*\n\`\`\`${{ steps.test_banner_images.outputs.wrong-reference }}\`\`\`"
           slack_message="Nooooo! <@${slack_user}> ${git_run_url} failed when merging into \`master\` of ${git_repo_url}.\n"
           echo "::set-output name=slack-message::${slack_message}${formatted_errors}"
+        env:
+          WRONG_REFERENCES: ${{ steps.test_banner_images.outputs.wrong-reference }}
       - name: Send message to Slack API
         uses: archive/github-actions-slack@v2.0.1
         id: notify_slack
