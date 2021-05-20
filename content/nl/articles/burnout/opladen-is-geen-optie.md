@@ -18,7 +18,7 @@ fragments:
   header: nl/fragments/voordelen/5-3-vermindert-de-kans-op-een-burn-out
   footer: nl/fragments/faq/burnout
 banner:
-  image: 6CiwLZ3Sy56j7IPi8Agfwu
+  image: 39T1Y3A7bqbfLgU5XHgYsz
   effect: o-lg-60d-black
 contentful:
   imageOptions:
