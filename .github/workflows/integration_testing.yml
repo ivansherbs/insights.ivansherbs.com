@@ -38,9 +38,9 @@ jobs:
             wrong_references=$(echo "${wrong_references}" | sed 's/$/\\n/g' | tr -d '\n')
             echo "${wrong_references}"
             echo 2
-            echo "::set-output name=wrong-references::${wrong_references}"
-            exit 1
           fi
+          echo "::set-output name=wrong-references::${wrong_references}"
+          exit 1
       - name: Format Slack message
         id: format_slack_message
         if: failure()
