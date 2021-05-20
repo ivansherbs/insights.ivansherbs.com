@@ -27,6 +27,8 @@ jobs:
         id: format_slack_message
         if: failure()
         run: |
+          echo
+
           # translate GitHub to Slack user name
           slack_user=$(echo "gabipetrovay" | jq -Rr 'sub("gabipetrovay"; "gabriel") | sub("Stefanvanderlinden"; "stefan") | sub("thekizoch"; "hello")')
           echo "Caused by: ${{ github.actor }} (GitHub) / ${slack_user} (Slack)"
