@@ -1,0 +1,80 @@
+name: Unit Testing
+
+on:
+  push:
+    branches:
+    - '*'
+  pull_request:
+    branches:
+    - '*'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm ci
+      - name: Test content
+        run: npm test
+      - name: Collect errors
+        id: generate_test_report
+        if: failure()
+        run: |
+          # run mocha tests again and generate the test report JSON file
+          # the test-ci NPM script reads the value of the REPORT_FILE environment variable
+          npm run test-ci > /dev/null
+          echo ""
+          # collect the errors from the test report
+          error_count=$(echo "${test_errors}" | jq '.tests | map(select(.err.message)) | length')
+          echo "Error count: ${error_count}"
+          test_errors=$(cat "${REPORT_FILE}" | jq -c '.tests | map(select(.err.message)) | map({ error: .err.name, title: .fullTitle, message: .err.message })')
+          echo "Errors:"
+          echo "${test_errors}"
+          echo "${test_errors}" | jq
+          # expose the collected errors as a step output
+          echo "::set-output name=errors::${test_errors}"
+        env:
+          REPORT_FILE: test_report.json
+      - name: Format Slack message
+        id: format_slack_message
+        if: failure()
+        run: |
+          formatted_errors=$(echo '${{ steps.generate_test_report.outputs.errors }}' | jq 'map(":fire: *" + .title + "*:\n```" + .message + "```") | join("\n")')
+
+          # removing surrounding quotes and cleanup remaining escaped quotes (as we are not in JSON anymore)
+          formatted_errors=${formatted_errors#\"}
+          formatted_errors=${formatted_errors%\"}
+          formatted_errors=$(echo $formatted_errors | sed 's/\\"/"/g')
+
+          # translate GitHub to Slack user name
+          slack_user=$(echo "gabipetrovay" | jq -Rr 'sub("gabipetrovay"; "gabriel") | sub("Stefanvanderlinden"; "stefan") | sub("thekizoch"; "hello")')
+          echo "Caused by: ${{ github.actor }} (GitHub) / ${slack_user} (Slack)"
+
+          # prepare the variables we need for the Slack message
+          git_commit_sha=${{ github.sha }}
+          git_commit_sha_short=${git_commit_sha:0:7}
+          git_commit_url="<https://github.com/${{ github.repository }}/commit/${git_commit_sha}|${git_commit_sha_short}>"
+          git_repo_url="<https://github.com/${{ github.repository }}|${{ github.repository }}>"
+
+          slack_message="Whoops! <@${slack_user}> We smell some problem with your recent changes in ${git_repo_url} (commit ${git_commit_url}):\n"
+          echo "::set-output name=slack-message::${slack_message}${formatted_errors}"
+      - name: Send message to Slack API
+        uses: archive/github-actions-slack@v2.0.1
+        id: notify_slack
+        if: failure()
+        with:
+          slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
+          slack-channel: CR06KUPC1
+          slack-optional-icon_emoji: ":fire:"
+          slack-text: ${{ steps.format_slack_message.outputs.slack-message }}
+      - name: Slack results
+        run: |
+          echo "Slack status code: $(echo "${SLACK_RESULTS}" | jq -r '.statusCode')"
+          echo "Slack status message: $(echo "${SLACK_RESULTS}" | jq -r '.statusMessage')"
+          echo "Slack response:"
+          echo "${SLACK_RESULTS}" | jq -r '.response'
+        env:
+          SLACK_RESULTS: ${{ steps.notify_slack.outputs.slack-result }}
+        if: failure()

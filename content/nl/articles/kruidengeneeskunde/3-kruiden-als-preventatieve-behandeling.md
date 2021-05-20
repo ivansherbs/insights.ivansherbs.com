@@ -10,8 +10,9 @@ tags:
 - medicijn
 - kruidengeneeskunde
 - eyeopener
-meta-description: Kruiden als preventatieve behandeling krijgen de voorkeur boven medicijnen uit de farmaceutische industrie. Benieuwd naar de inzichten?
-meta-tags: kruiden, medicijnen, kruidenthee, aromatherapie, supplementen, behandeling, kruidengeneeskunde, farmaceutische industrie, artikel
+meta:
+  description: Kruiden als preventatieve behandeling krijgen de voorkeur boven medicijnen uit de farmaceutische industrie. Benieuwd naar de inzichten?
+  keywords: kruiden, medicijnen, kruidenthee, aromatherapie, supplementen, behandeling, kruidengeneeskunde, farmaceutische industrie, artikel
 fragments:
   header: nl/fragments/voordelen/voeten
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs

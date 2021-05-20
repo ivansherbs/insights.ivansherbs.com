@@ -10,8 +10,9 @@ tags:
 - medicijn
 - kruidengeneeskunde
 - eyeopener
-meta-description: "Kruidengeneeskunde: negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie. Maak kennis met kruidengeneeskunde in de vorm van kruidenthee, aromatherapie en supplementen. Benieuwd naar de inzichten?"
-meta-tags: kruiden, medicijnen, farmaceutische industrie, bijwerkingen, veilig, behandeling, apothekers, natuurlijke producten, zwangere vrouwen, kinderen, ouderen
+meta:
+  description: "Kruidengeneeskunde: negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie. Maak kennis met kruidengeneeskunde in de vorm van kruidenthee, aromatherapie en supplementen. Benieuwd naar de inzichten?"
+  keywords: kruiden, medicijnen, farmaceutische industrie, bijwerkingen, veilig, behandeling, apothekers, natuurlijke producten, zwangere vrouwen, kinderen, ouderen
 fragments:
   header: nl/fragments/voordelen/negatieve-bijwerkingen
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
@@ -22,8 +23,6 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
-shopify:
-  language: NL
 ---
 Kruiden zijn wereldwijd een veel gebruikt medicijn voor preventieve behandelingen. Ze worden vaak als ongevaarlijk beschouwd. Mochten er bijwerkingen optreden dan zijn vooral zwangere vrouwen, kinderen en ouderen onderhevig aan deze bijwerkingen. Een onderzoek heeft aangetoond dat er gelukkig wel wordt nagedacht over de verschillende positieve dan wel negatieve effecten van kruiden.
 

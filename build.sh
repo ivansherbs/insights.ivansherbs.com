@@ -76,9 +76,12 @@ function pre_render_fragments {
 }
 
 function main {
-  # inline images
+  # load Contentful image collection script
+  . ./scripts/collect_contentful_images.sh inline
+
+  # collect inline images
   echo "IVAN: Collecting Contentful inline images ..."
-  collect_contentful_inline_images
+  generate_contenful_image_cache_file inline
   if [ $? -gt 0 ]
   then
     >&2 echo "IVAN: Failed to collect Contentful inline images"
@@ -87,7 +90,7 @@ function main {
 
   # banner images
   echo "IVAN: Collecting Contentful banner images ..."
-  collect_contentful_banner_images
+  generate_contenful_image_cache_file banner
   if [ $? -gt 0 ]
   then
     >&2 echo "IVAN: Failed to collect Contentful banner images"

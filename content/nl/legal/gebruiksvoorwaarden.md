@@ -1,11 +1,10 @@
 ---
 layout: article.html
 title: Gebruiksvoorwaarden
-fragments:
-  header:
 url: /nl/over/legal/gebruiksvoorwaarden
-shopify:
-  language: NL
+meta:
+  description: TODO
+  keywords: TODO
 banner:
   image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:

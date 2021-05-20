@@ -3,6 +3,9 @@ layout: article.html
 title: Ivan's Manifest
 url: /nl/over/manifest
 type: about
+meta:
+  description: TODO
+  keywords: TODO
 fragments:
   header: nl/fragments/voordelen/wij-geloven-manifest
 banner:

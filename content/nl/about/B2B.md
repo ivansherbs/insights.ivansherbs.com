@@ -3,6 +3,9 @@ layout: article_with_shopify.html
 title: B2B
 url: /nl/over/b2b
 type: about
+meta:
+  description: TODO
+  keywords: TODO
 banner:
   image: 4VAB1EaSi0jPZ0eP459Vz7
   effect: o-lg-60d-black

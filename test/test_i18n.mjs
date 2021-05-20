@@ -1,7 +1,7 @@
-const assert = require('assert');
-const fs = require('fs');
-const yaml = require('yaml');
-const yamllint = require('yaml-lint');
+import assert from 'assert';
+import fs from 'fs';
+import yaml from 'yaml';
+import yamllint from 'yaml-lint';
 
 const I18N_PATH = 'content/_data/i18n.yml';
 

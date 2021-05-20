@@ -1,11 +1,11 @@
 ---
 layout: article.html
 title: Verzendbeleid
-fragments:
-  header:
 url: /nl/over/legal/verzendbeleid
-shopify:
-  language: NL
+type: legal
+meta:
+  description: TODO
+  keywords: TODO
 banner:
   image: 4MRpYTwSVcPQJhLq00GZEm
 contentful:
