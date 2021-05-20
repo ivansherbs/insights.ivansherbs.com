@@ -13,18 +13,6 @@ jobs:
         uses: actions/checkout@v2
       - name: Install dependencies
         run: npm ci
-      - name: Test inline images
-        id: test_inline_images
-        run: |
-          . scripts/collect_contentful_images.sh
-          CONTENTFUL_ACCESS_TOKEN=${{ secrets.CONTENTFUL_ACCESS_TOKEN }} generate_contenful_image_cache_file inline
-          wrong_references=$(scripts/test_contentful_image_ids.sh inline || true)
-          if [ -n "${wrong_references}" ]
-          then
-            wrong_references=$(echo "${wrong_references}" | sed 's/$/\\n/g' | tr -d '\n')
-            echo "::set-output name=wrong-references::${wrong_references}"
-            exit 1
-          fi
       - name: Test banner images
         id: test_banner_images
         if: always()
@@ -34,7 +22,20 @@ jobs:
           wrong_references=$(scripts/test_contentful_image_ids.sh banner || true)
           if [ -n "${wrong_references}" ]
           then
-            wrong_references=$(echo "${wrong_references}" | sed 's/$/\\n/g' | tr -d '\n')
+            wrong_references=$(echo "${wrong_references}" | sed 's/$/, /g' | tr -d '\n')
+            echo "::set-output name=wrong-references::${wrong_references}"
+            exit 1
+          fi
+      - name: Test inline images
+        id: test_inline_images
+        if: always()
+        run: |
+          . scripts/collect_contentful_images.sh
+          CONTENTFUL_ACCESS_TOKEN=${{ secrets.CONTENTFUL_ACCESS_TOKEN }} generate_contenful_image_cache_file inline
+          wrong_references=$(scripts/test_contentful_image_ids.sh inline || true)
+          if [ -n "${wrong_references}" ]
+          then
+            wrong_references=$(echo "${wrong_references}" | sed 's/$/, /g' | tr -d '\n')
             echo "::set-output name=wrong-references::${wrong_references}"
             exit 1
           fi
