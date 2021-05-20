@@ -33,10 +33,10 @@ jobs:
           wrong_references=$(scripts/test_contentful_image_ids.sh banner || true)
           if [ -n "${wrong_references}" ]
           then
-            echo ${wrong_references}
+            echo "${wrong_references}"
             echo 1
             wrong_references=$(echo "${wrong_references}" | sed 's/ /\\n/g')
-            echo ${wrong_references}
+            echo "${wrong_references}"
             echo 2
             echo "::set-output name=wrong-references::${wrong_references}"
             exit 1
