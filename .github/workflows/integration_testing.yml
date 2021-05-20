@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Integration Testing
 
 on:
   pull_request:
