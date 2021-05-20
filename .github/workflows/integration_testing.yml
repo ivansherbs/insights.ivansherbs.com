@@ -27,6 +27,7 @@ jobs:
           fi
       - name: Test banner images
         id: test_banner_images
+        if: always()
         run: |
           . scripts/collect_contentful_images.sh
           CONTENTFUL_ACCESS_TOKEN=${{ secrets.CONTENTFUL_ACCESS_TOKEN }} generate_contenful_image_cache_file banner
