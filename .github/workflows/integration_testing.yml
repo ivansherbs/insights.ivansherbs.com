@@ -32,7 +32,7 @@ jobs:
           echo "Caused by: ${{ github.actor }} (GitHub) / ${slack_user} (Slack)"
 
           # prepare the variables we need for the Slack message
-          git_run_url="<https://github.com/ivansherbs/insights.ivansherbs.com/runs/${{ gihub.run_id }}|failed job>"
+          git_run_url="<https://github.com/ivansherbs/insights.ivansherbs.com/runs/${{ github.run_id }}|failed job>"
           git_repo_url="<https://github.com/${{ github.repository }}|${{ github.repository }}>"
 
           slack_message="Nooooo! <@${slack_user}> Integration tests failed when testing merging into master of ${git_repo_url}.\nCheck the ${git_run_url} for details."
