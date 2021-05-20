@@ -35,7 +35,7 @@ jobs:
           then
             echo "${wrong_references}"
             echo 1
-            wrong_references=$(echo "${wrong_references}" | sed 's/$/\\n/g')
+            wrong_references=$(echo "${wrong_references}" | sed 's/$/\\n/g' | tr -d '\n')
             echo "${wrong_references}"
             echo 2
             echo "::set-output name=wrong-references::${wrong_references}"
