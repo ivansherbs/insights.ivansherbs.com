@@ -23,3 +23,36 @@ jobs:
           . scripts/collect_contentful_images.sh
           CONTENTFUL_ACCESS_TOKEN=${{ secrets.CONTENTFUL_ACCESS_TOKEN }} generate_contenful_image_cache_file banner
           scripts/test_contentful_image_ids.sh banner
+      - name: Format Slack message
+        id: format_slack_message
+        if: failure()
+        run: |
+          # translate GitHub to Slack user name
+          slack_user=$(echo "gabipetrovay" | jq -Rr 'sub("gabipetrovay"; "gabriel") | sub("Stefanvanderlinden"; "stefan") | sub("thekizoch"; "hello")')
+          echo "Caused by: ${{ github.actor }} (GitHub) / ${slack_user} (Slack)"
+
+          # prepare the variables we need for the Slack message
+          git_run_id=${{ gihub.run_id }}
+          git_run_url="<https://github.com/ivansherbs/insights.ivansherbs.com/runs/${{ gihub.run_id }}|failed job>"
+          git_repo_url="<https://github.com/${{ github.repository }}|${{ github.repository }}>"
+
+          slack_message="Nooooo! <@${slack_user}> Integration tests failed when testing merging into master of ${git_repo_url}.\nCheck the ${git_run_url} for details."
+          echo "::set-output name=slack-message::${slack_message}${formatted_errors}"
+      - name: Send message to Slack API
+        uses: archive/github-actions-slack@v2.0.1
+        id: notify_slack
+        if: failure()
+        with:
+          slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
+          slack-channel: CR06KUPC1
+          slack-optional-icon_emoji: ":fire:"
+          slack-text: ${{ steps.format_slack_message.outputs.slack-message }}
+      - name: Slack results
+        run: |
+          echo "Slack status code: $(echo "${SLACK_RESULTS}" | jq -r '.statusCode')"
+          echo "Slack status message: $(echo "${SLACK_RESULTS}" | jq -r '.statusMessage')"
+          echo "Slack response:"
+          echo "${SLACK_RESULTS}" | jq -r '.response'
+        env:
+          SLACK_RESULTS: ${{ steps.notify_slack.outputs.slack-result }}
+        if: failure()
