@@ -1,5 +1,5 @@
 ---
-layout: article_with_shopify_that_does_not_exist.html
+layout: article_with_shopify.html
 title: Opladen is géén optie
 url: /nl/artikel/opladen-is-geen-optie
 type: article
@@ -13,7 +13,7 @@ tags:
 - gevoel
 meta:
   description: Meer dan 1.000.000 mensen in Nederland hebben te maken met een burnout klachten. Mede mogelijk gemaakt door meerdere factoren. Het krijgen van een burnout is een groeiend probleem. Benieuwd naar de inzichten?
-  keywords:
+  keywords: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, symptomen burnout, wat is een burnout, koffie, stress, stresshormoon, bloedsuikerspiegel
 fragments:
   header: nl/fragments/voordelen/5-3-vermindert-de-kans-op-een-burn-out
   footer: nl/fragments/faq/burnout
@@ -24,7 +24,6 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
-    mike: stefan
 shopify:
   language: NL
 ---
@@ -58,7 +57,7 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 **"Emotieloos."** Waarbij je zelfs je toevlucht probeert te zoeken in series zoals Friends. hahaha. Ja. Ook die personen bestaan. hahah. Je staat op dat moment alleen letterlijk even stil in de tweede versnelling. En dan vraag je jezelf af.
 
-[[contentfulImage 1111JHuT6XnZZJZoVV3qYrYYl]]
+[[contentfulImage 1JHuT6XnZZJZoVV3qYrYYl]]
 
 ### Carrière
 
