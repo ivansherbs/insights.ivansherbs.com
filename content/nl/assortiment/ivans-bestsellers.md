@@ -32,4 +32,3 @@ Bekijk ons assortiment aan meest verkochte kruiden uit Siberië. Goed voor licha
 ## Bekijk video (1min)
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
-
