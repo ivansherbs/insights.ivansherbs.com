@@ -51,7 +51,7 @@ jobs:
           git_run_url="<https://github.com/ivansherbs/insights.ivansherbs.com/actions/runs/${{ github.run_id }}|Integration tests>"
           git_repo_url="<https://github.com/${{ github.repository }}|${{ github.repository }}>"
 
-          wrong_references=${{ steps.test_inline_images.outputs.wrong-references }}${{ steps.test_banner_images.outputs.wrong-references }}
+          wrong_references="${{ steps.test_inline_images.outputs.wrong-references }}${{ steps.test_banner_images.outputs.wrong-references }}"
           wrong_references=${wrong_references%??}
           formatted_errors=":fire:*The following Contentful image refereces are not valid:*\n\`\`\`${wrong_references}\`\`\`"
           slack_message="Nooooo! <@${slack_user}> ${git_run_url} failed when merging into \`master\` of ${git_repo_url}.\n"
