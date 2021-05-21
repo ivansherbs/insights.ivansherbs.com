@@ -11,7 +11,7 @@ function collect_sorted_unique_banner_image_ids {
 }
 
 function collect_sorted_generated_image_ids {
-  grep "https" "${IMAGE_DIR}/$1.json" | cut -d '"' -f 2 | sort
+  grep "https" "${IMAGE_DIR}/$1_images.json" | cut -d '"' -f 2 | sort
 }
 
 function generate_contenful_image_cache_file {
