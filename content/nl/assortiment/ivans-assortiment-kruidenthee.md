@@ -56,7 +56,7 @@ Onder het mom: _"voor ieder wat wils"_. Benieuwd met wat voor een etherische oli
 
 ## Ivan´s | Extra Veel Volume
 
-Voor de enorme theedrinker die er gewoon geen genoeg van kan krijgen. Wist u dat een kopje thee ongeveer 14 cent kost?
+Voor de enorme theedrinker die er gewoon geen genoeg van kan krijgen. Met extra veel volume kost een kopje thee ongeveer 10 cent.
 
 [[shopifyCollection 261576589478 buttonDestination=cart]]
 
