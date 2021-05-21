@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_shopify.html
+layout: article_with_shopify.html
 title: "Het parabel van de Siberische kruidenthee: Ivan Chai"
 url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee
 type: geschiedenis
@@ -13,7 +13,7 @@ meta:
   description: Ontdek de geschiedenis van Ivan Chai. De traditionele Russische geneeskunde is gericht op het gebruik van geneeskrachtige kruiden. In de 17e eeuw waren het de monniken ter hoogte van de Altaj... Lees het volledige verhaal.
   keywords: geschiedenis, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtige werking, 17e eeuw, rusland, russische revolutie, Kapori Chai, Pu er
 banner:
-  image: PxoJW2NbKEoAeq6vOf4Wt
+  image: 1azw20zjK4vskIM0iFv1OF
   effect: o-lg-60d-black
 contentful:
   imageOptions:

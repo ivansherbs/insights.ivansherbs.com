@@ -17,7 +17,7 @@ fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/slijmbeursontsteking
 banner:
-  image: 1cuURYWqxLkX7VCHOmLXhQ
+  image: sleZsUJOtOiDOZu5jF2MR
   effect: o-lg-60d-black
 contentful:
   imageOptions:

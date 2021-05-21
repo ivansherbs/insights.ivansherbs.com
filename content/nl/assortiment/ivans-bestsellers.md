@@ -13,7 +13,7 @@ fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:
-  image: 3XhZQYyivs60Y9LajhLC81
+  image: 7FWflFBuHhPuFlPEcb20ku
   effect: o-lg-60d-black
 contentful:
   imageOptions:
@@ -32,4 +32,3 @@ Bekijk ons assortiment aan meest verkochte kruiden uit Siberië. Goed voor licha
 ## Bekijk video (1min)
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
-

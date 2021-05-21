@@ -13,7 +13,7 @@ fragments:
   header:
   footer:
 banner:
-  image: 5ZOTviOVJbG3YvRVKRH39b
+  image: 7FWflFBuHhPuFlPEcb20ku
   effect: o-lg-60d-black
 contentful:
   imageOptions:

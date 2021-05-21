@@ -6,7 +6,7 @@ on:
     - 'master'
 
 jobs:
-  test-contentful:
+  integration-testing-contentful:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -44,7 +44,7 @@ jobs:
         if: failure()
         run: |
           # translate GitHub to Slack user name
-          slack_user=$(echo "gabipetrovay" | jq -Rr 'sub("gabipetrovay"; "gabriel") | sub("Stefanvanderlinden"; "stefan") | sub("thekizoch"; "hello")')
+          slack_user=$(echo "${{ github.actor }}" | jq -Rr 'sub("gabipetrovay"; "gabriel") | sub("Stefanvanderlinden"; "stefan") | sub("thekizoch"; "hello")')
           echo "Caused by: ${{ github.actor }} (GitHub) / ${slack_user} (Slack)"
 
           # prepare the variables we need for the Slack message

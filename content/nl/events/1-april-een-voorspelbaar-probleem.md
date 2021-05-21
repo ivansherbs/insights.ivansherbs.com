@@ -19,7 +19,7 @@ fragments:
   header: nl/fragments/voordelen/7-verzorgt-het-spijsverteringsstelsel
   footer: nl/fragments/faq/buikgriep
 banner:
-  image: 37Bs8iLiIbgDtnLsOZdr4e
+  image: flSdkxTJqPovxqWtadqVj
   effect: o-lg-60d-black
 contentful:
   imageOptions:

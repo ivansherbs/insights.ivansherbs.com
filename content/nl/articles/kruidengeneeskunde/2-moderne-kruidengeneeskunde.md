@@ -17,7 +17,7 @@ fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:
-  image: 28vX6CG5KUWyOxP0UHKTPi
+  image: 5OcLPvqUTGYonJAlAK4FwJ
   effect: o-lg-60d-black
 contentful:
   imageOptions:

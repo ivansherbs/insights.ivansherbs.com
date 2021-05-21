@@ -19,7 +19,7 @@ fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/zwak-immuunsysteem
 banner:
-  image: DBaP54JgOt8KM8d8KnLAg
+  image: 5pgdM9iextTTxvIE7fHNU2
   effect: o-lg-60d-black
 contentful:
   imageOptions:

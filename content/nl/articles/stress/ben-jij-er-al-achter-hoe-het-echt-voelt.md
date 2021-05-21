@@ -18,7 +18,7 @@ fragments:
   header: nl/fragments/voordelen/5-1-vermindert-de-kans-op-stress
   footer: nl/fragments/faq/stress
 banner:
-  image: 3trDQrnAPyKfBsSInJtB7g
+  image: 5JaWGHcKZcci9DTiL4Z9TJ
   effect: o-lg-60d-black
 contentful:
   imageOptions:

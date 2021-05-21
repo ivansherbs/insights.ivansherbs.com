@@ -19,7 +19,7 @@ fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/infectie
 banner:
-  image: 5vgkjriNf0Iais5agiBLIe
+  image: KQWFaPqRC6rGOX9G2rhPg
   effect: o-lg-60d-black
 contentful:
   imageOptions:

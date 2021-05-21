@@ -14,13 +14,12 @@ meta:
 fragments:
   header: /nl/fragments/voordelen/tip-waterkoker
 banner:
-  image: 6M6qLeZVXT6g1GMPLpk14n
+  image: 1taS3oH8GRKyaX01Y4WkSr
 contentful:
   imageOptions:
     fm: jpg
     q: 50
 ---
-
 Ivan Chai is een Siberische kruidenthee gemaakt van gefermenteerde in het wild groeiende kruiden. Deze kruiden gaan onder de Latijnse benaming epilobium angustifolium.
 
 In de Engelse taal staat deze plant ook wel bekend als ‘Fireweed’ gezien het feit dat deze kruiden na een bosbrand als eerste levende organisme de achtergebleven as koloniseren.

@@ -15,7 +15,7 @@ fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:
-  image: 5IvxBq8h7Zkmb457iHVYgL
+  image: 1UEc7i81hlGMcqwxAds8KY
   effect: o-lg-60d-black
 contentful:
   imageOptions:
