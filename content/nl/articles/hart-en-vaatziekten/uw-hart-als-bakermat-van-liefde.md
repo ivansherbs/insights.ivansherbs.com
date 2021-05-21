@@ -19,7 +19,7 @@ fragments:
   header: nl/fragments/voordelen/3-versterkt-de-antioxiderede-werking
   footer: nl/fragments/faq/hart-en-vaatziekten
 banner:
-  image: 5qaPb48K5Cil5YfyqQggFl
+  image: 2gVNGIp4yhtESqHRBqRuAs
   effect: o-lg-60d-black
 contentful:
   imageOptions:

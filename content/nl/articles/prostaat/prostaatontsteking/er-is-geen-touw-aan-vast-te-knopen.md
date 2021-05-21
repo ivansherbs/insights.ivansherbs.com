@@ -18,7 +18,7 @@ fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/prostaatontsteking
 banner:
-  image: 4oTTNycALC9hhywkuufdiD
+  image: 78JnemnLWoZdd6jZJ8gN61
   effect: o-lg-60d-black
 contentful:
   imageOptions:

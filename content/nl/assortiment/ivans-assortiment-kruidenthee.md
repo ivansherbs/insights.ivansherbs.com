@@ -13,7 +13,7 @@ fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
 banner:
-  image: q0Hxrkdc2T9yjvrH7yFyY
+  image: 3BMJ7e2ogSnTsV7AQRK2QF
   effect: o-lg-60d-black
 contentful:
   imageOptions:

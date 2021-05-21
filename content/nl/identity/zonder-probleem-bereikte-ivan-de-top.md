@@ -12,7 +12,7 @@ tags:
 meta:
   description: Lees nu het interview van Ivan Alexandrovitsj. “Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op gezondheidsproblemen te verminderen”, vertelt Ivan Alexandrovitsj.
   keywords: interview, top, holisme, holistisch, ivan chai, kruiden, kruidengeneeskunde, expeditie, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, alledaags product, geneeskrachtige werking
-banner: 59lblQYjVQRKlu7gzerhQX
+banner: NQWPIVPUeGVNf2rQ2hFmY
 contentful:
   imageOptions:
     fm: jpg

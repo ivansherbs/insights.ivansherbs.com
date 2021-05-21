@@ -16,7 +16,7 @@ fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/baarmoederontsteking
 banner:
-  image: 26tAtHceESEXQYOWF7OG8h
+  image: 3lidLjItmhwzao6CK8R3HA
   effect: o-lg-60d-black
 contentful:
   imageOptions:

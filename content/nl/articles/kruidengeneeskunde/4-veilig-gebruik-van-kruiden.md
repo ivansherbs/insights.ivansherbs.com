@@ -17,7 +17,7 @@ fragments:
   header: nl/fragments/voordelen/negatieve-bijwerkingen
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:
-  image: 2Ary086KmUSzxIXzmw1dbz
+  image: 7xSwJ477qmgAiz2siziH4e
   effect: o-lg-60d-black
 contentful:
   imageOptions:

@@ -19,7 +19,7 @@ fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
   footer: nl/fragments/faq/luchtweginfectie
 banner:
-  image: 2kRaYcWbCxpo4WI9of9G2M
+  image: SbIjsbRGTjCMMdRCPp1IJ
   effect: o-lg-60d-black
 contentful:
   imageOptions:

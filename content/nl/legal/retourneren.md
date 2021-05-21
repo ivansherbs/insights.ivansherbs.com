@@ -8,7 +8,7 @@ meta:
 fragments:
   header:
 banner:
-  image: 4MRpYTwSVcPQJhLq00GZEm
+  image: CqmASdXlJSZdrbkKrhgL7
 contentful:
   imageOptions:
     fm: jpg

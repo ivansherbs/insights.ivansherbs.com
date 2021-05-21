@@ -13,7 +13,7 @@ meta:
   description: Om het mileu te beschermen en de kwaliteit van ons product te kunnen waarborgen, zet onze Eco7 Standaard de norm... Lees snel meer over onze Eco7 Standaard.
   keywords: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7 standaard, ontbossingen
 banner:
-  image: 6ciOm8zBwl5FKm8TBItrQ5
+  image: 5EFJWDu5YU49GoQGPxQxLS
   effect: o-lg-60d-black
 contentful:
   imageOptions:

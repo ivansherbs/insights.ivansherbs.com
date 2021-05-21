@@ -17,7 +17,7 @@ fragments:
   header: nl/fragments/voordelen/kruiden-zijn-de-natuurlijke-oplossing
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:
-  image: 1f848joAWGXkrV2sxDjcvI
+  image: 18SkWU1jM9fTnQJDqdlXXD
   effect: o-lg-60d-black
 contentful:
   imageOptions:

@@ -17,7 +17,7 @@ fragments:
   header: nl/fragments/voordelen/5-2-vermindert-de-kans-op-angst
   footer: nl/fragments/faq/angst
 banner:
-  image: 3BPQgrvSsxOBnqdOXJv65w
+  image: 5DBGCimPakHZxfe3I4oykk
   effect: o-lg-60d-black
 contentful:
   imageOptions:

@@ -9,7 +9,7 @@ meta:
 fragments:
   header: nl/fragments/voordelen/wij-geloven-manifest
 banner:
-  image: 4MRpYTwSVcPQJhLq00GZEm
+  image: CqmASdXlJSZdrbkKrhgL7
 contentful:
   imageOptions:
     fm: jpg

@@ -18,7 +18,7 @@ fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
   footer: nl/fragments/faq/vergrote-prostaat
 banner:
-  image: 7LnD9ZPfNyYfW4m4huMGrC
+  image: 6xcM2KvlVvivv2iX1GFuem
   effect: o-lg-60d-black
 contentful:
   imageOptions:

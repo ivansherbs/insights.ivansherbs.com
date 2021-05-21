@@ -14,7 +14,7 @@ meta:
 fragments:
   header: /nl/fragments/voordelen/tip-waterkoker
 banner:
-  image: 6M6qLeZVXT6g1GMPLpk14n
+  image: 1taS3oH8GRKyaX01Y4WkSr
 contentful:
   imageOptions:
     fm: jpg

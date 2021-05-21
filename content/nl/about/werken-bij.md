@@ -6,7 +6,7 @@ meta:
   description: TODO
   keywords: TODO
 banner:
-  image: 4MRpYTwSVcPQJhLq00GZEm
+  image: CqmASdXlJSZdrbkKrhgL7
 contentful:
   imageOptions:
     fm: png

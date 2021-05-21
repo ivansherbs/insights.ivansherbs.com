@@ -8,7 +8,7 @@ meta:
 fragments:
   header: nl/fragments/all-articles/nl
 banner:
-  image: 5wRBrlzNIq0oRXl0fIOJwH
+  image: 4vTeL82CxiCJYd8l961A5F
   effect: o-lg-60d-black
 contentful:
   imageOptions:

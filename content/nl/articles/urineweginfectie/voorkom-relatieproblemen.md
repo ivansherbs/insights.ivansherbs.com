@@ -19,7 +19,7 @@ fragments:
   header: nl/fragments/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen
   footer: nl/fragments/faq/blaasontsteking
 banner:
-  image: 13fMZBUHfYMm3r0xclV8fD
+  image: yqeQB14oEyeRpNjdqrxRf
   effect: o-lg-60d-black
 contentful:
   imageOptions:
