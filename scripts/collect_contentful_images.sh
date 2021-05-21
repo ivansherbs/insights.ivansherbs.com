@@ -48,7 +48,7 @@ function generate_contenful_image_cache_file {
 
   # we need the directory for the Contentful data
   mkdir -p "${IMAGE_DIR}"
-  image_file_path=${IMAGE_DIR}/${collection_type}.json
+  image_file_path=${IMAGE_DIR}/${collection_type}_images.json
 
   contentful_api_url="https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_comma_list}&select=fields.file,sys.id"
   contentful_result_jq_filter='reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url)'
