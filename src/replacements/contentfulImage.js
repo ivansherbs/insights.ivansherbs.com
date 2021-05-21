@@ -29,7 +29,7 @@ function replacer(s, frontMatter) {
         }
     }
 
-    var imageUrl = frontMatter.generated.contentful.inline[imageId];
+    var imageUrl = frontMatter.generated.contentful.inline_images[imageId];
     var queryParams = querystring.stringify(options);
     var url = imageUrl + (queryParams ? '?' + queryParams : '');
 

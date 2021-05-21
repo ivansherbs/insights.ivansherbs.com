@@ -11,7 +11,7 @@ function collect_sorted_unique_banner_image_ids {
 }
 
 function collect_sorted_generated_image_ids {
-  grep "https" "${IMAGE_DIR}/$1.json" | cut -d '"' -f 2 | sort
+  grep "https" "${IMAGE_DIR}/$1_images.json" | cut -d '"' -f 2 | sort
 }
 
 function generate_contenful_image_cache_file {
@@ -48,7 +48,7 @@ function generate_contenful_image_cache_file {
 
   # we need the directory for the Contentful data
   mkdir -p "${IMAGE_DIR}"
-  image_file_path=${IMAGE_DIR}/${collection_type}.json
+  image_file_path=${IMAGE_DIR}/${collection_type}_images.json
 
   contentful_api_url="https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_comma_list}&select=fields.file,sys.id"
   contentful_result_jq_filter='reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url)'
