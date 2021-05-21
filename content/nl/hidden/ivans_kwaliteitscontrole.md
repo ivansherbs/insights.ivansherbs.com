@@ -20,7 +20,6 @@ contentful:
     fm: jpg
     q: 50
 ---
-
 Ivan Chai is een Siberische kruidenthee gemaakt van gefermenteerde in het wild groeiende kruiden. Deze kruiden gaan onder de Latijnse benaming epilobium angustifolium.
 
 In de Engelse taal staat deze plant ook wel bekend als ‘Fireweed’ gezien het feit dat deze kruiden na een bosbrand als eerste levende organisme de achtergebleven as koloniseren.

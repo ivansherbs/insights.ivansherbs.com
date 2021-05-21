@@ -1,5 +1,5 @@
 ---
-layout: article_with_header_and_shopify.html
+layout: article_with_shopify.html
 title: Zonder probleem bereikte Ivan de top
 url: /nl/artikel/zonder-probleem-bereikte-ivan-de-top
 type: interview
