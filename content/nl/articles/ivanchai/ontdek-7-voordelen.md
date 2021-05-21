@@ -24,7 +24,7 @@ fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
 banner:
-  image: 6v0zAskc4cqu5ItFFRm5Q5
+  image: 3GzPJVVGUYwWwdLOarDn5r
   effect: o-lg-60d-black
 contentful:
   imageOptions:

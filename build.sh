@@ -34,9 +34,9 @@ function collect_contentful_inline_images {
   mkdir -p content/_data/generated/contentful
 
   # generate the Contentful image list
-  curl --silent --globoff "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url)' > content/_data/generated/contentful/images.json
+  curl --silent --globoff "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url)' > content/_data/generated/contentful/inline_images.json
 
-  cat content/_data/generated/contentful/images.json | grep "https"
+  cat content/_data/generated/contentful/inline_images.json | grep "https"
 }
 
 function collect_contentful_banner_images {
@@ -59,9 +59,9 @@ function collect_contentful_banner_images {
   mkdir -p content/_data/generated/contentful
 
   # generate the Contentful image list
-  curl --silent --globoff "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url)' > content/_data/generated/contentful/banners.json
+  curl --silent --globoff "https://cdn.contentful.com/spaces/lyvtxhzy9zgr/environments/master/assets?access_token=${CONTENTFUL_ACCESS_TOKEN}&sys.id[in]=${id_list}&select=fields.file,sys.id" | jq 'reduce .items[] as $asset ({}; .[$asset.sys.id] = "https:" + $asset.fields.file.url)' > content/_data/generated/contentful/banner_images.json
 
-  cat content/_data/generated/contentful/banners.json | grep "https"
+  cat content/_data/generated/contentful/banner_images.json | grep "https"
 }
 
 function pre_render_fragments {

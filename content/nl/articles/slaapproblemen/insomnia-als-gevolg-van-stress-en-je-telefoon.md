@@ -20,7 +20,7 @@ fragments:
   header: nl/fragments/voordelen/4-verbetert-de-nachtrust
   footer: nl/fragments/faq/slaapproblemen
 banner:
-  image: 5aWUslWsXLMPYVRtJGvAZ4
+  image: 48u2gVeJExSmuZRlo25XRI
   effect: o-lg-60d-black
 contentful:
   imageOptions:

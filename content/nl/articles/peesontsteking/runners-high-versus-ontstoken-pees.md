@@ -18,7 +18,7 @@ fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/peesontsteking
 banner:
-  image: 5nsKyyn7wlXZORSvBx0AdB
+  image: 5EMwMAfSFCPHtmA9LGWHiN
   effect: o-lg-60d-black
 contentful:
   imageOptions:

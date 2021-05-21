@@ -17,7 +17,7 @@ meta:
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
 banner:
-  image: 2zipnAEkfllM6mmBNrpdPR
+  image: 3NRH8dvMHatZ0F6sDLxK4h
   effect: o-lg-60d-black
 contentful:
   imageOptions:

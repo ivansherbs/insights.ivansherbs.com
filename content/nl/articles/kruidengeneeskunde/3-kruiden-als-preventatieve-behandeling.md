@@ -17,7 +17,7 @@ fragments:
   header: nl/fragments/voordelen/voeten
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:
-  image: 24ZRQeE3b0ZfgC5y89uvuS
+  image: 36w7NbEPwcClZWXtbPC0a0
   effect: o-lg-60d-black
 contentful:
   imageOptions:

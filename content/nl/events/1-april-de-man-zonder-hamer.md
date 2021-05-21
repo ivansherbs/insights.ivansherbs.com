@@ -19,7 +19,7 @@ fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/keelontsteking
 banner:
-  image: 5ny5zFpu16syUr5BcbujzF
+  image: 1RkPkuO0uwOeVRXiaZMnYP
   effect: o-lg-60d-black
 contentful:
   imageOptions:

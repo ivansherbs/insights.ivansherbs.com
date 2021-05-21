@@ -6,7 +6,7 @@ meta:
   description: TODO
   keywords: TODO
 banner:
-  image: 4QEhQAiCVkb9eHfP9zNnoR
+  image: dHv3y8bswcOt6ZJUmSh6N
   effect: o-lg-60d-black
 shopify:
   language: NL
