@@ -4,8 +4,8 @@ title: Ivan's Manifest
 url: /nl/over/manifest
 type: about
 meta:
-  description: TODO
-  keywords: TODO
+  description: Ivan's Herbs gelooft in het gebruik van kruiden uit Siberië om lichaam en geest te versterken. Benieuwd naar ons manifest?
+  keywords: medicijnen, kruiden, medicatie, apotheken, kruidengeneeskunde, gezondheidszorg, farmaceutische industrie
 fragments:
   header: nl/fragments/voordelen/wij-geloven-manifest
 banner:

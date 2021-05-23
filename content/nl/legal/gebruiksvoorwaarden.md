@@ -3,8 +3,8 @@ layout: article.html
 title: Gebruiksvoorwaarden
 url: /nl/over/legal/gebruiksvoorwaarden
 meta:
-  description: TODO
-  keywords: TODO
+  description: Ivan's Terms and Conditions | Welkom to one of the legal pages of Ivan's Herbs, Herbs from Siberia. We provice excelent service to a certain extent under certain conditions.
+  keywords: legal, website, conditions, gerneral, online, store, terms, terms of service, billing, account information, DISCLAIMER, agreement, law, limitation, contact,
 banner:
   image: CqmASdXlJSZdrbkKrhgL7
 contentful:
@@ -12,6 +12,8 @@ contentful:
     fm: jpg
     q: 50
 ---
+Welkom to one of the legal pages of Ivan's Herbs, Herbs from Siberia. We provice excelent service to a certain extent under certain conditions.
+
 ## OVERVIEW
 
 This website is operated by ivansherbs. Throughout the site, the terms “we”, “us” and “our” refer to ivansherbs. ivansherbs offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.

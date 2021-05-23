@@ -4,8 +4,8 @@ title: Privacykennisgeving
 url: /nl/over/legal/privacykennisgeving
 type: legal
 meta:
-  description: TODO
-  keywords: TODO
+  description: Welkom to one of the legal pages of Ivan's Herbs, Herbs from Siberia. We highly value your privacy and protect data under certain conditions.
+  keywords: legal, privacy, policy, personal information, cookies, data, sharing, track, technologies,
 banner:
   image: CqmASdXlJSZdrbkKrhgL7
 contentful:
@@ -13,6 +13,8 @@ contentful:
     fm: jpg
     q: 50
 ---
+Welkom to one of the legal pages of Ivan's Herbs, Herbs from Siberia. We highly value your privacy and protect data under certain conditions.
+
 ### Privacy policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from shop.ivansherbs.com (the “Site”).
@@ -100,5 +102,6 @@ For more information about our privacy practices, if you have questions, or if y
 
 Ivan's Herbs<br>
 [Re: Privacy Compliance Officer]<br>
-TKorte Noorderweg 27G, 1221 NA Hilversum, Netherlands<br>
-TODO Stefan: Is this the correct address?
+Korte Noorderweg 27G
+1221 NA Hilversum
+the Netherlands<br>
