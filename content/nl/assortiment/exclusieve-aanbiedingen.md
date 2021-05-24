@@ -4,7 +4,7 @@ title: Exclusieve aanbiedingen
 url: /nl/assortiment/exclusieve-aanbiedingen
 type: article
 meta:
-  description:  Vergeet niet de kortingscode te gebruiken die te vinden is op de Loyaltea beker. Benieuwd naar onze exclusieve aanbiedingen?
+  description: Vergeet niet de kortingscode te gebruiken die te vinden is op de Loyaltea beker. Benieuwd naar onze exclusieve aanbiedingen?
   keywords: exclusieve aanbiedingen, kortingscode, beker, nieuwsbrief
 fragments:
   header:

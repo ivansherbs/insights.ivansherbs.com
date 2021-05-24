@@ -3,7 +3,7 @@ layout: article.html
 title: Retourneren
 url: /nl/over/legal/retourneren
 meta:
-  description:  Welkom to one of the legal pages of Ivan's Herbs, Herbs from Siberia. If needed you have the right to return your item(s). We have a policy for circumstances like this backed up by the law.
+  description: Welkom to one of the legal pages of Ivan's Herbs, Herbs from Siberia. If needed you have the right to return your item(s). We have a policy for circumstances like this backed up by the law.
   keywords: legal, return, policy, items, law, damages, issues, exceptions, exchanges, orders, shipping, packages, purchase
 fragments:
   header:
