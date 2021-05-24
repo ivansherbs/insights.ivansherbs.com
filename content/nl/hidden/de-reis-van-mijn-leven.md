@@ -6,7 +6,8 @@ category: welkomstbrief
 publish:
   author: Michael Koch
 meta:
-  description:
+  # TODO Stefan: removing the TODO without adding a value for description will not pass unit testing
+  description: TODO
   keywords: ivan Chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, natuur, geneeskrachtig, michael koch, ivan's herbs
 banner:
   image: 4xERvF6aRTWBQwMFipxC3k

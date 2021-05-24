@@ -3,7 +3,8 @@ layout: article.html
 title: Affiliates
 url: /nl/samenwerkingen/affiliates
 meta:
-  description:
+  # TODO Stefan: removing the TODO without adding a value for description will not pass unit testing
+  description: TODO
   keywords: kruiden, kruidenthee, etherische oliën, supplementen, matcha, ivan's herbs, samenwerking affiliates, communities, dna, duurzaam, klimaat, schoon, geschenkdoos, starter set, giftset, Prostaatontsteking, Vergrote prostaat, BPH, Prostaatkanker, Blaasontsteking, antibiotica, Anticonceptiepil, maagzuurremmers, slijmbeursontsteking, stress, angst, burnout klachte
 banner:
   image: 6csVsKRo3aDFZgyA0ojdEV
