@@ -4,7 +4,7 @@
 
 ### Wat is een peesontsteking?
 
-Een peesontsteking is een reactie op een irritatie van je pees. Pezen hebben de verbindende taak op zich genomen om je spier en bot bij elkaar te houden. De pijn ontstaat op de plek waar je pees vast zit aan het bot.  
+Een peesontsteking is een reactie op een irritatie van je pees. Pezen hebben de verbindende taak op zich genomen om je spier en bot bij elkaar te houden. De pijn ontstaat op de plek waar je pees vast zit aan het bot.
 
 ### Waardoor krijg je een peesontsteking?
 
@@ -31,7 +31,7 @@ Er zijn verschillende symptomen die wijzen op een peesontsteking:
 * De pijnlijke plek kleurt rood.
 * De pijnlijke plek kan warm aanvoelen.
 
-### Welke farmaceutische medicijnen behandelen een peesontsteking?
+### Welke medicijnen behandelen een peesontsteking?
 
 Een ontsteking kan worden behandeld met:
 * Pijnstillers, pakt niet de ontsteking aan.
@@ -40,9 +40,9 @@ Een ontsteking kan worden behandeld met:
 
 ### Welk effect heeft het gebruik van medicijnen op een peesontsteking?
 
-Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van farmaceutische medicijnen ongewenste bijwerkingen met zich meebrengen.
+Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen uit de farmaceutische industrie ongewenste bijwerkingen met zich meebrengen.
 
-Het kan zijn dat door gebruik van het medicijn ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. 
+Het kan zijn dat door gebruik van het medicijn ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen.
 
 Zo zijn er tal van ongewenste bijwerkingen.
 
@@ -52,4 +52,4 @@ Zo zijn er tal van ongewenste bijwerkingen.
 
 * Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen.
 
-Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen. 
+Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.

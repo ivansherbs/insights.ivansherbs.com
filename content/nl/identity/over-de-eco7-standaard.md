@@ -38,10 +38,6 @@ De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Iva
 
 Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. De kruiden uit deze omgeving hebben zich op een andere manier ontwikkeld dan elders op de wereld. Vanuit ecologisch perspectief doet vermoeden dat de werkzame stoffen een gevolg zijn van het extreme klimaat, in combinatie met de vruchtbare gronden langs de rivieren. Met name na een grote bosbrand kan men er van op aan dat kruiden de afgebrande gebieden in rap tempo overnemen.
 
-TODO Review Stefan: Is the following paragraph needed?
-
-De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo klimaatneutraal mogelijk te houden. Alles wordt dan ook op een traditionele wijze verpakt. Nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka.
-
 [[contentfulImage 5wAgIjT0YESBBdOVYAT9Rj]]
 
 Kortom, Chazhaevka doet er alles aan om de natuurlijke evolutie die deze kruiden heeft gevormd niet in de weg te staan.

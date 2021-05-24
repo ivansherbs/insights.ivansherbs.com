@@ -3,8 +3,8 @@ layout: article_with_shopify.html
 title: Samenwerkingsverbanden met affiliates
 url: /nl/over/samenwerkingsverbanden
 meta:
-  description: TODO
-  keywords: TODO
+  description: Ivan's Herbs is altijd op zoek naar samenwerkingen met affiliates. Benieuwd wat wij voor jullie kunnen betekenen?
+  keywords: samenwerkingen, affiliates, interresse
 banner:
   image: dHv3y8bswcOt6ZJUmSh6N
   effect: o-lg-60d-black

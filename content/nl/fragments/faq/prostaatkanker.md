@@ -6,17 +6,17 @@
 
 Bij circa 10.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50 hebben meer kans om prostaatkanker op te lopen.
 
-Je kunt prostaatkanker lastig herkennen aan de symptomen. De symptomen van kanker zijn vergelijkbaar met die van een vergrote prostaat.
+U kunt prostaatkanker lastig herkennen aan de symptomen. De symptomen van kanker zijn vergelijkbaar met die van een vergrote prostaat.
 Denk aan de volgende symptomen:
 * veel en vaak plassen
 * juist moeilijk plassen
 * of een brandend gevoel bij het plassen.
 
-Hiernaast kun je last krijgen van een minder krachtige urinestraal. Je kunt niet goed beginnen. Wordt soms onbedoeld onderbroken. Of krijgt juist aandrang om weer te plassen.
+Hiernaast kun u last krijgen van een minder krachtige urinestraal. U kunt niet goed beginnen. Wordt soms onbedoeld onderbroken. Of krijgt juist aandrang om weer te plassen.
 
-### Hoe kun je prostaatkanker constateren?
+### Hoe kunt u prostaatkanker constateren?
 
-Laten we dit antwoord inleiden door je een korte uitleg te geven over PSA-waarden. PSA staat voor ‘prostaat specifiek antigeen’. Dit is een eiwit dat in je bloed voorkomt. Het klierweefsel van je prostaat maakt deze eiwit aan.
+Laten we dit antwoord inleiden door u een korte uitleg te geven over PSA-waarden. PSA staat voor ‘prostaat specifiek antigeen’. Dit is een eiwit dat in uw bloed voorkomt. Het klierweefsel van uw prostaat maakt deze eiwit aan.
 
 Kort samengevat komt het neer op het volgende. Een hoge PSA-waarde in het bloed, kan wijzen op prostaatkanker.
 
@@ -25,11 +25,11 @@ Er zijn verschillende onderzoeken gedaan naar menselijke prostaatkankercellen. D
 
 We willen graag benadrukken dat Ivan Chai de anti-tumor activiteit versterkt. En met name een positieve werking heeft op gezonde prostaatcellen.
 
-Er zijn echter geen studies op klinisch niveau bekend. 
+Er zijn echter geen studies op klinisch niveau bekend.
 
-> Onderzoeken hebben aangetoond dat Ivan Chai een potentieel middel is om de kans op prostaatkanker te verkleinen. 
+> Onderzoeken hebben aangetoond dat Ivan Chai een potentieel middel is om de kans op prostaatkanker te verkleinen.
 
-Neem het drinken van Ivan Chai op in je dagelijkse routine. Mocht je toch onverhoopt last krijgen van prostaatkanker, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
+Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverhoopt last krijgen van prostaatkanker, ga verstandig te werk. Bel een deskundige bij twijfel. En laat u informeren over de behandelmethode.
 
 Ivan Chai bevat meerdere voordelen die niet alleen de gezondheid van de prostaat verzorgen. Ontdek de 7 voordelen van Ivan Chai.
 

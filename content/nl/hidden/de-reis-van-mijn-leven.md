@@ -1,11 +1,12 @@
 ---
 layout: article_with_shopify.html
 title: De reis van mijn leven
-url: /nl/artikel/met-korting/de-reis-van-mijn-leven
-category: TODO
+url: /nl/hidden/artikel/met-korting/de-reis-van-mijn-leven
+category: welkomstbrief
 publish:
   author: Michael Koch
 meta:
+  # TODO Stefan: removing the TODO without adding a value for description will not pass unit testing
   description: TODO
   keywords: ivan Chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, natuur, geneeskrachtig, michael koch, ivan's herbs
 banner:
@@ -18,6 +19,7 @@ contentful:
 shopify:
   language: NL
 ---
+<!-- to do: keep this pages hidden. Reason: this page includes discount code and is only accesible after leaving email -->
 <p style="text-align: right"><i>"Versterk lichaam en geest met kruiden uit Siberië"</i></p>
 
 ### Geachte Levensgenieter,

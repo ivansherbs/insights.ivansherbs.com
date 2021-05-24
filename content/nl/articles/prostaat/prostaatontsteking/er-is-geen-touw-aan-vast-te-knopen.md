@@ -29,11 +29,11 @@ shopify:
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
-Naarmate de tijd verstrijkt en u ouder wordt, weet u dat dagelijkse bezigheden meer tijd gaan kosten. Een man weet dat hij op latere leeftijd meer kans heeft op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken waarom ik dit probleem graag aankaarten bij mannen.
+Naarmate de tijd verstrijkt kunt u ervan op aan dat er meer tijd gaat zitten in dagelijkse bezigheden. Fijne bijkomstigheid is dat een man weet dat hij op latere leeftijd meer kans heeft op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken aangezien we dit probleem graag wederom aankaarten bij mannen.
 
 * 30% van de mannen ouder dan 50 jaar heeft problemen met plassen.
 
-Eén van die klachten is een **prostaatontsteking**. En nu komt gelijk het vervelende aan dit probleem. Dit doen wij in de vorm van een bewering die wij gaan onderbouwen.
+Eén van die klachten is een **prostaatontsteking** en nu komt gelijk het vervelende aan dit probleem. Dit doen wij in de vorm van een bewering die wij gaan onderbouwen.
 
 De bewering is als volgt.
 
@@ -43,20 +43,20 @@ Deze bewering onderbouwen wij op de volgende manier.
 
 * U kunt uw hele leven gezond hebben gegeten en gedronken. Veel hebben gesport én minimaal 10.000 stappen hebben gezet dagelijkse basis. Géén alcohol en géén drugs hebben gebruikt; en last krijgen van een prostaatontsteking...
 
-* U kunt uw hele leven ongezond hebben gegeten en gedronken. Niet hebben gesport en vooral géén 10.000 stappen hebben gezet op dagelijkse basis. Véél alcohol en drugs hebben gebruikt; en last krijgen van een prostaatontsteking...
+* U kunt uw hele leven ongezond hebben gegeten en gedronken. Niet hebben gesport en op dagelijkse basis vooral géén 10.000 stappen hebben gezet . Véél alcohol en drugs hebben gebruikt; en last krijgen van een prostaatontsteking...
 
 * U leidt momenteel een leven waarbij u, net als vroeger, zo nu en dan een héél gezond dieet volgt. Zo nu en dan sport én waarbij u op dagelijkse basis om en nabij de 10.000 stappen zet. Zo nu en dan een beetje buiten de lijntjes kleurt, waarbij u het totaal niet erg vindt eens te diep in het glaasje te kijken; om vervolgens tóch nog last te krijgen van een prostaatontsteking!
 
-**In andere woorden.** <br>
-U kunt uw hele leven naar eigen inziens hebben ingedeeld met de beschikbare gezonde producten die momenteel te verkrijgen zijn. Als u niet bewust op zoek gaat en rekening houdt met prostaatklachten, dan loopt u net als iedere man een vergrote kans een prostaatontsteking op te lopen.
+### Kort samengevat <br>
+U kunt uw hele leven naar eigen inziens hebben ingedeeld met de beschikbare gezonde producten die momenteel te verkrijgen zijn. Als u niet bewust op zoek gaat en rekening houdt met uw prostaat, dan loopt u net als iedere man een vergrote kans een prostaatontsteking op te lopen.
 
 En voor ons gevoel zijn dat er veel.
 
 * Reminder: +50 jaar / 30%
 
-Deze problemen kunnen de dagelijkse bezigheden flink verstoren. U kunt zelf wel bedenken hoe, op wat voor een manier en waar. Dat gaan we u in dit artikel niet uitleggen.
+Deze problemen kunnen de dagelijkse bezigheden flink verstoren. Dat gaan we u in dit artikel niet uitleggen. U kunt zelf wel bedenken hoe, wat en waar.
 
-Wel dat het een probleem is om al rekening mee te houden op **‘jongere’ leeftijd**. Even voor de duidelijkheid. Met jongere leeftijd bedoelen we hiermee **rond de 45 jaar**.
+Wel dat het een probleem is om al rekening mee te houden op **‘jongere’** leeftijd. Even voor de duidelijkheid. Met jongere leeftijd bedoelen we hiermee **rond de 45 jaar**.
 
 Wij willen u naar aanleiding van onze bewering graag nog even het volgende meegeven. **Het is verstandig** zo nu en dan uw lichaam even goed te reinigen met Siberische kruidenthee.
 
@@ -64,7 +64,9 @@ Ivan chai beschermt de gezondheid van uw prostaat. Voor we verder gaan met de in
 
 [[contentfulImage 4jBzDTxhzRWfhXqgvpjqyu]]
 
-**Voor het belang van het verhaal en de volledigheid** willen we u eerst nog even kennis laten maken met Maria Treben.
+### Maria Treben
+
+Voor het belang van het verhaal en de volledigheid willen we u eerst nog even kennis laten maken met Maria Treben.
 
 Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden. Ze heeft bekendheid verkregen door het geven van vele seminars en presentaties bij verschillende conferenties. Hier worden de bevindingen uit onderzoek uitvoerig besproken.
 

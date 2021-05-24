@@ -3,7 +3,7 @@ layout: article.html
 title: De reis van mijn leven
 url: /nl/artikel/de-reis-van-mijn-leven
 type:
-category: TODO
+category: welkomstbrief
 publish:
   author: Michael Koch
 meta:
@@ -17,7 +17,7 @@ contentful:
     fm: jpg
     q: 50
 ---
-
+<!--- fyi: This page (welcomstletter) does not contain a discount code -->
 <p style="text-align: right"><i>"Versterk lichaam en geest met kruiden uit Siberië"</i></p>
 
 ### Geachte Levensgenieter,

@@ -23,11 +23,11 @@ Een prostaatontsteking kan de dagelijkse bezigheden op een negatieve manier beï
 
 Bij chronische klachten worden bovenstaande klachten vergezeld door een zeurende pijn in de onderbuik, aanhoudende lage rugpijn en pijn gedurende het plassen. Ook moeheid, lusteloosheid en zelfs uitputting, kunnen we rekenen tot de klachten.
 
-### Welk effect heeft het gebruik van farmaceutische medicijnen?
+### Welk effect heeft het gebruik van medicijnen uit de farmaceutische industrie?
 
-Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen. Het kan zijn dat door gebruik van medicijnen je ook kwetsbaarder bent voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
+Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen. Het kan zijn dat door gebruik van medicijnen u ook kwetsbaarder bent voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
-Wanneer je farmaceutische medicijnen gebruikt tegen een prostaatonsteking, kun je Ivan Chai drinken als aanvulling op deze medicijnen.
+Wanneer u medicijnen uit de farmaceutische industrie gebruikt tegen een prostaatonsteking, kun u Ivan Chai drinken als aanvulling op deze medicijnen.
 
 ### Waarom Ivan Chai?
 

@@ -1,10 +1,11 @@
 ---
 layout: article.html
-title: De reis van mijn leven
+title: Affiliates
 url: /nl/samenwerkingen/affiliates
 meta:
+  # TODO Stefan: removing the TODO without adding a value for description will not pass unit testing
   description: TODO
-  keywords: TODO
+  keywords: kruiden, kruidenthee, etherische oliën, supplementen, matcha, ivan's herbs, samenwerking affiliates, communities, dna, duurzaam, klimaat, schoon, geschenkdoos, starter set, giftset, Prostaatontsteking, Vergrote prostaat, BPH, Prostaatkanker, Blaasontsteking, antibiotica, Anticonceptiepil, maagzuurremmers, slijmbeursontsteking, stress, angst, burnout klachte
 banner:
   image: 6csVsKRo3aDFZgyA0ojdEV
   effect: o-lg-60d-black
@@ -13,8 +14,7 @@ contentful:
     fm: jpg
     q: 50
 ---
-TODO  make this page hidden from customers
-
+<!-- TODO  keep this page hidden from customers -->
 ### Geachte Affiliate
 
 Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs | Nederland
@@ -25,7 +25,7 @@ De reden dat we dit eerst aankaarten is omdat wij het belangrijk vinden om op la
 
 Wij geloven in het aanbieden van producten met krachtige impact op de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu.
 
-Wij richten ons op het promoten van kruiden uit Siberië in de vorm van kruidenthee, etherische oliën, supplementen en kruiden in poedervorm. Momenteel zijn wij online actief in Europa, het VK en Noord-Amerika.
+Wij richten ons op het promoten van kruiden uit Siberië in de vorm van kruidenthee, etherische oliën, supplementen en matcha. Momenteel zijn wij online actief in Europa, het VK en Noord-Amerika.
 
 ### Ons manifest luidt als volgt:
 
@@ -200,13 +200,13 @@ Goed om te weten. Wanneer de tijd daar is willen we deze verkoop een ‘boost’
 - Rozewortel
 - Pompoenpit olie
 
-### Kruiden in Poedervorm
+### Matcha
 
-- Siberische Matcha in poedervorm
-- Meadowsweet Chai in poedervorm
-- Bergenia Chai  in poedervorm
-- Mint Chai in poedervorm
-- Zwarte Bes Blad in poedervorm
+- Siberische Matcha
+- Meadowsweet Matcha
+- Bergenia Matcha
+- Mint Matcha
+- Zwarte Bes Blad Matcha
 
 ### Worden de producten ook gecombineerd?
 
@@ -380,6 +380,6 @@ Met vriendelijke groet,
 
 ### Ivan Herbs | Nederland
 
-TODO Stefan: does this email exist?
+<!-- SV send message on slack to GP if this email can be created-->
 
 collaboration@ivansherbs.com

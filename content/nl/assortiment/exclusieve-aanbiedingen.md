@@ -4,8 +4,8 @@ title: Exclusieve aanbiedingen
 url: /nl/assortiment/exclusieve-aanbiedingen
 type: article
 meta:
-  description: TODO
-  keywords: TODO
+  description: Vergeet niet de kortingscode te gebruiken die te vinden is op de Loyaltea beker. Benieuwd naar onze exclusieve aanbiedingen?
+  keywords: exclusieve aanbiedingen, kortingscode, beker, nieuwsbrief
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
@@ -23,9 +23,7 @@ shopify:
 
 ### Geachte Loyaltea member,
 
-Welkom op onze pagina met exclusieve aanbiedingen.
-
-Doe uw aankoop middels de kortingscode die u kunt vinden op uw Loyaltea beker (uit de Starter Set & Royaltea Giftset).
+Welkom op onze pagina met exclusieve aanbiedingen. Vergeet niet de kortingscode te gebruiken die te vinden is op de Loyaltea beker (uit de Starter Set & Royaltea Giftset).
 
 Benieuwd naar onze exclusieve aanbiedingen?
 

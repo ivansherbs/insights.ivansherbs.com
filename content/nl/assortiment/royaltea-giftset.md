@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
-title: Ivan's geschenkdoos
-url: /nl/assortiment/exclusieve-geschenkdoos
+title:
+url: /nl/assortiment/royaltea-giftset
 type: article
 category: Ivan Chai
 tags:
@@ -13,7 +13,7 @@ fragments:
   header:
   footer:
 banner:
-  image: 7FWflFBuHhPuFlPEcb20ku
+  image: 2eVjI3EBAn57gYBRETy2WP
   effect: o-lg-60d-black
 contentful:
   imageOptions:
@@ -22,10 +22,10 @@ contentful:
 shopify:
   language: NL
 ---
-Al onze producten komen rechstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
+Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
 > Maak uw keuze compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
 
-## Ivan's geschenkdoos
+## Royaltea Giftset
 
 [[shopifyCollection 268072419494 buttonDestination=cart]]

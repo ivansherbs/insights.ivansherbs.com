@@ -27,11 +27,10 @@ jobs:
           npm run test-ci > /dev/null
           echo ""
           # collect the errors from the test report
-          error_count=$(echo "${test_errors}" | jq '.tests | map(select(.err.message)) | length')
+          error_count=$(cat "${REPORT_FILE}" | jq '.tests | map(select(.err.message)) | length')
           echo "Error count: ${error_count}"
           test_errors=$(cat "${REPORT_FILE}" | jq -c '.tests | map(select(.err.message)) | map({ error: .err.name, title: .fullTitle, message: .err.message })')
           echo "Errors:"
-          echo "${test_errors}"
           echo "${test_errors}" | jq
           # expose the collected errors as a step output
           echo "::set-output name=errors::${test_errors}"
@@ -49,7 +48,7 @@ jobs:
           formatted_errors=$(echo $formatted_errors | sed 's/\\"/"/g')
 
           # translate GitHub to Slack user name
-          slack_user=$(echo ""${{ github.actor }}" | jq -Rr 'sub("gabipetrovay"; "gabriel") | sub("Stefanvanderlinden"; "stefan") | sub("thekizoch"; "hello")')
+          slack_user=$(echo "${{ github.actor }}" | jq -Rr 'sub("gabipetrovay"; "gabriel") | sub("Stefanvanderlinden"; "stefan") | sub("thekizoch"; "hello")')
           echo "Caused by: ${{ github.actor }} (GitHub) / ${slack_user} (Slack)"
 
           # prepare the variables we need for the Slack message
