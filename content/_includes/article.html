@@ -162,7 +162,7 @@
         <div class="parent">
             {% if banner.image %}
             <div class="image-container">
-                <img src="{{ generated.contentful.banner_images[banner.image] }}" title="{{ banner.title }}">
+                <img src="{{ generated.contentful.banner_images[banner.image] }}?w=1900&h=700&fit=fill" title="{{ banner.title }}">
             </div>
             <div class="overlay-container {{ banner.effect | '' }}"></div>
             {% endif %}
