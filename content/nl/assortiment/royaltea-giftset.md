@@ -24,8 +24,8 @@ shopify:
 ---
 Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
-> Maak uw keuze compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
-
 ## Royaltea Giftset
 
 [[shopifyCollection 268072419494 buttonDestination=cart]]
+
+> Maak uw keuze compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
