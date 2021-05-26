@@ -44,7 +44,7 @@ Dit doen wij door het aanbieden van kruiden uit Siberië. Goed voor lichaam en g
 
 Informeren over fysieke danwel lichamelijke problemen staat bij ons hoog in het vaandel.
 
-Dit streven wij na door het schrijven van artikelen over lichaam en geest. De adviezen die wij geven over onze producten zijn gebasseerd op hedendaagse onderzoeken, waarvan het overgrote deel effectief bewezen middels klinisch onderzoek.
+Dit streven wij na door het schrijven van artikelen over lichaam en geest. De adviezen die wij geven over onze producten zijn gebasseerd op hedendaagse onderzoeken, waarvan het overgrote deel bewezen effectief middels klinisch onderzoek.
 
 Benieuwd naar onze inzichten?.
 
