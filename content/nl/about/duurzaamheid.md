@@ -10,7 +10,6 @@ tags:
 - levensstijl
 - community building
 - natuur
-- duurzaam
 meta:
   description: Lees nu het interview over het Siberische ecodorp Chazhaevka. "Chazhaevka is een Siberische ecodorp wat als doel heeft zowel sociaal, economisch als ecologisch duurzaam te zijn", vertelt Andrey Nikitin.
   keywords: community building, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, natuur, biologisch, alledaags product, geneeskrachtig werking

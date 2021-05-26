@@ -12,8 +12,8 @@ tags:
 - ontsteking
 - eyeopener
 meta:
-  description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken achillespees is zo opgelopen. Benieuwd naar de inzichten?
-  keywords: hardlopen, hardlopers, achillespees, endorfine, endorfines, peesontsteking, duursport, duursporten, pees, pezen, sasha
+  description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken pees in de knie is zo opgelopen. Benieuwd naar de inzichten?
+  keywords: hardlopen, hardlopers, knie, endorfine, endorfines, peesontsteking, duursport, duursporten, pees, pezen, sasha
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/peesontsteking
@@ -75,9 +75,9 @@ Ik heb het over je pezen.
 
 ### Pezen
 
-Pezen mogen het **vuile werk** op zich nemen wanneer jij lekker aan het sporten bent geslagen. Denk nu maar eens aan je achillespees. Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te verduren. Zij hebben de taak de spieren vast te houden aan het bot. Wanneer een pees langdurig onder hevige druk komt te staan, kan die geïrriteerd raken. Meestal gebeurt dit na verloop van tijd door herhaaldelijke overbelasting.
+Pezen mogen het **vuile werk** op zich nemen wanneer jij lekker aan het sporten bent geslagen. Denk nu maar eens aan je knieën. Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te verduren. Zij hebben de taak de spieren vast te houden aan het bot. Wanneer een pees langdurig onder hevige druk komt te staan, kan die geïrriteerd raken. Meestal gebeurt dit na verloop van tijd door herhaaldelijke overbelasting.
 
-Soms gebeurt dit acuut. Door bijvoorbeeld een verkeerde explosieve beweging. In andere woorden, een pijnlijke achillespees is zo opgelopen!
+Soms gebeurt dit acuut. Door bijvoorbeeld een verkeerde explosieve beweging. In andere woorden, een pijnlijke pees in je knie is zo opgelopen!
 
 Wanneer dit gebeurt zendt je pees een signaal. Dit ervaar jij vervolgens als pijn. Deze pijn kan je langdurig beperken in je dagelijkse bezigheden.
 
