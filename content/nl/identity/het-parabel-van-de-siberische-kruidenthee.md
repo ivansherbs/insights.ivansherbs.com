@@ -10,7 +10,7 @@ tags:
 - geschiedenis
 - ivan chai
 meta:
-  description: Ontdek de geschiedenis van Ivan Chai. De traditionele Russische geneeskunde is gericht op het gebruik van geneeskrachtige kruiden. In de 17e eeuw waren het de monniken ter hoogte van de Altaj... Lees het volledige verhaal.
+  description: Ontdek de geschiedenis van Ivan Chai. Het waren de monniken ter hoogte van de Altaj... [lees het volledige verhaal]
   keywords: geschiedenis, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtige werking, 17e eeuw, rusland, russische revolutie, Kapori Chai, Pu er
 banner:
   image: 1azw20zjK4vskIM0iFv1OF
@@ -20,7 +20,7 @@ contentful:
     fm: jpg
     q: 50
 ---
-## In de 17e eeuw
+## In de 17e eeuw...
 
 Het waren de monniken ter hoogte van de Altaj die de Siberische kruidenthee Ivan Chai herontdekten. De meedogenloze Russische federale regering had vlak voor deze ontdekking het drinken van koffie verboden. Cafeïne zou het lichaam langzaam vergiftigen; met onregelmatige hartkloppingen, rillingen en slapeloosheid tot gevolg. Door de rigiditeit van het ongenadige politiek bestel voelde de Siberische monniken zich genoodzaakt een oplossing te vinden voor de hardwerkende landarbeiders. Vanwege de politieke onrust leefden beide partijen in harmonie naast elkaar waarbij kennisdeling geschieden om de relatie te versterken.
 

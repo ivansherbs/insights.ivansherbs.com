@@ -9,7 +9,7 @@ publish:
 tags:
 - assortiment
 meta:
-  description: Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken. Bewezen effectief en vrij van dierenleed. Benieuwd naar de verschillende kleine amberkleurige glazen flesjes die overal mee naar toe kunnen worden genomen?
+  description: Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken en kan overal mee naar toe worden genomen...
   keywords: etherische oliën, etherische olien, assortiment, bestsellers, 10ml, bestsellers, dierenleed, aromadiffuser
 fragments:
   header:

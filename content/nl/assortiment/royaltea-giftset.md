@@ -12,7 +12,7 @@ meta:
 fragments:
   header:
   footer:
-banner:
+banner: <!--TO DO videobanner not working ??-->
   image: 2eVjI3EBAn57gYBRETy2WP
   effect: o-lg-60d-black
 contentful:
