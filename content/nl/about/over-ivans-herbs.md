@@ -42,11 +42,12 @@ Dit doen wij door het aanbieden van kruiden uit Siberië. Goed voor lichaam en g
 
 ### Informeren
 
-Wij hebben als doel het verbeteren van jou kennis over fysieke danwel lichamelijke problemen. Dit streven wij door het schrijven van artikelen over lichaam en geest.
+Informeren over fysieke danwel lichamelijke problemen staat bij ons hoog in het vaandel.
 
-De adviezen die wij geven over onze producten zijn gebasseerd op hedendaagse onderzoeken, waarvan de meerderheid effectief bewezen door klinische onderzoeken.
+Dit streven wij na door het schrijven van artikelen over lichaam en geest. De adviezen die wij geven over onze producten zijn gebasseerd op hedendaagse onderzoeken, waarvan het overgrote deel bewezen effectief middels klinisch onderzoek.
 
-Ontdek de inzichten en laat je informeren.
+Benieuwd naar onze inzichten?.
+
 
 
 [[contentfulImage QzIUfEuB5zxJRYozJxlCw]]

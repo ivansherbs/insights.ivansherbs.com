@@ -12,7 +12,7 @@ tags:
 - eyeopener
 - prostaat
 meta:
-  description: Prostaatklachten? bph? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Ook wel bekend als benigne prostaat hyperplasie. Benieuwd naar de inzichten?
+  description: Prostaatklachten? bph? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Ofwel benigne prostaat hyperplasie (BPH). Benieuwd naar de inzichten?
   keywords: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroot, benigne prostaat hyperplasie, maria treben, urineverlies
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
@@ -37,7 +37,7 @@ De meest bekende voorbeelden zijn uw haar en nagels. Maar ook niet zichtbare org
 
 **Tot u erbij neervalt.**
 
-We hebben het over uw prostaat. Wanneer uw prostaat lekker blijft doorgroeien kan dit problemen opleveren. Echter zijn niet alle problemen slecht voor uw lichaam. We beschouwen een vergrote prostaat dan ook als een goedaardige aandoening.
+We hebben het over uw prostaat. Wanneer uw prostaat lekker blijft doorgroeien kan dit een problemen opleveren. Echter zijn niet alle problemen slecht voor uw lichaam. We beschouwen een vergrote prostaat dan ook als een goedaardige aandoening.
 
 Met goedaardig bedoelen we dat ze het lichaam géén schade aan doen. Maar wel als vervelend kunnen worden ervaren.
 
@@ -67,9 +67,9 @@ Zoals u ziet zijn er tal van goedaardige aandoeningen die kunnen ontstaan op jon
 
 **Hier is niets mis mee.**
 
-Over het algemeen kunt u gewoon normaal blijven functioneren met een goedaardige aandoening. In sommige gevallen kan het als vervelend worden ervaren. Zoals een wratje tussen je vingers. Maar meestal zit het gewoon uw schoonheidsideaal in de weg.
+Over het algemeen kunt u gewoon normaal blijven functioneren met een goedaardige aandoening. In sommige gevallen kan het als vervelend worden ervaren. Zoals een wratje tussen uw vingers. Maar meestal zit het gewoon uw schoonheidsideaal in de weg.
 
-**Mooi.**
+### Mooi.
 
 We zitten op 1 lijn wat betreft de goedaardige aandoeningen.
 
