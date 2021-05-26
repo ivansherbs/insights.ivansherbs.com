@@ -12,7 +12,7 @@ meta:
 fragments:
   header:
   footer:
-banner: <!--TO DO videobanner not working ??-->
+banner:
   image: 2eVjI3EBAn57gYBRETy2WP
   effect: o-lg-60d-black
 contentful:
@@ -22,6 +22,7 @@ contentful:
 shopify:
   language: NL
 ---
+<!--TO DO videobanner not working ??-->
 Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
 ## Royaltea Giftset
