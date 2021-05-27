@@ -1,13 +1,13 @@
 ---
 layout: article_with_shopify.html
-title: Bestsellers
-url: /nl/assortiment/ivans-assortiment-bestsellers
+title: "Pre orders | Top 5"
+url: /nl/assortiment/pre-order
 type: article
 category: Ivan Chai
 tags:
 - assortiment
 meta:
-  description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit volgens Eco7 Standaard. Benieuwd naar onze bestsellers?
+  description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit volgens Eco7 Standaard. Benieuwd naar onze pre orders?
   keywords: kruidenthee, assortiment, bestsellers, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
   header:
@@ -22,10 +22,10 @@ contentful:
 shopify:
   language: NL
 ---
-Bekijk ons assortiment aan meest verkochte kruiden uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Al onze producten komen rechstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
+Bekijk ons assortiment aan pre orders. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Al onze producten komen rechstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
 
-## Bestsellers | Top 3
+## Pre orders | Top 5
 
 [[shopifyCollection 261575540902 buttonDestination=cart]]
 

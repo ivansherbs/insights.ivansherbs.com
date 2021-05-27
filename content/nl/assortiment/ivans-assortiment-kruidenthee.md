@@ -22,11 +22,11 @@ contentful:
 shopify:
   language: NL
 ---
-**Bestsellers | Collectie | Favorieten | Follow Up | Kleinere Volumes | Extra Veel Volume**
+**Pre order | Collectie | Favorieten | Follow Up | Kleinere Volumes | Extra Veel Volume**
 
 Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Kijk gerust even verder...
 
-## Bestsellers | Top 3
+## Pre order | Top 3
 
 [[shopifyCollection 261575540902 buttonDestination=cart]]
 

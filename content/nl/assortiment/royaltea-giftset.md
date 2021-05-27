@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title:
+title: Royaltea Giftset
 url: /nl/assortiment/royaltea-giftset
 type: article
 category: Ivan Chai
@@ -22,7 +22,6 @@ contentful:
 shopify:
   language: NL
 ---
-<!--TO DO videobanner not working ??-->
 Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
 ## Royaltea Giftset
