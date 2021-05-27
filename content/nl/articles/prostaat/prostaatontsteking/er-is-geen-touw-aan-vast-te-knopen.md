@@ -11,6 +11,7 @@ tags:
 - 45+
 - eyeopener
 - prostaat
+- voordelen EMA
 meta:
   description: Prostaatklachten? Prostaatpijn? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar de inzichten?
   keywords: prostaatklachten, prostaatpijn, prostaatontsteking, prostaat vergroot, ontsteking prostaat symptomen, ontsteking prostaat, maria treben, klinisch onderzoek

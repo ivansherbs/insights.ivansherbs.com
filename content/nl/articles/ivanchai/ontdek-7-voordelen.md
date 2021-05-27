@@ -17,6 +17,7 @@ tags:
 - man
 - vrouw
 - 45+
+- voordelen EMA
 meta:
   description: Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer maar óók gewoon lekker ter ontspanning. Benieuwd naar de inzichten?
   keywords: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
