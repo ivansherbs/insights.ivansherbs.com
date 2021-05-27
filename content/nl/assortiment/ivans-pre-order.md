@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "Pre orders | Top 5"
+title: "Pre order | Top 5"
 url: /nl/assortiment/pre-order
 type: article
 category: Ivan Chai
