@@ -6,10 +6,10 @@ type: article
 category: Ivan Chai
 publish:
   author: Sasha Popov
-  date: 17.01.2021
+  date:
 tags:
 - ivan chai
-- natuur
+- milieu
 - eyeopener
 meta:
   description: Lees nu waarom bosbranden altijd al een grote rol hebben gespeeld in de oorsprong van Ivan Chai. Om de natuurlijke evolutie niet in de weg te staan halen wij daarom onze kruiden louter uit de wildernis van Siberië. Benieuwd naar de inzichten?

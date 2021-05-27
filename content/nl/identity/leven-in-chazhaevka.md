@@ -9,7 +9,7 @@ publish:
 tags:
 - levensstijl
 - community building
-- natuur
+- milieu
 - gevoel
 meta:
   description: Lees nu het portret van Svetlana Petrova. Eén van de herbal tea experts uit Chazhaevka. Community building in combinatie met creativiteit staan met name centraal in haar nieuwe leven. Lees haar verhaal.

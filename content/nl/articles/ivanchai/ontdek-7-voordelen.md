@@ -6,7 +6,7 @@ type: article
 category: Ivan Chai
 publish:
   author: Ivan Alexandrovitsj
-  date: 07.01.2021
+  date:
 tags:
 - weerstand
 - ontsteking

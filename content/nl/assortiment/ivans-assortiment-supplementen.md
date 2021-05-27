@@ -4,8 +4,6 @@ title: Supplementen
 url: /nl/assortiment/ivans-assortiment-supplementen
 type: article
 category: supplementen
-publish:
-  author:
 tags:
 - assortiment
 meta:

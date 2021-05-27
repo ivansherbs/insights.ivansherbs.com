@@ -4,8 +4,6 @@ title: Etherische oliën
 url: /nl/assortiment/ivans-assortiment-etherische-olien
 type: article
 category: etherische oliën
-publish:
-  author:
 tags:
 - assortiment
 meta:
