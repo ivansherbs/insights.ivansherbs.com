@@ -8,7 +8,7 @@ tags:
 - assortiment
 meta:
   description: Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken en kan overal mee naar toe worden genomen...
-  keywords: etherische oliën, etherische olien, assortiment, bestsellers, 10ml, bestsellers, dierenleed, aromadiffuser
+  keywords: etherische oliën, etherische olien, assortiment, pre order , 10ml, dierenleed, aromadiffuser
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
@@ -22,11 +22,11 @@ contentful:
 shopify:
   language: NL
 ---
-**Bestsellers | 10ml**
+**Pre order | 10ml**
 
 Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken. Bewezen effectief en vrij van dierenleed.
 
-## Bestsellers
+## Pre order
 
 [[shopifyCollection 226866954406 buttonDestination=cart]]
 

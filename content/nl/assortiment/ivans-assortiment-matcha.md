@@ -8,7 +8,7 @@ tags:
 - assortiment
 meta:
   description: Ivan's Herbs biedt naast de collectie kruidenthee ook een assortiment aan Siberische matcha aan. Matcha is meer dan alleen thee. Ooit matcha gecombineerd met drank of voeding...?
-  keywords: matcha, kruiden, thee, assortiment, pakketten, bestsellers, drank, voeding, collectie, kruidenthee, water, bestsellers, 1 kg
+  keywords: matcha, kruiden, thee, assortiment, pakketten, pre order , drank, voeding, collectie, kruidenthee, water, 1 kg
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
@@ -22,11 +22,11 @@ contentful:
 shopify:
   language: NL
 ---
-**Bestsellers | 1 kg**
+**Pre order  | 1 kg**
 
 Ivan's Herbs biedt naast de collectie kruidenthee ook een assortiment aan Siberische matcha aan. Matcha is meer dan alleen thee. Ooit matcha gecombineerd met drank of voeding...?
 
-## Bestsellers
+## Pre order
 
 [[shopifyCollection 267300176038 buttonDestination=cart]]
 

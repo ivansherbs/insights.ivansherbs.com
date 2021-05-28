@@ -8,7 +8,7 @@ tags:
 - assortiment
 meta:
   description: Op zoek naar een mooi cadeau? Wij bieden de mogelijkheid pakketten te upgraden met een theezeef, beker en duurzame draagtas van 100% katoen.
-  keywords: kruidenthee, assortiment, bestsellers, favorieten, kilobags, inzichten, geschenkdoos, cadeau, katoen, draagtas, beker, theezeef
+  keywords: kruidenthee, assortiment, pre order , favorieten, kilobags, inzichten, geschenkdoos, cadeau, katoen, draagtas, beker, theezeef
 fragments:
   header:
   footer:

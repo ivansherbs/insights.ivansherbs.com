@@ -8,7 +8,7 @@ tags:
 - assortiment
 meta:
   description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit volgens Eco7 Standaard. Benieuwd naar onze pre orders?
-  keywords: kruidenthee, assortiment, bestsellers, favorieten, kilobags, inzichten, geschenkdoos
+  keywords: kruidenthee, assortiment, pre order, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
