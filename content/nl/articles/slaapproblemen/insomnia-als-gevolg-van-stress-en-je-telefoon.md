@@ -71,11 +71,11 @@ Denk hierbij aan de volgende problemen.
 
 [[contentfulImage 3U3LCmWccLvbVpA0twOhEJ]]
 
-### Kortom
+### Kortom...
 
-Hun tere kleine kwetsbare kinder hersentjes komen hierdoor niet tot rust. Hierdoor kunnen ze zich moeilijker concentreren, ze worden onrustig wanneer ze niet online kunnen. En het aantal ruzies binnen gezinnen neemt toe. Uiteindelijk met een overmatige hoeveelheid aan stress tot gevolg.
+hun tere kleine kwetsbare kinder hersentjes komen hierdoor niet tot rust. Ze kunnen zich moeilijker concentreren, en ze worden onrustig wanneer ze de online wereld niet kunnen betreden. Het aantal ruzies binnen gezinnen neemt toe, met als gevolg een overmatige hoeveelheid onnodige stress binnen het gezin...
 
-**Dit wordt mede mogelijk gemaakt** door een telefoonverslaving. Ook goed als katalysator op slapeloosheid. Niet te verwarren met een mobiele telefoon als extra prikkel met stress tot gevolg.
+**Dit wordt mede mogelijk gemaakt** door een telefoonverslaving. Werkt tevens goed als katalysator op slapeloosheid. Niet te verwarren met een mobiele telefoon als extra prikkel met stress tot gevolg.
 
 **Om slaapproblemen te verklaren** bij kinderen (en ook bij volwassen die te vaak op hun ‘highly-sophisticated-hippe-smartphones fanatiek aan het swipen zijn), bekijken we dit telefoonverslavings probleem vanuit neurobiologisch perspectief. Gewoon omdat het kan en we er vooral niet te diep op ingaan.
 
@@ -85,17 +85,11 @@ Hun tere kleine kwetsbare kinder hersentjes komen hierdoor niet tot rust. Hierdo
 
 Wanneer we bovenstaande kort samenvatten komen we op het volgende neer.
 
-### Samenvatting
+* Dopamine zorgt voor een opgewekt gevoel.
 
-Dopamine zorgt voor een opgewekt gevoel.
+* Stress voor adrenaline.
 
-Stress voor adrenaline.
-
-Deze gevoelens versterken elkaar.
-
-En heel simpel gezegd.
-
-Bij te veel van beide slaap je niet lekker.
+Deze gevoelens versterken elkaar. En heel simpel gezegd. Bij te veel van beide slaap je niet lekker.
 
 punt
 

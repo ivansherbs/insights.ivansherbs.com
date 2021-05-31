@@ -28,6 +28,10 @@ Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en 
 
 ## Pre order | Top 3
 
+[[shopifyCollection 261575540902 buttonDestination=cart]]
+
+## Collectie | Kruidenthee
+
 Kruidentheeën als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer, maar óók gewoon lekker ter ontspanning. Benieuwd naar de verschillende smaken?
 
 [[shopifyCollection 235510562982 buttonDestination=cart]]
@@ -37,6 +41,12 @@ Kruidentheeën als alternatief of aanvulling op medicijnen uit de farmaceutische
 Graag bieden wij de mogelijkheid om uw meest favoriete kruidenthee in verschillende formaten aan te schaffen. Wist u dat binnenkort een Ivan Chai met rokerige smaak beschikbaar komt?
 
 [[shopifyCollection 261575966886 buttonDestination=cart]]
+
+## Ivan's | Follow Up
+
+Wij geven u graag een opvolging die door uw brievenbus heen past. Wel zo makkelijk of niet?
+
+[[shopifyCollection 261582815398 buttonDestination=cart]]
 
 ## Ivan's | Kleinere Volumes
 
