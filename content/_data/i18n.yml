@@ -57,6 +57,9 @@ giftset:
 collection:
   EN: Collection
   NL: Assortiment
+$:
+  EN: $
+  NL: €
 
 #vc.ivansherbs.com
 best_sellers:
