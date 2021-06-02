@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
 title: De reis van mijn leven
-url: /nl/hidden/artikel/met-korting/de-reis-van-mijn-leven
+url: /nl/hidden/artikel/met-korting/de-reis-van-mijn-leven-pre-orders
 category: welkomstbrief
 publish:
   author: Michael Koch
@@ -102,44 +102,34 @@ Michael Koch
 
 Ps.
 
-Zoals reeds beloofd, hierbij uw KORTINGSCODE:
+Mocht u benieuwd zijn naar onze pre orders:
 
-<p style="text-align: center"><b>ivans-herbs-kruidenthee</b></p>
+Bekijk ons ruime assortiment aan kruiden uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
 
-Ter info: uw kortingscode is geldig voor onze bestsellers
+## Pre order | Top 5
 
-Bekijk ons ruime assortiment aan kruidentheeën uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
+Bekijk ons assortiment aan pre orders. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Al onze producten komen rechstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
-## Bestsellers | Top 3
+[[shopifyCollection 269160775846 buttonDestination=modal]]
 
-[[shopifyCollection 261575540902 buttonDestination=cart]]
+## Pre order | Kruidenthee Pakketten
+[[shopifyCollection 235510562982 buttonDestination=modal]]
 
-## Collectie | Kruidenthee
+## Pre order | Kruidenthee Tubes 50 gram
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
-Kruidentheeën als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer, maar óók gewoon lekker ter ontspanning. Benieuwd naar de verschillende smaken?
+## Pre order | Etherische oliën
+[[shopifyCollection 226866954406 buttonDestination=modal]]
 
-[[shopifyCollection 235510562982 buttonDestination=cart]]
+## Pre order | Supplementen
+[[shopifyCollection 267300995238 buttonDestination=modal]]
 
-## Ivan´s | Favorieten
+## Pre order | Matcha
+[[shopifyCollection 269233684646 buttonDestination=modal]]
 
-Graag bieden wij de mogelijkheid om uw meest favoriete kruidenthee in verschillende formaten aan te schaffen. Wist u dat binnenkort een Ivan Chai met rokerige smaak beschikbaar komt?
+## Pre order | Upgrade
+[[shopifyCollection 269305839782 buttonDestination=modal]]
 
-[[shopifyCollection 261575966886 buttonDestination=cart]]
+## Bekijk video (1min)
 
-## Ivan's | Follow Up
-
-Wij geven u graag een opvolging die door uw brievenbus heen past. Wel zo makkelijk of niet?
-
-[[shopifyCollection 261582815398 buttonDestination=cart]]
-
-## Ivan´s | Kleinere Volumes
-
-Onder het mom: _"voor ieder wat wils"_. Benieuwd met wat voor een etherische oliën, supplementen of kruiden in poedervorm u onze kleinere hoeveelheden kunt combineren?
-
-[[shopifyCollection 261581570214 buttonDestination=cart]]
-
-## Ivan´s | Extra Veel Volume
-
-Voor de enorme theedrinker die er gewoon geen genoeg van kan krijgen. Wist u dat een kopje thee ongeveer 14 cent kost?
-
-[[shopifyCollection 261576589478 buttonDestination=cart]]
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
