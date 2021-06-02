@@ -8,7 +8,6 @@ publish:
   author: Ivan Alexandrovitsj
 tags:
 - man
-- 45+
 - eyeopener
 - prostaat
 - ziekten

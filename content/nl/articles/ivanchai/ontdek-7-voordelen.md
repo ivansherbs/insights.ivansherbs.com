@@ -16,7 +16,6 @@ tags:
 - buikkrampen
 - man
 - vrouw
-- 45+
 - voordelen EMA
 meta:
   description: Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer maar óók gewoon lekker ter ontspanning. Benieuwd naar de inzichten?

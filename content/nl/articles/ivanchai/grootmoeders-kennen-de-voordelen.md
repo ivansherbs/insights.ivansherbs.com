@@ -14,7 +14,6 @@ tags:
 - urinewegen
 - buikkrampen
 - vrouw
-- 45+
 - voordelen EMA
 meta:
   description: Grootmoeders uit de Sovjet-Unie kennen de geheimen van Ivan Chai. De Siberische kruidenthee Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest. Benieuwd naar de inzichten?
