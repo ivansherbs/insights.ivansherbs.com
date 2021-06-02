@@ -26,4 +26,4 @@ shopify:
 
 Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken. Bewezen effectief en vrij van dierenleed.
 
-[[shopifyCollection 226866954406 buttonDestination=cart]]
+[[shopifyCollection 226866954406 buttonDestination=modal]]

@@ -71,3 +71,5 @@ Er zouden geruchten zijn verspreid dat de Russen Ivan Chai vergiftigden met natt
 In de nasleep van de Russische revolutie van 1917 stopte de commerciële productie. De consumptie van Ivan Chai was vrijwel tot nul gedaald voor West-Europa en delen van Rusland.
 
 Zelfs in Rusland bleef deze geneeskrachtige kruidenthee Ivan Chai wederom enigszins onbekend. Anno 2017 vond er langzaam een opleving plaats waarbij Ivan Chai werd geherintroduceerd in West-Europa.
+
+[[shopifyCollection 269339164838 buttonDestination=modal]]

@@ -27,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 Naarmate de tijd verstrijkt kunt u ervan op aan dat er meer tijd gaat zitten in dagelijkse bezigheden. Fijne bijkomstigheid is dat een man weet dat hij op latere leeftijd meer kans heeft op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken aangezien we dit probleem graag wederom aankaarten bij mannen.
 
@@ -121,4 +121,4 @@ Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverho
 
 Op zoek naar meer verdieping?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

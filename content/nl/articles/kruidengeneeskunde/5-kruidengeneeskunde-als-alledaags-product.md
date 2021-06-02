@@ -14,6 +14,7 @@ meta:
   description: Dagelijks gebruik van kruiden met geneeskrachtige werking is mogelijk met de producten van Ivan's Herbs, Herbs from Siberia. Benieuwd naar de inzichten?
   keywords: medicijnen, kruiden, farmaceutische industrie, probleem, natuurlijk, product, kruidenthee, aromatherapie, supplement, kruidengeneeskunde, angst, stress
 fragments:
+  header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:
   image: 7DY2SOQhqApZObTguUXhA6
@@ -23,6 +24,8 @@ contentful:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 Veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek hebben de potentie om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen. De producenten van natuurlijke producten zoeken de samenwerking op met bedrijven uit de farmaceutische industrie.
 
 > De moderne samenleving is op zoek naar stabiele, consistente en betrouwbare bronnen van medicijnen. Terwijl complexe chemische stoffen momenteel voorrang krijgen boven ruwe, niet-gelabelde en natuurlijke producten.
@@ -50,3 +53,5 @@ Nu de stabielere bronnen voor medicijnen zijn gevonden waarbij de levering van c
 De natuurlijke producten zullen na verloop van tijd de boventoon moeten voeren ten opzichte van de heersende patenten. Met als doel het preventief behandelen van problemen. Er zal sneller moeten worden ingespeeld op de toenemende vraag naar natuurlijke producten.
 
 Medicijnen rechtstreeks uit de natuur, zoals de producten van Ivan's Herbs in de vorm van kruidenthee, aromatherapie, supplementen en matcha zullen na verloop van tijd als alledaags product in gebruik moeten worden genomen om de kans op ziekten te verkleinen en gezondheidsproblemen te verzorgen.
+
+[[shopifyCollection 269160775846 buttonDestination=modal]]

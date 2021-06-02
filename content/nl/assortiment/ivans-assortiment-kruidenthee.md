@@ -30,7 +30,7 @@ Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en 
 
 Kruidentheeën als alternatief of aanvulling op medicijnen, als levenselixer, maar óók gewoon lekker ter ontspanning. Benieuwd naar de verschillende smaken?
 
-[[shopifyCollection 235510562982 buttonDestination=cart]]
+[[shopifyCollection 235510562982 buttonDestination=modal]]
 
 ## Pre order | Tubes 50 gram
 
@@ -42,13 +42,13 @@ Herbruikbare design tube om kruiden te bewaren...
 
 Graag bieden wij de mogelijkheid om Ivan's meest favoriete kruidenthee in verschillende formaten aan te schaffen.
 
-[[shopifyCollection 261575966886 buttonDestination=cart]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]
 
 ## Pre order | Losse Thee
 
 Ons assortiment kleinere volumes. Benieuwd met wat voor een etherische oliën, supplementen of matcha onze kleinere hoeveelheden te combineren zijn? Bekijk ook eens Ivan's Upgrade...
 
-[[shopifyCollection 269222150310 buttonDestination=cart]]
+[[shopifyCollection 269222150310 buttonDestination=modal]]
 
 ## Pre order | Upgrade
 
@@ -60,7 +60,7 @@ Maak uw keuze compleet met Ivan's Upgrade: thee accessoires...
 
 Voor de enorme theedrinker die er gewoon géén genoeg van kan krijgen. Met extra veel volume kost een kopje thee pak 'm beet 10 cent.
 
-[[shopifyCollection 261576589478 buttonDestination=cart]]
+[[shopifyCollection 261576589478 buttonDestination=modal]]
 
 ## Bekijk video (1min)
 

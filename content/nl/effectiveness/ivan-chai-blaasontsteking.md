@@ -26,7 +26,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 ### Effectiviteit
 
@@ -65,4 +65,4 @@ Door onze Eco7 Standaard te volgen zijn onze producten tevens:
 
 * Vrij van ontbossing
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

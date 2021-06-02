@@ -24,6 +24,8 @@ contentful:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 269172474022 buttonDestination=modal]]
+
 Ivan's Herbs richt zich op het gebruik van kruiden uit Siberië om de kans op ziekten te verkleinen of problemen te behandelen. Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel;
 
 > Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
@@ -50,3 +52,5 @@ Wanneer je vatbaar bent voor ziekten zoals tijdens de wintermaanden, kunnen krui
 Wanneer geconsumeerd zoals aangegeven werken kruiden in de meeste gevallen langzamer dan medicijnen uit de farmaceutische industrie. In tegenstelling tot de meeste  medicijnen gaat de werking van kruiden wél vooraf aan een zogenaamde opbouwfase.
 
 Dit 'nadeel' wordt gecompenseerd door het vaak ontbreken van negatieve bijwerkingen wanneer kruiden worden geconsumeerd zoals voorgeschreven.
+
+[[shopifyCollection 269160775846 buttonDestination=modal]]

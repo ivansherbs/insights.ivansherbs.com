@@ -48,3 +48,5 @@ Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, hebb
 
 Door onze **Eco7 Standaard** te volgen zijn onze producten tevens:
 - Vrij van ontbossing
+
+[[shopifyCollection 269339164838 buttonDestination=modal]]

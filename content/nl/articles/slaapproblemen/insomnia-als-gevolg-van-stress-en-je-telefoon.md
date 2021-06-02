@@ -29,7 +29,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af.
 
@@ -119,4 +119,4 @@ Mocht je toch onverhoopt slaapproblemen rondlopen, ga verstandig te werk. Bel ee
 
 Benieuwd naar de impact van slaapproblemen op Nederland?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

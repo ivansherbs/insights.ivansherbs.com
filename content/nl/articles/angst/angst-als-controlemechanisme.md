@@ -24,6 +24,8 @@ contentful:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 269172474022 buttonDestination=modal]]
+
 **ANGST** is een emotie die we allen een keer hebben ervaren.
 
 De één heftiger dan de ander. Iedereen is vroeger wel een keer heel erg angstig geweest door een gebeurtenis. Iets wat jij op dat moment als een bedreiging of gevaar hebt beschouwt.
@@ -141,4 +143,4 @@ Lees verder hoe Ivan Chai je kan helpen bij het verminderen van angst.
 
 Benieuwd hoeveel mensen last hebben van angst?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

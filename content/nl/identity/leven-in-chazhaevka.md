@@ -91,3 +91,5 @@ De gevolgen zijn bijna niet te voorspellen zijn. Het kan naast mentale ook licha
 **Gelukkig heb ik dit nu ver achter mij gelaten.**
 
 Mocht je nog een tip willen. Ik wil iedereen adviseren meer tijd te nemen voor zichzelf. En de producten uit de natuur met geneeskrachtige werking een kans te geven. Te beginnen met het dagelijks verzorgen van lichaam en geest met kruidenthee uit Siberië.
+
+[[shopifyCollection 269233684646 buttonDestination=modal]]

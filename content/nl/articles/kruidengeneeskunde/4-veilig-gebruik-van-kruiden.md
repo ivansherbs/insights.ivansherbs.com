@@ -24,6 +24,8 @@ contentful:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 269172474022 buttonDestination=modal]]
+
 Kruiden zijn wereldwijd een veel gebruikt medicijn voor preventieve behandelingen. Ze worden vaak als ongevaarlijk beschouwd. Mochten er bijwerkingen optreden dan zijn vooral zwangere vrouwen, kinderen en ouderen onderhevig aan deze bijwerkingen. Een onderzoek heeft aangetoond dat er gelukkig wel wordt nagedacht over de verschillende positieve dan wel negatieve effecten van kruiden.
 
 ### Veiligheid
@@ -43,3 +45,5 @@ Laat je informeren over de mogelijke gevolgen bij gebruik van zowel kruiden als 
 ### Informeren
 
 De consument dient daarom beter te worden geïnformeerd over de risico’s bij gebruik om de veiligheid te kunnen waarborgen. Het informeren over de voor- en nadelen is iets waar vele experts uit apotheken dan wel natuurwinkels slagen kunnen behalen wanneer het welzijn van de mens voorop wordt gesteld.
+
+[[shopifyCollection 269160775846 buttonDestination=modal]]

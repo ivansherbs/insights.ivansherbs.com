@@ -150,4 +150,4 @@ Mocht je toch onverhoopt een zwaardere vorm van buikgriep oplopen, ga verstandig
 
 Op zoek naar meer GEESTVERRUIMENDE inzichten?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]

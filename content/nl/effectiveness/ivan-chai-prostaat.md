@@ -16,6 +16,7 @@ meta:
   keywords: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bph, prostaatontsteking, prostaatkanker
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
+  footer: nl/fragments/faq/prostaatkanker
 banner:
   image: 3NRH8dvMHatZ0F6sDLxK4h
   effect: o-lg-60d-black
@@ -26,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 ### Effectiviteit
 
@@ -63,7 +64,7 @@ Interacties (wisselwerking met andere medicijnen) zijn gedurende klinische onder
 
 Goed om te weten bij het uitzoeken van uw producten. De basis van al onze Siberische kruidentheeën is Ivan Chai vanwege de geneeskrachtige werking.
 
-[[shopifyCollection 235543658662 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]
 
 Al onze kruiden zijn geselecteerd volgens Eco7 Standaard.
 
@@ -72,5 +73,3 @@ Al onze kruiden zijn geselecteerd volgens Eco7 Standaard.
 Door onze Eco7 Standaard te volgen zijn onze producten tevens:
 
 * Vrij van ontbossing
-
-[[shopifyCollection 235510562982 buttonDestination=modal]]

@@ -27,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 Wist u dat sommige delen van het lichaam niet willen stoppen met groeien?
 
@@ -130,4 +130,4 @@ Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverho
 
 Op zoek naar meer verdieping?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

@@ -27,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks. Het is goed voor de gezondheid van je lichaam en je gemoedstoestand.
 
@@ -99,4 +99,4 @@ Wil je meer weten over een peesontsteking?
 
 Of hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

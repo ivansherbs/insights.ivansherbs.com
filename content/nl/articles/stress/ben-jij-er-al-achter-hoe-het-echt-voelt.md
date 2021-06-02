@@ -27,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]
 
 ### Wist je dat...
 stress zich niet alleen tussen de oren afspeelt?
@@ -75,4 +75,4 @@ Lees verder hoe Ivan Chai je kan helpen bij het verminderen stress.
 
 Wil je dieper ingaan op het onderwerp stress?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]

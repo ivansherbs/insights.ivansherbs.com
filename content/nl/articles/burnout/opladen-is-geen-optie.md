@@ -27,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
 **Een fragment uit het leven van Svetlana Petrova.** Destijds realiseerde zij zich al dat een burnout bij iedereen op de loer ligt. Mede mogelijk gemaakt door meerdere factoren.
 
@@ -111,4 +111,4 @@ Goed om te weten.
 
 Lees verder hoe Ivan Chai je kan helpen bij het verminderen van een burnout.
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

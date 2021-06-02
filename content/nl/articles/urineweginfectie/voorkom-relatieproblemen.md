@@ -28,7 +28,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
 **Voorkom relatieproblemen door het voorkomen van een blaasontsteking.**
 
@@ -197,4 +197,8 @@ Dus. Recapitulerend en terugkijkende op dit artikel.
 
 ### Wat zou jij doen?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
+[[shopifyCollection 269233684646 buttonDestination=modal]]
+
+[[shopifyCollection 269344604326buttonDestination=modal]]

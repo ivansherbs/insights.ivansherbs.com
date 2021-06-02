@@ -25,7 +25,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
 Wanneer jij ongesteld bent komt er per keer ongeveer 80ml aan bloed uitzetten. En voor de rekenwonders onder ons; dat is toch al gauw 1 theekopje vol bloed per week.
 
@@ -232,4 +232,8 @@ Mocht je toch onverhoopt een met een ernstige aandoening rondlopen, ga verstandi
 
 Ben jij benieuwd naar meer inzichten over baarmoederontstekingen?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
+[[shopifyCollection 269233684646 buttonDestination=modal]]
+
+[[shopifyCollection 269344604326buttonDestination=modal]]

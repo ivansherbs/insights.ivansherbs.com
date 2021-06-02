@@ -30,7 +30,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
 Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want...
 
@@ -306,4 +306,6 @@ Vergeet niet dat een vaginale schimmelinfectie makkelijk kan terugkomen.
 
 Wil jij meer weten over infecties?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]
+
+[[shopifyCollection 269344604326 buttonDestination=modal]]

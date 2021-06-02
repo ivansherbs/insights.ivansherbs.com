@@ -31,7 +31,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]
 
 ## Anekdotisch bewijs is krachtig bewijs
 
@@ -133,7 +133,6 @@ Goed om te weten. Ivan Chai komt voort uit een uiterst duurzaam productieproces.
 
 Benieuwd geworden hoe Ivan Chai wordt gemaakt?
 
-<!-- TODO missing Shopify collection -->
 [[shopifyCollection 235550015654 buttonDestination=cart]]
 
 [[contentfulImage 3q8sNvW9E7qAVKIQG9hEIe]]
@@ -173,4 +172,4 @@ De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen 
 
 Onderaan deze pagina kunt u ons advies lezen.
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]

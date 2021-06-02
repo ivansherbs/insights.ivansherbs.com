@@ -128,3 +128,5 @@ Benader problemen vanuit een holistische perspectief. Het kan zijn dan fysieke p
 Mijn advies aan alles en iedereen.
 
 De mensheid mag meer tijd voor zichzelf nemen om gewoon even tot rust te komen.
+
+[[shopifyCollection 269160775846 buttonDestination=modal]]

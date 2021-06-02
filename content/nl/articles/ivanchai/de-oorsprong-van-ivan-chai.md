@@ -27,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 De natuur in Siberië is overweldigend. Het wordt gekenmerkt door het Altaj gebergte en het Russische Grootlandschap. Een plek op aarde waar de stille kracht van de natuur niet kan worden ontkent. Het immense oppervlakte beslaat het grootste deel van Rusland waardoor de Noordelijke Ijszee en de uitlopers van de Altaj met elkaar zijn verbonden.
 
@@ -97,4 +97,4 @@ Kort samengevat, dit houdt in dat de producten van Ivan's Herbs vrij zijn van on
 
 Benieuwd wat wij voor jou kunnen betekenen?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]

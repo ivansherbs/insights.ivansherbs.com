@@ -104,4 +104,4 @@ Of Pseudokroep verzorgen?
 
 > Lees snel verder en ontvang óók tips voor het drinken van Ivan Chai met kinderen!
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269222150310 buttonDestination=modal]]

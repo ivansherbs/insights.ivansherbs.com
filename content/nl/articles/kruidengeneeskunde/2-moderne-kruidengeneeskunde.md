@@ -24,6 +24,8 @@ contentful:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
 In de moderne samenleving wordt het gebruik van medicijnen uit de farmaceutische industrie in twijfel getrokken. Dit komt met name door de vele bijwerkingen die kunnen optreden. De vraag naar natuurlijke behandelingen in combinatie met een schoner productieproces neemt toe. Om in te spelen op deze vanuit de samenleving toenemende vraag dient een natuurlijke behandeling beter te worden geïntroduceerd om ook als (preventieve) behandeling te kunnen worden gebruikt.
 
 > De traditionele kruidengeneeskunde heeft de deur geopend naar het gebruik van veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek; als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, maar óók gewoon lekker ter ontspanning. Denk hierbij aan kruidenthee, aromatherapie, supplementen en matcha.
@@ -55,3 +57,5 @@ Kruidengeneeskunde omvat de veelomvattende disciplines wetenschap als geschieden
 > "Ik moedig mensen aan om voorzichtig te zijn met alle soorten medicijnen. Pas het scepticisme ook toe op conventionele geneeskunde. Oefen je scepsis, onderzoek en sta open zoals een goede scepticus is."
 
 aldus de Directeur van de Northeast School of Botanical Medicine
+
+[[shopifyCollection 269160775846 buttonDestination=modal]]

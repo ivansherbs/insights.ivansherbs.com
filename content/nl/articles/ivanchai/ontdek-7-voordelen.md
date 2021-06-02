@@ -33,7 +33,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]
 
 ### Ivan Chai
 
@@ -230,4 +230,4 @@ Tot slot, klinisch onderzoek heeft zelfs aangetoond dat kleine darmparasieten ku
 ### Bent u benieuwd wat Ivan Chai voor u kan betekenen?
 Onderaan deze pagina kunt u ons advies en veelgestelde vragen vinden.
 
-[[shopifyCollection 235510562982 buttonDestination=cart]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]

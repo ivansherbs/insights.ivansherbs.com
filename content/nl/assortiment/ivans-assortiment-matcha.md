@@ -38,7 +38,7 @@ Maak uw keuze compleet met Ivan's Upgrade: Matcha accessoires...
 
 Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water?
 
-[[shopifyCollection 267300176038 buttonDestination=cart]]
+[[shopifyCollection 267300176038 buttonDestination=modal]]
 
 ## Bekijk video (1min)
 

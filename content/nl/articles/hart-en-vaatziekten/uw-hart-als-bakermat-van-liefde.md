@@ -28,7 +28,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
 **Het hart** heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. De hedendaagse hartvorm wordt al sinds de middeleeuwen gebruikt om gepassioneerde hartstochtelijke liefdevolle gevoelens naar elkaar toe weer te geven; en met succes.
 
@@ -74,4 +74,4 @@ Bij gebruik van zware medicijnen uit de farmaceutische industrie raden wij het a
 
 Benieuwd naar de impact van hart- en vaatziekten?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

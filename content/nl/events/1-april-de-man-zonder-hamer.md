@@ -112,4 +112,4 @@ Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. 
 
 Meer weten over een keelontsteking?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
