@@ -7,7 +7,7 @@ category: Ivan Chai
 tags:
 - assortiment
 meta:
-  description: Op zoek naar een mooi cadeau? Wij bieden de mogelijkheid pakketten te upgraden met een theezeef, beker en duurzame draagtas van 100% katoen.
+  description: Op zoek naar een mooie geschenkset? Wij bieden de mogelijkheid pakketten te upgraden met een theezeef, beker en duurzame draagtas van 100% katoen.
   keywords: kruidenthee, assortiment, pre order , favorieten, kilobags, inzichten, geschenkdoos, cadeau, katoen, draagtas, beker, theezeef
 fragments:
   header:
@@ -22,13 +22,17 @@ contentful:
 shopify:
   language: NL
 ---
+## Pre order | Royaltea Giftset
+
 Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
-## Royaltea Giftset
-
-[[shopifyCollection 268072419494 buttonDestination=cart]]
+[[shopifyCollection 268072419494 buttonDestination=modal]]
 
 > Maak uw keuze compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
+
+## Pre order | Upgrade
+
+[[shopifyCollection 6732579930278 buttonDestination=modal]]
 
 ## Bekijk video (1min)
 

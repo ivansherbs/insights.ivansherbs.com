@@ -12,8 +12,10 @@ tags:
 - infectie
 - gevoel
 - relatie
+- moeder
 meta:
-  description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties?
+  description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties? Misschien is dit artikel wel het delen waard...
+
   keywords: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel, poenie
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
@@ -129,7 +131,7 @@ Er is echter één maar….
 
 Ik wil je even **waarschuwen** dat dit heel ongemakkelijk kan zijn wanneer mensen die je niet goed kent even meekijken. Maar echt heel ongemakkelijk.
 
-[**KLIK HIER**](#https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg)
+[**-->>KLIK HIER<<--**](#https://insights.ivansherbs.com/nl/articles/infecties//het-ontzichtbare-leger-vaginale-schimmelinfectie)
 
 En...
 

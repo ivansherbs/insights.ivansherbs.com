@@ -22,16 +22,24 @@ contentful:
 shopify:
   language: NL
 ---
-**Pre order  | 1 kg**
+## Pre order | Matcha 200 gram
 
-Ivan's Herbs biedt naast de collectie kruidenthee ook een assortiment aan Siberische matcha aan. Matcha is meer dan alleen thee. Ooit matcha gecombineerd met drank of voeding...?
+Matcha bestaat uit kruiden in poedervorm. Matcha is hierdoor méér dan alleen matcha thee. Ooit matcha gecombineerd met drank of voeding...?
 
-## Pre order
+[[shopifyCollection 269233684646 buttonDestination=modal]]
+
+## Pre order | Upgrade
+
+Maak uw keuze compleet met Ivan's Upgrade: Matcha accessoires...
+
+[[shopifyCollection 6821349163174 buttonDestination=modal]]
+
+## Pre order | 1 kg
+
+Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water?
 
 [[shopifyCollection 267300176038 buttonDestination=cart]]
 
-## 1 kg
+## Bekijk video (1min)
 
-Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water? Koop kilo zakken om voordeel op te doen.
-
-[[shopifyCollection 267300176038 buttonDestination=cart]]
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
