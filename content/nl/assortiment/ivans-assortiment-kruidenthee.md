@@ -65,3 +65,18 @@ Voor de enorme theedrinker die er gewoon géén genoeg van kan krijgen. Met extr
 ## Bekijk video (1min)
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
+
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
+
+* [Pre order](/nl/assortiment/pre-order)
+
+* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
+
+* [Supplementen](/nl/assortiment/ivans-assortiment-supplementen)
+
+* [Matcha](/nl/assortiment/ivans-assortiment-siberische-matcha)
+

@@ -30,3 +30,16 @@ Supplementen rechtstreeks uit de natuur in vegan capsules. Goed voor lichaam en 
 
 > De kruiden uit onze vegan capsules zijn bewezen effectief middels klinisch onderzoek. Met andere woorden, onze supplementen zijn veilig, doeltreffend en geproduceerd zonder complex chemisch proces.
 
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
+
+* [Pre order](/nl/assortiment/pre-order)
+
+* [Kruidenthee](/nl/assortiment/ivans-assortiment-siberische-kruidenthee)
+
+* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
+
+* [Matcha](/nl/assortiment/ivans-assortiment-siberische-matcha)

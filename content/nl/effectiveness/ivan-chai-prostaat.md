@@ -73,3 +73,13 @@ Al onze kruiden zijn geselecteerd volgens Eco7 Standaard.
 Door onze Eco7 Standaard te volgen zijn onze producten tevens:
 
 * Vrij van ontbossing
+
+### Artikelen
+
+Meer weten over de volgende onderwerpern?
+
+[Vergrote prostaat](/nl/artikel/groeien-tot-u-erbij-neervalt)
+
+[Prostaatontsteking](/nl/artikel/geen-touw-aan-vast-te-knopen)
+
+[Prostaatkanker](/nl/artikel/een-onopgemerkt-probleem)

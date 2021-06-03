@@ -49,3 +49,17 @@ Bekijk ons assortiment aan pre orders. Goed voor lichaam en geest. Gegarandeerd 
 ## Bekijk video (1min)
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
+
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
+
+* [Kruidenthee](/nl/assortiment/ivans-assortiment-siberische-kruidenthee)
+
+* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
+
+* [Supplementen](/nl/assortiment/ivans-assortiment-supplementen)
+
+* [Matcha](/nl/assortiment/ivans-assortiment-siberische-matcha)

@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
-title: Royaltea Giftset
-url: /nl/assortiment/royaltea-giftset
+title: Ivan's Giftsets
+url: /nl/assortiment/ivans-giftsets
 type: article
 category: Ivan Chai
 tags:
@@ -28,7 +28,21 @@ Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief mid
 
 [[shopifyCollection 268072419494 buttonDestination=modal]]
 
-> Maak uw keuze compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
+> Maak de bestelling compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
+
+## Pre order | Etherische oliën
+
+[[shopifyCollection 269467320486 buttonDestination=modal]]
+
+## Pre order | Supplementen
+
+[[shopifyCollection 269467386022 buttonDestination=modal]]
+
+## Pre order | Matcha
+
+[[shopifyCollection 269467484326 buttonDestination=modal]]
+
+> Maak de bestelling compleet met Ivan's Matcha Accessoires.
 
 ## Pre order | Upgrade
 
@@ -38,3 +52,16 @@ Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief mid
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
 
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Pre order](/nl/assortiment/pre-order)
+
+* [Kruidenthee](/nl/assortiment/ivans-assortiment-siberische-kruidenthee)
+
+* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
+
+* [Supplementen](/nl/assortiment/ivans-assortiment-supplementen)
+
+* [Matcha](/nl/assortiment/ivans-assortiment-siberische-matcha)

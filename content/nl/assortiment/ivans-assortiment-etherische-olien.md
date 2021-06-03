@@ -27,3 +27,17 @@ shopify:
 Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken. Bewezen effectief en vrij van dierenleed.
 
 [[shopifyCollection 226866954406 buttonDestination=modal]]
+
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
+
+* [Pre order](/nl/assortiment/pre-order)
+
+* [Kruidenthee](/nl/assortiment/ivans-assortiment-siberische-kruidenthee)
+
+* [Supplementen](/nl/assortiment/ivans-assortiment-supplementen)
+
+* [Matcha](/nl/assortiment/ivans-assortiment-siberische-matcha)
