@@ -29,13 +29,16 @@ shopify:
 ---
 [[shopifyCollection 269160775846 buttonDestination=modal]]
 
-### Wist je dat...
-stress zich niet alleen tussen de oren afspeelt?
+Laten we dit artikel eens beginnen met een twee-tal wistjedatjes...
 
-**Stress wordt geleid door jouw interne stress-systeem.** Dit systeem bestaat uit je centrale zenuwstelsel en het perifeer zenuwstelsel (het zenuwstelsel net buiten het centrale zenuwstelsel gelegen). In andere woorden, stress is voelbaar van top tot teen.
+### 1
+Wist je dat... stress zich niet alleen tussen de oren afspeelt?
 
-### Wist je tevens dat...
-stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel psychotische aandoeningen?
+**Stress wordt namelijk geleid door jouw interne stress-systeem.** Dit systeem bestaat uit je centrale zenuwstelsel en het perifeer zenuwstelsel (het zenuwstelsel net buiten het centrale zenuwstelsel gelegen). In andere woorden, stress is letterlijk voelbaar van top tot teen.
+
+### 2
+
+Wist je tevens dat... stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel psychotische aandoeningen?
 
 **We kennen allemaal het gevoel** dat je het maximale uit je dag wilt halen. Je hebt immers bergen met werk liggen en die deadlines naderen.
 
@@ -63,7 +66,11 @@ stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel p
 
 **Denk hierbij aan het nemen van meer rust.** Zoals een vakantie. Het leegmaken van je hoofd. Middels sport of een wandeling. En het uitbalanceren van je werk-privéleven zijn de eerste stappen naar een kalmere gemoedstoestand. Waar wij je op willen wijzen is het gebruik van veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
-**Denk aan Ivan Chai**.Een Siberische kruidenthee. De reden is als volgt. Hedendaags onderzoek heeft aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel.
+### 3
+
+Wist je dat... de Siberische kruidenthee Ivan Chai een kalmerende werking bevat wat effect heeft op het centrale zenuwstelsel?
+
+**Is dit bewezen effectief middel klinisch onderzoek?** Hedendaags onderzoek heeft aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel.
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. We garanderen je dat je beter in staat bent stress te voorkomen.
 
