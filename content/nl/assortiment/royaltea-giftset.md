@@ -42,8 +42,6 @@ Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief mid
 
 [[shopifyCollection 269467484326 buttonDestination=modal]]
 
-> Maak de bestelling compleet met Ivan's Matcha Accessoires.
-
 ## Pre order | Upgrade
 
 [[shopifyCollection 6732579930278 buttonDestination=modal]]

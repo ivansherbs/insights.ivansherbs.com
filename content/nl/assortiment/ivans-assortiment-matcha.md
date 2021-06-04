@@ -34,6 +34,10 @@ Maak uw keuze compleet met Ivan's Upgrade: Matcha accessoires...
 
 [[shopifyCollection 6821349163174 buttonDestination=modal]]
 
+## Pre order | Giftset
+
+[[shopifyCollection 269467484326 buttonDestination=modal]]
+
 ## Pre order | 1 kg
 
 Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water?

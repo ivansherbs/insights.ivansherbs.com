@@ -28,6 +28,10 @@ Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke proble
 
 [[shopifyCollection 226866954406 buttonDestination=modal]]
 
+## Pre order | Giftset
+
+[[shopifyCollection 269467320486 buttonDestination=modal]]
+
 ## Ivan's | Assortiment
 
 Benieuwd naar onze kruiden uit Siberië?
