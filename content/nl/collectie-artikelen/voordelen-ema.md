@@ -23,22 +23,24 @@ shopify:
   language: NL
 ---
 
+Ontdek meer over de klinisch bewezen voordelen van
+
 ### Artikelen
 
-* [Ivan Chai: Grootmoeders kennen de voordelen](/nl/articles/ivanchai/grootmoeders-kennen-de-voordelen)
+* [Ivan Chai: Ontdek 7 voordelen](/nl/articles/ivanchai/ontdek-7-voordelen/) door Ivan Alexandrovitsj
 
-* [Ivan Chai: Ontdek 7 voordelen](/nl/articles/ivanchai/ontdek-7-voordelen/)
+* [Ivan Chai: Grootmoeders kennen de voordelen](/nl/articles/ivanchai/grootmoeders-kennen-de-voordelen) door Ivanka Lopukhina
 
-* [Een onopgemerkt probleem](/nl/articles/prostaat/prostaatkanker/een-onopgemerkt-probleem/)
+* [Een onopgemerkt probleem](/nl/articles/prostaat/prostaatkanker/een-onopgemerkt-probleem/) door Ivan Alexandrovitsj
 
-* [Geen touw aan vast te knopen...](/nl/articles/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/)
+* [Geen touw aan vast te knopen...](/nl/articles/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/) door Ivan Alexandrovitsj
 
-* [Essentiële behoeften](/nl/articles/slijmbeursontsteking/essentiele-behoeften/)
+* [Essentiële behoeften](/nl/articles/slijmbeursontsteking/essentiele-behoeften/) door Ivan Alexandrovitsj
 
 ### EMA
 
-* [Last van een blaasontsteking?](/nl/effectiveness/ivan-chai-blaasontsteking/)
+* [Last van een blaasontsteking?](/nl/effectiveness/ivan-chai-blaasontsteking/) door Ivanka Lopukhina
 
-* [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/)
+* [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]

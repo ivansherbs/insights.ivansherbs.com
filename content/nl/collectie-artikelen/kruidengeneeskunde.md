@@ -24,14 +24,14 @@ shopify:
 ---
 ### Artikelen
 
-* [Kruiden uit Siberië als medicijnen zonder bijwerkingen](/nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen)
+* [Kruiden uit Siberië als medicijnen zonder bijwerkingen](/nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen) door Ivanka Lopukhina
 
-* [Moderne Kruidengeneeskunde](/nl/moderne-kruidengeneeskunde)
+* [Moderne Kruidengeneeskunde](/nl/moderne-kruidengeneeskunde) door Ivan Alexandrovitsj
 
-* [Kruiden als preventatieve behandeling](/nl/kruiden-als-preventatieve-behandeling)
+* [Kruiden als preventatieve behandeling](/nl/kruiden-als-preventatieve-behandeling) door Ivanka Lopukhina
 
-* [Veilig gebruik van kruiden](/nl/veilig-gebruik-van-kruiden)
+* [Veilig gebruik van kruiden](/nl/veilig-gebruik-van-kruiden) door Ivan Alexandrovitsj
 
-* [Kruidengeneeskunde als alledaags product](/nl/kruidengeneeskunde-als-alledaags-product)
+* [Kruidengeneeskunde als alledaags product](/nl/kruidengeneeskunde-als-alledaags-product) door Svetlana Petrova
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]
