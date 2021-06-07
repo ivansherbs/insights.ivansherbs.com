@@ -44,7 +44,7 @@ Kortom, Chazhaevka doet er alles aan om de natuurlijke evolutie die deze kruiden
 
 Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, hebben wij de **Eco7 Standaard** in het leven geroepen:
 
-[[contentfulImage 2jv9WqrhsH6aBkcLdoNvBu]]
+[[contentfulImage 1odkh3aKoDuuAcFaShilid]]
 
 Door onze **Eco7 Standaard** te volgen zijn onze producten tevens:
 - Vrij van ontbossing
