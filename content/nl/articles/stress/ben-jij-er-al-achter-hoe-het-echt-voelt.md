@@ -12,7 +12,7 @@ tags:
 - werk
 - gevoel
 meta:
-  description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Ontdek nu de inzichten. Leer omgaan met stress.
+  description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Benieuwd naar de inzichten?
   keywords: stress, cortisol, stress verminderen, stresshormoon, wat is stress, omgaan met stress
 fragments:
   header: nl/fragments/voordelen/5-1-vermindert-de-kans-op-stress
