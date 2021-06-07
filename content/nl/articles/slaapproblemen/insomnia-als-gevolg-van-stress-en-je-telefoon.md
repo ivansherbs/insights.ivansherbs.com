@@ -14,7 +14,7 @@ tags:
 - stress
 - werk
 meta:
-  description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. De slaapproblematiek is groter dan je denkt. Benieuwd naar de inzichten over slapeloosheid; ook wel insomnia?
+  description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. De slaapproblematiek is groter dan je denkt. Benieuwd naar de inzichten?
   keywords: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblematiek, slecht slapen, slaapstoornis, goede nachtrust, stress, telefoon, kinderen, werken, werk, sasha
 fragments:
   header: nl/fragments/voordelen/4-verbetert-de-nachtrust

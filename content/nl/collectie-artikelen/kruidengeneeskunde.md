@@ -1,0 +1,37 @@
+---
+layout: article_with_shopify.html
+title: Insights | Kruidengeneeskunde
+url: nl/kruidengeneeskunde
+type: article
+category: Ivan Chai
+tags:
+- kruidengeneeskunde
+meta:
+  description: Voorstanders aan het woord. De voor- en nadelen van kruiden ten opzichte van medicijnen uit de farmaceutische industrie op een rij. Zowel het gebruik als de bijwerkingen worden besproken. Benieuwd naar de inzichten?
+  keywords: kruiden, medicijnen, bijwerkingen,
+fragments:
+  header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
+  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
+banner:
+  image: 3Le11Z0jk9vTDMo8mcQzW0
+  effect: o-lg-60d-black
+contentful:
+  imageOptions:
+    fm: jpg
+    q: 50
+shopify:
+  language: NL
+---
+### Artikelen
+
+* [Kruiden uit Siberië als medicijnen zonder bijwerkingen](/nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen)
+
+* [Moderne Kruidengeneeskunde](/nl/moderne-kruidengeneeskunde)
+
+* [Kruiden als preventatieve behandeling](/nl/kruiden-als-preventatieve-behandeling)
+
+* [Veilig gebruik van kruiden](/nl/veilig-gebruik-van-kruiden)
+
+* [Kruidengeneeskunde als alledaags product](/nl/kruidengeneeskunde-als-alledaags-product)
+
+[[shopifyCollection 269339164838 buttonDestination=modal]]
