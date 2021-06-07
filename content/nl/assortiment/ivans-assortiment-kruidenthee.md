@@ -7,7 +7,7 @@ category: Ivan Chai
 tags:
 - assortiment
 meta:
-  description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit. Goed voor lichaam en geest. Wacht niet langer en bestel vandaag nog het product dat bij u past. Benieuwd naar de verschillende pakketten?
+  description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit. Goed voor lichaam en geest. Wacht niet langer en bestel vandaag nog kruidenthee. Benieuwd naar de verschillende pakketten?
   keywords: kruidenthee, assortiment, pakketten, pre order , collectie, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
   header:
