@@ -132,8 +132,8 @@ Er is echter één maar….
 
 Ik wil je even **waarschuwen** dat dit heel ongemakkelijk kan zijn wanneer mensen die je niet goed kent even meekijken. Maar echt heel ongemakkelijk.
 
-[**-->>KLIK HIER<<--**](#https://insights.ivansherbs.com/nl/articles/infecties//het-ontzichtbare-leger-vaginale-schimmelinfectie)
-
+[**-->>KLIK HIER<<--**](#https://insights.ivansherbs.com/nl/artikel/hoe-ziet-een-vaginale-schimmelinfectie-er-uit)
+<!--terug_en_lees_verder-->
 En...
 
 Tevreden?
