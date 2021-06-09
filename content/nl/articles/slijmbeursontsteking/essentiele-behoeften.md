@@ -8,8 +8,7 @@ publish:
   author: Ivanka Lopukhina
 tags:
 - ontsteking
-- 45+
-- ouderdom
+- gevoel
 meta:
   description: Bij een slijmbeursontsteking is niet alleen pijn, maar ook angst om te bewegen een allesbepalende factor. Benieuwd naar de inzichten?
   keywords: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspijn, gewricht, behoefte, slijmbeurs, slijmbeurzen, angst, pijn, bewegen

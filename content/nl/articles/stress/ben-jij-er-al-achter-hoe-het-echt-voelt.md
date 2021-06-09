@@ -56,11 +56,11 @@ Wist je tevens dat... stress een belangrijke bijdrage levert aan het ontwikkelen
 
 **Het omslagpunt is bereikt** want opeens heb je het door. Je komt tot het besef dat je aan het einde van de dag vaker hoofdpijn hebt. Je bent vaak moe maar kan niet slapen. En je hoofd kun je maar niet leegmaken. Het thuisfront en je omgeving krijgen tevens al tijden niet de nodige aandacht die het verdient. En na verloop van tijd herken je het gevoel.
 
-**Je komt tot de realisatie** dat je stijf staat van de cortisol. Het befaamde stresshormoon wat momenteel giert door je lichaam geeft aan dat je zwaar gespannen bent. Voordeel is dat je er nu eindelijk achter hoe stress écht voelt. Fijn he? Al dat werken. Waar veel mensen niet bij stilstaan is dat langdurige stress kan leiden tot nog heftigere problemen.
+**Je komt tot de realisatie** dat je stijf staat van de cortisol. Het befaamde stresshormoon wat momenteel door je lichaam heen giert geeft aan dat je zwaar gespannen bent. Voordeel is dat je er nu eindelijk achter hoe stress écht voelt. Fijn he? Al dat werken. Waar veel mensen niet bij stilstaan is dat langdurige stress kan leiden tot nog heftigere problemen...
 
-**Denk hierbij aan** angst en een burnout. Ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie kunnen de overhand nemen. De gevolgen van stress zijn echter niet te overzien. Simpelweg omdat je niet weet voor welke problemen je gevoelig bent.
+**Denk hierbij aan** angststoornissen en een burnout. Ook zwaardere mentale klachten zoals agressie, manie, psychose en een depressie kunnen de overhand nemen. De gevolgen van stress zijn echter niet te overzien. Simpelweg omdat je niet weet voor welke problemen je gevoelig bent.
 
-**Wanneer we kijken wat het met je lichaam doet** is tevens adrenaline in een overtollige hoeveelheid aanwezig. Door langdurige overbelasting van jouw interne stress-systeem kan dit leiden van haaruitval tot orgaanletsel.
+**Wanneer we kijken naar je lichaam** is adrenaline momenteel in een overtollige hoeveelheid aanwezig. Door langdurige overbelasting van jouw interne stress-systeem kan dit leiden to klachten als vermoeidheid of hoofdpijn, maar ook haaruitval of orgaanletsel.
 
 **Stel dat** je nog nooit veel stress hebt ervaren. Dan dien je antwoord te vinden op de vraag, wat is stress? Het is namelijk moeilijk om je te realiseren dat je last hebt van een overmatige hoeveelheid aan zowel cortisol als adrenaline. De eerste stap richting het aanpakken van stress, is het leren herkennen. Jezelf toegeven dat je er last van hebt en dat er het één en ander aan moet veranderen. Dit probleem kun je aanpakken door het veranderen van je levensstijl. Hierdoor leer je omgaan met stress.
 
