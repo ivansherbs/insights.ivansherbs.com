@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "Ivan's Herbs | Siberische Kruidenthee"
+title: Siberische Kruidenthee
 url: /nl/assortiment/taste-herbal-tea
 type: article
 category: Ivan Chai
@@ -22,6 +22,10 @@ contentful:
 shopify:
   language: NL
 ---
+### Meer info?
+
+De 5 smaken en voordelen op een rij...
+> Let op! Voor een volledig overzicht van de voordelen lees onze artikelen...
 
 [[contentfulImage MEn6GxkJ5DWJbkABGlw3R]]
 
@@ -37,7 +41,7 @@ shopify:
 
 [[contentfulImage 3G23K1fx0prQYAvfPlZMk5]]
 
-✔ Heerlijke smaak: Groene Ivan Chai heeft een licht aardse, grasachtige bitter zoete smaak. Wordt niet bitter. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
+✔ Heerlijke smaak: Groene Ivan Chai heeft een licht aardse, grasachtige bitter zoete smaak. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
 
 ✔ Verzorgt de prostaat en urinewegen: heeft u prostaatklachten? Of vaak last van een blaasontsteking? De voordelen zijn klinisch bewezen effectief. Bevestigd door het European Medicines Agency.
 
@@ -61,7 +65,7 @@ shopify:
 
 [[contentfulImage 6AamClT9lBatGjD3OFfDiH]]
 
-✔ Heerlijke smaak: Meadowsweet Chai heeft een zoete en bloemige smaak. Het doet denken aan traditionele zwarte thee. Wordt niet bitter. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
+✔ Heerlijke smaak: Meadowsweet Chai heeft een zoete en bloemige smaak. Wordt niet bitter. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
 
 ✔ Versnelt herstel & goed tegen verkoudheid: deze kruidenthee versterkt het afweersysteem. Het hoge vitamine C gehalte draagt bij aan versnelt herstel. Klinisch bewijs toont aan dat Meadowsweet Chai de symptomen van een verkoudheid helpt te verminderen.
 
@@ -73,7 +77,7 @@ shopify:
 
 [[contentfulImage 4Myqu325BwZGpM9hIEdofB]]
 
-✔ Heerlijke smaak: Ziziphora Chai heeft een muntachtig aroma. Het smaakt naar zwarte thee, maar is cafeïnevrij. Het is veilig voor kinderen om te drinken
+✔ Heerlijke smaak: Ziziphora Chai heeft een muntachtig aroma. Het smaakt lichtelijk naar zwarte thee, maar is cafeïnevrij. Het is veilig voor kinderen om te drinken
 
 ✔ Ontstekingsremmend: ondersteunt de algemene gezondheid bij ontstekingsproblemen.
 
