@@ -83,12 +83,22 @@ shopify:
 
 ✔ Krachtige werking: echter één kop maakt niet het verschil. Pas na verloop van tijd zijn de kruiden effectief. Ook als preventieve behandeling tegen problemen.
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
+###  Terug naar waar we waren gebleven?
 
-###  Terug naar waar we gebleven waren?
+[Jazeker, graag door naar de artikelen...](https://vc.ivansherbs.com/#articles_ivans_insights)
 
-[Ja, graag...](https://vc.ivansherbs.com/#products)
+Of kijk gerust nog even verder.
 
-Of kijk gerust nog even verder
+## Pre order | Tubes 50 gram
 
 [[shopifyCollection 269172474022 buttonDestination=modal]]
+
+## Pre order | Royaltea Giftset
+
+Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
+
+[[shopifyCollection 268072419494 buttonDestination=modal]]
+
+> Maak de bestelling compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
+
+[Door naar artikelen...](https://vc.ivansherbs.com/#articles_ivans_insights)
