@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
 title: Siberische Kruidenthee
-url: /nl/assortiment/taste-herbal-tea
+url: /nl/assortiment/5-heerlijke-smaken
 type: article
 category: Ivan Chai
 tags:
@@ -24,7 +24,7 @@ shopify:
 ---
 ### Meer info?
 
-De 5 smaken en voordelen op een rij...
+5 heerlijke smaken inclusief de voordelen op een rij.
 > Let op! Voor een volledig overzicht van de voordelen lees onze artikelen...
 
 [[contentfulImage MEn6GxkJ5DWJbkABGlw3R]]
