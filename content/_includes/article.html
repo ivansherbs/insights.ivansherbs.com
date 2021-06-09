@@ -134,8 +134,15 @@
                         <li class="nav-item">
                             <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#products">{% i18n 'products' language %}Products{% endi18n %}</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#collection_articles">{% i18n 'articles' language %}Articles{% endi18n %}</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Ivan's Insights
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/" target="_blank">Alle artikelen</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/#{{ tag | title_case: 'NL' }}" target="_blank">{{#{{ tag | title_case: 'NL' }}}}</a>
+                            </div>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
