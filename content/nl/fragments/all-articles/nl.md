@@ -1,8 +1,5 @@
 ><h2>Ivan's Insights</h2>
 >
->Lees hoe kruidengeneeskunde kan worden gebruikt als behandeling of ter preventie van fysieke dan wel mentale problemen. Benieuwd waar onze artikelen nog meer over gaan?
+>Lees hoe kruiden uit Siberië kunnen worden gebruikt als behandeling of ter preventie van fysieke dan wel mentale problemen. Benieuwd waar onze artikelen nog meer over gaan?
 
-Ivan Chai | Kruidengeneeskunde | Man | Vrouw | Voordelen EMA | Buikkrampen | Community Building | Eyeopener | Geschiedenis | Gevoel | Gezin | Infectie | Kinderen | Levensstijl | Medicijn | Mentale Klachten | Moeder | Nachtrust | Natuur | Ontsteking | Prostaat | Relatie | Sport | Stress | Urinewegen | Weerstand | Werk | Ziekten
-
-<!--- TODO this list should be generated automatically -->
-<!-- TODO question from SV: possible with link to categorie or page with article or some other special development trick (animation etc.) I do not know about? -->
+<h2>{{ tag | title_case: 'NL' }} | </h2>
