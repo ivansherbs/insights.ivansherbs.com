@@ -60,6 +60,12 @@ collection:
 $:
   EN: $
   NL: €
+history:
+  EN: History
+  NL: Geschiedenis
+more info?:
+  EN: More info?
+  NL: Meer info?
 
 #vc.ivansherbs.com
 best_sellers:
