@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
 title: "Het parabel van de Siberische kruidenthee: Ivan Chai"
-url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee
+url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee-ivan-chai
 type: geschiedenis
 category: Ivan Chai
 publish:
