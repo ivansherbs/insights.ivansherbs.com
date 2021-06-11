@@ -22,7 +22,7 @@ contentful:
 shopify:
   language: NL
 ---
-### Meer info?
+### Meer informatie?
 
 5 heerlijke smaken inclusief de voordelen op een rij.
 > Let op! Voor een volledig overzicht van de voordelen lees onze artikelen...

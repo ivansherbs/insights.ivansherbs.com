@@ -54,7 +54,7 @@ Vanwege het meer dan 30 jaar veelvuldig traditionele medicinale gebruik van epil
 
 Er zijn tot op heden geen ongewenste of ernstige bijwerkingen en sterfgevallen van Ivan Chai gemeld.
 
-> Ter info: Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
+> Ter informatie: Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
 
 ### Interacties
 

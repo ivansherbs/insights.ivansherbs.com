@@ -106,7 +106,7 @@ Zoals reeds beloofd, hierbij uw KORTINGSCODE:
 
 <p style="text-align: center"><b>ivans-herbs-kruidenthee</b></p>
 
-Ter info: uw kortingscode is geldig voor onze bestsellers
+Ter informatie: uw kortingscode is geldig voor onze bestsellers
 
 Bekijk ons ruime assortiment aan kruidentheeën uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
 

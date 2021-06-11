@@ -364,7 +364,7 @@ Goed om te weten. Mocht de samenwerking bevallen en er voor beide partijen een w
 
 https://www.paypro.nl/
 
-Ter info: mochten wij overstappen van platform, dan laten wij u dat zo spoedig mogelijk weten.
+Ter informatie: mochten wij overstappen van platform, dan laten wij u dat zo spoedig mogelijk weten.
 
 ### Heeft u bepaalde ideeën over het promoten van onze kruiden, maar heeft u meer materiaal nodig?
 

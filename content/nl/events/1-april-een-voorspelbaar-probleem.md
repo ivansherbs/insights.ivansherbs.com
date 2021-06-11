@@ -112,7 +112,7 @@ We noemen een aantal voorbeelden. Denk aan een ANTIBIOTICA kuur! Als GEVOLG van 
 
   - Door het gebruik van ANTIBIOTICA kan je darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een ANTIBIOTICA kuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geAssocieerde Diarree - AAD. AAD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van ANTIBIOTICA de patiënt acht weken na de kuur nog last had van diarree.
 
-Ter info.
+Ter informatie.
 
 ANTIBIOTICA gaat in Nederland al circa 4.000.000 keer over de toonbank voor alleen al ORAAL gebruik. Zo zijn er ook medicijnen die met name door **VROUWEN** worden gebruikt. Denk aan medicijnen als de morning-afterpil die erom bekend staan je HORMOONHUISHOUDING flink door de war te schoppen. Wat van invloed is op je SPIJSVERTERINGSSTELSEL.
 

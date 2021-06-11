@@ -183,7 +183,7 @@ Met relatieproblemen tot gevolg.
 
 Helemaal wanneer we dit vanuit holistisch perspectief combineren met de overige 6 punten wat van invloed is op jullie leven. De (tevens zeer verrassende) statistieken van deze oorzaken bespreken we wel een andere keer.
 
-Nog even ter info. Waar wij je bewust van willen maken is het volgende. De kans om een probleem als een blaasontsteking te verminderen is mogelijk met **veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek**.
+Nog even ter informatie. Waar wij je bewust van willen maken is het volgende. De kans om een probleem als een blaasontsteking te verminderen is mogelijk met **veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek**.
 
 Denk aan Ivan Chai. Een Siberische kruidenthee.
 
