@@ -14,7 +14,7 @@ tags:
 - buikkrampen
 meta:
   description: Wat hebben diarree, antibiotica en een blaasontsteking gemeen? Lees het nu in het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW.
-  keywords: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip, antibiotica, blaasontsteking
+  keywords: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip, antibiotica, blaasontsteking, anticonceptiepil, pil
 fragments:
   header: nl/fragments/voordelen/7-verzorgt-het-spijsverteringsstelsel
   footer: nl/fragments/faq/buikgriep
@@ -48,7 +48,7 @@ Nee. GELUKKIG heb ik dit keer eens een ander probleem. Voor de verandering. Gewo
 
 Heel fijn allemaal. Dit keer komt het denk ik door de ANTIBIOTICA KUUR. Want ja.
 
-Ik heb WEER een BLAASONTSTEKING. Voor de tweede keer dit jaar.
+Ik heb WEDEROM een BLAASONTSTEKING. Voor de tweede keer dit jaar.
 
 Dus nu slik ik nog meer pillen uit de FARMACEUTISCHE INDUSTRIE. Alweer. Want een NATUURLIJKE en niet-chemische OPLOSSING heb ik nog niet gevonden.
 
@@ -66,19 +66,19 @@ GAD-VER-DAMME. Wat een putlucht.
 
 Wat ik dus denk is dat ik door de ANTIBIOTICA mijn IMMUUNSYSTEEM aan het verzwakken ben. Ik heb dus gelezen dat je daar dus hard van aan de DIARREE kan gaan.
 
-Dus ja. En hier bovenop. Ben ik nu ook nog eens mijn hormoonhuishouding flink DOOR DE WAR aan het schudden.
+Dus ja. En hier bovenop. Ben ik nu ook nog eens mijn hormoonhuishouding flink IN DE WAR aan het schudden.
 
 Door de ANTICONCEPTIEPIL. Juist ja.
 
-Zul je net zien. Mijn HORMOON-HUISHOUDING. Doe even normaal. Konden ze er nou niet even een gewoon woord voor vinden?
+Zul je net zien. Mijn HORMOON-HUISHOUDING. Doe even normaal. Konden ze er nou niet even een ander woord voor bedenken?
 
-Ik heb dus geen zin om te stoppen met de anticonceptiepil. Maar ook wil ik geen condooms gebruiken.
+Ik heb dus geen zin om te stoppen met de anticonceptiepil. Maar ook wil ik géén condooms gebruiken.
 
 Wat een gedoe. Wat ik dus merk is dat ik nu dus extra vaak last heb van mijn buik.
 
 Hierdoor heb ik dus BUIKKRAMPEN. En door de ANTIBIOTICA komt het er extra vaak uitzetten.
 
-Het is gewoon VERSCHRIKKELIJK. Je zou het ook wel een KLEIN DRAMA noemen.
+Het is gewoon VERSCHRIKKELIJK. Je zou het ook wel een KLEIN DRAMA kunnen noemen.
 
 Hier wil ik dus vanaf. Maar ik heb GEEN IDEE hoe. En of ik er makkelijk vanaf kan komen.
 
@@ -114,7 +114,7 @@ We noemen een aantal voorbeelden. Denk aan een ANTIBIOTICA kuur! Als GEVOLG van 
 
 Ter informatie.
 
-ANTIBIOTICA gaat in Nederland al circa 4.000.000 keer over de toonbank voor alleen al ORAAL gebruik. Zo zijn er ook medicijnen die met name door **VROUWEN** worden gebruikt. Denk aan medicijnen als de morning-afterpil die erom bekend staan je HORMOONHUISHOUDING flink door de war te schoppen. Wat van invloed is op je SPIJSVERTERINGSSTELSEL.
+ANTIBIOTICA gaat in Nederland al circa 4.000.000 keer over de toonbank voor alleen al ORAAL gebruik. Zo zijn er ook medicijnen die met name door **VROUWEN** worden gebruikt. Denk aan medicijnen als de morning-afterpil die erom bekend staan je HORMOONHUISHOUDING flink in de war te schoppen. Wat van invloed is op je SPIJSVERTERINGSSTELSEL.
 
 **TIP 2.**
 
