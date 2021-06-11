@@ -8,7 +8,7 @@ meta:
   description: Wij geloven in het aanbieden van producten met krachtige impact de gezondheid, algehele gemoedstoestand en die in beperkte mate van invloed zijn op het milieu. Benieuwd waar wij voor staan?
   keywords: gezondheid, ivan chai, kruiden, kruidengeneeskunde, medicijn, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7-standaard
 banner:
-  image: dHv3y8bswcOt6ZJUmSh6N
+  image: 57KkMz6CFpWl4n3NHYm72M
 contentful:
   imageOptions:
     fm: png
