@@ -22,6 +22,11 @@ contentful:
 shopify:
   language: NL
 ---
+
+Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen schatten. Lees en ontdek de voor- en nadelen.
+
+Benieuwd naar onze inzichten?
+
 ### Artikelen
 
 * [Kruiden uit Siberië als medicijnen zonder bijwerkingen](/nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen) door Ivanka Lopukhina

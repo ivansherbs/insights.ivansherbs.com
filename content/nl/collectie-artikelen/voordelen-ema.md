@@ -23,7 +23,17 @@ shopify:
   language: NL
 ---
 
-Ontdek meer over de klinisch bewezen voordelen van
+Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA).
+
+Benieuwd naar onze inzichten?
+
+### EMA
+
+* [Last van een blaasontsteking?](/nl/effectiveness/ivan-chai-blaasontsteking/) door Ivanka Lopukhina
+
+* [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
+
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 ### Artikelen
 
@@ -36,11 +46,3 @@ Ontdek meer over de klinisch bewezen voordelen van
 * [Geen touw aan vast te knopen...](/nl/articles/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/) door Ivan Alexandrovitsj
 
 * [Essentiële behoeften](/nl/articles/slijmbeursontsteking/essentiele-behoeften/) door Ivan Alexandrovitsj
-
-### EMA
-
-* [Last van een blaasontsteking?](/nl/effectiveness/ivan-chai-blaasontsteking/) door Ivanka Lopukhina
-
-* [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
-
-[[shopifyCollection 269339164838 buttonDestination=modal]]

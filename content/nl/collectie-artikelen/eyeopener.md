@@ -23,6 +23,10 @@ shopify:
   language: NL
 ---
 
+Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt. Ook op jongere leeftijd kunnen dagelijkse bezigheden ernstig worden verstoord.
+
+Benieuwd naar onze inzichten?
+
 ### Artikelen
 
 * [De oorsprong van Ivan Chai](/nl/articles/ivanchai/de-oorsprong-van-ivan-chai/) door Sasha Popov
