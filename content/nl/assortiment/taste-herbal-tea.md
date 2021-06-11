@@ -24,7 +24,9 @@ shopify:
 ---
 ### Meer informatie?
 
-5 heerlijke smaken inclusief de voordelen op een rij.
+Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Meerdere voordelen zijn bewezen effectief middels klinisch onderzoek. Bevestigd door het European Medicies Agency (EMA).
+
+Benieuwd naar de 5 heerlijke smaken inclusief de voordelen?
 > Let op! Voor een volledig overzicht van de voordelen lees onze artikelen...
 
 [[contentfulImage MEn6GxkJ5DWJbkABGlw3R]]
