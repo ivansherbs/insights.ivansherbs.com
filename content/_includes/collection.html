@@ -86,7 +86,7 @@
             margin: 1.5em 0;
         }
         .single-blog-page .blog-box .blog-details h2 {
-            font-size: 1.5em;
+            font-size: 1.5em; style="font-family:monad;
         }
         .single-blog-page .blog-box .blog-details h3 {
             font-size: 1.2em;
@@ -231,6 +231,8 @@
                                 </li>
                                 <li>
                                     <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-matcha" target="_blank">{% i18n 'matcha' language %}Matcha{% endi18n %}</a>
+                                    <br>
+                                    <br>
                                 </li>
                             <h6>{% i18n 'over' language %}About{% endi18n %}</h6>
                                 <li>
@@ -240,10 +242,7 @@
                                     <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/identity/over-de-eco7-standaard/" target="_blank">Eco7</a>
                                 </li>
                                     <br>
-                                    <br>
-                                <li>
-                                    <a href="#top"><i>{% i18n 'back to top' language %}Back to top{% endi18n %}</i></a>
-                                </li>
+                                <br>
                             </div>
                         </div>
                     </div>
@@ -260,7 +259,7 @@
                                 <li>
                                     <a target="_blank" href="https://www.pinterest.ch/ivansherbs">Pinterest</a>
                                 </li>
-                            </ul>
+                            </ul><br><br>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-12">
@@ -278,7 +277,10 @@
                                     <a href="mailto:hello@ivansherbs.com"></a>hello@ivansherbs.com</a>
                                         <img src="{{ env.RESOURCE_BASE_URL }}/assets/img/email.png" class="si si-email" style="height: 30px">
                                 </li>
-                            </ul>
+                            </ul><br><br>
+                            <li>
+                                <a href="#top"><i>{% i18n 'back to top' language %}Back to top{% endi18n %}</i></a>
+                            </li>
                         </div>
                     </div>
                 </div>

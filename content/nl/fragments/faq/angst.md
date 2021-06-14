@@ -2,16 +2,16 @@
 
 [[toc]]
 
-### Wat is de definitie van angst?
+## Wat is de definitie van angst?
 
 Om je nu op een andere manier naar de definitie van onze dikke Van Dale te laten kijken.
 Hierbij nogmaals de omschrijving van angst.
 
-Angst (de; m; meervoud: angsten) 
+Angst (de; m; meervoud: angsten)
 
 1. gevoel van beklemming, vrees, onveiligheid of onzekerheid: iets met angst en beven tegemoet zien er erg tegenop zien, het vrezen; hij stond duizend angsten uit; in angst zitten
 
-### Hoe ontstaat een gevoel van angst?
+## Hoe ontstaat een gevoel van angst?
 
 Angst kan een gevolg zijn van meerdere factoren. Hieronder enkele voorbeelden:
 * Verleden
@@ -22,11 +22,11 @@ Angst kan een gevolg zijn van meerdere factoren. Hieronder enkele voorbeelden:
 * Toekomst
   - **Bangmakerij** - je bent bang door verhalen uit je omgeving. Een simpel voorbeeld kan zijn vliegangst. En niet een vliegtuig in durven stappen.
 
-### Is angst in Nederland een zorgwekkend probleem?
+## Is angst in Nederland een zorgwekkend probleem?
 
 Jaarlijks gaan er ruim 450.000 mensen onder behandeling bij een huisarts voor een angststoornis. Naar schatting heeft 20% van de bevolking te maken gehad met angststoornissen.
 
-### Zijn er omstandigheden die het gevoel activeren?
+## Zijn er omstandigheden die het gevoel activeren?
 
 Er is onderzoek gedaan door verschillende psychiaters. Die zijn tot de conclusie gekomen dat angst kan worden versterkt door een toenemende mate van:
 * controle door het management
@@ -37,8 +37,8 @@ Stress werkt als een katalysator op angst. Helemaal dan, worden waarden als vert
 
 > Verschillende onafhankelijke instituten beweren dat angst één van de minst handelbare emoties is. En is hiermee één van de meest voorkomende aandoeningen in de psychiatrie. Simpel gezegd, zie je dit probleem meestal niet aankomen.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
-**Ivan Chai vermindert de kans op angst**. 
+**Ivan Chai vermindert de kans op angst**.
 
 Ivan Chai heeft een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek ondersteund deze kalmerende werking. De kalmerende werking heeft namelijk effect op je centrale zenuwstelsel.

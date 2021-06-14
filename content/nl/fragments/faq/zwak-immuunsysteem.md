@@ -2,7 +2,7 @@
 
 [[toc]]
 
-### Wat is een immuunsysteem?
+## Wat is een immuunsysteem?
 
 Simpel gezegd is het immuunsysteem het verdedigingsmechanisme van je lichaam. Het beschermt je tegen ziekten en problemen.
 
@@ -16,7 +16,7 @@ In andere woorden, een sterk immuunsysteem beperkt de mate van kwetsbaarheid. Di
 
 Je kunt witte bloedcellen vergelijken met een leger wat een land beschermt. Hoe groter en zwaar bewapender het leger is. Hoe meer kans je maakt je land te verdedigen.
 
-### Wanneer spreek je van een zwak immuunsysteem?
+## Wanneer spreek je van een zwak immuunsysteem?
 
 We spreken van een zwak immuunsysteem wanneer je lichaam kwetsbaar is voor indringers.
 Er zijn verschillende symptomen die in combinatie kunnen wijzen op een zwak immuunsysteem:
@@ -30,7 +30,7 @@ Er zijn verschillende symptomen die in combinatie kunnen wijzen op een zwak immu
 * Je bent gevoelig voor spierpijn
 * Je hebt last van een slechte spijsvertering
 
-### Wanneer krijg je last van een zwak immuunsysteem?
+## Wanneer krijg je last van een zwak immuunsysteem?
 
 * Kort samengevat, bij een tekort aan witte bloedcellen. Witte bloedcellen beschermen het lichaam en vallen indringers aan.
 
@@ -40,7 +40,7 @@ Enkele voorbeelden waardoor een tekort kan ontstaan:
   - **Farmaceutische medicijnen**, zoals antibiotica kunnen als ongewenste bijwerking hebben dat er een tekort aan witte bloedcellen ontstaat.
   - **Slecht werkende darmen**. Een slechte opname van voedingsstoffen leidt tot een zwak immuunsysteem.
 
-### Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
+## Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
 
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
@@ -48,7 +48,7 @@ Het kan zijn dat door gebruik van medicijnen ook je weerstand vermindert. Hierdo
 
 Zo zijn er tal van ongewenste bijwerkingen.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
 **Ivan Chai versterkt de weerstand**
 

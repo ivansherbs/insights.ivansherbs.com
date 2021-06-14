@@ -2,7 +2,7 @@
 
 [[toc]]
 
- ### Wat is een luchtweginfectie?
+ ## Wat is een luchtweginfectie?
 
 Men verstaat onder een luchtweginfectie een ontsteking van het slijmvlies in de luchtwegen. Dit komt je waarschijnlijk bekend voor. Maar dan als een verkoudheid of griep.
 
@@ -12,18 +12,18 @@ De agressieve variant van verkoudheid, noemen we ook wel griep.
 
 > Ter informatie: de afgelopen jaren heeft het niveau ziekteverzuim door zware verkoudheid en griep epidemieën nog nooit zo hoog gelegen.
 
-### Wanneer krijg je last van een luchtweginfectie?
+## Wanneer krijg je last van een luchtweginfectie?
 
 Vaak tijdens de wintermaanden. Het immuunsysteem heeft moeite om zich te verdedigen tegen ziektekiemen.
 
-### Wat vergroot de kans op een luchtweginfecties?
+## Wat vergroot de kans op een luchtweginfecties?
 
 Er zijn verschillende oorzaken die de kans vergroten. Eén van die oorzaken is het gebruik van:
 * farmaceutische medicijnen
 
 Deze medicijnen kunnen van grote invloed zijn op je gevoeligheid voor verkoudheid en griep.
 
-### Welke medicijnen zijn van invloed op een verkoudheid of griep?
+## Welke medicijnen zijn van invloed op een verkoudheid of griep?
 
 Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 * Antibiotica
@@ -32,13 +32,13 @@ Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 
 Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
-### Welk effect heeft het gebruik van medicijnen op luchtweginfecties?
+## Welk effect heeft het gebruik van medicijnen op luchtweginfecties?
 
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
 Het kan zijn dat door gebruik van medicijnen ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
-### Waardoor vergroot ik de kans op een luchtweginfectie?
+## Waardoor vergroot ik de kans op een luchtweginfectie?
 
 Er zijn verschillende risicofactoren die de kans op een luchtweginfectie vergroten. Wederom enkele voorbeelden:
 
@@ -52,7 +52,7 @@ Er zijn verschillende risicofactoren die de kans op een luchtweginfectie vergrot
 
 * Ziekten. Mensen met diabetes zijn extra gevoelig voor luchtweginfecties.
 
-### Over pseudokroep
+## Over pseudokroep
 
 Tot slot belichten we graag nog even kort pseudokroep voor de ouders onder ons. Pseudokroep is een ziekte voor kinderen van ongeveer 1-6 jaar oud. Als ouder is het goed om te weten dat 35% van de patiënten pseudokroep krijgt in de periode oktober tot en met december. Pseudokroep is op dezelfde manier overdraagbaar als covid-19.
 
@@ -66,7 +66,7 @@ Goed om te weten. Ivan Chai heeft een kalmerende werking op je centrale zenuwste
 
 Dit vermindert bij mensen de kans op stress, angst en een burn-out. Of het ook goed werkt tegen huilende kinderen is nog geen onderzoek over bekend.
 
-### Tips voor het drinken van Ivan Chai met kinderen
+## Tips voor het drinken van Ivan Chai met kinderen
 
 Het drinken van Ivan Chai van de ene op de andere dag kan als heftig worden ervaren door je kind. We hebben de volgende tips om ervoor te zorgen dat je kind na verloop van tijd Ivan Chai drinkt.
 
@@ -78,7 +78,7 @@ Uiteraard voor het versterken van de weerstand.
 * Drink de Ivan Chai zonder suiker. En zo puur mogelijk.
 * Tot slot, neem de tijd.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
 **Ivan Chai versterkt de weerstand**
 
