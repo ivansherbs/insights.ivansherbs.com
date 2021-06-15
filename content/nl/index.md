@@ -1,6 +1,6 @@
 ---
 layout: index.html
-title: Alle artikelen
+title: "Insights | Alle artikelen"
 url: /nl/alle-artikelen
 meta:
   description: Ivan's Insights - een online magazine om alledaagse problemen (fysiek dan wel mentaal) bespreekbaar te maken. Benieuwd naar de inzichten?
