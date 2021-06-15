@@ -63,10 +63,10 @@ $:
 history:
   EN: History
   NL: Geschiedenis
-more information?:
+more_information_question:
   EN: More information?
   NL: Meer informatie?
-the origin of...:
+the_origin_of:
   EN: The origin of...
   NL: De oorsprong van...
 discover:
@@ -75,7 +75,7 @@ discover:
 over:
   EN: About
   NL: Over
-back to top:
+back_to_top:
   EN: Back to top
   NL: Terug naar boven
 
