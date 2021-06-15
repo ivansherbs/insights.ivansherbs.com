@@ -37,9 +37,9 @@ De meest bekende voorbeelden zijn uw haar en nagels. Maar ook niet zichtbare org
 
 **Tot u erbij neervalt.**
 
-We hebben het over uw prostaat. Wanneer uw prostaat lekker blijft doorgroeien kan dit een problemen opleveren. Echter zijn niet alle problemen slecht voor uw lichaam. We beschouwen een vergrote prostaat dan ook als een goedaardige aandoening.
+We hebben het over uw prostaat. Wanneer uw prostaat lekker blijft doorgroeien kan dit voor problemen zorgen. Echter zijn niet alle problemen slecht voor uw lichaam. We beschouwen een vergrote prostaat dan ook als een goedaardige aandoening.
 
-Met goedaardig bedoelen we dat ze het lichaam géén schade aan doen. Maar wel als vervelend kunnen worden ervaren.
+Met goedaardig bedoelen we dat ze het lichaam géén schade toebrengen. Maar wel als vervelend kunnen worden ervaren.
 
 Komt u dit bekent voor?
 
