@@ -20,7 +20,7 @@ contentful:
     fm: jpg
     q: 50
 ---
-Om het milieu te beschermen is de Eco7 Standaard in het leven geroepen. Benieuwd hoe deze standaard tot stand is gekomen?
+Voor een beter milieu in een schonere wereld. Benieuwd hoe onze Eco7 Standaard tot stand is gekomen?
 
 ### Community building
 
@@ -42,7 +42,7 @@ Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in 
 
 Kortom, Chazhaevka doet er alles aan om de natuurlijke evolutie die deze kruiden heeft gevormd niet in de weg te staan.
 
-Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, hebben wij de **Eco7 Standaard** in het leven geroepen:
+Om de omgeving te beschermen en de kwaliteit te waarborgen van onze producten, hebben wij de **Eco7 Standaard** in het leven geroepen:
 
 [[contentfulImage 1odkh3aKoDuuAcFaShilid]]
 
