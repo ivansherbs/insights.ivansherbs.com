@@ -75,27 +75,25 @@ Uiteraard liggen de verhoudingen van dit fenomeen wel ietsje complexer.
 
 * Hiernaast kunnen **organisationele doelstellingen** voorrang verkrijgen boven persoonlijke motieven. Om maar niet te diep in te gaan op verschillende management vormen, komt dit met name voor in op **winst-gedreven organisaties** met een traditionele ‘**top-down**’ benadering. Het nadeel van organisaties met deze denkwijze is dat werknemers hun **empathisch vermogen** met de organisatie waar zij voor werken **kwijt raken**. Met andere woorden, je krijgt het gevoel dat je **een nummertje bent**. Je mag blij zijn hier een bijdrage aan te leveren. **Dus hou je mond maar gewoon**. Door tegenspreken van organisationele doelstellingen kun je je ongemakkelijk gaan voelen. Er kunnen immers een hoop reacties volgen... Wanneer je in opstand komt, **doe je dit niet liever alleen**.
 
-* Rationele beslissing kunnen het onderspit delven wanneer er sprake is van **sociale druk**. Hierbij drukt een **peergroup** (lees: het management en de langst zittende werknemers) meestal bewust druk uit op een kleinere groep óf een bepaald persoon om het gedrag te veranderen. **Hiërarchie en groepsvorming** spelen naast de normen en gedragingen van de dominante groep een belangrijke rol. Zowel in positieve als negatieve zin. En kan de **vrijheid** (lees: verantwoordelijkheid) van de niet-dominante groepsleden **op eenvoudige wijze worden ingeperkt**. Reageren hierop door niet-dominante groepsleden heeft geen zin. **Er wordt toch niet geluisterd**. Wanneer je toch besluit hierop te reageren kan je vrijheid nóg meer worden afgenomen. Of in sommige gevallen komt **de baanzekerheid** op het spel te staan. Je bent daarom voor het gemak maar overal mee akkoord. Angst kan hierdoor vanuit organisationeel perspectief dagelijks bewust worden gebruikt als **controlemechanisme**.
+* Rationele beslissing kunnen het onderspit delven wanneer er sprake is van **sociale druk**. Hierbij drukt een **peergroup** (lees: het management en de langst zittende werknemers) meestal bewust druk uit op een kleinere groep óf een bepaald persoon om het gedrag te veranderen. **Hiërarchie en groepsvorming** spelen naast de normen en gedragingen van de dominante groep een belangrijke rol. Zowel in positieve als negatieve zin. En kan de **vrijheid** (lees: verantwoordelijkheid) van de niet-dominante groepsleden **op eenvoudige wijze worden ingeperkt**. Reageren hierop door niet-dominante groepsleden heeft geen zin. **Er wordt toch niet naar geluisterd**. Wanneer je toch besluit hierop te reageren kan je vrijheid nóg meer worden afgenomen. Of in sommige gevallen komt **de baanzekerheid** op het spel te staan. Je bent daarom voor het gemak maar overal mee akkoord. Angst kan hierdoor vanuit organisationeel perspectief dagelijks bewust worden gebruikt als **controlemechanisme**.
 
-Leuk he deze inzichten over lichtere vormen van angst?
+Leuk hè... bovenstaande inzichten over lichtere vormen van angst?
 
-Bovenstaande voorbeelden spelen zich met name af in het bedrijfsleven.
+Uiteraard spelen deze voorbeelden zich met name af in het bedrijfsleven.
 
 [[contentfulImage 73j1hBFJlm3IocmdEjXkIk]]
 
-**Angst is een emotie van alle leeftijden.**
+**Angst is namelijk een emotie van alle leeftijden.**
 
-Zo zijn er tal van vergelijkbare situaties en voorbeelden op te noemen buiten werk om. Denk aan angst om ergens voor het eerst aan mee te doen. Kinderen die vriendjes moeten maken. Of voor het eerst aan een teamsport meedoen en het spel niet snappen. Geef nou maar gewoon toe.
-
-**Ook jij had hier last van.**
+Zo zijn er tal van vergelijkbare situaties en voorbeelden op te noemen buiten werk om. Denk aan angst om ergens voor het eerst aan mee te doen. Denk aan kinderen die vriendjes moeten maken. Of denk aan ouderen die voor het eerst een teamsport meedoen en het spel niet snappen.
 
 Het klinkt inderdaad allemaal vrij extreem, maar dit zijn voorbeelden van angst op dagelijkse basis. En laten we het nog maar een keer herhalen. Deze lichtere vormen van angst zijn in de meeste gevallen **makkelijk te verbergen**.
 
+Om de statistieken er maar even bij te pakken. Naar schatting heeft 20% van de bevolking te maken gehad met een angststoornis.
+
 Laten we nu we bezig zijn nog maar een paar voorbeelden doornemen.
 
-Naast sociale angst bestaat bijvoorbeeld **faalangst**.
-
-Tevens een vorm van angst op dagelijkse basis.
+Naast sociale angst bestaat bijvoorbeeld **faalangst**. Tevens een vorm van angst op dagelijkse basis.
 
 **Denk aan die ene keer in een overvolle collegezaal.** Waarbij de docent onverwacht een complexe vraag stelde en je vroeg om een uitvoerig betoog. Uiteraard was je goed voorbereid. En gelukkig kon je op basis van kennis de discussie volledig aangaan zonder een gevoel te hebben onzin uit te kramen. Om vervolgens met eer en geweten weer plaats te mogen nemen. Waarbij je het gevoel hebt overgehouden iedereen de les te hebt gelezen.
 

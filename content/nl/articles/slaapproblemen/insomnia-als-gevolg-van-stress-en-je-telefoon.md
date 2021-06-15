@@ -111,7 +111,7 @@ Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook 
 
 **Let op!** Uiteraard zorgt een combinatie van tips en behandelingen voor het verbeteren van je nachtrust.
 
-**Zo ben je waarschijnlijk bekend met** het niet op een scherm kijken een half uur voor je gaat slapen, géén alcohol, géén cafeïne na 5 uur, zorgen voor voldoende sporten maar niet vlak voor je het bed instapt, een boek lezen, yoga, mindfulness en meditatie. En ga zo maar door.
+**Zo ben je waarschijnlijk bekend met** het niet op een scherm kijken een half uur voor je gaat slapen, géén alcohol, géén cafeïne na 5 uur, voldoende sporten maar niet vlak voor je het bed instapt, een boek lezen, yoga, mindfulness, meditatie en ga zo maar door...
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. Wij garanderen je dat je beter in staat bent slaapproblemen te voorkomen.
 
