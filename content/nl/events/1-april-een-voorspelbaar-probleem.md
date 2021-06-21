@@ -8,6 +8,7 @@ publish:
   author: Svetlana Petrova
   date: 1 april
 tags:
+- 1 april
 - vrouw
 - levensstijl
 - eyeopener
@@ -17,9 +18,9 @@ meta:
   keywords: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip, antibiotica, blaasontsteking, anticonceptiepil, pil
 fragments:
   header: nl/fragments/voordelen/7-verzorgt-het-spijsverteringsstelsel
-  footer: nl/fragments/faq/buikgriep
+  footer: nl/fragments/faq/buikgriep-1april
 banner:
-  image: flSdkxTJqPovxqWtadqVj
+  image: 1nfAvnnzSws9N22V5gRbLz
   effect: o-lg-60d-black
 contentful:
   imageOptions:
@@ -100,7 +101,7 @@ We geven je bij deze wat houvast mee zodat ook jij in de TOEKOMST kunt kijken. H
 
 Dit doen we in de vorm van 3 tips.
 
-[[contentfulImage 3n1lRS8tUtxm1sGkKYMkDz]]
+[[contentfulImage 3zAhsuj1I4yhg0AGOclr4A]]
 
 **TIP 1.**
 
@@ -110,7 +111,7 @@ Vooral vrouwen raden we aan onderstaande tip helemaal te lezen. Hierbij vermelde
 
 We noemen een aantal voorbeelden. Denk aan een ANTIBIOTICA kuur! Als GEVOLG van bijvoorbeeld een BLAASONTSTEKING.
 
-  - Door het gebruik van ANTIBIOTICA kan je darmflora uit balans raken. Volgens verschillende onderzoeken blijkt 5% - 39% van de patiënten die een ANTIBIOTICA kuur volgenden diarree ontwikkelden. In medische termen noemen we dit ook wel Antibioticum geAssocieerde Diarree - AAD. AAD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van ANTIBIOTICA de patiënt acht weken na de kuur nog last had van diarree.
+  - Door het gebruik van ANTIBIOTICA kan je darmflora uit balans raken. Volgens verschillende onderzoeken krijgt 5% - 39% van de patiënten die een ANTIBIOTICA kuur volgenden diarree. In medische termen noemen we dit ook wel Antibiotica geAssocieerde Diarree - AAD. AAD kan twee tot drie weken na de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van ANTIBIOTICA de patiënt acht weken na de kuur nog last had van diarree.
 
 Ter informatie.
 

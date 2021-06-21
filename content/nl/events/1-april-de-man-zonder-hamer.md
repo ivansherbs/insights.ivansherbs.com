@@ -8,6 +8,7 @@ publish:
   author: Ivan Alexandrovitsj
   date: 1 april
 tags:
+- 1 april
 - ontsteking
 - levensstijl
 - eyeopener

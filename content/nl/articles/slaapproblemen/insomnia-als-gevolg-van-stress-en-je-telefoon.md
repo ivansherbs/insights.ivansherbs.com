@@ -5,7 +5,7 @@ url: /nl/artikel/insomnia-als-gevolg-van-stress-en-je-telefoon
 type: article
 category: slaapproblemen
 publish:
-  author: Sasha Popov
+  author: Anna Guseva
 tags:
 - eyeopener
 - gevoel

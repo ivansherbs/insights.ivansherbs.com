@@ -6,7 +6,7 @@
 
 Buikgriep is de verzamelnaam voor alle klachten die worden veroorzaakt door een ontsteking van het slijmvlies in het maag-darmstelsel.
 
-Medicijnen uit de farmaceutische industrie zoals antibiotica zijn van invloed op het krijgen van buikgriep. Dit komt omdat de krachtige werking van het medicijn bijvoorbeeld je weerstand aantast.
+Medicijnen uit de farmaceutische industrie zoals antibiotica zijn van invloed op het krijgen van buikgriep. Dit komt omdat de krachtige werking van het medicijn bijvoorbeeld je weerstand aantast. Of je hormoonhuishouding in de war schopt.
 
 Wanneer dit gebeurt kunnen ongewenste onzichtbare indringers makkelijker hun gang gaan. Deze ontsteking wordt in de meeste gevallen veroorzaakt door een virus. En zo nu en dan door ongewenste bacteriën. Nu we weten waardoor je last krijgt van buikgriep, laten we het probleem beter leren begrijpen. En dit problemen opdelen in maag-, en darmklachten.
 
@@ -28,6 +28,10 @@ De meest voorkomende vorm van darmklachten is het prikkelbare darm syndroom:
 > 75% van de patiënten is vrouw.
 
 Onderzoek heeft aangetoond dat stress, een gebrek aan vezels, vocht, beweging of een onregelmatig leven behoren tot de oorzaken die leiden tot darmklachten.
+
+Nu even KORT nog het volgende VERHAAL...
+
+> Er zijn verschillende soorten DIARREE. Op even een opsomming te maken hebben we acute-, langdurige- en de zeer befaamde reizigersDIARREE. Wanneer je last kunt krijgen van deze verschillende soorten DIARREE is geheel afhankelijk van de situatie waar je jezelf op dat moment in begeeft. Meestal wordt acute DIARREE veroorzaakt door een bacterie of parasiet. Wanneer we kijken naar een langdurige DIARREE zijn medicijnen uit de farmaceutische industrie meestal van invloed op je spijsverteringsstelsel. Bij de beroemde (en zeer gevreesde) reizigersDIARREE is besmet voedsel, wat dus uiteindelijk is veroorzaakt door een virus of bacterie, meestal de oorzaak. Ook kan dit komen door vervuild water en hoeft voedsel niet altijd de hoofdoorzaak te zijn. We geven je dus ook graag de tip mee om gedestilleerd water te kopen in een fles of flesje. En niet zomaar uit de kraan te drinken. Want dat is in het buitenland meestal niet gefilterd. Wanneer dit niet door beide is veroorzaakt. Kan het ook zijn dat je je eigen handen niet goed hebt gewassen en hiermee in je mond hebt gezeten. Door dit bijvoorbeeld te doen na het aanraken van dieren. Zoals zwerfhonden en katten die je veelal in het buitenland tegenkomt. Wat gelukkig wel overeenkomstig is aan al deze soorten DIARREE, om verwarring te voorkomen, is de vorm van de ontlasting. DIARREE wordt gekenmerkt door een toename in volume, waterigheid of frequentie van de daad. Met daad bedoelen we de stoelgang. De structuur van deze ontlasting is kort en bondig te omschrijven als los en waterig. Waarbij de patiënt over het algemeen moeite heeft deze vorm van ontlasting binnen te houden. Dit is te verklaren door het volgende. Ontlasting bestaat over het algemeen voor 60 tot 90 procent uit water. Bij een overmatige hoeveelheid aan DIARREE is dit percentage hoger dan wel 90 procent! Wanneer de buikgriep vermindert zal dit percentage, en hiermee ook de vorm van de ontlasting, langzamerhand weer zijn oude vertrouwde vorm aannemen.
 
 ## Is er ook wel eens sprake van chronische darmklachten?
 
