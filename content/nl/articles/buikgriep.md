@@ -11,8 +11,8 @@ tags:
 - eyeopener
 - buikkrampen
 meta:
-  description:
-  keywords: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, buikkrampen, anna, de jong, blaasontsteking, overgeven, kotsen,
+  description: Het meest kenmerkende van buikgriep is dat men last krijgt van diarree. Benieuwd naar de inzichten?
+  keywords: buikgriep, diarree, prikkelbaar_darm_syndroom, maagpijn, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, buikkrampen, anna, de_jong, blaasontsteking, overgeven, kotsen,
 fragments:
   header: nl/fragments/voordelen/7-verzorgt-het-spijsverteringsstelsel
   footer: nl/fragments/faq/buikgriep
