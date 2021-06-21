@@ -28,13 +28,10 @@ Ons sociaal en verantwoordelijk gedrag richt zich op de volgende drie punten.
 
 De producten van Ivan's Herbs komen rechtstreeks uit de natuur, hebben krachtige impact op de gezondheid, algehele gemoedstoestand en zijn bewezen effectief middels klinisch onderzoek.
 
-Onze toevoerlijn van kruiden zijn een alternatief of aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie
 
-De farmaceutische industrie wordt getypeerd door een opeenvolging van mislukkingen al zoekende naar een wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering.
+Onze toevoerlijn van kruiden zijn een alternatief of aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie De farmaceutische industrie wordt getypeerd door een opeenvolging van mislukkingen al zoekende naar een wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering.
 
-Deze genormaliseerde manier van werken dient daarom vergezeld te worden door een eenvoudig tegengeluid.
-
-Dit doen wij door het aanbieden van kruiden uit Siberië.
+Deze genormaliseerde manier van werken dient daarom vergezeld te worden door een eenvoudig tegengeluid. Dit doen wij door het aanbieden van kruiden uit Siberië.
 
 Goed voor lichaam en geest...
 
@@ -42,9 +39,10 @@ Goed voor lichaam en geest...
 
 ### Informeren
 
-Informeren over kruiden uit Siberië als oplossing voor fysieke dan wel mentale problemen staat bij ons hoog in het vaandel.
+Informeren over kruiden uit Siberië als oplossing voor fysieke dan wel mentale problemen staat bij ons hoog in het vaandel. Dit streven wij na door het schrijven van artikelen over lichaam en geest.
 
-Dit streven wij na door het schrijven van artikelen over lichaam en geest. Met andere woorden, de voor- en nadelen van kruidengeneeskunde wordt besproken, de bewezen voordelen worden belicht of ontdek wat kruidengeeskunde kan betekenen in het dagelijks leven.
+Met andere woorden, de voor- en nadelen van kruidengeneeskunde worden besproken, de bewezen voordelen van onze kruiden worden belicht of ontdek wat kruidengeeskunde kan betekenen in het dagelijks leven.
+Goed voor lichaam en geest...
 
 Benieuwd naar onze inzichten?
 
