@@ -36,4 +36,4 @@ Dit begint met stress in combinatie met:
 
 ## Waarom Ivan Chai?
 
-Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
+Ivan Chai zit boordevol tannine. Tannine zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
