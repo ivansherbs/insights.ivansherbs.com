@@ -119,7 +119,7 @@ Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurs
 
 ## Waarom Ivan Chai?
 
-* Ivan Chai zit boordevol tannine. Tannine zijn verantwoordelijk voor de werking van antioxidanten.
+* Ivan Chai zit boordevol tannines. Tannines zijn verantwoordelijk voor de werking van antioxidanten.
 
 Antioxidanten hebben een positieve werking op uw hart- en vaatstelsel.
 

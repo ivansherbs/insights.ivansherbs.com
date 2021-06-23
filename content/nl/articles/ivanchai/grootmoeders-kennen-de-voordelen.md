@@ -75,7 +75,7 @@ Een alerte oma heeft dit altijd al geweten. Het preventief behandelen van ontste
 
 Oma is misschien minder bekend met het woord “'antioxidant”. Laat staan van het woord ‘polyfenol’. Om maar even wat medische termen te gebruiken.
 
-Ivan Chai zit boordevol tannine, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten.
+Ivan Chai zit boordevol tannines, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten.
 
 Wellicht overbodig te melden. Oma wist uiteraard wel dat door het drinken van Ivan Chai, ieders hart hierdoor beter bleef kloppen.
 
