@@ -6,9 +6,9 @@
 
 Buikgriep is de verzamelnaam voor alle klachten die worden veroorzaakt door een ontsteking van het slijmvlies in het maag-darmstelsel.
 
-Medicijnen uit de farmaceutische industrie zoals antibiotica zijn van invloed op het krijgen van buikgriep. Dit komt omdat de krachtige werking van het medicijn bijvoorbeeld je weerstand aantast. Of je hormoonhuishouding in de war schopt.
+Buikgriep wordt met name veroorzaakt door virussen, twee in het bijzonder. Het Noravirus wat wereldwijd de grootste boosdoener is van buikgriep. En niet te vergeten het Rotavirus, waar met name kleine kinderen last van hebben.
 
-Wanneer dit gebeurt kunnen ongewenste onzichtbare indringers makkelijker hun gang gaan. Deze ontsteking wordt in de meeste gevallen veroorzaakt door een virus. En zo nu en dan door ongewenste bacteriën. Nu we weten waardoor je last krijgt van buikgriep, laten we het probleem beter leren begrijpen. En dit problemen opdelen in maag-, en darmklachten.
+Medicijnen uit de farmaceutische industrie zoals antibiotica zijn van invloed op het krijgen van buikgriep. Dit komt omdat de krachtige werking van de antibiotica je weerstand aantast. Antibiotica dood meer dan alleen de 'slechte' bacteriën op weg naar de uitgang. Dit gebeurt met name in ons spijsverteringsstelsel waardoor je weertand wordt aangetast. Door het dalen van de weerstand kunnen bacteriën infecties veroorzaken.
 
 ## Wat zijn maagklachten?
 
