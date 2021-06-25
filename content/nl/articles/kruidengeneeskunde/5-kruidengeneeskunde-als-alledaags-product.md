@@ -41,7 +41,7 @@ Na een behandeling met medicijnen uit de farmaceutische industrie kunnen de pati
 
 ### Voorbeelden?
 
-De Siberische kruidenthee Ivan Chai bevat een kalmerende werking op de algehele gemoedstoestand. Goed tegen angst en stress, waarbij het hoge vitamine C gehalte de weerstand versterkt. Vergeet niet het verzorgen van het spijsverteringsstelsel als voordeel om maag- en darmklachten tegen te gaan. Laat staan de antioxiderede werking goed tegen hart- en vaatziekten. Hiernaast bevatten deze kruiden uit Siberië meerdere voordelen; goed voor lichaam en geest, waar we in dit artikel niet dieper op ingaan.
+De Siberische kruidenthee Ivan Chai bevat een kalmerende werking op de algehele gemoedstoestand. Goed tegen angst en stress, waarbij het hoge vitamine C gehalte de weerstand versterkt. Vergeet niet het verzorgen van het spijsverteringsstelsel als voordeel om maag- en darmklachten tegen te gaan. Laat staan de antioxiderende werking goed tegen hart- en vaatziekten. Hiernaast bevatten deze kruiden uit Siberië meerdere voordelen; goed voor lichaam en geest, waar we in dit artikel niet dieper op ingaan.
 
 Goed om nog even te belichten is het feit dat de hedendaagse geneeskunde de belangstelling voor natuurlijke producten met meer dan 5000 jaar geschiedenis niet aan de kant heeft geschoven vanwege de nog steeds heersende 'onnauwkeurigheid'. Er wordt juist ruimte gegeven aan de consument voor eigen interpretatie en ervaring met de desbetreffende producten. De patiënt wordt de mogelijkheid geboden een product te kiezen om gezondheidsproblemen naar eigen inziens te verminderen.
 

@@ -16,7 +16,7 @@ meta:
   description: Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. Benieuwd naar de inzichten?
   keywords: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoelens, vaatziekten
 fragments:
-  header: nl/fragments/voordelen/3-versterkt-de-antioxiderede-werking
+  header: nl/fragments/voordelen/3-versterkt-de-antioxiderende-werking
   footer: nl/fragments/faq/hart-en-vaatziekten
 banner:
   image: 2gVNGIp4yhtESqHRBqRuAs

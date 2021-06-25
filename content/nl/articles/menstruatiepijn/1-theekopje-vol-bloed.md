@@ -128,7 +128,7 @@ Hier is niets mis mee. Je menstruatiebloed heeft simpelweg meer tijd gehad om te
 
 Waarom Ivan Chai?
 
-Nu we het toch hebben over zuurstof in je bloed. Ivan Chai versterkt de antioxiderede werking. Hierdoor versoepelt de doorvoer van zuurstof in jouw lichaam.
+Nu we het toch hebben over zuurstof in je bloed. Ivan Chai versterkt de antioxiderende werking. Hierdoor versoepelt de doorvoer van zuurstof in jouw lichaam.
 
 ( En even buiten de baarmoeder om. Deze werking is tevens effectief tegen hart- en vaatziekten. Ontdek deze voordelen in een ander artikel dat we hebben geschreven: “Je hart als bakermat van liefde”)
 

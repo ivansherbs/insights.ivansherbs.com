@@ -1,4 +1,4 @@
-><h2>Antioxiderede werking</h2>
+><h2>Antioxiderende werking</h2>
 >
 >"Ivan Chai zit boordevol tannines. Tannines zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op het hart- en vaatstelsel."
 >
