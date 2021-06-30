@@ -18,5 +18,5 @@ contentful:
 
 [[shopifyCollection 269172474022 buttonDestination=modal]]
 
-### Referentie afbeelding:
-[Diarree_in_toilet](https://commons.wikimedia.org/wiki/File:Selles_anormales.jpg
+### Bron afbeelding:
+[het kleinste kamertje in huis](https://commons.wikimedia.org/wiki/File:Selles_anormales.jpg

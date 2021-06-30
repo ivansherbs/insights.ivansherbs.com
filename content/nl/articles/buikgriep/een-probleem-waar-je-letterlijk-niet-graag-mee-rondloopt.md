@@ -37,7 +37,7 @@ in Nederland jaarlijks ongeveer **4,5 miljoen** mensen last krijgen van buikgrie
 
 Een keertje ontzettend hard aan de racekak is dus eigenlijk een heel normaal verschijnsel... je hoeft je dan ook nergens voor te schamen. Toch loop je er niet graag mee rond.
 
-Wellicht overbodig om te vermelden is dat bij een goede sessie (van jezelf of een ander) de eventuele bacteriën en virussen rijkelijk [in het kleinste kamertje van het huis](/nl/hidden/diarree) aanwezig zullen zijn. <!--terug_en_lees_verder_diarree-->
+Wellicht overbodig om te vermelden is dat bij een goede sessie (van jezelf of een ander) de eventuele bacteriën en virussen rijkelijk in [het kleinste kamertje in huis](/nl/hidden/diarree) aanwezig zullen zijn. <!--terug_en_lees_verder_diarree-->
 
 ### Wist je dat…
 je de kans op buikgriep op eenvoudige wijze kunt verminderen?
