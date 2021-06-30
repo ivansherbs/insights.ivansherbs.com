@@ -9,10 +9,6 @@ publish:
   date: 1 april
 tags:
 - 1 april
-- vrouw
-- levensstijl
-- eyeopener
-- buikkrampen
 meta:
   description: Wat hebben diarree, antibiotica en een blaasontsteking gemeen? Lees het nu in het DAGBOEK van een zeer EMOTIONELE, ONTDANE en ONZEKERE VROUW.
   keywords: buikgriep, diarree, prikkelbaar darm syndroom, maagpijn, prikkelbare darm syndroom, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, dagboek, vrouw, tip, antibiotica, blaasontsteking, anticonceptiepil, pil
