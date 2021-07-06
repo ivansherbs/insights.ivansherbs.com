@@ -12,7 +12,8 @@ tags:
 meta:
   description: Lees nu het interview van Ivan Alexandrovitsj. “Een gezondere levensstijl vereist een holistische benadering.”, vertelt Ivan Alexandrovitsj.
   keywords: interview, top, holisme, holistisch, ivan chai, kruiden, kruidengeneeskunde, expeditie, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, alledaags product, geneeskrachtige werking
-banner: 59lblQYjVQRKlu7gzerhQX
+banner:
+  image: 1s5nEo0bdx4TKlGzeAQlJM
 contentful:
   imageOptions:
     fm: jpg

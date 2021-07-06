@@ -5,7 +5,6 @@ url: /nl/assortiment/5-heerlijke-smaken
 type: article
 category: Ivan Chai
 tags:
-- assortiment
 fragments:
   header: nl/fragments/voordelen/taste-herbal-tea
   footer:

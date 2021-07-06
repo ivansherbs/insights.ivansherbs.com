@@ -7,12 +7,6 @@ category: vaginale schimmelinfectie
 publish:
   author: Svetlana Petrova
 tags:
-- weerstand
-- vrouw
-- infectie
-- gevoel
-- relatie
-- eyeopener
 meta:
   description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd hoe een vaginale schimmelinfectie eruit ziet?
   keywords: schimmelinfectie, vaginale schimmelinfectie, Candida vaginalis

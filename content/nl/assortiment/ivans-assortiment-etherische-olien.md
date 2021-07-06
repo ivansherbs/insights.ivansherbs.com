@@ -5,7 +5,6 @@ url: /nl/assortiment/ivans-assortiment-etherische-olien
 type: article
 category: etherische oliën
 tags:
-- assortiment
 meta:
   description: Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken en kan overal mee naar toe worden genomen...
   keywords: etherische oliën, etherische olien, assortiment, pre order , 10ml, dierenleed, aromadiffuser

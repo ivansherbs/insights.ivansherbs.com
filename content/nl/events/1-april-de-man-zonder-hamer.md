@@ -8,7 +8,6 @@ publish:
   author: Ivan Alexandrovitsj
   date: 1 april
 tags:
-- 1 april
 meta:
   description: Hou jij ook van een paar glazen alcohol? Allemaal op één avond? Lees dan even heel snel de brief van Ivan over overmatig alcohol gebruik.
   keywords: keelontsteking, keelontsteking symptomen, keelpijn bij slikken, symptomen keelontsteking, ontstoken keel, droge keel, alcohol, droge mond en keel

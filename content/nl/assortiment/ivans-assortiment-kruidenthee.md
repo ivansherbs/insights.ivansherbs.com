@@ -5,7 +5,6 @@ url: /nl/assortiment/ivans-assortiment-siberische-kruidenthee
 type: article
 category: Ivan Chai
 tags:
-- assortiment
 meta:
   description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit. Goed voor lichaam en geest. Wacht niet langer en bestel vandaag nog kruidenthee. Benieuwd naar de verschillende pakketten?
   keywords: kruidenthee, assortiment, pakketten, pre order , collectie, favorieten, kilobags, inzichten, geschenkdoos

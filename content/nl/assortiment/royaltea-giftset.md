@@ -5,7 +5,6 @@ url: /nl/assortiment/ivans-giftsets
 type: article
 category: Ivan Chai
 tags:
-- assortiment
 meta:
   description: Op zoek naar een mooie geschenkset? Wij bieden de mogelijkheid pakketten te upgraden met een theezeef, beker en duurzame draagtas van 100% katoen.
   keywords: kruidenthee, assortiment, pre order , favorieten, kilobags, inzichten, geschenkdoos, cadeau, katoen, draagtas, beker, theezeef
