@@ -7,7 +7,7 @@ category: Ivan Chai
 publish:
   author:
 tags:
-- Collectie
+- collectie
 meta:
   description: Voorstanders aan het woord. De voor- en nadelen van kruiden ten opzichte van medicijnen uit de farmaceutische industrie op een rij. Zowel het gebruik als de bijwerkingen worden besproken. Benieuwd naar de inzichten?
   keywords: kruiden, medicijnen, bijwerkingen,

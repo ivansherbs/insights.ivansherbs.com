@@ -7,7 +7,7 @@ category: Ivan Chai
 publish:
   author:
 tags:
-- Collectie
+- collectie
 meta:
   description: Kruiden rechtstreeks uit de natuur bewezen effectief middels klinisch onderzoek. Vanwege grootschalig langdurige onderzoek tevens bevestigd door het EMA. De resultaten liegen er niet om... Benieuwd naar de inzichten?
   keywords: kruiden, EMA, kruidengeneeskunde, voordelen

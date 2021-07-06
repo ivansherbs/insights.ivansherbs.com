@@ -1,5 +1,5 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Angst als controlemechanisme
 url: /nl/artikel/angst-als-controlemechanisme
 type: article

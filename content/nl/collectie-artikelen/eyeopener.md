@@ -7,7 +7,7 @@ category: Ivan Chai
 publish:
   author:
 tags:
-- Collectie
+- collectie
 meta:
   description: Verbreed uw horizon en ontdek wat kruidengeneeskunde kan betekenen in het dagelijks leven. Veilig en effectief op langere termijn en tevens vrij van dierenleed en chemicaliën. Benieuwd naar de inzichten?
   keywords: kruiden, EMA, kruidengeneeskunde, voordelen
