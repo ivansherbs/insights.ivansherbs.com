@@ -211,106 +211,179 @@
     <!-- End Blog Page Section -->
 
     <!-- Start Footer -->
-    <footer class="padding-100 pb-0">
-        <div class="footer-widgets">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <div class="widget">
-                            <h6>Ivan's</h6>
-                            <ul>
-                                <li>
-                                    <a href="https://insights.ivansherbs.com/nl/over/manifest">Manifest</a>
-                                </li>
-                                <li>
-                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-siberische-kruidenthee" target="_blank">{% i18n 'whole_herbs' language %}Whole herbs{% endi18n %}</a>
-                                </li>
-                                <li>
-                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-etherische-olien" target="_blank">{% i18n 'essential_oils' language %}Essential oils{% endi18n %}</a>
-                                </li>
-                                <li>
-                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-supplementen" target="_blank">{% i18n 'supplements' language %}Supplements{% endi18n %}</a>
-                                </li>
-                                <li>
-                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-matcha" target="_blank">{% i18n 'matcha' language %}Matcha{% endi18n %}</a>
-                                    <br>
-                                    <br>
-                                </li>
-                            <h6>{% i18n 'over' language %}About{% endi18n %}</h6>
-                                <li>
-                                    <a href="https://insights.ivansherbs.com/nl/over/over-ivans-herbs" target="_blank">Ivan's Herbs</a>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/identity/over-de-eco7-standaard/" target="_blank">Eco7</a>
-                                </li>
-                                    <br>
-                                <br>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <div class="widget">
-                            <h6>Social Media</h6>
-                            <ul>
-                                <li>
-                                    <a target="_blank" href="https://www.facebook.com/ivansherbs">Facebook</a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="https://www.instagram.com/ivansherbs">Instagram</a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="https://www.pinterest.ch/ivansherbs">Pinterest</a>
-                                </li>
-                            </ul><br><br>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <div class="widget">
-                            <h6>Contact</h6>
-                            <ul>
-                                <li>
-                                    <span>WhatsApp:</span>
-                                    <a href="https://wa.me/+31686339615/?text=Hi, I'd like to discover Ivan Chai " target="_blank">
-                                        <img src="{{ env.RESOURCE_BASE_URL }}/assets/img/whatsapp.png" class="si si-whatsapp" style="height: 30px">
-                                    </a>
-                                </li>
-                                <li>
-                                    <span>Email:</span>
-                                    <a href="mailto:hello@ivansherbs.com"></a>hello@ivansherbs.com</a>
-                                        <img src="{{ env.RESOURCE_BASE_URL }}/assets/img/email.png" class="si si-email" style="height: 30px">
-                                </li>
-                            </ul><br><br>
-                            <li>
-                                <a href="#top"><i>{% i18n 'back_to_top' language %}Back to top{% endi18n %}</i></a>
-                            </li>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="space-50"></div>
-        <div class="copyright">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-md-4">
-                        <p>All rights reserved © <a href="#">Ivan's Herbs</a>, VOF 2021</p> <p>Korte Noorderweg 27G <br> 1221 NA Hilversum <br> hello@ivansherbs.com</p>
-                        <p> KvK: 75553155 </p>
-                    </div>
-                    <div class="offset-md-4 col-md-4">
-                        <ul class="nav justify-content-end">
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Terms and Conditions</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Privacy Policy</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- End Footer -->
+    <footer class="padding-200 pb-0">
+        <div class="subscribe">
+           <div class="container">
+               <div class="container">
+                   <div class="row">
+                       <div class="text-center col-12 section-title" data-aos="fade-zoom-in">
+                           <section id="email" class="main-features padding-50">
+                           <p><font color="white"><big>Nieuwsbrief & exclusieve aanbiedingen?</big></font></p>
+                       </div>
+                   </div>
+               </div>
+               <form class="subscribe-form row m-0 align-items-center">
+                   <div class="col-lg-9 col-md-8">
+                       <div class="form-group mb-0">
+                           <input type="text" class="form-control" placeholder="Voer e-mail adres in">
+                       </div>
+                   </div>
+                   <div class="col-lg-3 col-md-4">
+                       <a href="#"
+                           class="btn btn-primary shadow d-block btn-colord btn-theme"><span>aanmelden</span></a>
+                   </div>
+               </form>
+           </div>
+       </div>
+       <div class="space-50"></div>
+       <div class="footer-widgets">
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-4 col-md-6 col-12">
+                       <div class="widget">
+                           <h6>Ivan's</h6>
+                           <ul>
+                               <li>
+                                   <a target="_blank" href="https://insights.ivansherbs.com/nl/faq">FAQ</a>
+                               </li>
+                               <li>
+                                   <a target="_blank" href="https://insights.ivansherbs.com/nl/over/manifest">Manifest</a>
+                               </li>
+                               <li>
+                                   <a target="_blank" href="https://vc.ivansherbs.com/#voordelen_ivan_chai">Kruidenthee</a>
+                               </li>
+                               <li>
+                                   <a target="_blank" href="https://vc.ivansherbs.com/#tubes_value_packs">Tubes & Value packs</a>
+                               </li>
+                               <li>
+                                   <a target="_blank" href="https://vc.ivansherbs.com/#artikelen_ivans_insights">Artikelen</a>
+                               </li>
+                               <br><br>
+                               <div class="widget">
+                                   <h6>Duurzaam & Milieuvriendelijk</h6>
+                                   <li>
+                                       <a target="_blank" href="https://vc.ivansherbs.com/#eco7"><img src="assets/img/eco7_label_footer.jpg" style="height: 77px"></a>
+                                       <span style="display:inline-block; width: 15px;"></span>
+                                       <a target="_blank" href="https://vc.ivansherbs.com/#eco7"><img src="assets/img/flaticon-certificate-green-earth_free_from_deforestation.png" style="height: 77px"></a>
+                                       <span style="display:inline-block; width: 15px;"></span>
+                                       <a target="_blank" href="https://vc.ivansherbs.com/#eco7"><img src="assets/img/Chazhaevkalogo.png" style="height: 77px"></a>
+                                   </li>
+                                   <br><br>
+                               </div>
+                           </ul>
+                       </div>
+                   </div>
+                   <div class="col-lg-4 col-md-6 col-12">
+                       <div class="widget">
+                           <h6>Social Media</h6>
+                           <ul>
+                               <li>
+                                   <a target="_blank" href="https://www.instagram.com/nl.ivansherbs/"><img src="assets/img/instagram.png" class="si si-whatsapp" style="height: 30px"></a>
+                               </li>
+                               <li>
+                                   <a target="_blank" href="https://www.facebook.com/Ivans-Herbs-Nederland-107874424576138"><img src="assets/img/facebook.png" class="si si-whatsapp" style="height: 27px"></a>
+                               </li>
+                               <li>
+                                   <a target="_blank" href="https://nl.pinterest.com/ivansherbs/_shop/"><img src="assets/img/pinterest.png" class="si si-whatsapp" style="height: 30px"></a>
+                               </li>
+                               <br><br>
+                           </ul>
+                       </div>
+                   </div>
+                   <div class="col-lg-4 col-md-6 col-12">
+                       <div class="widget">
+                           <h6>Contact?</h6>
+                           <ul>
+                               <li>
+                                   <a href="https://wa.me/+31686339615/?text=Hi, I'd like to discover Ivan Chai..." target="_blank">
+                                       <img src="assets/img/whatsapp.png" class="si si-whatsapp" style="height: 30px">
+                                   </a>
+                               </li>
+                               <li>
+                                   <a href="mailto:hello@ivansherbs.com" target="_blank">
+                                   <img src="assets/img/email.png" class="si si-email" style="height: 30px">
+                               </li>
+                               <li><br><br>
+                                   <a class="nav-link anchor"href="#top"><i><u>Terug naar boven</i></u></a>
+                                   <br><br>
+                               </li>
+                           </ul>
+                       </div>
+                   </div>
+                   <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                   <div class="widget" class="col-lg-6 col-md-6 col-sm-6 col-12">
+                       <h6>Onze websites (binnenkort live...)</h6>
+                       <p>Europa:</p>
+                           <a target="_blank" href="https://ivansherbs.com/nl-nl"><img src="assets/img/flag-netherlands.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/nl-be"><img src="assets/img/flag-belgium-flanders.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/fr-be"><img src="assets/img/flag-belgium-wallonia.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/de-de"><img src="assets/img/flag-germany.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/de-lu"><img src="assets/img/flag-luxembourg.png" style="height: 50px"></a>
+                   <div class="space-25"></div>
+                           <a target="_blank" href="https://ivansherbs.com/pt"><img src="assets/img/flag-portugal.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/es"><img src="assets/img/flag-spain.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/fr-fr"><img src="assets/img/flag-france.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/it"><img src="assets/img/flag-italy.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/de-ch"><img src="assets/img/flag-switzerland.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                   <div class="space-25"></div>
+                       <p>Groot-Brittannië:</p>
+                           <a target="_blank" href="https://ivansherbs.com/en-gb"><img src="assets/img/flag-united-kingdom.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/ga"><img src="assets/img/flag-ireland.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                   <div class="space-25"></div>
+                       <p>Noord-Amerika:</p>
+                       <a target="_blank" href="https://eivansherbs.com/en-ca"><img src="assets/img/flag-canada.png" style="height: 50px"></a>
+                           <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           <a target="_blank" href="https://ivansherbs.com/en-us"><img src="assets/img/flag-united-states.png" style="height: 50px"></a>
+                               <span style="display:inline-block; width: 15px; height: 25px;"></span>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="space-25"></div>
+                   <!-- Start GTranslate-->
+                   <script type="text/javascript">
+                   /* <![CDATA[ */
+                   function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.hostname.split('.')[0];if(plang.length !=2 && plang.toLowerCase() != 'zh-cn' && plang.toLowerCase() != 'zh-tw')plang='nl';location.href=location.protocol+'//'+(lang == 'nl' ? '' : lang+'.')+location.hostname.replace('www.', '').replace(RegExp('^' + plang + '\\.'), '')+location.pathname+location.search;}
+                   /* ]]> */
+                   </script>
+                   <!-- End GTranslate-->
+                   </div>
+               </div>
+           </div>
+       </div>
+       <div class="space-50"></div>
+       <div class="copyright">
+           <div class="container">
+               <div class="row align-items-center">
+                   <div class="col-md-4">
+                       <p>All rights reserved © <a href="#">Ivan's Herbs, VOF 2021</a></p> <p>Korte Noorderweg 27G <br> 1221 NA Hilversum <br> hello@ivansherbs.com</p>
+                       <p> KvK: 75553155 </p>
+                   </div>
+                   <div class="offset-md-4 col-md-4">
+                       <ul class="nav justify-content-end">
+                           <li class="nav-item">
+                               <a class="nav-link" href="http://insights.ivansherbs.com/nl/over/legal/gebruiksvoorwaarden">Terms and Conditions</a>
+                           </li>
+                           <li class="nav-item">
+                               <a class="nav-link" href="http://insights.ivansherbs.com/nl/over/legal/privacykennisgeving">Privacy Policy</a>
+                           </li>
+                       </ul>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </footer>
+   <!-- End Footer -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="{{ env.RESOURCE_BASE_URL }}/assets/js/jquery-3.3.1.min.js"></script>
