@@ -344,7 +344,7 @@ _“Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceut
 
 ### Mocht u benieuwd zijn naar de oorsprong van Ivan Chai en waarom deze kruidensoort de familienaam 'Fireweed' heeft gekrgen?
 
-https://insights.ivansherbs.com/nl/articles/ivanchai/de-oorsprong-van-ivan-chai
+https://insights.ivansherbs.com/nl/artikel/ivanchai/de-oorsprong-van-ivan-chai
 
 ### Benieuwd naar de commissiestructuur?
 

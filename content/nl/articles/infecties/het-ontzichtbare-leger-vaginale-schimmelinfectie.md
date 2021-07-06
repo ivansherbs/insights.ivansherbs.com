@@ -31,6 +31,6 @@ shopify:
 
 [[contentfulImage 7k9GOsapQIoxmq3Uf1dBN4]]
 
-[**-->>Terug naar het artikel<<--**](#https://insights.ivansherbs.com/nl/articles/infecties/het-ontzichtbare-leger-vaginale-schimmelinfectie#terug_en_lees_verder)
+[**-->>Terug naar het artikel<<--**](#https://insights.ivansherbs.com/nl/artikel/infecties/het-ontzichtbare-leger-vaginale-schimmelinfectie#terug_en_lees_verder)
 
 [[shopifyCollection 269172474022 buttonDestination=modal]]

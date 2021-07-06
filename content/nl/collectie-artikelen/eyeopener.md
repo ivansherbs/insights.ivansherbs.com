@@ -29,21 +29,21 @@ Benieuwd naar onze inzichten?
 
 ### Artikelen
 
-* [De oorsprong van Ivan Chai](/nl/articles/ivanchai/de-oorsprong-van-ivan-chai/) door Sasha Popov
+* [De oorsprong van Ivan Chai](/nl/artikel/ivanchai/de-oorsprong-van-ivan-chai/) door Sasha Popov
 
-* [Een onopgemerkt probleem](/nl/articles/prostaat/prostaatkanker/een-onopgemerkt-probleem/) door Ivan Alexandrovitsj
+* [Een onopgemerkt probleem](/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/) door Ivan Alexandrovitsj
 
-* [Runners high versus Ontstoken pees](/nl/articles/peesontsteking/runners-high-versus-ontstoken-pees) door Sasha Popov
+* [Runners high versus Ontstoken pees](/nl/artikel/peesontsteking/runners-high-versus-ontstoken-pees) door Sasha Popov
 
-* [Angst als controlemechanisme](/nl/articles/angst/angst-als-controlemechanisme/) door Svetlana Petrova
+* [Angst als controlemechanisme](/nl/artikel/angst/angst-als-controlemechanisme/) door Svetlana Petrova
 
-* [Uw hart als bakermat van liefde](/nl/articles/hart-en-vaatziekten/uw-hart-als-bakermat-van-liefde/) door Ivanka Lopukhina
+* [Uw hart als bakermat van liefde](/nl/artikel/hart-en-vaatziekten/uw-hart-als-bakermat-van-liefde/) door Ivanka Lopukhina
 
-* [Opladen is géén optie](/nl/articles/burnout/opladen-is-geen-optie/) door Svetlana Petrova
+* [Opladen is géén optie](/nl/artikel/burnout/opladen-is-geen-optie/) door Svetlana Petrova
 
-* [Insomnia als gevolg van stress en je telefoon](/nl/articles/slaapproblemen/insomnia-als-gevolg-van-stress-en-je-telefoon/) door Sasha Popov
+* [Insomnia als gevolg van stress en je telefoon](/nl/artikel/slaapproblemen/insomnia-als-gevolg-van-stress-en-je-telefoon/) door Sasha Popov
 
-* [Het onzichtbare leger](/nl/articles/infecties/het-onzichtbare-leger/) door Svetlana Petrova
+* [Het onzichtbare leger](/nl/artikel/infecties/het-onzichtbare-leger/) door Svetlana Petrova
 
 * [Het parabel van de Siberische kruidenthee: Ivan Chai](/nl/identity/het-parabel-van-de-siberische-kruidenthee/) door Sasha Popov
 

@@ -91,7 +91,7 @@ Benieuwd naar de 5 heerlijke smaken inclusief de voordelen?
 
 ###  Terug naar waar we waren gebleven?
 
-[Jazeker, graag door naar de artikelen...](https://vc.ivansherbs.com/#articles_ivans_insights)
+[Jazeker, graag door naar de artikelen...](https://vc.ivansherbs.com/#artikelen_ivans_insights)
 
 Of kijk gerust nog even verder.
 
@@ -107,4 +107,4 @@ Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief mid
 
 > Maak de bestelling compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
 
-[Door naar artikelen...](https://vc.ivansherbs.com/#articles_ivans_insights)
+[Door naar artikelen...](https://vc.ivansherbs.com/#artikelen_ivans_insights)

@@ -37,12 +37,12 @@ Benieuwd naar onze inzichten?
 
 ### Artikelen
 
-* [Ivan Chai: Ontdek 7 voordelen](/nl/articles/ivanchai/ontdek-7-voordelen/) door Ivan Alexandrovitsj
+* [Ivan Chai: Ontdek 7 voordelen](/nl/artikel/ivanchai/ontdek-7-voordelen/) door Ivan Alexandrovitsj
 
-* [Ivan Chai: Grootmoeders kennen de voordelen](/nl/articles/ivanchai/grootmoeders-kennen-de-voordelen) door Ivanka Lopukhina
+* [Ivan Chai: Grootmoeders kennen de voordelen](/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen) door Ivanka Lopukhina
 
-* [Een onopgemerkt probleem](/nl/articles/prostaat/prostaatkanker/een-onopgemerkt-probleem/) door Ivan Alexandrovitsj
+* [Een onopgemerkt probleem](/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/) door Ivan Alexandrovitsj
 
-* [Geen touw aan vast te knopen...](/nl/articles/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/) door Ivan Alexandrovitsj
+* [Geen touw aan vast te knopen...](/nl/artikel/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/) door Ivan Alexandrovitsj
 
-* [Essentiële behoeften](/nl/articles/slijmbeursontsteking/essentiele-behoeften/) door Ivan Alexandrovitsj
+* [Essentiële behoeften](/nl/artikel/slijmbeursontsteking/essentiele-behoeften/) door Ivan Alexandrovitsj
