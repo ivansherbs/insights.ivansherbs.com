@@ -1,12 +1,11 @@
 ---
 layout: article_with_shopify.html
 title: De oorsprong van Ivan Chai
-url: /nl/de-oorsprong-van-ivan-chai
+url: /nl/artikel/de-oorsprong-van-ivan-chai
 type: article
 category: Ivan Chai
 publish:
   author: Sasha Popov
-  date:
 tags:
 - ivan chai
 - milieu

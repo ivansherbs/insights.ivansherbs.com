@@ -16,7 +16,6 @@ tags:
 - eyeopener
 meta:
   description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties? Misschien is dit artikel wel het delen waard...
-
   keywords: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel, poenie
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand

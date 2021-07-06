@@ -41,7 +41,7 @@ Benieuwd naar de 5 heerlijke smaken inclusief de voordelen?
 
 **✔ Kalmerende werking** tegen angst en stress. Goed voor de nachtrust. Het natuurlijke rustgevende effect is van invloed op uw centrale zenuwstelsel. Geweldig om in de avond tot rust te komen. Werkt ook goed tegen stress.
 
-**✔ Versnelt herstel en voorkomt griep****: Ivan Chai versterkt de weerstand, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
+**✔ Versterkt de weerstand**: Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 
 [[contentfulImage 3G23K1fx0prQYAvfPlZMk5]]
 
