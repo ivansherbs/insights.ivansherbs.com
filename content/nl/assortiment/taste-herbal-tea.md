@@ -7,12 +7,12 @@ category: Ivan Chai
 tags:
 - assortiment
 publish:
-  author:
+  author: Ivan's Insights
 fragments:
   header: nl/fragments/voordelen/taste-herbal-tea
   footer:
 meta:
-  description: Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Meerdere voordelen zijn bewezen effectief middels klinisch onderzoek. Bevestigd door het European Medicies Agency (EMA). Lees snel verder en ontdek welke kruidenthee de meeste voordelen biedt.
+  description: Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Lees snel verder en ontdek welke kruidenthee de meeste voordelen biedt.
   keywords: kruidenthee, kruiden, thee, cafeïnevrij, schimmelinfectie, prostaat, urinewegen, blaasontsteking, angst, griep, nachtrust, herstel, hypertensie, hoge bloeddruk, hoesten, antitussivum, hoestdrank, lever, spijsverteringsstelsel, maag, maagzweren,
 banner:
   image: 3BMJ7e2ogSnTsV7AQRK2QF

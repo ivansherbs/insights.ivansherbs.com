@@ -11,6 +11,8 @@ meta:
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
+publish:
+  author: Ivan's Insights
 banner:
   image: 4sz4wSxo4KhzTbBzUNXJBI
   effect: o-lg-60d-black

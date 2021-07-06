@@ -11,6 +11,8 @@ meta:
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
+publish:
+  author: Ivan's Insights
 banner:
   image: 3BMJ7e2ogSnTsV7AQRK2QF
   effect: o-lg-60d-black

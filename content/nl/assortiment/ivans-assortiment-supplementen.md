@@ -14,6 +14,8 @@ fragments:
 banner:
   image: 7CuvA91NO0YXMjjoZVMkO2
   effect: o-lg-60d-black
+publish:
+  author: Ivan's Insights
 contentful:
   imageOptions:
     fm: jpg
