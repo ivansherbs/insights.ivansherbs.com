@@ -12,7 +12,6 @@ tags:
 - mentale klachten
 - prostaat
 - urinewegen
-- buikkrampen
 - vrouw
 - voordelen EMA
 meta:

@@ -7,10 +7,6 @@ category: herbal tea expert
 publish:
   author: Svetlana Petrova
 tags:
-- levensstijl
-- community building
-- milieu
-- gevoel
 meta:
   description: Lees nu het portret van Svetlana Petrova. Eén van de herbal tea experts uit Chazhaevka. Community building in combinatie met creativiteit staan met name centraal in haar nieuwe leven. Lees haar verhaal.
   keywords: community building, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, natuur, alledaags product, geneeskrachtige werking, portret, mediteren

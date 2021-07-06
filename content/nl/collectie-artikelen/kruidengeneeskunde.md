@@ -4,14 +4,16 @@ title: Insights | Kruidengeneeskunde
 url: nl/kruidengeneeskunde
 type: article
 category: Ivan Chai
+publish:
+  author:
 tags:
-- kruidengeneeskunde
+- Collectie
 meta:
   description: Voorstanders aan het woord. De voor- en nadelen van kruiden ten opzichte van medicijnen uit de farmaceutische industrie op een rij. Zowel het gebruik als de bijwerkingen worden besproken. Benieuwd naar de inzichten?
   keywords: kruiden, medicijnen, bijwerkingen,
 fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
-  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
+  footer:
 banner:
   image: 3Le11Z0jk9vTDMo8mcQzW0
   effect: o-lg-60d-black
