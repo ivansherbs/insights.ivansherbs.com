@@ -143,9 +143,11 @@ Voor de enorme theedrinker die er gewoon géén genoeg van kan krijgen. Met extr
 
 Benieuwd naar onze kruiden uit Siberië?
 
+[[contentfulImage 7FWflFBuHhPuFlPEcb20ku w=300 h=300]]
+
 * [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
 
-* [Pre order](/nl/assortiment/pre-order)
+* [Alle producten](/nl/assortiment/pre-order)
 
 * [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
 
