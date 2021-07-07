@@ -55,7 +55,7 @@ Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief mid
 
 Benieuwd naar onze kruiden uit Siberië?
 
-* [Pre order](/nl/assortiment/pre-order)
+* [Alle producten](/nl/assortiment/pre-order)
 
 * [Kruidenthee](/nl/assortiment/ivans-assortiment-siberische-kruidenthee)
 

@@ -144,7 +144,7 @@ Benieuwd naar onze kruiden uit Siberië?
 
 * [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
 
-* [Pre order](/nl/assortiment/pre-order)
+* [Alle producten](/nl/assortiment/pre-order)
 
 * [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
 
