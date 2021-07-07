@@ -29,7 +29,7 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
 
 Benieuwd naar onze inzichten?
 
-### Artikelen
+### Kruidengeneeskunde
 
 * [Kruiden uit Siberië als medicijnen zonder bijwerkingen](/nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen) door Ivanka Lopukhina
 

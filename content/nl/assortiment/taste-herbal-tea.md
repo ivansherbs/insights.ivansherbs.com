@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: 5 heerlijke smaken
+title: "5 Heerlijke smaken: Siberische kruidenthee"
 url: /nl/assortiment/5-heerlijke-smaken
 type: article
 category: Ivan Chai
@@ -11,7 +11,7 @@ fragments:
   header: nl/fragments/voordelen/taste-herbal-tea
   footer:
 meta:
-  description: Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Lees snel verder en ontdek welke kruidenthee de meeste voordelen biedt.
+  description: Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
   keywords: kruidenthee, kruiden, thee, cafeïnevrij, schimmelinfectie, prostaat, urinewegen, blaasontsteking, angst, griep, nachtrust, herstel, hypertensie, hoge bloeddruk, hoesten, antitussivum, hoestdrank, lever, spijsverteringsstelsel, maag, maagzweren,
 banner:
   image: 3BMJ7e2ogSnTsV7AQRK2QF
@@ -23,9 +23,11 @@ contentful:
 shopify:
   language: NL
 ---
+Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Kijk gerust even verder…
+
 ### Meer informatie?
 
-Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Meerdere voordelen zijn bewezen effectief middels klinisch onderzoek. Bevestigd door het European Medicies Agency (EMA.
+Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Meerdere voordelen zijn bewezen effectief middels klinisch onderzoek. Bevestigd door het European Medicies Agency (EMA).
 
 Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
@@ -99,12 +101,6 @@ Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 **✔ Krachtige werking**: echter één kop maakt niet het verschil. Pas na verloop van tijd zijn de kruiden effectief. Ook als preventieve behandeling tegen problemen.
 
-###  Terug naar waar we waren gebleven?
-
-[Jazeker, graag door naar de artikelen...](https://vc.ivansherbs.com/#artikelen_ivans_insights)
-
-Of kijk gerust nog even verder.
-
 ## Pre order | Tubes 50 gram
 
 [[shopifyCollection 269172474022 buttonDestination=modal]]
@@ -117,4 +113,42 @@ Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief mid
 
 > Maak de bestelling compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
 
-[Terug naar de artikelen...](https://vc.ivansherbs.com/#artikelen_ivans_insights)
+## Pre order | Favorieten
+
+Graag bieden wij de mogelijkheid om Ivan's meest favoriete kruidenthee in verschillende formaten aan te schaffen.
+
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
+## Pre order | Losse Thee
+
+Ons assortiment kleinere volumes. Benieuwd met wat voor een etherische oliën, supplementen of matcha onze kleinere hoeveelheden te combineren zijn? Bekijk ook eens Ivan's Upgrade...
+
+[[shopifyCollection 269222150310 buttonDestination=modal]]
+
+## Pre order | Upgrade
+
+Maak uw keuze compleet met Ivan's Upgrade: thee accessoires...
+
+[[shopifyCollection 6732579930278 buttonDestination=modal]]
+
+## Pre order | Extra Veel Volume
+
+Voor de enorme theedrinker die er gewoon géén genoeg van kan krijgen. Met extra veel volume kost een kopje thee pak 'm beet 10 cent.
+
+[[shopifyCollection 261576589478 buttonDestination=modal]]
+
+
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
+
+* [Pre order](/nl/assortiment/pre-order)
+
+* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
+
+* [Supplementen](/nl/assortiment/ivans-assortiment-supplementen)
+
+* [Matcha](/nl/assortiment/ivans-assortiment-siberische-matcha)
+

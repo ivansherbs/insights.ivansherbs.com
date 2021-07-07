@@ -29,32 +29,33 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
 
 Benieuwd naar onze inzichten?
 
-### Artikelen
-Ivan Chai:
+### Kruiden:
 * [De oorsprong van Ivan Chai](/nl/artikel/ivanchai/de-oorsprong-van-ivan-chai/) door Sasha Popov
 
-Prostaatklachten:
+### Prostaatklachten:
 * [Een onopgemerkt probleem](/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/) door Ivan Alexandrovitsj
 
-Onstekingen:
+### Onstekingen:
 * [Runners high versus Ontstoken pees](/nl/artikel/peesontsteking/runners-high-versus-ontstoken-pees) door Sasha Popov
 
-Angststoornissen:
+* [Essentiële behoeften](/nl/artikel/slijmbeursontsteking/essentiele-behoeften/) door Ivan Alexandrovitsj
+
+### Angststoornissen:
 * [Angst als controlemechanisme](/nl/artikel/angst/angst-als-controlemechanisme/) door Svetlana Petrova
 
-Hart- en vaatziekten:
+### Hart- en vaatziekten:
 * [Uw hart als bakermat van liefde](/nl/artikel/hart-en-vaatziekten/uw-hart-als-bakermat-van-liefde/) door Ivanka Lopukhina
 
-Mentale klachten:
+### Mentale klachten:
 * [Opladen is géén optie](/nl/artikel/burnout/opladen-is-geen-optie/) door Svetlana Petrova
 
-Slaapproblemen:
+### Slaapproblemen:
 * [Insomnia als gevolg van stress en je telefoon](/nl/artikel/slaapproblemen/insomnia-als-gevolg-van-stress-en-je-telefoon/) door Sasha Popov
 
-Infecties:
+### Infecties:
 * [Het onzichtbare leger](/nl/artikel/infecties/het-onzichtbare-leger/) door Svetlana Petrova
 
-Maag- en darmklachten:
+### Maag- en darmklachten:
 * [Een probleem waar je letterlijk niet graag mee rondloopt...](/nl/artikel/een-probleem-waar-je-niet-graag-mee-rondloopt) door Anna Guseva
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]

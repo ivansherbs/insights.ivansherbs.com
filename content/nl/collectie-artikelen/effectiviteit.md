@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
-title: "Insights: Bewezen voordelen"
-url: nl/bewezen-voordelen
+title: "Insights: Effectiviteit"
+url: nl/effectiviteit
 type: article
 category: Ivan Chai
 publish:
@@ -29,22 +29,28 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 Benieuwd naar onze inzichten?
 
-### EMA
+### Effectiviteit EMA
 
 * [Last van een blaasontsteking?](/nl/effectiveness/ivan-chai-blaasontsteking/) door Ivanka Lopukhina
 
 * [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
 
-[[shopifyCollection 269339164838 buttonDestination=modal]]
-
-### Artikelen
+## Hedendaags onderzoek
 
 * [Ivan Chai: Ontdek 7 voordelen](/nl/artikel/ivanchai/ontdek-7-voordelen/) door Ivan Alexandrovitsj
 
 * [Ivan Chai: Grootmoeders kennen de voordelen](/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen) door Ivanka Lopukhina
 
+## Prostaatklachten man
+
 * [Een onopgemerkt probleem](/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/) door Ivan Alexandrovitsj
 
 * [Geen touw aan vast te knopen...](/nl/artikel/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/) door Ivan Alexandrovitsj
 
-* [Essentiële behoeften](/nl/artikel/slijmbeursontsteking/essentiele-behoeften/) door Ivan Alexandrovitsj
+* [Groeien tot u erbij neervalt…](/nl/artikel/groeien-tot-u-erbij-neervalt) door Ivan Alexandrovitsj
+
+## Blaasontsteking vrouw
+
+* [Voorkom relatieproblemen](/nl/artikel/voorkom-relatieproblemen) door Svetlana Petrova
+
+[[shopifyCollection 269339164838 buttonDestination=modal]]
