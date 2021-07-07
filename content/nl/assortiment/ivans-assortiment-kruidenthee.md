@@ -32,7 +32,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
-[[contentfulImage MEn6GxkJ5DWJbkABGlw3R]]
+[[contentfulImage 330JoHjPiof69flJKwiumE]]
 
 # Ivan Chai
 
@@ -46,7 +46,7 @@ Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 **✔ Versterkt de weerstand**: Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 
-[[contentfulImage 3G23K1fx0prQYAvfPlZMk5]]
+[[contentfulImage 4lP0WugGvtJ1vSCGqLzSSS]]
 
 # Groene Ivan Chai
 
@@ -60,7 +60,7 @@ Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 **✔ Versnelt herstel en voorkomt griep**: Ivan Chai versterkt de weerstand, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 
-[[contentfulImage 6mzRZGwYPvccU25DW8uVmn]]
+[[contentfulImage 6gEaDXAwcG1xTGiH0e4aR1]]
 
 # Bergenia Chai
 
@@ -74,7 +74,7 @@ Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 **✔ Vezorgt de lever**: moet uw lever worden beschermd tegen schadelijke stoffen? Onderzoek heeft aangetoond dat Bergenia hepatoprotectief is. Bergenia Chai voorkomt schade aan uw lever.
 
-[[contentfulImage 6AamClT9lBatGjD3OFfDiH]]
+[[contentfulImage 4fsrbeKHirCBIPscO7uquy]]
 
 # Meadowsweet Chai
 
@@ -88,7 +88,7 @@ Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 **✔ Goed tegen maagzweren**: Meadowsweet Chai bevat een krachtige anti-zweervorminge eigenschappen. Meadowsweet Chai voorkomt het ontstaan van maagzweren.
 
-[[contentfulImage 4Myqu325BwZGpM9hIEdofB]]
+[[contentfulImage 3ENJ9CKPaS2wMbBEdDekTE]]
 
 # Ziziphora Chai
 
