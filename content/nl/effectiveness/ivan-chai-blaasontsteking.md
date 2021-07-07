@@ -9,9 +9,8 @@ publish:
 tags:
 - urinewegen
 - vrouw
-- voordelen EMA
 meta:
-  description: Drink Ivan Chai tegen een urineweginfectie ofwel blaasontsteking. Benieuwd naar de inzichten?
+  description: Drink Ivan Chai tegen een urineweginfectie ofwel blaasontsteking. Benieuwd naar onze inzichten?
   keywords: ivan chai, kruiden, blaasontsteking, urineweginfectie
 fragments:
   header: nl/fragments/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen

@@ -12,7 +12,7 @@ tags:
 - ontsteking
 - eyeopener
 meta:
-  description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken pees in je knie is zo opgelopen. Benieuwd naar de inzichten?
+  description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken pees in je knie is zo opgelopen. Benieuwd naar onze inzichten?
   keywords: hardlopen, hardlopers, knie, endorfine, endorfines, peesontsteking, duursport, duursporten, pees, pezen, sasha
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer

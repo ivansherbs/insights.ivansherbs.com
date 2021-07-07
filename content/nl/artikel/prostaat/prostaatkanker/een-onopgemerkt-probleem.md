@@ -12,7 +12,7 @@ tags:
 - prostaat
 - ziekten
 meta:
-  description: Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. We kunnen echter één risicofactor met zekerheid vaststellen... Benieuwd naar de inzichten?
+  description: Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. We kunnen echter één risicofactor met zekerheid vaststellen... Benieuwd naar onze inzichten?
   keywords: prostaat, prostaatkanker, prostaatklachten, prostaatpijn, symtomen prostaat kanker, psa
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat

@@ -10,7 +10,7 @@ tags:
 - ontsteking
 - gevoel
 meta:
-  description: Bij een slijmbeursontsteking is niet alleen pijn, maar ook angst om te bewegen een allesbepalende factor. Benieuwd naar de inzichten?
+  description: Bij een slijmbeursontsteking is niet alleen pijn, maar ook angst om te bewegen een allesbepalende factor. Benieuwd naar onze inzichten?
   keywords: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspijn, gewricht, behoefte, slijmbeurs, slijmbeurzen, angst, pijn, bewegen
 fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer

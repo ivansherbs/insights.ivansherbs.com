@@ -11,7 +11,7 @@ tags:
 - milieu
 - eyeopener
 meta:
-  description: Lees nu waarom bosbranden altijd al een grote rol hebben gespeeld in de oorsprong van Ivan Chai. Om de natuurlijke evolutie niet in de weg te staan halen wij daarom onze kruiden louter uit de wildernis van Siberië. Benieuwd naar de inzichten?
+  description: Lees nu waarom bosbranden altijd al een grote rol hebben gespeeld in de oorsprong van Ivan Chai. Om de natuurlijke evolutie niet in de weg te staan halen wij daarom onze kruiden louter uit de wildernis van Siberië. Benieuwd naar onze inzichten?
   keywords: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, natuur, rusland, bomen, spar, den, tiaga, gezondheid, evolutie, wildernis, Altaj, fireweed, ivan chai, epilobium angustifolium
 fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
@@ -94,6 +94,6 @@ Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in 
 
 Kort samengevat, dit houdt in dat de producten van Ivan's Herbs vrij zijn van ontbossing.
 
-Benieuwd wat wij voor jou kunnen betekenen?
+Benieuwd naar onze producten?
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]

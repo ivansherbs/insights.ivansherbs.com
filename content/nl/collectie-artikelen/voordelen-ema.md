@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Insights | Bewezen voordelen
+title: "Insights: Bewezen voordelen"
 url: nl/bewezen-voordelen
 type: article
 category: Ivan Chai
@@ -9,7 +9,7 @@ publish:
 tags:
 - collectie
 meta:
-  description: Kruiden rechtstreeks uit de natuur bewezen effectief middels klinisch onderzoek. Vanwege grootschalig langdurige onderzoek tevens bevestigd door het EMA. De resultaten liegen er niet om... Benieuwd naar de inzichten?
+  description: Kruiden rechtstreeks uit de natuur bewezen effectief middels klinisch onderzoek. Vanwege grootschalig langdurige onderzoek tevens bevestigd door het EMA. De resultaten liegen er niet om... Benieuwd naar onze inzichten?
   keywords: kruiden, EMA, kruidengeneeskunde, voordelen
 fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief

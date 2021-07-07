@@ -10,7 +10,7 @@ tags:
 - vrouw
 - moeder
 meta:
-  description: Wist je dat? De verschillende kleuren rood die jij menstrueert iets vertelt over je innerlijkse balans. Benieuwd naar de inzichten? Misschien is dit artikel wel het delen waard...
+  description: Wist je dat? De verschillende kleuren rood die jij menstrueert iets vertelt over je innerlijkse balans. Benieuwd naar onze inzichten? Misschien is dit artikel wel het delen waard...
   keywords: rood, spiraaltje, anticonceptiepil, de pil, menstruatiecyclus, ongesteld, menstruatie, baarmoeder, bevalling, oestrogeen, menopauze, keizersnede
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand

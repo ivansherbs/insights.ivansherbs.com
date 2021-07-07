@@ -13,7 +13,7 @@ tags:
 - gevoel
 - urinewegen
 meta:
-  description: 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking. Wist je dat hierdoor een blaasontsteking van invloed is op jullie relatie? Benieuwd naar de inzichten?
+  description: 20% van de vrouwen heeft jaarlijks te maken met een blaasontsteking. Wist je dat hierdoor een blaasontsteking van invloed is op jullie relatie? Benieuwd naar onze inzichten?
   keywords: blaasontsteking, nierbekkenontsteking, blaasontsteking vrouw, urineweginfectie, symptomen blaasontsteking, relatie, relatieproblemen, urineverlies, communicatie, vertrouwen, vreemdgaan, carriere, financiele onafhankelijkheid, intimiteit
 fragments:
   header: nl/fragments/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen

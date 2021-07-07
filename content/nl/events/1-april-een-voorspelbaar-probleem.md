@@ -144,6 +144,6 @@ Denk aan **IVAN CHAI**. Een Siberische kruidenthee.
 
 Mocht je toch onverhoopt een zwaardere vorm van buikgriep oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
-Op zoek naar meer GEESTVERRUIMENDE inzichten?
+Op zoek naar meer GEESTVERRUIMENonze inzichten?
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]

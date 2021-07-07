@@ -11,7 +11,7 @@ tags:
 - werk
 - eyeopener
 meta:
-  description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar de inzichten?
+  description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar onze inzichten?
   keywords: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten, controle, fobie, sociale angst, paniek
 fragments:
   header: nl/fragments/voordelen/5-2-vermindert-de-kans-op-angst
@@ -77,7 +77,7 @@ Uiteraard liggen de verhoudingen van dit fenomeen wel ietsje complexer.
 
 * Rationele beslissing kunnen het onderspit delven wanneer er sprake is van **sociale druk**. Hierbij drukt een **peergroup** (lees: het management en de langst zittende werknemers) meestal bewust druk uit op een kleinere groep óf een bepaald persoon om het gedrag te veranderen. **Hiërarchie en groepsvorming** spelen naast de normen en gedragingen van de dominante groep een belangrijke rol. Zowel in positieve als negatieve zin. En kan de **vrijheid** (lees: verantwoordelijkheid) van de niet-dominante groepsleden **op eenvoudige wijze worden ingeperkt**. Reageren hierop door niet-dominante groepsleden heeft geen zin. **Er wordt toch niet naar geluisterd**. Wanneer je toch besluit hierop te reageren kan je vrijheid nóg meer worden afgenomen. Of in sommige gevallen komt **de baanzekerheid** op het spel te staan. Je bent daarom voor het gemak maar overal mee akkoord. Angst kan hierdoor vanuit organisationeel perspectief dagelijks bewust worden gebruikt als **controlemechanisme**.
 
-Leuk hè... bovenstaande inzichten over lichtere vormen van angst?
+Leuk hè... bovenstaanonze inzichten over lichtere vormen van angst?
 
 Uiteraard spelen deze voorbeelden zich met name af in het bedrijfsleven.
 

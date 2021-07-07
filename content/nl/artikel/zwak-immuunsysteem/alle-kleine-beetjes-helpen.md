@@ -12,7 +12,7 @@ tags:
 - eyeopener
 - ziekten
 meta:
-  description: Dit artikel is bedoeld voor iedereen die een zwak immuunsysteem wil voorkomen. Benieuwd naar de inzichten?
+  description: Dit artikel is bedoeld voor iedereen die een zwak immuunsysteem wil voorkomen. Benieuwd naar onze inzichten?
   keywords: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, voedingsstoffen, overgang, menopauze, oestrogeen
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand

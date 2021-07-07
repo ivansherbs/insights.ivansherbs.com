@@ -10,9 +10,8 @@ tags:
 - prostaat
 - urinewegen
 - man
-- voordelen EMA
 meta:
-  description: Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. Benieuwd naar de inzichten?
+  description: Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. Benieuwd naar onze inzichten?
   keywords: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bph, prostaatontsteking, prostaatkanker
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat

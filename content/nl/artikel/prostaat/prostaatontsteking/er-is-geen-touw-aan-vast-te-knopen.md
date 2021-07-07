@@ -10,9 +10,8 @@ tags:
 - man
 - eyeopener
 - prostaat
-- voordelen EMA
 meta:
-  description: Prostaatklachten? Prostaatpijn? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar de inzichten?
+  description: Prostaatklachten? Prostaatpijn? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar onze inzichten?
   keywords: prostaatklachten, prostaatpijn, prostaatontsteking, prostaat vergroot, ontsteking prostaat symptomen, ontsteking prostaat, maria treben, klinisch onderzoek
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
@@ -60,7 +59,7 @@ Wel dat het een probleem is om al rekening mee te houden op **‘jongere’** le
 
 Wij willen u naar aanleiding van onze bewering graag nog even het volgende meegeven. **Het is verstandig** zo nu en dan uw lichaam even goed te reinigen met Siberische kruidenthee.
 
-Ivan chai beschermt de gezondheid van uw prostaat. Voor we verder gaan met de inzichten over prostaatklachten. Eerst nog even het volgende.
+Ivan chai beschermt de gezondheid van uw prostaat. Voor we verder gaan met onze inzichten over prostaatklachten. Eerst nog even het volgende.
 
 [[contentfulImage 4jBzDTxhzRWfhXqgvpjqyu]]
 
