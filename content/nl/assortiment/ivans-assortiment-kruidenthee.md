@@ -9,10 +9,10 @@ tags:
 publish:
   author: Ivan's Insights
 fragments:
-  header: nl/fragments/voordelen/taste-herbal-tea
+  header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
   footer:
 meta:
-  description: Goed voor lichaam en geest. Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
+  description: Ontdek welke kruiden wij gebruiken voor onze verschillende Siberische kruidentheeën. Iedere smaak biedt meerdere voordelen goed voor lichaam en geest. Lees snel meer...
   keywords: kruidenthee, kruiden, thee, cafeïnevrij, schimmelinfectie, prostaat, urinewegen, blaasontsteking, angst, griep, nachtrust, herstel, hypertensie, hoge bloeddruk, hoesten, antitussivum, hoestdrank, lever, spijsverteringsstelsel, maag, maagzweren,
 banner:
   image: 3BMJ7e2ogSnTsV7AQRK2QF
@@ -20,19 +20,15 @@ banner:
 contentful:
   imageOptions:
     fm: jpg
-    q: 50
+    q: 90
 shopify:
   language: NL
 ---
-Kom meer te weten over ons assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Kijk gerust even verder…
+Kom meer te weten over ons assortiment aan kruidenthee uit Siberië. Gegarandeerd de hoogste kwaliteit...
 
-### Meer informatie?
+Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Meerdere voordelen zijn bewezen effectief middels klinisch onderzoek. Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
-Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Meerdere voordelen zijn bewezen effectief middels klinisch onderzoek. Bevestigd door het European Medicies Agency (EMA).
-
-Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
-
-[[contentfulImage 330JoHjPiof69flJKwiumE]]
+[[contentfulImage 330JoHjPiof69flJKwiumE q=85]]
 
 # Ivan Chai
 
@@ -46,7 +42,7 @@ Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 **✔ Versterkt de weerstand**: Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 
-[[contentfulImage 4lP0WugGvtJ1vSCGqLzSSS]]
+[[contentfulImage 4lP0WugGvtJ1vSCGqLzSSS q=85]]
 
 # Groene Ivan Chai
 
@@ -58,9 +54,9 @@ Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 **✔ Kalmerende werking**: tegen angst en stress. Goed voor de nachtrust. Het natuurlijke rustgevende effect is van invloed op uw centrale zenuwstelsel. Geweldig om in de avond tot rust te komen. Werkt ook goed tegen stress.
 
-**✔ Versnelt herstel en voorkomt griep**: Ivan Chai versterkt de weerstand, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
+**✔ Versterkt de weerstand**: Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 
-[[contentfulImage 6gEaDXAwcG1xTGiH0e4aR1]]
+[[contentfulImage 6gEaDXAwcG1xTGiH0e4aR1 q=85]]
 
 # Bergenia Chai
 
@@ -74,7 +70,7 @@ Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 **✔ Vezorgt de lever**: moet uw lever worden beschermd tegen schadelijke stoffen? Onderzoek heeft aangetoond dat Bergenia hepatoprotectief is. Bergenia Chai voorkomt schade aan uw lever.
 
-[[contentfulImage 4fsrbeKHirCBIPscO7uquy]]
+[[contentfulImage 4fsrbeKHirCBIPscO7uquy q=90]]
 
 # Meadowsweet Chai
 
@@ -86,9 +82,9 @@ Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 **✔ Ontstekingsremmende werking**: heeft u last van een ontsteking? De moderne wetenschap heeft aangetoond dat Meadowsweet Chai een ontstekingsremmende werking bevat.
 
-**✔ Goed tegen maagzweren**: Meadowsweet Chai bevat een krachtige anti-zweervorminge eigenschappen. Meadowsweet Chai voorkomt het ontstaan van maagzweren.
+**✔ Goed tegen maagzweren**: Meadowsweet Chai bevat een krachtige anti-zweervorminge eigenschappen. Meadowsweet Chai voorkomt hierdoor het ontstaan van maagzweren.
 
-[[contentfulImage 3ENJ9CKPaS2wMbBEdDekTE]]
+[[contentfulImage 3ENJ9CKPaS2wMbBEdDekTE q=100]]
 
 # Ziziphora Chai
 
@@ -128,7 +124,7 @@ Ons assortiment kleinere volumes. Benieuwd met wat voor een etherische oliën, s
 
 ## Pre order | Upgrade
 
-Maak uw keuze compleet met Ivan's Upgrade: thee accessoires...
+Maak uw keuze compleet met Ivan's Upgrade: thee accessoires en meer...
 
 [[shopifyCollection 6732579930278 buttonDestination=modal]]
 

@@ -25,9 +25,9 @@ shopify:
   language: NL
 ---
 
-Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA).
+Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
 
-Benieuwd naar onze inzichten?
+[[contentfulImage 6eoKQHvDNsD8h0gBat506V fm=png q=100 w=100 h=100]]
 
 ### Effectiviteit EMA
 
@@ -35,13 +35,17 @@ Benieuwd naar onze inzichten?
 
 * [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
 
-## Hedendaags onderzoek
+[[contentfulImage 2yAn4A04voeeWViVHj6gCV fm=png q=100 w=100 h=100]]
+
+### Hedendaags onderzoek
 
 * [Ivan Chai: Ontdek 7 voordelen](/nl/artikel/ivanchai/ontdek-7-voordelen/) door Ivan Alexandrovitsj
 
 * [Ivan Chai: Grootmoeders kennen de voordelen](/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen) door Ivanka Lopukhina
 
-## Prostaatklachten man
+[[contentfulImage iePP27X62mXQPHJIlVPXu fm=png q=100 w=100 h=100]]
+
+### Prostaatklachten man
 
 * [Een onopgemerkt probleem](/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/) door Ivan Alexandrovitsj
 
@@ -49,7 +53,9 @@ Benieuwd naar onze inzichten?
 
 * [Groeien tot u erbij neervalt…](/nl/artikel/groeien-tot-u-erbij-neervalt) door Ivan Alexandrovitsj
 
-## Blaasontsteking vrouw
+[[contentfulImage 7tkrB5iyMzzWwg2vDGrD6Q fm=png q=100 w=100 h=100]]
+
+### Blaasontsteking vrouw
 
 * [Voorkom relatieproblemen](/nl/artikel/voorkom-relatieproblemen) door Svetlana Petrova
 

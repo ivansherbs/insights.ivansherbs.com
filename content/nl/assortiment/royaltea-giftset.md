@@ -14,12 +14,12 @@ fragments:
 publish:
   author: Ivan's Insights
 banner:
-  image: 4sz4wSxo4KhzTbBzUNXJBI
+  image: 3MFrGuWuApFDCZrKXvrRMr
   effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
-    q: 50
+    q: 100
 shopify:
   language: NL
 ---

@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "5 Heerlijke smaken: Siberische kruidenthee"
+title: "Meer informatie?"
 url: /nl/assortiment/5-heerlijke-smaken
 type: article
 category: Ivan Chai
@@ -8,28 +8,24 @@ tags:
 publish:
   author: Ivan's Insights
 fragments:
-  header: nl/fragments/voordelen/taste-herbal-tea
+  header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
   footer:
 meta:
   description: Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
   keywords: kruidenthee, kruiden, thee, cafeïnevrij, schimmelinfectie, prostaat, urinewegen, blaasontsteking, angst, griep, nachtrust, herstel, hypertensie, hoge bloeddruk, hoesten, antitussivum, hoestdrank, lever, spijsverteringsstelsel, maag, maagzweren,
 banner:
-  image: 3BMJ7e2ogSnTsV7AQRK2QF
+  image: 2gjpo5VPHlB4zfJ2E8Tq5
   effect: o-lg-60d-black
 contentful:
   imageOptions:
     fm: jpg
-    q: 50
+    q: 85
 shopify:
   language: NL
 ---
-Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Kijk gerust even verder…
+Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de vele voordelen.
 
-### Meer informatie?
-
-Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Meerdere voordelen zijn bewezen effectief middels klinisch onderzoek. Bevestigd door het European Medicies Agency (EMA).
-
-Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
+Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om deze te hervullen met onze value packs. Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
 [[contentfulImage MEn6GxkJ5DWJbkABGlw3R]]
 
@@ -127,7 +123,7 @@ Ons assortiment kleinere volumes. Benieuwd met wat voor een etherische oliën, s
 
 ## Pre order | Upgrade
 
-Maak uw keuze compleet met Ivan's Upgrade: thee accessoires...
+Maak uw keuze compleet met Ivan's Upgrade: thee accessoires en meer...
 
 [[shopifyCollection 6732579930278 buttonDestination=modal]]
 
