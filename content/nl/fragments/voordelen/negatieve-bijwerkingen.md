@@ -1,4 +1,4 @@
-><h2 style="font-family:monad">Kruidengeneeskunde</h2 style="font-family:lato">
+><h2 style="font-family:papyrus">Kruidengeneeskunde</h2 style="font-family:lato">
 >
 > "Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie."
 >

@@ -1,5 +1,3 @@
-><h2>Krachtige ontstekingsremmer</h2>
+><h2 style="font-family:papyrus">Ivan Chai werkt ontstekingsremmend</h2 style="font-family:lato">
 >
 >"Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen"
->
-> <p style="text-align: right">Michael Koch <br> Founder Ivan's Herbs</p>

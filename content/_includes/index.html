@@ -8,7 +8,7 @@ layout: collection.html
         <div class="col-md-12 col-lg-12">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 style="font-family:monad">{{ tag | title_case: 'NL' }}</h2 style="font-family:lato">
+                    <h2 style="font-family:papyrus">{{ tag | title_case: 'NL' }}</h2 style="font-family:lato">
                 </div>
                 {%- for article in collections[tag] -%}
                 <div class="col-md-4">
@@ -18,7 +18,7 @@ layout: collection.html
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h3><a href="{{ article.url }}">{{ article.data.title }}</a></h3>
+                            <h3 style="font-family:monad"><a href="{{ article.url }}">{{ article.data.title }}</a></h3 style="font-family:lato">
                             <div class="space-15"></div>
                             <p>{{ article.data.meta.description }}</p>
                             <div class="space-15"></div>
