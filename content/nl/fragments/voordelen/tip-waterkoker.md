@@ -1,5 +1,5 @@
 **Tip**:
-><h2>Tip:</h2>
+><h2 style="font-family:monad">Tip:</h2 style="font-family:lato">
 >
 >"Zet nu eerst een goed gevulde waterkoker aan (bij voorkeur minimaal 1 liter)."
 >
