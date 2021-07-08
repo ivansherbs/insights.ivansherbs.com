@@ -20,14 +20,16 @@ banner:
 contentful:
   imageOptions:
     fm: jpg
-    q: 50
+    q: 100
+    w: 100
+    h: 100
 shopify:
   language: NL
 ---
 
 Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen schatten. Ontdek de voor- en nadelen. Benieuwd naar onze inzichten?
 
-[[contentfulImage 6s8sE0FZqUqvnuYdPkkJBe fm=png q=100 w=100 h=100]]
+[[contentfulImage 6s8sE0FZqUqvnuYdPkkJBe]]
 
 ### Kruidengeneeskunde
 
