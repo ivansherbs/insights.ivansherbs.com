@@ -27,7 +27,7 @@ shopify:
 
 Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen schatten. Ontdek de voor- en nadelen. Benieuwd naar onze inzichten?
 
-[[contentfulImage 6s8sE0FZqUqvnuYdPkkJBe fit=fill fm=png q=100 w=100 h=100]]
+[[contentfulImage 6s8sE0FZqUqvnuYdPkkJBe fit=thumb fm=png q=100 w=100 h=100]]
 
 ### Kruidengeneeskunde
 
