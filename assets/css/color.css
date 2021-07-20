@@ -24,7 +24,10 @@ aside.sidebar .categories ul li a,
 aside.sidebar .recent-post .post h4 a,
 aside.sidebar .tags ul li a,
 .single-blog-page .blog-box .blog-details h3 {
-    color: #3f4450;
+    color: #706c84;
+    font-family: papyrus;
+    font-weight: bold;
+    text-align: center;
 }
 
 /*------------------------------

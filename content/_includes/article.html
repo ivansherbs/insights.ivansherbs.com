@@ -132,7 +132,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family:monad">
-                                Ontdek Ivan Chai
+                                ONTDEK IVAN CHAI
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/artikel/ivanchai/ontdek-7-voordelen/" target="_blank" style="font-family:papyrus">{% i18n 'benefits' language %}Benefits{% endi18n %}</a>
@@ -143,7 +143,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family:monad">
-                                Ivan's Insights
+                                IVAN'S INSIGHTS
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/" target="_blank" style="font-family:papyrus">{% i18n 'all_articles' language %}All articles{% endi18n %}</a>
@@ -155,7 +155,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family:monad">
-                                {% i18n 'collection' language %}Collection{% endi18n %}
+                                {% i18n 'collection' language %}COLLECTION{% endi18n %}
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-siberische-kruidenthee" target="_blank" style="font-family:papyrus">{% i18n 'whole_herbs' language %}Whole herbs{% endi18n %}</a>
@@ -169,7 +169,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family:monad">
-                                {% i18n 'about' language %}About{% endi18n %}
+                                {% i18n 'about' language %}ABOUT{% endi18n %}
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/over/over-ivans-herbs" target="_blank" style="font-family:papyrus">Onze missie</a>
@@ -217,10 +217,10 @@
                                     {% if publish %}
                                     <ul class="news-meta">
                                         {% if publish.author %}
-                                        <li><span class="lnr lnr-user" style="font-family:papyrus"></span>{% i18n 'by' language %}by{% endi18n %} {{ publish.author | default: "Ivan's Insights" }}</li>
+                                        <li><span class="lnr lnr-user" style="font-family:papyrus">{% i18n 'by' language %}by{% endi18n %} {{ publish.author | default: "IVAN'S INSIGHTS" }}</span></li>
                                         {% endif %}
                                         {% if publish.date %}
-                                        <li><span class="lnr lnr-clock" style="font-family:papyrus"></span> {{ publish.date }}</li>
+                                        <li><span class="lnr lnr-clock" style="font-family:papyrus">{{ publish.date }}</span></li>
                                         {% endif %}
                                     </ul>
                                     {% endif %}
@@ -228,11 +228,9 @@
                                         {% articleFragment fragments.header %}
                                     {% endif %}
                                     {{ content }}
-                                    <span style="background-color: #d5d6cf;">
                                     {% if fragments.footer %}
                                         {% articleFragment fragments.footer %}
                                     {% endif %}
-                                    </span>
                                 </div>
                                 <hr>
                                 <div class="post-tag-area d-md-flex justify-content-between align-items-center">
@@ -271,7 +269,7 @@
                    <div class="row">
                        <div class="text-center col-12 section-title" data-aos="fade-zoom-in">
                            <section id="email" class="main-features padding-50">
-                           <p><font color="white"><big>Nieuwsbrief & exclusieve aanbiedingen?</big></font></p>
+                           <p><font color="white" style="font-family:monad"><big><u>Nieuwsbrief & exclusieve aanbiedingen?</u></big></font></p>
                        </div>
                    </div>
                </div>

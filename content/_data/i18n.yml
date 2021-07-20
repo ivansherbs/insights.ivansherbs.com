@@ -55,8 +55,8 @@ giftset:
   EN: Giftset
   NL: Geschenkdoos
 collection:
-  EN: Collection
-  NL: Assortiment
+  EN: COLLECTION
+  NL: ASSORTIMENT
 $:
   EN: $
   NL: €
@@ -70,11 +70,11 @@ the_origin_of:
   EN: The origin of...
   NL: De oorsprong van...
 discover:
-  EN: Discover
-  NL: Ontdek
+  EN: DISCOVER
+  NL: ONTDEK
 about:
-  EN: About
-  NL: Over
+  EN: ABOUT
+  NL: OVER
 back_to_top:
   EN: Back to top
   NL: Terug naar boven

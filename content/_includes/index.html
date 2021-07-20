@@ -8,7 +8,7 @@ layout: collection.html
         <div class="col-md-12 col-lg-12">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 style="font-family:papyrus">{{ tag | title_case: 'NL' }}</h2 style="font-family:lato">
+                    <h2 style="font-family:papyrus; color: #706c84">{{ tag | title_case: 'NL' }}</h2 style="font-family:lato">
                 </div>
                 {%- for article in collections[tag] -%}
                 <div class="col-md-4">
@@ -18,14 +18,14 @@ layout: collection.html
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h3 style="font-family:monad"><a href="{{ article.url }}">{{ article.data.title }}</a></h3 style="font-family:lato">
+                            <h3 style="font-family:monad"><a href="{{ article.url }}">{{ article.data.title }}</a></h3 style="font-family:papyrus">
                             <div class="space-15"></div>
                             <p>{{ article.data.meta.description }}</p>
                             <div class="space-15"></div>
                             <ul class="news-meta">
                                 <div class="space-15"></div>
-                                <div><li><span class="lnr lnr-user" style="font-family:papyrus"></span>{% i18n 'by' language %}by{% endi18n %} {{ article.data.publish.author }}</li>
-                                <li><span class="lnr lnr-clock" style="font-family:papyrus"></span> {{ article.data.publish.date }}</li></div>
+                                <div><li><span class="lnr lnr-user" style="font-family:papyrus">{% i18n 'by' language %}by{% endi18n %} {{ article.data.publish.author }}</span></li>
+                                <li><span class="lnr lnr-clock" style="font-family:papyrus"> {{ article.data.publish.date }}</span></li></div>
                             </ul>
                         </div>
                     </div>
