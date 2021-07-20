@@ -89,12 +89,16 @@
         .single-blog-page .blog-box .blog-details h2 {
             font-size: 1.5em;
             font-family: papyrus;
-            color: #003154
+            color: #fff;
+            background-color: #706c84;
+            text-align: center;
         }
         .single-blog-page .blog-box .blog-details h3 {
             font-size: 1.2em;
             font-family: monad;
-            color: #003154
+            color: #fff;
+            background-color: #75adcf;
+            text-align: center;
         }
     </style>
 
@@ -217,10 +221,10 @@
                                     {% if publish %}
                                     <ul class="news-meta">
                                         {% if publish.author %}
-                                        <li><span class="lnr lnr-user" style="font-family:papyrus">{% i18n 'by' language %}by{% endi18n %} {{ publish.author | default: "IVAN'S INSIGHTS" }}</span></li>
+                                        <li><span class="lnr lnr-user" >{% i18n 'by' language %}by{% endi18n %} <b style="color:#51707f">{{ publish.author | default: "IVAN'S INSIGHTS" }}</b></span></li>
                                         {% endif %}
                                         {% if publish.date %}
-                                        <li><span class="lnr lnr-clock" style="font-family:papyrus">{{ publish.date }}</span></li>
+                                        <li><span class="lnr lnr-clock">{{ publish.date }}</span></li>
                                         {% endif %}
                                     </ul>
                                     {% endif %}

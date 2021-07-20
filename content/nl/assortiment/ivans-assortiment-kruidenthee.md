@@ -30,7 +30,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 [[contentfulImage 330JoHjPiof69flJKwiumE q=85]]
 
-# Ivan Chai
+<h1 style="font-family:papyrus; color: #fff; background-color: #706c84; text-align: center; font-weight:bold">Ivan Chai</h1>
 
 **✔ Heerlijke smaak**: Ivan Chai heeft een aardse en zoete smaak die vergelijkbaar is met traditionele zwarte thee. Wordt niet bitter. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
 
@@ -44,7 +44,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 [[contentfulImage 4lP0WugGvtJ1vSCGqLzSSS q=85]]
 
-# Groene Ivan Chai
+<h1 style="font-family:papyrus; color: #fff; background-color: #566845; text-align: center; font-weight:bold">Groene Ivan Chai</h1>
 
 **✔ Heerlijke smaak**: Groene Ivan Chai heeft een licht aardse, grasachtige bitter zoete smaak. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
 
@@ -58,7 +58,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 [[contentfulImage 6gEaDXAwcG1xTGiH0e4aR1 q=85]]
 
-# Bergenia Chai
+<h1 style="font-family:papyrus; color: #fff; background-color: #b79fbf; text-align: center; font-weight:bold">Bergenia Chai</h1>
 
 **✔ Heerlijke smaak**: Bergenia Chai heeft een aardse samentrekkende smaak. Wordt niet bitter. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
 
@@ -72,7 +72,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 [[contentfulImage 4fsrbeKHirCBIPscO7uquy q=90]]
 
-# Meadowsweet Chai
+<h1 style="font-family:papyrus; color: #fff; background-color: #8f8a72; text-align: center; font-weight:bold">Meadowsweet Chai</h1>
 
 **✔ Heerlijke smaak**: Meadowsweet Chai heeft een zoete en bloemige smaak. Wordt niet bitter. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
 
@@ -86,7 +86,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 [[contentfulImage 3ENJ9CKPaS2wMbBEdDekTE q=100]]
 
-# Ziziphora Chai
+<h1 style="font-family:papyrus; color: #fff; background-color: #af5da4; text-align: center; font-weight:bold">Ziziphora Chai</h1>
 
 **✔ Heerlijke smaak**: Ziziphora Chai heeft een muntachtig aroma en smaakt lichtelijk naar zwarte thee; tevens cafeïnevrij. Het is veilig voor kinderen om te drinken
 
