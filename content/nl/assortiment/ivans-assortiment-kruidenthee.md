@@ -7,7 +7,7 @@ category: Ivan Chai
 tags:
 - assortiment
 publish:
-  author: Ivan's Insights
+  author: Ivan's Herbs
 fragments:
   header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
   footer:

@@ -12,7 +12,7 @@ fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 publish:
-  author: Ivan's Insights
+  author: Ivan's Herbs
 banner:
   image: 3MFrGuWuApFDCZrKXvrRMr
   effect: o-lg-60d-black

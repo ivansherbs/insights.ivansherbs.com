@@ -8,7 +8,7 @@ layout: collection.html
         <div class="col-md-12 col-lg-12">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 style="font-family:monad; background-color: #003154; color: #fff">&nbsp;{{ tag | title_case: 'NL' }}&nbsp;</h2 style="font-family:lato">
+                    <h2 style="font-family:monad; background-color: #003154; color: #fff; text-align: center>&nbsp;{{ tag | title_case: 'NL' }}&nbsp;</h2 style="font-family:lato">
                 </div>
                 {%- for article in collections[tag] -%}
                 <div class="col-md-4">
@@ -24,7 +24,7 @@ layout: collection.html
                             <div class="space-15"></div>
                             <ul class="news-meta">
                                 <div class="space-15"></div>
-                                <div><li><span class="lnr lnr-user">{% i18n 'by' language %}by{% endi18n %} {{ article.data.publish.author }}</span></li>
+                                <div><li><span class="lnr lnr-user">{% i18n 'by' language %}by{% endi18n %} {{ article.data.publish.author }} in Ivan's Insights</span></li>
                                 <li><span class="lnr lnr-clock" > {{ article.data.publish.date }}</span></li></div>
                             </ul>
                         </div>
