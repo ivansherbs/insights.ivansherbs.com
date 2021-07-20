@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Over Ivan's Herbs
+title: Onze missie
 url: /nl/over/over-ivans-herbs
 type: about
 category: kruiden uit Siberië
@@ -14,20 +14,13 @@ contentful:
     fm: png
     q: 50
 ---
-Wij geloven in de geneeskrachtige werking van kruiden uit Siberië.
-
-Ons sociaal en verantwoordelijk gedrag richt zich op de volgende drie punten.
-
-* Introduceren kruiden uit Siberië
-* Informeren
-* Community building
+Wij geloven in de klinisch bewezen voordelen van kruiden uit Siberië.
 
 [[contentfulImage 587qcANxXb7WGYZqYUirxd]]
 
 ### Introduceren kruiden uit Siberië
 
 De producten van Ivan's Herbs komen rechtstreeks uit de natuur, hebben krachtige impact op de gezondheid, algehele gemoedstoestand en zijn bewezen effectief middels klinisch onderzoek.
-
 
 Onze toevoerlijn van kruiden zijn een alternatief of aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie De farmaceutische industrie wordt getypeerd door een opeenvolging van mislukkingen al zoekende naar een wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering.
 
@@ -58,7 +51,7 @@ Eén van deze ecodorpen is Chazhaevka.
 
 Om hun utopie tot stand te brengen hebben zij zich duizenden kilometers verwijderd van de moderne samenleving.
 
-Wat is de reden van deze afzondering?
+Vanwaar deze afzondering...?
 
 Deze bewoners streven naar een unieke levensstijl zo dicht mogelijk bij de natuur.
 
