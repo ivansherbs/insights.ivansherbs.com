@@ -220,7 +220,7 @@
                                     {% if publish %}
                                     <ul class="news-meta">
                                         {% if publish.author %}
-                                        <li><span class="lnr lnr-user" >{% i18n 'by' language %}by{% endi18n %} <b style="color:#134d7e">{{ publish.author | default: "IVAN'S INSIGHTS" }} in Ivan's Insights</b></span></li>
+                                        <li><span class="lnr lnr-user" style="color:#134d7e">{% i18n 'by' language %}by{% endi18n %} <b style="color:#134d7e">{{ publish.author | default: "IVAN'S INSIGHTS" }}</b><b style="color:#134d7e">in Ivan's Insights</b></span></li>
                                         {% endif %}
                                         {% if publish.date %}
                                         <li><span class="lnr lnr-clock">{{ publish.date }}</span></li>
