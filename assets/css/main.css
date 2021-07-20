@@ -74,9 +74,10 @@ p {
 .lnr  {
     display: inline-block;
     fill: currentColor;
-    width: 15em;
+    width: auto;
     height: 1em;
     vertical-align: -0.05em;
+    color: #134d7e;
 }
 
 a:focus {
