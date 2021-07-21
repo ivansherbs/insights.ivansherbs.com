@@ -27,7 +27,7 @@ shopify:
 
 Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
 
-[[contentfulImage 6eoKQHvDNsD8h0gBat506V fm=png q=100 w=100 h=100]] <center><img src="${https://app.contentful.com/spaces/lyvtxhzy9zgr/assets/6eoKQHvDNsD8h0gBat506V}" width="100" height="100"></center>
+[[contentfulImage 6eoKQHvDNsD8h0gBat506V fm=png q=100 w=100 h=100]] <center><img src="{{ generated.contentful.banner_images[6eoKQHvDNsD8h0gBat506V] }}?w=100&h=100&fit=fill ></center
 
 ### Effectiviteit EMA
 
