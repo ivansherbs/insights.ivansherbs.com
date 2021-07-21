@@ -9,9 +9,8 @@ publish:
 tags:
 - urinewegen
 - vrouw
-- 45+
 meta:
-  description: Drink Ivan Chai tegen een urineweginfectie ofwel blaasontsteking. Benieuwd naar de inzichten?
+  description: Drink Ivan Chai tegen een urineweginfectie ofwel blaasontsteking. Benieuwd naar onze inzichten?
   keywords: ivan chai, kruiden, blaasontsteking, urineweginfectie
 fragments:
   header: nl/fragments/voordelen/6-2-verzorgt-de-gezondheid-van-de-urinewegen
@@ -26,7 +25,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 ### Effectiviteit
 
@@ -45,7 +44,7 @@ Vanwege het meer dan 30 jaar veelvuldig traditionele medicinale gebruik van epil
 
 Er zijn tot op heden geen ongewenste of ernstige bijwerkingen en sterfgevallen van Ivan Chai gemeld.
 
-> Ter info: Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
+> Ter informatie: Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
 
 ### Interacties
 
@@ -65,4 +64,4 @@ Door onze Eco7 Standaard te volgen zijn onze producten tevens:
 
 * Vrij van ontbossing
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

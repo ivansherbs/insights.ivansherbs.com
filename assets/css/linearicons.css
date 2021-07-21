@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Linearicons";
+  src: url("../fonts/Linearicons.eot");
+  src: url("../fonts/Linearicons.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Linearicons.woff2") format("woff2"),
+       url("../fonts/Linearicons.woff") format("woff"),
+       url("../fonts/Linearicons.ttf") format("truetype"),
+       url("../fonts/Linearicons.svg#Linearicons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Linearicons";
+    src: url("../fonts/Linearicons.svg#Linearicons") format("svg");
+  }
+}
+
+[class^="lnr-"]:before, [class*=" lnr-"]:before,
+[class^="lnr-"]:after, [class*=" lnr-"]:after {
+  font-family: Linearicons;
+  font-style: normal;
+}
+
+.lnr-whatsapp:before { content: "\f100"; }
+.lnr-email:before { content: "\f101"; }
+.lnr-sapling:before { content: "\f102"; }
+.lnr-plant:before { content: "\f103"; }
+.lnr-green-earth:before { content: "\f104"; }
+.lnr-antioxidant:before { content: "\f105"; }
+.lnr-potion:before { content: "\f106"; }
+.lnr-bear:before { content: "\f107"; }
+.lnr-mountains:before { content: "\f108"; }
+.lnr-prostate-cancer:before { content: "\f109"; }
+.lnr-stress:before { content: "\f10a"; }
+.lnr-fever:before { content: "\f10b"; }
+.lnr-sleep:before { content: "\f10c"; }
+.lnr-diarrhea:before { content: "\f10d"; }
+.lnr-heart:before { content: "\f10e"; }
+.lnr-strong-muscle:before { content: "\f10f"; }
+.lnr-tight-fist:before { content: "\f110"; }
+.lnr-motivation-fist:before { content: "\f111"; }
+.lnr-body:before { content: "\f112"; }

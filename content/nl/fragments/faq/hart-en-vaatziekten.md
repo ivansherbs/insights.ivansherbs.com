@@ -2,9 +2,9 @@
 
 [[toc]]
 
-### Hoeveel impact hebben hart- en vaatziekten in Nederland?
+## Hoeveel impact hebben hart- en vaatziekten in Nederland?
 
-Laten we er niet omheen draaien. Om een beter beeld te krijgen beginnen met een overzicht. 
+Laten we er niet omheen draaien. Om een beter beeld te krijgen beginnen met een overzicht.
 
 In dit overzicht krijg je simpelweg een aantal statistieken om je een indruk te geven van dit probleem in Nederland.
 
@@ -14,7 +14,7 @@ In dit overzicht krijg je simpelweg een aantal statistieken om je een indruk te 
 * Elke dag worden er bijna 300 vrouwen in het ziekenhuis opgenomen met hart- of vaatziekten.
 * 27% van de Nederlanders overlijdt aan hart- of vaatziekten.
 
-### Waardoor krijg je hart- en vaatziekten?
+## Waardoor krijg je hart- en vaatziekten?
 
 Er zijn verschillende risicofactoren die de kans vergroten. Deze risico’s zijn onlosmakend met elkaar verbonden. Hieronder enkele voorbeelden:
 * Roken - vergroot de kans op hart- en vaatziekten op meerdere manieren:
@@ -34,6 +34,6 @@ Dit begint met stress in combinatie met:
   - en ontstekingsreacties <br>
 * Erfelijkheid - naast alle bovengenoemde risicofactoren - die zijn te beïnvloeden door het aanpassen van je levensstijl - hebben we tevens te maken met erfelijkheid. Met andere woorden, je hebt erfelijke aanleg om - voor je 65e levensjaar - hart- en vaatziekten op te lopen.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
-Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.
+Ivan Chai zit boordevol tannines. Tannines zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.

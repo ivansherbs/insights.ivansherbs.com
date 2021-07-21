@@ -2,7 +2,7 @@
 
 [[toc]]
 
-### Wat is een burnout?
+## Wat is een burnout?
 
 Onze dikke Van Dale omschrijft een burnout op de volgende manier:
 > (de; m; meervoud: burnouts) 1. toestand van geestelijke uitputting ten gevolge van langdurige stress
@@ -11,7 +11,7 @@ Bij een burnout wisselt een periode van veel inspanning zich in voor een periode
 
 > Zowel man, vrouw, jong en oud hebben last van een burnout
 
-### Komt dit probleem veel voor?
+## Komt dit probleem veel voor?
 
 Ja. Volgens de grote Zorgverzekeraars van Nederland, is dit een ernstig probleem. Ongeveer 17% tot 23% van de werkende mensen heeft last van burnout klachten.
 
@@ -21,7 +21,7 @@ Om de statistieken even aan te vullen.
 
 Burnout klachten kosten de Nederlandse economie gemiddeld € 2.800.000.000, zeggende: twee miljard en acht honderd miljoen euro, per jaar aan verzuimkosten, als gevolg van stress.
 
-### Wat heeft een burnout te maken met stress?
+## Wat heeft een burnout te maken met stress?
 
 Alles. Een burnout is het gevolg van een overmatige hoeveelheid aan stress. Meestal veroorzaakt door werk. Wanneer je voor lange periode, te hard werkt kan het zijn dat je door een overmatige hoeveelheid aan stress, je hersencapaciteit overbelast.
 
@@ -31,7 +31,7 @@ Je kunt het vergelijken met het rijden in een auto. Deze auto heeft een paar maa
 
 Ondanks dat de auto snel gaat, wordt de motor overbelast. Terugschakelen is gewenst om schade te doen voorkomen.
 
-### Is dit dan ook vergelijkbaar met een bore-out?
+## Is dit dan ook vergelijkbaar met een bore-out?
 
 Ja. De gevolgen zijn vergelijkbaar. Echter verschilt de oorzaak.
 
@@ -49,7 +49,7 @@ Bij een **bore-out** heb je op werk:
 
 Beide, met hetzelfde energieniveau tot gevolg.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
 **Ivan Chai vermindert de kans op een burnout**
 

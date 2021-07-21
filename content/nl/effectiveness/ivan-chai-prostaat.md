@@ -10,12 +10,12 @@ tags:
 - prostaat
 - urinewegen
 - man
-- 45+
 meta:
-  description: Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. Benieuwd naar de inzichten?
+  description: Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. Benieuwd naar onze inzichten?
   keywords: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bph, prostaatontsteking, prostaatkanker
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
+  footer: nl/fragments/faq/prostaatkanker
 banner:
   image: 3NRH8dvMHatZ0F6sDLxK4h
   effect: o-lg-60d-black
@@ -26,7 +26,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 ### Effectiviteit
 
@@ -53,7 +53,7 @@ Vanwege het meer dan 30 jaar veelvuldig traditionele medicinale gebruik van epil
 
 Er zijn tot op heden geen ongewenste of ernstige bijwerkingen en sterfgevallen van Ivan Chai gemeld.
 
-> Ter info: Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
+> Ter informatie: Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
 
 ### Interacties
 
@@ -63,7 +63,7 @@ Interacties (wisselwerking met andere medicijnen) zijn gedurende klinische onder
 
 Goed om te weten bij het uitzoeken van uw producten. De basis van al onze Siberische kruidentheeën is Ivan Chai vanwege de geneeskrachtige werking.
 
-[[shopifyCollection 235543658662 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]
 
 Al onze kruiden zijn geselecteerd volgens Eco7 Standaard.
 
@@ -73,4 +73,12 @@ Door onze Eco7 Standaard te volgen zijn onze producten tevens:
 
 * Vrij van ontbossing
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+### Artikelen
+
+Meer weten over de volgende onderwerpern?
+
+[Vergrote prostaat](/nl/artikel/groeien-tot-u-erbij-neervalt)
+
+[Prostaatontsteking](/nl/artikel/geen-touw-aan-vast-te-knopen)
+
+[Prostaatkanker](/nl/artikel/een-onopgemerkt-probleem)

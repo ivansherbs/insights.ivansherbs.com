@@ -42,11 +42,11 @@ Maak dan nu eerst de tube open en strooi wat Ivan Chai in uw handpalm.
 
 Door het met de hand rollen van de kruiden wordt het vocht uit de bladeren geperst wat ten goede komt voor de start het fermentatieproces.
 
-Ter info: het fermentatieproces is een belangrijk onderdeel om over langere periode de authentieke smaak te behouden. Tevens wordt door het heel laten van de bladeren de kans op gruis vermindert.
+Het fermentatieproces is een belangrijk onderdeel om over langere periode de authentieke smaak te behouden. Tevens wordt door het heel laten van de bladeren de kans op gruis vermindert.
 
 **Hoeveelheid**: het is wordt aangeraden om 1,5 tot 2 gram losse bladeren te gebruiken per kopje thee (ongeveer 1 eetlepel).
 
-Ter info: om de voordelen in Ivan Chai te ervaren is 1,5 - 2 gram losse bladeren tevens de aanbevolen hoeveelheid volgens hedendaags onderzoek. Deze hoeveelheid is bevestigd door het European Medicines Agency.
+T> er informatie: om de voordelen in Ivan Chai te ervaren is 1,5 - 2 gram losse bladeren tevens de aanbevolen hoeveelheid volgens hedendaags onderzoek. Deze hoeveelheid is bevestigd door het European Medicines Agency.
 
 Voor een pot thee van 1 liter is ongeveer 10 gram losse bladeren de norm (ongeveer 5 eetlepels).
 

@@ -6,8 +6,7 @@ category: welkomstbrief
 publish:
   author: Michael Koch
 meta:
-  # TODO Stefan: removing the TODO without adding a value for description will not pass unit testing
-  description: TODO
+  description: Mijn naam is Michael Koch, één van de oprichters van Ivan's Herbs. Benieuwd naar mijn verhaal?
   keywords: ivan Chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, natuur, geneeskrachtig, michael koch, ivan's herbs
 banner:
   image: 4xERvF6aRTWBQwMFipxC3k
@@ -107,9 +106,9 @@ Zoals reeds beloofd, hierbij uw KORTINGSCODE:
 
 <p style="text-align: center"><b>ivans-herbs-kruidenthee</b></p>
 
-Ter info: uw kortingscode is geldig voor onze bestsellers
+Ter informatie: uw kortingscode is geldig voor onze bestsellers
 
-Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
+Bekijk ons ruime assortiment aan kruidentheeën uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
 
 ## Bestsellers | Top 3
 

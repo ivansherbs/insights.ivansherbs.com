@@ -2,7 +2,7 @@
 
 [[toc]]
 
-### Wat zijn de symptomen van prostaatkanker?
+## Wat zijn de symptomen van prostaatkanker?
 
 Bij circa 10.000 Nederlandse mannen wordt er jaarlijks prostaatkanker vastgesteld. Mannen vanaf een jaar of 50 hebben meer kans om prostaatkanker op te lopen.
 
@@ -14,7 +14,7 @@ Denk aan de volgende symptomen:
 
 Hiernaast kun u last krijgen van een minder krachtige urinestraal. U kunt niet goed beginnen. Wordt soms onbedoeld onderbroken. Of krijgt juist aandrang om weer te plassen.
 
-### Hoe kunt u prostaatkanker constateren?
+## Hoe kunt u prostaatkanker constateren?
 
 Laten we dit antwoord inleiden door u een korte uitleg te geven over PSA-waarden. PSA staat voor ‘prostaat specifiek antigeen’. Dit is een eiwit dat in uw bloed voorkomt. Het klierweefsel van uw prostaat maakt deze eiwit aan.
 
@@ -33,7 +33,7 @@ Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverho
 
 Ivan Chai bevat meerdere voordelen die niet alleen de gezondheid van de prostaat verzorgen. Ontdek de 7 voordelen van Ivan Chai.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
 **Ivan Chai verzorgt de gezondheid van de prostaat**
 

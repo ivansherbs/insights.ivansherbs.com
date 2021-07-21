@@ -83,7 +83,7 @@ Dit komt vanwege de 7 voordelen goed voor lichaam en geest.
 
 2. Krachtige ontstekingsremmer
 
-3. Versterkt de antioxiderede werking
+3. Versterkt de antioxiderende werking
 
 4. Verbetert de nachtrust
 
@@ -244,7 +244,7 @@ Wat betreft prostaatkanker. Tot op heden zijn er meerdere onderzoeken gedaan naa
 
 VOORDEEL 2
 
-### Versterkt de antioxiderede werking
+### Versterkt de antioxiderende werking
 
 - Nederland telt circa 1.400.000 hart- en vaatpatiënten.
 - 1 op de 4 vrouwen in Nederland overlijdt aan een hart- of vaatziekten.
@@ -344,7 +344,7 @@ _“Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceut
 
 ### Mocht u benieuwd zijn naar de oorsprong van Ivan Chai en waarom deze kruidensoort de familienaam 'Fireweed' heeft gekrgen?
 
-https://insights.ivansherbs.com/nl/articles/ivanchai/de-oorsprong-van-ivan-chai
+https://insights.ivansherbs.com/nl/artikel/ivanchai/de-oorsprong-van-ivan-chai
 
 ### Benieuwd naar de commissiestructuur?
 
@@ -364,7 +364,7 @@ Goed om te weten. Mocht de samenwerking bevallen en er voor beide partijen een w
 
 https://www.paypro.nl/
 
-Ter info: mochten wij overstappen van platform, dan laten wij u dat zo spoedig mogelijk weten.
+Ter informatie: mochten wij overstappen van platform, dan laten wij u dat zo spoedig mogelijk weten.
 
 ### Heeft u bepaalde ideeën over het promoten van onze kruiden, maar heeft u meer materiaal nodig?
 

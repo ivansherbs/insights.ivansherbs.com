@@ -2,13 +2,13 @@
 
 [[toc]]
 
-### Wat is een tandvleesontsteking?
+## Wat is een tandvleesontsteking?
 
-Een tandvleesontsteking is een ontsteking in de mond van het tandvlees. Het is over het algemeen gezien een gevolg van slechte mondhygiëne. 
+Een tandvleesontsteking is een ontsteking in de mond van het tandvlees. Het is over het algemeen gezien een gevolg van slechte mondhygiëne.
 
-Een tandvleesontsteking kan worden veroorzaakt door verschillende soorten infecties. Een infectie kan worden veroorzaakt  door verschillende soorten micro organismen. Denk aan bacteriën, schimmels, gist of een virus. 
+Een tandvleesontsteking kan worden veroorzaakt door verschillende soorten infecties. Een infectie kan worden veroorzaakt  door verschillende soorten micro organismen. Denk aan bacteriën, schimmels, gist of een virus.
 
-### Wat zijn de symptomen van een tandvleesontsteking?
+## Wat zijn de symptomen van een tandvleesontsteking?
 
 * pijnlijk tandvlees
 * geïrriteerd tandvlees
@@ -17,7 +17,7 @@ Een tandvleesontsteking kan worden veroorzaakt door verschillende soorten infect
 * opgezwollen tandvlees
 * last van fistels, blaasjes, aften
 
-### Welke medicijnen vergroten de kans op een infectie ( met ontstoken tandvlees tot gevolg)?
+## Welke medicijnen vergroten de kans op een infectie ( met ontstoken tandvlees tot gevolg)?
 
 Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 * Antibiotica
@@ -26,7 +26,7 @@ Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 
 Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
-### Waardoor vergroot ik de kans op ontstoken tandvlees?
+## Waardoor vergroot ik de kans op ontstoken tandvlees?
 
 Er zijn verschillende risicofactoren die de kans op ontstoken tandvlees vergroten. Wederom enkele voorbeelden:
 
@@ -40,7 +40,7 @@ Er zijn verschillende risicofactoren die de kans op ontstoken tandvlees vergrote
 
 * Ziekten. Bijvoorbeeld mensen met diabetes zijn extra gevoelig voor infecties.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
 **Ivan Chai werkt als een krachtige ontstekingsremmer**
 
@@ -67,4 +67,4 @@ Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterke
 
 **Ivan Chai vermindert de kans op angst**
 * Ivan Chai heeft een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek ondersteund deze kalmerende werking. De kalmerende werking heeft namelijk effect op je centrale zenuwstelsel.
-Handig voordeel. Voor bijvoorbeeld je halfjaarlijkse bezoek aan de tandartspraktijk. 
+Handig voordeel. Voor bijvoorbeeld je halfjaarlijkse bezoek aan de tandartspraktijk.

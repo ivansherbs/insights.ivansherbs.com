@@ -2,15 +2,15 @@
 
 [[toc]]
 
-### Wat is een peesontsteking?
+## Wat is een peesontsteking?
 
 Een peesontsteking is een reactie op een irritatie van je pees. Pezen hebben de verbindende taak op zich genomen om je spier en bot bij elkaar te houden. De pijn ontstaat op de plek waar je pees vast zit aan het bot.
 
-### Waardoor krijg je een peesontsteking?
+## Waardoor krijg je een peesontsteking?
 
 Een peesontsteking kan ontstaan bij een belastende activiteit. Met name hebben de schouder, pols, heup, knie en hiel het vaakst te kampen met een onsteking. Vaak wordt deze overbelasting veroorzaakt door sport.
 
-### Aan welke sporten moet ik denken?
+## Aan welke sporten moet ik denken?
 
 Bij sporten waar je vaak dezelfde snelle, krachtige en explosieve bewegingen maakt. Hierdoor worden je spieren vaak en intensief belast.
 
@@ -20,7 +20,7 @@ Je schouders, armen, benen maar ook handen komen door dezelfde bewegingen onder 
 
 Er zijn naast tennis tal van sporten waarbij snelle, krachtige en explosieve bewegingen worden gebruikt. Denk aan de gangbare duur-, kracht-, maar ook balsporten.
 
-### Welke symptomen duiden op een peesontsteking?
+## Welke symptomen duiden op een peesontsteking?
 
 Er zijn verschillende symptomen die wijzen op een peesontsteking:
 * Je pees doet pijn tijdens inspanningen.
@@ -31,14 +31,14 @@ Er zijn verschillende symptomen die wijzen op een peesontsteking:
 * De pijnlijke plek kleurt rood.
 * De pijnlijke plek kan warm aanvoelen.
 
-### Welke medicijnen behandelen een peesontsteking?
+## Welke medicijnen behandelen een peesontsteking?
 
 Een ontsteking kan worden behandeld met:
 * Pijnstillers, pakt niet de ontsteking aan.
 * Ontstekingsremmers, pakt niet de pijn aan.
 * Ontstekingsremmende pijnstillers, pakt zowel de pijn als de ontsteking aan. Maar geven wél de meeste ongewenste bijwerkingen.
 
-### Welk effect heeft het gebruik van medicijnen op een peesontsteking?
+## Welk effect heeft het gebruik van medicijnen op een peesontsteking?
 
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen uit de farmaceutische industrie ongewenste bijwerkingen met zich meebrengen.
 
@@ -46,7 +46,7 @@ Het kan zijn dat door gebruik van het medicijn ook je weerstand vermindert. Hier
 
 Zo zijn er tal van ongewenste bijwerkingen.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
 **Ivan Chai werkt als een krachtige ontstekingsremmer**
 

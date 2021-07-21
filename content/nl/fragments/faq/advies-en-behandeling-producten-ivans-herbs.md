@@ -11,21 +11,21 @@ Gebruik de producten van Ivan’s Herbs als alternatief of aanvulling op medicij
 
 [[toc]]
 
-### Welke dosering en behandelingskuur raden jullie aan?
+## Welke dosering en behandelingskuur raden jullie aan?
 
 De dosering en behandelingskuur verschilt per product van Ivan’s Herbs. Wij streven ernaar per product een zo eenduidig mogelijke advies mee te geven.
 
-### Is het effect van kruiden uit Siberië direct voelbaar?
+## Is het effect van kruiden uit Siberië direct voelbaar?
 
 De werking van de producten van Ivan’s Herbs gaan vooraf aan een zogenaamde opbouwfase. Na deze opbouwfase is het effect voelbaar.
 
 In andere woorden, eenmalig gebruik van het product maakt niet direct het verschil.
 
-### Wanneer mijn klachten zijn verholpen, kan ik stoppen met het gebruik van de producten van Ivan’s Herbs?
+## Wanneer mijn klachten zijn verholpen, kan ik stoppen met het gebruik van de producten van Ivan’s Herbs?
 
 Wij raden het aan periodiek een preventieve behandeling met regelmaat te herhalen.
 
-### Treden er ongewenste bijwerkingen op na gebruik van de producten van Ivan’s Herbs?
+## Treden er ongewenste bijwerkingen op na gebruik van de producten van Ivan’s Herbs?
 
 Er zijn tot op heden geen ongewenste bijwerkingen van onze producten gemeld:
 
@@ -50,7 +50,7 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 * Verlaagde bloeddruk
 * Coma
 
-#### Contra-indicaties en waarschuwingen
+### Contra-indicaties en waarschuwingen
 
 Het gebruik van de producten van Ivan’s Herbs kan als extreem veilig worden beschouwd.
 
@@ -62,7 +62,7 @@ De veiligheid voor kinderen verschilt per product.
 
 * Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van de producten van Ivan’s Herbs gemeld gericht op de vruchtbaarheid.
 
-### Tot slot
+## Tot slot
 
 Ivan’s Herbs biedt veilige producten aan zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief door klinisch onderzoek.
 

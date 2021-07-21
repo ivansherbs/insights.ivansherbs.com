@@ -2,7 +2,7 @@
 
 [[toc]]
 
-### Wat is een vergrote prostaat?
+## Wat is een vergrote prostaat?
 
 Een vergrote prostaat is een goedaardige aandoening waarbij de prostaat is gaan groeien.
 
@@ -10,9 +10,9 @@ Echter kan dit probleem leiden tot veel en vaak plassen.
 
 Of juist moeilijk plassen.
 
-Hiernaast kun je last krijgen van een minder krachtige urinestraal. Je kunt niet goed beginnen met plassen. Wordt soms onbedoeld onderbroken. Krijgt juist aandrang om weer te plassen. En in sommige gevallen kun je last krijgen van lichtelijk urineverlies. 
+Hiernaast kun je last krijgen van een minder krachtige urinestraal. Je kunt niet goed beginnen met plassen. Wordt soms onbedoeld onderbroken. Krijgt juist aandrang om weer te plassen. En in sommige gevallen kun je last krijgen van lichtelijk urineverlies.
 
-### Welk effect heeft het gebruik van farmaceutische medicijnen?
+## Welk effect heeft het gebruik van farmaceutische medicijnen?
 
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
@@ -22,7 +22,7 @@ Zo zijn er tal van ongewenste bijwerkingen.
 
 Deze bijwerkingen kunnen worden bestreden met Ivan Chai.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
 **Ivan Chai verzorgt de gezondheid van de prostaat**
 

@@ -8,10 +8,6 @@ publish:
   author: Ivan Alexandrovitsj
   date: 1 april
 tags:
-- ontsteking
-- levensstijl
-- eyeopener
-- gevoel
 meta:
   description: Hou jij ook van een paar glazen alcohol? Allemaal op één avond? Lees dan even heel snel de brief van Ivan over overmatig alcohol gebruik.
   keywords: keelontsteking, keelontsteking symptomen, keelpijn bij slikken, symptomen keelontsteking, ontstoken keel, droge keel, alcohol, droge mond en keel
@@ -19,7 +15,7 @@ fragments:
   header: nl/fragments/voordelen/2-krachtige-ontstekingsremmer
   footer: nl/fragments/faq/keelontsteking
 banner:
-  image: 1RkPkuO0uwOeVRXiaZMnYP
+  image: 40sFdpTxhMeNLkACEEAvAI
   effect: o-lg-60d-black
 contentful:
   imageOptions:
@@ -30,7 +26,11 @@ shopify:
 ---
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
-Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL. En dat allemaal op één avond. Voel je vooral niet aangesproken. We bekijken zometeen namelijk ook nog even de statistieken. HA-HA.
+Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere glazen ALCOHOL.
+
+En dat allemaal op één avond. Voel je vooral niet aangesproken.
+
+We bekijken zometeen namelijk ook nog even de statistieken. HA-HA.
 
 .................
 
@@ -40,17 +40,27 @@ Dit is een BRIEF. Voor IEDEREEN die zich wel eens TE BUITEN GAAT aan meerdere gl
 
 **Beste Gezelligheidsdrinker,**
 
-Zo dan. Het was me weer een feestje. De alcohol vloeide rijkelijk. Je babbelde er flink op los. En wederom ben je de man met de hamer tegengekomen. Echter. Verliep zijn avond anders dan gepland. Jij hebt hem dit keer spreekwoordelijk gewoon eens lekker op z’n bek geslagen. En goed ook. Doei doei. Netjes gezegd.
+Zo dan. Het was me weer eens een feestje. De alcohol vloeide rijkelijk. Je babbelde er flink op los. En wederom ben je de man met de hamer tegengekomen.
 
-Gewoon even lekker op wieberen met die hamer van je. Sterker nog. Je hebt de hamer afgepakt en em wederom spreekwoordelijk diep in zijn…. Vul maar lekker zelf in waar je die hamer hebt gelaten. We gaan nog niet naar huis. Nog lange niet nog lange niet. Man man man! Wat hadden we het gezellig. Maar zoals een wijs man zou spreken.
+Echter, verliep zijn avond anders dan gepland. Jij hebt hem dit keer spreekwoordelijk gewoon eens lekker op z’n bek geslagen. En goed ook. Doei doei. Netjes gezegd...
 
-**"AAN ALLES KOMT EEN EINDE"**
+Gewoon even lekker op wieberen met die hamer van je. Sterker nog. Je hebt de hamer afgepakt en em wederom diep in zijn…. (Vul-maar-lekker-zelf-in-waar-je-die-hamer-hebt-gelaten)
 
-En zonder dat je er erg in hebt. Wordt je wakker. Alsof je bent geteleporteerd. Je hebt gewoon even lekker in een diepe slaap gelegen. En dat mag ook wel. En waarom ook niet? Laten we NU de cijfers er eens even bijpakken om je gedrag goed te praten. 4 op de 10 Nederlanders drinkt wel eens alcohol. En nu komt de grap.
+We gaan nog niet naar huis. Nog lange niet nog lange niet. Man man man! Wat hadden we het gezellig. Maar zoals een wijs man zou spreken.
+
+## "AAN ALLES KOMT EEN EINDE"
+
+En zonder dat je er erg in hebt. Wordt je wakker. Alsof je bent geteleporteerd. Je hebt gewoon even lekker in een diepe slaap gelegen. En dat mag ook wel. En waarom ook niet?
+
+Laten we NU de cijfers er eens even bijpakken om je gedrag goed te praten. **4 op de 10 Nederlanders drinkt wel eens alcohol.** En nu komt de grap...
 
 * Je bent al een zware drinker als je minstens 1 keer per week 6 glazen of meer op één dag drinkt.
 
-Zoooo he. ha-ha. Nou nou. poe poe. Dat was werken. Daarentegen. Voel je dat er ook wat consequentie aan zijn verbonden. Je bent namelijk wederom opgestaan met een pijnlijke keel. Je kent het onaangename gevoel.
+Zoooo he. ha-ha. Nou nou. poe poe.
+
+Dat was werken. Daarentegen. Voel je nu eindeiljk dat er ook wat consequentie aan zijn verbonden?
+
+Je bent namelijk wederom opgestaan met een pijnlijke keel. Je kent het onaangename gevoel.
 
 **Om even een opsomming te maken.**
 
@@ -62,25 +72,31 @@ Zoooo he. ha-ha. Nou nou. poe poe. Dat was werken. Daarentegen. Voel je dat er o
 
 * Tevens moet je vaak hoesten. Kuchen kun je het beter noemen. En zo nu en dan komen daar dan brokken bij naar boven. Die slik je vervolgens uit reactie ook weer heerlijk in.
 
-**Nadeel is.** We zitten in een periode van het jaar dat je weerstand een tikkeltje lager is. En daarom heb je ook nog eens last van een beetje koorts. Je ligt in bed en je probeert wederom te gaan slapen. Met grote ergernis draai je een keer om. Dan maar nadenken over wat je het afgelopen weekend hebt gedaan.
+**Nadeel is.** We zitten in een periode van het jaar dat je weerstand een tikkeltje lager is. En daarom heb je ook nog eens last van een beetje koorts. Je ligt in bed en je probeert wederom te gaan slapen. Met grote ergernis draai je een keer om...
+
+Dan maar nadenken over wat je het afgelopen weekend hebt gedaan.
 
 Geen idee waar ‘t eigenlijk over ging. Of wat de strekking was van het verhaal. Het was weer eens véél te gezellig. De alcohol vloeide rijkelijk. En wat was dat lekker. Nu je weer bij zinnen bent gekomen merk je dat je ook een dagje ouder wordt. Jammer genoeg.
 
 Slapen lukt niet meer. De dag begint. Vermoeid sta je op. Je loopt naar de badkamer. Eenmaal aangekomen. Kijk je jezelf eens even goed aan in de spiegel.
 
-**"Vreselijk. Je ziet er niet uit. Alweer niet."**
+**"Vreselijk. Je ziet er niet uit. Alweer niet..."**
 
 ha-ha. Je haar zit door de war. Je ogen hangen op half 7. En je irriteert je nog steeds mateloos aan die droge keel van je. Wat sinds je wakker bent met de seconde erger wordt. Gelukkig valt de hoofdpijn mee. Echter hebben die 3 glazen koud water nog steeds geen effect.
 
 Je denkt even zeer omslachtig na. Waardoor het lijkt of de tijd even stil staat. En komt dan vervolgens ineens uit het niets tot een conclusie!
 
-Inderdaad. Je gevoel vertelt je dat je wel een lichte keelontsteking moet hebben opgelopen. Zo. Dat is er uit. Bij deze wil ik je dan ook het volgende laten weten. Ook ik ken de symptomen van overmatig alcohol gebruik. Ik ga je bij deze dan ook een tip geven waar je de rest van je leven wat aan hebt.
+Inderdaad. Je gevoel vertelt je dat je wel een lichte keelontsteking moet hebben opgelopen.
 
-**"DE REST VAN JE LEVEN."**
+Zo hé. Dat is er uit.
+
+Bij deze wil ik je dan ook het volgende laten weten. Ook ik ken de symptomen van overmatig alcohol gebruik. Ik ga je bij deze dan ook een tip geven waar je de rest van je leven wat aan hebt.
+
+## "DE REST VAN JE LEVEN."
 
 Want alsof je géén alcohol meer gaat drinken. ha-ha. Tuurlijk wel. Hier komt de tip.
 
-[[contentfulImage 6JUxtmQpjSTBeA5dy0TQsM]]
+[[contentfulImage 34MXPDXvA86s3ZifILL9HL]]
 
 **Drink Ivan Chai.** Voor en ná een avondje uit met mannen. Of lekker met de meiden. Want.
 
@@ -96,11 +112,11 @@ En.
 
 * Ivan Chai bestaat uit water waar je lichaam nu een hoop behoefte aan heeft.
 
-**Tot slot.** Om mijn brief nog even heel wijselijk af te sluiten. **"Een gewaarschuwd mens telt voor twee."** Doe ermee wat je wilt. En geniet van je vrije dag zonder keelontsteking.
+**Tot slot.** Om mijn brief nog even heel wijselijk af te sluiten. **"Een gewaarschuwd mens telt voor twee."** Doe ermee wat je wilt. En geniet van je vrije zondag zonder keelontsteking.
 
 Hartelijke groet,
 
-Ivan Alexandrovitsj
+Ivan
 
 .................
 
@@ -112,4 +128,4 @@ Neem daarom het drinken van Siberische kruidenthee op in je dagelijkse routine. 
 
 Meer weten over een keelontsteking?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]

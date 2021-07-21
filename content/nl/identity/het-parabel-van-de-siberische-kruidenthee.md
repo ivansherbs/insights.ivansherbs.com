@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
 title: "Het parabel van de Siberische kruidenthee: Ivan Chai"
-url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee
+url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee-ivan-chai
 type: geschiedenis
 category: Ivan Chai
 publish:
@@ -9,6 +9,7 @@ publish:
 tags:
 - geschiedenis
 - ivan chai
+- eyeopener
 meta:
   description: Ontdek de geschiedenis van Ivan Chai. Het waren de monniken ter hoogte van de Altaj... [lees het volledige verhaal]
   keywords: geschiedenis, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtige werking, 17e eeuw, rusland, russische revolutie, Kapori Chai, Pu er
@@ -71,3 +72,5 @@ Er zouden geruchten zijn verspreid dat de Russen Ivan Chai vergiftigden met natt
 In de nasleep van de Russische revolutie van 1917 stopte de commerciële productie. De consumptie van Ivan Chai was vrijwel tot nul gedaald voor West-Europa en delen van Rusland.
 
 Zelfs in Rusland bleef deze geneeskrachtige kruidenthee Ivan Chai wederom enigszins onbekend. Anno 2017 vond er langzaam een opleving plaats waarbij Ivan Chai werd geherintroduceerd in West-Europa.
+
+[[shopifyCollection 269339164838 buttonDestination=modal]]
