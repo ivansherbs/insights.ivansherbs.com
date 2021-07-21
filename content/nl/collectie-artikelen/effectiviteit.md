@@ -35,7 +35,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 * [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
 
-[[contentfulImage 2yAn4A04voeeWViVHj6gCV fm=png q=100 w=15 h=15]]
+[[contentfulImage 2yAn4A04voeeWViVHj6gCV fm=png q=100 w=100 h=100]]
 
 ### Hedendaags onderzoek
 
@@ -43,7 +43,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 * [Ivan Chai: Grootmoeders kennen de voordelen](/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen) door Ivanka Lopukhina
 
-[[contentfulImage iePP27X62mXQPHJIlVPXu fm=png q=100 w=15 h=15]]
+[[contentfulImage iePP27X62mXQPHJIlVPXu fm=png q=100 w=100 h=100]]
 
 ### Prostaatklachten man
 
@@ -53,7 +53,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 * [Groeien tot u erbij neervalt…](/nl/artikel/groeien-tot-u-erbij-neervalt) door Ivan Alexandrovitsj
 
-[[contentfulImage 7tkrB5iyMzzWwg2vDGrD6Q fm=png q=100 w=15 h=15]]
+[[contentfulImage 7tkrB5iyMzzWwg2vDGrD6Q fm=png q=100 w=100 h=100]]
 
 ### Blaasontsteking vrouw
 
