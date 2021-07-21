@@ -28,8 +28,6 @@ shopify:
 Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
 
 [[contentfulImage 6eoKQHvDNsD8h0gBat506V fm=png q=100 w=100 h=100]]
-<img src="assets/img/flaticon-ema.png" width="100" height="100">
-
 
 ### Effectiviteit EMA
 
@@ -37,9 +35,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 * [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
 
-[[contentfulImage 2yAn4A04voeeWViVHj6gCV fm=png q=100 w=100 h=100]]
-<img src="assets/img/flaticon-microscope.png" width="100" height="100">
-
+[[contentfulImage 2yAn4A04voeeWViVHj6gCV fm=png q=100 w=15 h=15]]
 
 ### Hedendaags onderzoek
 
@@ -47,9 +43,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 * [Ivan Chai: Grootmoeders kennen de voordelen](/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen) door Ivanka Lopukhina
 
-[[contentfulImage iePP27X62mXQPHJIlVPXu fm=png q=100 w=100 h=100]]
-<img src="assets/img/flaticon-prostate.png" width="100" height="100">
-
+[[contentfulImage iePP27X62mXQPHJIlVPXu fm=png q=100 w=15 h=15]]
 
 ### Prostaatklachten man
 
@@ -59,9 +53,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 * [Groeien tot u erbij neervalt…](/nl/artikel/groeien-tot-u-erbij-neervalt) door Ivan Alexandrovitsj
 
-[[contentfulImage 7tkrB5iyMzzWwg2vDGrD6Q fm=png q=100 w=100 h=100]]
-<img src="assets/img/flaticon-bladder.png" width="100" height="100">
-
+[[contentfulImage 7tkrB5iyMzzWwg2vDGrD6Q fm=png q=100 w=15 h=15]]
 
 ### Blaasontsteking vrouw
 
