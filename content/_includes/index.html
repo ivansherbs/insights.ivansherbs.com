@@ -12,11 +12,11 @@ layout: collection.html
                 </div>
                 {%- for article in collections[tag] -%}
                 <div class="col-md-4">
-                    <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72">
-                        <div class="blog-img">
+                    <div class="blog-box">
+                        <div class="blog-img" style="box-shadow: 7px 11px 21px #8f8a72">
                             <a href="{{ article.url }}"><img src="{{ generated.contentful.banner_images[article.data.banner.image] }}?w=255&h=170&q=50&fit=fill" class="img-fluid" alt=""></a>
                         </div>
-                        <div class="blog-details">
+                        <div class="blog-details" style="box-shadow: 7px 11px 21px #8f8a72">
                             <div class="space-15"></div>
                             <h3 style="font-family:monad"><a href="{{ article.url }}">{{ article.data.title }}</a></h3 >
                             <div class="space-15"></div>
