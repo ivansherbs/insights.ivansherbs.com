@@ -1134,6 +1134,7 @@ footer .subscribe .subscribe-form-2 .form-group {
 .fun-facts .fact-box .lnr {
     font-size: 50px;
     margin: 10px 0 20px;
+    width: auto;
 }
 
 .fun-facts .fact-box h5 {
@@ -1434,6 +1435,7 @@ footer .subscribe .subscribe-form-2 .form-group {
     padding: 0;
     list-style: none;
     margin: 0;
+    width: auto;
 }
 
 .news-meta li {
@@ -1441,7 +1443,6 @@ footer .subscribe .subscribe-form-2 .form-group {
     font-size: 14px;
     color: #c2c2c2;
     margin-right: 15px;
-    font-family: papyrus;
 }
 
 .news-meta ul li span {
@@ -1586,6 +1587,7 @@ footer .subscribe .subscribe-form-2 .form-group {
     font-size: 60px;
     text-align: center;
     margin: 0 auto 20px;
+    width: auto;
 }
 
 .git-in-touch .contact-info .info-box h5,
@@ -1793,29 +1795,19 @@ footer .copyright a {
 
 .blog-page .blog-box .blog-img a {
     display: block;
-    display: block;
     margin-left: auto;
     margin-right: auto;
     border:2px solid #fff;
-    -moz-box-shadow: 0px 6px 5px #ccc;
-    -webkit-box-shadow: 0px 6px 5px #ccc;
     box-shadow: 0px 6px 5px #ccc;
-    -moz-border-radius:190px;
-    -webkit-border-radius:190px;
     border-radius:190px;
 }
 
 .blog-page .blog-box .blog-img a img {
-    width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border:2px solid #fff;
-    -moz-box-shadow: 0px 6px 5px #ccc;
-    -webkit-box-shadow: 0px 6px 5px #ccc;
     box-shadow: 0px 6px 5px #ccc;
-    -moz-border-radius:190px;
-    -webkit-border-radius:190px;
     border-radius:190px;
 }
 
@@ -2050,11 +2042,7 @@ aside.sidebar .tags ul li {
     margin-left: auto;
     margin-right: auto;
     border:2px solid #fff;
-    -moz-box-shadow: 0px 6px 5px #ccc;
-    -webkit-box-shadow: 0px 6px 5px #ccc;
     box-shadow: 0px 6px 5px #ccc;
-    -moz-border-radius:190px;
-    -webkit-border-radius:190px;
     border-radius:190px;
 }
 
