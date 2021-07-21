@@ -27,7 +27,7 @@ shopify:
 
 Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
 
-[[contentfulImage 6eoKQHvDNsD8h0gBat506V fm=png q=100 w=100 h=100 fit=scale]]
+[[contentfulImage 6eoKQHvDNsD8h0gBat506V fm=png q=100 w=100 h=100]] <center><img src="https://app.contentful.com/spaces/lyvtxhzy9zgr/assets/6eoKQHvDNsD8h0gBat506V" width="100" height="100"></center>
 
 ### Effectiviteit EMA
 
@@ -35,7 +35,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 * [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
 
-[[contentfulImage 2yAn4A04voeeWViVHj6gCV fm=png q=100 w=100 h=100 fit=fill]]
+[[contentfulImage 2yAn4A04voeeWViVHj6gCV fm=png q=100 w=100 h=100]]
 
 ### Hedendaags onderzoek
 
@@ -43,7 +43,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 * [Ivan Chai: Grootmoeders kennen de voordelen](/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen) door Ivanka Lopukhina
 
-[[contentfulImage iePP27X62mXQPHJIlVPXu fm=png q=100 w=100 h=100 fit=crop]]
+[[contentfulImage iePP27X62mXQPHJIlVPXu fm=png q=100 w=100 h=100]]
 
 ### Prostaatklachten man
 
