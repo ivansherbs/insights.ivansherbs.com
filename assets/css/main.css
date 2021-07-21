@@ -74,10 +74,10 @@ p {
 .lnr  {
     display: inline-block;
     fill: currentColor;
-    width: auto;
     height: 1em;
-    vertical-align: -0.05em;
+    vertical-align: 1em;
     color: #134d7e;
+    font-family: papyrus;
 }
 
 a:focus {
@@ -1440,7 +1440,7 @@ footer .subscribe .subscribe-form-2 .form-group {
 
 .news-meta li {
     display: inline-block;
-    font-size: 14px;
+    font-size: 15px;
     color: #c2c2c2;
     margin-right: 15px;
 }
@@ -1780,7 +1780,8 @@ footer .copyright a {
 }
 
 .blog-page .blog-box {
-    margin-bottom: 30px;
+    margin-bottom: 25px;
+    box-shadow: 7px 11px 21px #8f8a72
 }
 
 .blog-page .blog-box .blog-details {
