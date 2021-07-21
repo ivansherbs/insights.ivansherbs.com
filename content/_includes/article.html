@@ -216,7 +216,6 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="blog-box">
-                                <div class="blog-img" style="box-shadow: 7px 11px 21px #8f8a72">
                                 <div class="blog-details">
                                     {% if publish %}
                                     <ul class="news-meta">
@@ -231,6 +230,7 @@
                                     {% if fragments.header %}
                                         {% articleFragment fragments.header %}
                                     {% endif %}
+                                    <div class="blog-img" style="box-shadow: 7px 11px 21px #8f8a72">
                                     {{ content }}
                                     {% if fragments.footer %}
                                         {% articleFragment fragments.footer %}
