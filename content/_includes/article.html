@@ -99,6 +99,10 @@
             background-color: #75adcf;
             text-align: center;
         }
+
+        .blog-img img {
+        box-shadow: 7px 11px 21px #8f8a72
+}
     </style>
 
     <!-- Custom styles from front matter data -->
@@ -228,12 +232,11 @@
                                     </ul>
                                     {% endif %}
                                     {% if fragments.header %}
-                                        {% articleFragment fragments.header %}
+                                    {% articleFragment fragments.header %}
                                     {% endif %}
-                                    <div class="blog-img" style="box-shadow: 7px 11px 21px #8f8a72">
-                                        {{ content }}</div>
+                                    {{ content }}
                                     {% if fragments.footer %}
-                                        {% articleFragment fragments.footer %}
+                                    {% articleFragment fragments.footer %}
                                     {% endif %}
                                 </div>
                                 <hr>
