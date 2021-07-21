@@ -1781,11 +1781,11 @@ footer .copyright a {
 
 .blog-page .blog-box {
     margin-bottom: 25px;
-    box-shadow: 7px 11px 21px #8f8a72
 }
 
 .blog-page .blog-box .blog-details {
-    padding: 0 15px
+    padding: 0 15px;
+    box-shadow: 7px 11px 21px #8f8a72;
 }
 
 .blog-page .blog-box .blog-details h3 {
