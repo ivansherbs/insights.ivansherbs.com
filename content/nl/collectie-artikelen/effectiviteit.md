@@ -4,8 +4,6 @@ title: "INSIGHTS: EFFECTIVITEIT"
 url: nl/effectiviteit
 type: article
 category: Ivan Chai
-publish:
-  author: Ivan's Insights
 tags:
 - collectie
 meta:

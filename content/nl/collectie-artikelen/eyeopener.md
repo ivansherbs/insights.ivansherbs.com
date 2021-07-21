@@ -4,8 +4,6 @@ title: "INSIGHTS: EYEOPENER"
 url: nl/eyeopener
 type: article
 category: Ivan Chai
-publish:
-  author: Ivan's Insights
 tags:
 - collectie
 meta:
