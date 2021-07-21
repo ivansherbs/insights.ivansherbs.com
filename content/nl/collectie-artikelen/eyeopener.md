@@ -14,6 +14,8 @@ meta:
 fragments:
   header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
   footer:
+publish:
+  author: Ivan's Herbs
 banner:
   image: 75dEUbi4QxZUCypPS0Ldkz
   effect: o-lg-60d-black
