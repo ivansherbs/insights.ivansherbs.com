@@ -12,7 +12,7 @@ layout: collection.html
                 </div>
                 {%- for article in collections[tag] -%}
                 <div class="col-md-4">
-                    <div class="blog-box">
+                    <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72">
                         <div class="blog-img">
                             <a href="{{ article.url }}"><img src="{{ generated.contentful.banner_images[article.data.banner.image] }}?w=255&h=170&q=50&fit=fill" class="img-fluid" alt=""></a>
                         </div>
@@ -24,7 +24,7 @@ layout: collection.html
                             <div class="space-15"></div>
                             <ul class="news-meta">
                                 <div class="space-15"></div>
-                                <div><li><span class="lnr lnr-user" style="color:#3f4450">{% i18n 'by' language %}by{% endi18n %} <b style="color:#134d7e"></b>{{ article.data.publish.author }} <p style="color:#3f4450"> in Ivan's Insights</span></p></li>
+                                <div><li><span class="lnr lnr-user" style="color:#3f4450">{% i18n 'by' language %}by{% endi18n %} <b style="color:#134d7e; with:auto"></b>{{ article.data.publish.author }} <p style="color:#3f4450; width: auto;"> in Ivan's Insights</span></p></li>
                                 <li><span class="lnr lnr-clock" > {{ article.data.publish.date }}</span></li></div>
                             </ul>
                         </div>
