@@ -39,19 +39,19 @@ shopify:
 
 <div class="row">
   <div class="column">
-    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eoKQHvDNsD8h0gBat506V/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill
+    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eoKQHvDNsD8h0gBat506V/0b301d4f47880acf796afee0fe3ad9bf/flaticon-ema.png?w=100&amp;h=100&amp;q=100&amp;fit=fill
 " alt="" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/2yAn4A04voeeWViVHj6gCV/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill
+    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/2yAn4A04voeeWViVHj6gCV/0b301d4f47880acf796afee0fe3ad9bf/flaticon-microscope.png?w=100&amp;h=100&amp;q=100&amp;fit=fill
 " alt="" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/iePP27X62mXQPHJIlVPXu/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill
+    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/iePP27X62mXQPHJIlVPXu/0b301d4f47880acf796afee0fe3ad9bf/flaticon-prostate.png?w=100&amp;h=100&amp;q=100&amp;fit=fill
 " alt="" style="width:100%">
   </div>
     <div class="column">
-    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/7tkrB5iyMzzWwg2vDGrD6Q/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill
+    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/7tkrB5iyMzzWwg2vDGrD6Q/0b301d4f47880acf796afee0fe3ad9bf/flaticon-bladder.jpg?w=100&amp;h=100&amp;q=100&amp;fit=fill
 " alt="" style="width:100%">
   </div>
 </div>
