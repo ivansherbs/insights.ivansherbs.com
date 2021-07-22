@@ -42,7 +42,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad;;text-align:center"><a href="/nl/effectiveness/ivan-chai-blaasontsteking/">Last van een blaasontsteking?</a></h4>
+                            <h4 style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-blaasontsteking/">Last van een blaasontsteking?</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
@@ -55,7 +55,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
-                            <h4 style="font-family:monad;;text-align:center"><a href="/nl/effectiveness/ivan-chai-prostaat/">Prostaatklachten?</a></h4>
+                            <h4 style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-prostaat/">Prostaatklachten?</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
