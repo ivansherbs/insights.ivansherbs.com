@@ -25,6 +25,37 @@ shopify:
   language: NL
 ---
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eoKQHvDNsD8h0gBat506V/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill
+" alt="" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/2yAn4A04voeeWViVHj6gCV/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill
+" alt="" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/iePP27X62mXQPHJIlVPXu/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill
+" alt="" style="width:100%">
+  </div>
+    <div class="column">
+    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/7tkrB5iyMzzWwg2vDGrD6Q/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill
+" alt="" style="width:100%">
+  </div>
+</div>
+
 Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
 
 ### Effectiviteit EMA
