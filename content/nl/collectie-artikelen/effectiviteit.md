@@ -27,50 +27,44 @@ shopify:
 
 Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
 
-[[contentfulImage 6eoKQHvDNsD8h0gBat506V fm=png q=100 w=100 h=100]]
-
 ### Effectiviteit EMA
 
+[[contentfulImage 6eoKQHvDNsD8h0gBat506V fm=png q=100 w=100 h=100]]
 
 <div class="row">
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-4" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
                             <a href="/nl/effectiveness/ivan-chai-blaasontsteking/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/5tQSNogQuZXLLbTdmUKq2X/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h3 style="font-family:monad"><a href="/nl/effectiveness/ivan-chai-blaasontsteking/">Last van een blaasontsteking?</a></h3>
+                            <h4 style="font-family:monad;;text-align:center"><a href="/nl/effectiveness/ivan-chai-blaasontsteking/">Last van een blaasontsteking?</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
                         </div>
                     </div>
-                <div class="col-md-4" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
                            <a href="/nl/effectiveness/ivan-chai-prostaat/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NRH8dvMHatZ0F6sDLxK4h/7abc41e9f51acbdb8334d3c73d937840/prostaatklachten.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
-                            <h3 style="font-family:monad"><a href="/nl/effectiveness/ivan-chai-prostaat/">Prostaatklachten?</a></h3>
+                            <h4 style="font-family:monad;;text-align:center"><a href="/nl/effectiveness/ivan-chai-prostaat/">Prostaatklachten?</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
                         </div>
                     </div>
 
-
-* [Last van een blaasontsteking?](/nl/effectiveness/ivan-chai-blaasontsteking/) door Ivanka Lopukhina
-
-* [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
+### Hedendaags onderzoek
 
 [[contentfulImage 2yAn4A04voeeWViVHj6gCV fm=png q=100 w=100 h=100]]
-
-### Hedendaags onderzoek
 
 * [Ivan Chai: Ontdek 7 voordelen](/nl/artikel/ivanchai/ontdek-7-voordelen/) door Ivan Alexandrovitsj
 
