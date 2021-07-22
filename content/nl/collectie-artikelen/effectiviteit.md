@@ -31,6 +31,46 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 ### Effectiviteit EMA
 
+<div class="col-md-4">
+                    <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72">
+                        <div class="blog-img">
+                            <a href="/nl/effectiveness/ivan-chai-blaasontsteking/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/5tQSNogQuZXLLbTdmUKq2X/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="blog-details">
+                            <div class="space-15"></div>
+                            <h3 style="font-family:monad"><a href="/nl/effectiveness/ivan-chai-blaasontsteking/">Last van een blaasontsteking?</a></h3>
+                            <div class="space-15"></div>
+                            <p>Drink Ivan Chai tegen een urineweginfectie ofwel blaasontsteking. Benieuwd naar onze inzichten?</p>
+                            <div class="space-15"></div>
+                            <ul class="news-meta">
+                                <div class="space-15"></div>
+                                <div><li><span class="lnr lnr-user" style="color:#3f4450; width: auto; font-family: papyrus;"><big>door <span style="color: #134d7e;">Ivanka Lopukhina</span></big><br>in <span style="color: #134d7e; font-family: monad;">Ivan's Insights</span><p></p></span></li><p style="margin-bottom:10px"></p>
+                                <li><span class="lnr lnr-clock"> </span></li></div>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+<div class="col-md-4">
+                    <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72">
+                        <div class="blog-img">
+                            <a href="/nl/effectiveness/ivan-chai-prostaat/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NRH8dvMHatZ0F6sDLxK4h/7abc41e9f51acbdb8334d3c73d937840/prostaatklachten.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="blog-details">
+                            <div class="space-15"></div>
+                            <h3 style="font-family:monad"><a href="/nl/effectiveness/ivan-chai-prostaat/">Prostaatklachten?</a></h3>
+                            <div class="space-15"></div>
+                            <p>Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. Benieuwd naar onze inzichten?</p>
+                            <div class="space-15"></div>
+                            <ul class="news-meta">
+                                <div class="space-15"></div>
+                                <div><li><span class="lnr lnr-user" style="color:#3f4450; width: auto; font-family: papyrus;"><big>door <span style="color: #134d7e;">Ivan Alexandrovitj</span></big><br>in <span style="color: #134d7e; font-family: monad;">Ivan's Insights</span><p></p></span></li><p style="margin-bottom:10px"></p>
+                                <li><span class="lnr lnr-clock"> </span></li></div>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
 * [Last van een blaasontsteking?](/nl/effectiveness/ivan-chai-blaasontsteking/) door Ivanka Lopukhina
 
 * [Prostaatklachten?](/nl/effectiveness/ivan-chai-prostaat/) door Ivan Alexandrovitsj
