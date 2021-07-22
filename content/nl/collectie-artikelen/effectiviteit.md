@@ -31,7 +31,11 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
 
 ### Effectiviteit EMA
 
-<div class="col-md-4">
+<div class="row">
+    <div class="col-md-12 col-lg-12">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-md-4">
                     <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72">
                         <div class="blog-img">
                             <a href="/nl/effectiveness/ivan-chai-blaasontsteking/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/5tQSNogQuZXLLbTdmUKq2X/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
@@ -49,9 +53,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                             </ul>
                         </div>
                     </div>
-                </div>
-
-<div class="col-md-4">
+                  <div class="col-md-4">
                     <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72">
                         <div class="blog-img">
                             <a href="/nl/effectiveness/ivan-chai-prostaat/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NRH8dvMHatZ0F6sDLxK4h/7abc41e9f51acbdb8334d3c73d937840/prostaatklachten.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
