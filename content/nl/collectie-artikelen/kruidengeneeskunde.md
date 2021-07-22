@@ -5,7 +5,7 @@ url: nl/kruidengeneeskunde
 type: article
 category: Ivan Chai
 publish:
-  author: Ivan's Herbs
+  author: onze redactie
 tags:
 - collectie
 meta:

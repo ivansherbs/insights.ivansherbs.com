@@ -13,7 +13,7 @@ fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief
   footer:
 publish:
-  author: Ivan's Herbs
+  author: onze redactie
 banner:
   image: 1YeCYk9IuosjGU7cFtuQW3
   effect: o-lg-60d-black
