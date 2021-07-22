@@ -7,6 +7,8 @@ category: Ivan Chai
 publish:
   author: Ivan Alexandrovitsj
 tags:
+- assortiment kruidenthee
+- ivan chai
 - weerstand
 - ontsteking
 - mentale klachten

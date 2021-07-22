@@ -1,11 +1,11 @@
 ---
 layout: article_with_shopify.html
-title: "5 Heerlijke smaken: Siberische kruidenthee"
+title: "5 HEERLIJKE SMAKEN MET IVAN CHAI"
 url: /nl/assortiment/ivans-assortiment-siberische-kruidenthee
 type: article
 category: Ivan Chai
 tags:
-- assortiment
+- assortiment kruidenthee
 publish:
   author: Ivan's Herbs
 fragments:

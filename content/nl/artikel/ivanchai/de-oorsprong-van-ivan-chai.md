@@ -7,6 +7,7 @@ category: Ivan Chai
 publish:
   author: Sasha Popov
 tags:
+- assortiment kruidenthee
 - ivan chai
 - milieu
 - eyeopener

@@ -7,6 +7,8 @@ category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
 tags:
+- assortiment kruidenthee
+- ivan chai
 - weerstand
 - ontsteking
 - mentale klachten
