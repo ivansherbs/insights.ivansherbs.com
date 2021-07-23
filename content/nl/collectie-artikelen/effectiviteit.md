@@ -25,7 +25,7 @@ shopify:
   language: NL
 ---
 <div class="col-md-12 col-lg-12">
-<div style="text-align:center">
+<div style="margin:auto">
 <p class="aligncenter">
 <a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#ema"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eoKQHvDNsD8h0gBat506V/725790204e1997413068bf3a7d3de1cf/flaticon-ema.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
 
