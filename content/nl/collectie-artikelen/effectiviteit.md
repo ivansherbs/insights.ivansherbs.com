@@ -25,36 +25,7 @@ shopify:
   language: NL
 ---
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-</style>
-
-<div class="row">
-  <div class="column">
-    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eoKQHvDNsD8h0gBat506V/0b301d4f47880acf796afee0fe3ad9bf/flaticon-ema.png?w=100&amp;h=100&amp;q=100&amp;fit=fill
-" alt="" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/2yAn4A04voeeWViVHj6gCV/0b301d4f47880acf796afee0fe3ad9bf/flaticon-microscope.png?w=100&amp;h=100&amp;q=100&amp;fit=fill
-" alt="" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/iePP27X62mXQPHJIlVPXu/0b301d4f47880acf796afee0fe3ad9bf/flaticon-prostate.png?w=100&amp;h=100&amp;q=100&amp;fit=fill
-" alt="" style="width:100%">
-  </div>
-    <div class="column">
-    <img src="https://images.ctfassets.net/lyvtxhzy9zgr/7tkrB5iyMzzWwg2vDGrD6Q/0b301d4f47880acf796afee0fe3ad9bf/flaticon-bladder.jpg?w=100&amp;h=100&amp;q=100&amp;fit=fill
-" alt="" style="width:100%">
-  </div>
-</div>
+<img src="[[contentfulImage 6eoKQHvDNsD8h0gBat506V]]" width="100" height="100" /><img src="{{contentfulImage 2yAn4A04voeeWViVHj6gCV}}" width="10" height="84" /><img src="{{[[contentfulImage iePP27X62mXQPHJIlVPXu]]}}" width="95" height="84" /><img src="[[contentfulImage 7tkrB5iyMzzWwg2vDGrD6Q]]" width="100" height="100" style="float:left"/>
 
 Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
 
