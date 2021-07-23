@@ -23,13 +23,13 @@ contentful:
 shopify:
   language: NL
 ---
-## Pre order | 10ml
+## 10ml
 
 Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken. Bewezen effectief en vrij van dierenleed.
 
 [[shopifyCollection 226866954406 buttonDestination=modal]]
 
-## Pre order | Giftset
+## Giftset
 
 [[shopifyCollection 269467320486 buttonDestination=modal]]
 

@@ -31,7 +31,7 @@ Supplementen rechtstreeks uit de natuur in vegan capsules. Goed voor lichaam en 
 
 > De kruiden uit onze vegan capsules zijn bewezen effectief middels klinisch onderzoek. Met andere woorden, onze supplementen zijn veilig, doeltreffend en geproduceerd zonder complex chemisch proces.
 
-## Pre order | Giftset 750 Vegan Capsules
+## Giftset 750 Vegan Capsules
 
 [[shopifyCollection 269467386022 buttonDestination=modal]]
 
