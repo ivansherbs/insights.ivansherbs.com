@@ -24,13 +24,6 @@ contentful:
 shopify:
   language: NL
 ---
-<style>
-.row: {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
 
 <div class="row">
 <div style="text-align:center">
@@ -43,7 +36,6 @@ shopify:
 
 <a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#blaasontsteking_vrouw"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7tkrB5iyMzzWwg2vDGrD6Q/e749f605c9d329a8cee653904b352d69/flaticon-bladder.png?fm=png&q=100&w=100&h=100"  style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px;" /></a>
 </p>
-</div>
 </div>
 
 Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
