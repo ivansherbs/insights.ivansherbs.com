@@ -24,17 +24,19 @@ contentful:
 shopify:
   language: NL
 ---
-<img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eoKQHvDNsD8h0gBat506V/725790204e1997413068bf3a7d3de1cf/flaticon-ema.png?fm=png&q=100&w=100&h=100" href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#ema />
-<img src="https://images.ctfassets.net/lyvtxhzy9zgr/2yAn4A04voeeWViVHj6gCV/51d7bc7fa3d03bece5759521d7999a29/flaticon-microscope.png?fm=png&q=100&w=100&h=100" href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#hedendaags_onderzoek />
-<img src="https://images.ctfassets.net/lyvtxhzy9zgr/iePP27X62mXQPHJIlVPXu/3233765a023d33d26f865849818b2e29/flaticon-prostate.png?fm=png&q=100&w=100&h=100" href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#prostaatklachten_man />
-<img src="https://images.ctfassets.net/lyvtxhzy9zgr/7tkrB5iyMzzWwg2vDGrD6Q/e749f605c9d329a8cee653904b352d69/flaticon-bladder.png?fm=png&q=100&w=100&h=100" href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#blaasontsteking_vrouw style="float:left" />
+<img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eoKQHvDNsD8h0gBat506V/725790204e1997413068bf3a7d3de1cf/flaticon-ema.png?fm=png&q=100&w=100&h=100" href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#ema >
+
+<img src="https://images.ctfassets.net/lyvtxhzy9zgr/2yAn4A04voeeWViVHj6gCV/51d7bc7fa3d03bece5759521d7999a29/flaticon-microscope.png?fm=png&q=100&w=100&h=100" href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#hedendaags_onderzoek" />
+
+<img src="https://images.ctfassets.net/lyvtxhzy9zgr/iePP27X62mXQPHJIlVPXu/3233765a023d33d26f865849818b2e29/flaticon-prostate.png?fm=png&q=100&w=100&h=100" href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#prostaatklachten_man" />
+
+<img src="https://images.ctfassets.net/lyvtxhzy9zgr/7tkrB5iyMzzWwg2vDGrD6Q/e749f605c9d329a8cee653904b352d69/flaticon-bladder.png?fm=png&q=100&w=100&h=100" href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#blaasontsteking_vrouw" style="float:left" />
 
 Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
 
 ### Effectiviteit EMA
-<!--section id="ema" -->
-
-<div class="row">
+<section id="ema">
+  <div class="row">
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
@@ -64,11 +66,11 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                           <div class="space-25"></div>
                         </div>
                     </div>
+                  </section>
 
 ### Hedendaags onderzoek
-<!--section id="hedendaags_onderzoek" -->
-
-<div class="row">
+<section id="hedendaags_onderzoek">
+  <div class="row">
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
@@ -98,11 +100,11 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                           <div class="space-25"></div>
                         </div>
                     </div>
+                  </section>
 
 ### Prostaatklachten man
-<!--section id="prostaatklachten_man" -->
-
-<div class="row">
+<section id="prostaatklachten_man">
+  <div class="row">
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
@@ -145,10 +147,11 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                           <div class="space-25"></div>
                         </div>
                     </div>
+                  </section>
 
 ### Blaasontsteking vrouw
-<!--section id="blaasontsteking_vrouw" -->
-<div class="row">
+<section id="blaasontsteking_vrouw">
+  <div class="row">
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
@@ -165,5 +168,6 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                             <div class="space-25"></div>
                       </div>
                     </div>
+                  </section>
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]
