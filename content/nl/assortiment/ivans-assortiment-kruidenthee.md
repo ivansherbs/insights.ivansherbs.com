@@ -20,7 +20,7 @@ tags:
 - vrouw
 - werk
 publish:
-  author: Ivan's Herbs
+  author: ADVERTENTIE
 fragments:
   header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
   footer:
@@ -28,7 +28,7 @@ meta:
   description: Ontdek welke kruiden wij gebruiken voor onze verschillende Siberische kruidentheeën. Iedere smaak biedt meerdere voordelen goed voor lichaam en geest. Lees snel meer...
   keywords: kruidenthee, kruiden, thee, cafeïnevrij, schimmelinfectie, prostaat, urinewegen, blaasontsteking, angst, griep, nachtrust, herstel, hypertensie, hoge bloeddruk, hoesten, antitussivum, hoestdrank, lever, spijsverteringsstelsel, maag, maagzweren,
 banner:
-  image: 4sz4wSxo4KhzTbBzUNXJBI
+  image: 3BMJ7e2ogSnTsV7AQRK2QF
   effect: o-lg-60d-black
 contentful:
   imageOptions:
