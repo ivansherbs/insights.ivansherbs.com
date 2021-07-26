@@ -1,20 +1,36 @@
 ---
 layout: article_with_shopify.html
-title: "Meer informatie?"
-url: /nl/assortiment/5-heerlijke-smaken
+title: "Siberische kruidenthee"
+url: /nl/assortiment/ivans-assortiment-kruidenthee/tubes
 type: article
 category: Ivan Chai
 tags:
+- community building
+- geschiedenis
+- gevoel
+- gezin
+- kinderen
+- kruidengeneeskunde
+- levensstijl
+- maag- & darmklachten
+- man
+- medicijn
+- ontsteking
+- slapen
+- sport
+- vrouw
+- weerstand
+- werk
 publish:
-  author: Ivan's Herbs
+  author: ADVERTENTIE
 fragments:
   header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
   footer:
 meta:
-  description: Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Gegarandeerd de hoogste kwaliteit. Benieuwd naar de verschillende pakketten?
+  description: "Losse tubes voor €7,75. Gegarandeerd de hoogste kwaliteit... (Aanmelden nieuwsbrief = Exclusieve aanbiedingen)"
   keywords: kruidenthee, kruiden, thee, cafeïnevrij, schimmelinfectie, prostaat, urinewegen, blaasontsteking, angst, griep, nachtrust, herstel, hypertensie, hoge bloeddruk, hoesten, antitussivum, hoestdrank, lever, spijsverteringsstelsel, maag, maagzweren,
 banner:
-  image: 2gjpo5VPHlB4zfJ2E8Tq5
+  image: 2k1wPAMSc9lNOhVUvLiczj
   effect: o-lg-60d-black
 contentful:
   imageOptions:
@@ -23,6 +39,8 @@ contentful:
 shopify:
   language: NL
 ---
+[[shopifyCollection 269172474022 buttonDestination=modal]]
+
 Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de vele voordelen.
 
 Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om deze te hervullen met onze value packs. Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
