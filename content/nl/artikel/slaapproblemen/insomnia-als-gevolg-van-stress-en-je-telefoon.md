@@ -7,12 +7,12 @@ category: slaapproblemen
 publish:
   author: Anna Guseva
 tags:
-- eyeopener
-- gevoel
-- mentale klachten
-- slapen
-- stress
-- werk
+- EYEOPENER
+- GEVOEL
+- MENTALE KLACHTEN
+- SLAPEN
+- STRESS
+- WERK
 meta:
   description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. De slaapproblematiek is groter dan je denkt. Benieuwd naar onze inzichten?
   keywords: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblematiek, slecht slapen, slaapstoornis, goede nachtrust, stress, telefoon, kinderen, werken, werk, sasha

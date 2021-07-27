@@ -7,9 +7,9 @@ category: angst
 publish:
   author: Svetlana Petrova
 tags:
-- mentale klachten
-- werk
-- eyeopener
+- MENTALE KLACHTEN
+- WERK
+- EYEOPENER
 meta:
   description: Angst? Gedurende het werken? Het komt meer voor dan je denkt. Op dagelijkse basis kun je ermee te maken krijgen. Benieuwd naar onze inzichten?
   keywords: paniekaanval, emotie, angststoornis, angststoornissen, angst, angsten, controle, fobie, sociale angst, paniek

@@ -7,10 +7,10 @@ category: stress
 publish:
   author: Sasha Popov
 tags:
-- stress
-- mentale klachten
-- werk
-- gevoel
+- STRESS
+- MENTALE KLACHTEN
+- WERK
+- GEVOEL
 meta:
   description: 53% van de werknemers ervaart stress. Voor je het weet sta je stijf van de cortisol en kom je erachter dat je zwaar gespannen bent. Benieuwd naar onze inzichten?
   keywords: stress, cortisol, stress verminderen, stresshormoon, wat is stress, omgaan met stress

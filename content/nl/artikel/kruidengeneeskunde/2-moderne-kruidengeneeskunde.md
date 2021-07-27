@@ -7,8 +7,8 @@ category: kruidengeneeskunde
 publish:
   author: Ivan Alexandrovitsj
 tags:
-- medicijn
-- kruidengeneeskunde
+- MEDICIJN
+- KRUIDENGENEESKUNDE
 meta:
   description: "Maak kennis met moderne kruidengeneeskunde. Ontdek de producten van Ivan's Herbs: kruidenthee, aromatherapie, supplementen en matcha uit Siberie. Benieuwd naar onze inzichten?"
   keywords: medicijnen, kruidenthee, aromatherapie, supplementen, bijwerkingen, community building, kruidengeneeskunde, geneeskunde

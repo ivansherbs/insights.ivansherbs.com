@@ -5,7 +5,7 @@ url: nl/effectiviteit
 type: article
 category: Ivan Chai
 tags:
-- collectie
+- COLLECTIE
 meta:
   description: Kruiden rechtstreeks uit de natuur bewezen effectief middels klinisch onderzoek. Vanwege grootschalig langdurige onderzoek tevens bevestigd door het EMA. De resultaten liegen er niet om... Benieuwd naar onze inzichten?
   keywords: kruiden, EMA, kruidengeneeskunde, voordelen
@@ -53,7 +53,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-blaasontsteking/">Vaak last van een blaasontsteking?</a></h4>
+                            <h4 style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-blaasontsteking/">VAAK LAST VAN EEN BLAASONTSTEKING?</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
@@ -66,7 +66,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
-                            <h4 style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-prostaat/">Prostaatklachten?</a></h4>
+                            <h4 style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-prostaat/">PROSTAATKLACHTEN?</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -88,7 +88,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/ivanchai/ontdek-7-voordelen/">Ivan Chai: Ontdek 7 voordelen</a></h4>
+                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/ivanchai/ontdek-7-voordelen/">IVAN CHAI: ONTDEK 7 VOORDELEN</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
@@ -101,7 +101,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/">Ivan Chai: Grootmoeders kennen de voordelen</a></h4>
+                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/">IVAN CHAI: GROOTMOEDERS KENNEN DE VOORDELEN</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -123,7 +123,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/">Prostaatkanker: Een onopgemerkt probleem</a></h4>
+                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/">PROSTAATKANKER: EEN ONOPGEMERKT PROBLEEM</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
@@ -136,7 +136,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/">Prostaatontsteking: Geen touw aan vast te knopen...</a></h4>
+                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/">PROSTAATONTSTEKING: GEEN TOUW AAN VAST TE KNOPEN...</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -149,7 +149,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/vergrote-prostaat/groeien-tot-u-erbij-neervalt/">Vergrote prostaat: Groeien tot u erbij neervalt…</a></h4>
+                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/vergrote-prostaat/groeien-tot-u-erbij-neervalt/">VERGROTE PROSTAAT: GROEIEN TOT U ERBIJ NEERVALT...</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -171,7 +171,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/urineweginfectie/voorkom-relatieproblemen/">Voorkom relatieproblemen</a></h4>
+                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/urineweginfectie/voorkom-relatieproblemen/">VOORKOM RELATIEPROBLEMEN</a></h4>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>

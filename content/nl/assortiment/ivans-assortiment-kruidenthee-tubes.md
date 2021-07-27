@@ -5,29 +5,27 @@ url: /nl/assortiment/ivans-assortiment-kruidenthee/tubes
 type: article
 category: Ivan Chai
 tags:
-- community building
-- geschiedenis
-- gevoel
-- gezin
-- kinderen
-- kruidengeneeskunde
-- levensstijl
-- maag- & darmklachten
-- man
-- medicijn
-- ontsteking
-- slapen
-- sport
-- vrouw
-- weerstand
-- werk
+- COMMUNITY BUILDING
+- GESCHIEDENIS
+- GEVOEL
+- KINDEREN
+- KRUIDENGENEESKUNDE
+- LEVENSSTIJL
+- MAAG- & DARMKLACHTEN
+- MAN
+- ONTSTEKING
+- SLAPEN
+- SPORT
+- VROUW
+- WEERSTAND
+- WERK
 publish:
   author: ADVERTENTIE
 fragments:
   header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
   footer:
 meta:
-  description: "Losse tubes voor €7,75. Gegarandeerd de hoogste kwaliteit... (Aanmelden nieuwsbrief = Exclusieve aanbiedingen)"
+  description: "Losse TUBES 50gram voor €7,75. Gegarandeerd de hoogste kwaliteit... Aanmelden nieuwsbrief = EXCLUSIEVE aanbiedingen. Bekijk meer..."
   keywords: kruidenthee, kruiden, thee, cafeïnevrij, schimmelinfectie, prostaat, urinewegen, blaasontsteking, angst, griep, nachtrust, herstel, hypertensie, hoge bloeddruk, hoesten, antitussivum, hoestdrank, lever, spijsverteringsstelsel, maag, maagzweren,
 banner:
   image: 2k1wPAMSc9lNOhVUvLiczj

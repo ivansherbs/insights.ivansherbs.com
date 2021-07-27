@@ -5,9 +5,14 @@ url: /nl/assortiment/ivans-giftsets
 type: article
 category: Ivan Chai
 tags:
-- assortiment kruidenthee
+- ASSORTIMENT KRUIDENTHEE
+- GEZIN
+- MEDICIJN
+- MOEDER
+- URINEWEGEN
+- VROUW
 meta:
-  description: "BESTSELLER:        Bekijk onze ROYALTEA GIFTSET - Nu voor €39,95 bij aanmelden nieuwsbrief = 20% KORTING..."
+  description: "BESTSELLER: Bekijk snel onze ROYALTEA GIFTSET - Nu voor maar €39,95 bij aanmelden nieuwsbrief = 20% KORTING..."
   keywords: kruidenthee, assortiment, pre order , favorieten, kilobags, inzichten, geschenkdoos, cadeau, katoen, draagtas, beker, theezeef
 fragments:
   header:

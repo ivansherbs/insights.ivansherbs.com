@@ -7,9 +7,9 @@ category: prostaatontsteking
 publish:
   author: Ivan Alexandrovitsj
 tags:
-- man
-- eyeopener
-- prostaat
+- MAN
+- EYEOPENER
+- PROSTAAT
 meta:
   description: Prostaatklachten? Prostaatpijn? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar onze inzichten?
   keywords: prostaatklachten, prostaatpijn, prostaatontsteking, prostaat vergroot, ontsteking prostaat symptomen, ontsteking prostaat, maria treben, klinisch onderzoek

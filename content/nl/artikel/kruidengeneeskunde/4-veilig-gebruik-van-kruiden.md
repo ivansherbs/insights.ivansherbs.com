@@ -7,8 +7,8 @@ category: kruidengeneeskunde
 publish:
   author: Ivan Alexandrovitsj
 tags:
-- medicijn
-- kruidengeneeskunde
+- MEDICIJN
+- KRUIDENGENEESKUNDE
 meta:
   description: "Kruidengeneeskunde: negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie. Benieuwd naar onze inzichten?"
   keywords: kruiden, medicijnen, farmaceutische industrie, bijwerkingen, veilig, behandeling, apothekers, natuurlijke producten, zwangere vrouwen, kinderen, ouderen

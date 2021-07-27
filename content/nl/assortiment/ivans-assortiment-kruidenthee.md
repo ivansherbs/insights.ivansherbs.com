@@ -5,20 +5,17 @@ url: /nl/assortiment/ivans-assortiment-siberische-kruidenthee
 type: article
 category: Ivan Chai
 tags:
-- assortiment kruidenthee
-- geschiedenis
-- gevoel
-- gezin
-- ivan chai
-- kinderen
-- levensstijl
-- maag- & darmklachten
-- moeder
-- ontsteking
-- slapen
-- urinewegen
-- vrouw
-- werk
+- ASSORTIMENT KRUIDENTHEE
+- GESCHIEDENIS
+- GEVOEL
+- GEZIN
+- IVAN CHAI
+- KINDEREN
+- LEVENSSTIJL
+- MAAG- & DARMKLACHTEN
+- ONTSTEKING
+- SLAPEN
+- WERK
 publish:
   author: ADVERTENTIE
 fragments:

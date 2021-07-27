@@ -7,10 +7,10 @@ category: zwak immuunsysteem
 publish:
   author: Ivan Alexandrovitsj
 tags:
-- weerstand
-- levensstijl
-- eyeopener
-- ziekten
+- WEERSTAND
+- LEVENSSTIJL
+- EYEOPENER
+- ZIEKTEN
 meta:
   description: Dit artikel is bedoeld voor iedereen die een zwak immuunsysteem wil voorkomen. Benieuwd naar onze inzichten?
   keywords: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, voedingsstoffen, overgang, menopauze, oestrogeen

@@ -7,9 +7,9 @@ category: Ivan Chai
 publish:
   author: Sasha Popov
 tags:
-- assortiment kruidenthee
-- geschiedenis
-- ivan chai
+- ASSORTIMENT KRUIDENTHEE
+- GESCHIEDENIS
+- IVAN CHAI
 meta:
   description: Ontdek de geschiedenis van Ivan Chai. Het waren de monniken ter hoogte van de Altaj... [lees het volledige verhaal]
   keywords: geschiedenis, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtige werking, 17e eeuw, rusland, russische revolutie, Kapori Chai, Pu er
