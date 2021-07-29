@@ -1,3 +1,3 @@
-><h2 style="font-family:papyrus">Insights: effectiviteit</h2 style="font-family:lato">
+><h2 style="font-family:papyrus">Insights: effectiviteit</h2>
 >
->Ontdek Ivan Chai: lees meer over de effectiviteit voor een doeltreffende (preventieve) behandeling.
+><p style="font-family:papyrus">Ontdek Ivan Chai: lees meer over de effectiviteit voor een doeltreffende (preventieve) behandeling.
