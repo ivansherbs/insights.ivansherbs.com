@@ -6,13 +6,13 @@ layout: collection.html
   {% if tag != 'all' %}
   <section id="{{ tag | title_case: 'NL' }}">
     <div class="row">
-        <div class="col-md-12 col-lg-12">
+        <div class="col-md-12 col-lg-12" data-aos="fade-zoom-in">
             <div class="row">
                 <div class="col-md-12">
                     <h2 style="font-family:monad; background-color: #003154; color: #fff; text-align: center">&nbsp;{{ tag | title_case: 'NL' }}&nbsp;</h2></h2>
                 </div>
                 {%- for article in collections[tag] -%}
-                <div class="col-md-4">
+                <div class="col-md-4" data-aos="fade-up">
                     <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72">
                         <div class="blog-img">
                             <a href="{{ article.url }}"><img src="{{ generated.contentful.banner_images[article.data.banner.image] }}?w=255&h=170&q=50&fit=fill" class="img-fluid" alt=""></a>
