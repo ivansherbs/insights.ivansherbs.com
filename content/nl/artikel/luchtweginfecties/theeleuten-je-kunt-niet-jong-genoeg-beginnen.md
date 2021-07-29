@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "Theeleuten: je kunt niet jong genoeg beginnen"
+title: "THEELEUTEN: JE KUNT NIET JONG GENOEG BEGINNEN"
 url: /nl/artikel/theeleuten-je-kunt-niet-jong-genoeg-beginnen
 type: article
 category: luchtweginfecties
@@ -28,8 +28,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
-
 Iedereen heeft wel eens last van een luchtweginfectie. Denk aan een verkoudheid of griep.
 En iedereen weet het.
 
@@ -94,7 +92,7 @@ Een Siberische kruidenthee.
 
 Door je kind al op jonge leeftijd kennis te laten maken met thee drinken versterkt jullie weerstand.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent een verkoudheid, griep of pseudokroep te verzorgen.
+><p style="text-align: center; font-family:papyrus">Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent een verkoudheid, griep of pseudokroep te verzorgen.</p>
 
 Mocht jij, of je oogappeltje, toch onverhoopt een zwaardere vorm van een luchtweginfectie oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
@@ -104,4 +102,4 @@ Of Pseudokroep verzorgen?
 
 > Lees snel verder en ontvang óók tips voor het drinken van Ivan Chai met kinderen!
 
-[[shopifyCollection 269222150310 buttonDestination=modal]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]

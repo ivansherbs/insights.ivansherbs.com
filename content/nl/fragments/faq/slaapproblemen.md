@@ -1,8 +1,8 @@
-## Veelgestelde vragen
+### Veelgestelde vragen
 
 [[toc]]
 
-## Wat weten we van slaapproblemen?
+### Wat weten we van slaapproblemen?
 
 Slaapproblemen hebben meer impact op je dan op het eerste gezicht lijkt.
 
@@ -18,7 +18,7 @@ Denk hierbij aan het verminderen van je stofwisseling.
 
 En zelfs je immuunsysteem kan worden aangetast.
 
-## Heeft werkend Nederland last van slaapproblemen?
+### Heeft werkend Nederland last van slaapproblemen?
 
 Ja. Veel werknemers zijn onderhevig aan dit probleem. Grote kans dat jij hier op de werkvloer ook wel een last van hebt.
 
@@ -28,7 +28,7 @@ De laatste jaren is het aantal werknemers met slaapproblemen gestegen. Slecht 10
 
 Slaapproblemen komen hiernaast niet alleen voor bij werknemers. Arbeidsongeschikten hebben ook te kampen met dit probleem.
 
-## Waardoor worden slaapproblemen veroorzaakt?
+### Waardoor worden slaapproblemen veroorzaakt?
 
 Uit recentelijk onderzoek is het volgende gebleken. Een groot deel van de slapeloosheid wordt veroorzaakt door:
 * stress
@@ -38,9 +38,9 @@ Uit recentelijk onderzoek is het volgende gebleken. Een groot deel van de slapel
 * beeldschermgebruik voor het slapen gaan
 * en farmaceutische medicijnen
 
-## Waarom Ivan Chai?
+### Waarom Ivan Chai?
 
-**Ivan Chai verbetert de nachtrust**
+<p style="text-align: center; font-family:papyrus">Ivan Chai verbetert de nachtrust</p>
 
 * Ivan Chai is cafeïnevrij. Het helpt je om te slapen en slaapproblemen te overwinnen.
 

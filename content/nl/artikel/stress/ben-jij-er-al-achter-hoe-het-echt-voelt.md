@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Ben jij er al achter hoe het écht voelt?
+title: BEN JIJ ER AL ACHTER HOE HET ÉCHT VOELT?
 url: /nl/artikel/ben-jij-er-al-achter-hoe-het-voelt
 type: article
 category: stress
@@ -27,16 +27,14 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269160775846 buttonDestination=modal]]
-
 Laten we dit artikel eens beginnen met een twee-tal wistjedatjes...
 
-### 1
+## Wistjedatje nummer 1
 Wist je dat... stress zich niet alleen tussen de oren afspeelt?
 
-**Stress wordt namelijk geleid door jouw interne stress-systeem.** Dit systeem bestaat uit je centrale zenuwstelsel en het perifeer zenuwstelsel (het zenuwstelsel net buiten het centrale zenuwstelsel gelegen). In andere woorden, stress is letterlijk voelbaar van top tot teen.
+**Stress wordt namelijk geleid door jouw interne stress-systeem.** Dit systeem bestaat uit je centrale zenuwstelsel en het perifeer zenuwstelsel (het zenuwstelsel net buiten het centrale zenuwstelsel gelegen). Met andere woorden, stress is letterlijk voelbaar van top tot teen.
 
-### 2
+## Wistjedatje nummer 2
 
 Wist je tevens dat... stress een belangrijke bijdrage levert aan het ontwikkelen van fysieke dan wel psychotische aandoeningen?
 
@@ -66,13 +64,13 @@ Wist je tevens dat... stress een belangrijke bijdrage levert aan het ontwikkelen
 
 **Denk hierbij aan het nemen van meer rust.** Zoals een vakantie. Het leegmaken van je hoofd. Middels sport of een wandeling. En het uitbalanceren van je werk-privéleven zijn de eerste stappen naar een kalmere gemoedstoestand. Waar wij je op willen wijzen is het gebruik van veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
-### 3
+## 3
 
 Wist je dat... de Siberische kruidenthee Ivan Chai een kalmerende werking bevat wat effect heeft op het centrale zenuwstelsel?
 
 **Is dit bewezen effectief middel klinisch onderzoek?** Hedendaags onderzoek heeft aangetoond dat Ivan Chai een kalmerende werking heeft op je centrale zenuwstelsel.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. We garanderen je dat je beter in staat bent stress te voorkomen.
+><p style="text-align: center; font-family:papyrus">Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. We garanderen je dat je beter in staat bent stress te voorkomen.</p>
 
 Mocht je toch onverhoopt met een overmatige hoeveelheid aan stress rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. Laat je informeren over de behandelmethode.
 
@@ -82,4 +80,4 @@ Lees verder hoe Ivan Chai je kan helpen bij het verminderen stress.
 
 Wil je dieper ingaan op het onderwerp stress?
 
-[[shopifyCollection 269172474022 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

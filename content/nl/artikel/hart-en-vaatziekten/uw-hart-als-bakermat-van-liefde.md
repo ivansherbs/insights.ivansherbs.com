@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Uw hart als bakermat van liefde
+title: UW HART ALS BAKERMAT VAN LIEFDE
 url: /nl/artikel/uw-hart-als-bakermat-van-liefde
 type: article
 category: hart- en vaatziekten
@@ -28,8 +28,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269172474022 buttonDestination=modal]]
-
 **Het hart** heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. De hedendaagse hartvorm wordt al sinds de middeleeuwen gebruikt om gepassioneerde hartstochtelijke liefdevolle gevoelens naar elkaar toe weer te geven; en met succes.
 
 **Deze symbolische betekenis** van het hart is zo diep doorgedrongen tot onze maatschappij dat het centraal staat bij vele uitdrukkingen. Het is ontstaan door emoties die ten grondslag liggen aan onze hartslag. De innerlijke beleving van verliefd worden, liefde, houden van en verlies zijn hierdoor letterlijk te voelen in uw hart.
@@ -66,7 +64,7 @@ shopify:
 
 **Nog even ter informatie.** Drink Ivan Chai niet alleen preventief tegen hart- en vaatziekten. Maar ook om u fysiek en mentaal te ondersteunen bij het gebruik van medicijnen uit de farmaceutische industrie. Hiernaast heeft Ivan Chai een kalmerende werking op uw centrale zenuwstelsel. Goed tegen angst.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in uw dagelijkse routine. We garanderen dat u beter in staat bent hart- en vaatziekten te voorkomen.
+><p style="text-align: center; font-family:papyrus">Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in uw dagelijkse routine. We garanderen dat u beter in staat bent hart- en vaatziekten te voorkomen.</p>
 
 Mocht u toch onverhoopt hart- en vaatziekten oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. Laat u informeren over de behandelmethode.
 
@@ -74,4 +72,4 @@ Bij gebruik van zware medicijnen uit de farmaceutische industrie raden wij het a
 
 Benieuwd naar de impact van hart- en vaatziekten?
 
-[[shopifyCollection 269160775846 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]

@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Groeien tot u erbij neervalt…
+title: GROEIEN TOT U ERBIJ NEERVALT...
 url: /nl/artikel/groeien-tot-u-erbij-neervalt
 type: article
 category: vergrote prostaat
@@ -26,8 +26,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269339164838 buttonDestination=modal]]
-
 Wist u dat sommige delen van het lichaam niet willen stoppen met groeien?
 
 **Túúúúrlijk komt u dit bekend voor.**
@@ -68,7 +66,7 @@ Zoals u ziet zijn er tal van goedaardige aandoeningen die kunnen ontstaan op jon
 
 Over het algemeen kunt u gewoon normaal blijven functioneren met een goedaardige aandoening. In sommige gevallen kan het als vervelend worden ervaren. Zoals een wratje tussen uw vingers. Maar meestal zit het gewoon uw schoonheidsideaal in de weg.
 
-### Mooi.
+## Mooi.
 
 We zitten op 1 lijn wat betreft de goedaardige aandoeningen.
 
@@ -114,7 +112,7 @@ En met succes!
 
 * Ook voor vrouwen.
 
->> Verzorg lichaam en geest met kruiden uit Siberië. Wij garanderen u, dat u beter in staat bent de kans op prostaatklachten te verminderen.
+Verzorg lichaam en geest met kruiden uit Siberië. Wij garanderen u, dat u beter in staat bent de kans op prostaatklachten te verminderen.
 
 Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverhoopt last krijgen van een ernstige vergrote prostaat, ga verstandig te werk. Bel een deskundige bij twijfel. En laat u informeren over de behandelmethode.
 
@@ -129,4 +127,4 @@ Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverho
 
 Op zoek naar meer verdieping?
 
-[[shopifyCollection 269160775846 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]

@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Insomnia als gevolg van stress en je telefoon
+title: INSOMNIA ALS GEVOLG VAN STRESS EN JE TELEFOON
 url: /nl/artikel/insomnia-als-gevolg-van-stress-en-je-telefoon
 type: article
 category: slaapproblemen
@@ -29,33 +29,27 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269339164838 buttonDestination=modal]]
-
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af.
 
-### Wanneer spreken we wél van een slaapprobleem?
-
+## Wanneer spreken we wél van een slaapprobleem?
 We spreken wél van een slaapprobleem wanneer je méér dan 2 keer per week, meerdere weken op rij, slecht slaapt. En hierdoor gedurende de week overdag niet normaal kunt functioneren.
 
 **De oorzaken** van dit probleem lopen erg uiteen. Hierbij moeten we denken aan een combinatie van persoonlijke omstandigheden een toenemende mate van technologie in ons dagelijks leven. Ook je voedingspatroon speelt een belangrijke rol op je nachtrust.
 
-### Insomnia (slapeloosheid)
-
+## Insomnia (slapeloosheid)
 Door onderzoek van de afgelopen jaren zijn we tot de conclusie gekomen dat met name stress de grote boosdoeners is.
 
 **Stress werkt als een katalysator op insomnia.** Ofwel slapeloosheid. Vaak ontstaat dit probleem op werk. Bij een overmatige hoeveelheid aan spanning. Dit gebeurt niet van de ene op de andere dag, maar voor langere periode. Denk aan een paar maanden op rij.
 
 **Gezien dit probleem** met mondjesmaat groeit, loop je er mee rond zonder dat je dit door hebt. En neem je het óók mee naar bed. Je hoofd kan gedurende de nacht geen rust vinden door alle drukte. Je valt hierdoor moeilijk in slaap valt.
 
-### Nu komt het gevaar
-
+## Nu komt het gevaar
 Veel Nederlanders hebben dus niet door dat ze langzaam door stress óók een slaapprobleem opdoen. Hierdoor zijn in Nederland slaapstoornissen een groeiend en zorgwekkend probleem. Laten we de statistieken er gelijk even bij pakken.
 * 20 tot 30 procent van de Nederlanders heeft naar eigen zeggen problemen met slapen.
 
 Binnen dit onderzoek nemen de Nederlanders mee vanaf 12 jaar en ouder. Dus ook **kinderen**. Bij kinderen is stress ook één van de oorzaken van slecht slapen.
 
-### Kinderen en slapeloosheid
-
+## Kinderen en slapeloosheid
 Stress bij kinderen is moeilijk te herkennen. Het ontstaat door een combinatie van factoren waarbij een toenemende mate van technologie in ons dagelijks leven een belangrijke rol speelt. Speciaal voor de ouders en toekomstig ouders onder ons nog even wat extra achtergrond informatie.
 
 **Onderzoek heeft aangetoond**
@@ -71,16 +65,14 @@ Denk hierbij aan de volgende problemen.
 
 [[contentfulImage 3U3LCmWccLvbVpA0twOhEJ]]
 
-### Kortom...
-
+## Kortom...
 hun tere kleine kwetsbare kinder hersentjes komen hierdoor niet tot rust. Ze kunnen zich moeilijker concentreren, en ze worden onrustig wanneer ze de online wereld niet kunnen betreden. Het aantal ruzies binnen gezinnen neemt toe, met als gevolg een overmatige hoeveelheid onnodige stress binnen het gezin...
 
 **Dit wordt mede mogelijk gemaakt** door een telefoonverslaving. Werkt tevens goed als katalysator op slapeloosheid. Niet te verwarren met een mobiele telefoon als extra prikkel met stress tot gevolg.
 
 **Om slaapproblemen te verklaren** bij kinderen (en ook bij volwassen die te vaak op hun ‘highly-sophisticated-hippe-smartphones fanatiek aan het swipen zijn), bekijken we dit telefoonverslavings probleem vanuit neurobiologisch perspectief. Gewoon omdat het kan en we er vooral niet te diep op ingaan.
 
-### Telefoonverslaving
-
+## Telefoonverslaving
 ”De telefoonverslaving wordt veroorzaakt door het idee en de neurobiologische verwachting dat er een beloning komt, maar je weet niet wanneer je het gaat krijgen. Elk van deze beloningen, zoals berichten, 'likes' en social media updates leiden tot een zogenaamde 'dopamine release'. Dopamine regelt het pleziercentrum in onze hersenen."
 
 Wanneer we bovenstaande kort samenvatten komen we op het volgende neer.
@@ -99,8 +91,7 @@ punt
 
 Oké. GENOEG OVER KINDEREN. We gaan nu over op de tips.
 
-### Tips?
-
+## Tips?
 Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook van invloed op je prestatie op werk. En iedereen die daar mee te maken heeft. Kun je nagaan hoeveel invloed dit probleem heeft op de Nederlandse economie. Hoeveel lees je verderop in het artikel.
 
 **Om je nachtrust te verbeteren** zijn er tal van tips te vinden. Waar wij je op willen wijzen is het gebruik van veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
@@ -113,10 +104,10 @@ Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook 
 
 **Zo ben je waarschijnlijk bekend met** het niet op een scherm kijken een half uur voor je gaat slapen, géén alcohol, géén cafeïne na 5 uur, voldoende sporten maar niet vlak voor je het bed instapt, een boek lezen, yoga, mindfulness, meditatie en ga zo maar door...
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. Wij garanderen je dat je beter in staat bent slaapproblemen te voorkomen.
+><p style="text-align: center; font-family:papyrus">Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. Wij garanderen je dat je beter in staat bent slaapproblemen te voorkomen.</p>
 
 Mocht je toch onverhoopt slaapproblemen rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Benieuwd naar de impact van slaapproblemen op Nederland?
 
-[[shopifyCollection 269160775846 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]

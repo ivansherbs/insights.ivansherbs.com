@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Essentiële behoeften
+title: ESSENTIËLE BEHOEFTEN
 url: /nl/artikel/essentiele-behoefte
 type: article
 category: slijmbeursontsteking
@@ -25,11 +25,9 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269160775846 buttonDestination=modal]]
-
 Het is fijn om u niet in te hoeven houden. Zeker niet wanneer u beweegt en al helemaal met de meest gangbare activiteiten. Activiteiten die u op dagelijkse basis uitvoert.
 
-### Essentiële behoefte
+## Essentiële behoefte
 
 Een slijmbeursontsteking kan zelfs de meest essentiële behoefte al flink dwarsbomen. U wilt graag sporten en overheerlijke recepten blijven koken. Wanneer het mooi weer is wilt u graag naar buiten. Om bijvoorbeeld heerlijk te wandelen door de natuur. Of wat dacht u van een middagje tuinieren; waarbij u het gras maait, de planten verpot en onkruid verwijdert tussen de tegels in de tuin?
 
@@ -37,7 +35,7 @@ Een slijmbeursontsteking kan zelfs de meest essentiële behoefte al flink dwarsb
 
 U ziet al op tegen het draaien van een simpel wasje. Maar ook het poetsen van uw tanden. Zelfs opstaan uit bed kunnen als lastig worden ervaren. Vanuit holistisch perspectief wordt u hierdoor niet alleen fysiek maar ook mentaal belast. Dit heeft te maken met de emotie angst.
 
-### Wat gebeurt er mentaal?
+## Wat gebeurt er mentaal?
 
 Vanuit wetenschappelijk perspectief zijn er grofweg twee mogelijkheden waaraan u zich kunt schikken. Laten we voor het gemak beginnen met het introduceren van twee uiterste van elkaar. Namelijk confrontatie versus vermijding.
 
@@ -51,7 +49,7 @@ Nu we het er toch over hebben. Als gevolg kan dit leiden tot behoud van angst, o
 
 [[contentfulImage 5aUSyN86TPvSluaeHHoxn4]]
 
-### U moet vooruit
+## U moet vooruit
 
 Echter wordt u ook een dagje ouder. Niets aan te doen. U leert er maar mee leven.
 
@@ -59,7 +57,7 @@ Zoals gezegd zitten aan het ouder worden enkele consequenties verbonden. Om maar
 
 Met geïrriteerd bedoelen we ontstoken. Hierdoor kunt u zichzelf minder soepel bewegen. Met als gevolg dat uw slijmbeurzen (ofwel de beschermkappen rondom uw gewrichten) even rust nodig hebben. Hierdoor kunt u een irrationele vorm van angst tegen pijn creëren. Wat kan leiden tot het verminderen van de essentiële behoefte die u op dagelijkse basis graag uitvoert. De vraag blijft echter.
 
-### Is er een oplossing?
+## Is er een oplossing?
 
 Ja. Dit soort problemen kunt u preventief behandelen.
 
@@ -73,7 +71,7 @@ Ja. Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
 
 Ivan Chai werkt ook goed tegen angst vanwege de kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek heeft aangetoond dat de kalmerende werking effect heeft op uw centrale zenuwstelsel.
 
-### Combinatie medicijnen uit de farmaceutische industrie
+## Combinatie medicijnen uit de farmaceutische industrie
 
 Mocht u onverhoopt al met een slijmbeursontsteking rondlopen?
 
@@ -81,16 +79,16 @@ Maakt u hiervoor al medicijnen uit de farmaceutische industrie?
 
 Dat kunnen we begrijpen. Soms heeft u zwaardere medicatie nodig.
 
-### Is het verstandig om Ivan Chai te drinken?
+## Is het verstandig om Ivan Chai te drinken?
 
 Jazeker! Drink dan Ivan Chai om u fysiek en mentaal te ondersteunen bij het gebruik van deze medicijnen. Zie het als medicatie die elkaar aanvullen. Medicijnen uit de farmaceutische industrie aangevuld met traditionele kruidengeneeskunde als alledaags product.
 
 Medicijnen kunnen ongewenste bijwerkingen met zich meebrengen. Ivan Chai voordelen voor lichaam en geest die deze bijwerkingen verlichten.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in uw dagelijkse routine. We garanderen dat u beter in staat bent een slijmbeursontsteking te verzorgen en soepele gewrichten te behouden!
+><p style="text-align: center; font-family:papyrus">Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in uw dagelijkse routine. We garanderen dat u beter in staat bent een slijmbeursontsteking te verzorgen en soepele gewrichten te behouden!</p>
 
 Mocht u toch onverhoopt een zware slijmbeursontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. Laat u informeren over de behandelmethode.
 
 Wilt u meer weten over het behoud van soepele gewrichten?
 
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

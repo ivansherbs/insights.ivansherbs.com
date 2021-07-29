@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Zonder probleem bereikte Ivan de top
+title: ZONDER PROBLEEM BEREIKTE IVAN DE TOP...
 url: /nl/artikel/zonder-probleem-bereikte-ivan-de-top
 type: interview
 category: holisme
@@ -98,7 +98,7 @@ Het gebruik van kruiden klinkt wellicht alternatief, als mens ben ik op zoek naa
 Uiteraard met een positief effect op het lichaam en geest!
 
 [[contentfulImage 4Zab82vKBZCfvkqxQKdZaE]]
-> “...zonder probleem bereikte Ivan de top.”
+><p style="text-align: center; font-family:papyrus">“...zonder probleem bereikte Ivan de top.”</p>
 
 Het klopt dat de werking wellicht wat langer duurt dan conventionele geneesmiddelen, maar preventief problemen voorkomen is beter dan genezen.
 

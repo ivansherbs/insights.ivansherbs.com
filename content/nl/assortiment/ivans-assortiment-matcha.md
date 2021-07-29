@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Matcha
+title: MATCHA
 url: /nl/assortiment/ivans-assortiment-siberische-matcha
 type: article
 category: siberische matcha
@@ -23,33 +23,29 @@ contentful:
 shopify:
   language: NL
 ---
-## Matcha 200 gram
+### Matcha 200 gram
 
 Matcha bestaat uit kruiden in poedervorm. Matcha is hierdoor méér dan alleen matcha thee. Ooit matcha gecombineerd met drank of voeding...?
 
 [[shopifyCollection 269233684646 buttonDestination=modal]]
 
-## Upgrade
+### Upgrade
 
 Maak uw keuze compleet met Ivan's Upgrade: Matcha accessoires...
 
 [[shopifyCollection 6821349163174 buttonDestination=modal]]
 
-## Giftset
+### Giftset
 
 [[shopifyCollection 269467484326 buttonDestination=modal]]
 
-## 1 kg
+### 1 kg
 
 Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water?
 
 [[shopifyCollection 267300176038 buttonDestination=modal]]
 
-## Bekijk video (1min)
-
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
-
-## Ivan's | Assortiment
+### Ivan's | Assortiment
 
 Benieuwd naar onze kruiden uit Siberië?
 

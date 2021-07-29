@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "Ivan Chai: Grootmoeders kennen de voordelen"
+title: "IVAN CHAI: GROOTMOEDERS KENNEN DE VOORDELEN"
 url: /nl/ivan-chai-grootmoeders-kennen-de-voordelen
 type: article
 category: Ivan Chai
@@ -31,8 +31,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269160775846 buttonDestination=modal]]
-
 ## Anekdotisch bewijs is krachtig bewijs
 
 Een oplettende grootmoeder zal in haar verleden veel verhalen hebben gehoord. Net als alle grootmoeders die ik heb ontmoet! Of zoals de kinderen haar noemen, oma.
@@ -55,7 +53,7 @@ In de traditionele kruidengeneeskunde zijn de 7 voordelen van Ivan Chai goed ond
 
 [[contentfulImage gJlMzDkpnHCVrqBwnpQLa]]
 
-### 1. Versterkt de weerstand
+## 1. Versterkt de weerstand
 
 De antimicrobiële eigenschappen van Ivan Chai zijn goed bestudeerd, waaruit blijkt dat het gist, bacteriën en schimmels verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van candida (gist) in het spijsverteringsstelsel.
 
@@ -63,7 +61,7 @@ Iedereen begrijpt de volgende logische redenering van oma. Een gezonde spijsvert
 
 [[contentfulImage 3Le11Z0jk9vTDMo8mcQzW0]]
 
-### 2. Krachtige ontstekingsremmer
+## 2. Krachtige ontstekingsremmer
 
 Ivan Chai is een krachtige ontstekingsremmer. Het is bewezen effectiever dan cortison bij het onderdrukken van ontstekingen.
 
@@ -71,7 +69,7 @@ Een alerte oma heeft dit altijd al geweten. Het preventief behandelen van ontste
 
 [[contentfulImage 28IMJN1AoFeQRD0I7uG1Yw]]
 
-### 3. Antioxiderende werking
+## 3. Antioxiderende werking
 
 Oma is misschien minder bekend met het woord “'antioxidant”. Laat staan van het woord ‘polyfenol’. Om maar even wat medische termen te gebruiken.
 
@@ -81,7 +79,7 @@ Wellicht overbodig te melden. Oma wist uiteraard wel dat door het drinken van Iv
 
 [[contentfulImage 1YeCYk9IuosjGU7cFtuQW3]]
 
-### 4. Verbetert de nachtrust
+## 4. Verbetert de nachtrust
 
 Ivan Chai is cafeïnevrij en werkt goed tegen insomnia, ofwel slapeloosheid. Het helpt om slaapproblemen te overwinnen. Het staat in de traditionele kruidengeneeskunde bekend als een licht kalmerend middel.
 
@@ -89,7 +87,7 @@ Wetenschappers noch oma's weten precies hoe het helpt bij slaapstoornissen. Echt
 
 [[contentfulImage 4EMI0SfiaL2oxE1zXJ8qP4]]
 
-### 5. Vermindert de kans op prikkelbaarheid en angst
+## 5. Vermindert de kans op prikkelbaarheid en angst
 
 Ivan Chai heeft een kalmerende werking. Dit is waarschijnlijk de reden dat Russen deze drank ook aan kinderen geven. Na hedendaags onderzoek is gebleken dat deze kalmerende werking effect heeft op uw centrale zenuwstelsel.
 
@@ -99,7 +97,7 @@ Kinderen houden nou eenmaal van deze smaak! En nu blijven ze ook nog eens lekker
 
 [[contentfulImage 1xIwi3rPGISyU1T4m1Tvit]]
 
-### 6. Verzorgt de gezondheid van de urinewegen (en opa’s prostaat)
+## 6. Verzorgt de gezondheid van de urinewegen (en opa’s prostaat)
 
 Uw oma heeft waarschijnlijk nooit het woord “urogentiaalionimus” uitgesproken, maar ze wist wel af van de gezonde werking op de urinewegen. En op die van opa’s prostaat.
 
@@ -117,7 +115,7 @@ Mooi bijkomend voordeel. Ivan Chai versterkt het anti-tumor effect. Deze kruiden
 
 [[contentfulImage WbZiBDHmv6wZQXIdynio5]]
 
-### 7. Verzorgt het spijsverteringsstelsel
+## 7. Verzorgt het spijsverteringsstelsel
 
 Oma's uit de Sovjet-Unie zullen u vertellen dat Ivan Chai de gezondheid van het spijsverteringsstelsel verzorgd. Zweren, gastritis en colitis kunnen allemaal worden verzorgd door Ivan Chai te drinken.
 
@@ -172,4 +170,4 @@ De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen 
 
 Onderaan deze pagina kunt u ons advies lezen.
 
-[[shopifyCollection 269172474022 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

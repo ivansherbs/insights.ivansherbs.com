@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Etherische oliën
+title: ETHERISCHE OLIËN
 url: /nl/assortiment/ivans-assortiment-etherische-olien
 type: article
 category: etherische oliën
@@ -23,17 +23,17 @@ contentful:
 shopify:
   language: NL
 ---
-## 10ml
+### 10ml
 
 Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke problemen. Uiteraard op ieder moment van de dag te gebruiken. Bewezen effectief en vrij van dierenleed.
 
 [[shopifyCollection 226866954406 buttonDestination=modal]]
 
-## Giftset
+### Giftset
 
 [[shopifyCollection 269467320486 buttonDestination=modal]]
 
-## Ivan's | Assortiment
+### Ivan's | Assortiment
 
 Benieuwd naar onze kruiden uit Siberië?
 

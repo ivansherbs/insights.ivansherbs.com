@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Ivan's Manifest
+title: IVAN'S MANIFEST
 url: /nl/over/manifest
 type: about
 meta:

@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Supplementen
+title: SUPPLEMENTEN
 url: /nl/assortiment/ivans-assortiment-supplementen
 type: article
 category: supplementen
@@ -23,19 +23,19 @@ contentful:
 shopify:
   language: NL
 ---
-## Pre order  | 250 Vegan capsules
+### 250 Vegan capsules
 
 Supplementen rechtstreeks uit de natuur in vegan capsules. Goed voor lichaam en geest. 100% puur en afkomstige uit één van de schoonste plekken op aarde. Onze supplementen zijn vrij van dierenleed en ontbossing.
 
 [[shopifyCollection 267300995238 buttonDestination=modal]]
 
-> De kruiden uit onze vegan capsules zijn bewezen effectief middels klinisch onderzoek. Met andere woorden, onze supplementen zijn veilig, doeltreffend en geproduceerd zonder complex chemisch proces.
+><p style="text-align: center; font-family:papyrus">De kruiden uit onze vegan capsules zijn bewezen effectief middels klinisch onderzoek. Met andere woorden, onze supplementen zijn veilig, doeltreffend en geproduceerd zonder complex chemisch proces.</p>
 
-## Giftset 750 Vegan Capsules
+### Giftset 750 Vegan Capsules
 
 [[shopifyCollection 269467386022 buttonDestination=modal]]
 
-## Ivan's | Assortiment
+### Ivan's | Assortiment
 
 Benieuwd naar onze kruiden uit Siberië?
 

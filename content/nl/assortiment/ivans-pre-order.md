@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "Kruiden uit Siberië"
+title: "KRUIDEN UIT SIBERIË"
 url: /nl/assortiment/pre-order
 type: article
 category: Ivan Chai
@@ -23,35 +23,31 @@ contentful:
 shopify:
   language: NL
 ---
-## Top 5
+### Top 5
 
 Bekijk ons assortiment aan pre orders. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Al onze producten komen rechstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
 [[shopifyCollection 269160775846 buttonDestination=modal]]
 
-## Kruidenthee Pakketten
+### Kruidenthee Pakketten
 [[shopifyCollection 235510562982 buttonDestination=modal]]
 
-## Kruidenthee Tubes 50 gram
+### Kruidenthee Tubes 50 gram
 [[shopifyCollection 269172474022 buttonDestination=modal]]
 
-## Etherische oliën
+### Etherische oliën
 [[shopifyCollection 226866954406 buttonDestination=modal]]
 
-## Supplementen
+### Supplementen
 [[shopifyCollection 267300995238 buttonDestination=modal]]
 
-## Matcha
+### Matcha
 [[shopifyCollection 269233684646 buttonDestination=modal]]
 
-## Upgrade
+### Upgrade
 [[shopifyCollection 269305839782 buttonDestination=modal]]
 
-## Bekijk video (1min)
-
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
-
-## Ivan's | Assortiment
+### Ivan's | Assortiment
 
 Benieuwd naar onze kruiden uit Siberië?
 

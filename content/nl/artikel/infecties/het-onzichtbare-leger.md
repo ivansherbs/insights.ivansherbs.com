@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
-title: Het onzichtbare leger
-url: /nl/artikel/het-ontzichtbare-leger
+title: HET ONZICHTBARE LEGER
+url: /nl/artikel/het-onzichtbare-leger
 type: article
 category: vaginale schimmelinfectie
 publish:
@@ -30,15 +30,13 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269172474022 buttonDestination=modal]]
-
 Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want...
 
 * Wist je dat **3 op de 4 vrouwen** last krijgt van een **vaginale schimmelinfectie**?!
 
 En nu vraag je jezelf waarschijnlijk af.
 
-### Waarom vertel je me dit nou eigenlijk?
+## Waarom vertel je me dit nou eigenlijk?
 
 Nou. Laat ik het maar gelijk verklappen. Omdat dat er veel zijn en ik het besef wil kweken dat het makkelijk te voorkomen is.
 
@@ -50,7 +48,7 @@ Lijkt me logisch of niet?
 
 Laat ik bij het begin beginnen. Bij vraag nummer één.
 
-### Wat is een infectie?
+## Wat is een infectie?
 
 "Een infectie is een besmetting van ziektekiemen die schade aanrichten als gevolg van een overtollige hoeveelheid aan schimmels, gist of ongewenste bacteriën."
 
@@ -62,7 +60,7 @@ Je kunt ze overal op je lichaam krijgen. Ze zitten letterlijk op je huid! En ric
 
 Ze groepen zich graag. Blijven met z'n allen bij elkaar.
 
-### Het onzichtbare leger
+## Het onzichtbare leger
 
 Ze vormen het liefst een zo groot mogelijk onzichtbaar leger. En deze onzichtbare legers hebben net als jij óók plekken gevonden waar ze het liefst wonen.
 
@@ -70,7 +68,7 @@ En geef ze is ongelijk! Ja. Ook zij willen het zich zo comfortabel mogelijk make
 
 Over het algemeen bewegen ze zich daarom naar warme en vochtige plekken. De plekken waar schimmels graag leven zijn dan ook de mond, handen en voeten.
 
-### Begeerlijk doelwit
+## Begeerlijk doelwit
 
 Echter bij vrouwen is vooral de intieme zone doelwit van deze micro organismen; want dat zijn deze onzichtbare leger: micro organismen.
 
@@ -78,11 +76,11 @@ Micro organismen kiezen het liefst een woonomgeving uit waar ze zonder moeite ve
 
 Wanneer de weersomstandigheden de micro organismen gunstig gezind zijn, kunnen zij zich vanwege het aangename klimaat makkelijk vermenigvuldigen. Hierdoor is het voor veel vrouwen een veel voorkomend probleem. Want bij een kleine hoeveelheid aan deze micro organismen kunnen zij vrouwen al flink te grazen nemen.
 
-### Verhoogd risico vrouwen
+## Verhoogd risico vrouwen
 
 Dat je als vrouw een verhoogd risico hebt op een schimmelinfectie is niet een vreemd fenomeen. Want het is mede te verklaren door het het veranderen van je hormoonspiegel. Je afweersysteem is op dat moment wat zwakker waardoor schimmels zich makkelijker vrij kunnen bewegen en vermenigvuldigen.
 
-### En nu vraag je jezelf af waar dit door komt?
+## En nu vraag je jezelf af waar dit door komt?
 
 Dit komt met name door de menstruatie (denk aan je hormoonspiegel) óf gebruik van bepaalde medicijnen uit de farmaceutische industrie.
 
@@ -97,7 +95,7 @@ Om het niet te diep op in te gaan laat ik de wetenschappelijke termen even lekke
 
 Waar het om gaat is het volgende. Man of vrouw.
 
-### Het behandelen van een infectie is een must.
+## Het behandelen van een infectie is een must.
 
 Ja! Ook mannen kunnen last krijgen van deze onzichtbare legers!
 
@@ -111,7 +109,7 @@ Maar ook wanneer je een orale beurt krijgt kunnen de legers zich verplaatsen van
 
 En snel ook. En zonder dat je er erg in hebt.
 
-### Om de statistieken er maar even bij te pakken.
+## Om de statistieken er maar even bij te pakken.
 
 Onderzoek heeft aangetoond dat er 15% kans bestaat dat je schimmels overdraagt.
 
@@ -121,7 +119,7 @@ Oke.
 
 Dus. Dit gezegd hebbende vraag je jezelf natuurlijk af.
 
-### HOE ZIET EEN VAGINALE SCHIMMELINFECTIE ER UIT!?
+## HOE ZIET EEN VAGINALE SCHIMMELINFECTIE ER UIT!?
 
 Juist. Als ik het niet dacht.
 
@@ -149,13 +147,13 @@ We gaan nog even verder want we moeten nog naar de tips! Als je je ogen hebt dic
 
 Geen enkel probleem. Kan ik volledig begrijpen.
 
-### Kortom.
+## Kortom.
 
 Je wil niet met té veel schimmels rondlopen. Hoe leuk het er ook uit ziet. Je doet het om met name onnodige weefselschade te voorkomen. Dit geldt overigens niet alleen voor schimmels!
 
 Want of het nou schimmels, gist of ongewenste bacteriën betreft.
 
-### Ze vallen je aan.
+## Ze vallen je aan.
 
 En zonder pardon. Doen ze het weer. Wanneer ze dit met veel doen dan krijg je een infectie.
 
@@ -167,7 +165,7 @@ Denk dan vervolgens niet dat je één van de gelukkigen bent. En dat bij jou de 
 
 Beter nog! Het voorkomen van een infectie behoort ook tot de mogelijkheden.
 
-### Even terugkijkend.
+## Even terugkijkend.
 
 We weten nu het volgende.
 
@@ -175,7 +173,7 @@ Wat ze doen. Waar ze wonen. Hoe ze eruit zien. En wat voor een schade er kan wor
 
 Dan zijn we nu eindelijk aangekomen bij de tips! Bestaande uit het gebruik van de veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.
 
-### Tip nummer 1
+## Tip nummer 1
 
 Ivan Chai.
 
@@ -224,9 +222,9 @@ Denk hierbij aan Ivan Chai.
 
 Een Siberische kruidenthee
 
-> Graag wil ik het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En ik garandeer je dat je beter in staat bent infecties te verzorgen.
+><p style="text-align: center; font-family:papyrus">Graag wil ik het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En ik garandeer je dat je beter in staat bent infecties te verzorgen.</p>
 
-### Tip nummer 2
+## Tip nummer 2
 
 Oregano!
 
@@ -266,7 +264,7 @@ Gebruik het niet als u bloedstollingsproblemen heeft of al bloedverdunners gebru
 
 Extra tip. Nog een reden om Ivan Chai te drinken.
 
-### Tip 3
+## Tip 3
 
 Verminder stress.
 
@@ -305,6 +303,8 @@ Mocht je onverhoopt een zware infectie oplopen, ga verstandig te werk. Bel een d
 Vergeet niet dat een vaginale schimmelinfectie makkelijk kan terugkomen.
 
 Wil jij meer weten over infecties?
+
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
 [[shopifyCollection 269160775846 buttonDestination=modal]]
 

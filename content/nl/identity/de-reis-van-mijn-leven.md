@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: De reis van mijn leven
+title: DE REIS VAN MIJN LEVEN
 url: /nl/artikel/de-reis-van-mijn-leven
 type:
 category: welkomstbrief
@@ -20,11 +20,11 @@ contentful:
 <!--- fyi: This page (welcomstletter) does not contain a discount code -->
 <p style="text-align: right"><i>"Versterk lichaam en geest met kruiden uit Siberië"</i></p>
 
-### Geachte Levensgenieter,
+## Geachte Levensgenieter,
 
 Mijn naam is Michael Koch, de oprichter van Ivan's Herbs. Sinds jongs af aan ben ik altijd al op zoek geweest naar natuurlijke producten om lichaam en geest te versterken. Benieuwd naar mijn verhaal?
 
-### Kruiden uit Siberië
+## Kruiden uit Siberië
 
 Sinds mijn 20ste levensjaar ben ik bezig met het bestuderen van de geneeskrachtige werking in kruiden. Kruidengeneeskunde bevat vele voordelen voor lichaam en geest.
 
@@ -34,7 +34,7 @@ In mijn opinie wordt de farmaceutische industrie getypeerd door een opeenvolging
 
 In andere woorden, mensen hebben geen herhaalrecepten nodig, maar dienen beter te worden geïnformeerd over het gebruik van natuurlijke remedies. Begrijp mij niet verkeerd. Ik ben niet tegen de farmaceutische industrie. Ik ben voor een wereld waar mens en milieu centraal staan; vrij van dierenleed.
 
-### Siberische ecodorp: Chazhaevka
+## Siberische ecodorp: Chazhaevka
 
 Wat velen nog niet weten is dat het Russische grootlandschap erom bekend staat vele geneeskrachtige kruiden te herbergen.
 
@@ -42,14 +42,14 @@ Gedurende de rondreis van mijn leven heb ik dan ook zonder enige vorm van aarzel
 
 Hier heb ik één jaar doorgebracht om de nodige kennis 'hands-on' op te doen over kruiden en met succes!
 
-### Kennisoverdracht
+## Kennisoverdracht
 
 De vele producten rechtstreeks uit de natuur die mij werden geïntroduceerd bevatten vele voordelen. Goed voor lichaam en geest. Dagelijks had ik het genoegen nauw samen te werken met de meest ervaren 'herbal tea expert' uit het ecodorp.
 
 Deze expert plukt al decennia lang kruiden met voordelen voor lichaam en geest. Dagelijks stond het preventief behandelen van gezondheidsproblemen met kruiden centraal bij de kennisoverdracht. Gedurende mijn verblijf zijn mij dan ook waardevolle lessen bijgebracht:
 
 [[contentfulImage 6rpbpN9WUg7kc12beZdi0m]]
-> Kruide uit Siberië zijn de natuurlijke remedie als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, vrij van dierenleed en ontbossing.
+><p style="text-align: center; font-family:papyrus">Kruiden uit Siberië zijn de natuurlijke remedie als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, vrij van dierenleed en ontbossing.</p>
 
 Gedurende mijn verblijf waarbij ik dagelijks kruiden heb geplukt in de wildernis van Siberië, één van de schoonste plekken op aarde, voelde ik mij steeds fitter worden.
 
@@ -57,7 +57,7 @@ Gedurende mijn verblijf waarbij ik dagelijks kruiden heb geplukt in de wildernis
 
 Dit heeft mij aan het denken gezet. Ik had besloten een nieuwe uitdaging aan te gaan. Ik zou en moest de hoogste berg van Siberië beklimmen.
 
-### De Belukha
+## De Belukha
 
 Meerdaagse expedities staan erom bekend gepaard te gaan met vele hoogte- als dieptepunten. Het heeft mij uitgedaagd waardoor ik als mens ben verandert. Uiteraard bewandelt men deze expeditie niet alleen. Zou ook vreemd zijn gezien de verraderlijke weersomstandigheden. De top behalen is een prestatie die als team wordt neergezet.
 
@@ -70,7 +70,7 @@ Iedereen uit de groep was namelijk top fit. Echter merkten wij dat Ivan de groep
 
 Ivan is een herborist. Hij heeft zijn leven lang veelvuldig gebruik gemaakt van kruiden wat al jaren zorgt voor een gezond lichaam en een sterke geest. Mede door deze ontmoeting, prestatie en gelijkgestemde levensstijl hebben we besloten contact te houden. Niet wetende dat ik mij verder zou verdiepen in de voordelen van kruiden uit Siberië.
 
-### Co-founder
+## Co-founder
 
 Eenmaal thuis gekomen kon ik niet wacht om mijn ervaringen te delen met Gabriel Petrovay. Gabriel is de persoon die mij in eerste instantie heeft overgehaald deel te nemen om bergen te beklimmen. Zo heeft hij mij destijd uitgedaagd de de Mont Blanc in de Zwitserse Alpen te bedwingen en plannen we jaarlijks kortere expedities in nabijer gelegen gebieden rondom Zürich. Na mijn ervaringen te hebben gedeeld, heb ik direct mijn nieuwe doelstellingen kenbaar gemaakt. Gabriel was voor mij de geschikte persoon om mijn visie te delen:
 

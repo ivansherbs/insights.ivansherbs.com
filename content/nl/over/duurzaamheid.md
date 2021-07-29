@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Oprichter ecodorp over duurzaamheid
+title: OPRICHTER ECODORP OVER DUURZAAMHEID
 url: /nl/over/oprichter-ecodorp-over-duurzaamheid
 type: interview
 category: community building
@@ -44,7 +44,7 @@ Wij zagen dat Rusland een gebrek had aan kwalitatief hoogwaardige theeën. Hierd
 En met succes!
 
 [[contentfulImage 7CqRpFeLTY0lCi1lfgbC3v]]
-> In het begin kwamen de theeën met name uit China.
+><p style="text-align: center; font-family:papyrus">In het begin kwamen de theeën met name uit China.</p>
 
 Hier genoten wij met volle teugen van aangezien wij ons de pioniers voelden van de Russische thee markt. Onze onervarenheid heeft ons echter direct naar Azië geleid.
 
@@ -65,7 +65,7 @@ Na voldoende kennis te hebben opgedaan over de oorsprong van de meest geneeskrac
 Het leven in de stad heeft mij veel goed gedaan.
 
 [[contentfulImage HGaZXROfP757A4CMYXP2Y]]
-> Het oprichten van een Siberische ecodorp heb ik altijd nagestreefd.
+><p style="text-align: center; font-family:papyrus">Het oprichten van een Siberische ecodorp heb ik altijd nagestreefd.</p>
 
 Al moet ik er bij vertellen dat mijn innerlijke motivatie om goed te zijn voor mens en milieu ervoor hebben gezorgd dat we ons dorp konden oprichten.
 
@@ -84,7 +84,7 @@ En niet te vergeten!
 Om de smaakbeleving te vergroten combineren wij dit met de overige beschikbare geneeskrachtige kruiden uit de omgeving.
 
 [[contentfulImage 1wDtb1JvFYdeVQjq1TCfiK]]
-> Overigens kan de lichter gefermenteerde versie van Ivan Chai ook door het eten worden gebruikt.
+><p style="text-align: center; font-family:papyrus">Overigens kan de lichter gefermenteerde versie van Ivan Chai ook door het eten worden gebruikt.</p>
 
 Gelukkig voor ons staat er altijd een nieuwe generatie klaar; om de ambacht van het produceren van kruiden en het in stand houden van een ecodorp aan te leren.
 

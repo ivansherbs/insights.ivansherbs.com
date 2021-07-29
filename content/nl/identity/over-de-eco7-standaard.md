@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Eco7 Standaard
+title: ECO7 STANDAARD
 url: /nl/artikel/eco7-standaard
 type: article
 category: partners
@@ -22,19 +22,19 @@ contentful:
 ---
 Voor een beter milieu in een schonere wereld. Benieuwd hoe onze Eco7 Standaard tot stand is gekomen?
 
-### Community building
+## Community building
 
 Ivan's Herbs werkt samen met Siberische ecodorpen als Chazhaevka. Ecodorpen zijn communities met als doel sociaal, economisch als ecologisch duurzaam te zijn. Graag ondersteunen wij deze unieke denkwijze waar mensen, natuur en dieren centraal staan. Deze levensstijl richt zich namelijk op duurzaam gebruik van de omgeving.
 
 [[contentfulImage 7yWGJa0IjVBd98c2hILzrw]]
 
-### Duurzaam productieproces
+## Duurzaam productieproces
 
 De bewoners van het Siberische ecodorp Chazhaevka proberen de verwerking van Ivan Chai zo klimaatneutraal mogelijk te houden. Alles wordt met de hand geplukt en vervolgs op traditionele wijze verpakt. Pas nadat de Ivan Chai in zakken is gestopt wordt het vervoerd naar een moderne verpakkingsfabriek buiten Chazhaevka. Het gehele productieproces is erop ingericht zo weinig mogelijk impact te maken op de wildernis waar de kruiden groeien. De reden is als volgt...
 
 [[contentfulImage 33upUsF4sWTXTvV1IHVNRb]]
 
-### Schoon en gezond klimaat
+## Schoon en gezond klimaat
 
 Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in Ivan Chai. De kruiden uit deze omgeving hebben zich op een andere manier ontwikkeld dan elders op de wereld. Vanuit ecologisch perspectief doet vermoeden dat de werkzame stoffen een gevolg zijn van het extreme klimaat, in combinatie met de vruchtbare gronden langs de rivieren. Met name na een grote bosbrand kan men er van op aan dat kruiden de afgebrande gebieden in rap tempo overnemen.
 

@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Een probleem waar je letterlijk niet graag mee rondloopt...
+title: EEN PROBLEEM WAAR JE LETTERLIJK NIET GRAAG MEE RONDLOOPT...
 url: /nl/artikel/een-probleem-waar-je-niet-graag-mee-rondloopt
 type: article
 category: buikgriep
@@ -25,13 +25,9 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+Buikgriep is een verzamelnaam voor maag- en darmklachten veroorzaakt door een ontsteking. Het meest kenmerkende van buikgriep is dat men last heeft van diarree. Meestal wordt buikgriep veroorzaakt door een virus of bacterie.
 
-Buikgriep is een verzamelnaam voor maag- en darmklachten veroorzaakt door een ontsteking. Deze ontstekingen worden veroorzaakt door een virus of bacterie.
-
-> Het meest kenmerkende van buikgriep is dat men last heeft van diarree.
-
-### Wist je dat…
+## Wist je dat…
 in Nederland jaarlijks ongeveer **4,5 miljoen** mensen last krijgen van buikgriep?
 
 Een keertje ontzettend hard aan de racekak is dus eigenlijk een heel normaal verschijnsel... je hoeft je dan ook nergens voor te schamen. Toch loop je er niet graag mee rond.
@@ -74,7 +70,7 @@ uit verschillende onderzoeken is gebleken dat een groot deel van patiënten die 
 
 De medische term voor het krijgen van diarree na het nemen van een antibioticakuur noemt men Antibiotica geAssocieerde Diarree - AAD.
 
-> AAD kan twee tot drie weken ná de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt acht weken (!) na de kuur nog last had van diarree.
+><p style="text-align: center; font-family:papyrus">AAD kan twee tot drie weken ná de kuur nog optreden. Er zijn gevallen bekend dat na gebruik van antibiotica de patiënt acht weken (!) na de kuur nog last had van diarree.</p>
 
 ### Advies
 
@@ -88,10 +84,10 @@ Naast buikgriep kan Ivan Chai ook soelaas bieden bij het krijgen van andere type
 
 Een gevoelige maag of darmen kan verschillende oorzaken hebben. Een verandering in dieet staat hierbij bovenaan het lijstje. Denk hierbij aan van gezond eten naar ‘fast food’ of van normaal eten naar pittig.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent buikgriep of buikkrampen te verzorgen.
+><p style="text-align: center; font-family:papyrus">Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En we garanderen je dat je beter in staat bent buikgriep of buikkrampen te verzorgen.</p>
 
 Mocht je toch onverhoopt een zwaardere vorm van buikgriep oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de behandelmethode.
 
 Op zoek naar meer informatie over buikgriep?
 
-[[shopifyCollection 269339164838 buttonDestination=modal]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]

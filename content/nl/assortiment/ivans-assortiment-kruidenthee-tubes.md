@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "Siberische kruidenthee"
+title: "SIBERISCHE KRUIDENTHEE"
 url: /nl/assortiment/ivans-assortiment-kruidenthee/tubes
 type: article
 category: Ivan Chai
@@ -37,8 +37,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269172474022 buttonDestination=modal]]
-
 Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de vele voordelen.
 
 Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om deze te hervullen met onze value packs. Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
@@ -117,7 +115,7 @@ Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om d
 
 [[shopifyCollection 269172474022 buttonDestination=modal]]
 
-## Royaltea Giftset
+### Royaltea Giftset
 
 Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
@@ -125,32 +123,32 @@ Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief mid
 
 > Maak de bestelling compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
 
-## Favorieten
+### Favorieten
 
 Graag bieden wij de mogelijkheid om Ivan's meest favoriete kruidenthee in verschillende formaten aan te schaffen.
 
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 
-## Losse Thee
+### Losse Thee
 
 Ons assortiment kleinere volumes. Benieuwd met wat voor een etherische oliën, supplementen of matcha onze kleinere hoeveelheden te combineren zijn? Bekijk ook eens Ivan's Upgrade...
 
 [[shopifyCollection 269222150310 buttonDestination=modal]]
 
-## Upgrade
+### Upgrade
 
 Maak uw keuze compleet met Ivan's Upgrade: thee accessoires en meer...
 
 [[shopifyCollection 6732579930278 buttonDestination=modal]]
 
-## Extra Veel Volume
+### Extra Veel Volume
 
 Voor de enorme theedrinker die er gewoon géén genoeg van kan krijgen. Met extra veel volume kost een kopje thee pak 'm beet 10 cent.
 
 [[shopifyCollection 261576589478 buttonDestination=modal]]
 
 
-## Ivan's | Assortiment
+### Ivan's | Assortiment
 
 Benieuwd naar onze kruiden uit Siberië?
 

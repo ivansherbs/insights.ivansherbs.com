@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Runners high versus Ontstoken pees
+title: RUNNERS HIGH VERSUS ONTSTOKEN PEES
 url: /nl/artikel/runners-high-versus-ontstoken-pees
 type: article
 category: peesontsteking
@@ -27,13 +27,11 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269339164838 buttonDestination=modal]]
-
 We houden er allemaal van om lekker te kunnen sporten! Méér dan de helft van de Nederlanders sport wekelijks. Het is goed voor de gezondheid van je lichaam en je gemoedstoestand.
 
 Zo ben je overdag fitter en komen er stoffen bij vrij waar je gelukkiger van wordt.
 
-### Verslaving
+## Verslaving
 
 Het nadeel is dat wanneer je vaak **sport** dit verslavend kan werken, waardoor je onderdelen van je lichaam overbelast. Met ontstekingen tot gevolg. Hoe dat in z'n werking gaat, gaan we je in dit artikel vertellen.
 
@@ -41,7 +39,7 @@ Sport zorgt ervoor dat je beter in je vel zit.
 
 Dit wordt veroorzaakt door het volgende. En ja, dit proces is complexer dan we nu doen laten overkomen. Voor de uitleg gaan we dan ook niet in op de detail. Om te beginnen. Sport zorgt voor een boost van de neurotransmitters.
 
-### Endorfine
+## Endorfine
 
 Neurotransmitters zijn chemische stoffen die impulsen doorgeven in de hersenen. In Jip en Janneke taal zouden we dit type stof de boodschapperstof noemen onder de stoffen in de hersenen. Met name bij **duursporten** verhoog je de waarde van deze stoffen.
 
@@ -53,7 +51,7 @@ En als reactie hierop stijgt óók nog de **endorfine** in je lichaam.
 
 Goed. Om het overzicht niet te verliezen gaan we snel verder. En houden we het bij deze bij endorfine.
 
-### Runners high
+## Runners high
 
 Neurotransmitters hebben ieder hun eigenaardigheden. Zo heeft endorfine de eigenaardigheid dat het **verslavend werkt**. Je kunt hierdoor periodes in je leven ervaren dat je meer wil sporten. Of sterker nog, dat je gedurende het sporten wil blijven sporten!
 
@@ -73,7 +71,7 @@ Die gelukkigmakend endorfine boost kan er dan vervolgens wel voor zorgen dat je 
 
 Ik heb het over je pezen.
 
-### Pezen
+## Pezen
 
 Pezen mogen het **vuile werk** op zich nemen wanneer jij lekker aan het sporten bent geslagen. Denk nu maar eens aan je knieën. Wanneer jij je spieren hard aan het werk zet krijgen zij het zwaar te verduren. Zij hebben de taak de spieren vast te houden aan het bot. Wanneer een pees langdurig onder hevige druk komt te staan, kan die geïrriteerd raken. Meestal gebeurt dit na verloop van tijd door herhaaldelijke overbelasting.
 
@@ -91,7 +89,7 @@ Denk hierbij aan Ivan Chai. Een Siberische kruidenthee.
 
 Drink Ivan Chai niet alleen preventief tegen een peesontsteking. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van medicijnen uit de farmaceutische industrie.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine. We garanderen dat je beter in staat bent een peesontsteking te voorkomen of te verzorgen.
+><p style="text-align: center; font-family:papyrus">Graag willen we het volgende benadrukken. Neem het drinken van deze Siberische kruidenthee op in je dagelijkse routine. We garanderen dat je beter in staat bent een peesontsteking te voorkomen of te verzorgen.</p>
 
 Mocht je toch onverhoopt een zwaardere vorm van een peesontsteking oplopen, ga verstandig te werk. Bel een deskundige bij twijfel. Laat je informeren over de behandelmethode.
 
@@ -99,4 +97,4 @@ Wil je meer weten over een peesontsteking?
 
 Of hoe je het preventief kunt behandelen zodat jij kunt blijven sporten?
 
-[[shopifyCollection 269160775846 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]

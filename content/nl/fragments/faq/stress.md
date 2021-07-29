@@ -1,8 +1,8 @@
-## Veelgestelde vragen
+### Veelgestelde vragen
 
 [[toc]]
 
-## Wat is stress?
+### Wat is stress?
 
 Onze dikke Van Dale omschrijft stress op de volgende manier:
 
@@ -10,11 +10,11 @@ _stress_ (de; m) 1. aanhoudende geestelijke druk; = spanning
 
 Wat echter niet in de Van Dale staat, is dat stress wordt veroorzaakt door het stresshormoon cortisol. Cortisol is vergelijkbaar met adrenaline. Stress heb je bijna niet van de ene op de andere dag. Over het algemeen bouw je het meestal langzaam op. Denk hierbij aan enkele maanden.
 
-## Hoe ontstaat stress?
+### Hoe ontstaat stress?
 
 Stress ontstaat wanneer er in je lichaam te lang, te veel spanning aanwezig is. Een kleine mate van stress is oké. En hoeft op het eerste gezicht niet voor problemen te zorgen. Je bent namelijk erg gefocust en actief. De mate van stress kan na verloop van tijd groeien. Te lang, een overmatige hoeveelheid aan stress ervaren zorgt voor problemen. Je staat té lang in de 5de versnelling.
 
-## Wat zijn de oorzaken van stress?
+### Wat zijn de oorzaken van stress?
 
 Hierbij moet je denken aan:
 * een hoge werkdruk
@@ -28,7 +28,7 @@ Stress ontstaat met name op werk. 53% van de werknemers ervaart stress op de wer
 
 En nemen dit mee naar huis.
 
-## Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?
+### Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?
 
 Wanneer dit te lang aanhoudt kan dit omslaan in verschillende mentale klachten. Denk hierbij aan de volgende gezondheidsproblemen, die hevige impact kunnen hebben op de gemoedstoestand - en daarmee het dagelijks leven. Eerst enkele voorbeelden van veelvoorkomende mentale klachten:
 * angst
@@ -46,9 +46,9 @@ Wanneer bovenstaande klachten opspelen, raden we het aan om een deskundige te be
 
 Dit kan je doen door het aanpassen van je levensstijl. En het gebruik van eenvoudige natuurlijke behandelingen, zoals Ivan Chai.
 
-## Waarom Ivan Chai?
+### Waarom Ivan Chai?
 
-**Ivan Chai vermindert de kans op stress**
+<p style="text-align: center; font-family:papyrus">Ivan Chai vermindert de kans op stress</p>
 
 * Ivan Chai heeft een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel.
 Hedendaags onderzoek ondersteund deze kalmerende werking. De kalmerende werking heeft namelijk effect op je centrale zenuwstelsel.

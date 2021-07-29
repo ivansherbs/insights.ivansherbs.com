@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Voorkom relatieproblemen
+title: VOORKOM RELATIEPROBLEMEN
 url: /nl/artikel/voorkom-relatieproblemen
 type: article
 category: blaasontsteking
@@ -28,8 +28,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269172474022 buttonDestination=modal]]
-
 **Voorkom relatieproblemen door het voorkomen van een blaasontsteking.**
 
 Ja!
@@ -48,7 +46,7 @@ Goed.
 
 Laten we bij deze opnieuw beginnen.
 
-### Wist je dat...
+## Wist je dat...
 
 een blaasontsteking van invloed is op jullie relatie?
 
@@ -58,7 +56,7 @@ Je kunt relatieproblemen namelijk vanuit meerdere perspectieven benaderen. Zoals
 
 Laten we dit holistische perspectief nog even kort doornemen.
 
-### Holistisch perspectief
+## Holistisch perspectief
 
 Voor de duidelijkheid. En om verwarring te voorkomen. Met het holistisch perspectief benaderen we de mens in zijn totaliteit. Hiermee bedoelen we de gezondheid, algehele gemoedstoestand en alle relevante factoren die van invloed zijn op het gedrag.
 
@@ -74,7 +72,7 @@ Laten we eerst even een **TOP 7** aan oorzaken van **RELATIEPROBLEMEN** doorneme
 
 En dan snap je ook makkelijker waarom een blaasontsteking van invloed is op jullie relatie.
 
-### 1. COMMUNICATIE
+## 1. COMMUNICATIE
 
 De hoeksteen van iedere relatie. Communicatie vloeit voort in ieder van onderstaande oorzaken. Bij communicatie zijn minimaal 2 personen nodig. Heel eenvoudig uitgelegd het je een **zender** en een **ontvanger**.
 
@@ -84,7 +82,7 @@ Echter bij teveel ruis in de communicatie groeien mensen uit elkaar. Hetzelfde g
 
 Wellicht met vreemdgaan tot gevolg.
 
-### 2. VREEMDGAAN
+## 2. VREEMDGAAN
 
 Ook hier zijn leuke bevindingen over gedaan. Wist je dat onderzoek heeft aangetoond dat het toenemende gebruik van **social media** in elkaars bijzijn een voorspeller is van een slechter wordende relatie?
 
@@ -94,7 +92,7 @@ In andere woorden. Heb je net een relatie en gebruiken jullie weinig social medi
 
 Tast dit het vertrouwen in je relatie op dusdanige wijze aan dat het ‘even door de vingers zien’ van deze actie een hoop kapot maakt. Dit heeft te maken met...
 
-### 3. VERTROUWEN
+## 3. VERTROUWEN
 
 Vertrouwen is één van de **bouwstenen** van je relatie. Volgens onderzoek naar ‘Condoomgebruik in verschillende type relaties’ geven de respondenten aan dat de mate van vertrouwen, wederkerigheid en respect binnen relaties de fundamenten vormen voor een langdurige relatie
 
@@ -102,7 +100,7 @@ Hiernaast speelt de mate van liefde en inzet ook een belangrijke rol voor de sne
 
 Ja. Ook hier wordt wetenschappelijk onderzoek naar gedaan om misverstanden uit te sluiten. Wanneer dit allemaal wel goed zit kunnen ook externe factoren van invloed zijn op jullie relatie. Denk aan je...
 
-### 4. CARRIÈRE
+## 4. CARRIÈRE
 
 Je carrière kan flink van invloed zijn op je mentale gesteldheid En hiermee bedoelen we dat een **drukke agenda** kan zorgen voor **werkgerelateerde stress**. Carrièregerichte koppels kunnen tijd vergeten voor elkaar vrij te maken wanneer ze dit niet inplannen.
 
@@ -112,7 +110,7 @@ Gezien werkstress een groeiend probleem is onder de Nederlandse bevolking, hebbe
 
 Hetzelfde geldt voor punt nummer 5.
 
-### 5. MENTALE KLACHTEN
+## 5. MENTALE KLACHTEN
 
 Mentale klachten klinkt meteen vrij heftig. Toch komt het op **dagelijkse basis** vaker voor dan je denkt.
 
@@ -122,7 +120,7 @@ Ook kan de periode in het leven die bekend staat als een **‘midlife crisis’*
 
 Wat flink van invloed is op jullie relatie.
 
-### 6. FINANCIËLE ONAFHANKELILJKHEID
+## 6. FINANCIËLE ONAFHANKELILJKHEID
 
 Bovenstaande punten kunnen worden versterkt door een partner die vrij egocentrisch door het leven gaat. Dit kan komen doordat de **grootverdiener** bepaald wat er gebeurt met het geld. Dit heeft met name te maken met **financiële onafhankelijkheid**.
 
@@ -132,7 +130,7 @@ Geinig, wanneer je bedenkt dat de **onbetaalde zorgtaken** over het algemeen nie
 
 Ja ook dit bestaat. En is ernstig van invloed op jullie relatie. Door hierover te praten en een dialoog aan te gaan worden andere problemen verminderd. Dialoog is van belang in langdurige relaties. Ook als het op punt 7 aankomt.
 
-### 7. INTIMITEIT
+## 7. INTIMITEIT
 
 Tot slot zijn we aangekomen bij het laatste punt. Laten we maar vooral met de deur in huis vallen. Intimiteit is een zeer zwaarwegende factor in iedere relatie. Bij intimiteit wordt over het algemeen gelijk gedacht aan seks.
 
@@ -195,7 +193,7 @@ Beide goed voor je relatie!
 
 Dus. Recapitulerend en terugkijkende op dit artikel.
 
-### Wat zou jij doen?
+## Wat zou jij doen?
 
 [[shopifyCollection 261575966886 buttonDestination=modal]]
 

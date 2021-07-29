@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Veilig gebruik van kruiden
+title: VEILIG GEBRUIK VAN KRUIDEN
 url: /nl/veilig-gebruik-van-kruiden
 type: article
 category: kruidengeneeskunde
@@ -22,26 +22,24 @@ contentful:
     fm: jpg
     q: 50
 ---
-[[shopifyCollection 269172474022 buttonDestination=modal]]
-
 Kruiden zijn wereldwijd een veel gebruikt medicijn voor preventieve behandelingen. Ze worden vaak als ongevaarlijk beschouwd. Mochten er bijwerkingen optreden dan zijn vooral zwangere vrouwen, kinderen en ouderen onderhevig aan deze bijwerkingen. Een onderzoek heeft aangetoond dat er gelukkig wel wordt nagedacht over de verschillende positieve dan wel negatieve effecten van kruiden.
 
-### Veiligheid
+## Veiligheid
 
 Het combineren van kruiden met geneeskrachtige werking en medicijnen uit de farmaceutische industrie gaat vaak samen. Dit is echter niet altijd het geval. Weinig patiënten vertellen bij het ophalen van hun medicijnen dat zij ook kruiden als medicijn gebruiken. Veel apothekers die optreden als expert in de verkoop van medicijnen hebben een gevoel van schijnveiligheid. Ze denken dat kruiden als medicijn in combinatie met medicijnen uit de farmaceutische industrie geen enkel probleem is.
 
-> Vanuit beide richtingen is er een tekort aan informatie; zowel experts als patiënt. Er zijn namelijk kruiden die absoluut niet gecombineerd mogen worden met medicijnen uit de farmaceutische industrie.
+><p style="text-align: center; font-family:papyrus">Vanuit beide richtingen is er een tekort aan informatie; zowel experts als patiënt. Er zijn namelijk kruiden die absoluut niet gecombineerd mogen worden met medicijnen uit de farmaceutische industrie.</p>
 
-### Communicatie
+## Communicatie
 
 Een apotheker maakt dagelijks mee dat patiënten bij het ophalen van hun medicijnen niet vertellen dat zij ook kruiden met geneeskrachtige werking gebruiken. Ervaren herboristen erkennen deze kwestie waarbij wordt aangeraden om bij onwetendheid niet zelf te experimenteren met kruiden zonder enige vorm van kennis of ervaring.
 
-Laat je informeren over de mogelijke gevolgen bij gebruik van zowel kruiden als medicijnen, als medicijnen uit de farmaceutische industrie. Bijwerkingen die voortvloeien bij gebruik van natuurlijke medicijnen zijn zeer zeldzaam en worden niet tot weinig gerapporteerd.
+Laat je informeren over de mogelijke gevolgen bij gebruik van medicijnen. Bijwerkingen die voortvloeien bij gebruik van natuurlijke medicatie zijn zeer zeldzaam en worden niet tot weinig gerapporteerd.
 
-> Kruiden met geneeskrachtige werking worden echter steeds vaker beschikbaar gesteld voor de consument. Dit komt mede doordat in de samenleving de vraag naar het introduceren van natuurlijke producten toe neemt .
+><p style="text-align: center; font-family:papyrus">Kruiden met geneeskrachtige werking worden echter steeds vaker beschikbaar gesteld voor de consument. Dit komt mede doordat in de samenleving de vraag naar het introduceren van natuurlijke producten toeneemt.</p>
 
-### Informeren
+## Informeren
 
 De consument dient daarom beter te worden geïnformeerd over de risico’s bij gebruik om de veiligheid te kunnen waarborgen. Het informeren over de voor- en nadelen is iets waar vele experts uit apotheken dan wel natuurwinkels slagen kunnen behalen wanneer het welzijn van de mens voorop wordt gesteld.
 
-[[shopifyCollection 269160775846 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]

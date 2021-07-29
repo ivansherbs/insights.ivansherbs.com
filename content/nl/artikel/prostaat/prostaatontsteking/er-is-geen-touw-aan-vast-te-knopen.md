@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Geen touw aan vast te knopen...
+title: GEEN TOUW AAN VAST TE KNOPEN
 url: /nl/artikel/geen-touw-aan-vast-te-knopen
 type: article
 category: prostaatontsteking
@@ -26,8 +26,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269339164838 buttonDestination=modal]]
-
 Naarmate de tijd verstrijkt kunt u ervan op aan dat er meer tijd gaat zitten in dagelijkse bezigheden. Fijne bijkomstigheid is dat een man weet dat hij op latere leeftijd meer kans heeft op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken aangezien we dit probleem graag wederom aankaarten bij mannen.
 
 * 30% van de mannen ouder dan 50 jaar heeft problemen met plassen.
@@ -46,7 +44,7 @@ Deze bewering onderbouwen wij op de volgende manier.
 
 * U leidt momenteel een leven waarbij u, net als vroeger, zo nu en dan een héél gezond dieet volgt. Zo nu en dan sport én waarbij u op dagelijkse basis om en nabij de 10.000 stappen zet. Zo nu en dan een beetje buiten de lijntjes kleurt, waarbij u het totaal niet erg vindt eens te diep in het glaasje te kijken; om vervolgens tóch nog last te krijgen van een prostaatontsteking!
 
-### Kort samengevat <br>
+## Kort samengevat
 U kunt uw hele leven naar eigen inziens hebben ingedeeld met de beschikbare gezonde producten die momenteel te verkrijgen zijn. Als u niet bewust op zoek gaat en rekening houdt met uw prostaat, dan loopt u net als iedere man een vergrote kans een prostaatontsteking op te lopen.
 
 En voor ons gevoel zijn dat er veel.
@@ -63,8 +61,7 @@ Ivan chai beschermt de gezondheid van uw prostaat. Voor we verder gaan met onze 
 
 [[contentfulImage 4jBzDTxhzRWfhXqgvpjqyu]]
 
-### Maria Treben
-
+## Maria Treben
 Voor het belang van het verhaal en de volledigheid willen we u eerst nog even kennis laten maken met Maria Treben.
 
 Maria Treben was een ware pionier in de kruidengeneeskunde. Haar leven stond in het teken van het behandelen van problemen met kruiden. Ze heeft bekendheid verkregen door het geven van vele seminars en presentaties bij verschillende conferenties. Hier worden de bevindingen uit onderzoek uitvoerig besproken.
@@ -120,4 +117,4 @@ Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverho
 
 Op zoek naar meer verdieping?
 
-[[shopifyCollection 269160775846 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]

@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: Onze missie
+title: ONZE MISSIE
 url: /nl/over/over-ivans-herbs
 type: about
 category: kruiden uit Siberië
@@ -14,11 +14,11 @@ contentful:
     fm: png
     q: 50
 ---
-Wij geloven in de klinisch bewezen voordelen van kruiden uit Siberië.
+<p style="text-align: center; font-family:papyrus">Wij geloven in de klinisch bewezen voordelen van kruiden uit Siberië.</p>
 
 [[contentfulImage 587qcANxXb7WGYZqYUirxd]]
 
-### Introduceren kruiden uit Siberië
+## Introduceren kruiden uit Siberië
 
 De producten van Ivan's Herbs komen rechtstreeks uit de natuur, hebben krachtige impact op de gezondheid, algehele gemoedstoestand en zijn bewezen effectief middels klinisch onderzoek.
 
@@ -30,7 +30,7 @@ Goed voor lichaam en geest...
 
 [[contentfulImage KQWFaPqRC6rGOX9G2rhPg]]
 
-### Informeren
+## Informeren
 
 Informeren over kruiden uit Siberië als oplossing voor fysieke dan wel mentale problemen staat bij ons hoog in het vaandel. Dit streven wij na door het schrijven van artikelen over lichaam en geest.
 
@@ -41,7 +41,7 @@ Benieuwd naar onze inzichten?
 
 [[contentfulImage QzIUfEuB5zxJRYozJxlCw]]
 
-### Community building
+## Community building
 
 Onze waarden richten zich tevens op samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen.
 

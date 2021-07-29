@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: Alle kleine beetjes helpen...
+title: ALLE KLEINE BEETJES HELPEN...
 url: /nl/artikel/alle-kleine-beetjes-helpen
 type: article
 category: zwak immuunsysteem
@@ -27,13 +27,11 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269339164838 buttonDestination=modal]]
-
 **Vandaag begin ik voor de verandering** met het voordragen van een hééél mooi gedicht over kanker.
 
 .................
 
-### Een overbiddelijke kwestie
+## Een overbiddelijke kwestie
 
 _“Kanker is één van de meest onverbiddelijke kwesties in het leven._
 
@@ -55,7 +53,7 @@ _God heeft bij deze besloten dat je even langer mag blijven leven. Al zal een zw
 
 .................
 
-### Een lang en plezierig leven
+## Een lang en plezierig leven
 
 _“Je voelt het onregelmatig door je lichaam, zo’n beetje iedere dag. Maar je blijft wel alsmaar ouder worden, gelukkig wel met een lach._
 
@@ -93,7 +91,7 @@ Laten we beginnen met het immuunsysteem. Je immuunsysteem beschermt je lichaam t
 
 [[contentfulImage 7uQl6gHB2azohJzLsfi8Pw]]
 
-### Ouderen
+## Ouderen
 
 Het ligt tevens in de lijn der verwachtingen dat wanneer je ouder wordt bepaalde functies van je lichaam minder goed werken. Denk bijvoorbeeld aan je spijsverteringsstelsel. Door ouderdom kan je lichaam voedingsstoffen niet voor altijd goed blijven opnemen. Dit gaat ten koste van je immuunsysteem.
 
@@ -110,7 +108,7 @@ Je weet dus dat dit fenomeen er één keer per jaar aankomt. Dus door het consum
 **Wist je dat…?** <br>
 Vitamine c rijkelijk te vinden is in Ivan Chai. En dat is goed nieuws. Want. Vitamine c geeft je immuunsysteem een boost. Iets wat je naar mate je ouder wordt goed kunt gebruiken. Of wanneer je dagelijkse leven is beïnvloed door een ernstige ziekte. Dit zijn voorbeelden waarbij het herstelproces alleen al enkele maanden in beslag neemt. In sommige gevallen zelfs jaren. Ik bespreek bij deze alleen de ex-patiënten van één ernstige ziekte. Namelijk.
 
-### Ex-kankerpatiënten
+## Ex-kankerpatiënten
 
 Om te beginnen. We mogen van geluk spreken dat er iets bestaat als chemotherapie. Echter wanneer je bent ‘genezen’ van kanker. Denk dan aan de consequenties die een chemotherapie heeft op je immuunsysteem.
 
@@ -140,11 +138,11 @@ Top. Je bent weer wat wijzer geworden.
 **Is er dan ook iets als eigen schuld?** <br>
 Ja. Zo zou je het kunnen noemen. Soms kan het ook liggen aan je levensstijl waardoor je een zwak immuunsysteem hebt. Bij deze nog even twee voor de hand liggende voorbeelden. Die je wel in de categorie 'eigen schuld' durft te plaatsen. En. Om het af te leren...
 
-### 1. Slechte voeding
+## 1. Slechte voeding
 
 Dit weet je eigenlijk ook wel. Door het constant eten van slechte voeding krijg je slechte bouwstenen binnen. Waardoor je niet anders kan dan een zwak immuunsysteem opbouwen. Hier zullen we in een ander artikel nog wel eens dieper op ingaan.
 
-### 2. Roken
+## 2. Roken
 
 Nicotine maakt letterlijk vitamine kapot. Je verstoort hiermee de opnamen van je voedingsstoffen. Dit valt het makkelijkst te veranderen in vergelijking met de overige oorzaken. Hoe ga ik je dan ook gewoon niet vertellen.
 
@@ -164,4 +162,4 @@ Mocht je onverhoopt met een zwak immuunsysteem blijven rondlopen, ga verstandig 
 
 Benieuwd hoe Siberische kruidenthee van invloed is op je immuunsysteem?
 
-[[shopifyCollection 269160775846 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]

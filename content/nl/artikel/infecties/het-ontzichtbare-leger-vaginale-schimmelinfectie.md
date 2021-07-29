@@ -21,10 +21,10 @@ shopify:
   language: NL
 ---
 
-> Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie, ofwel Candida vaginalis??!!
+><p style="text-align: center; font-family:papyrus">Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie, ofwel Candida vaginalis??!!</p>
 
 [[contentfulImage 7k9GOsapQIoxmq3Uf1dBN4]]
 
-[**-->>Terug naar het artikel<<--**](#https://insights.ivansherbs.com/nl/artikel/infecties/het-ontzichtbare-leger-vaginale-schimmelinfectie#terug_en_lees_verder)
+[**-->>Terug naar het artikel<<--**](#https://insights.ivansherbs.com/nl/artikel/infecties/het-onzichtbare-leger-vaginale-schimmelinfectie#terug_en_lees_verder)
 
 [[shopifyCollection 269172474022 buttonDestination=modal]]

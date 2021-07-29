@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: 1 theekopje vol bloed
+title: 1 THEEKOPJE VOL BLOED
 url: /nl/artikel/1-theekopje-vol-bloed
 type: article
 category: menstruatiepijn en baarmoederontsteking
@@ -25,8 +25,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269172474022 buttonDestination=modal]]
-
 Wanneer jij ongesteld bent komt er per keer ongeveer 80ml aan bloed uitzetten. En voor de rekenwonders onder ons; dat is toch al gauw 1 theekopje vol bloed per week.
 
 Welke kruidenmelange mag je lekker zelf verzinnen.
@@ -35,7 +33,7 @@ Wist je dat?
 
 * de kleur van de uiteindelijk melange die zichtbaar is letterlijk iets zegt over je innerlijke balans?
 
-### Onderzoek
+## Onderzoek
 
 Een onafhankelijk instituut van verloskundigen en gynaecologen heeft hier uitvoerig onderzoek naar gedaan. De kleur van je menstruatiecyclus geeft een indicatie over de gezondheid van je hormoonhuishouding. En wellicht nog belangrijker, welke risicofactoren eraan zijn verbonden.
 
@@ -43,11 +41,11 @@ Wij geven jullie dan ook graag een overzicht. Met het antwoord op de vraag waaro
 
 En waarom Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie kan worden gebruikt.
 
-### Kleurenpalet
+## Kleurenpalet
 
 Laten we bij deze dieper ingaan op dit maandelijkse kleurenpalet om de gezondheid van je lichaam nader te bepalen. Te beginnen bij een kleur vaker geproduceerd door de fanatieke sporters, stresskippen en anticonceptiepil gebruikers onder ons.
 
-### Rozerood
+## Rozerood
 
 [[contentfulImage 1ydHsGguUIjquLvuxKDLWf]]
 
@@ -74,7 +72,7 @@ Ivan Chai vermindert de kans op stress. Dit wordt mogelijk gemaakt door de kalme
 
 Drink Ivan Chai tevens als aanvulling op medicijnen uit de farmaceutische industrie ( anticonceptiepil). Met name om ongewenste bijwerkingen te bestrijden. ( Dit bespreken we verderop in het artikel.)
 
-### Wittigrood
+## Wittigrood
 
 [[contentfulImage 3yLnMoa5I3txFa7ZzZajsa]]
 
@@ -93,7 +91,7 @@ Om te beginnen. Vitamine C is rijkelijk te vinden in Ivan Chai. Door de vitamine
 
 Ivan Chai verzorgt je spijsverteringsstelsel. Met als gevolg dat voedingsstoffen beter worden opgenomen. Ook de opname van ijzer wordt hierdoor bevordert.
 
-### Rode-gelei
+## Rode-gelei
 
 [[contentfulImage 41HoJLKcpCOgTTNd76vCiA]]
 
@@ -116,7 +114,7 @@ Ivan Chai verzorgt het spijsverteringsstelsel. Naast de opname van voedingsstoff
 
 Ivan Chai bevat zoals eerder beschreven een kalmerende werking. Onderzoek heeft aangetoond dat deze kalmerende werking van invloed is op je centrale zenuwstelsel. Deze kalmerende werking is al eeuwen bekend in de traditionele kruidengeneeskunde. Maar nu ook erkend door hedendaags onderzoek ( hierdoor is Ivan Chai ook effectief tegen stress en angst).
 
-### Donkerrood
+## Donkerrood
 
 [[contentfulImage 5iNEfH10KUpFE8IBE07gTW]]
 
@@ -132,7 +130,7 @@ Nu we het toch hebben over zuurstof in je bloed. Ivan Chai versterkt de antioxid
 
 ( En even buiten de baarmoeder om. Deze werking is tevens effectief tegen hart- en vaatziekten. Ontdek deze voordelen in een ander artikel dat we hebben geschreven: “Je hart als bakermat van liefde”)
 
-### Oranje Rood
+## Oranje Rood
 
 [[contentfulImage 7li3aJIlzHTImb7PQvKqyN]]
 
@@ -144,7 +142,7 @@ Nu je een soa hebt opgelopen krijg je waarschijnlijk medicijnen uit de farmaceut
 
 Drink Ivan Chai als aanvulling op medicijnen uit de farmaceutische industrie. Om de kans op ongewenste bijwerkingen te bestrijden.
 
-### Felrood
+## Felrood
 
 [[contentfulImage 6NuMZCBtt53d8aTU52B0AM]]
 
@@ -156,7 +154,7 @@ Drink Ivan Chai niet alleen om de kans op ziekten te verkleinen en problemen te 
 
 Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest.
 
-### Benieuwd naar de smaak?
+## Benieuwd naar de smaak?
 
 Ivan Chai heeft een zeer zachte smaak die vergelijkbaar is met traditionele zwarte thee, echter met een van nature licht zoete smaak.
 
@@ -170,7 +168,7 @@ Groene Ivan Chai bevat een juist frisse bitterzoete en grassige smaak.
 
 Benieuwd geworden naar het effect van een bevalling of spiraaltje?
 
-### Bevalling versus spiraaltje
+## Bevalling versus spiraaltje
 
 Geinig he? Hoeveel kleuren je baarmoeder wel niet kan ontwikkelen. En wat dat zegt over je innerlijke balans. Over ontwikkelen en een baarmoeder gesproken. Naast een rijkelijk gevuld kleurenpalet, ligt het in de lijn der verwachtingen dat er ook wel eens één of meerdere kinderen ter wereld worden gebracht.
 
@@ -196,7 +194,7 @@ Bij het plaatsen van een spiraaltje komen zo nu en dan ongewenste bacteriën mee
 
 Goed om te weten. Ivan Chai kan ook preventief worden gedronken om extra weerstand op de bouwen tegen onzichtbare indringers van buitenaf.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
 Ivan Chai werkt als een krachtige ontstekingsremmer. En versterkt de weerstand. Dit wordt mede mogelijk gemaakt door het volgende.
 
@@ -208,7 +206,7 @@ Hiernaast kun je bij deze heftige en terugkerende baarmoederontstekingen zelfs o
 
 [[contentfulImage 295TmPMgvdjoj44lJ6bCl6]]
 
-### Ben jij op zoek naar?
+## Ben jij op zoek naar?
 
 Een veilig product zonder bijwerkingen, rechtstreeks uit de natuur...
 
@@ -220,13 +218,13 @@ Een veilig product zonder bijwerkingen, rechtstreeks uit de natuur...
 
 Denk aan Ivan Chai. Een Siberische kruidenthee. Goed voor lichaam en geest.
 
-### Bijkomende voordelen:
+## Bijkomende voordelen:
 
 * Ivan Chai bevat géén cafeïne, géén toegevoegde suikers en géén aroma’s
 
 Drink Ivan Chai niet alleen preventief tegen problemen. Maar ook om je fysiek en mentaal te ondersteunen bij het gebruik van medicijnen uit de farmaceutische industrie.
 
-> Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent baarmoederaandoeningen te verzorgen.
+><p style="text-align: center; font-family:papyrus">Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. En wij garanderen je dat je beter in staat bent baarmoederaandoeningen te verzorgen.</p>
 
 Mocht je toch onverhoopt een met een ernstige aandoening rondlopen, ga verstandig te werk. Bel een deskundige bij twijfel. En laat je informeren over de farmaceutische behandelmethode.
 
