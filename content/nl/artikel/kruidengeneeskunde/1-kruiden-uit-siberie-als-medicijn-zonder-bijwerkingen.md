@@ -8,7 +8,6 @@ publish:
   author: Ivanka Lopukhina
 tags:
 - MEDICIJN
-- KRUIDENGENEESKUNDE
 meta:
   description: Ontdek wat thee, aromatherapie, supplementen en matcha op basis van kruiden uit Siberië kan betekenen voor lichaam en geest. Benieuwd naar onze inzichten?
   keywords: kruiden, medicijnen, European Medicines Agency, farmaceutische industrie, expert, Amerikaanse Federal Drug Administration, wetenschap, gegevens

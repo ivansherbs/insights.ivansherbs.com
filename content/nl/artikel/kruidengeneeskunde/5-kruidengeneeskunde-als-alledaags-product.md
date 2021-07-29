@@ -8,7 +8,6 @@ publish:
   author: Svetlana Petrova
 tags:
 - MEDICIJN
-- KRUIDENGENEESKUNDE
 meta:
   description: Dagelijks gebruik van kruiden met geneeskrachtige werking is mogelijk met de producten van Ivan's Herbs, Herbs from Siberia. Benieuwd naar onze inzichten?
   keywords: medicijnen, kruiden, farmaceutische industrie, probleem, natuurlijk, product, kruidenthee, aromatherapie, supplement, kruidengeneeskunde, angst, stress

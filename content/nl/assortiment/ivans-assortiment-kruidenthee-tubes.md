@@ -28,7 +28,7 @@ meta:
   description: "Losse TUBES 50gram voor €7,75. Gegarandeerd de hoogste kwaliteit... Aanmelden nieuwsbrief = EXCLUSIEVE aanbiedingen. Bekijk meer..."
   keywords: kruidenthee, kruiden, thee, cafeïnevrij, schimmelinfectie, prostaat, urinewegen, blaasontsteking, angst, griep, nachtrust, herstel, hypertensie, hoge bloeddruk, hoesten, antitussivum, hoestdrank, lever, spijsverteringsstelsel, maag, maagzweren,
 banner:
-  image: 2k1wPAMSc9lNOhVUvLiczj
+  image: 2wOzYAJY52SwspFuooWAV5
   effect: o-lg-60d-black
 contentful:
   imageOptions:
@@ -57,7 +57,7 @@ Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om d
 
 **✔ Versterkt de weerstand**: Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 
-[[contentfulImage 3G23K1fx0prQYAvfPlZMk5]]
+[[contentfulImage 4tqpTb4zpj9YwXihe3ERYs]]
 
 <h1 style="font-family:papyrus; color: #fff; background-color: #566845; text-align: center; font-weight:bold">Groene Ivan Chai</h1>
 
@@ -71,7 +71,7 @@ Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om d
 
 **✔ Versnelt herstel en voorkomt griep**: Ivan Chai versterkt de weerstand, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 
-[[contentfulImage 6mzRZGwYPvccU25DW8uVmn]]
+[[contentfulImage 72Upinh9ERP9NTz4QESB9B]]
 
 <h1 style="font-family:papyrus; color: #fff; background-color: #b79fbf; text-align: center; font-weight:bold">Bergenia Chai</h1>
 
@@ -85,7 +85,7 @@ Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om d
 
 **✔ Vezorgt de lever**: moet uw lever worden beschermd tegen schadelijke stoffen? Onderzoek heeft aangetoond dat Bergenia hepatoprotectief is. Bergenia Chai voorkomt schade aan uw lever.
 
-[[contentfulImage 6AamClT9lBatGjD3OFfDiH]]
+[[contentfulImage RQcxtuhK9wi52x4XBYxsE]]
 
 <h1 style="font-family:papyrus; color: #fff; background-color: #8f8a72; text-align: center; font-weight:bold">Meadowsweet Chai</h1>
 
@@ -99,7 +99,7 @@ Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om d
 
 **✔ Goed tegen maagzweren**: Meadowsweet Chai bevat een krachtige anti-zweervorminge eigenschappen. Meadowsweet Chai voorkomt het ontstaan van maagzweren.
 
-[[contentfulImage 4Myqu325BwZGpM9hIEdofB]]
+[[contentfulImage 1Xo7XxkFYOyEbNEjR7r6ez]]
 
 <h1 style="font-family:papyrus; color: #fff; background-color: #af5da4; text-align: center; font-weight:bold">Ziziphora Chai</h1>
 

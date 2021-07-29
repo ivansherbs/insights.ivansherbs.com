@@ -20,7 +20,7 @@ fragments:
 publish:
   author: ADVERTENTIE
 banner:
-  image: 3MFrGuWuApFDCZrKXvrRMr
+  image: 3UdgQFddJals5LS9f7YzWg
   effect: o-lg-60d-black
 contentful:
   imageOptions:
