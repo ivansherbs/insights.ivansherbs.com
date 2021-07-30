@@ -5,7 +5,7 @@ url: /nl/assortiment/ivans-assortiment-siberische-kruidenthee
 type: article
 category: Ivan Chai
 tags:
-- Assortiment kruidenthee
+- assortiment kruidenthee
 - Geschiedenis
 - Gevoel
 - Gezin
