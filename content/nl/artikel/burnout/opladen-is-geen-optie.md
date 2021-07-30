@@ -7,11 +7,11 @@ category: burnout
 publish:
   author: Svetlana Petrova
 tags:
-- Mentale klachten
-- Werk
-- Eyeopener
-- Gevoel
-- Stress
+- mentale klachten
+- werk
+- eyeopener
+- gevoel
+- stress
 meta:
   description: Meer dan 1.000.000 mensen in Nederland hebben te maken met een burnout klachten. Mede mogelijk gemaakt door meerdere factoren. Het krijgen van een burnout is een groeiend probleem. Benieuwd naar onze inzichten?
   keywords: burnout klachten, cortisol, burnout symptomen, burnout, overspannen, symptomen burnout, wat is een burnout, koffie, stress, stresshormoon, bloedsuikerspiegel

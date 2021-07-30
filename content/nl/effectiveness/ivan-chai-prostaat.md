@@ -7,8 +7,8 @@ category: Ivan Chai
 publish:
   author: Ivan Alexandrovitj
 tags:
-- Prostaat
-- Man
+- prostaat
+- man
 meta:
   description: Drink Ivan Chai tegen een vergrote prostaat (bph), prostaatontsteking en prostaatkanker. Benieuwd naar onze inzichten?
   keywords: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bph, prostaatontsteking, prostaatkanker

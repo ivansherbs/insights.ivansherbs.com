@@ -7,9 +7,9 @@ category: vergrote prostaat
 publish:
   author: Ivan Alexandrovitsj
 tags:
-- Man
-- Eyeopener
-- Prostaat
+- man
+- eyeopener
+- prostaat
 meta:
   description: Prostaatklachten? bph? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Ofwel benigne prostaat hyperplasie (BPH). Benieuwd naar onze inzichten?
   keywords: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroot, benigne prostaat hyperplasie, maria treben, urineverlies

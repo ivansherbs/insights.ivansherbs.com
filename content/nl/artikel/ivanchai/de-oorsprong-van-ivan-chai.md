@@ -7,10 +7,10 @@ category: Ivan Chai
 publish:
   author: Sasha Popov
 tags:
-- Assortiment kruidenthee
-- Ivan Chai
-- Milieu
-- Eyeopener
+- assortiment kruidenthee
+- ivan chai
+- milieu
+- eyeopener
 meta:
   description: Lees nu waarom bosbranden altijd al een grote rol hebben gespeeld in de oorsprong van Ivan Chai. Om de natuurlijke evolutie niet in de weg te staan halen wij daarom onze kruiden louter uit de wildernis van Siberië. Benieuwd naar onze inzichten?
   keywords: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, natuur, rusland, bomen, spar, den, tiaga, gezondheid, evolutie, wildernis, Altaj, fireweed, ivan chai, epilobium angustifolium

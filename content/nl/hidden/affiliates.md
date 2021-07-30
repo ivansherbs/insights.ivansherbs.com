@@ -187,7 +187,7 @@ Jawel, mocht uw verkoop goed gaan. Dan zouden we graag de overstap willen maken 
 - Roomse Kamille Etherische Olie
 - Wierook Etherische Olie
 - Scharlei Etherische Olie
-- Mandarijn Etherische Olie
+- mandarijn Etherische Olie
 - Wilde Marjolein Etherische Olie
 
 Goed om te weten. Wanneer de tijd daar is willen we deze verkoop een ‘boost’ geven middels de verkoop van aroma-diffusers, ofwel luchtbevochtigers.
@@ -234,9 +234,9 @@ VOORDEEL 1
 ### Verzorgt de gezondheid van de prostaat en urinewegen
 
 30% van de mannen ouder dan 50 jaar heeft last van zijn prostaat. Denk aan:
-- Prostaatontsteking
+- prostaatontsteking
 - Vergrote prostaat (BPH)
-- Prostaatkanker (jaarlijks 12.000 keer vastgesteld)
+- prostaatkanker (jaarlijks 12.000 keer vastgesteld)
 - Blaasontsteking (20% van de vrouwen heeft hier jaarlijks mee te maken)
 De voordelen tegen prostaatontsteking, vergrote prostaat (bhp) en blaasontsteking zijn bevestigd door het European Medicines Agency vanwege langdurige grootschalige klinische onderzoek met duizenden mannen en vrouwen.
 

@@ -7,7 +7,7 @@ category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
 tags:
-- Ivan chai
+- ivan chai
 meta:
   description: Dit artikel is geschreven voor personen die in bezit zijn van Ivan Chai en zin hebben om een kopje thee te zetten. Wat is Ivan Chai en hoe smaakt het?
   keywords: thee, ivan chai, kruiden, kruidenthee, fireweed, epilobium angustifolium, kruidengeneeskunde, cafeïnevrij, Siberië
