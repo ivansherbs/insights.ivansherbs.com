@@ -31,9 +31,7 @@ shopify:
 
 <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-prostate-health"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NsPHIDqiw40FsIQxsbZfw/400ecdf78cb0c83569e5ba4f86d01184/flaticon-prostate-health.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
 
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-prostate-health"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NsPHIDqiw40FsIQxsbZfw/400ecdf78cb0c83569e5ba4f86d01184/flaticon-prostate-health.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-joint"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NsPHIDqiw40FsIQxsbZfw/400ecdf78cb0c83569e5ba4f86d01184/flaticon-joint.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-joint"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/1vQtxfkdY8o4kfgrBlsnkm/14f150e311b418cf249beac1d6a3abae/flaticon-joint.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
 
 <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-eye-open"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/17K6L8bIKqWOjUovhAL7u3/2d59e11e7a88244a19634268fb503916/flaticon-eye-open.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
 
@@ -47,7 +45,8 @@ shopify:
 
 <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-diarree"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/HKGyL80bqjU1ECGyMvxuh/9b8964f9aebbca420fc8238c982e1a16/flaticon-diarree.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
 
-Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt. Ook op jongere leeftijd kunnen dagelijkse bezigheden ernstig worden verstoord. Kruiden uit Siberië bieden gelukkig vele voordelen. Benieuwd naar onze inzichten?
+<p>
+Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt. Ook op jongere leeftijd kunnen dagelijkse bezigheden ernstig worden verstoord. Kruiden uit Siberië bieden gelukkig vele voordelen. Benieuwd naar onze inzichten? </p>
 
 [[contentfulImage 2z3Wv9RruaRUsxycEvZyRY fm=png q=100 w=100 h=100]]
 
@@ -71,6 +70,11 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 ### Prostaatklachten:
 <section id="flaticon-prostate-health">
@@ -92,6 +96,11 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 ### Onstekingen:
 <section id="flaticon-joint">
@@ -111,8 +120,18 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
-                        </div>
+                        <</div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <div>
+        <div>
+            <div>
+                <div>
                   <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -126,6 +145,11 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                           <div class="space-25"></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 ### Angststoornissen:
 <section id="flaticon-eye-open">
@@ -147,6 +171,11 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 ### Hart- en vaatziekten:
 <section id="flaticon-flaticon-heart-1">
@@ -166,8 +195,13 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
-                        </div>
+                       </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 ### Mentale klachten:
 <section id="flaticon-mental_health_cross">
@@ -189,6 +223,11 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 ### Slaapproblemen:
 <section id="flaticon-sleep-1">
@@ -210,6 +249,11 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 ### Infecties:
 <section id="flaticon-infection">
@@ -231,6 +275,11 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 ### Maag- en darmklachten:
 <section id="flaticon-diarree">
@@ -252,5 +301,10 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]
