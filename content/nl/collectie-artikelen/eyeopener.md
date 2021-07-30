@@ -25,30 +25,23 @@ shopify:
   language: NL
 ---
 <div class="col-md-12 col-lg-12">
-<div style="margin:auto">
-<p class="aligncenter">
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-cup-of-tea"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2z3Wv9RruaRUsxycEvZyRY/d1dfe0755a7ba2653b2f923a453c519c/flaticon-cup-of-tea.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-prostate-health"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NsPHIDqiw40FsIQxsbZfw/400ecdf78cb0c83569e5ba4f86d01184/flaticon-prostate-health.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-joint"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/1vQtxfkdY8o4kfgrBlsnkm/14f150e311b418cf249beac1d6a3abae/flaticon-joint.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-eye-open"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/17K6L8bIKqWOjUovhAL7u3/2d59e11e7a88244a19634268fb503916/flaticon-eye-open.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-flaticon-heart-1"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7MNloy6OBPxYEES8AIlftk/8c70ab3df91179ec162cc4aa2ed6fd31/flaticon-heart-1.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-mental_health_cross"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eZ6gwyiefsfNfo8drXozL/267a3ca160add33c803253be0c939098/flaticon-mental_health_cross.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-sleep-1"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/4nuRnOkBtR7FL9qshIZZrh/66d9082bbfc361f556ee01523ad820a5/flaticon-sleep-1.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-infection"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6KRpFNKQnp9uP0UNehihmT/4338bc6a91208de94d89b33fab8f4c83/flaticon-infection.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-diarree"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/HKGyL80bqjU1ECGyMvxuh/9b8964f9aebbca420fc8238c982e1a16/flaticon-diarree.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+    <div style="margin:auto">
+    <p class="aligncenter">
+        <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-cup-of-tea"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2z3Wv9RruaRUsxycEvZyRY/d1dfe0755a7ba2653b2f923a453c519c/flaticon-cup-of-tea.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+        <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-prostate-health"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NsPHIDqiw40FsIQxsbZfw/400ecdf78cb0c83569e5ba4f86d01184/flaticon-prostate-health.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px"></a>
+        <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-joint"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/1vQtxfkdY8o4kfgrBlsnkm/14f150e311b418cf249beac1d6a3abae/flaticon-joint.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+        <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-eye-open"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/17K6L8bIKqWOjUovhAL7u3/2d59e11e7a88244a19634268fb503916/flaticon-eye-open.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+        <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-flaticon-heart-1"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7MNloy6OBPxYEES8AIlftk/8c70ab3df91179ec162cc4aa2ed6fd31/flaticon-heart-1.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+        <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-mental_health_cross"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eZ6gwyiefsfNfo8drXozL/267a3ca160add33c803253be0c939098/flaticon-mental_health_cross.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+        <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-sleep-1"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/4nuRnOkBtR7FL9qshIZZrh/66d9082bbfc361f556ee01523ad820a5/flaticon-sleep-1.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+        <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-infection"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6KRpFNKQnp9uP0UNehihmT/4338bc6a91208de94d89b33fab8f4c83/flaticon-infection.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+        <a href="insights.ivansherbs.com/nl/collectie-artikelen/eyeopener/#flaticon-diarree"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/HKGyL80bqjU1ECGyMvxuh/9b8964f9aebbca420fc8238c982e1a16/flaticon-diarree.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+    </div>
+</div>
 
 <p>
-Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt. Ook op jongere leeftijd kunnen dagelijkse bezigheden ernstig worden verstoord. Kruiden uit Siberië bieden gelukkig vele voordelen. Benieuwd naar onze inzichten? </p>
-
-[[contentfulImage 2z3Wv9RruaRUsxycEvZyRY fm=png q=100 w=100 h=100]]
+Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt. Ook op jongere leeftijd kunnen dagelijkse bezigheden ernstig worden verstoord. Kruiden uit Siberië bieden gelukkig vele voordelen. Benieuwd naar onze inzichten?
+</p>
 
 ### Kruiden:
 <section id="flaticon-cup-of-tea">
@@ -60,7 +53,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
-                            <a href="https://images.ctfassets.net/lyvtxhzy9zgr/2HOzwlQheosz5tIAa69mwT/f3383ba6e83026cb79858da030c0f93e/siberi__.jpg?w=255&h=170&q=50&fit=fill" class="img-fluid" alt=""></a>
+                            <a href="/nl/artikel/ivanchai/de-oorsprong-van-ivan-chai/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2gjpo5VPHlB4zfJ2E8Tq5/87ede303bf691a70e92b142709f8825e/ivan_chai_hills.png?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
@@ -86,7 +79,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
-                            <a href="https://images.ctfassets.net/lyvtxhzy9zgr/5vLYQmt6Gub4cdq7VUs1PQ/5061e2c02b89b90ae938e809964f4b07/artikel_een_onopgemerkt_probleem.jpg?w=255&h=170&q=50&fit=fill" class="img-fluid" alt=""></a>
+                            <a href="/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/5vLYQmt6Gub4cdq7VUs1PQ/5061e2c02b89b90ae938e809964f4b07/artikel_een_onopgemerkt_probleem.jpg?w=1900&amp;h=700&amp;fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
@@ -120,7 +113,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
-                        <</div>
+                        </div>
                     </div>
                 </div>
             </div>
