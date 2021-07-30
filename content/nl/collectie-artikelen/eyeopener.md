@@ -5,7 +5,7 @@ url: nl/eyeopener
 type: article
 category: Ivan Chai
 tags:
-- COLLECTIE
+- Collectie
 meta:
   description: Verbreed uw horizon en ontdek wat kruidengeneeskunde kan betekenen in het dagelijks leven. Veilig en effectief op langere termijn en tevens vrij van dierenleed en chemicaliën. Benieuwd naar onze inzichten?
   keywords: kruiden, EMA, kruidengeneeskunde, voordelen

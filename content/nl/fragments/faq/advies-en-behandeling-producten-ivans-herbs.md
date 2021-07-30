@@ -29,7 +29,7 @@ Wij raden het aan periodiek een preventieve behandeling met regelmaat te herhale
 
 Er zijn tot op heden geen ongewenste bijwerkingen van onze producten gemeld:
 
-> Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.
+><p style="text-align: center; font-family:papyrus">Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.</p>
 
 LET OP!
 

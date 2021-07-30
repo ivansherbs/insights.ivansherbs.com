@@ -71,7 +71,7 @@ Bosbranden van deze schaal hebben grote impact op de wereld. De reden is als vol
 
 Gelukkig bieden bosbranden tevens nieuw leven. Waar bosbranden plaatsmaken voor open ruimte gevuld met dood en verderf, zien kruiden de kans schoon om hun machtspositie uit te breiden. De achtergelaten as maakt de grond een ware voedingsbodem voor kruiden. Kruiden veroveren hierdoor met snelheid terrein om hun erfenis voort te zetten. Eén van deze kruiden staat bekend onder de latijnse naam Epilobium angustifolium, in het engels ook wel "Fireweed".
 
-> Deze kruiden uit Siberië staan erom bekend jaarlijks het heilige vuur te achtervolgen om hun familienaam eer aan te doen; en met succes.
+><p style="text-align: center; font-family:papyrus">Deze kruiden uit Siberië staan erom bekend jaarlijks het heilige vuur te achtervolgen om hun familienaam eer aan te doen; en met succes.</p>
 
 [[contentfulImage 4RcnKIZYvR98g72PBvXBCQ]]
 
