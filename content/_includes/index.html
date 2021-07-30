@@ -12,7 +12,6 @@ layout: collection.html
                     <h2 style="font-family:papyrus; background-color: #003154; color: #fff; text-align: center">{{ tag | title_case: 'NL' }}</h2></h2>
                 </div>
                 {%- for article in collections[tag] -%}
-                <div class="col-md-4" data-aos="fade-up">
                     <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72">
                         <div class="blog-img">
                             <a href="{{ article.url }}"><img src="{{ generated.contentful.banner_images[article.data.banner.image] }}?w=255&h=170&q=50&fit=fill" class="img-fluid" alt=""></a>
