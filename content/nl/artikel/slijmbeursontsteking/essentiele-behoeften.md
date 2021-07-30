@@ -7,8 +7,8 @@ category: slijmbeursontsteking
 publish:
   author: Ivanka Lopukhina
 tags:
-- ONTSTEKING
-- GEVOEL
+- Ontsteking
+- Gevoel
 meta:
   description: Bij een slijmbeursontsteking is niet alleen pijn, maar ook angst om te bewegen een allesbepalende factor. Benieuwd naar onze inzichten?
   keywords: slijmbeursontsteking, slijmbeursontstekingen, gewrichten, gewrichtspijn, gewricht, behoefte, slijmbeurs, slijmbeurzen, angst, pijn, bewegen

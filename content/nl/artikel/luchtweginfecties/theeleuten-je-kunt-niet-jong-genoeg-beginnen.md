@@ -7,11 +7,11 @@ category: luchtweginfecties
 publish:
   author: Svetlana Petrova
 tags:
-- WEERSTAND
-- GEZIN
-- INFECTIE
-- KINDEREN
-- LEVENSSTIJL
+- Weerstand
+- Gezin
+- Infectie
+- Kinderen
+- Levensstijl
 meta:
   description: Verzorg bekende luchtweginfecties met Ivan Chai. Ook op jonge leeftijd kun je een verkoudheid, griep of pseudokroep makkelijk verzorgen. Benieuwd naar onze inzichten?
   keywords: griep, verkoudheid, kinderen, oma, pseudokroep, moeders, luchtweginfectie, luchtweginfecties, kinderen

@@ -7,11 +7,11 @@ category: hart- en vaatziekten
 publish:
   author: Ivanka Lopukhina
 tags:
-- EYEOPENER
-- GEVOEL
-- RELATIE
-- ZIEKTEN
-- VROUW
+- Eyeopener
+- Gevoel
+- Relatie
+- Ziekten
+- Vrouw
 meta:
   description: Het hart heeft wereldwijd een bijzondere betekenis. Het staat symbool voor de liefde en romantiek. Benieuwd naar onze inzichten?
   keywords: hart, liefde, hersenen, emotie, hart en vaatziekten, romantiek, gevoelens, vaatziekten

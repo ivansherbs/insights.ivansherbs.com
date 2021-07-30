@@ -7,10 +7,10 @@ category: prostaatkanker
 publish:
   author: Ivan Alexandrovitsj
 tags:
-- MAN
-- EYEOPENER
-- PROSTAAT
-- ZIEKTEN
+- Man
+- Eyeopener
+- Prostaat
+- Ziekten
 meta:
   description: Prostaatkanker is een probleem waarbij de oorzaak nog niet bekend is. We kunnen echter één risicofactor met zekerheid vaststellen... Benieuwd naar onze inzichten?
   keywords: prostaat, prostaatkanker, prostaatklachten, prostaatpijn, symtomen prostaat kanker, psa

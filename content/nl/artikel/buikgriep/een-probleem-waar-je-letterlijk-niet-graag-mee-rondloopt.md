@@ -7,8 +7,8 @@ category: buikgriep
 publish:
   author: Anna Guseva
 tags:
-- EYEOPENER
-- MAAG- & DARMKLACHTEN
+- Eyeopener
+- Maag- & darmklachten
 meta:
   description: Het meest kenmerkende van buikgriep is dat men last krijgt van diarree. Benieuwd naar onze inzichten?
   keywords: buikgriep, diarree, prikkelbaar_darm_syndroom, maagpijn, maagklachten, prikkelbare darm, darmklachten, oorzaken diarree, spijsverteringsstelsel, buikkrampen, anna, de_jong, blaasontsteking, overgeven, kotsen,

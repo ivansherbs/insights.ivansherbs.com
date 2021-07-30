@@ -7,8 +7,8 @@ category: Ivan Chai
 publish:
   author: Ivanka Lopukhina
 tags:
-- URINEWEGEN
-- VROUW
+- Urinewegen
+- Vrouw
 meta:
   description: Drink Ivan Chai tegen een urineweginfectie ofwel blaasontsteking. Benieuwd naar onze inzichten?
   keywords: ivan chai, kruiden, blaasontsteking, urineweginfectie

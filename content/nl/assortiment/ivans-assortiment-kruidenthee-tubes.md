@@ -5,20 +5,19 @@ url: /nl/assortiment/ivans-assortiment-kruidenthee/tubes
 type: article
 category: Ivan Chai
 tags:
-- COMMUNITY BUILDING
-- GESCHIEDENIS
-- GEVOEL
-- KINDEREN
-- KRUIDENGENEESKUNDE
-- LEVENSSTIJL
-- MAAG- & DARMKLACHTEN
-- MAN
-- ONTSTEKING
-- SLAPEN
-- SPORT
-- VROUW
-- WEERSTAND
-- WERK
+- Community building
+- Geschiedenis
+- Gevoel
+- Kinderen
+- Levensstijl
+- Maag- & darmklachten
+- Man
+- Ontsteking
+- Slapen
+- Sport
+- Vrouw
+- Weerstand
+- Werk
 publish:
   author: ADVERTENTIE
 fragments:
