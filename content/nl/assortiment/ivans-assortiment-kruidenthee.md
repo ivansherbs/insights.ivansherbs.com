@@ -29,7 +29,7 @@ banner:
 contentful:
   imageOptions:
     fm: jpg
-    q: 90
+    q: 100
 shopify:
   language: NL
 ---
