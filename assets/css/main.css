@@ -43,7 +43,7 @@
     01. START GENERAL STYLE
 ------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Candara:300,400,700,900&subset=latin-ext');
 
 @font-face {
     font-family: Monad;
@@ -2021,7 +2021,8 @@ aside.sidebar .tags ul li {
 }
 
 .single-blog-page .blog-box .blog-details {
-    padding: 0 15px
+    padding: 0 15px;
+
 }
 
 .single-blog-page .blog-box .blog-details h2 {
@@ -2136,8 +2137,8 @@ aside.sidebar .tags ul li {
     margin-left: 1em;
     list-style-position: outside;
     list-style-type: circle;
-    font-family: candara;
     text-align: center;
+    font-family: candara;
 }
 
 .single-blog-page hr {

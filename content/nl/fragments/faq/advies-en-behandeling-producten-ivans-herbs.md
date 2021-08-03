@@ -50,7 +50,7 @@ Tot op vandaag zijn de volgende symptomen **NIET** bij ons bekend:
 * Verlaagde bloeddruk
 * Coma
 
-#### Contra-indicaties en waarschuwingen
+### Contra-indicaties en waarschuwingen
 
 Het gebruik van de producten van Ivan’s Herbs kan als extreem veilig worden beschouwd.
 
