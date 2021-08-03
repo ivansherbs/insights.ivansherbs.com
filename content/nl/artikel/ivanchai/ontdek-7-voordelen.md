@@ -33,22 +33,20 @@ shopify:
   language: NL
 ---
 ## Ivan Chai
-<p style="text-align: center">
 
-1. Versterkt de weerstand
+<p style="text-align: center">1. Versterkt de weerstand</p>
 
-2. Ontstekingsremmer
+<p style="text-align: center">2. Ontstekingsremmer</p>
 
-3. Atioxiderende werking
+<p style="text-align: center">3. Atioxiderende werking</p>
 
-4. Verbetert de nachtrust
+<p style="text-align: center">4. Verbetert de nachtrust</p>
 
-5. Vermindert de kans op mentale klachten
+<p style="text-align: center">5. Vermindert de kans op mentale klachten</p>
 
-6. Verzorgt de gezondheid van de prostaat en urinewegen
+<p style="text-align: center">6. Verzorgt de gezondheid van de prostaat en urinewegen</p>
 
-7. Verzorgt het spijsverteringsstelsel
-</p>
+<p style="text-align: center">7. Verzorgt het spijsverteringsstelsel</p>
 
 [[contentfulImage 2gjpo5VPHlB4zfJ2E8Tq5]]
 > <p style="text-align: center; font-family:papyrus">De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj.</p>
