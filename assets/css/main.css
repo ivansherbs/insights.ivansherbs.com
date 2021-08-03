@@ -2138,8 +2138,7 @@ aside.sidebar .tags ul li {
     list-style-position: outside;
     list-style-type: circle;
     text-align: center;
-    font-family: candara;
-}
+    }
 
 .single-blog-page hr {
     border-top: 1px solid rgba(124, 124, 124, 0.1);
