@@ -2054,6 +2054,7 @@ aside.sidebar .tags ul li {
     margin-top: 30px;
     margin-bottom: 30px;
     font-family: candara;
+    text-align: center;
 }
 
 .single-blog-page .blog-box .blog-details ul p {
@@ -2108,6 +2109,7 @@ aside.sidebar .tags ul li {
         line-height: 23px;
         margin-top: 20px;
         margin-bottom: 20px;
+        text-align: center;
     }
 
     .single-blog-page .blog-box .blog-details > ul {
