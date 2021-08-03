@@ -2017,7 +2017,7 @@ aside.sidebar .tags ul li {
     24. START SINGLE BLOG PAGE
 ------------------------------*/
 .single-blog-with-sidebar {
-    padding-bottom: 100px;
+    padding-bottom: 10px;
 }
 
 .single-blog-page .blog-box .blog-details {
@@ -2052,6 +2052,7 @@ aside.sidebar .tags ul li {
     font-weight: 400;
     margin-top: 30px;
     margin-bottom: 30px;
+    font-family: candara;
 }
 
 .single-blog-page .blog-box .blog-details ul p {
@@ -2135,6 +2136,8 @@ aside.sidebar .tags ul li {
     margin-left: 1em;
     list-style-position: outside;
     list-style-type: circle;
+    font-family: candara;
+    text-align: center;
 }
 
 .single-blog-page hr {
@@ -2156,7 +2159,7 @@ aside.sidebar .tags ul li {
 .single-blog-page .blog-box .post-tag-area ul li {
     display: inline-block;
     font-size: 18px;
-    color: #3e3e3e;
+    color: #134d7e;
 }
 
 .single-blog-page .blog-box .post-tag-area ul li a {
@@ -2167,10 +2170,12 @@ aside.sidebar .tags ul li {
 .single-blog-page .blog-box .post-tag-area .share-icon li a {
     width: 30px;
     font-size: 16px;
+    color: white
 }
 
 .single-blog-page .blog-box .post-tag-area .tags li a {
     font-size: 16px;
+    color: white;
 }
 
 .single-blog-page .blog-box .post-tag-area .tags li:after {

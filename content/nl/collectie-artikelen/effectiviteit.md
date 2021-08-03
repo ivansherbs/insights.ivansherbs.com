@@ -49,7 +49,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
-                            <a href="/nl/effectiveness/ivan-chai-blaasontsteking/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/5tQSNogQuZXLLbTdmUKq2X/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                            <a href="/nl/effectiveness/ivan-chai-blaasontsteking/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/5tQSNogQuZXLLbTdmUKq2X/0b301d4f47880acf796afee0fe3ad9bf/blaasontsteking.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
@@ -62,7 +62,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                 <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
-                           <a href="/nl/effectiveness/ivan-chai-prostaat/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NRH8dvMHatZ0F6sDLxK4h/7abc41e9f51acbdb8334d3c73d937840/prostaatklachten.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                           <a href="/nl/effectiveness/ivan-chai-prostaat/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NRH8dvMHatZ0F6sDLxK4h/7abc41e9f51acbdb8334d3c73d937840/prostaatklachten.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
@@ -84,7 +84,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                   <div style="padding: 15px">
                     <div class="blog-box">
                       <div class="blog-img">
-                            <a href="/nl/artikel/ivanchai/ontdek-7-voordelen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3GzPJVVGUYwWwdLOarDn5r/795728291cd84ae6e163382e6140b3e7/artikel_ontdek_7_voordelen.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                            <a href="/nl/artikel/ivanchai/ontdek-7-voordelen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3GzPJVVGUYwWwdLOarDn5r/795728291cd84ae6e163382e6140b3e7/artikel_ontdek_7_voordelen.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
@@ -97,7 +97,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                 <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
-                        <a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                        <a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
@@ -119,7 +119,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                   <div style="padding: 15px">
                     <div class="blog-box">
                       <div class="blog-img">
-                            <a href="/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/5vLYQmt6Gub4cdq7VUs1PQ/5061e2c02b89b90ae938e809964f4b07/artikel_een_onopgemerkt_probleem.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                            <a href="/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/5vLYQmt6Gub4cdq7VUs1PQ/5061e2c02b89b90ae938e809964f4b07/artikel_een_onopgemerkt_probleem.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
@@ -132,7 +132,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                 <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
-                        <a href="/nl/artikel/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/78JnemnLWoZdd6jZJ8gN61/23d7348059c6ef4101d7a220264628ba/artikel_geen_touw_aan_vast_te_knopen.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                        <a href="/nl/artikel/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/78JnemnLWoZdd6jZJ8gN61/23d7348059c6ef4101d7a220264628ba/artikel_geen_touw_aan_vast_te_knopen.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
@@ -145,7 +145,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                     <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
-                        <a href="/nl/artikel/prostaat/vergrote-prostaat/groeien-tot-u-erbij-neervalt/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6xcM2KvlVvivv2iX1GFuem/5bec79778551e01bb618e5e0cac8232e/artikel_groeien_tot_je_erbij_neervalt.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                        <a href="/nl/artikel/prostaat/vergrote-prostaat/groeien-tot-u-erbij-neervalt/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6xcM2KvlVvivv2iX1GFuem/5bec79778551e01bb618e5e0cac8232e/artikel_groeien_tot_je_erbij_neervalt.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
@@ -167,7 +167,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                  <div style="padding: 15px">
                     <div class="blog-box">
                       <div class="blog-img">
-                            <a href="/nl/artikel/urineweginfectie/voorkom-relatieproblemen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/yqeQB14oEyeRpNjdqrxRf/ee0c0939083bbd5e29cf88aa5012ea48/artikel_voorkom_relatieproblemen.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt=""></a>
+                            <a href="/nl/artikel/urineweginfectie/voorkom-relatieproblemen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/yqeQB14oEyeRpNjdqrxRf/ee0c0939083bbd5e29cf88aa5012ea48/artikel_voorkom_relatieproblemen.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>

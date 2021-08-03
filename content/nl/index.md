@@ -1,6 +1,6 @@
 ---
 layout: index.html
-title: "INSIGHTS | TRENDING"
+title: "INSIGHTS TRENDING"
 url: /nl/alle-artikelen
 meta:
   description: IVAN'S INSIGHTS - een online magazine om alledaagse problemen (fysiek dan wel mentaal) bespreekbaar te maken. Benieuwd naar onze inzichten?
@@ -8,7 +8,7 @@ meta:
 fragments:
   header:
 banner:
-  image: 2gjpo5VPHlB4zfJ2E8Tq5
+  image: 41q3iUQq0m1feXmebvinti
   effect: o-lg-60d-black
 contentful:
   imageOptions:

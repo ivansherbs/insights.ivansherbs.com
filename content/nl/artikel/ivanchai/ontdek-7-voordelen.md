@@ -106,7 +106,7 @@ Mooi bijkomend voordeel.
 Vaak bent u geneigd over te stappen op medicijnen uit de farmaceutische industrie om de pijn te verhelpen gepaard met een ontsteking. Verminder de kans op de ongewenste bijwerkingen door het drinken van Ivan Chai.
 
 [[contentfulImage 28IMJN1AoFeQRD0I7uG1Yw]]
-> <p style="text-align: center; font-family:papyrus">Na de oogst is binnengehaald worden de bladeren gespreid. Direct worden de eerste kwaliteitscontroles uitgevoerd</p>
+> <p style="text-align: center; font-family:papyrus">Na de oogst is binnengehaald worden de bladeren gespreid.</p>
 
 ## 3. Antioxiderende werking
 
@@ -172,7 +172,7 @@ Er is gebruik gemaakt van grootschalig klinisch onderzoek om aan te tonen dat Iv
 * Ivan Chai gaat óók de groei van de prostaat tegen. In andere woorden werkt Ivan Chai goed tegen een vergrote prostaat (bph).
 
 [[contentfulImage WbZiBDHmv6wZQXIdynio5]]
-> <p style="text-align: center">De kruiden waar Ivan Chai van wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben alleen de kruiden uit deze regio een verbazingwekkende sterke geneeskrachtige werking.</p>
+> <p style="text-align: center; font-family:papyrus">De kruiden waar Ivan Chai van wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben de kruiden uit deze regio een verbazingwekkende sterke geneeskrachtige werking.</p>
 
 Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen.
 
