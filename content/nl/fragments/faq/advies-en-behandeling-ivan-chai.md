@@ -20,7 +20,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                             </div>
                             <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara">
+                                    <p style="font-family:candara; tekst-align:center">
                                     Voor voldoende resultaat:<br><br>✔ Drink 1 kop vóór de maaltijd<br><br>✔ 2 keer per dag<br><br>✔ +/-14 dagen
                                     </p>
                                 </div>
@@ -35,7 +35,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                             </div>
                             <div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara">
+                                    <p style="font-family:candara; tekst-align:center">
                                         De werking van Ivan Chai gaat vooraf aan een zogenaamde opbouwfase van ongeveer 14 dagen. Na deze opbouwfase is het effect volgens klinisch onderzoek voelbaar. In andere woorden, één kop Ivan Chai maakt niet het verschil.
                                     </p>
                                 </div>
@@ -51,7 +51,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                             </div>
                             <div id="collapse_3" class="collapse" aria-labelledby="heading_3" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara">
+                                    <p style="font-family:candara; tekst-align:center">
                                         Wij raden het aan periodiek een preventieve behandeling met regelmaat te herhalen.
                                     </p>
                                 </div>
@@ -67,7 +67,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                             </div>
                             <div id="collapse_4" class="collapse" aria-labelledby="heading_4" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara">
+                                    <p style="font-family:candara; tekst-align:center">
                                         Er zijn tot op heden geen ongewenste bijwerkingen van Ivan Chai gemeld:<br><br>Het gebruik van kruiden rechtstreeks uit de natuur heeft één groot voordeel. Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie.<br><br><big>LET OP!</big><br><br>Als u medicijnen uit de farmaceutische industrie gebruikt voorgeschreven door uw behandelend arts, maak deze kuur dan eerst af. Stop nooit zomaar met een kuur of behandeling. Tot op vandaag zijn de volgende symptomen <big>NIET</big> bij ons bekend:<br><br>✔ Misselijkheid<br><br>✔ Maagpijn<br><br>✔ Braken (eventueel met bloed)<br><br>✔ Diarree (eventueel met bloed)<br><br>✔ Duizeligheid<br><br>✔ Onwillekeurige bewegingen van de ogen<br><br>✔ Dubbelzien<br><br>✔ Hoofdpijn<br><br>✔ Oorsuizen<br><br>✔ Nierfunctiestoornis<br><br>✔ Verlaagde bloeddruk<br><br>✔ Coma
                                     </p>
                                 </div>
@@ -83,28 +83,13 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                             </div>
                             <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara">
+                                    <p style="font-family:candara; tekst-align:center">
                                         Ivan Chai is een extreem veilige soort kruidenthee. Het kan in grote hoeveelheden als een kruidenthee worden ingenomen.<br><br>✔ Veilig voor kinderen.<br><br><big><u>Zwangerschap, borstvoeding en vruchtbaarheid</u></big><br><br>✔ Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.<br><br>✔ Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht op de vruchtbaarheid.
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="card shadow">
-                            <div class="card-header" id="heading_6">
-                                <h5 style="font-family:papyrus" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">
-                                        Kortom, zijn de kruiden van Ivan's Herbs veilig, schoon en klinisch bewezen effectief?
-                                    </button>
-                                </h5>
-                            </div>
-                            <div id="collapse_6" class="collapse" aria-labelledby="heading_6" data-parent="#faqAccordion" style="">
-                                <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara">
-                                        ✔ Ja, Ivan’s Herbs biedt veilige producten aan zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek.<br><br>Voorbeeld effectiviteit: zo heeft het European Medicines Agency de werking van Ivan Chai op de prostaat en urinewegen nogmaals geëvalueerd en bevestigd. De reden voor deze evaluatie door het EMA is het langdurig grootschalig klinisch onderzoek wat er aan te pas is gekomen om deze resultaten te verzamelen.<br><br>De overige voordelen worden tevens ondersteund ondersteund. Echter door hedendaags onderzoek.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+
 
 
 
