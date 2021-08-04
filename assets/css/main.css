@@ -204,6 +204,8 @@ a,
 footer .subscribe .subscribe-form-2 label,
 footer .subscribe .subscribe-form-2 .form-group {
     transition: all ease 0.3s;
+    padding: 1rem .75rem;
+    text-align: center;
 }
 
 .space-15 {
