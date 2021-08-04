@@ -33,6 +33,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
     </div>
   </div>
 </div>
+
 <div class="col-md-12 col-12" data-aos="fade-up">
   <div class="accordion" id="faqAccordion">
     <div class="card shadow">
@@ -57,6 +58,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
     </div>
   </div>
 </div>
+
 <div class="col-md-12 col-12" data-aos="fade-up">
   <div class="accordion" id="faqAccordion">
     <div class="card shadow">
@@ -81,6 +83,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
     </div>
   </div>
 </div>
+
 <div class="col-md-12 col-12" data-aos="fade-up">
   <div class="accordion" id="faqAccordion">
     <div class="card shadow">
@@ -105,6 +108,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
     </div>
   </div>
 </div>
+
 <div class="col-md-12 col-12" data-aos="fade-up">
   <div class="accordion" id="faqAccordion">
     <div class="card shadow">
@@ -129,6 +133,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
     </div>
   </div>
 </div>
+
 <div class="col-md-12 col-12" data-aos="fade-up">
   <div class="accordion" id="faqAccordion">
     <div class="card shadow">
@@ -153,6 +158,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
     </div>
   </div>
 </div>
+
 <div class="col-md-12 col-12" data-aos="fade-up">
   <div class="accordion" id="faqAccordion">
     <div class="card shadow">
