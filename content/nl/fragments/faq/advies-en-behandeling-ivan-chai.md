@@ -8,30 +8,27 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
 * maar óók gewoon lekker ter ontspanning.
 
 ### Veelgestelde vragen
-
+<!--START faq -->
+<section id=faq>
 <div data-aos="fade-right" class="col-md-12 aos-init aos-animate">
                     <div class="accordion" id="faqAccordion">
                         <div class="card shadow">
                             <div class="card-header" id="heading_1">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Welke dosering en behandelingskuur raden jullie aan?
-                                    </button>
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Welke dosering en behandelingskuur raden jullie aan?</button>
                                 </h5>
                             </div>
                             <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
                                     <p style="font-family:candara; tekst-align:center">
-                                    Voor voldoende resultaat:<br><br>✔ Drink 1 kop vóór de maaltijd<br><br>✔ 2 keer per dag<br><br>✔ +/-14 dagen
-                                    </p>
+                                    Volgens klinische bewezen onderzoek:<br><br>✔ Drink 1 kop vóór de maaltijd<br><br>✔ 2 keer per dag<br><br>✔ +/- 14 dagen</p>
                                 </div>
                             </div>
                         </div>
                         <div class="card shadow">
                             <div class="card-header" id="heading_2">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Is het effect van Ivan Chai direct voelbaar?
-                                    </button>
-                                </h5>
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Is het effect van Ivan Chai direct voelbaar?</button></h5>
                             </div>
                             <div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
@@ -46,14 +43,12 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">
                                         Wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?
-                                    </button>
-                                </h5>
+                                    </button></h5>
                             </div>
                             <div id="collapse_3" class="collapse" aria-labelledby="heading_3" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
                                     <p style="font-family:candara; tekst-align:center">
-                                        Wij raden het aan periodiek een preventieve behandeling met regelmaat te herhalen.
-                                    </p>
+                                        Wij raden het aan periodiek een preventieve behandeling met regelmaat te herhalen.</p>
                                 </div>
                             </div>
                         </div>
@@ -61,9 +56,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                             <div class="card-header" id="heading_4">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">
-                                        Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?
-                                    </button>
-                                </h5>
+                                        Treden er ongewenste bijwerkingen op na gebruik van Ivan Chai?</button></h5>
                             </div>
                             <div id="collapse_4" class="collapse" aria-labelledby="heading_4" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
@@ -77,9 +70,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                             <div class="card-header" id="heading_5">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">
-                                        Contra-indicaties en waarschuwingen?
-                                    </button>
-                                </h5>
+                                        Contra-indicaties en waarschuwingen?</button></h5>
                             </div>
                             <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
@@ -89,17 +80,5 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                                 </div>
                             </div>
                         </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                    </section>
+                <!--END faq -->
