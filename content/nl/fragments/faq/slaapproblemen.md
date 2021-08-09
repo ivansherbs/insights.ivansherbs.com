@@ -55,20 +55,3 @@
                         </div>
                       </section>
                 <!--END faq -->
-
-###
-
-
-
-###
-
-
-
-###
-
-
-
-###
-
-<p style="text-align: center; font-family:papyrus"></p>
-
