@@ -5,7 +5,7 @@ url: /nl/artikel/de-man-zonder-hamer
 type: article
 category: keelontsteking
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivan de Vries
   date: 1 april
 tags:
 meta:

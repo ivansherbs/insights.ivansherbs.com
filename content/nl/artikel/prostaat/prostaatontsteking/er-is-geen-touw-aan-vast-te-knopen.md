@@ -5,7 +5,7 @@ url: /nl/artikel/geen-touw-aan-vast-te-knopen
 type: article
 category: prostaatontsteking
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivan de Vries
 tags:
 - man
 - eyeopener

@@ -5,12 +5,12 @@ url: /nl/artikel/zonder-probleem-bereikte-ivan-de-top
 type: interview
 category: holisme
 publish:
-  author: Sasha Popov
+  author: Sasha de Jong
 tags:
 - levensstijl
 - sport
 meta:
-  description: Lees nu het interview van Ivan Alexandrovitsj. “Een gezondere levensstijl vereist een holistische benadering.”, vertelt Ivan Alexandrovitsj.
+  description: Lees nu het interview van Ivan de Vries. “Een gezondere levensstijl vereist een holistische benadering.”, vertelt Ivan de Vries.
   keywords: interview, top, holisme, holistisch, ivan chai, kruiden, kruidengeneeskunde, expeditie, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, alledaags product, geneeskrachtige werking
 banner:
   image: 1s5nEo0bdx4TKlGzeAQlJM
@@ -19,7 +19,7 @@ contentful:
     fm: jpg
     q: 50
 ---
-_“Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op gezondheidsproblemen te verminderen”_, vertelt Ivan Alexandrovitsj.
+_“Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op gezondheidsproblemen te verminderen”_, vertelt Ivan de Vries.
 
 Ivan en Michael (Eén van de oprichters Ivan's Herbs) hebben elkaar destijds ontmoet gedurende een meerdaagse expeditie naar de top van de Belukha.De hoogste berg in Siberië.
 

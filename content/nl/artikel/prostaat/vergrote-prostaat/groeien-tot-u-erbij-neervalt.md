@@ -5,7 +5,7 @@ url: /nl/artikel/groeien-tot-u-erbij-neervalt
 type: article
 category: vergrote prostaat
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivan de Vries
 tags:
 - man
 - eyeopener

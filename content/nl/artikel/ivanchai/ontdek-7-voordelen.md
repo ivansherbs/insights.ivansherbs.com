@@ -5,7 +5,7 @@ url: /nl/artikel/ontdek-7-voordelen
 type: article
 category: Ivan Chai
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivan de Vries
 tags:
 - assortiment kruidenthee
 - ivan chai

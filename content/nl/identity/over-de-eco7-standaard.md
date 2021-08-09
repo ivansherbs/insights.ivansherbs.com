@@ -5,7 +5,7 @@ url: /nl/artikel/eco7-standaard
 type: article
 category: partners
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivan de Vries
 tags:
 - community building
 - milieu

@@ -5,7 +5,7 @@ url: /nl/artikel/alle-kleine-beetjes-helpen
 type: article
 category: zwak immuunsysteem
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivan de Vries
 tags:
 - weerstand
 - levensstijl

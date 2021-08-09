@@ -5,7 +5,7 @@ url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee-ivan-chai
 type: geschiedenis
 category: Ivan Chai
 publish:
-  author: Sasha Popov
+  author: Sasha de Jong
 tags:
 - assortiment kruidenthee
 - geschiedenis

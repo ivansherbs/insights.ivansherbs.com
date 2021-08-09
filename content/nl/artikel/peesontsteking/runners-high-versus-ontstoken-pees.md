@@ -5,7 +5,7 @@ url: /nl/artikel/runners-high-versus-ontstoken-pees
 type: article
 category: peesontsteking
 publish:
-  author: Sasha Popov
+  author: Sasha de Jong
 tags:
 - ontsteking
 - sport

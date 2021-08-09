@@ -5,7 +5,7 @@ url: /nl/artikel/een-onopgemerkt-probleem
 type: article
 category: prostaatkanker
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivan de Vries
 tags:
 - man
 - eyeopener

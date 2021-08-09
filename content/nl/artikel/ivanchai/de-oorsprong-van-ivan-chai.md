@@ -5,7 +5,7 @@ url: /nl/artikel/de-oorsprong-van-ivan-chai
 type: article
 category: Ivan Chai
 publish:
-  author: Sasha Popov
+  author: Sasha de Jong
 tags:
 - assortiment kruidenthee
 - ivan chai

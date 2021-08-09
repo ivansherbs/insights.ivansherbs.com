@@ -5,7 +5,7 @@ url: /nl/artikel/ben-jij-er-al-achter-hoe-het-voelt
 type: article
 category: stress
 publish:
-  author: Sasha Popov
+  author: Sasha de Jong
 tags:
 - stress
 - mentale klachten

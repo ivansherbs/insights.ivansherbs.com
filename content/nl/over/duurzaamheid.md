@@ -5,7 +5,7 @@ url: /nl/over/oprichter-ecodorp-over-duurzaamheid
 type: interview
 category: community building
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivan de Vries
 tags:
 - levensstijl
 - community building

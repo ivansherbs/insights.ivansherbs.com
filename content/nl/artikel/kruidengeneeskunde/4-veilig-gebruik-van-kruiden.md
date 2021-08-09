@@ -5,7 +5,7 @@ url: /nl/veilig-gebruik-van-kruiden
 type: article
 category: kruidengeneeskunde
 publish:
-  author: Ivan Alexandrovitsj
+  author: Ivan de Vries
 tags:
 - medicijn
 meta:
