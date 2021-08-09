@@ -1,10 +1,18 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Affiliates
 url: /nl/samenwerkingen/affiliates
+type: article
+category: affiliates
+publish:
+  author: Ivan's Herbs
+tags:
 meta:
   description: Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs | Nederland. Benieuwd naar het DNA van Ivan’s Herbs?
-  keywords: kruiden, kruidenthee, etherische oliën, supplementen, matcha, ivan's herbs, samenwerking affiliates, communities, dna, duurzaam, klimaat, schoon, geschenkdoos, starter set, giftset, Prostaatontsteking, Vergrote prostaat, BPH, Prostaatkanker, Blaasontsteking, antibiotica, Anticonceptiepil, maagzuurremmers, slijmbeursontsteking, stress, angst, burnout klachte
+  keywords: kruiden, kruidenthee, etherische oliën, supplementen, matcha, ivan's herbs, samenwerking affiliates, communities, dna, duurzaam, klimaat, schoon, geschenkdoos, starter set, giftset, Prostaatontsteking, Vergrote prostaat, BPH, Prostaatkanker, Blaasontsteking, antibiotica, Anticonceptiepil, maagzuurremmers, slijmbeursontsteking, stress, angst, burnout klachten
+fragments:
+  header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
+  footer:
 banner:
   image: 6csVsKRo3aDFZgyA0ojdEV
   effect: o-lg-60d-black
@@ -12,6 +20,8 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
 <!-- TODO  keep this page hidden from customers -->
 ### Geachte Affiliate
