@@ -69,7 +69,7 @@ Gebruik de producten van Ivan’s Herbs als alternatief of aanvulling op medicij
                             <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
                                     <p style="font-family:candara; tekst-align:center">
-                                        Het gebruik van de producten van Ivan’s Herbs kan als extreem veilig worden beschouwd.<br><br>✔ Veilig voor kinderen.<br><br><big><u>Zwangerschap, borstvoeding en vruchtbaarheid</u></big><br><br>✔ Er is onvoldoende bekend over het gebruik van Ivan Chai tijdens zwangerschap en borstvoeding. Het wordt aanbevolen eigen onderzoek te doen.<br><br>✔ Er is onvoldoende bekend of de vruchtbaarheid van vrouwen negatief wordt beïnvloed. Tot op heden zijn er geen bijwerkingen van Ivan Chai gemeld gericht.
+                                        Het gebruik van de producten van Ivan’s Herbs kan als extreem veilig worden beschouwd wanneer u de aanbevolen dagelijkse hoeveelheid niet overschrijdt en gebruikt zoals aangegeven.
                                     </p>
                                 </div>
                             </div>
