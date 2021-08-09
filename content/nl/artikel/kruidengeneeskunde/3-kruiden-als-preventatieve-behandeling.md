@@ -5,7 +5,7 @@ url: /nl/kruiden-als-preventatieve-behandeling
 type: article
 category: kruidengeneeskunde
 publish:
-  author: Ivanka Lopukhina
+  author: Ivanka van den Berg
 tags:
 - medicijn
 meta:

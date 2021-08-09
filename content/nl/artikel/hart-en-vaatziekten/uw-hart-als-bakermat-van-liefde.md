@@ -5,7 +5,7 @@ url: /nl/artikel/uw-hart-als-bakermat-van-liefde
 type: article
 category: hart- en vaatziekten
 publish:
-  author: Ivanka Lopukhina
+  author: Ivanka van den Berg
 tags:
 - eyeopener
 - gevoel

@@ -5,7 +5,7 @@ url: /nl/ivan-chai-blaasontsteking
 type: article
 category: Ivan Chai
 publish:
-  author: Ivanka Lopukhina
+  author: Ivanka van den Berg
 tags:
 - urinewegen
 - vrouw

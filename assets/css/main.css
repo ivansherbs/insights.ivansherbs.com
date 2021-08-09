@@ -2150,8 +2150,9 @@ aside.sidebar .tags ul li {
 
 .single-blog-page .blog-box .post-tag-area {
     border-bottom: 1px solid #e5e5e5;
-    padding: 0 15px 10px;
+    padding: 15px 15px 10px;
     margin-bottom: 30px;
+    border-top: 1px solid #e5e5e5;
 }
 
 .single-blog-page .blog-box .post-tag-area ul {

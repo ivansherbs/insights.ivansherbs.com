@@ -5,7 +5,7 @@ url: /nl/artikel/een-probleem-waar-je-niet-graag-mee-rondloopt
 type: article
 category: buikgriep
 publish:
-  author: Anna Guseva
+  author: Anna Jansen
 tags:
 - eyeopener
 - maag- & darmklachten

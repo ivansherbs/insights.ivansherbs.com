@@ -5,7 +5,7 @@ url: /nl/artikel/essentiele-behoefte
 type: article
 category: slijmbeursontsteking
 publish:
-  author: Ivanka Lopukhina
+  author: Ivanka van den Berg
 tags:
 - ontsteking
 - gevoel

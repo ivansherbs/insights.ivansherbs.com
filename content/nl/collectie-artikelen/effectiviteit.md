@@ -24,19 +24,6 @@ contentful:
 shopify:
   language: NL
 ---
-<div class="col-md-12 col-lg-12">
-<div style="margin:auto">
-<p class="aligncenter">
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#ema"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eoKQHvDNsD8h0gBat506V/725790204e1997413068bf3a7d3de1cf/flaticon-ema.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#hedendaags_onderzoek"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2yAn4A04voeeWViVHj6gCV/51d7bc7fa3d03bece5759521d7999a29/flaticon-microscope.png?fm=png&q=100&w=100&h=100"  style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#prostaatklachten_man"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/iePP27X62mXQPHJIlVPXu/3233765a023d33d26f865849818b2e29/flaticon-prostate.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
-
-<a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#blaasontsteking_vrouw"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7tkrB5iyMzzWwg2vDGrD6Q/e749f605c9d329a8cee653904b352d69/flaticon-bladder.png?fm=png&q=100&w=100&h=100"  style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; margin: 25px" /></a>
-</p>
-</div>
-
 Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zijn nogmaals bevestigd door het European Medicines Agency (EMA). Benieuwd naar onze inzichten?
 
 ### Effectiviteit EMA
@@ -53,7 +40,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-blaasontsteking/">VAAK LAST VAN EEN BLAASONTSTEKING?</a></h4>
+                            <p style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-blaasontsteking/">VAAK LAST VAN EEN BLAASONTSTEKING?</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
@@ -66,7 +53,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
-                            <h4 style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-prostaat/">PROSTAATKLACHTEN?</a></h4>
+                            <p style="font-family:monad;text-align:center"><a href="/nl/effectiveness/ivan-chai-prostaat/">PROSTAATKLACHTEN?</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -88,7 +75,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/ivanchai/ontdek-7-voordelen/">IVAN CHAI: ONTDEK 7 VOORDELEN</a></h4>
+                            <p style="font-family:monad; text-align: center;"><a href="/nl/artikel/ivanchai/ontdek-7-voordelen/">IVAN CHAI: ONTDEK 7 VOORDELEN</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
@@ -101,7 +88,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/">IVAN CHAI: GROOTMOEDERS KENNEN DE VOORDELEN</a></h4>
+                            <p style="font-family:monad; text-align: center;"><a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/">IVAN CHAI: GROOTMOEDERS KENNEN DE VOORDELEN</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -123,7 +110,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/">PROSTAATKANKER: EEN ONOPGEMERKT PROBLEEM</a></h4>
+                            <p style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/prostaatkanker/een-onopgemerkt-probleem/">PROSTAATKANKER: EEN ONOPGEMERKT PROBLEEM</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
@@ -136,7 +123,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/">PROSTAATONTSTEKING: GEEN TOUW AAN VAST TE KNOPEN...</a></h4>
+                            <p style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/">PROSTAATONTSTEKING: GEEN TOUW AAN VAST TE KNOPEN...</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -149,7 +136,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/vergrote-prostaat/groeien-tot-u-erbij-neervalt/">VERGROTE PROSTAAT: GROEIEN TOT U ERBIJ NEERVALT...</a></h4>
+                            <p style="font-family:monad; text-align: center;"><a href="/nl/artikel/prostaat/vergrote-prostaat/groeien-tot-u-erbij-neervalt/">VERGROTE PROSTAAT: GROEIEN TOT U ERBIJ NEERVALT...</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -171,7 +158,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad; text-align: center;"><a href="/nl/artikel/urineweginfectie/voorkom-relatieproblemen/">VOORKOM RELATIEPROBLEMEN</a></h4>
+                            <p style="font-family:monad; text-align: center;"><a href="/nl/artikel/urineweginfectie/voorkom-relatieproblemen/">VOORKOM RELATIEPROBLEMEN</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
@@ -180,3 +167,17 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                   </section>
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]
+
+<hr>
+<div class="col-md-12 col-lg-12">
+<div style="margin:auto">
+<p class="aligncenter">
+<a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#ema"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6eoKQHvDNsD8h0gBat506V/725790204e1997413068bf3a7d3de1cf/flaticon-ema.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+
+<a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#hedendaags_onderzoek"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2yAn4A04voeeWViVHj6gCV/51d7bc7fa3d03bece5759521d7999a29/flaticon-microscope.png?fm=png&q=100&w=100&h=100"  style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+
+<a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#prostaatklachten_man"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/iePP27X62mXQPHJIlVPXu/3233765a023d33d26f865849818b2e29/flaticon-prostate.png?fm=png&q=100&w=100&h=100" style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; float:left; margin: 25px" /></a>
+
+<a href="insights.ivansherbs.com/nl/collectie-artikelen/effectiviteit/#blaasontsteking_vrouw"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7tkrB5iyMzzWwg2vDGrD6Q/e749f605c9d329a8cee653904b352d69/flaticon-bladder.png?fm=png&q=100&w=100&h=100"  style="border:2px solid #fff; box-shadow: 0px 6px 5px #ccc;border-radius:190px; margin: 25px" /></a>
+</p>
+</div>

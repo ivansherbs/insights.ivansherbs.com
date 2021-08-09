@@ -19,7 +19,7 @@ tags:
 - weerstand
 - werk
 publish:
-  author: ADVERTENTIE
+  author: onze redactie
 fragments:
   header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
   footer:

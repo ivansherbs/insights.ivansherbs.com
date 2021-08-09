@@ -19,7 +19,7 @@ fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 publish:
-  author: ADVERTENTIE
+  author: onze redactie
 banner:
   image: 3UdgQFddJals5LS9f7YzWg
   effect: o-lg-60d-black

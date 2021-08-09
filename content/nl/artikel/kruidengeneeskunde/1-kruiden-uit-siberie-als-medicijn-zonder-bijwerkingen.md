@@ -5,7 +5,7 @@ url: /nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen
 type: article
 category: kruidengeneeskunde
 publish:
-  author: Ivanka Lopukhina
+  author: Ivanka van den Berg
 tags:
 - medicijn
 meta:

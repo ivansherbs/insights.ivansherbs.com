@@ -24,10 +24,7 @@ contentful:
 shopify:
   language: NL
 ---
-
 Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen schatten. Ontdek de voor- en nadelen. Benieuwd naar onze inzichten?
-
-[[contentfulImage 6s8sE0FZqUqvnuYdPkkJBe fm=png q=100 w=100 h=100]]
 
 ### Kruidengeneeskunde
 <section id="kruidengeneeskunde">
@@ -43,7 +40,7 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h4 style="font-family:monad;text-align:center"><a href="/nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen">KRUIDEN UIT SIBERIË ALS MEDICIJN ZONDER BIJWERKINGEN</a></h4>
+                            <p style="font-family:monad;text-align:center"><a href="/nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen">KRUIDEN UIT SIBERIË ALS MEDICIJN ZONDER BIJWERKINGEN</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
@@ -56,7 +53,7 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
-                            <h4 style="font-family:monad;text-align:center"><a href="/nl/moderne-kruidengeneeskunde">MODERNE KRUIDENGENEESKUNDE</a></h4>
+                            <p style="font-family:monad;text-align:center"><a href="/nl/moderne-kruidengeneeskunde">MODERNE KRUIDENGENEESKUNDE</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -69,7 +66,7 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
-                            <h4 style="font-family:monad;text-align:center"><a href="/nl/kruiden-als-preventatieve-behandeling">KRUIDEN ALS PREVENTIEVE BEHANDELING</a></h4>
+                            <p style="font-family:monad;text-align:center"><a href="/nl/kruiden-als-preventatieve-behandeling">KRUIDEN ALS PREVENTIEVE BEHANDELING</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -78,11 +75,11 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                   <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
-                           <a href="/nl/veilig-gebruik-van-kruiden"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7xSwJ477qmgAiz2siziH4e/d96a0306a5421519324caac51424f4a0/Veilig_gebruik_van_kruiden.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
+                           <a href="/nl/veilig-gebruik-van-kruiden"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7xSwJ477qmgAiz2sizipe/d96a0306a5421519324caac51424f4a0/Veilig_gebruik_van_kruiden.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
-                            <h4 style="font-family:monad;text-align:center"><a href="/nl/veilig-gebruik-van-kruiden">VEILIG GEBRUIK VAN KRUIDEN</a></h4>
+                            <p style="font-family:monad;text-align:center"><a href="/nl/veilig-gebruik-van-kruiden">VEILIG GEBRUIK VAN KRUIDEN</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -95,7 +92,7 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
-                            <h4 style="font-family:monad;text-align:center"><a href="/nl/kruidengeneeskunde-als-alledaags-product">KRUIDEN ALS ALLEDAAGS PRODUCT?</a></h4>
+                            <p style="font-family:monad;text-align:center"><a href="/nl/kruidengeneeskunde-als-alledaags-product">KRUIDEN ALS ALLEDAAGS PRODUCT?</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
@@ -110,3 +107,6 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
 </section>
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]
+
+<hr>
+[[contentfulImage 6s8sE0FZqUqvnuYdPkkJBe fm=png q=100 w=100 h=100]]
