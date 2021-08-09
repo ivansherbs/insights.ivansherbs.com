@@ -247,16 +247,17 @@
                                     </ul>
                                     {% endif %}
                                     {% if fragments.header %}
-                                        {% articleFragment fragments.header %}
-                                        <div class="post-tag-area d-md-flex justify-content-between align-items-center" style="padding-top:15px">
-                                            <ul class="share-icon">
-                                                <span style="font-family:papyrus">{% i18n 'share' language %}Share{% endi18n %}:</span>
-                                                <span style="padding:10px"><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></span>
-                                                <span style="padding:10px"><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></span>
-                                                <span style="padding:10px"><a href="#"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a></span>
-                                                <span style="padding:10px"><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></span>
-                                            </ul>
+                                    {% articleFragment fragments.header %}
                                     {% endif %}
+                                    <div class="post-tag-area d-md-flex justify-content-between align-items-center" style="padding-top:15px">
+                                        <ul class="share-icon">
+                                            <span style="font-family:papyrus">{% i18n 'share' language %}Share{% endi18n %}:</span>
+                                            <span style="padding:10px"><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></span>
+                                            <span style="padding:10px"><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></span>
+                                            <span style="padding:10px"><a href="#"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a></span>
+                                            <span style="padding:10px"><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></span>
+                                        </ul>
+                                    </div>
                                     {{ content }}
                                     {% if fragments.footer %}
                                     {% articleFragment fragments.footer %}
