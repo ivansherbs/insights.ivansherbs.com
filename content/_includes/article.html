@@ -255,7 +255,8 @@
                                     {% endif %}
                                     </div>
                                 </div>
-                                <div class="post-tag-area d-md-flex justify-content-between align-items-center">
+                                <div class="space-25"></div><hr>
+                                <div class="post-tag-area d-md-flex justify-content-between align-items-center" style="padding-top:15px">
                                     <ul class="share-icon">
                                         <span style="font-family:papyrus">{% i18n 'share' language %}Share{% endi18n %}:</span>
                                         <span style="padding:10px"><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></span>
@@ -269,7 +270,7 @@
                                         {% for tag in tags %}
                                         <span style="padding:10px"><a href="/tags/{{ tag }}">{{ tag }}</a></li>
                                         {% endfor %}
-                                    </ul>
+                                    </ul><hr>
                                     {% endif %}
                                 </div>
                             </div>
