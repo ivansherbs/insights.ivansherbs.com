@@ -257,18 +257,17 @@
                                 </div>
                                 <div class="post-tag-area d-md-flex justify-content-between align-items-center">
                                     <ul class="share-icon">
-                                        <li style="font-family:papyrus">{% i18n 'share' language %}Share{% endi18n %}:</li>
-                                        <li><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+                                        <span style="font-family:papyrus">{% i18n 'share' language %}Share{% endi18n %}:</span>
+                                        <span style="padding:10px"><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></span>
+                                        <span style="padding:10px"><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></span>
+                                        <span style="padding:10px"><a href="#"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a></span>
+                                        <span style="padding:10px"><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></span>
                                     </ul>
                                     {% if tags %}
                                     <ul class="tags" style="font-family:papyrus">
-                                        <li>{% i18n 'tags' language %}Tags{% endi18n %}:</li>
+                                        <span style="padding:10px">{% i18n 'tags' language %}Tags{% endi18n %}:</li>
                                         {% for tag in tags %}
-                                        <li><a href="/tags/{{ tag }}">{{ tag }}</a></li>
+                                        <span style="padding:10px"><a href="/tags/{{ tag }}">{{ tag }}</a></li>
                                         {% endfor %}
                                     </ul>
                                     {% endif %}
@@ -325,6 +324,8 @@
             </div>
         </div>
     </div>
+<h1 style="font-family:monad; background-color: #003154; color: #fff; text-align: center; margin-bottom:auto">TREFWOORDEN</h1>
+
 
     <!-- Start Footer -->
     <footer class="padding-200 pb-0">
