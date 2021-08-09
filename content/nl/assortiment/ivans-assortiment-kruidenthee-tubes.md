@@ -40,7 +40,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de vele v
 
 Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om deze te hervullen met onze value packs. Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 
-[[contentfulImage MEn6GxkJ5DWJbkABGlw3R]]
+[[contentfulImage L2LF6K3VB5qw5Fjsx8Rch]]
 
 <h1 style="font-family:papyrus; color: #fff; background-color: #706c84; text-align: center; font-weight:bold">Ivan Chai</h1>
 

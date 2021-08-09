@@ -9,7 +9,6 @@ publish:
 tags:
 - ontsteking
 - sport
-- ontsteking
 - eyeopener
 meta:
   description: Ben jij bekend met Runners High en de nodige endorfine die daar bij vrij komt? Je pezen mogen het vuile werk op zich nemen. Een onstoken pees in je knie is zo opgelopen. Benieuwd naar onze inzichten?
