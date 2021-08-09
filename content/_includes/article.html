@@ -248,6 +248,14 @@
                                     {% endif %}
                                     {% if fragments.header %}
                                         {% articleFragment fragments.header %}
+                                        <div class="post-tag-area d-md-flex justify-content-between align-items-center" style="padding-top:15px">
+                                            <ul class="share-icon">
+                                                <span style="font-family:papyrus">{% i18n 'share' language %}Share{% endi18n %}:</span>
+                                                <span style="padding:10px"><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></span>
+                                                <span style="padding:10px"><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></span>
+                                                <span style="padding:10px"><a href="#"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a></span>
+                                                <span style="padding:10px"><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></span>
+                                            </ul>
                                     {% endif %}
                                     {{ content }}
                                     {% if fragments.footer %}
@@ -258,12 +266,6 @@
                                 <div class="space-25"></div><hr>
                                 <div class="post-tag-area d-md-flex justify-content-between align-items-center" style="padding-top:15px">
                                     <ul class="share-icon">
-                                        <span style="font-family:papyrus">{% i18n 'share' language %}Share{% endi18n %}:</span>
-                                        <span style="padding:10px"><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></span>
-                                        <span style="padding:10px"><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></span>
-                                        <span style="padding:10px"><a href="#"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a></span>
-                                        <span style="padding:10px"><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></span>
-                                    </ul>
                                     {% if tags %}
                                     <ul class="tags" style="font-family:papyrus">
                                         <span style="padding:10px">{% i18n 'tags' language %}Tags{% endi18n %}:</li>
@@ -283,7 +285,7 @@
     </section>
     <!-- Start Blog Page Section -->
 
-    <!-- Start Lees meer -->
+    <!-- Start Trending -->
 <h1 style="font-family:monad; background-color: #003154; color: #fff; text-align: center; margin-bottom:auto">TRENDING</h1>
     <div class="space-25"></div>
     <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
@@ -325,7 +327,7 @@
             </div>
         </div>
     </div>
-<h1 style="font-family:monad; background-color: #003154; color: #fff; text-align: center; margin-bottom:auto">TREFWOORDEN</h1>
+    <!-- End Trending -->
 
 
     <!-- Start Footer -->

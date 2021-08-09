@@ -109,4 +109,5 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
 [[shopifyCollection 269339164838 buttonDestination=modal]]
 
 <hr>
+
 [[contentfulImage 6s8sE0FZqUqvnuYdPkkJBe fm=png q=100 w=100 h=100]]
