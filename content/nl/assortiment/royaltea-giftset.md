@@ -56,7 +56,8 @@ shopify:
 [[shopifyCollection 6732579930278 buttonDestination=modal]]
 
   <!-- Start Assortiment -->
-<h1 style="font-family:monad; background-color: #003154; color: #fff; text-align: center; margin-bottom:auto">Assortiment</h1>
+<section>
+<h3 style="font-family:papyrus; background-color: #003154; color: #fff; text-align: center; margin-bottom:auto">Assortiment</h3>
     <div class="space-25"></div>
     <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
         <div class="space-25" style="background-color:white"></div>
@@ -121,4 +122,5 @@ shopify:
             </div>
         </div>
     </div>
+</section>
     <!-- End Assortiment -->
