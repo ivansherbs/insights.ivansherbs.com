@@ -3,8 +3,7 @@ layout: article.html
 title: Affiliates
 url: /nl/samenwerkingen/affiliates
 meta:
-  # TODO Stefan: removing the TODO without adding a value for description will not pass unit testing
-  description: TODO
+  description: Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs | Nederland. Benieuwd naar het DNA van Ivan’s Herbs?
   keywords: kruiden, kruidenthee, etherische oliën, supplementen, matcha, ivan's herbs, samenwerking affiliates, communities, dna, duurzaam, klimaat, schoon, geschenkdoos, starter set, giftset, Prostaatontsteking, Vergrote prostaat, BPH, Prostaatkanker, Blaasontsteking, antibiotica, Anticonceptiepil, maagzuurremmers, slijmbeursontsteking, stress, angst, burnout klachte
 banner:
   image: 6csVsKRo3aDFZgyA0ojdEV
@@ -375,8 +374,6 @@ Tot slot,
 Wij kijken uit naar een succesvolle samenwerking.
 
 Met vriendelijke groet,
-
-[[contentfulImage 4xERvF6aRTWBQwMFipxC3k]]
 
 ### Ivan Herbs | Nederland
 
