@@ -78,16 +78,8 @@ shopify:
                             <div class="space-25"></div>
                         <a href="/nl/assortiment/ivans-assortiment-kruidenthee/tubes" style="font-family:monad ; margin: auto">LOSSE TUBES</a>
                             <div class="space-25"></div>
+                        </div>
                     </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section>
-    <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
-            <div class="row align-items-center" style="background-color:white">
                 <div class="col-lg-4 col-md-6 col-12 count-up">
                     <div class="fact-box text-center aos-init aos-animate" style="background-image: url(assets/img/eco7-4.jpg); background-color:white" data-aos="fade-up" data-aos-delay="150">
                         <a href="/nl/assortiment/ivans-assortiment-etherische-olien"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/dEvkgc7HH6nQSdpg9wGLl/6eac7e29feae751e0dd3f12b10858d59/essential_oil.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
