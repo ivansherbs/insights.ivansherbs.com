@@ -37,21 +37,21 @@ shopify:
 Kom meer te weten over ons assortiment aan kruidenthee uit Siberië. Gegarandeerd de hoogste kwaliteit...
 
 Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Meerdere voordelen zijn bewezen effectief middels klinisch onderzoek. Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
-
+<hr>
 [[contentfulImage 330JoHjPiof69flJKwiumE q=85]]
 
 <h1 style="font-family:papyrus; color: #706c84; text-align: center; font-weight:bold">Ivan Chai</h1>
 <hr>
 <span style="color:white; background-color: #706c84; padding:4px;">✔ Heerlijke smaak</span><br><br>Ivan Chai heeft een aardse en zoete smaak die vergelijkbaar is met traditionele zwarte thee. Wordt niet bitter. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
 
-<span style="color:white; background-color: #706c84; padding:4px;">✔ Verzorgt de gezondheid van de urinewegen en prostaat**</span><br><br>heeft u vaak last van een blaasontsteking? Prostaatklachten? Denk aan een vergrote prostaat (bph) of een prostaatontsteking? Klinisch bewezen en bevestigd door het European Medicines Agency te Amsterdam.
+<span style="color:white; background-color: #706c84; padding:4px;">✔ Verzorgt de gezondheid van prostaat en urinewegen</span><br><br>Prostaatklachten? Denk aan een vergrote prostaat (bph) of een prostaatontsteking? Of heeft u vaak last van een blaasontsteking?  Klinisch bewezen en bevestigd door het European Medicines Agency te Amsterdam.
 
-<span style="color:white; background-color: #706c84; padding:4px;">✔ Goed tegen schimmelinfecties**</span><br><br>heeft u last van schimmelinfecties? Denk aan de mond, handen, voeten en de intieme zone. De moderne wetenschap heeft aangetoond dat Ivan Chai een schimmelwerende werking heeft.
+<span style="color:white; background-color: #706c84; padding:4px;">✔ Goed tegen schimmelinfecties</span><br><br>Vaak last van schimmelinfecties? Denk aan de mond, handen, voeten of de intieme zone. Hedendaags onderzoek heeft aangetoond dat Ivan Chai een schimmelwerende werking heeft.
 
-<span style="color:white; background-color: #706c84; padding:4px;">✔ Kalmerende werking</span><br><br>tegen angst en stress. Goed voor de nachtrust. Het natuurlijke rustgevende effect is van invloed op uw centrale zenuwstelsel. Geweldig om in de avond tot rust te komen. Werkt ook goed tegen stress.
+<span style="color:white; background-color: #706c84; padding:4px;">✔ Kalmerende werking</span><br><br>Tegen angst en stress. Goed voor de nachtrust. Het mild kalmerende effect is van invloed op ons centrale zenuwstelsel. Geweldig om in de avond tot rust te komen. Werkt ook goed tegen stress.
 
 <span style="color:white; background-color: #706c84; padding:4px;">✔ Versterkt de weerstand</span><br><br>Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
-
+<hr>
 [[contentfulImage 4lP0WugGvtJ1vSCGqLzSSS q=85]]
 
 <h1 style="font-family:papyrus; color: #566845; text-align: center; font-weight:bold">Groene Ivan Chai</h1>
@@ -65,7 +65,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 <span style="color:white; background-color: #566845; padding:4px;">✔ Kalmerende werking</span><br><br>Tegen angst en stress. Goed voor de nachtrust. Het natuurlijke rustgevende effect is van invloed op uw centrale zenuwstelsel. Geweldig om in de avond tot rust te komen. Werkt ook goed tegen stress.
 
 <span style="color:white; background-color: #566845; padding:4px;">✔ Versterkt de weerstand</span><br><br>Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
-
+<hr>
 [[contentfulImage 6gEaDXAwcG1xTGiH0e4aR1 q=85]]
 
 <h1 style="font-family:papyrus; color: #b79fbf; text-align: center; font-weight:bold">Bergenia Chai</h1>
@@ -79,7 +79,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 <span style="color:white; background-color: #b79fbf; padding:4px;">✔ Middel tegen hoesten</span><br><br>Moet u vaak hoesten? Bergenia Chai werkt als een natuurlijke antitussivum, ofwel hoestdrank. Moderne wetenschap heeft aangetoond dat bepaalde bestandsdelen in Bergenia de kans op hoesten vermindert.
 
 <span style="color:white; background-color: #b79fbf; padding:4px;">✔ Vezorgt de lever</span><br><br>Moet uw lever worden beschermd tegen schadelijke stoffen? Onderzoek heeft aangetoond dat Bergenia hepatoprotectief is. Bergenia Chai voorkomt schade aan uw lever.
-
+<hr>
 [[contentfulImage 4fsrbeKHirCBIPscO7uquy q=90]]
 
 <h1 style="font-family:papyrus; color: #8f8a72; text-align: center; font-weight:bold">Meadowsweet Chai</h1>
@@ -93,7 +93,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 <span style="color:white; background-color: #8f8a72; padding:4px;">✔ Ontstekingsremmende werking</span><br><br>Heeft u last van een ontsteking? De moderne wetenschap heeft aangetoond dat Meadowsweet Chai een ontstekingsremmende werking bevat.
 
 <span style="color:white; background-color: #8f8a72; padding:4px;">✔ Goed tegen maagzweren</span><br><br>Meadowsweet Chai bevat een krachtige anti-zweervorminge eigenschappen. Meadowsweet Chai voorkomt hierdoor het ontstaan van maagzweren.
-
+<hr>
 [[contentfulImage 3ENJ9CKPaS2wMbBEdDekTE q=100]]
 
 <h1 style="font-family:papyrus; color: #af5da4; text-align: center; font-weight:bold">Ziziphora Chai</h1>
