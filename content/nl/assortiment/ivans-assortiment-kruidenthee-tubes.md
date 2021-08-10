@@ -40,6 +40,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de vele v
 
 Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om deze te hervullen met onze value packs. Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 <hr>
+
 [[contentfulImage L2LF6K3VB5qw5Fjsx8Rch]]
 
 <h1 style="font-family:papyrus; color: #706c84; text-align: center; font-weight:bold">Ivan Chai</h1>
@@ -54,6 +55,7 @@ Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om d
 
 <span style="color:white; background-color: #706c84; padding:4px;">✔ Versterkt de weerstand</span><br><br>Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 <hr>
+
 [[contentfulImage 4tqpTb4zpj9YwXihe3ERYs]]
 
 <h1 style="font-family:papyrus; color: #566845; text-align: center; font-weight:bold">Groene Ivan Chai</h1>
@@ -68,6 +70,7 @@ Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om d
 
 <span style="color:white; background-color: #566845; padding:4px;">✔ Versterkt de weerstand</span><br><br>Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 <hr>
+
 [[contentfulImage 72Upinh9ERP9NTz4QESB9B]]
 
 <h1 style="font-family:papyrus; color: #b79fbf; text-align: center; font-weight:bold">Bergenia Chai</h1>
@@ -82,6 +85,7 @@ Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om d
 
 <span style="color:white; background-color: #b79fbf; padding:4px;">✔ Vezorgt de lever</span><br><br>Moet uw lever worden beschermd tegen schadelijke stoffen? Onderzoek heeft aangetoond dat Bergenia hepatoprotectief is. Bergenia Chai voorkomt schade aan uw lever.
 <hr>
+
 [[contentfulImage RQcxtuhK9wi52x4XBYxsE]]
 
 <h1 style="font-family:papyrus; color: #8f8a72; text-align: center; font-weight:bold">Meadowsweet Chai</h1>
@@ -96,6 +100,7 @@ Vanaf de start hebben wij ons gericht op het gebruik van herbruikbare tubes om d
 
 <span style="color:white; background-color: #8f8a72; padding:4px;">✔ Goed tegen maagzweren</span><br><br>Meadowsweet Chai bevat een krachtige anti-zweervorminge eigenschappen. Meadowsweet Chai voorkomt hierdoor het ontstaan van maagzweren.
 <hr>
+
 [[contentfulImage 1Xo7XxkFYOyEbNEjR7r6ez]]
 
 <h1 style="font-family:papyrus; color: #af5da4; text-align: center; font-weight:bold">Ziziphora Chai</h1>
@@ -174,16 +179,8 @@ Voor de enorme theedrinker die er gewoon géén genoeg van kan krijgen. Met extr
                             <div class="space-25"></div>
                         <a href="/nl/assortiment/ivans-assortiment-kruidenthee/tubes" style="font-family:monad ; margin: auto">LOSSE TUBES</a>
                             <div class="space-25"></div>
+                        </div>
                     </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section>
-    <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
-            <div class="row align-items-center" style="background-color:white">
                 <div class="col-lg-4 col-md-6 col-12 count-up">
                     <div class="fact-box text-center aos-init aos-animate" style="background-image: url(assets/img/eco7-4.jpg); background-color:white" data-aos="fade-up" data-aos-delay="150">
                         <a href="/nl/assortiment/ivans-assortiment-etherische-olien"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/dEvkgc7HH6nQSdpg9wGLl/6eac7e29feae751e0dd3f12b10858d59/essential_oil.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>

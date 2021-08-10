@@ -38,6 +38,7 @@ Kom meer te weten over ons assortiment aan kruidenthee uit Siberië. Gegarandeer
 
 Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de geneeskrachtige werking. Meerdere voordelen zijn bewezen effectief middels klinisch onderzoek. Benieuwd naar de 5 heerlijke smaken inclusief enkele voordelen?
 <hr>
+
 [[contentfulImage 330JoHjPiof69flJKwiumE q=85]]
 
 <h1 style="font-family:papyrus; color: #706c84; text-align: center; font-weight:bold">Ivan Chai</h1>
@@ -52,6 +53,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 <span style="color:white; background-color: #706c84; padding:4px;">✔ Versterkt de weerstand</span><br><br>Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 <hr>
+
 [[contentfulImage 4lP0WugGvtJ1vSCGqLzSSS q=85]]
 
 <h1 style="font-family:papyrus; color: #566845; text-align: center; font-weight:bold">Groene Ivan Chai</h1>
@@ -66,6 +68,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 <span style="color:white; background-color: #566845; padding:4px;">✔ Versterkt de weerstand</span><br><br>Ivan Chai voorkomt griep, mede doordat het een antimicrobiële eigenschap bevat. Het hoge vitamine C gehalte draagt bij aan versnelt herstel.
 <hr>
+
 [[contentfulImage 6gEaDXAwcG1xTGiH0e4aR1 q=85]]
 
 <h1 style="font-family:papyrus; color: #b79fbf; text-align: center; font-weight:bold">Bergenia Chai</h1>
@@ -80,6 +83,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 <span style="color:white; background-color: #b79fbf; padding:4px;">✔ Vezorgt de lever</span><br><br>Moet uw lever worden beschermd tegen schadelijke stoffen? Onderzoek heeft aangetoond dat Bergenia hepatoprotectief is. Bergenia Chai voorkomt schade aan uw lever.
 <hr>
+
 [[contentfulImage 4fsrbeKHirCBIPscO7uquy q=90]]
 
 <h1 style="font-family:papyrus; color: #8f8a72; text-align: center; font-weight:bold">Meadowsweet Chai</h1>
@@ -94,6 +98,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 <span style="color:white; background-color: #8f8a72; padding:4px;">✔ Goed tegen maagzweren</span><br><br>Meadowsweet Chai bevat een krachtige anti-zweervorminge eigenschappen. Meadowsweet Chai voorkomt hierdoor het ontstaan van maagzweren.
 <hr>
+
 [[contentfulImage 3ENJ9CKPaS2wMbBEdDekTE q=100]]
 
 <h1 style="font-family:papyrus; color: #af5da4; text-align: center; font-weight:bold">Ziziphora Chai</h1>
@@ -173,16 +178,8 @@ Voor de enorme theedrinker die er gewoon géén genoeg van kan krijgen. Met extr
                             <div class="space-25"></div>
                         <a href="/nl/assortiment/ivans-assortiment-kruidenthee/tubes" style="font-family:monad ; margin: auto">LOSSE TUBES</a>
                             <div class="space-25"></div>
+                        </div>
                     </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section>
-    <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
-            <div class="row align-items-center" style="background-color:white">
                 <div class="col-lg-4 col-md-6 col-12 count-up">
                     <div class="fact-box text-center aos-init aos-animate" style="background-image: url(assets/img/eco7-4.jpg); background-color:white" data-aos="fade-up" data-aos-delay="150">
                         <a href="/nl/assortiment/ivans-assortiment-etherische-olien"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/dEvkgc7HH6nQSdpg9wGLl/6eac7e29feae751e0dd3f12b10858d59/essential_oil.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
