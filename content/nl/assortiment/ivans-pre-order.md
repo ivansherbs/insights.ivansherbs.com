@@ -10,7 +10,7 @@ meta:
   keywords: kruidenthee, assortiment, pre order, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
   header:
-  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
+  footer:
 banner:
   image: 7FWflFBuHhPuFlPEcb20ku
   effect: o-lg-60d-black

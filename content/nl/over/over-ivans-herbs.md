@@ -13,9 +13,12 @@ contentful:
   imageOptions:
     fm: png
     q: 50
+fragments:
+  header: wij-geloven-onze-missie
+  footer:
+publish:
+  author:
 ---
-<p style="text-align: center; font-family:papyrus">Wij geloven in de klinisch bewezen voordelen van kruiden uit Siberië.</p>
-
 [[contentfulImage 587qcANxXb7WGYZqYUirxd]]
 
 ## Introduceren kruiden uit Siberië

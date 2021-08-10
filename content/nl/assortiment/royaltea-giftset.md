@@ -16,8 +16,8 @@ meta:
   description: "BESTSELLER: Bekijk snel onze ROYALTEA GIFTSET - Nu voor maar €39,95 bij aanmelden nieuwsbrief = 20% KORTING..."
   keywords: kruidenthee, assortiment, pre order , favorieten, kilobags, inzichten, geschenkdoos, cadeau, katoen, draagtas, beker, theezeef
 fragments:
-  header:
-  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
+  header: nl/fragments/voordelen/rechtstreeks-uit-de-natuur-vrij-dierenleed-ontbossing
+  footer:
 publish:
   author: onze redactie
 banner:
@@ -30,11 +30,6 @@ contentful:
 shopify:
   language: NL
 ---
-<div class="space-25"></div>
-<div class="col-md-12">
-        <h4 style="font-family:papyrus; color: #3f4450; text-align: center; padding: 25px; box-shadow: 7px 11px 21px #8f8a72">Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.</h4>
-    </div>
-
 ### Royaltea Giftset
 
 [[shopifyCollection 268072419494 buttonDestination=modal]]
@@ -57,8 +52,7 @@ shopify:
 
   <!-- Start Assortiment -->
 <section>
-<h3 style="font-family:papyrus; background-color: #003154; color: #fff; text-align: center; margin-bottom:auto">Assortiment</h3>
-    <div class="space-25"></div>
+<h3 style="font-family:papyrus; background-color: #134d7e; color: #fff; text-align: center; margin-bottom:auto; padding:10px">Assortiment</h3>    <div class="space-25"></div>
     <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
         <div class="space-25" style="background-color:white"></div>
             <div class="row align-items-center" style="background-color:white">
@@ -90,9 +84,9 @@ shopify:
             </div>
         </div>
     </div>
-    <div class="space-25"></div>
+</section>
+<section>
     <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
-        <div class="space-25" style="background-color:white"></div>
             <div class="row align-items-center" style="background-color:white">
                 <div class="col-lg-4 col-md-6 col-12 count-up">
                     <div class="fact-box text-center aos-init aos-animate" style="background-image: url(assets/img/eco7-4.jpg); background-color:white" data-aos="fade-up" data-aos-delay="150">

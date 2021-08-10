@@ -10,7 +10,7 @@ meta:
   keywords: etherische oliën, etherische olien, assortiment, pre order , 10ml, dierenleed, aromadiffuser
 fragments:
   header:
-  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
+  footer:
 publish:
   author: Ivan's Herbs
 banner:
@@ -35,8 +35,7 @@ Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke proble
 
   <!-- Start Assortiment -->
 <section>
-<h3 style="font-family:papyrus; background-color: #003154; color: #fff; text-align: center; margin-bottom:auto">Assortiment</h3>
-    <div class="space-25"></div>
+<h3 style="font-family:papyrus; background-color: #134d7e; color: #fff; text-align: center; margin-bottom:auto; padding:10px">Assortiment</h3>    <div class="space-25"></div>
     <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
         <div class="space-25" style="background-color:white"></div>
             <div class="row align-items-center" style="background-color:white">
@@ -68,9 +67,9 @@ Ontdek onze collectie etherische oliën. Iedere olie behandelt specifieke proble
             </div>
         </div>
     </div>
-    <div class="space-25"></div>
+</section>
+<section>
     <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
-        <div class="space-25" style="background-color:white"></div>
             <div class="row align-items-center" style="background-color:white">
                 <div class="col-lg-4 col-md-6 col-12 count-up">
                     <div class="fact-box text-center aos-init aos-animate" style="background-image: url(assets/img/eco7-4.jpg); background-color:white" data-aos="fade-up" data-aos-delay="150">
