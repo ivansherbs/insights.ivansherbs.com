@@ -32,7 +32,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -58,7 +58,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -84,7 +84,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -108,7 +108,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
         <div>
             <div>
                 <div>
-                  <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                  <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                     <div style="padding: 15px">
                         <div class="blog-img">
                            <a href="/nl/artikel/slijmbeursontsteking/essentiele-behoeften/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/sleZsUJOtOiDOZu5jF2MR/d54b2d066ba3481c353380f129ca38d6/artikel_essentiele_behoeften.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
@@ -133,7 +133,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -185,7 +185,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -211,7 +211,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -237,7 +237,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -263,7 +263,7 @@ Fysieke en mentale klachten komen op dagelijkse basis méér voor dan men denkt.
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">

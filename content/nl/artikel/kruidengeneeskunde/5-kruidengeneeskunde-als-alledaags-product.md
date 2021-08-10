@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: KRUIDENGENEESKUNDE ALS ALLEDAAGS PRODUCT
+title: KRUIDENGENEESKUNDE IN DE VORM VAN ALLEDAAGSE PRODUCTEN?
 url: /nl/kruidengeneeskunde-als-alledaags-product
 type: article
 category: kruidengeneeskunde

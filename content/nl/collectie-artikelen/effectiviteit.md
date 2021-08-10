@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
 title: "INSIGHTS: EFFECTIVITEIT"
-url: nl/effectiviteit
+url: /nl/collectie-artikelen/effectiviteit
 type: article
 category: Ivan Chai
 tags:
@@ -32,7 +32,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -46,7 +46,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                             <div class="space-25"></div>
                         </div>
                     </div>
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
                            <a href="/nl/effectiveness/ivan-chai-prostaat/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3NRH8dvMHatZ0F6sDLxK4h/7abc41e9f51acbdb8334d3c73d937840/prostaatklachten.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
@@ -67,7 +67,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                   <div style="padding: 15px">
                     <div class="blog-box">
                       <div class="blog-img">
@@ -81,7 +81,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                             <div class="space-25"></div>
                       </div>
                     </div>
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
                         <a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
@@ -102,7 +102,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                   <div style="padding: 15px">
                     <div class="blog-box">
                       <div class="blog-img">
@@ -116,7 +116,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                             <div class="space-25"></div>
                       </div>
                     </div>
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
                         <a href="/nl/artikel/prostaat/prostaatontsteking/er-is-geen-touw-aan-vast-te-knopen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/78JnemnLWoZdd6jZJ8gN61/23d7348059c6ef4101d7a220264628ba/artikel_geen_touw_aan_vast_te_knopen.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
@@ -129,7 +129,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
                           <div class="space-25"></div>
                         </div>
                     </div>
-                    <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                    <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
                         <a href="/nl/artikel/prostaat/vergrote-prostaat/groeien-tot-u-erbij-neervalt/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6xcM2KvlVvivv2iX1GFuem/5bec79778551e01bb618e5e0cac8232e/artikel_groeien_tot_je_erbij_neervalt.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
@@ -150,7 +150,7 @@ Ivan Chai is bewezen effectief middels klinisch onderzoek. Meerdere voordelen zi
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                       <div class="blog-img">

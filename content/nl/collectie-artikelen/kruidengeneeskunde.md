@@ -32,7 +32,7 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
     <div class="col-md-12 col-lg-12">
         <div class="row">
             <div class="col-md-12">
-                <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
@@ -46,7 +46,7 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                             <div class="space-25"></div>
                         </div>
                     </div>
-                  <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                  <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
                            <a href="/nl/moderne-kruidengeneeskunde"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/5OcLPvqUTGYonJAlAK4FwJ/2f633ef9580bd8625f5d97c5e46c07b3/Moderne_Kruidengeneeskunde.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
@@ -59,7 +59,7 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                           <div class="space-25"></div>
                         </div>
                     </div>
-                  <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                  <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
                            <a href="/nl/kruiden-als-preventatieve-behandeling"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/36w7NbEPwcClZWXtbPC0a0/d6878fc9e87f8d2d25f65cd31c4f9fb8/Kruiden_als_preventatieve_behandeling.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
@@ -72,10 +72,10 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                           <div class="space-25"></div>
                         </div>
                     </div>
-                  <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                  <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
-                           <a href="/nl/veilig-gebruik-van-kruiden"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7xSwJ477qmgAiz2sizipe/d96a0306a5421519324caac51424f4a0/Veilig_gebruik_van_kruiden.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
+                           <a href="/nl/veilig-gebruik-van-kruiden"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7xSwJ477qmgAiz2siziH4e/c41f3ac4cf104a1ff09867ef735e8f2d/4V0H1867_1_.jpg?h=250" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
@@ -85,14 +85,14 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                           <div class="space-25"></div>
                         </div>
                     </div>
-                  <div class="col-md-10" style="margin-right: auto; margin-left: auto; display: block">
+                  <div class="col-md-12" style="margin-right: auto; margin-left: auto; display: block">
                     <div class="blog-box">
                         <div class="blog-img">
-                           <a href="/nl/kruidengeneeskunde-als-alledaags-product"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7DY2SOQhqApZObTguUXhA6/ab9224627d91cdde5856c9b386a8f4da/Kruidengeneeskunde_als_alledaags_product.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
+                           <a href="/nl/kruidengeneeskunde-als-alledaags-product"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7DY2SOQhqApZObTguUXhA6/7677406b72c8bab0408dd77fd5153184/kruiden-als-alledaags-product.jpg?h=250" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-25"></div>
-                            <p style="font-family:monad;text-align:center"><a href="/nl/kruidengeneeskunde-als-alledaags-product">KRUIDEN ALS ALLEDAAGS PRODUCT?</a></p>
+                            <p style="font-family:monad;text-align:center"><a href="/nl/kruidengeneeskunde-als-alledaags-product">KRUIDENGENEESKUNDE IN DE VORM VAN ALLEDAAGSE PRODUCTEN?</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                           <div class="space-25"></div>
