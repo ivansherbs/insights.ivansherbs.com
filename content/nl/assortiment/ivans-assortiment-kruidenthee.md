@@ -42,7 +42,7 @@ Al onze kruidentheeën bevatten Ivan Chai als hoofdbestanddeel vanwege de genees
 
 <h1 style="font-family:papyrus; color: #fff; background-color: #706c84; text-align: center; font-weight:bold">Ivan Chai</h1>
 
-**✔ Heerlijke smaak**: Ivan Chai heeft een aardse en zoete smaak die vergelijkbaar is met traditionele zwarte thee. Wordt niet bitter. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
+<h2 style="color:white; backgroundcolor:#706c84; padding:4px;">✔ Heerlijke smaak**</h5>: Ivan Chai heeft een aardse en zoete smaak die vergelijkbaar is met traditionele zwarte thee. Wordt niet bitter. Veilig voor kinderen. Deze Siberische kruidenthee is tevens cafeïnevrij.
 
 **✔ Verzorgt de gezondheid van de urinewegen en prostaat**: heeft u vaak last van een blaasontsteking? Prostaatklachten? Denk aan een vergrote prostaat (bph) of een prostaatontsteking? Klinisch bewezen en bevestigd door het European Medicines Agency te Amsterdam.
 
