@@ -14,7 +14,7 @@ contentful:
     fm: png
     q: 50
 fragments:
-  header: wij-geloven-onze-missie
+  header: nl/fragments/voordelen/wij-geloven-onze-missie
   footer:
 publish:
   author:
