@@ -32,7 +32,7 @@ shopify:
 
 Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van te maken. Ze was er zelf ook door gegrepen. En goed ook.
 
-### In retrospectief
+## In retrospectief...
 
 **Wanneer ik terugkijk** op die periode uit mijn leven. Is het eigenlijk zo gek nog niet dat ik een burnout heb opgelopen. Je gaat immers op in het werkende leven.
 
@@ -74,7 +74,7 @@ Denk aan werkcultuur, stress, gewoontes en de innerlijke motivatie er iets van t
 
 **De cortisol zorgt voor veel adrenaline in je lichaam.** Dit heeft ervoor gezorgd dat je eigenlijk wil blijven doorgaan. En alles wil afmaken. En ja. Deze periode gaat dus over het algemeen gepaard met een overmatige hoeveelheid aan **stress**. En. Nu kom het!
 
-### Koffie?
+## Iemand zin in koffie?
 
 De kans op een burnout wordt vergroot door het drinken van koffie. Dit heeft te maken met het volgende. Koffie ontregelt je **bloedsuikerspiegel**.
 

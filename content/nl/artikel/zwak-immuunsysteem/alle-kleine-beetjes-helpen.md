@@ -101,7 +101,7 @@ Het ligt tevens in de lijn der verwachtingen dat wanneer je ouder wordt bepaalde
 
 **Je ziet het gelukkig aankomen.** En kunt je hierop voorbereiden! Handig he?
 
-### Kortom
+## Kortom...
 
 Je weet dus dat dit fenomeen er één keer per jaar aankomt. Dus door het consumeren van de juiste voedingsstoffen kun je een zwak immuunsysteem voorkomen.
 
@@ -118,7 +118,7 @@ Om te beginnen. We mogen van geluk spreken dat er iets bestaat als chemotherapie
 
 **Wat weer van invloed is op het algehele herstelproces.** Het kan zijn dat je hierdoor tevens gedwongen medicijnen uit de farmaceutische industrie moet gebruiken met ongewenste bijwerkingen. Dit is in de meeste gevallen van invloed op de kwetsbaarheid van je lichaam. Je lichaam zal moet wennen aan je nieuwe levensstijl.
 
-### Meerdere oorzaken
+## Meerdere oorzaken?
 
 Uiteraard zijn er veel meer oorzaken voor een zwak immuunsysteem. Ook minder zware **medicijnen uit de farmaceutische industrie** ( antibiotica) om een aandoening te verdrijven zijn al van invloed.
 
@@ -129,7 +129,7 @@ Of denk aan het hebben van **bloedarmoede**. Ofwel **ijzertekort**. Wat ook weer
 **Wist je dat…?** <br>
 De antimicrobiële eigenschappen van Ivan Chai goed zijn bestudeerd. Hieruit blijkt dat het schimmels, gist en ongewenste bacteriën verhinderd. Vanwege deze schimmelwerende eigenschappen helpt het tegen overgroei van gist in het spijsverteringsstelsel.
 
-### Simpel gezegd
+## Simpel gezegd...
 
 Een gezond spijsverteringsstelsel betekent een betere opname van je voedingsstoffen. Wat vervolgens leidt tot het versterken van je immuunsysteem. Door het versterken van je immuunsysteem wordt de kans op problemen vele malen verminderd.
 
