@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
 title: TEST SLIDER
-url: /nl/test-slider
+url: /nl/product-slider
 type: article
 category: etherische oliën
 tags:
