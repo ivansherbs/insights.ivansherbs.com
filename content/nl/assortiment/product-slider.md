@@ -1,7 +1,7 @@
 ---
 layout: article_with_shopify.html
 title: TEST SLIDER
-url: /nl/product-slider
+url: /nl/test-slider
 type: article
 category: etherische oliën
 tags:
@@ -23,23 +23,6 @@ contentful:
 shopify:
   language: NL
 ---
-<!--Start shopify slider-->
-<section id="slider-shopify">
-<div class="container-fluid">
-    <div class="row align-items-center">
-        <div class="col-12">
-            <div class="products-slider" data-aos="fade-up">
-                <div class="item text-center">
-                    <img src="[[shopifyCollection {{ shopify.collection }}]]
-                    {{ content }}
-                    [[shopifyCollection {{ shopify.collection }}]]" class="img-fluid d-block mx-auto" alt="herbs from siberia">
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</section>
-<!--End shopify slider-->
 
 <section id="tubes_value_packs" class="products padding-100 background-fullwidth background-fixed" style="background-image: url(assets/img/home_background_products.jpg);">
     <div class="container-fluid">
@@ -62,21 +45,3 @@ shopify:
         </div>
     </div>
 </section>
-
-<!--Start shopify slider-->
-<section id="slider-shopify">
-<div class="container-fluid">
-    <div class="row align-items-center">
-        <div class="col-12">
-            <div class="products-slider" data-aos="fade-up">
-                <div class="item text-center">
-                    <img src="[[shopifyCollection {{ 269467320486 }}]]
-                    {{ content }}
-                    [[shopifyCollection {{ 269467320486 }}]]" class="img-fluid d-block mx-auto" alt="herbs from siberia">
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</section>
-<!--End shopify slider-->
