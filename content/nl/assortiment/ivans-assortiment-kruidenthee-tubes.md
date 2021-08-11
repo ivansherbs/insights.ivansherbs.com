@@ -18,6 +18,7 @@ tags:
 - vrouw
 - weerstand
 - werk
+- producten
 publish:
   author: onze redactie
 fragments:

@@ -18,7 +18,7 @@ banner:
 contentful:
   imageOptions:
     fm: jpg
-    q: 50
+    q: 100
 ---
 Voor een beter milieu in een schonere wereld. Benieuwd hoe onze Eco7 Standaard tot stand is gekomen?
 

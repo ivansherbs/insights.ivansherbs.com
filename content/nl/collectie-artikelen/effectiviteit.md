@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "INSIGHTS: EFFECTIVITEIT"
+title: EFFECTIVITEIT
 url: /nl/collectie-artikelen/effectiviteit
 type: article
 category: Ivan Chai

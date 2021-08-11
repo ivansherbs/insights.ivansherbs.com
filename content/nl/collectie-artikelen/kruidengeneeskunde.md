@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "INSIGHTS: KRUIDENGENEESKUNDE"
+title: KRUIDENGENEESKUNDE
 url: nl/kruidengeneeskunde
 type: article
 category: Ivan Chai

@@ -1,6 +1,6 @@
 ---
 layout: article_with_shopify.html
-title: "INSIGHTS: EYEOPENER"
+title: EYEOPENER
 url: nl/eyeopener
 type: article
 category: Ivan Chai

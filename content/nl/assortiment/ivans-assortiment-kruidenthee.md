@@ -16,6 +16,7 @@ tags:
 - slapen
 - urinewegen
 - werk
+- producten
 publish:
   author: onze redactie
 fragments:
