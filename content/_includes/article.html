@@ -249,7 +249,11 @@
                                     </ul>
                                     {% endif %}
                                     {% if fragments.header %}
-                                    {% articleFragment fragments.header %}<hr>
+                                    {% articleFragment fragments.header %}<hr><ul class="share-icon" style="text-align:center">
+                                        <span style="padding:10px"><a href="#"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></span>
+                                        <span style="padding:10px"><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></span>
+                                        <span style="padding:10px"><a href="#"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a></span>
+                                        <span style="padding:10px"><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></span></ul>
                                     {% endif %}
                                     {{ content }}
                                     {% if fragments.footer %}
