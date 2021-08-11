@@ -31,11 +31,15 @@ De natuur in Siberië is overweldigend. Het wordt gekenmerkt door het Altaj gebe
 
 [[contentfulImage 7taZpp875UdbncNeuopmAt]]
 
+<hr>
+
 ## De Gouden bergen van Altaj
 
 Eén van de mooiste gebieden in Siberië is het Altaj gebergte. Ze heeft vanwege haar schoonheid en krachtige uitstraling de bijnaam Siberisch Zwitserland verkregen. Het wordt gezien als de belangrijkste bergketens in de westelijk Siberische biogeografische regio. Dit overweldigende gebergte liggende in het hart van Siberië heeft haar plek veroverd op de UNESCO werelderfgoedlijst. Dit paradijselijke deel van Rusland heeft met 4506 meter als hoogst gelegen punt de Belukha. Deze bergtoppen observeren vanaf grote hoogte de op afstand gelegen drassige vlakte wat zich langzaamaan transformeert tot wildernis.
 
 [[contentfulImage 5qTAUq9UXsDYKRvbpVShPJ]]
+
+<hr>
 
 ## Het Russische Grootlandschap
 
@@ -43,11 +47,15 @@ Dit deel van Siberië heet het Russische Grootlandschap en wordt onderverdeelt i
 
 [[contentfulImage 2CKslUpqoLOZ4X0WKaN2mP]]
 
+<hr>
+
 ## Klimaat
 
 Vanaf de bergtoppen van de Belukha tot aan de bodem van de rivieren heerst zonder discussie moeder aarde. Waar de temperatuur in de zomer met gemak kan oplopen tot meer dan 35 graden Celsius, kan het kwik dalen tot min 40 graden Celsius gedurende de wintermaanden. De evolutie heeft bepaald welke levende organisme het Siberische klimaat kunnen trotseren. Mede bepaalde door de grootste temperatuur schommelingen ter wereld. De natuurlijke selectie (mede afhankelijk van overerving met variatie) is een alles bepalende factor geweest waardoor de flora in beperkte mate van toegevoegde waarde is ten opzicht van haar omgeving; ook wel wildernis.
 
 [[contentfulImage wGQ1Bz2pYVZn8SDeW23yY]]
+
+<hr>
 
 ## Wildernis
 
@@ -55,17 +63,23 @@ Deze wildernis van het boreaal woud wordt met name gedomineerd door bomen. Heel 
 
 [[contentfulImage 2HevNQVa3p0WuYTZn2L7EK]]
 
+<hr>
+
 ## Natuurlijke selectie
 
 De natuur heeft overal rekening mee gehouden. Gedurende de zomermaanden ontwaken er jaarlijks verschillende vuren door de warmte van de hittegolf. Deze snel uitdijende vuurzeeën kunnen in omvang wel tientallen kilometers groot worden. Wat de natuur echter over het hoofd heeft gezien is de bemoeienis van de mensheid die door de toenemende mate van klimaatveranderingen ervoor hebben gezorgd dat deze bosbranden sneller en feller aan het werk worden gezet. Zowaar met desastreuze gevolgen voor diezelfde mensheid van dien.
 
 [[contentfulImage iAeTxoUwGVvkvkkHMhQ8f]]
 
+<hr>
+
 ## Gevolgen
 
 Bosbranden van deze schaal hebben grote impact op de wereld. De reden is als volgt. Het boreaal woud is rijkelijk gevuld met CO2 en methaan gassen. Bij een bosbrand van enkele weken komen veel gassen vrij. Bij het vrijkomen van deze gassen versnelt het broeikaseffect. Met als gevolg dat de poolkappen met toenemende snelheid smelten. Kortom, bosbranden op grote schaal en van zeer lange duur versterken het broeikaseffect.
 
 [[contentfulImage 4x0emA3XeTlYvZ8CCDKVKl]]
+
+<hr>
 
 ## Kruiden uit Siberië
 
@@ -75,17 +89,23 @@ Gelukkig bieden bosbranden tevens nieuw leven. Waar bosbranden plaatsmaken voor 
 
 [[contentfulImage 4RcnKIZYvR98g72PBvXBCQ]]
 
+<hr>
+
 ## Geneeskrachtige werking
 
 De natuurlijke evolutie heeft bepaald dat deze kruiden anders zijn geëvolueerd dan elders op de wereld. Ook zij zijn onderhevig aan de wetten van moeder natuur en hebben door het heersende landklimaat kracht, snelheid en doorzettingsvermogen weten te ontwikkelen. Fijne bijkomstigheid is dat de evolutie deze kruiden geneeskrachtige eigenschappen door de jaren heen heeft meegegeven. Goed voor lichaam en geest.
 
 [[contentfulImage 5nUXUR91pwThVKk3Afo30K]]
 
+<hr>
+
 ## Ivan Chai
 
 Volgens de traditionele kruidengeneeskunde kunnen de kruiden worden gebruikt om Ivan Chai mee te zetten. Ofwel Siberische kruidenthee. Een medicijn rechtstreeks uit de natuur zonder bijwerkingen. Overheerlijk van smaak en vrij van cafeïne. Tegenwoordig is deze Siberische kruidenthee bewezen effectief middels klinisch onderzoek. Bevestigd door het European Medicines Agency. Bij gebruik wordt de gezondheid en algehele gemoedstoestand op den duur versterkt. Goed om te weten is dat Ivan Chai ook als preventieve behandeling kan worden gebruikt tegen verschillende gezondheidsproblemen.
 
 [[contentfulImage 3xKUwUrpfazDdetcucaJQf]]
+
+<hr>
 
 ## Schoon en gezond klimaat
 

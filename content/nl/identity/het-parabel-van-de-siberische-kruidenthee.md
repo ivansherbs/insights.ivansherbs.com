@@ -51,6 +51,8 @@ Wellicht overbodig om te melden ging de voorkeur voor de heren in de wintermaand
 
 [[contentfulImage 6GcDuKoTJ8zPpNCrw9V5cS]]
 
+<hr>
+
 ## Seizoensgebonden smaakverandering
 
 De smaak van de Ivan Chai was destijds seizoensgebonden vanwege het fermentatieproces. Als gevolg van de wintermaanden was de voorraad Ivan Chai logischerwijs zo goed als op, waardoor men niet kon wachten op de voorzomer. De jaarlijkse seizoensgebonden smaakverandering ging als volgt:

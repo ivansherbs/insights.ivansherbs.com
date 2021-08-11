@@ -51,6 +51,8 @@ shopify:
 [[contentfulImage 2gjpo5VPHlB4zfJ2E8Tq5]]
 > <p style="text-align: center; font-family:papyrus">De oorsprong en verwerking van Ivan Chai ligt in Siberië, ter hoogte van de Altaj.</p>
 
+<hr>
+
 ## Waarom Ivan Chai?
 
 Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer of gewoon ter ontspanning.
@@ -69,6 +71,8 @@ Drink Ivan Chai om de kans op ziekten te verkleinen en problemen te behandelen.
 [[contentfulImage gJlMzDkpnHCVrqBwnpQLa]]
 > <p style="text-align: center; font-family:papyrus">De kruiden waar Ivan Chai van wordt gemaakt staan in bloei nabij Chazhaevka, een Siberisch ecodorp.</p>
 
+<hr>
+
 ## 1. Versterkt de weerstand
 
 Een sterke weerstand helpt tegen onzichtbare indringers van buitenaf. Dit verdedigen doet uw afweersysteem. Om uw afweersysteem te versterken heeft u de juiste voedingsstoffen nodig.
@@ -83,6 +87,8 @@ Simpel gezegd, een gezond spijsverteringsstelsel betekent een betere opname van 
 
 [[contentfulImage 3Le11Z0jk9vTDMo8mcQzW0]]
 > <p style="text-align: center; font-family:papyrus">De seizoensarbeiders staan vroeg op om de kruiden te plukken in de wildernis van Siberië.</p>
+
+<hr>
 
 ## 2. Ontstekingsremmer
 
@@ -106,6 +112,8 @@ Vaak bent u geneigd over te stappen op medicijnen uit de farmaceutische industri
 [[contentfulImage 28IMJN1AoFeQRD0I7uG1Yw]]
 > <p style="text-align: center; font-family:papyrus">Na de oogst is binnengehaald worden de bladeren gespreid.</p>
 
+<hr>
+
 ## 3. Antioxiderende werking
 
 Voor alles wat u doet zijn voedingsstoffen van essentieel belang. Alle onderdelen uit het lichaam hebben ieder apart ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. Uw lichaam kan meerdere dagen op rij zonder voeding. Echter één dag zonder water.
@@ -123,6 +131,8 @@ Antioxidanten hebben een positieve werking op uw hart- en vaatstelsel.
 [[contentfulImage 1YeCYk9IuosjGU7cFtuQW3]]
 > <p style="text-align: center; font-family:papyrus">De bladeren van de kruiden worden met de hand gerold, waarna er een natuurlijk fermentatieproces overheen gaat.</p>
 
+<hr>
+
 ## 4. Verbetert de nachtrust
 
 Slaapproblemen hebben meer impact op uw leven dan op het eerste gezicht lijkt. U functioneert overdag minder goed. U bent minder scherp, heeft minder energie en voelt zich lusteloos.
@@ -137,6 +147,8 @@ In de traditionele kruidengeneeskunde staat het al jaren bekend als mild kalmere
 
 [[contentfulImage 4EMI0SfiaL2oxE1zXJ8qP4]]
 > <p style="text-align: center; font-family:papyrus">“Onze omgeving biedt veel soorten kruiden om meerdere smaken te creëren."</p>
+
+<hr>
 
 ## 5. Vermindert de kans op mentale klachten (angst en stress)
 
@@ -158,6 +170,8 @@ Iedereen ervaart een lichte vorm van angst. En een beetje stress is oké. Beiden
 [[contentfulImage 1xIwi3rPGISyU1T4m1Tvit]]
 > <p style="text-align: center; font-family:papyrus">"Het extreme landklimaat zorgt ervoor dat er alléén gedurende de zomer (+30°C) kan worden geoogst. In de winter (-40°C) ligt hier namelijk een dik pak sneeuw."</p>
 
+<hr>
+
 ## 6. Verzorgt de gezondheid van de prostaat en urinewegen
 
 Prostaatklachten zijn een veelvoorkomend probleem. 30% van de mannen van 50 jaar en ouder heeft prostaatklachten. Gelukkig kunnen deze klachten preventief worden behandelt.
@@ -171,6 +185,8 @@ Er is gebruik gemaakt van grootschalig klinisch onderzoek om aan te tonen dat Iv
 
 [[contentfulImage WbZiBDHmv6wZQXIdynio5]]
 > <p style="text-align: center; font-family:papyrus">De kruiden waar Ivan Chai van wordt gemaakt groeit op meerdere plekken in de wereld. Echter hebben de kruiden uit deze regio een verbazingwekkende sterke geneeskrachtige werking.</p>
+
+<hr>
 
 Ivan Chai is hiernaast urogenitaal gezien niet alleen goed voor mannen.
 
@@ -199,6 +215,8 @@ Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling o
 [[contentfulImage 3q8sNvW9E7qAVKIQG9hEIe]]
 > <p style="text-align: center; font-family:papyrus">Het met de hand plukken van de kruiden is een intensief proces...</p>
 
+<hr>
+
 ## 7. Verzorgt het spijsverteringsstelsel
 
 Soms heeft u van die dagen, dat u alweer voor de zoveelste keer naar het toilet moet. U maag en darmen gaan wederom als een jekko te keer. Het liefst zou u dan ook weer op 'normale wijze' op het toilet willen zitten.
@@ -224,5 +242,6 @@ Tot slot, klinisch onderzoek heeft zelfs aangetoond dat kleine darmparasieten ku
 [[contentfulImage 75dEUbi4QxZUCypPS0Ldkz]]
 > <p style="text-align: center; font-family:papyrus">Na een fermentatieproces van 3 dagen wordt de Ivan Chai op traditionele wijze in zakken gestopt. Deze werkwijze verloopt geheel volgens onze Eco7 Standaard.</p>
 
+<hr>
 
 [[shopifyCollection 269160775846 buttonDestination=modal]]

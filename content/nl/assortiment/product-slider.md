@@ -23,17 +23,16 @@ contentful:
 shopify:
   language: NL
 ---
-
 <!--Start shopify slider-->
 <section id="slider-shopify">
 <div class="container-fluid">
     <div class="row align-items-center">
         <div class="col-12">
-            <div class="products-slider" data-aos="fade-right">
+            <div class="products-slider" data-aos="fade-up">
                 <div class="item text-center">
-                    <img src="[[shopifyCollection {{ shopify.226866954406 }}]]
+                    <img src="[[shopifyCollection {{ shopify.collection }}]]
                     {{ content }}
-                    [[shopifyCollection {{ shopify.226866954406 }}]]" class="img-fluid d-block mx-auto" alt="herbs from siberia">
+                    [[shopifyCollection {{ shopify.collection }}]]" class="img-fluid d-block mx-auto" alt="herbs from siberia">
                 </div>
             </div>
         </div>
@@ -42,39 +41,42 @@ shopify:
 </section>
 <!--End shopify slider-->
 
+<section id="tubes_value_packs" class="products padding-100 background-fullwidth background-fixed" style="background-image: url(assets/img/home_background_products.jpg);">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col-12">
+                <div class="products-slider aos-init slick-initialized slick-slider slick-dotted aos-animate" data-aos="fade-left">
+                    <div class="slick-list draggable" style="padding: 0px 150px;"><div class="slick-track" style="opacity: 1; width: 2035px; transform: translate3d(407px, 0px, 0px);"><div class="item text-center slick-slide slick-current slick-center" data-slick-index="0" aria-hidden="true" style="width: 337px;" tabindex="0" role="tabpanel" id="slick-slide10" aria-describedby="slick-slide-control10">
+                        <img src="https://images.ctfassets.net/lyvtxhzy9zgr/7DY2SOQhqApZObTguUXhA6/7677406b72c8bab0408dd77fd5153184/kruiden-als-alledaags-product.jpg?h=250" class="img-fluid d-block mx-auto" alt="">
+                    </div><div class="item text-center slick-slide" data-slick-index="1" aria-hidden="true" style="width: 337px;" tabindex="0" role="tabpanel" id="slick-slide11" aria-describedby="slick-slide-control11">
+                        <img src="https://images.ctfassets.net/lyvtxhzy9zgr/7DY2SOQhqApZObTguUXhA6/7677406b72c8bab0408dd77fd5153184/kruiden-als-alledaags-product.jpg?h=250" class="img-fluid d-block mx-auto" alt="">
+                    </div><div class="item text-center slick-slide" data-slick-index="2" aria-hidden="true" style="width: 337px;" tabindex="0" role="tabpanel" id="slick-slide12" aria-describedby="slick-slide-control12">
+                        <img src="https://images.ctfassets.net/lyvtxhzy9zgr/7DY2SOQhqApZObTguUXhA6/7677406b72c8bab0408dd77fd5153184/kruiden-als-alledaags-product.jpg?h=250" class="img-fluid d-block mx-auto" alt="">
+                    </div><div class="item text-center slick-slide" data-slick-index="3" aria-hidden="true" style="width: 337px;" tabindex="-1" role="tabpanel" id="slick-slide13" aria-describedby="slick-slide-control13">
+                        <img src="https://images.ctfassets.net/lyvtxhzy9zgr/7DY2SOQhqApZObTguUXhA6/7677406b72c8bab0408dd77fd5153184/kruiden-als-alledaags-product.jpg?h=250" class="img-fluid d-block mx-auto" alt="">
+                    </div><div class="item text-center slick-slide" data-slick-index="4" aria-hidden="true" style="width: 337px;" tabindex="-1" role="tabpanel" id="slick-slide14" aria-describedby="slick-slide-control14">
+                        <img src="https://images.ctfassets.net/lyvtxhzy9zgr/7DY2SOQhqApZObTguUXhA6/7677406b72c8bab0408dd77fd5153184/kruiden-als-alledaags-product.jpg?h=250" class="img-fluid d-block mx-auto" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-
-
-
-<section id="tubes_value_packs" class="products padding-100 background-fullwidth background-fixed"style="background-image: url(assets/img/home_background_products.jpg);">
-     <div class="container-fluid">
-         <div class="row">
-             <div class="text-center col-12 section-title" data-aos="fade-zoom-in">
-                <h3 style="font-family:monad"><span style="background-color: #51707f; color: #ffff; text-shadow: 0.4px 0.4px 0 #3f4450">&nbsp;LOSSE&nbsp;THEE&nbsp;</span></h3>
-                <h3><span style="font-family:monad; text-shadow: 0.4px 0.4px 0 #3f4450">ASSORTIMENT</span></h3>
-                 <div class="space-10"></div><br>
-                 <p><big style="font-family:papyrus">Tubes & Value packs</big></p>
-                 <div class="space-25"></div>
-             </div>
-         </div>
-         <div class="row align-items-center">
-             <div class="col-12">
-                 <div class="products-slider" data-aos="fade-left">
-                     <div class="item text-center">
-                         <img src="[[shopifyCollection 226866954406 buttonDestination=modal]]" class="img-fluid d-block mx-auto" alt="">
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <div class="row padding-50">
-             <div class="text-center col-12 section-title" data-aos="fade-zoom-in">
-                 <div class="space-50"></div>
-                 <h2 style="font-family:monad"><span style="background-color: #566845; color: #ffff; text-shadow: 0.4px 0.4px 0 #3f4450"><small>&nbsp;GOED VOOR LICHAAM...&nbsp;<br>&nbsp;&&nbsp;GEEST&nbsp;</small></h2>
-                 <div class="space-25"></div>
-                 <p style="font-family:candara">Op zoek naar veilige producten zonder bijwerkingen, rechtstreeks uit de natuur<br> en bewezen effectief middels klinisch onderzoek? </p>
-                 <div class="space-25"></div>
-                 <a style="font-family:monad" href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-siberische-kruidenthee" target="_blank" class="btn btn-primary shadow btn-colord btn-theme"><span>LEES MEER...</span></a>
-             </div>
-         </div>
-     </div>
- </section>
+<!--Start shopify slider-->
+<section id="slider-shopify">
+<div class="container-fluid">
+    <div class="row align-items-center">
+        <div class="col-12">
+            <div class="products-slider" data-aos="fade-up">
+                <div class="item text-center">
+                    <img src="[[shopifyCollection {{ 269467320486 }}]]
+                    {{ content }}
+                    [[shopifyCollection {{ 269467320486 }}]]" class="img-fluid d-block mx-auto" alt="herbs from siberia">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+<!--End shopify slider-->
