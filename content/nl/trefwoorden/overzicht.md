@@ -9,7 +9,7 @@ publish:
 tags:
 - overzicht trefwoorden
 meta:
-  description: Bekijk de trefwoorden van Ivan's Herbs
+  description: Bekijk de trefwoorden van onze artikelen.
   keywords: trefwoorden
 fragments:
   header:

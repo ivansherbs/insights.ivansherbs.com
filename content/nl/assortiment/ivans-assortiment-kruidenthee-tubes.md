@@ -19,6 +19,7 @@ tags:
 - weerstand
 - werk
 - producten
+- overzicht trefwoorden
 publish:
   author: onze redactie
 fragments:
