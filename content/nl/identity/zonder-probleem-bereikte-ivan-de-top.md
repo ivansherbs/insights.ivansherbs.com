@@ -21,6 +21,8 @@ contentful:
 ---
 _“Een gezondere levensstijl vereist een holistische benadering. Het gebruik van kruidenthee uit Siberië is een eenvoudige manier om de kans op gezondheidsproblemen te verminderen”_, vertelt Ivan de Vries.
 
+<hr>
+
 Ivan en Michael (Eén van de oprichters Ivan's Herbs) hebben elkaar destijds ontmoet gedurende een meerdaagse expeditie naar de top van de Belukha.De hoogste berg in Siberië.
 
 Ivan (63) weet vanwege zijn ijzersterke conditie de jongere expeditieleden zowaar bij te benen. Het leuke aan deze gebeurtenis. De oude wijze man wist door ervaring de jongere expeditieleden door de bare tijden heen te begeleiden. De extreme weersomstandigheden liegen er namelijk niet om...

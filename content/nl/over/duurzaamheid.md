@@ -1,6 +1,6 @@
 ---
 layout: article.html
-title: OPRICHTER ECODORP OVER DUURZAAMHEID
+title: OPRICHTER ECODORP OVER CHAZHAEVKA
 url: /nl/over/oprichter-ecodorp-over-duurzaamheid
 type: interview
 category: community building

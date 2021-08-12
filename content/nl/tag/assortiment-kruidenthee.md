@@ -1,9 +1,22 @@
 ---
-layout: collection.html
+layout: article_with_shopify.html
+title: "TAGS: ASSORTIMENT KRUIDENTHEE"
+url: nl/tags/assortiment kruidenthee
+type: article
+category:
+publish:
+  author: onze redactie
+tags:
+meta:
+  description:
+  keywords:
+banner:
+  image: CqmASdXlJSZdrbkKrhgL7
+contentful:
+  imageOptions:
+    fm: jpg
+    q: 80
 ---
-{%- assign sortedTags = collections | sorted_lowercase_keys -%}
-{%- for tag in sortedTags -%}
-  {% if tag != 'all' %}
   <section id="{{ tag | title_case: 'NL' }}">
     <div class="row">
         <div class="col-md-12 col-lg-12" data-aos="fade-zoom-in">
