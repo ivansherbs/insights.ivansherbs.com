@@ -5,7 +5,7 @@ url: /nl/collectie-artikelen/effectiviteit
 type: article
 category: Ivan Chai
 tags:
-- collectie
+- collectie artikelen
 meta:
   description: Kruiden rechtstreeks uit de natuur bewezen effectief middels klinisch onderzoek. Vanwege grootschalig langdurige onderzoek tevens bevestigd door het EMA. De resultaten liegen er niet om... Benieuwd naar onze inzichten?
   keywords: kruiden, EMA, kruidengeneeskunde, voordelen
