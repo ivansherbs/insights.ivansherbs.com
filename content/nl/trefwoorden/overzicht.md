@@ -22,8 +22,9 @@ contentful:
     fm: jpg
     q: 50
 ---
+<span style="tekst-align:center">
 
-<a  href="/nl/#Assortiment kruidenthee" style="font-family:papyrus; tekst-align:center">Assortiment kruidenthee</a><hr>
+<a  href="/nl/#Assortiment kruidenthee" style="font-family:papyrus">Assortiment kruidenthee</a><hr>
 
 <a  href="/nl/#Collectie" style="font-family:papyrus">Collectie</a><hr>
 
@@ -44,12 +45,13 @@ contentful:
 <a  href="/nl/#Levensstijl" style="font-family:papyrus">Levensstijl</a><hr>
 
 <a  href="/nl/#Maag- & darmklachten" style="font-family:papyrus">Maag- & darmklachten</a><hr>
+
 <a  href="/nl/#Man" style="font-family:papyrus">Man</a><hr>
 
 <a  href="/nl/#Medicijn" style="font-family:papyrus">Medicijn</a><hr>
 
-<a  href="/nl/#Mentale klachten" style="font-family:papyrus">Mentale klachten
-</a><hr>
+<a  href="/nl/#Mentale klachten" style="font-family:papyrus">Mentale klachten</a><hr>
+
 <a  href="/nl/#Milieu" style="font-family:papyrus">Milieu</a><hr>
 
 <a  href="/nl/#Moeder" style="font-family:papyrus">Moeder</a><hr>
@@ -77,3 +79,5 @@ contentful:
 <a  href="/nl/#Werk" style="font-family:papyrus">Werk</a><hr>
 
 <a  href="/nl/#Ziekten" style="font-family:papyrus">Ziekten</a><hr>
+
+</span>
