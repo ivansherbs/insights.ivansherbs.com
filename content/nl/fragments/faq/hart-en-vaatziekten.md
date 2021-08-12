@@ -18,7 +18,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_2">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Waardoor krijg je hart- en vaatziekten?
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Waardoor krijgen we hart- en vaatziekten?
                                     </button>
                                 </h5>
                             </div>
@@ -37,7 +37,7 @@
                             </div>
                             <div id="collapse_3" class="collapse" aria-labelledby="heading_3" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara; text-align:center">✔ Antioxiderende werking<br><br>Ivan Chai zit boordevol tannines. Tannines zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op je hart- en vaatstelsel.</p>
+                                    <p style="font-family:candara; text-align:center">✔ Antioxiderende werking<br><br>Ivan Chai zit boordevol tannines. Tannines zijn verantwoordelijk voor de werking van antioxidanten. Antioxidanten hebben een positieve werking op ons hart- en vaatstelsel.</p>
                                 </div>
                             </div>
                         </div>

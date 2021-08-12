@@ -237,7 +237,7 @@
                             <div class="blog-box">
                                 <div class="blog-img" style="width: 100%; box-shadow: 7px 11px 21px #8f8a72;">
                                 </div>
-                                <div class="blog-details" style="text-align:center">
+                                <div class="blog-details">
                                     {% if publish %}
                                     <ul class="news-meta">
                                         {% if publish.author %}
@@ -274,7 +274,7 @@
                                     <ul class="tags" style="font-family:papyrus">
                                         <span style="padding:10px">{% i18n 'tags' language %}Tags{% endi18n %}:</li>
                                         {% for tag in tags %}
-                                        <span style="padding:10px"><a href="tags/{{ tag }}">{{ tag }}</a></li>
+                                        <span style="padding:10px"><a href="/nl/#{{ tag }}">{{ tag }}</a></li>
                                         {% endfor %}
                                     </ul>
                                     {% endif %}
