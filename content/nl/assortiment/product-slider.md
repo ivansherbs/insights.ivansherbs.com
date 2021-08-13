@@ -88,3 +88,54 @@ shopify:
           </div>
       </div>
 <!-- End RIGHT side Articles below Page Head -->
+
+
+
+
+
+<section>
+  <div class="row">
+      <div style="text-align:center;" class="col-sm-3">
+                  <a href="/nl/assortiment/ivans-assortiment-kruidenthee-tubes/">
+              <img style="float: left; padding:5px; border: 0px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc;-moz-border-radius:15px;-webkit-border-radius:15px;Border-radius:15px; margin-left:15%;margin-right:15%;margin-bottom:15px;margin-top:50px;" src="https://images.ctfassets.net/lyvtxhzy9zgr/2wOzYAJY52SwspFuooWAV5/8e809b647499fa1bb662d663f7324e64/kruidenthee_ivan_chai.jpg?w=280&amp;h=250&amp;fit=fill"></a>
+                <div style="text-align:center; padding:25px">
+                    <a href="/nl/assortiment/ivans-assortiment-kruidenthee-tubes/"></a>
+                    <a href="/nl/assortiment/ivans-assortiment-kruidenthee-tubes/">SIBERISCHE KRUIDENTHEE</a>
+              </div>
+        </div>
+  <div style="text-align:center;" class="col-sm-6">
+      <img style="float: left; padding:6px; border: 0px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc;-moz-border-radius:190px;-webkit-border-radius:190px;Border-radius:190px; margin-left:80px;margin-right:80px;margin-bottom:30px;margin-top:30px;" src="https://images.ctfassets.net/lyvtxhzy9zgr/3JweT13EX2EwuunkJL6l4y/a4e5bbbf77f15b0f159cea9c374fba98/women-holding-tea.png?h=220">
+            <div class="blog-details" style="padding-top: 25px; padding-bottom:75px">
+                <div class="space-15"></div>
+                    <h1 style="font-family:monad;margin-top:30px"><a href="/nl/assortiment/ivans-assortiment-kruidenthee/">5 HEERLIJKE SMAKEN</a></h1>
+                        <div class="space-20"></div>
+                        <h5 style="font-family:candara; margin-bottom:30px; text-align: justify;"><span style="font-family:candara; margin-bottom:30px; color: #8f8a72">KRUIDENTHEE </span>Ontdek welke kruiden wij gebruiken voor onze verschillende Siberische kruidentheeën.</h5>
+                        <div class="space-15"><a href="/nl/assortiment/ivans-assortiment-kruidenthee/" target="_blank" class="btn btn-primary shadow btn-colord btn-theme" style="font-family:monad; color:white">
+                        <span>LEES MEER...</span></a><hr>
+                        <div class="space-15">
+                    </div>
+                </div>
+            </section>
+
+<section>
+<div class="row">
+  <div style="text-align:center;" class="col-sm-3">
+      <a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/">
+              <img style="float: left; padding:5px; border: 0px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc;-moz-border-radius:15px;-webkit-border-radius:15px;Border-radius:15px; margin-left:15%;margin-right:60px;margin-bottom:15px;margin-top:50px;" src="https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?w=280&amp;h=250&amp;fit=fill"></a>
+                <div style="text-align:center; padding:25px">
+                <a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/"></a>
+                <a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/">IVAN CHAI: GROOTMOEDERS KENNEN DE VOORDELEN</a><a>
+                </a></div><a>
+            </a></div><a>
+  </a><div style="text-align:center;" class="col-sm-6"><a>
+            </a><h3 style="font-family:monad;margin-top:30px; text-align: left; padding:15px; width: 600px"><a></a><a href="/nl/artikel/kruidengeneeskunde/1-kruidenthee-uit-siberie-als-medicijn-zonder-bijwerkingen/">KRUIDENTHEE UIT SIBERIË ALS MEDICIJN ZONDER BIJWERKINGEN</a></h3>
+                <div class="col" style="text-align:left; width: 700px"><span style="font-family:candara; margin-bottom:30px; color: #8f8a72">KRUIDENGENEESKUNDE </span>
+                    <span style="font-family: candara; font-size:larger;">Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel...</span></div>
+                    <div class="space-25"></div>
+                    <a href="/nl/artikel/kruidengeneeskunde/1-kruidenthee-uit-siberie-als-medicijn-zonder-bijwerkingen/" target="_blank" class="btn btn-primary shadow btn-colord btn-theme" style="font-family:monad; color:white">
+                        <span>LEES MEER...</span></a>
+                        <div class="space-10"></div><hr>
+                    </div>
+                </div>
+          </section>
+
