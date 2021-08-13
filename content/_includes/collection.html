@@ -184,7 +184,32 @@
     </header>
     <!-- End Header -->
 
-<!-- Start LEFT side Articles below Page Head -->
+    <!-- Start Page Head -->
+    <section id="top" class="page-head background-withcolor">
+        <div class="parent">
+            {% if banner.image %}
+            <div class="image-container">
+                <img src="{{ generated.contentful.banner_images[banner.image] }}?w=1900&h=700&fit=fill" title="{{ banner.title }}">
+            </div>
+            <div class="overlay-container {{ banner.effect | '' }}"></div>
+            {% endif %}
+            <div class="text-container">
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-md-12">
+                            <h1 style="font-family:monad; color: #75adcf">{{ title }}</h1>
+                            <div style="font-family:monad; background-color: ; color: white; text-align: center; font-size:30px">DE OORSPRONG VAN IVAN CHAI<div class="space-22"><p style="margin:20px"></p>
+                                <a style="font-family:monad" href="/nl/artikel/de-oorsprong-van-ivan-chai" class="btn btn-primary shadow btn-theme"><span>Lees meer...</span></a>
+                            </div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Page Head -->
+
+    <!-- Start LEFT side Articles below Page Head -->
 <div class="row">
     <div class="col-sm-3" style="background-color:WHITE;">
           <a href="/nl/assortiment/ivans-assortiment-kruidenthee-tubes/">
@@ -245,31 +270,6 @@
           </div>
       </div>
 <!-- End RIGHT side Articles below Page Head -->
-
-    <!-- Start Page Head -->
-    <section id="top" class="page-head background-withcolor">
-        <div class="parent">
-            {% if banner.image %}
-            <div class="image-container">
-                <img src="{{ generated.contentful.banner_images[banner.image] }}?w=1900&h=700&fit=fill" title="{{ banner.title }}">
-            </div>
-            <div class="overlay-container {{ banner.effect | '' }}"></div>
-            {% endif %}
-            <div class="text-container">
-                <div class="container">
-                    <div class="row text-center">
-                        <div class="col-md-12">
-                            <h1 style="font-family:monad; color: #75adcf">{{ title }}</h1>
-                            <div style="font-family:monad; background-color: ; color: white; text-align: center; font-size:30px">DE OORSPRONG VAN IVAN CHAI<div class="space-22"><p style="margin:20px"></p>
-                                <a style="font-family:monad" href="/nl/artikel/de-oorsprong-van-ivan-chai" class="btn btn-primary shadow btn-theme"><span>Lees meer...</span></a>
-                            </div></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Page Head -->
 
     <!-- Start Blog Page Section -->
     <section class="blog-without-sidebar blog-page padding-200" style="text-align:center">
