@@ -5,7 +5,6 @@ url: /nl/assortiment/ivans-giftsets
 type: article
 category: Ivan Chai
 tags:
-- assortiment kruidenthee
 - gezin
 - medicijn
 - moeder

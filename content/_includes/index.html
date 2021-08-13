@@ -13,9 +13,9 @@ layout: collection.html
                 </div>
                 {%- for article in collections[tag] -%}
                 <div class="col-md-4" data-aos="fade-up">
-                    <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72; text-align:center; padding:5%; margin-top:40px"><div class="space-25"></div>
+                    <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72; text-align:center; padding:5%; margin-top:40px">
                         <div class="blog-img">
-                            <a href="{{ article.url }}"><img style="padding:8%" src="{{ generated.contentful.banner_images[article.data.banner.image] }}?w=440&h=250&q=75&fit=fill" class="img-fluid" alt=""></a>
+                            <a href="{{ article.url }}"><img style="padding:5%" src="{{ generated.contentful.banner_images[article.data.banner.image] }}?w=440&h=250&q=75&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>

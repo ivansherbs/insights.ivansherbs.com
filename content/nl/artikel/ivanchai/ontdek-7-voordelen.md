@@ -7,7 +7,6 @@ category: Ivan Chai
 publish:
   author: Ivan de Vries
 tags:
-- assortiment kruidenthee
 - ivan chai
 - weerstand
 - ontsteking

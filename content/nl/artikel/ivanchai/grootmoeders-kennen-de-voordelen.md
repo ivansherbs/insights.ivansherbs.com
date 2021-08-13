@@ -7,7 +7,6 @@ category: Ivan Chai
 publish:
   author: Ivanka van den Berg
 tags:
-- assortiment kruidenthee
 - ivan chai
 - weerstand
 - ontsteking

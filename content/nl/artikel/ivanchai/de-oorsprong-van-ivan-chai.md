@@ -7,7 +7,6 @@ category: Ivan Chai
 publish:
   author: Sasha de Jong
 tags:
-- assortiment kruidenthee
 - ivan chai
 - milieu
 - eyeopener
