@@ -1,7 +1,7 @@
 ---
 layout: article.html
-title: KRUIDEN UIT SIBERIË ALS MEDICIJN ZONDER BIJWERKINGEN
-url: /nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen
+title: KRUIDENTHEE UIT SIBERIË ALS MEDICIJN ZONDER BIJWERKINGEN
+url: /nl/kruidenthee-uit-siberie-als-medicijnen-zonder-bijwerkingen
 type: article
 category: kruidengeneeskunde
 publish:

@@ -36,11 +36,11 @@ Een overzicht van onze basis artikelen om kruidengeneeskunde op waarde te kunnen
                  <div style="padding: 15px">
                     <div class="blog-box">
                         <div class="blog-img">
-                            <a href="/nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/18SkWU1jM9fTnQJDqdlXXD/f5994da9591c6268fd7a6bc1a5e084bd/Kruiden_uit_Siberi___als_medicijnen_zonder_bijwerkingen.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
+                            <a href="/nl/kruidenthee-uit-siberie-als-medicijnen-zonder-bijwerkingen"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/18SkWU1jM9fTnQJDqdlXXD/f5994da9591c6268fd7a6bc1a5e084bd/Kruiden_uit_Siberi___als_medicijnen_zonder_bijwerkingen.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <p style="font-family:monad;text-align:center"><a href="/nl/kruiden-uit-siberie-als-medicijnen-zonder-bijwerkingen">KRUIDEN UIT SIBERIË ALS MEDICIJN ZONDER BIJWERKINGEN</a></p>
+                            <p style="font-family:monad;text-align:center"><a href="/nl/kruidenthee-uit-siberie-als-medicijnen-zonder-bijwerkingen">KRUIDEN UIT SIBERIË ALS MEDICIJN ZONDER BIJWERKINGEN</a></p>
                             <div class="space-25"></div>
                             <!-- Place extra copy here -->
                             <div class="space-25"></div>
