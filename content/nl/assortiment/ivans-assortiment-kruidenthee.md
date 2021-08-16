@@ -137,12 +137,6 @@ Ons assortiment kleinere volumes. Benieuwd met wat voor een etherische oliën, s
 
 [[shopifyCollection 269222150310 buttonDestination=modal]]
 
-### Upgrade
-
-Maak uw keuze compleet met Ivan's Upgrade: thee accessoires en meer...
-
-[[shopifyCollection 6732579930278 buttonDestination=modal]]
-
 ### Extra Veel Volume
 
 Voor de enorme theedrinker die er gewoon géén genoeg van kan krijgen. Met extra veel volume kost een kopje thee pak 'm beet 10 cent.

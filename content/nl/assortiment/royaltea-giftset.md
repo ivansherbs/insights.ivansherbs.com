@@ -47,10 +47,6 @@ shopify:
 
 [[shopifyCollection 269467484326 buttonDestination=modal]]
 
-### Upgrade
-
-[[shopifyCollection 6732579930278 buttonDestination=modal]]
-
   <!-- Start Assortiment -->
 <section>
 <h3 style="font-family:papyrus; background-color: #134d7e; color: #fff; text-align: center; margin-bottom:auto; padding:10px">Assortiment</h3>    <div class="space-25"></div>

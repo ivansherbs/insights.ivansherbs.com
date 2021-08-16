@@ -40,8 +40,8 @@ store:
   EN: Store
   NL: Winkel
 currency:
-  EN: $
-  NL: €
+  EN: currency
+  NL: valuta
 all_articles:
   EN: All articles
   NL: Alle artikelen
@@ -57,9 +57,6 @@ giftset:
 collection:
   EN: COLLECTION
   NL: ASSORTIMENT
-$:
-  EN: $
-  NL: €
 history:
   EN: History
   NL: Geschiedenis
@@ -87,11 +84,6 @@ benefits_ema:
 effectiveness:
   EN: Effectiveness
   NL: Effectiviteit
-
-#vc.ivansherbs.com
-best_sellers:
-  EN: Best sellers
-  NL: Bestsellers
 
 # Shopify integrations
 shopify.product.button:
