@@ -109,7 +109,7 @@ shopify.cart.button:
 shopify.cart.total:
   NL: Subtotaal
 shopify.cart.currency:
-  NL: EUR
+  NL: €
 shopify.cart.notice:
   NL: Verzendkosten en kortingscodes worden toegevoegd bij het afrekenen.
 shopify.cart.noteDescription:
