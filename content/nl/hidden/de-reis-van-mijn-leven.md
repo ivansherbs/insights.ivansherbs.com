@@ -61,7 +61,7 @@ Dit heeft mij aan het denken gezet. Ik had besloten een nieuwe uitdaging aan te 
 
 Meerdaagse expedities staan erom bekend gepaard te gaan met vele hoogte- als dieptepunten. Het heeft mij uitgedaagd waardoor ik als mens ben verandert. Uiteraard bewandelt men deze expeditie niet alleen. Zou ook vreemd zijn gezien de verraderlijke weersomstandigheden. De top behalen is een prestatie die als team wordt neergezet.
 
-Gedurende deze expeditie heb ik onder andere een herborist ontmoet genaamd Ivan Alexandrovitsj. Ivan was ten tijde van de expeditie met 63 jaar veruit de oudste van de expeditie groep. Gedurende de reist viel mij dan ook iets op.
+Gedurende deze expeditie heb ik onder andere een herborist ontmoet genaamd Ivan de Vries. Ivan was ten tijde van de expeditie met 63 jaar veruit de oudste van de expeditie groep. Gedurende de reist viel mij dan ook iets op.
 
 Iedereen uit de groep was namelijk top fit. Echter merkten wij dat Ivan de groep met veel plezier door de meest barre tijden wist heen te slepen. Ik was gefascineerd door zijn doorzettingsvermogen en raakte in gesprek.
 

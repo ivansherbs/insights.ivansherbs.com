@@ -14,9 +14,9 @@ contentful:
 ---
 [[contentfulImage 3RdpoTXVQbjL2XEkTzx8R8]]
 
-[**-->>Terug naar het artikel<<--**](#https://insights.ivansherbs.com/nl/artikel/een-probleem-waar-je-niet-graag-mee-rondloopt#terug_en_lees_verder_diarree)
+[**-->>Terug naar het artikel<<--**](nl/artikel/een-probleem-waar-je-niet-graag-mee-rondloopt#terug_en_lees_verder_diarree)
 
 [[shopifyCollection 269172474022 buttonDestination=modal]]
 
-### Referentie afbeelding:
-[Diarree_in_toilet](https://commons.wikimedia.org/wiki/File:Selles_anormales.jpg
+### Bron afbeelding:
+[het kleinste kamertje in huis](https://commons.wikimedia.org/wiki/File:Selles_anormales.jpg)

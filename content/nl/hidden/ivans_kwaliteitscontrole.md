@@ -5,7 +5,7 @@ url: /nl/artikel/ivans-kwaliteitscontrole
 type: article
 category: Ivan Chai
 publish:
-  author: Ivanka Lopukhina
+  author: Ivanka van den Berg
 tags:
 - ivan chai
 meta:

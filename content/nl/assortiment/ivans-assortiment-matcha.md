@@ -1,20 +1,22 @@
 ---
 layout: article_with_shopify.html
-title: Matcha
+title: MATCHA
 url: /nl/assortiment/ivans-assortiment-siberische-matcha
 type: article
 category: siberische matcha
 tags:
-- assortiment
+- producten
 meta:
   description: Ivan's Herbs biedt naast de collectie kruidenthee ook een assortiment aan Siberische matcha aan. Matcha is meer dan alleen thee. Ooit matcha gecombineerd met drank of voeding...?
   keywords: matcha, kruiden, thee, assortiment, pakketten, pre order , drank, voeding, collectie, kruidenthee, water, 1 kg
 fragments:
   header:
-  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
+  footer:
 banner:
   image: 1UEc7i81hlGMcqwxAds8KY
   effect: o-lg-60d-black
+publish:
+  author: Ivan's Herbs
 contentful:
   imageOptions:
     fm: jpg
@@ -22,42 +24,86 @@ contentful:
 shopify:
   language: NL
 ---
-## Pre order | Matcha 200 gram
+### Matcha 200 gram
 
 Matcha bestaat uit kruiden in poedervorm. Matcha is hierdoor méér dan alleen matcha thee. Ooit matcha gecombineerd met drank of voeding...?
 
 [[shopifyCollection 269233684646 buttonDestination=modal]]
 
-## Pre order | Upgrade
+### Upgrade
 
 Maak uw keuze compleet met Ivan's Upgrade: Matcha accessoires...
 
 [[shopifyCollection 6821349163174 buttonDestination=modal]]
 
-## Pre order | Giftset
+### Giftset
 
 [[shopifyCollection 269467484326 buttonDestination=modal]]
 
-## Pre order | 1 kg
+### 1 kg
 
 Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water?
 
 [[shopifyCollection 267300176038 buttonDestination=modal]]
 
-## Bekijk video (1min)
-
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
-
-## Ivan's | Assortiment
-
-Benieuwd naar onze kruiden uit Siberië?
-
-* [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
-
-* [Pre order](/nl/assortiment/pre-order)
-
-* [Kruidenthee](/nl/assortiment/ivans-assortiment-siberische-kruidenthee)
-
-* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
-
-* [Supplementen](/nl/assortiment/ivans-assortiment-supplementen)
+  <!-- Start Assortiment -->
+<section>
+<h3 style="font-family:papyrus; background-color: #134d7e; color: #fff; text-align: center; margin-bottom:auto; padding:10px">Assortiment</h3>
+    <div class="space-25"></div>
+    <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
+        <div class="space-25" style="background-color:white"></div>
+            <div class="row align-items-center" style="background-color:white">
+                <div class="col-lg-4 col-md-6 col-12 count-up">
+                    <div class="fact-box text-center aos-init aos-animate" style="background-image: url(assets/img/eco7-4.jpg); background-color:white" data-aos="fade-up" data-aos-delay="150">
+                        <a href="/nl/assortiment/ivans-giftsets"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3UdgQFddJals5LS9f7YzWg/edb76086ada51c95d2bfaeb76585d06b/royalteagiftset-field.JPG?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
+                            <div class="space-25"></div>
+                        <a href="/nl/assortiment/ivans-giftsets" style="font-family:monad ; margin: auto">GIFTSETS</a>
+                            <div class="space-25"></div>
+                        </div>
+                    </div>
+                <div class="col-lg-4 col-md-6 col-12">
+                    <div class="fact-box text-center count-down aos-init aos-animate" style="background-image: url(assets/img/eco7-2.jpg); background-color:white" data-aos="fade-up" data-aos-delay="350">
+                        <a href="/nl/assortiment/ivans-assortiment-siberische-kruidenthee"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6cLNmpKKbxeuGKGCFURgOB/4b4c3c57428e27ca2384a765a28dcd60/bekijkonsassortiment.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
+                            <div class="space-25"></div>
+                        <a href="/nl/assortiment/ivans-assortiment-siberische-kruidenthee" style="font-family:monad ; margin: auto">KRUIDENTHEE</a>
+                            <div class="space-25"></div>
+                        </div>
+                    </div>
+                <div class="col-lg-4 col-md-6 col-12">
+                    <div class="fact-box text-center count-up aos-init aos-animate" style="background-image: url(assets/img/eco7-3.jpg); background-color:white" data-aos="fade-up" data-aos-delay="550">
+                        <a href="/nl/assortiment/ivans-assortiment-kruidenthee/tubes"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2wOzYAJY52SwspFuooWAV5/8e809b647499fa1bb662d663f7324e64/kruidenthee_ivan_chai.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
+                            <div class="space-25"></div>
+                        <a href="/nl/assortiment/ivans-assortiment-kruidenthee/tubes" style="font-family:monad ; margin: auto">LOSSE TUBES</a>
+                            <div class="space-25"></div>
+                        </div>
+                    </div>
+                <div class="col-lg-4 col-md-6 col-12 count-up">
+                    <div class="fact-box text-center aos-init aos-animate" style="background-image: url(assets/img/eco7-4.jpg); background-color:white" data-aos="fade-up" data-aos-delay="150">
+                        <a href="/nl/assortiment/ivans-assortiment-etherische-olien"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/dEvkgc7HH6nQSdpg9wGLl/6eac7e29feae751e0dd3f12b10858d59/essential_oil.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
+                            <div class="space-25"></div>
+                        <a href="/nl/assortiment/ivans-assortiment-etherische-olien" style="font-family:monad ; margin: auto">ETHERISCHE OLIËN</a>
+                            <div class="space-25"></div>
+                        </div>
+                    </div>
+                <div class="col-lg-4 col-md-6 col-12">
+                    <div class="fact-box text-center count-down aos-init aos-animate" style="background-image: url(assets/img/eco7-2.jpg); background-color:white" data-aos="fade-up" data-aos-delay="350">
+                        <a href="/nl/assortiment/ivans-assortiment-supplementen"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7CuvA91NO0YXMjjoZVMkO2/9fc00729cec5f048bc5b1ab669a9ff37/supplements.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
+                            <div class="space-25"></div>
+                        <a href="/nl/assortiment/ivans-assortiment-supplementen" style="font-family:monad ; margin: auto">SUPPLEMENTEN</a>
+                            <div class="space-25"></div>
+                        </div>
+                    </div>
+                <div class="col-lg-4 col-md-6 col-12">
+                    <div class="fact-box text-center count-up aos-init aos-animate" style="background-image: url(assets/img/eco7-3.jpg); background-color:white" data-aos="fade-up" data-aos-delay="550">
+                        <a href="/nl/assortiment/ivans-assortiment-siberische-matcha"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/1UEc7i81hlGMcqwxAds8KY/2bd4349a2da21ca47ead1d70998cf002/matcha.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
+                            <div class="space-25"></div>
+                        <a href="/nl/assortiment/ivans-assortiment-siberische-matcha" style="font-family:monad ; margin: auto">MATCHA</a>
+                            <div class="space-25"></div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <!-- End Assortiment -->

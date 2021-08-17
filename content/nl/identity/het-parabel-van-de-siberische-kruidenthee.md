@@ -1,15 +1,14 @@
 ---
 layout: article_with_shopify.html
-title: "Het parabel van de Siberische kruidenthee: Ivan Chai"
+title: "HET PARABEL VAN DE SIBERISCHE KRUIDENTHEE: IVAN CHAI"
 url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee-ivan-chai
 type: geschiedenis
 category: Ivan Chai
 publish:
-  author: Sasha Popov
+  author: Sasha de Jong
 tags:
 - geschiedenis
 - ivan chai
-- eyeopener
 meta:
   description: Ontdek de geschiedenis van Ivan Chai. Het waren de monniken ter hoogte van de Altaj... [lees het volledige verhaal]
   keywords: geschiedenis, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, biologisch, alledaags product, geneeskrachtige werking, 17e eeuw, rusland, russische revolutie, Kapori Chai, Pu er
@@ -50,6 +49,8 @@ De dames gaven door deze fysieke en mentale veranderingen de voorkeur aan Ivan C
 Wellicht overbodig om te melden ging de voorkeur voor de heren in de wintermaanden, wanneer hier ruimte voor was, direct uit naar de beschikbare alcoholische dranken.
 
 [[contentfulImage 6GcDuKoTJ8zPpNCrw9V5cS]]
+
+<hr>
 
 ## Seizoensgebonden smaakverandering
 

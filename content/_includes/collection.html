@@ -79,17 +79,20 @@
         }
         .single-blog-page .blog-box .blog-details {
             font-size: 20px;
+            font-family: candara;
         }
         .single-blog-page .blog-box .blog-details p {
             font-size: 1em;
             line-height: 1.6em;
             margin: 1.5em 0;
+            font-family: candara
         }
         .single-blog-page .blog-box .blog-details h2 {
-            font-size: 1.5em; style="font-family:monad;
+            font-size: 1.5em; style=font-family:monad;
         }
         .single-blog-page .blog-box .blog-details h3 {
             font-size: 1.2em;
+            padding: 10px;
         }
     </style>
 
@@ -124,51 +127,54 @@
                 </button>
                 <div class="collapse navbar-collapse" id="main_menu">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item">
-                            <a class="nav-link anchor active" href="{{ env.RESOURCE_BASE_URL }}/">{% i18n 'home' language %}Home{% endi18n %}</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family:monad">
+                                {% i18n 'discover' language %}DISCOVER{% endi18n %} IVAN CHAI
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item anchor" href="/nl/artikel/ivanchai/ontdek-7-voordelen/" target="_blank" style="font-family:papyrus">{% i18n 'benefits' language %}Benefits{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="/nl/artikel/ivanchai/de-oorsprong-van-ivan-chai/" target="_blank" style="font-family:papyrus">{% i18n 'the_origin_of' language %}The origin of...{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="/nl/artikel/het-parabel-van-de-siberische-kruidenthee-ivan-chai" target="_blank" style="font-family:papyrus">{% i18n 'history' language %}History{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="/nl/assortiment/ivans-assortiment-siberische-kruidenthee" target="_blank" style="font-family:papyrus">{% i18n 'more_information_question' language %}More information?{% endi18n %}</a>         </div>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                {% i18n 'discover' language %}Discover{% endi18n %} Ivan Chai
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family:monad">
+                                IVAN'S INSIGHTS
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/articles/ivanchai/ontdek-7-voordelen/" target="_blank">{% i18n 'benefits' language %}Benefits{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/articles/ivanchai/de-oorsprong-van-ivan-chai/" target="_blank">{% i18n 'the_origin_of' language %}The origin of...{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/artikel/het-parabel-van-de-siberische-kruidenthee-ivan-chai" target="_blank">{% i18n 'history' language %}History{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/5-heerlijke-smaken" target="_blank">{% i18n 'more_information_question' language %}More information?{% endi18n %}</a>         </div>
-                        </li>
+                                <a class="dropdown-item anchor" href="/nl/#Top3" style="font-family:papyrus">Top 3</a>
+                                <a class="dropdown-item anchor" href="/nl/#Collectie artikelen" style="font-family:papyrus">Collectie artikelen</a>
+                                <a class="dropdown-item anchor" href="/nl/#Community building" style="font-family:papyrus">Community building</a>
+                                <a class="dropdown-item anchor" href="/nl/#Man" style="font-family:papyrus">Man</a>
+                                <a class="dropdown-item anchor" href="/nl/#Medicijn" style="font-family:papyrus">Medicijn</a>
+                                <a class="dropdown-item anchor" href="/nl/#Vrouw" style="font-family:papyrus">Vrouw</a>
+                                <a class="dropdown-item anchor" href="/nl/trefwoorden/overzicht/" style="font-family:papyrus">Overzicht trefwoorden</a>
+                                </div>
+                            </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Ivan's Insights
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family:monad">
+                                {% i18n 'collection' language %}COLLECTION{% endi18n %}
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                 <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/#{{ tag | title_case: 'NL' }}" target="_blank">{{#{{ tag | title_case: 'NL' }}}}</a>
+                                <a class="dropdown-item anchor" href="/nl/assortiment/ivans-assortiment-siberische-kruidenthee" target="_blank" style="font-family:papyrus">{% i18n 'whole_herbs' language %}Whole herbs{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="/nl/assortiment/ivans-assortiment-etherische-olien" target="_blank" style="font-family:papyrus">{% i18n 'essential_oils' language %}Essential oils{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="/nl/assortiment/ivans-assortiment-supplementen" target="_blank" style="font-family:papyrus">{% i18n 'supplements' language %}Supplements{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="/nl/assortiment/ivans-assortiment-matcha" target="_blank" style="font-family:papyrus">{% i18n 'matcha' language %}Matcha{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="/nl/assortiment/pre-order" target="_blank" style="font-family:papyrus">Pre order</a>
+                                <a class="dropdown-item anchor" href="/nl/assortiment/ivans-giftsets" target="_blank" style="font-family:papyrus">Giftsets</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                {% i18n 'collection' language %}Collection{% endi18n %}
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family:monad">
+                                {% i18n 'about' language %}ABOUT{% endi18n %}
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-siberische-kruidenthee" target="_blank">{% i18n 'whole_herbs' language %}Whole herbs{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-etherische-olien" target="_blank">{% i18n 'essential_oils' language %}Essential oils{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-supplementen" target="_blank">{% i18n 'supplements' language %}Supplements{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-matcha" target="_blank">{% i18n 'matcha' language %}Matcha{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/pre-order" target="_blank">Pre order</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-giftsets" target="_blank">Ivan's Giftsets</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                {% i18n 'over' language %}About{% endi18n %}
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/over/over-ivans-herbs" target="_blank">Ivan's Herbs</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/identity/over-de-eco7-standaard/" target="_blank">Eco7</a>
+                                <a class="dropdown-item anchor" href="/nl/over/over-ivans-herbs" target="_blank" style="font-family:papyrus">Onze missie</a>
+                                <a class="dropdown-item anchor" href="/nl/identity/over-de-eco7-standaard/" target="_blank" style="font-family:papyrus">Eco7</a>
                             </div>
                         </li>
                     </ul>
@@ -191,7 +197,10 @@
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-12">
-                            <h1>{{ title }}</h1>
+                            <h1 style="font-family:monad; color: #75adcf">{{ title }}</h1>
+                            <div style="font-family:monad; background-color: ; color: white; text-align: center; font-size:30px">DE OORSPRONG VAN IVAN CHAI<div class="space-22"><p style="margin:20px"></p>
+                                <a style="font-family:monad" href="/nl/artikel/de-oorsprong-van-ivan-chai" class="btn btn-primary shadow btn-theme"><span>Lees meer...</span></a>
+                            </div></div>
                         </div>
                     </div>
                 </div>
@@ -200,115 +209,306 @@
     </section>
     <!-- End Page Head -->
 
-    <!-- Start Blog Page Section -->
-    <section class="blog-without-sidebar blog-page padding-100">
-        <div class="container">
+    <!-- Start Articles below Page Head -->
+    <section>
+        <div class="row">
+            <div style="text-align:center;" class="col-sm-3">
+                        <a href="/nl/assortiment/ivans-assortiment-kruidenthee-tubes/">
+                    <img style="float: left; padding:5px; border: 0px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc;-moz-border-radius:15px;-webkit-border-radius:15px;Border-radius:15px; margin-left:15%;margin-right:15%;margin-bottom:15px;margin-top:50px;" src="https://images.ctfassets.net/lyvtxhzy9zgr/2wOzYAJY52SwspFuooWAV5/8e809b647499fa1bb662d663f7324e64/kruidenthee_ivan_chai.jpg?w=280&amp;h=250&amp;fit=fill"></a>
+                      <div style="text-align:center; padding:25px">
+                          <a href="/nl/assortiment/ivans-assortiment-kruidenthee-tubes/"></a>
+                          <a href="/nl/assortiment/ivans-assortiment-kruidenthee-tubes/">SIBERISCHE KRUIDENTHEE</a>
+                    </div>
+              </div>
+        <div style="text-align:center;" class="col-sm-6">
+            <img style="float: left; padding:6px; border: 0px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc;-moz-border-radius:190px;-webkit-border-radius:190px;Border-radius:190px; margin-left:80px;margin-right:80px;margin-bottom:30px;margin-top:30px;" src="https://images.ctfassets.net/lyvtxhzy9zgr/3JweT13EX2EwuunkJL6l4y/a4e5bbbf77f15b0f159cea9c374fba98/women-holding-tea.png?h=220">
+                  <div class="blog-details" style="padding-top: 25px; padding-bottom:75px">
+                      <div class="space-15"></div>
+                          <h1 style="font-family:monad;margin-top:30px"><a href="/nl/assortiment/ivans-assortiment-kruidenthee/">5 HEERLIJKE SMAKEN</a></h1>
+                              <div class="space-20"></div>
+                              <h5 style="font-family:candara; padding-bottom: 25px; text-align: center; padding-left:8%; padding-right:8%"><span style="font-family:candara; margin-bottom:30px; color: #8f8a72">KRUIDENTHEE </span>Ontdek welke kruiden wij gebruiken voor onze verschillende Siberische kruidentheeën.</h5>
+                              <div class="space-15"><a href="/nl/assortiment/ivans-assortiment-kruidenthee/" target="_blank" class="btn btn-primary shadow btn-colord btn-theme" style="font-family:monad; color:white">
+                              <span>LEES MEER...</span></a><hr>
+                              <div class="space-15">
+                          </div>
+                      </div>
+                  </section>
+
+      <section>
+      <div class="row">
+        <div style="text-align:center;" class="col-sm-3">
+            <a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/">
+                    <img style="float: left; padding:5px; border: 0px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc;-moz-border-radius:15px;-webkit-border-radius:15px;Border-radius:15px; margin-left:60px;margin-right:60px;margin-bottom:15px;margin-top:50px;" src="https://images.ctfassets.net/lyvtxhzy9zgr/2vrE8NyGxDPnLOJ1pX0Bdy/8292e1d2ef8b74ef5deefbcbfe26faf0/grandma.png?w=280&amp;h=250&amp;fit=fill"></a>
+                      <div style="text-align:center; padding:25px">
+                      <a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/"></a>
+                      <a href="/nl/artikel/ivanchai/grootmoeders-kennen-de-voordelen/">IVAN CHAI: GROOTMOEDERS KENNEN DE VOORDELEN</a><a>
+                      </a></div><a>
+                  </a></div><a>
+        </a><div style="text-align:center;" class="col-sm-6"><a>
+                  </a><h3 style="font-family:monad;margin-top:30px; text-align: left; padding:15px; width: 600px"><a></a><a href="/nl/artikel/kruidengeneeskunde/1-kruidenthee-uit-siberie-als-medicijn-zonder-bijwerkingen/">KRUIDENTHEE UIT SIBERIË<br>ALS MEDICIJN<br>ZONDER BIJWERKINGEN</a></h3>
+                      <div class="col" style="text-align:left; width: 700px"><span style="font-family:candara; margin-bottom:30px; color: #8f8a72">KRUIDENGENEESKUNDE </span>
+                          <span style="font-family: candara; font-size:larger;">Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel...</span></div>
+                          <div class="space-25"></div>
+                          <a href="/nl/artikel/kruidengeneeskunde/1-kruidenthee-uit-siberie-als-medicijn-zonder-bijwerkingen/" target="_blank" class="btn btn-primary shadow btn-colord btn-theme" style="font-family:monad; color:white">
+                              <span>LEES MEER...</span></a>
+                              <div class="space-10"></div><hr><div class="space-25"></div>
+                          </div>
+                      </div>
+    <!-- End Article below Page Head -->
+
+    <!-- Start Banner -->
+    <section id=banner>
+    <div class="row"; style="text-align:center">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6" style="padding-bottom:3%"><a href="/nl/artikel/ontdek-7-voordelen"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/18r95rXcgXgaPukSF66csc/68ef0de44f52d80bea18b51765841627/banner_580x400_ontdek_7_voordelen_v1.gif?h=250" style="border:solid; border-width: 1px" ></div></a>
+        <div class="col-sm-3"><a href="/nl/assortiment/ivans-assortiment-siberische-kruidenthee"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/1ukoIPvKSspiXf4Pang6EE/b8ffae4a40ecfd43d1cd7b3a484c6596/a4.jpg?h=250" style="float: left; padding:5px; border: 0px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc;-moz-border-radius:15px;-webkit-border-radius:15px;Border-radius:15px; margin-left:20%;margin-right:20%;margin-bottom:15px;margin-top:1%;">
+            <a href="/nl/assortiment/ivans-assortiment-siberische-kruidenthee">Welke smaken Siberische kruidenthee zijn er?</a></a>
+        </div>
+        <div class="space-10"></div>
+    </div>
+        <hr>
+    </section>
+        <!-- End Banner -->
+
+    <!-- Start Top 3 + Blog Page Section -->
+    <section id=top3>
+    <h1 style="font-family:papyrus; background-color: #003154; color: #fff; text-align: center; padding:10px;">TOP 3</h1>
+    <div class="space-25"></div>
+    <div class="text-center col-12 section-title aos-init aos-animate" data-aos="fade-down" data-aos-delay="100">
+        <div class="space-25" style="background-color:white"></div>
+            <div class="row align-items-center" style="background-color:white">
+        <div class="col-lg-4 col-md-6 col-12 count-up">
+            <div class="fact-box text-center aos-init aos-animate" style="background-image: url(assets/img/eco7-4.jpg); background-color:white" data-aos="fade-up" data-aos-delay="150">
+                <a href="/nl/artikel/ivanchai/ontdek-7-voordelen/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/3GzPJVVGUYwWwdLOarDn5r/795728291cd84ae6e163382e6140b3e7/artikel_ontdek_7_voordelen.jpg?w=255&amp;h=170&amp;q=100&amp;fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
+                    <div class="top-left" style="font-family: monad"><br><big><big><b><big><big>1.</b></big></big></big></big></div>
+                <a href="/nl/artikel/ivanchai/ontdek-7-voordelen/" style="font-family:monad ; margin: auto">IVAN CHAI:<br>ONTDEK 7 VOORDELEN</a>
+                    <div class="space-25"></div>
+                </div>
+            </div>
+        <div class="col-lg-4 col-md-6 col-12">
+            <div class="fact-box text-center count-down aos-init aos-animate" style="background-image: url(assets/img/eco7-2.jpg); background-color:white" data-aos="fade-up" data-aos-delay="350">
+                <a href="/nl/artikel/slaapproblemen/insomnia-als-gevolg-van-stress-en-je-telefoon/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/48u2gVeJExSmuZRlo25XRI/7aa749e8cfd4eeaf1ae1edbfd8c93201/artikel_insomnia_als_gevolg_van_stress_en_je_telefoon.jpg?w=255&amp;h=170&amp;q=50&amp;fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
+                    <div class="top-left" style="font-family: monad"><br><big><big><b><big><big>2.</b></big></big></big></big></div>
+                <a href="/nl/artikel/slaapproblemen/insomnia-als-gevolg-van-stress-en-je-telefoon/" style="font-family:monad ; margin: auto">INSOMNIA ALS GEVOLG VAN STRESS<br>EN JE TELEFOON</a>
+                    <div class="space-25"></div>
+                </div>
+            </div>
+        <div class="col-lg-4 col-md-6 col-12">
+            <div class="fact-box text-center count-up aos-init aos-animate" style="background-image: url(assets/img/eco7-3.jpg); background-color:white" data-aos="fade-up" data-aos-delay="550">
+                <a href="/nl/identity/het-parabel-van-de-siberische-kruidenthee/"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/1azw20zjK4vskIM0iFv1OF/ea93975525c6237507a117e9b075ec9b/dry_ivan_chai_with_flowers_1.jpg?w=255&amp;h=170&amp;q=100&amp;fit=fill" class="img-fluid" alt="" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc; -moz-border-radius:190px;-webkit-border-radius:190px;border-radius:190px;"></a>
+                    <div class="top-left" style="font-family: monad"><br><big><big><b><big><big>3.</b></big></big></big></big></div>
+                <a href="/nl/identity/het-parabel-van-de-siberische-kruidenthee/" style="font-family:monad ; margin: auto">HET PARABEL VAN DE SIBERISCHE KRUIDENTHEE:<br>IVAN CHAI</a>
+                    <div class="space-25"></div>
+                             </div>
+                        </div>
+                    </div>
+        <!-- End Top 3 -->
             {{ content }}
         </div>
     </section>
     <!-- End Blog Page Section -->
 
+    <!-- StartOverview Tag Section -->
+   <section class="row" style="text-align:center; padding: 15px;">
+        <div class="col">
+            <h1 style="font-family:papyrus; background-color: #003154; color: #fff; text-align: center; padding:10px">OVERZICHT TREFWOORDEN</h1>
+    <section id="overzicht">
+        <div class="col">
+            <h4 style="font-family: monad; position:relative; padding:15px; text-align: center;">
+                <a style="font-family:papyrus" href="/#ASSORTIMENTKRUIDENTHEE">assortiment kruidenthee</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#COLLECTIE">collectie</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#COMMUNITY BUILDING">community building</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#EYEOPENER">eyeopener</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#GESCHIEDENIS">geschiedenis</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#GEVOEL">gevoel</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#GEZIN">gezin</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#INFECTIE">infectie</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#IVAN CHAI">ivan chai</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#KINDEREN">kinderen</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#LEVENSSTIJL">levensstijl</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#MAAG-DARMKLACHTEN">maag- & darmklachten</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#MAN">man</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#MEDICIJN">medicijn</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#MENTALEKLACHTEN">mentale klachten</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#MILIEU">milieu</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#MOEDER">moeder</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#ONTSTEKING">ontsteking</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#PROSTAAT">prostaat</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#RELATIE">relatie</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#SLAPEN">slapen</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#SPORT">sport</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#STRESS">stress</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#URINEWEGEN">urinewegen</a>
+                    <span style="font-weight:bold; color: #003154 "> | </span>
+                <a style="font-family:papyrus" href="/#VROUW">vrouw</a>
+                <span style="font-weight:bold; color: #003154 "> | </span>
+                    <a style="font-family:papyrus" href="/#WEERSTAND">weerstand</a>
+                <span style="font-weight:bold; color: #003154 "> | </span>
+                    <a style="font-family:papyrus" href="/#WERK">werk</a>
+                <span style="font-weight:bold; color: #003154 "> | </span>
+                    <a style="font-family:papyrus" href="/#ZIEKTEN">ziekten</a>
+                </h4>
+            </div>
+        </div>
+    </section>
+</section>
+<!-- End Overview Tag Section -->
+
+
     <!-- Start Footer -->
-    <footer class="padding-100 pb-0">
-        <div class="footer-widgets">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <div class="widget">
-                            <h6>Ivan's</h6>
+    <footer class="padding-200 pb-0">
+        <div class="subscribe">
+           <div class="container">
+               <div class="container">
+                   <div class="row">
+                       <div class="text-center col-12 section-title" data-aos="fade-zoom-in">
+                           <section id="email" class="main-features padding-50">
+                           <p><font color="white" style="font-family:monad"><big><u>NIEWSBRIEF & EXCLUSIEVE AANBIEDINGEN?</u></big></font></p>
+                       </div>
+                   </div>
+               </div>
+               <form class="subscribe-form row m-0 align-items-center">
+                   <div class="col-lg-9 col-md-8">
+                       <div class="form-group mb-0">
+                           <input type="text" class="form-control" style="font-family:candara" placeholder="Voer e-mail adres in">
+                       </div>
+                   </div>
+                   <div class="col-lg-3 col-md-4">
+                       <a href="#"
+                        class="btn btn-primary shadow d-block btn-colord btn-theme"><span style="font-family:candara" >aanmelden</span></a>
+                   </div>
+               </form>
+           </div>
+       </div>
+       <div class="space-50"></div>
+       <div class="footer-widgets">
+           <div class="container">
+               <div class="row">
+                   <div class="col-lg-4 col-md-6 col-12">
+                       <div class="widget">
+                           <h6 style="font-family:monad; text-shadow: 0.4px 0.4px 0 #3f4450">IVAN'S</h6>
+                           <ul>
                             <ul>
                                 <li>
-                                    <a href="https://insights.ivansherbs.com/nl/over/manifest">Manifest</a>
+                                    <a target="_blank" href="/nl/faq" style="font-family:papyrus">FAQ</a>
                                 </li>
                                 <li>
-                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-siberische-kruidenthee" target="_blank">{% i18n 'whole_herbs' language %}Whole herbs{% endi18n %}</a>
+                                    <a target="_blank" href="/nl/over/manifest" style="font-family:papyrus">Manifest</a>
                                 </li>
                                 <li>
-                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-etherische-olien" target="_blank">{% i18n 'essential_oils' language %}Essential oils{% endi18n %}</a>
+                                    <a target="_blank" href="/nl/assortiment/ivans-assortiment-siberische-kruidenthee" style="font-family:papyrus">Kruidenthee</a>
                                 </li>
                                 <li>
-                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-supplementen" target="_blank">{% i18n 'supplements' language %}Supplements{% endi18n %}</a>
+                                    <a target="_blank" href="/nl/assortiment/ivans-assortiment-etherische-olien/" style="font-family:papyrus">Etherische oliën</a>
                                 </li>
                                 <li>
-                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-matcha" target="_blank">{% i18n 'matcha' language %}Matcha{% endi18n %}</a>
-                                    <br>
-                                    <br>
-                                </li>
-                            <h6>{% i18n 'over' language %}About{% endi18n %}</h6>
-                                <li>
-                                    <a href="https://insights.ivansherbs.com/nl/over/over-ivans-herbs" target="_blank">Ivan's Herbs</a>
+                                    <a target="_blank" href="/nl/assortiment/ivans-assortiment-supplementen/" style="font-family:papyrus">Supplementen</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/identity/over-de-eco7-standaard/" target="_blank">Eco7</a>
-                                </li>
-                                    <br>
-                                <br>
-                            </div>
-                        </div>
+                                 <a target="_blank" href="/nl/assortiment/ivans-assortiment-matcha/" style="font-family:papyrus">Matcha</a>
+                             </li>
+                             <li>
+                                 <a target="_blank" href="/nl/assortiment/pre-order" style="font-family:papyrus">Pre order</a>
+                             </li>
+                             <li>
+                                 <a target="_blank" href="/nl/assortiment/ivans-giftsets" style="font-family:papyrus">Giftsets</a>
+                             </li>
+                             </ul>
+                            <br><br>
+                       </div>
+                   </div>
+                   <div class="col-lg-4 col-md-6 col-12">
+                    <div class="widget">
+                        <h6 style="font-family:; text-shadow: 0.4px 0.4px 0 #3f4450">DUURZAAM & MILIEUVRIENDELIJK</h6>
+                        <span>
+                            <a target="_blank" href="https://vc.ivansherbs.com/#eco7"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/7e6T3Ds7jAGZ3g4wfVSZ1F/209942200cd7e9f77b071095b1e77004/eco7_label_footer.jpg?q=100&w=77&h=77"></a>
+                            <span style="display:inline-block; width: 15px;"></span><br><br>
+                            <a target="_blank" href="https://vc.ivansherbs.com/#eco7"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/6xm6ewEl6Cy5mEKASnP8tZ/f8340f5a9cb78828db7645403e7bf117/flaticon-certificate-green-earth_free_from_deforestation.png?q=100&w=77&h=77"></a>
+                            <span style="display:inline-block; width: 15px;"></span><br><br>
+                            <a target="_blank" href="https://vc.ivansherbs.com/#eco7"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/2oBEp3sRNNuchvHUM0eYrb/4fe5c53cd085ef4673ee200066684099/Chazhaevkalogo.png?q=100&w=77&h=77"></a>
+                        </span>
+                        <br><br>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <div class="widget">
-                            <h6>Social Media</h6>
-                            <ul>
-                                <li>
-                                    <a target="_blank" href="https://www.facebook.com/ivansherbs">Facebook</a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="https://www.instagram.com/ivansherbs">Instagram</a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="https://www.pinterest.ch/ivansherbs">Pinterest</a>
-                                </li>
-                            </ul><br><br>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <div class="widget">
-                            <h6>Contact</h6>
-                            <ul>
-                                <li>
-                                    <span>WhatsApp:</span>
-                                    <a href="https://wa.me/+31686339615/?text=Hi, I'd like to discover Ivan Chai " target="_blank">
-                                        <img src="{{ env.RESOURCE_BASE_URL }}/assets/img/whatsapp.png" class="si si-whatsapp" style="height: 30px">
-                                    </a>
-                                </li>
-                                <li>
-                                    <span>Email:</span>
-                                    <a href="mailto:hello@ivansherbs.com"></a>hello@ivansherbs.com</a>
-                                        <img src="{{ env.RESOURCE_BASE_URL }}/assets/img/email.png" class="si si-email" style="height: 30px">
-                                </li>
-                            </ul><br><br>
-                            <li>
-                                <a href="#top"><i>{% i18n 'back_to_top' language %}Back to top{% endi18n %}</i></a>
-                            </li>
-                        </div>
-                    </div>
+                   </div>
+                   <div class="col-lg-4 col-md-6 col-12">
+                       <div class="widget">
+                           <h6 style="font-family:monad">CONTACT?</h6>
+                           <ul>
+                               <li>
+                                   <a href="https://wa.me/+31686339615/?text=Hi, I'd like to discover Ivan Chai..." target="_blank">
+                                       <img src="https://images.ctfassets.net/lyvtxhzy9zgr/1OREwejnAyKogBbWesc7YL/b7b46d1d668134be897843122079dfff/whatsapp.png?h=30" class="si si-whatsapp">
+                                   </a>
+                               </li>
+                               <li>
+                                   <a href="mailto:hello@ivansherbs.com" target="_blank">
+                                   <img src="https://images.ctfassets.net/lyvtxhzy9zgr/gQhpniMavU4V4waQT5Crz/beb831b8078668823a856ef0f223f1dd/email.png?h=30&q=100" class="si si-email">
+                               </li>
+                               <li><br><br>
+                                   <a style="font-family:papyrus "class="nav-link anchor"href="#top"><i><u>Terug naar boven</i></u></a>
+                                   <br><br>
+                               </li>
+                           </ul>
+                       </div>
+                   </div>
+                   <div class="space-25"></div>
+                   <!-- Start GTranslate-->
+                   <script type="text/javascript">
+                   /* <![CDATA[ */
+                   function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.hostname.split('.')[0];if(plang.length !=2 && plang.toLowerCase() != 'zh-cn' && plang.toLowerCase() != 'zh-tw')plang='nl';location.href=location.protocol+'//'+(lang == 'nl' ? '' : lang+'.')+location.hostname.replace('www.', '').replace(RegExp('^' + plang + '\\.'), '')+location.pathname+location.search;}
+                   /* ]]> */
+                   </script>
+                   <!-- End GTranslate-->
+                   </div>
+               </div>
+           </div>
+       </div>
+       <div class="space-50"></div>
+       <div class="copyright">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-4">
+                    <p style="font-family:monad">All rights reserved ©<br><a href="#" style="text-shadow: 0.4px 0.4px 0 #3f4450">Ivan's Herbs, VOF 2021</a></p>
+                    <p style="font-family:papyrus">Korte Noorderweg 27G <br> 1221 NA Hilversum <br> hello@ivansherbs.com</p>
+                    <p style="font-family:papyrus"> KvK: 75553155 </p>
+                </div>
+                <div class="offset-md-4 col-md-4">
+                    <ul class="nav justify-content-end">
+                        <li class="nav-item">
+                            <a style="font-family:monad; text-shadow: 0.4px 0.4px 0 #3f4450" class="nav-link" href="http://insights.ivansherbs.com/nl/over/legal/gebruiksvoorwaarden">TERMS & CONDITIONS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a style="font-family:monad; text-shadow: 0.4px 0.4px 0 #3f4450" class="nav-link" href="http://insights.ivansherbs.com/nl/over/legal/privacykennisgeving">PRIVACY POLICY</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
-        <div class="space-50"></div>
-        <div class="copyright">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-md-4">
-                        <p>All rights reserved © <a href="#">Ivan's Herbs</a>, VOF 2021</p> <p>Korte Noorderweg 27G <br> 1221 NA Hilversum <br> hello@ivansherbs.com</p>
-                        <p> KvK: 75553155 </p>
-                    </div>
-                    <div class="offset-md-4 col-md-4">
-                        <ul class="nav justify-content-end">
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Terms and Conditions</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Privacy Policy</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- End Footer -->
+    </div>
+</footer>
+   <!-- End Footer -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="{{ env.RESOURCE_BASE_URL }}/assets/js/jquery-3.3.1.min.js"></script>

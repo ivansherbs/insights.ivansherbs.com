@@ -1,3 +1,3 @@
-><h2>Insights | Eyeopener</h2>
+><h2 style="font-family:papyrus">Insights: eyeopener</h2>
 >
->Op dagelijkse basis belemmerd door fysieke dan wel mentale problemen?
+><p style="font-family:papyrus">Op dagelijkse basis belemmerd door fysieke dan wel mentale problemen?

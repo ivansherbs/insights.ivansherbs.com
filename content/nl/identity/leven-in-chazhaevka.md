@@ -7,10 +7,6 @@ category: herbal tea expert
 publish:
   author: Svetlana Petrova
 tags:
-- levensstijl
-- community building
-- milieu
-- gevoel
 meta:
   description: Lees nu het portret van Svetlana Petrova. Eén van de herbal tea experts uit Chazhaevka. Community building in combinatie met creativiteit staan met name centraal in haar nieuwe leven. Lees haar verhaal.
   keywords: community building, ivan chai, kruiden, kruidengeneeskunde, thee, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, eenvoudig, natuur, alledaags product, geneeskrachtige werking, portret, mediteren
@@ -25,7 +21,7 @@ Lees nu het portret van Svetlana Petrova. Eén van de herbal tea experts uit Cha
 Niet meer voor deze natuurliefhebber. We hebben het over Svetlana. Eén van de herbal tea experts uit Siberië. Ze doet er alles aan om zo veel mogelijk van de buitenlucht te kunnen genieten. Met name in de zomermaanden kan ze niet vroeg genoeg opstaan. De dagen worden gevuld met haar favoriete bezigheden.
 
 [[contentfulImage 10tOZ5NxWE2rJht40x4uEO]]
-> Overdag doet ze haar verhaal.
+><p style="text-align: center; font-family:papyrus">Overdag doet ze haar verhaal.</p>
 
 Denk aan mediteren, arbeid in de openlucht, vuur maken en koken in de stilte van de Siberische wildernis.
 
@@ -58,7 +54,7 @@ Mijn vriendinnen zaten naar eigen inziens wel op hun plek. Vernieuwing was de en
 Mijn meest dierbare spullen had ik al ingepakt. Ik zei de dag erna mijn baan op en ging er vandoor. Mijn pijlers waren gericht op Vladivostok via de trans-Siberische spoorlijn. Wat bekend staat vanwege de prachtige natuur.
 
 [[contentfulImage 7mCfWXL2lne4StC6OeGgNL]]
-> Na veel wikken en wegen besloot ik tot rust te komen in het Altaj gebergte.
+><p style="text-align: center; font-family:papyrus">Na veel wikken en wegen besloot ik tot rust te komen in het Altaj gebergte.</p>
 
 Eenmaal aangekomen heb ik eerst weken doelloos rondgereisd. En met plezier.
 
@@ -80,7 +76,7 @@ Als seizoensarbeider ben ik begonnen in één van de vele Siberische ecodorpen v
 Iedereen draagt zijn bijdrage door zich te richten op hetgeen waar je jezelf goed bij voelt. Hierdoor wordt waarde gecreëerd zonder druk opgelegd te krijgen. Kort gezegd staat iedereen achter de handelingen die worden uitgevoerd. Uiteraard onder een paraplu van gedeelde normen en waarden van de community. Wat deze gedeelde normen en waarden zijn? Daar kom je na verloop van tijd zelf achter.
 
 [[contentfulImage 1VGABGZh7emrLkqzwXeHAS]]
-> Dagelijkse rijden we kilometers naar de velden.
+><p style="text-align: center; font-family:papyrus">Dagelijkse rijden we kilometers naar de velden.</p>
 
 In Chazhaevka worden kruiden met de hand geoogst. Hierna kan het worden gedronken als de kruidenthee Ivan Chai of een andere kruidenmelange. Het kan tevens als toevoeging worden gebruikt door het eten. Bij duurzaam gebruik is het kalmerende effect merkbaar. Mijn leven is drastisch veranderd na mijn mentale stoornis.
 

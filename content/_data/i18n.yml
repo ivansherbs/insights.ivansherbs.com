@@ -40,8 +40,8 @@ store:
   EN: Store
   NL: Winkel
 currency:
-  EN: $
-  NL: €
+  EN: currency
+  NL: valuta
 all_articles:
   EN: All articles
   NL: Alle artikelen
@@ -55,11 +55,8 @@ giftset:
   EN: Giftset
   NL: Geschenkdoos
 collection:
-  EN: Collection
-  NL: Assortiment
-$:
-  EN: $
-  NL: €
+  EN: COLLECTION
+  NL: ASSORTIMENT
 history:
   EN: History
   NL: Geschiedenis
@@ -70,19 +67,23 @@ the_origin_of:
   EN: The origin of...
   NL: De oorsprong van...
 discover:
-  EN: Discover
-  NL: Ontdek
-over:
-  EN: About
-  NL: Over
+  EN: DISCOVER
+  NL: ONTDEK
+about:
+  EN: ABOUT
+  NL: OVER
 back_to_top:
   EN: Back to top
   NL: Terug naar boven
-
-#vc.ivansherbs.com
-best_sellers:
-  EN: Best sellers
-  NL: Bestsellers
+herbal_remedies:
+  EN: Herbal remedies
+  NL: Kruidengeneeskunde
+benefits_ema:
+  EN: Benefits EMA
+  NL: Voordelen EMA
+effectiveness:
+  EN: Effectiveness
+  NL: Effectiviteit
 
 # Shopify integrations
 shopify.product.button:
@@ -91,6 +92,8 @@ shopify.product.outOfStock:
   NL: Uitverkocht
 shopify.product.unavailable:
   NL: Niet op voorraad
+  shopify.product.price:
+  NL: €
 shopify.cart.title:
   NL: Winkelwagen
 shopify.cart.empty:
@@ -100,7 +103,7 @@ shopify.cart.button:
 shopify.cart.total:
   NL: Subtotaal
 shopify.cart.currency:
-  NL: EUR
+  NL: €
 shopify.cart.notice:
   NL: Verzendkosten en kortingscodes worden toegevoegd bij het afrekenen.
 shopify.cart.noteDescription:

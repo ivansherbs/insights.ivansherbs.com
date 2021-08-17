@@ -1,3 +1,3 @@
-><h2>Insights | Bewezen voordelen</h2>
+><h2 style="font-family:papyrus">Insights: effectiviteit</h2>
 >
->Ontdek Ivan Chai: lees meer over de effectiviteit of dosering voor een (preventieve) behandeling.
+><p style="font-family:papyrus">Ontdek Ivan Chai: lees meer over de effectiviteit voor een doeltreffende (preventieve) behandeling.

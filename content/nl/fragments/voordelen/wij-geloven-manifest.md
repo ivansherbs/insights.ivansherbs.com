@@ -1,3 +1,3 @@
-><h2>Wij geloven... </h2>
+><h1 style="font-family:papyrus">Wij geloven... </h1>
 >
->"in het versterken van onze gezondheidszorg middels traditionele kruidengeneeskunde."
+><p style="font-family:papyrus">"in het versterken van onze gezondheidszorg middels traditionele kruidengeneeskunde."</p>

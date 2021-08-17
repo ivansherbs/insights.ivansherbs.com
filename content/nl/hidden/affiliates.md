@@ -1,11 +1,18 @@
 ---
-layout: article.html
+layout: article_with_shopify.html
 title: Affiliates
 url: /nl/samenwerkingen/affiliates
+type: article
+category: affiliates
+publish:
+  author: Ivan's Herbs
+tags:
 meta:
-  # TODO Stefan: removing the TODO without adding a value for description will not pass unit testing
-  description: TODO
-  keywords: kruiden, kruidenthee, etherische oliën, supplementen, matcha, ivan's herbs, samenwerking affiliates, communities, dna, duurzaam, klimaat, schoon, geschenkdoos, starter set, giftset, Prostaatontsteking, Vergrote prostaat, BPH, Prostaatkanker, Blaasontsteking, antibiotica, Anticonceptiepil, maagzuurremmers, slijmbeursontsteking, stress, angst, burnout klachte
+  description: Fijn dat u interesse heeft in een samenwerking met Ivan´s Herbs | Nederland. Benieuwd naar het DNA van Ivan’s Herbs?
+  keywords: kruiden, kruidenthee, etherische oliën, supplementen, matcha, ivan's herbs, samenwerking affiliates, communities, dna, duurzaam, klimaat, schoon, geschenkdoos, starter set, giftset, Prostaatontsteking, Vergrote prostaat, BPH, Prostaatkanker, Blaasontsteking, antibiotica, Anticonceptiepil, maagzuurremmers, slijmbeursontsteking, stress, angst, burnout klachten
+fragments:
+  header: nl/fragments/voordelen/vrij-van-dierenleed-en-ontbossing
+  footer:
 banner:
   image: 6csVsKRo3aDFZgyA0ojdEV
   effect: o-lg-60d-black
@@ -13,6 +20,8 @@ contentful:
   imageOptions:
     fm: jpg
     q: 50
+shopify:
+  language: NL
 ---
 <!-- TODO  keep this page hidden from customers -->
 ### Geachte Affiliate
@@ -187,7 +196,7 @@ Jawel, mocht uw verkoop goed gaan. Dan zouden we graag de overstap willen maken 
 - Roomse Kamille Etherische Olie
 - Wierook Etherische Olie
 - Scharlei Etherische Olie
-- Mandarijn Etherische Olie
+- mandarijn Etherische Olie
 - Wilde Marjolein Etherische Olie
 
 Goed om te weten. Wanneer de tijd daar is willen we deze verkoop een ‘boost’ geven middels de verkoop van aroma-diffusers, ofwel luchtbevochtigers.
@@ -234,9 +243,9 @@ VOORDEEL 1
 ### Verzorgt de gezondheid van de prostaat en urinewegen
 
 30% van de mannen ouder dan 50 jaar heeft last van zijn prostaat. Denk aan:
-- Prostaatontsteking
+- prostaatontsteking
 - Vergrote prostaat (BPH)
-- Prostaatkanker (jaarlijks 12.000 keer vastgesteld)
+- prostaatkanker (jaarlijks 12.000 keer vastgesteld)
 - Blaasontsteking (20% van de vrouwen heeft hier jaarlijks mee te maken)
 De voordelen tegen prostaatontsteking, vergrote prostaat (bhp) en blaasontsteking zijn bevestigd door het European Medicines Agency vanwege langdurige grootschalige klinische onderzoek met duizenden mannen en vrouwen.
 
@@ -344,7 +353,7 @@ _“Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceut
 
 ### Mocht u benieuwd zijn naar de oorsprong van Ivan Chai en waarom deze kruidensoort de familienaam 'Fireweed' heeft gekrgen?
 
-https://insights.ivansherbs.com/nl/articles/ivanchai/de-oorsprong-van-ivan-chai
+https://insights.ivansherbs.com/nl/artikel/ivanchai/de-oorsprong-van-ivan-chai
 
 ### Benieuwd naar de commissiestructuur?
 
@@ -375,8 +384,6 @@ Tot slot,
 Wij kijken uit naar een succesvolle samenwerking.
 
 Met vriendelijke groet,
-
-[[contentfulImage 4xERvF6aRTWBQwMFipxC3k]]
 
 ### Ivan Herbs | Nederland
 
