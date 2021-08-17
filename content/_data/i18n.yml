@@ -92,8 +92,6 @@ shopify.product.outOfStock:
   NL: Uitverkocht
 shopify.product.unavailable:
   NL: Niet op voorraad
-shopify.product.price:
-  NL: €
 shopify.cart.title:
   NL: Winkelwagen
 shopify.cart.empty:
