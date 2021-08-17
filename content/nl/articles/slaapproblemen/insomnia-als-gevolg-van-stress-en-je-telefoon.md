@@ -5,16 +5,16 @@ url: /nl/artikel/insomnia-als-gevolg-van-stress-en-je-telefoon
 type: article
 category: slaapproblemen
 publish:
-  author: Sasha Popov
+  author: Anna Guseva
 tags:
 - eyeopener
 - gevoel
 - mentale klachten
-- nachtrust
+- slapen
 - stress
 - werk
 meta:
-  description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. De slaapproblematiek is groter dan je denkt. Benieuwd naar de inzichten over slapeloosheid; ook wel insomnia?
+  description: Wist je dat 20-30 procent van de Nederlanders problemen heeft met slapen? Ook kinderen hebben te maken met dit probleem. De slaapproblematiek is groter dan je denkt. Benieuwd naar de inzichten?
   keywords: insomnia, slaap, slapen, slaapprobleem, slapeloosheid, slaapproblematiek, slecht slapen, slaapstoornis, goede nachtrust, stress, telefoon, kinderen, werken, werk, sasha
 fragments:
   header: nl/fragments/voordelen/4-verbetert-de-nachtrust
@@ -29,7 +29,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 **Iedereen** heeft wel eens minder lekker geslapen dan de nacht ervoor. Voor je gevoel lig je de hele nacht wakker en staar je naar het plafond. Gelukkig voor jou hoef je dan niet gelijk van een slaapprobleem te spreken. Nu vraag je jezelf natuurlijk gelijk af.
 
@@ -71,11 +71,11 @@ Denk hierbij aan de volgende problemen.
 
 [[contentfulImage 3U3LCmWccLvbVpA0twOhEJ]]
 
-### Kortom
+### Kortom...
 
-Hun tere kleine kwetsbare kinder hersentjes komen hierdoor niet tot rust. Hierdoor kunnen ze zich moeilijker concentreren, ze worden onrustig wanneer ze niet online kunnen. En het aantal ruzies binnen gezinnen neemt toe. Uiteindelijk met een overmatige hoeveelheid aan stress tot gevolg.
+hun tere kleine kwetsbare kinder hersentjes komen hierdoor niet tot rust. Ze kunnen zich moeilijker concentreren, en ze worden onrustig wanneer ze de online wereld niet kunnen betreden. Het aantal ruzies binnen gezinnen neemt toe, met als gevolg een overmatige hoeveelheid onnodige stress binnen het gezin...
 
-**Dit wordt mede mogelijk gemaakt** door een telefoonverslaving. Ook goed als katalysator op slapeloosheid. Niet te verwarren met een mobiele telefoon als extra prikkel met stress tot gevolg.
+**Dit wordt mede mogelijk gemaakt** door een telefoonverslaving. Werkt tevens goed als katalysator op slapeloosheid. Niet te verwarren met een mobiele telefoon als extra prikkel met stress tot gevolg.
 
 **Om slaapproblemen te verklaren** bij kinderen (en ook bij volwassen die te vaak op hun ‘highly-sophisticated-hippe-smartphones fanatiek aan het swipen zijn), bekijken we dit telefoonverslavings probleem vanuit neurobiologisch perspectief. Gewoon omdat het kan en we er vooral niet te diep op ingaan.
 
@@ -85,17 +85,11 @@ Hun tere kleine kwetsbare kinder hersentjes komen hierdoor niet tot rust. Hierdo
 
 Wanneer we bovenstaande kort samenvatten komen we op het volgende neer.
 
-### Samenvatting
+* Dopamine zorgt voor een opgewekt gevoel.
 
-Dopamine zorgt voor een opgewekt gevoel.
+* Stress voor adrenaline.
 
-Stress voor adrenaline.
-
-Deze gevoelens versterken elkaar.
-
-En heel simpel gezegd.
-
-Bij te veel van beide slaap je niet lekker.
+Deze gevoelens versterken elkaar. En heel simpel gezegd. Bij te veel van beide slaap je niet lekker.
 
 punt
 
@@ -117,7 +111,7 @@ Een slaapprobleem is van grote invloed op je dagelijkse functioneren en dus ook 
 
 **Let op!** Uiteraard zorgt een combinatie van tips en behandelingen voor het verbeteren van je nachtrust.
 
-**Zo ben je waarschijnlijk bekend met** het niet op een scherm kijken een half uur voor je gaat slapen, géén alcohol, géén cafeïne na 5 uur, zorgen voor voldoende sporten maar niet vlak voor je het bed instapt, een boek lezen, yoga, mindfulness en meditatie. En ga zo maar door.
+**Zo ben je waarschijnlijk bekend met** het niet op een scherm kijken een half uur voor je gaat slapen, géén alcohol, géén cafeïne na 5 uur, voldoende sporten maar niet vlak voor je het bed instapt, een boek lezen, yoga, mindfulness, meditatie en ga zo maar door...
 
 > Graag willen we het volgende benadrukken. Neem het drinken van Siberische kruidenthee op in je dagelijkse routine. Wij garanderen je dat je beter in staat bent slaapproblemen te voorkomen.
 
@@ -125,4 +119,4 @@ Mocht je toch onverhoopt slaapproblemen rondlopen, ga verstandig te werk. Bel ee
 
 Benieuwd naar de impact van slaapproblemen op Nederland?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

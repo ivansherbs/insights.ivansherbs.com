@@ -8,9 +8,9 @@ publish:
   author: Ivan Alexandrovitsj
 tags:
 - man
-- 45+
 - eyeopener
 - prostaat
+- voordelen EMA
 meta:
   description: Prostaatklachten? Prostaatpijn? 30% van de mannen ouder dan 50 jaar heeft problemen met plassen. Benieuwd naar de inzichten?
   keywords: prostaatklachten, prostaatpijn, prostaatontsteking, prostaat vergroot, ontsteking prostaat symptomen, ontsteking prostaat, maria treben, klinisch onderzoek
@@ -27,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 Naarmate de tijd verstrijkt kunt u ervan op aan dat er meer tijd gaat zitten in dagelijkse bezigheden. Fijne bijkomstigheid is dat een man weet dat hij op latere leeftijd meer kans heeft op **prostaatklachten**. Laten we gelijk de **statistieken** er maar even bijpakken aangezien we dit probleem graag wederom aankaarten bij mannen.
 
@@ -97,7 +97,7 @@ En met succes!
 Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverhoopt last krijgen van een ernstige vergrote prostaat, ga verstandig te werk. Bel een deskundige bij twijfel. En laat u informeren over de behandelmethode.
 
 Graag willen we tot slot het volgende belichten.
-* Prostaatklachten kunnen worden verholpen met medicijnen uit de farmaceutische industrie. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij u bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op medicijnen uit de farmaceutische industrie.
+* Prostaatklachten kunnen worden verholpen met medicijnen uit de farmaceutische industrie. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij u bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderende werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op medicijnen uit de farmaceutische industrie.
 
 **Tot slot.**
 
@@ -121,4 +121,4 @@ Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverho
 
 Op zoek naar meer verdieping?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

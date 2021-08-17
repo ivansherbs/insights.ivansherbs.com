@@ -4,13 +4,11 @@ title: Matcha
 url: /nl/assortiment/ivans-assortiment-siberische-matcha
 type: article
 category: siberische matcha
-publish:
-  author:
 tags:
 - assortiment
 meta:
   description: Ivan's Herbs biedt naast de collectie kruidenthee ook een assortiment aan Siberische matcha aan. Matcha is meer dan alleen thee. Ooit matcha gecombineerd met drank of voeding...?
-  keywords: matcha, kruiden, thee, assortiment, pakketten, bestsellers, drank, voeding, collectie, kruidenthee, water, bestsellers, 1 kg
+  keywords: matcha, kruiden, thee, assortiment, pakketten, pre order , drank, voeding, collectie, kruidenthee, water, 1 kg
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
@@ -24,16 +22,42 @@ contentful:
 shopify:
   language: NL
 ---
-**Bestsellers | 1 kg**
+## Pre order | Matcha 200 gram
 
-Ivan's Herbs biedt naast de collectie kruidenthee ook een assortiment aan Siberische matcha aan. Matcha is meer dan alleen thee. Ooit matcha gecombineerd met drank of voeding...?
+Matcha bestaat uit kruiden in poedervorm. Matcha is hierdoor méér dan alleen matcha thee. Ooit matcha gecombineerd met drank of voeding...?
 
-## Bestsellers
+[[shopifyCollection 269233684646 buttonDestination=modal]]
 
-[[shopifyCollection 267300176038 buttonDestination=cart]]
+## Pre order | Upgrade
 
-## 1 kg
+Maak uw keuze compleet met Ivan's Upgrade: Matcha accessoires...
 
-Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water? Koop kilo zakken om voordeel op te doen.
+[[shopifyCollection 6821349163174 buttonDestination=modal]]
 
-[[shopifyCollection 267300176038 buttonDestination=cart]]
+## Pre order | Giftset
+
+[[shopifyCollection 269467484326 buttonDestination=modal]]
+
+## Pre order | 1 kg
+
+Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water?
+
+[[shopifyCollection 267300176038 buttonDestination=modal]]
+
+## Bekijk video (1min)
+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
+
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
+
+* [Pre order](/nl/assortiment/pre-order)
+
+* [Kruidenthee](/nl/assortiment/ivans-assortiment-siberische-kruidenthee)
+
+* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
+
+* [Supplementen](/nl/assortiment/ivans-assortiment-supplementen)

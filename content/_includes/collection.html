@@ -10,7 +10,7 @@
     <meta name=”keywords” content="{{ meta.keywords }}">
     <meta name=”author” content="{{ publish.author | default: 'Ivan\'s Insights' }}">
 
-    <title>{{ title }} | Ivan's Herbs, Herbs from Siberia</title>
+    <title>{{ title }} | Ivan's Herbs</title>
 
     <!-- Favicon -->
     <link rel="icon" href="{{ env.RESOURCE_BASE_URL }}/img/favicon.png">
@@ -57,6 +57,10 @@
     })(window,document,'script','dataLayer','GTM-K8K4QBL');</script>
     <!-- End Google Tag Manager -->
 
+    <!-- Facebook domain verification insights-->
+    <meta name="facebook-domain-verification" content="miu686mvn24dlpxqc1zvq1ijprg7mv" />
+    <!-- End Facebook domain verification insights-->
+
     <!-- Styling effects -->
     <!-- TODO load async and move to particular layout -->
     <script src="https://sdks.assortimentifycdn.com/buy-button/1.0.0/buybutton.js"></script>
@@ -82,7 +86,7 @@
             margin: 1.5em 0;
         }
         .single-blog-page .blog-box .blog-details h2 {
-            font-size: 1.5em;
+            font-size: 1.5em; style="font-family:monad;
         }
         .single-blog-page .blog-box .blog-details h3 {
             font-size: 1.2em;
@@ -123,14 +127,25 @@
                         <li class="nav-item">
                             <a class="nav-link anchor active" href="{{ env.RESOURCE_BASE_URL }}/">{% i18n 'home' language %}Home{% endi18n %}</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#main_benefits">Ivan Chai</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                {% i18n 'discover' language %}Discover{% endi18n %} Ivan Chai
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/articles/ivanchai/ontdek-7-voordelen/" target="_blank">{% i18n 'benefits' language %}Benefits{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/articles/ivanchai/de-oorsprong-van-ivan-chai/" target="_blank">{% i18n 'the_origin_of' language %}The origin of...{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/artikel/het-parabel-van-de-siberische-kruidenthee-ivan-chai" target="_blank">{% i18n 'history' language %}History{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/5-heerlijke-smaken" target="_blank">{% i18n 'more_information_question' language %}More information?{% endi18n %}</a>         </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#products">{% i18n 'products' language %}Products{% endi18n %}</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#articles">{% i18n 'articles' language %}Articles{% endi18n %}</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Ivan's Insights
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                 <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/#{{ tag | title_case: 'NL' }}" target="_blank">{{#{{ tag | title_case: 'NL' }}}}</a>
+                            </div>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -142,12 +157,19 @@
                                 <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-etherische-olien" target="_blank">{% i18n 'essential_oils' language %}Essential oils{% endi18n %}</a>
                                 <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-supplementen" target="_blank">{% i18n 'supplements' language %}Supplements{% endi18n %}</a>
                                 <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-matcha" target="_blank">{% i18n 'matcha' language %}Matcha{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/exclusieve-aanbiedingen" target="_blank">{% i18n 'special_offers' language %}Special offers{% endi18n %}</a>
-                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/exclusieve-geschenkdoos" target="_blank">{% i18n 'giftset' language %}Giftset{% endi18n %}</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/pre-order" target="_blank">Pre order</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/assortiment/ivans-giftsets" target="_blank">Ivan's Giftsets</a>
                             </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link anchor" href="{{ env.RESOURCE_BASE_URL }}/#facts">Eco7</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                {% i18n 'over' language %}About{% endi18n %}
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/over/over-ivans-herbs" target="_blank">Ivan's Herbs</a>
+                                <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/identity/over-de-eco7-standaard/" target="_blank">Eco7</a>
+                            </div>
                         </li>
                     </ul>
                 </div>
@@ -157,7 +179,7 @@
     <!-- End Header -->
 
     <!-- Start Page Head -->
-    <section class="page-head background-withcolor">
+    <section id="top" class="page-head background-withcolor">
         <div class="parent">
             {% if banner.image %}
             <div class="image-container">
@@ -196,18 +218,32 @@
                             <h6>Ivan's</h6>
                             <ul>
                                 <li>
-                                    <a href="#">Startpagina</a>
+                                    <a href="https://insights.ivansherbs.com/nl/over/manifest">Manifest</a>
                                 </li>
                                 <li>
-                                    <a href="#story">Verhaal</a>
+                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-siberische-kruidenthee" target="_blank">{% i18n 'whole_herbs' language %}Whole herbs{% endi18n %}</a>
                                 </li>
                                 <li>
-                                    <a href="#main_benefits">Voordelen</a>
+                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-etherische-olien" target="_blank">{% i18n 'essential_oils' language %}Essential oils{% endi18n %}</a>
                                 </li>
                                 <li>
-                                    <a href="#products">Producten</a>
+                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-supplementen" target="_blank">{% i18n 'supplements' language %}Supplements{% endi18n %}</a>
                                 </li>
-                            </ul>
+                                <li>
+                                    <a href="https://insights.ivansherbs.com/nl/assortiment/ivans-assortiment-matcha" target="_blank">{% i18n 'matcha' language %}Matcha{% endi18n %}</a>
+                                    <br>
+                                    <br>
+                                </li>
+                            <h6>{% i18n 'over' language %}About{% endi18n %}</h6>
+                                <li>
+                                    <a href="https://insights.ivansherbs.com/nl/over/over-ivans-herbs" target="_blank">Ivan's Herbs</a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item anchor" href="https://insights.ivansherbs.com/nl/identity/over-de-eco7-standaard/" target="_blank">Eco7</a>
+                                </li>
+                                    <br>
+                                <br>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-12">
@@ -223,10 +259,7 @@
                                 <li>
                                     <a target="_blank" href="https://www.pinterest.ch/ivansherbs">Pinterest</a>
                                 </li>
-                                <li>
-                                    <a target="_blank" href="https://www.linkedin.com/company/ivan-s-herbs/">LinkedIn</a>
-                                </li>
-                            </ul>
+                            </ul><br><br>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-12">
@@ -242,8 +275,12 @@
                                 <li>
                                     <span>Email:</span>
                                     <a href="mailto:hello@ivansherbs.com"></a>hello@ivansherbs.com</a>
+                                        <img src="{{ env.RESOURCE_BASE_URL }}/assets/img/email.png" class="si si-email" style="height: 30px">
                                 </li>
-                            </ul>
+                            </ul><br><br>
+                            <li>
+                                <a href="#top"><i>{% i18n 'back_to_top' language %}Back to top{% endi18n %}</i></a>
+                            </li>
                         </div>
                     </div>
                 </div>
@@ -254,7 +291,8 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-4">
-                        <p>All rights reserved © <a href="#">Ivan's Herbs</a>Herbs from Siberia, 2021</p>
+                        <p>All rights reserved © <a href="#">Ivan's Herbs</a>, VOF 2021</p> <p>Korte Noorderweg 27G <br> 1221 NA Hilversum <br> hello@ivansherbs.com</p>
+                        <p> KvK: 75553155 </p>
                     </div>
                     <div class="offset-md-4 col-md-4">
                         <ul class="nav justify-content-end">

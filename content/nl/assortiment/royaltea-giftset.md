@@ -1,19 +1,19 @@
 ---
 layout: article_with_shopify.html
-title:
-url: /nl/assortiment/royaltea-giftset
+title: Ivan's Giftsets
+url: /nl/assortiment/ivans-giftsets
 type: article
 category: Ivan Chai
 tags:
 - assortiment
 meta:
-  description: Op zoek naar een mooi cadeau? Wij bieden de mogelijkheid pakketten te upgraden met een theezeef, beker en duurzame draagtas van 100% katoen.
-  keywords: kruidenthee, assortiment, bestsellers, favorieten, kilobags, inzichten, geschenkdoos, cadeau, katoen, draagtas, beker, theezeef
+  description: Op zoek naar een mooie geschenkset? Wij bieden de mogelijkheid pakketten te upgraden met een theezeef, beker en duurzame draagtas van 100% katoen.
+  keywords: kruidenthee, assortiment, pre order , favorieten, kilobags, inzichten, geschenkdoos, cadeau, katoen, draagtas, beker, theezeef
 fragments:
   header:
-  footer:
+  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
 banner:
-  image: 2eVjI3EBAn57gYBRETy2WP
+  image: 4sz4wSxo4KhzTbBzUNXJBI
   effect: o-lg-60d-black
 contentful:
   imageOptions:
@@ -22,11 +22,44 @@ contentful:
 shopify:
   language: NL
 ---
-<!--TO DO videobanner not working ??-->
+## Pre order | Royaltea Giftset
+
 Al onze producten komen rechtstreeks uit de natuur en zijn bewezen effectief middels klinisch onderzoek. Vrij van dierenleed en ontbossing.
 
-## Royaltea Giftset
+[[shopifyCollection 268072419494 buttonDestination=modal]]
 
-[[shopifyCollection 268072419494 buttonDestination=cart]]
+> Maak de bestelling compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
 
-> Maak uw keuze compleet met Ivan's theezeef, beker en duurzame draagtas van 100% katoen.
+## Pre order | Etherische oliën
+
+[[shopifyCollection 269467320486 buttonDestination=modal]]
+
+## Pre order | Supplementen
+
+[[shopifyCollection 269467386022 buttonDestination=modal]]
+
+## Pre order | Matcha
+
+[[shopifyCollection 269467484326 buttonDestination=modal]]
+
+## Pre order | Upgrade
+
+[[shopifyCollection 6732579930278 buttonDestination=modal]]
+
+## Bekijk video (1min)
+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
+
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Pre order](/nl/assortiment/pre-order)
+
+* [Kruidenthee](/nl/assortiment/ivans-assortiment-siberische-kruidenthee)
+
+* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
+
+* [Supplementen](/nl/assortiment/ivans-assortiment-supplementen)
+
+* [Matcha](/nl/assortiment/ivans-assortiment-siberische-matcha)

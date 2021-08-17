@@ -11,7 +11,6 @@ tags:
 - levensstijl
 - eyeopener
 - ziekten
-- ouderdom
 meta:
   description: Dit artikel is bedoeld voor iedereen die een zwak immuunsysteem wil voorkomen. Benieuwd naar de inzichten?
   keywords: immuunsysteem, ouderen, bloedarmoede, ijzertekort, gedicht, kanker, voedingsstoffen, overgang, menopauze, oestrogeen
@@ -28,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 **Vandaag begin ik voor de verandering** met het voordragen van een hééél mooi gedicht over kanker.
 
@@ -165,4 +164,4 @@ Mocht je onverhoopt met een zwak immuunsysteem blijven rondlopen, ga verstandig 
 
 Benieuwd hoe Siberische kruidenthee van invloed is op je immuunsysteem?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

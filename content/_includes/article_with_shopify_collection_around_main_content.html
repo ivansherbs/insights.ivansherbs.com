@@ -1,6 +1,20 @@
 ---
 layout: article_with_shopify.html
 ---
-[[shopifyCollection {{ shopify.collection }}]]
-{{ content }}
-[[shopifyCollection {{ shopify.collection }}]]
+<!--Start shopify slider-->
+<section id="slider-shopify">
+<div class="container-fluid">
+    <div class="row align-items-center">
+        <div class="col-12">
+            <div class="products-slider" data-aos="fade-up">
+                <div class="item text-center">
+                    <img src="[[shopifyCollection {{ shopify.collection }}]]
+                    {{ content }}
+                    [[shopifyCollection {{ shopify.collection }}]]" class="img-fluid d-block mx-auto" alt="herbs from siberia">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+<!--End shopify slider-->

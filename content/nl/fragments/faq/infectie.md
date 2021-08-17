@@ -2,7 +2,7 @@
 
 [[toc]]
 
-### Wat is een infectie?
+## Wat is een infectie?
 
 Een infectie ontstaat wanneer een overtollige hoeveelheid aan micro-organismen je lichaam binnendringt. Als reactie hierop beschadigd je lichaam. Bij schade moet je denken aan symptomen als onnodige weefselschade, koorts, hoofdpijn, diarree hoestbuien en pijn.
 
@@ -10,7 +10,7 @@ Micro-organisme kunnen de vorm aannemen van schimmels, gist of bacteriën. Deze 
 
 Denk hierbij aan in de mond, op de handen, voeten en in de intieme zone.
 
-### Waardoor krijg je een infectie?
+## Waardoor krijg je een infectie?
 
 Een infectie kun je oplopen via schimmels, gist of bacteriën.
 
@@ -23,7 +23,7 @@ Eén van de oorzaken die juist zorgen voor een overtollige hoeveelheid aan micro
 
 Het gebruik van farmaceutische medicijnen kan gepaard gaan met ongewenste bijwerkingen. Door de werking van het medicijn verzwakt je immuunsysteem. Hierdoor krijgen schimmels, gist of ongewenst bacteriën de kans om te groeien. Dit kan leiden tot een infectie.
 
-### Welke medicijnen zijn van invloed op infecties?
+## Welke medicijnen zijn van invloed op infecties?
 
 Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 * Antibiotica
@@ -32,13 +32,13 @@ Laten we ons richten op veelgebruikte medicijnen. Denk aan:
 
 Hierbij een aantal statistieken; circa 1.600.000 vrouwen gebruikt de anticonceptiepil. Zo'n 2.000.000 mensen gebruiken regelmatig een maagzuurremmer. Antibiotica spant de kroon, dit farmaceutische medicijn gaat circa 4.000.000 keer over de toonbank voor alleen al oraal gebruik.
 
-### Welk effect heeft het gebruik van medicijnen op infecties?
+## Welk effect heeft het gebruik van medicijnen op infecties?
 
 Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen ongewenste bijwerkingen met zich meebrengen.
 
 Het kan zijn dat door gebruik ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.
 
-### Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
+## Zijn er meerdere manieren waardoor je een infectie kunt oplopen?
 
 Ja. Het ligt niet alleen aan farmaceutische medicijnen.
 
@@ -47,9 +47,9 @@ Ja. Het ligt niet alleen aan farmaceutische medicijnen.
 * Een overtollige hoeveelheid aan zeep kan een **vaginale schimmelinfectie** veroorzaken. Zeep valt namelijk tevens goede bacteriën aan in de intieme zone. Volgens de statistieken zijn antibiotica en zeep grote boosdoeners van een vaginale schimmelinfectie.
 * Wanneer we kijken naar **voetschimmel** kan je het oplopen in de kleedkamer of openbare douche.
 
-Zo zijn er nog vele voorbeelden die ik nu nog even niet met je bespreek. 
+Zo zijn er nog vele voorbeelden die ik nu nog even niet met je bespreek.
 
-### Waardoor vergroot ik de kans op een infectie?
+## Waardoor vergroot ik de kans op een infectie?
 
 Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wederom enkele voorbeelden:
 
@@ -63,7 +63,7 @@ Er zijn verschillende risicofactoren die de kans op een infectie vergroten. Wede
 
 * Ziekten. Bijvoorbeeld mensen met diabetes zijn extra gevoelig voor infecties.
 
-### Waarom Ivan Chai?
+## Waarom Ivan Chai?
 
 **Ivan Chai versterkt de weerstand**
 

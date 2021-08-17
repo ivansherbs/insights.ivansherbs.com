@@ -6,7 +6,7 @@ type: article
 category: Ivan Chai
 publish:
   author: Ivan Alexandrovitsj
-  date: 07.01.2021
+  date:
 tags:
 - weerstand
 - ontsteking
@@ -16,10 +16,10 @@ tags:
 - buikkrampen
 - man
 - vrouw
-- 45+
+- voordelen EMA
 meta:
   description: Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer maar óók gewoon lekker ter ontspanning. Benieuwd naar de inzichten?
-  keywords: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
+  keywords: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderende werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
@@ -33,7 +33,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]
 
 ### Ivan Chai
 
@@ -41,7 +41,7 @@ shopify:
 
 2. Krachtige ontstekingsremmer
 
-3. Versterkt de antioxiderede werking
+3. Versterkt de antioxiderende werking
 
 4. Verbetert de nachtrust
 
@@ -109,7 +109,7 @@ Vaak bent u geneigd over te stappen op medicijnen uit de farmaceutische industri
 [[contentfulImage 28IMJN1AoFeQRD0I7uG1Yw]]
 > <p style="text-align: right">Na de oogst is binnengehaald worden de bladeren gespreid. Direct worden de eerste kwaliteitscontroles uitgevoerd</p>
 
-## 3. Versterkt de antioxiderede werking
+## 3. Versterkt de antioxiderende werking
 
 Voor alles wat u doet zijn voedingsstoffen van essentieel belang. Alle onderdelen uit het lichaam hebben ieder apart ook voeding nodig. Het lichaam kan bij een gebrek aan voeding simpelweg niet normaal functioneren. Uw lichaam kan meerdere dagen op rij zonder voeding. Echter één dag zonder water.
 
@@ -119,7 +119,7 @@ Deze samenwerking tussen hart en bloed maakt bloed de transporteur van het zuurs
 
 ## Waarom Ivan Chai?
 
-* Ivan Chai zit boordevol Polyfenolen. Polyfenolen zijn verantwoordelijk voor de werking van antioxidanten.
+* Ivan Chai zit boordevol tannines. Tannines zijn verantwoordelijk voor de werking van antioxidanten.
 
 Antioxidanten hebben een positieve werking op uw hart- en vaatstelsel.
 
@@ -195,7 +195,7 @@ De verbinding die volgens onderzoek het anti-tumoractiviteit versterkt is Oenoth
 
 Graag willen we tot slot het volgende belichten.
 
-* Prostaatklachten kunnen worden verholpen met medicijnen uit de farmaceutische industrie. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij u bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam.
+* Prostaatklachten kunnen worden verholpen met medicijnen uit de farmaceutische industrie. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij u bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderende werking die zorgt voor een goede doorbloeding van het lichaam.
 
 Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op medicijnen uit de farmaceutische industrie.
 
@@ -230,4 +230,4 @@ Tot slot, klinisch onderzoek heeft zelfs aangetoond dat kleine darmparasieten ku
 ### Bent u benieuwd wat Ivan Chai voor u kan betekenen?
 Onderaan deze pagina kunt u ons advies en veelgestelde vragen vinden.
 
-[[shopifyCollection 235510562982 buttonDestination=cart]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]

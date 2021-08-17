@@ -8,7 +8,6 @@ publish:
   author: Ivan Alexandrovitsj
 tags:
 - man
-- 45+
 - eyeopener
 - prostaat
 - ziekten
@@ -28,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 We gaan het nu kort hebben over een heel gevaarlijk probleem.
 
@@ -68,4 +67,4 @@ Ivan Chai heeft een positieve werking op gezonde prostaatcellen.
 
 Op zoek naar meer verdieping?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

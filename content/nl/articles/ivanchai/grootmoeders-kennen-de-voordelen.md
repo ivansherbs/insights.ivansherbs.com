@@ -14,10 +14,10 @@ tags:
 - urinewegen
 - buikkrampen
 - vrouw
-- 45+
+- voordelen EMA
 meta:
   description: Grootmoeders uit de Sovjet-Unie kennen de geheimen van Ivan Chai. De Siberische kruidenthee Ivan Chai bevat 7 voordelen. Goed voor lichaam en geest. Benieuwd naar de inzichten?
-  keywords: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderede werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
+  keywords: ivan chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, versterkt de weerstand, krachtige ontstekingsremmer, versterkt de antioxiderende werking, verbetert de nachtrust, vermindert de kans op angst stress en een burn-out, verzorgt de gezondheid van de prostaat en urinewegen, verzorgt het spijsverteringsstelsel
 fragments:
   header: nl/fragments/voordelen/veilig-en-bewezen-effectief
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
@@ -31,7 +31,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]
 
 ## Anekdotisch bewijs is krachtig bewijs
 
@@ -71,11 +71,11 @@ Een alerte oma heeft dit altijd al geweten. Het preventief behandelen van ontste
 
 [[contentfulImage 28IMJN1AoFeQRD0I7uG1Yw]]
 
-### 3. Antioxiderede werking
+### 3. Antioxiderende werking
 
 Oma is misschien minder bekend met het woord “'antioxidant”. Laat staan van het woord ‘polyfenol’. Om maar even wat medische termen te gebruiken.
 
-Ivan Chai zit boordevol polyfenolen, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten.
+Ivan Chai zit boordevol tannines, die fungeren als de belangrijkste groep bestanddelen die verantwoordelijk zijn voor de werking van antioxidanten.
 
 Wellicht overbodig te melden. Oma wist uiteraard wel dat door het drinken van Ivan Chai, ieders hart hierdoor beter bleef kloppen.
 
@@ -133,7 +133,6 @@ Goed om te weten. Ivan Chai komt voort uit een uiterst duurzaam productieproces.
 
 Benieuwd geworden hoe Ivan Chai wordt gemaakt?
 
-<!-- TODO missing Shopify collection -->
 [[shopifyCollection 235550015654 buttonDestination=cart]]
 
 [[contentfulImage 3q8sNvW9E7qAVKIQG9hEIe]]
@@ -173,4 +172,4 @@ De verwerking gaat er net zo aan toe als vroeger! En dan heb ik het over eeuwen 
 
 Onderaan deze pagina kunt u ons advies lezen.
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]

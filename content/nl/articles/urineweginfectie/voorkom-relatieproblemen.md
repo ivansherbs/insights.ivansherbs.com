@@ -28,7 +28,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
 **Voorkom relatieproblemen door het voorkomen van een blaasontsteking.**
 
@@ -183,7 +183,7 @@ Met relatieproblemen tot gevolg.
 
 Helemaal wanneer we dit vanuit holistisch perspectief combineren met de overige 6 punten wat van invloed is op jullie leven. De (tevens zeer verrassende) statistieken van deze oorzaken bespreken we wel een andere keer.
 
-Nog even ter info. Waar wij je bewust van willen maken is het volgende. De kans om een probleem als een blaasontsteking te verminderen is mogelijk met **veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek**.
+Nog even ter informatie. Waar wij je bewust van willen maken is het volgende. De kans om een probleem als een blaasontsteking te verminderen is mogelijk met **veilige producten zonder bijwerkingen, rechtstreeks uit de natuur en bewezen effectief middels klinisch onderzoek**.
 
 Denk aan Ivan Chai. Een Siberische kruidenthee.
 
@@ -197,4 +197,8 @@ Dus. Recapitulerend en terugkijkende op dit artikel.
 
 ### Wat zou jij doen?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 261575966886 buttonDestination=modal]]
+
+[[shopifyCollection 269233684646 buttonDestination=modal]]
+
+[[shopifyCollection 269344604326buttonDestination=modal]]

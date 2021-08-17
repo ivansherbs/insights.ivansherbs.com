@@ -12,8 +12,11 @@ tags:
 - infectie
 - gevoel
 - relatie
+- moeder
+- eyeopener
 meta:
-  description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties?
+  description: Wist je dat 3 op de 4 vrouwen last krijgt van een vaginale schimmelinfectie?! Vrouwen hebben een verhoogd risico op infecties. Benieuwd naar de inzichten over vaginale schimmelinfecties? Misschien is dit artikel wel het delen waard...
+
   keywords: schimmelinfectie, vaginale schimmelinfectie, infectie, candida infectie, micro organismen, vaginale schimmel, voetschimmel, huidschimmel, poenie
 fragments:
   header: nl/fragments/voordelen/1-versterkt-de-weerstand
@@ -28,7 +31,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
 Om maar gelijk met de deur in huis te vallen. Ik ga het met name hebben over vaginale schimmelinfecties. Want...
 
@@ -129,8 +132,8 @@ Er is echter één maar….
 
 Ik wil je even **waarschuwen** dat dit heel ongemakkelijk kan zijn wanneer mensen die je niet goed kent even meekijken. Maar echt heel ongemakkelijk.
 
-[**KLIK HIER**](#https://commons.wikimedia.org/wiki/File:Speculum_exam_in_candidal_vulvovaginitis.jpg)
-
+[**-->>KLIK HIER<<--**](#https://insights.ivansherbs.com/nl/artikel/hoe-ziet-een-vaginale-schimmelinfectie-er-uit)
+<!--terug_en_lees_verder-->
 En...
 
 Tevreden?
@@ -304,4 +307,6 @@ Vergeet niet dat een vaginale schimmelinfectie makkelijk kan terugkomen.
 
 Wil jij meer weten over infecties?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]
+
+[[shopifyCollection 269344604326 buttonDestination=modal]]

@@ -4,13 +4,11 @@ title: Supplementen
 url: /nl/assortiment/ivans-assortiment-supplementen
 type: article
 category: supplementen
-publish:
-  author:
 tags:
 - assortiment
 meta:
   description: Kruiden rechtstreeks uit de natuur in vegan capsule. Goed voor lichaam en geest. 100% puur en afkomstige uit één van de schoonste plekken op aarde. Onze supplementen zijn vrij van dierenleed en ontbossing.
-  keywords: vegan, capsules, supplementen, kruiden, assortiment, bestsellers, collectie, kwaliteit, dierenleed, ontbossing
+  keywords: vegan, capsules, supplementen, kruiden, assortiment, pre order , collectie, kwaliteit, dierenleed, ontbossing
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
@@ -24,16 +22,28 @@ contentful:
 shopify:
   language: NL
 ---
-**Bestsellers | 250 Vegan capsules**
+## Pre order  | 250 Vegan capsules
 
-Kruiden rechtstreeks uit de natuur in vegan capsule. Goed voor lichaam en geest. 100% puur en afkomstige uit één van de schoonste plekken op aarde. Onze supplementen zijn vrij van dierenleed en ontbossing.
+Supplementen rechtstreeks uit de natuur in vegan capsules. Goed voor lichaam en geest. 100% puur en afkomstige uit één van de schoonste plekken op aarde. Onze supplementen zijn vrij van dierenleed en ontbossing.
 
-## Bestsellers
+[[shopifyCollection 267300995238 buttonDestination=modal]]
 
-[[shopifyCollection 267300995238 buttonDestination=cart]]
+> De kruiden uit onze vegan capsules zijn bewezen effectief middels klinisch onderzoek. Met andere woorden, onze supplementen zijn veilig, doeltreffend en geproduceerd zonder complex chemisch proces.
 
-## 250 Vegan capsules
+## Pre order | Giftset 750 Vegan Capsules
 
-De kruiden uit onze vegan capsules zijn bewezen effectief middels klinisch onderzoek en komen rechtstreeks uit de natuur. In andere woorden, onze supplementen zijn veilig, doeltreffend en geproduceerd zonder complex chemisch proces.
+[[shopifyCollection 269467386022 buttonDestination=modal]]
 
-[[shopifyCollection 267300995238 buttonDestination=cart]]
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
+
+* [Pre order](/nl/assortiment/pre-order)
+
+* [Kruidenthee](/nl/assortiment/ivans-assortiment-siberische-kruidenthee)
+
+* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
+
+* [Matcha](/nl/assortiment/ivans-assortiment-siberische-matcha)

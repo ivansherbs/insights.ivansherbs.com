@@ -7,8 +7,8 @@ category: Ivan Chai
 tags:
 - assortiment
 meta:
-  description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit. Goed voor lichaam en geest. Wacht niet langer en bestel vandaag nog het product dat bij u past. Benieuwd naar de verschillende pakketten?
-  keywords: kruidenthee, assortiment, pakketten, bestsellers, collectie, favorieten, kilobags, inzichten, geschenkdoos
+  description: Bekijk ons ruime assortiment aan kruiden uit Siberië. Gegarandeerd de hoogste kwaliteit. Goed voor lichaam en geest. Wacht niet langer en bestel vandaag nog kruidenthee. Benieuwd naar de verschillende pakketten?
+  keywords: kruidenthee, assortiment, pakketten, pre order , collectie, favorieten, kilobags, inzichten, geschenkdoos
 fragments:
   header:
   footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
@@ -22,41 +22,61 @@ contentful:
 shopify:
   language: NL
 ---
-**Bestsellers | Collectie | Favorieten | Follow Up | Kleinere Volumes | Extra Veel Volume**
+**Top 5 | Tubes | Favorieten | Kleinere Volumes | Extra Veel Volume**
 
 Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Kijk gerust even verder...
 
-## Bestsellers | Top 3
+## Pre order | Top 5
 
-[[shopifyCollection 261575540902 buttonDestination=cart]]
+Kruidentheeën als alternatief of aanvulling op medicijnen, als levenselixer, maar óók gewoon lekker ter ontspanning. Benieuwd naar de verschillende smaken?
 
-## Collectie | Kruidenthee
+[[shopifyCollection 235510562982 buttonDestination=modal]]
 
-Kruidentheeën als alternatief of aanvulling op medicijnen uit de farmaceutische industrie, als levenselixer, maar óók gewoon lekker ter ontspanning. Benieuwd naar de verschillende smaken?
+## Pre order | Tubes 50 gram
 
-[[shopifyCollection 235510562982 buttonDestination=cart]]
+Herbruikbare design tube om kruiden te bewaren...
 
-## Ivan´s | Favorieten
+[[shopifyCollection 269172474022 buttonDestination=modal]]
 
-Graag bieden wij de mogelijkheid om uw meest favoriete kruidenthee in verschillende formaten aan te schaffen. Wist u dat binnenkort een Ivan Chai met rokerige smaak beschikbaar komt?
+## Pre order | Favorieten
 
-[[shopifyCollection 261575966886 buttonDestination=cart]]
+Graag bieden wij de mogelijkheid om Ivan's meest favoriete kruidenthee in verschillende formaten aan te schaffen.
 
-## Ivan's | Follow Up
+[[shopifyCollection 261575966886 buttonDestination=modal]]
 
-Wij geven u graag een opvolging die door uw brievenbus heen past. Wel zo makkelijk of niet?
+## Pre order | Losse Thee
 
-[[shopifyCollection 261582815398 buttonDestination=cart]]
+Ons assortiment kleinere volumes. Benieuwd met wat voor een etherische oliën, supplementen of matcha onze kleinere hoeveelheden te combineren zijn? Bekijk ook eens Ivan's Upgrade...
 
-## Ivan's | Kleinere Volumes
+[[shopifyCollection 269222150310 buttonDestination=modal]]
 
-Onder het mom: _"voor ieder wat wils"_. Benieuwd met wat voor een etherische oliën, supplementen of matcha u onze kleinere hoeveelheden kunt combineren?
+## Pre order | Upgrade
 
-[[shopifyCollection 261581570214 buttonDestination=cart]]
+Maak uw keuze compleet met Ivan's Upgrade: thee accessoires...
 
-## Ivan´s | Extra Veel Volume
+[[shopifyCollection 6732579930278 buttonDestination=modal]]
 
-Voor de enorme theedrinker die er gewoon geen genoeg van kan krijgen. Met extra veel volume kost een kopje thee ongeveer 10 cent.
+## Pre order | Extra Veel Volume
 
-[[shopifyCollection 261576589478 buttonDestination=cart]]
+Voor de enorme theedrinker die er gewoon géén genoeg van kan krijgen. Met extra veel volume kost een kopje thee pak 'm beet 10 cent.
+
+[[shopifyCollection 261576589478 buttonDestination=modal]]
+
+## Bekijk video (1min)
+
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/ZfVLRgJHHCo?autoplay=1" frameborder="0"></iframe>
+
+## Ivan's | Assortiment
+
+Benieuwd naar onze kruiden uit Siberië?
+
+* [Ivan's Giftsets](/nl/assortiment/ivans-giftsets)
+
+* [Pre order](/nl/assortiment/pre-order)
+
+* [Etherische oliën](/nl/assortiment/ivans-assortiment-etherische-olien)
+
+* [Supplementen](/nl/assortiment/ivans-assortiment-supplementen)
+
+* [Matcha](/nl/assortiment/ivans-assortiment-siberische-matcha)
 

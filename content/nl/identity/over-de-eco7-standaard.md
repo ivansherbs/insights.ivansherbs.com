@@ -8,7 +8,7 @@ publish:
   author: Ivan Alexandrovitsj
 tags:
 - community building
-- natuur
+- milieu
 meta:
   description: Om het mileu te beschermen en de kwaliteit van ons product te kunnen waarborgen, zet onze Eco7 Standaard de norm... Lees snel meer over onze Eco7 Standaard.
   keywords: ecodorp, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, introduceren, kruiden, informeren, community building, siberische kruidenthee, milieu, eco7 standaard, ontbossingen
@@ -20,7 +20,7 @@ contentful:
     fm: jpg
     q: 50
 ---
-Om het milieu te beschermen is de Eco7 Standaard in het leven geroepen. Benieuwd hoe deze standaard tot stand is gekomen?
+Voor een beter milieu in een schonere wereld. Benieuwd hoe onze Eco7 Standaard tot stand is gekomen?
 
 ### Community building
 
@@ -42,9 +42,11 @@ Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in 
 
 Kortom, Chazhaevka doet er alles aan om de natuurlijke evolutie die deze kruiden heeft gevormd niet in de weg te staan.
 
-Om de omgeving te beschermen en de kwaliteit te waarborgen van het product, hebben wij de **Eco7 Standaard** in het leven geroepen:
+Om de omgeving te beschermen en de kwaliteit te waarborgen van onze producten, hebben wij de **Eco7 Standaard** in het leven geroepen:
 
-[[contentfulImage 2jv9WqrhsH6aBkcLdoNvBu]]
+[[contentfulImage 1odkh3aKoDuuAcFaShilid]]
 
 Door onze **Eco7 Standaard** te volgen zijn onze producten tevens:
 - Vrij van ontbossing
+
+[[shopifyCollection 269339164838 buttonDestination=modal]]

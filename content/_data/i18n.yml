@@ -57,6 +57,27 @@ giftset:
 collection:
   EN: Collection
   NL: Assortiment
+$:
+  EN: $
+  NL: €
+history:
+  EN: History
+  NL: Geschiedenis
+more_information_question:
+  EN: More information?
+  NL: Meer informatie?
+the_origin_of:
+  EN: The origin of...
+  NL: De oorsprong van...
+discover:
+  EN: Discover
+  NL: Ontdek
+over:
+  EN: About
+  NL: Over
+back_to_top:
+  EN: Back to top
+  NL: Terug naar boven
 
 #vc.ivansherbs.com
 best_sellers:

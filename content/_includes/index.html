@@ -20,11 +20,12 @@ layout: collection.html
                             <div class="space-15"></div>
                             <h3><a href="{{ article.url }}">{{ article.data.title }}</a></h3>
                             <div class="space-15"></div>
+                                <div><li><span class="lnr lnr-user"></span>{% i18n 'by' language %}by{% endi18n %} {{ article.data.publish.author }}</li>
+                                <li><span class="lnr lnr-clock"></span> {{ article.data.publish.date }}</li></div>
+                            <div class="space-15"></div>
                             <p>{{ article.data.meta.description }}</p>
                             <div class="space-15"></div>
                             <ul class="news-meta">
-                                <li><span class="lnr lnr-user"></span> {{ article.data.publish.author }}</li>
-                                <li><span class="lnr lnr-clock"></span> {{ article.data.publish.date }}</li>
                             </ul>
                         </div>
                     </div>

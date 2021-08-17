@@ -8,9 +8,9 @@ publish:
   author: Ivan Alexandrovitsj
 tags:
 - man
-- 45+
 - eyeopener
 - prostaat
+- voordelen EMA
 meta:
   description: Prostaatklachten? bph? 30% van de mannen vanaf 50 jaar heeft last van een vergrote prostaat. Ofwel benigne prostaat hyperplasie (BPH). Benieuwd naar de inzichten?
   keywords: prostaat, vergrote prostaat, vergrote prostaat, bhp, prostaat vergroot, benigne prostaat hyperplasie, maria treben, urineverlies
@@ -27,7 +27,7 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 261575966886 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 Wist u dat sommige delen van het lichaam niet willen stoppen met groeien?
 
@@ -37,9 +37,9 @@ De meest bekende voorbeelden zijn uw haar en nagels. Maar ook niet zichtbare org
 
 **Tot u erbij neervalt.**
 
-We hebben het over uw prostaat. Wanneer uw prostaat lekker blijft doorgroeien kan dit een problemen opleveren. Echter zijn niet alle problemen slecht voor uw lichaam. We beschouwen een vergrote prostaat dan ook als een goedaardige aandoening.
+We hebben het over uw prostaat. Wanneer uw prostaat lekker blijft doorgroeien kan dit voor problemen zorgen. Echter zijn niet alle problemen slecht voor uw lichaam. We beschouwen een vergrote prostaat dan ook als een goedaardige aandoening.
 
-Met goedaardig bedoelen we dat ze het lichaam géén schade aan doen. Maar wel als vervelend kunnen worden ervaren.
+Met goedaardig bedoelen we dat ze het lichaam géén schade toebrengen. Maar wel als vervelend kunnen worden ervaren.
 
 Komt u dit bekent voor?
 
@@ -120,7 +120,7 @@ En met succes!
 Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverhoopt last krijgen van een ernstige vergrote prostaat, ga verstandig te werk. Bel een deskundige bij twijfel. En laat u informeren over de behandelmethode.
 
 Graag willen we tot slot het volgende belichten.
-* Prostaatklachten kunnen worden verholpen met medicijnen uit de farmaceutische industrie. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij u bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderede werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op medicijnen uit de farmaceutische industrie.
+* Prostaatklachten kunnen worden verholpen met medicijnen uit de farmaceutische industrie. Deze medicijnen hebben ongewenste bijwerkingen tot gevolg. Waar wij u bewust van willen maken zijn de meerdere voordelen van Ivan Chai die deze bijwerkingen kunnen verminderen. Denk aan de antioxiderende werking die zorgt voor een goede doorbloeding van het lichaam. Drink Ivan Chai niet alleen om problemen te voorkomen. Maar ook als aanvulling op medicijnen uit de farmaceutische industrie.
 
 **Let op!**
 
@@ -130,4 +130,4 @@ Neem het drinken van Ivan Chai op in uw dagelijkse routine. Mocht u toch onverho
 
 Op zoek naar meer verdieping?
 
-[[shopifyCollection 235510562982 buttonDestination=modal]]
+[[shopifyCollection 269160775846 buttonDestination=modal]]

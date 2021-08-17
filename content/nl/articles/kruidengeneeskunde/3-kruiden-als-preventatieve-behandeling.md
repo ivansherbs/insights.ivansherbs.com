@@ -9,7 +9,6 @@ publish:
 tags:
 - medicijn
 - kruidengeneeskunde
-- eyeopener
 meta:
   description: Kruiden als preventatieve behandeling krijgen de voorkeur boven medicijnen uit de farmaceutische industrie. Benieuwd naar de inzichten?
   keywords: kruiden, medicijnen, kruidenthee, aromatherapie, supplementen, behandeling, kruidengeneeskunde, farmaceutische industrie, artikel
@@ -24,6 +23,8 @@ contentful:
     fm: jpg
     q: 50
 ---
+[[shopifyCollection 269222150310 buttonDestination=modal]]
+
 Kruidengeneeskunde in de vorm van kruidenthee, aromatherapie supplementen en matcha kunnen worden gebruikt als preventieve behandeling. Uit onderzoek is gebleken dat het gebruik van kruiden de voorkeur krijgt boven het gebruik van medicijnen uit de farmaceutische industrie. De Wereldgezondheidsorganisatie (WHO) schat zelfs dat 80% van de wereldbevolking gebruik maakt van kruidengeneeskunde bij gebrek aan producten uit de farmaceutische industrie.
 
 **In de afgelopen 10 jaar** is het gebruik van kruiden met 380% gestegen. Kruiden en medicijnen uit de farmaceutische industrie zijn nauw met elkaar verbonden. Veel conventionele medicijnen vinden hun oorsprong in de kruidengeneeskunde. Kruiden hebben echter niet meer dezelfde potentie als medicijnen afkomstig uit verschillende apotheken.
@@ -39,3 +40,5 @@ Kruidengeneeskunde in de vorm van kruidenthee, aromatherapie supplementen en mat
 **In het licht van de bevindingen** gericht op een focus-groep waarvan het overgrote deel bestond uit vrouwen, was ontevredenheid over een behandeling met medicijnen uit de farmaceutische industrie de reden om de voorkeur uit te laten gaan naar een behandeling met kruiden. Overheden, artsen en de farmaceutische industrie mogen zich bewust worden van dit groeiende probleem onder de desbetreffende gebruikers.
 
 **Ons advies** aan de farmaceutische industrie is om te blijven ontdekken. Wij zullen dat zeker ook doen.
+
+[[shopifyCollection 269160775846 buttonDestination=modal]]
