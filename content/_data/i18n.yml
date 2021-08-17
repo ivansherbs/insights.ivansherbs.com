@@ -108,3 +108,9 @@ shopify.cart.noteDescription:
   NL: Opmerkingen
 shopify.modalProduct.button:
   NL: In winkelwagen
+shopify.product.price:
+  NL: NL
+shopify.cart.subtotal:
+  NL: NL
+shopify.lineItem.price:
+  NL: NL
