@@ -1,5 +1,3 @@
-><h2>Verzorgt het spijsverteringsstelsel</h2>
+><h1 style="font-family:papyrus">Ivan Chai verzorgt het spijsverteringsstelsel</h1>
 >
->"Ivan Chai verzorgt uw spijsverteringsstelsel en helpt hiermee de kans op maag- en darmklachten te verminderen."
->
-> <p style="text-align: right">Michael Koch<br>Founder Ivan's Herbs</p>
+><p style="font-family:papyrus">"Ivan Chai verzorgt je spijsverteringsstelsel en helpt hiermee de kans op maag- en darmklachten te verminderen."</p>

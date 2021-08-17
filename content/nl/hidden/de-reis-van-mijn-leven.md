@@ -6,8 +6,7 @@ category: welkomstbrief
 publish:
   author: Michael Koch
 meta:
-  # TODO Stefan: removing the TODO without adding a value for description will not pass unit testing
-  description: TODO
+  description: Mijn naam is Michael Koch, één van de oprichters van Ivan's Herbs. Benieuwd naar mijn verhaal?
   keywords: ivan Chai, kruiden, kruidengeneeskunde, voordelen, lichaam, geest, siberië, traditionele kruidengeneeskunde, natuur, geneeskrachtig, michael koch, ivan's herbs
 banner:
   image: 4xERvF6aRTWBQwMFipxC3k
@@ -62,7 +61,7 @@ Dit heeft mij aan het denken gezet. Ik had besloten een nieuwe uitdaging aan te 
 
 Meerdaagse expedities staan erom bekend gepaard te gaan met vele hoogte- als dieptepunten. Het heeft mij uitgedaagd waardoor ik als mens ben verandert. Uiteraard bewandelt men deze expeditie niet alleen. Zou ook vreemd zijn gezien de verraderlijke weersomstandigheden. De top behalen is een prestatie die als team wordt neergezet.
 
-Gedurende deze expeditie heb ik onder andere een herborist ontmoet genaamd Ivan Alexandrovitsj. Ivan was ten tijde van de expeditie met 63 jaar veruit de oudste van de expeditie groep. Gedurende de reist viel mij dan ook iets op.
+Gedurende deze expeditie heb ik onder andere een herborist ontmoet genaamd Ivan de Vries. Ivan was ten tijde van de expeditie met 63 jaar veruit de oudste van de expeditie groep. Gedurende de reist viel mij dan ook iets op.
 
 Iedereen uit de groep was namelijk top fit. Echter merkten wij dat Ivan de groep met veel plezier door de meest barre tijden wist heen te slepen. Ik was gefascineerd door zijn doorzettingsvermogen en raakte in gesprek.
 
@@ -107,9 +106,9 @@ Zoals reeds beloofd, hierbij uw KORTINGSCODE:
 
 <p style="text-align: center"><b>ivans-herbs-kruidenthee</b></p>
 
-Ter info: uw kortingscode is geldig voor onze bestsellers
+Ter informatie: uw kortingscode is geldig voor onze bestsellers
 
-Bekijk ons ruime assortiment aan kruidenthee uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
+Bekijk ons ruime assortiment aan kruidentheeën uit Siberië. Goed voor lichaam en geest. Gegarandeerd de hoogste kwaliteit. Producten volgens Eco7 Standaard en vrij van ontbossing. Op zoek naar uw ideale combinatie?
 
 ## Bestsellers | Top 3
 

@@ -1,5 +1,4 @@
-><h2>Kruidengeneeskunde</h2>
+><h1 style="font-family:papyrus">Kruidengeneeskunde</h1>
 >
-> "Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie."
->
-> <p style="text-align: right">Michael Koch<br>Founder Ivan's Herbs</p>
+> <p style="font-family:papyrus">"Negatieve bijwerkingen zijn zeer zeldzaam en minder ernstig dan bij medicijnen uit de farmaceutische industrie."</p>
+

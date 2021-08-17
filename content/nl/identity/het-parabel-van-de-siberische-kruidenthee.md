@@ -1,11 +1,11 @@
 ---
 layout: article_with_shopify.html
-title: "Het parabel van de Siberische kruidenthee: Ivan Chai"
-url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee
+title: "HET PARABEL VAN DE SIBERISCHE KRUIDENTHEE: IVAN CHAI"
+url: /nl/artikel/het-parabel-van-de-siberische-kruidenthee-ivan-chai
 type: geschiedenis
 category: Ivan Chai
 publish:
-  author: Sasha Popov
+  author: Sasha de Jong
 tags:
 - geschiedenis
 - ivan chai
@@ -50,6 +50,8 @@ Wellicht overbodig om te melden ging de voorkeur voor de heren in de wintermaand
 
 [[contentfulImage 6GcDuKoTJ8zPpNCrw9V5cS]]
 
+<hr>
+
 ## Seizoensgebonden smaakverandering
 
 De smaak van de Ivan Chai was destijds seizoensgebonden vanwege het fermentatieproces. Als gevolg van de wintermaanden was de voorraad Ivan Chai logischerwijs zo goed als op, waardoor men niet kon wachten op de voorzomer. De jaarlijkse seizoensgebonden smaakverandering ging als volgt:
@@ -71,3 +73,5 @@ Er zouden geruchten zijn verspreid dat de Russen Ivan Chai vergiftigden met natt
 In de nasleep van de Russische revolutie van 1917 stopte de commerciële productie. De consumptie van Ivan Chai was vrijwel tot nul gedaald voor West-Europa en delen van Rusland.
 
 Zelfs in Rusland bleef deze geneeskrachtige kruidenthee Ivan Chai wederom enigszins onbekend. Anno 2017 vond er langzaam een opleving plaats waarbij Ivan Chai werd geherintroduceerd in West-Europa.
+
+[[shopifyCollection 269339164838 buttonDestination=modal]]

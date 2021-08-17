@@ -4,27 +4,30 @@ layout: collection.html
 {%- assign sortedTags = collections | sorted_lowercase_keys -%}
 {%- for tag in sortedTags -%}
   {% if tag != 'all' %}
+  <section id="{{ tag | title_case: 'NL' }}">
     <div class="row">
-        <div class="col-md-12 col-lg-12">
+        <div class="col-md-12 col-lg-12" data-aos="fade-zoom-in">
             <div class="row">
                 <div class="col-md-12">
-                    <h2>{{ tag | title_case: 'NL' }}</h2>
+                    <h2 style="font-family:papyrus; background-color: #003154; color: #fff; text-align: center; padding: 10px">{{ tag | title_case: 'NL' }}</h2></h2>
                 </div>
                 {%- for article in collections[tag] -%}
-                <div class="col-md-4">
-                    <div class="blog-box">
+                <div class="col-md-4" data-aos="fade-up">
+                    <div class="blog-box" style="box-shadow: 7px 11px 21px #8f8a72; text-align:center; padding:5%; margin-top:40px">
                         <div class="blog-img">
-                            <a href="{{ article.url }}"><img src="{{ generated.contentful.banner_images[article.data.banner.image] }}?w=255&h=170&q=50&fit=fill" class="img-fluid" alt=""></a>
+                            <a href="{{ article.url }}"><img style="padding:5%" src="{{ generated.contentful.banner_images[article.data.banner.image] }}?w=440&h=250&q=75&fit=fill" class="img-fluid" alt=""></a>
                         </div>
                         <div class="blog-details">
                             <div class="space-15"></div>
-                            <h3><a href="{{ article.url }}">{{ article.data.title }}</a></h3>
+                            <h3 style="font-family:monad; font-size:x-large; padding-left:8%; padding-right:8%"><a href="{{ article.url }}">{{ article.data.title }}</a></h3 >
                             <div class="space-15"></div>
-                            <p>{{ article.data.meta.description }}</p>
-                            <div class="space-15"></div>
+                            <p style="font-family:candara; padding-left:8%; padding-right:8%">{{ article.data.meta.description }}</p>
+                            <div class="space-25"></div>
+                            <a href="{{ article.url }}" target="_blank" class="btn btn-primary shadow btn-colord btn-theme" style="font-family:monad; color:white"><span>LEES MEER...</span></a>
                             <ul class="news-meta">
-                                <li><span class="lnr lnr-user"></span> {{ article.data.publish.author }}</li>
-                                <li><span class="lnr lnr-clock"></span> {{ article.data.publish.date }}</li>
+                                <div class="space-25"></div><div class="space-25"></div>
+                                <div><li><span class="lnr lnr-user" style="color:#3f4450; width: auto; font-family: papyrus;"><big>{% i18n 'by' language %}by{% endi18n %} <span style="color: #134d7e;">{{ article.data.publish.author }}</span></big><br>in <span style="color: #134d7e; font-family: monad;">IVAN'S INSIGHTS</span></p></li><p style="margin-bottom:10px"></p>
+                                <li><span class="lnr lnr-clock" > {{ article.data.publish.date }}</span></li></div>
                             </ul>
                         </div>
                     </div>
@@ -36,3 +39,4 @@ layout: collection.html
     <div class="space-50"></div>
   {% endif %}
 {%- endfor -%}
+</section>
