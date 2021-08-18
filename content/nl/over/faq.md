@@ -34,12 +34,12 @@ Welkom op de Frequently Asked Questions pagina van Ivan’s Herbs. Bij vragen ov
 <div data-aos="fade-right" class="col-md-12 aos-init aos-animate">
                     <div class="accordion" id="faqAccordion">
                         <div class="card shadow">
-                            <div class="card-header" id="heading_1">
+                            <div class="card-header" id="heading_5">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is de minimale bestelwaarde?</button>
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Wat is de minimale bestelwaarde?</button>
                                 </h5>
                             </div>
-                            <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
+                            <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
                                     <p style="font-family:candara; text-align:center">Voor alle bestellingen geldt een minimale bestelwaarde van € 19,95.</p>
                                 </div>
@@ -75,23 +75,23 @@ Welkom op de Frequently Asked Questions pagina van Ivan’s Herbs. Bij vragen ov
 <div data-aos="fade-right" class="col-md-12 aos-init aos-animate">
                     <div class="accordion" id="faqAccordion">
                         <div class="card shadow">
-                            <div class="card-header" id="heading_1">
+                            <div class="card-header" id="heading_6">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Hoe snel ontvang ik mijn pre order?</button>
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Hoe snel ontvang ik mijn pre order?</button>
                                 </h5>
                             </div>
-                            <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
+                            <div id="collapse_6" class="collapse" aria-labelledby="heading_6" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
                                     <p style="font-family:candara; text-align:center">De snelheid van de verzending is afhankelijk van het aantal klanten wat een pre order heeft bestelt. Wij houden onze klanten via e-mail met regelmaat op de hoogte wanneer de productie in gang wordt gezet en de verzending wordt opgestuurd.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="card shadow">
-                            <div class="card-header" id="heading_2">
+                            <div class="card-header" id="heading_7">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Wat gebeurt er als er te weinig animo is voor een pre order?</button></h5>
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_7" aria-expanded="false" aria-controls="collapse_7">Wat gebeurt er als er te weinig animo is voor een pre order?</button></h5>
                             </div>
-                            <div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#faqAccordion" style="">
+                            <div id="collapse_7" class="collapse" aria-labelledby="heading_7" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
                                     <p style="font-family:candara; text-align:center">Ivan’s Herbs zoekt altijd naar een passende oplossing. In andere woorden, wij stellen een nieuw pakket samen of storten het bestelbedrag weer terug.
                                     </p>
