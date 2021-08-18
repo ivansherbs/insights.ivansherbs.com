@@ -14,7 +14,7 @@ meta:
   keywords: ivan chai, kruiden, prostaat, prostaatklachten, vergrote prostaat, bph, prostaatontsteking, prostaatkanker
 fragments:
   header: nl/fragments/voordelen/6-1-verzorgt-de-gezondheid-van-de-prostaat
-  footer: nl/fragments/faq/prostaatkanker
+  footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
 banner:
   image: 3NRH8dvMHatZ0F6sDLxK4h
   effect: o-lg-60d-black
@@ -25,8 +25,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269339164838 buttonDestination=modal]]
-
 ### Effectiviteit
 
 Het European Medicines Agency (EMA) gevestigd in Amsterdam heeft Ivan Chai als behandeling goedgekeurd voor de verlichting van symptomen die verband houden met een:
@@ -62,22 +60,14 @@ Interacties (wisselwerking met andere medicijnen) zijn gedurende klinische onder
 
 Goed om te weten bij het uitzoeken van uw producten. De basis van al onze Siberische kruidentheeën is Ivan Chai vanwege de geneeskrachtige werking.
 
-[[shopifyCollection 269160775846 buttonDestination=modal]]
-
-Al onze kruiden zijn geselecteerd volgens Eco7 Standaard.
-
-[[contentfulImage 5iloeRnHPD7jqJDCtEjGJs]]
-
-Door onze Eco7 Standaard te volgen zijn onze producten tevens:
-
-* Vrij van ontbossing
+[[shopifyCollection 269339164838 buttonDestination=modal]]
 
 ### Artikelen
 
-Meer weten over de volgende onderwerpern?
+Meer weten over de volgende onderwerpen?
 
-[Vergrote prostaat](/nl/artikel/groeien-tot-u-erbij-neervalt)
+<p style="text-align:center"><a  href="/nl/artikel/groeien-tot-u-erbij-neervalt" style="font-family:papyrus;">Vergrote prostaat</a></p><hr>
 
-[Prostaatontsteking](/nl/artikel/geen-touw-aan-vast-te-knopen)
+<p style="text-align:center"><a  href="/nl/artikel/geen-touw-aan-vast-te-knopen" style="font-family:papyrus;">Prostaatontsteking</a></p><hr>
 
-[Prostaatkanker](/nl/artikel/een-onopgemerkt-probleem)
+<p style="text-align:center"><a  href="/nl/artikel/een-onopgemerkt-probleem" style="font-family:papyrus;">Prostaatkanker</a></p><hr>

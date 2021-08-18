@@ -25,8 +25,6 @@ contentful:
 shopify:
   language: NL
 ---
-[[shopifyCollection 269339164838 buttonDestination=modal]]
-
 ### Effectiviteit
 
 Het European Medicines Agency (EMA) gevestigd in Amsterdam heeft Ivan Chai als behandeling goedgekeurd voor de verlichting van symptomen die verband houden met een:
@@ -54,14 +52,4 @@ Interacties (wisselwerking met andere medicijnen) zijn gedurende klinische onder
 
 Goed om te weten bij het uitzoeken van uw producten. De basis van al onze Siberische kruidentheeën is Ivan Chai vanwege de geneeskrachtige werking.
 
-[[shopifyCollection 235543658662 buttonDestination=modal]]
-
-Al onze kruiden zijn geselecteerd volgens Eco7 Standaard.
-
-[[contentfulImage 5iloeRnHPD7jqJDCtEjGJs]]
-
-Door onze Eco7 Standaard te volgen zijn onze producten tevens:
-
-* Vrij van ontbossing
-
-[[shopifyCollection 269160775846 buttonDestination=modal]]
+[[shopifyCollection 269339164838 buttonDestination=modal]]

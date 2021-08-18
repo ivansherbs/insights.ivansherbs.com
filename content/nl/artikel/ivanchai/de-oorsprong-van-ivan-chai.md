@@ -15,7 +15,7 @@ meta:
   keywords: kruiden, kruidenthee, siberië, medicijn, bergen, klimaat, schoon, natuur, rusland, bomen, spar, den, tiaga, gezondheid, evolutie, wildernis, Altaj, fireweed, ivan chai, epilobium angustifolium
 fragments:
   header: nl/fragments/voordelen/vraag-naar-medicijnen-rechstreeks-uit-de-natuur
-  footer: nl/fragments/faq/advies-en-behandeling-producten-ivans-herbs
+  footer: nl/fragments/faq/advies-en-behandeling-ivan-chai
 banner:
   image: 2gjpo5VPHlB4zfJ2E8Tq5
   effect: o-lg-60d-black
