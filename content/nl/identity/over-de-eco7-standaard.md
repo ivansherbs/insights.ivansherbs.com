@@ -50,7 +50,7 @@ Kortom, Chazhaevka doet er alles aan om de natuurlijke evolutie die deze kruiden
 
 Om de omgeving te beschermen en de kwaliteit te waarborgen van onze producten, hebben wij de <span style="font-family:monad">ECO7 STANDAARD</span> in het leven geroepen:
 
-<img src="https://images.ctfassets.net/lyvtxhzy9zgr/1odkh3aKoDuuAcFaShilid/3493bcb5069dec65aba00e449399abc6/Eco7_Standard_NL_V2_.jpg?h=400">
+<span style="text-align:center"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/1odkh3aKoDuuAcFaShilid/3493bcb5069dec65aba00e449399abc6/Eco7_Standard_NL_V2_.jpg?h=400" style="border:2px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc; box-shadow: 0px 6px 5px #ccc;-moz-border-radius:190px;-webkit-border-radius:190px; border-radius:190px;"></span>
 
 Door onze <span style="font-family:monad">ECO7 STANDAARD</span> te volgen zijn onze producten tevens:
 ><p style="font-family:papyrus">Vrij van ontbossing</p>
