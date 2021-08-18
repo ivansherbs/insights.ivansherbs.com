@@ -68,24 +68,12 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_6">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Welk effect heeft het gebruik van medicijnen op een peesontsteking?</button>
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Waarom Ivan Chai?</button>
                                 </h5>
                             </div>
                             <div id="collapse_6" class="collapse" aria-labelledby="heading_6" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara; text-align:center">Over het algemeen wordt het probleem verzorgd. Echter kan het gebruik van medicijnen uit de farmaceutische industrie ongewenste bijwerkingen met zich meebrengen. Het kan zijn dat door gebruik van het medicijn ook je weerstand vermindert. Hierdoor ben je kwetsbaarder voor nieuwe problemen. Zo zijn er tal van ongewenste bijwerkingen.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card shadow">
-                            <div class="card-header" id="heading_7">
-                                <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_7" aria-expanded="false" aria-controls="collapse_7">Welk effect heeft het gebruik van medicijnen op een peesontsteking?</button>
-                                </h5>
-                            </div>
-                            <div id="collapse_7" class="collapse" aria-labelledby="heading_7" data-parent="#faqAccordion" style="">
-                                <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara; text-align:center">✔ Ivan Chai werkt als een krachtige ontstekingsremmer<br><br>Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.</p>
+                                    <p style="font-family:candara; text-align:center">✔ Ivan Chai werkt als een krachtige ontstekingsremmer<br><br>Ivan Chai is bewezen effectief bij het voorkomen en onderdrukken van ontstekingen. Voor het verhelpen van de pijn wat gepaard gaat met ontstekingen, zal je geneigd zijn snel over te stappen op medicijnen met tal van ongewenste bijwerkingen. Beperk door het drinken van Ivan Chai de ongewenste bijwerkingen.</p>
                                 </div>
                             </div>
                         </div>
