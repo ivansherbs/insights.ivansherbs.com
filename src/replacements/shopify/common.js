@@ -11,7 +11,7 @@ const patterns = {
     svalue: /(?:(?<svalue>(?:\\\s|[^\s])*))/
 };
 
-const attributeRegExp = new RegExp(`${patterns.key.source}\\s*=(?:${patterns.avalue.source}|${patterns.qvalue.source}|${patterns.svalue.source})`, 'g');
+const attributeRegExp = new RegExp(`€{patterns.key.source}\\s*=(?:€{patterns.avalue.source}|€{patterns.qvalue.source}|€{patterns.svalue.source})`, 'g');
 
 var markdownPatterns = {
     product: /\[\[shopifyProduct\s+(\w+)(?:\s+(.*))?\s*\]\]/,
