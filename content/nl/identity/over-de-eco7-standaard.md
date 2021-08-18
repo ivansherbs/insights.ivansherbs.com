@@ -48,11 +48,11 @@ Het Siberische landklimaat heeft een grote invloed op de voordelen te vinden in 
 
 Kortom, Chazhaevka doet er alles aan om de natuurlijke evolutie die deze kruiden heeft gevormd niet in de weg te staan.
 
-Om de omgeving te beschermen en de kwaliteit te waarborgen van onze producten, hebben wij de **Eco7 Standaard** in het leven geroepen:
+Om de omgeving te beschermen en de kwaliteit te waarborgen van onze producten, hebben wij de <span style="font-family:monad">ECO7 STANDAARD</span> in het leven geroepen:
 
 [[contentfulImage 1odkh3aKoDuuAcFaShilid]]
 
-Door onze **Eco7 Standaard** te volgen zijn onze producten tevens:
-- Vrij van ontbossing
+Door onze <span style="font-family:monad">ECO7 STANDAARD</span> te volgen zijn onze producten tevens:
+><p style="font-family:papyrus">Vrij van ontbossing</p>
 
 [[shopifyCollection 269339164838 buttonDestination=modal]]
