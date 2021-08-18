@@ -66,10 +66,10 @@ module.exports = function(displayType) {
         var dataAttributes = '';
         for (var key in options) {
             if (options[key]) {
-                dataAttributes += ` data-${ key }="${ options[key] }"`;
+                dataAttributes += ` data-€{ key }="€{ options[key] }"`;
             }
         }
 
-        return `<div class="shopify-${displayType}" ${ dataAttributes }></div>`;
+        return `<div class="shopify-€{displayType}" €{ dataAttributes }></div>`;
     };
 };
