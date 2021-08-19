@@ -11,7 +11,7 @@ const patterns = {
     svalue: /(?:(?<svalue>(?:\\\s|[^\s])*))/
 };
 
-const attributeRegExp = new RegExp(`${patterns.key.source}\\s*=(?:${patterns.avalue.source}|${patterns.qvalue.source}|${patterns.svalue.source})`, 'g');
+const attributeRegExp = new RegExp(`€{patterns.key.source}\\s*=(?:€{patterns.avalue.source}|€{patterns.qvalue.source}|€{patterns.svalue.source})`, 'g');
 
 var markdownPatterns = {
     product: /\[\[shopifyProduct\s+(\w+)(?:\s+(.*))?\s*\]\]/,
@@ -66,10 +66,10 @@ module.exports = function(displayType) {
         var dataAttributes = '';
         for (var key in options) {
             if (options[key]) {
-                dataAttributes += ` data-${ key }="${ options[key] }"`;
+                dataAttributes += ` data-€{ key }="€{ options[key] }"`;
             }
         }
 
-        return `<div class="shopify-${displayType}" ${ dataAttributes }></div>`;
+        return `<div class="shopify-€{displayType}" €{ dataAttributes }></div>`;
     };
 };
