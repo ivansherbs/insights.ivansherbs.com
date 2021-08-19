@@ -24,7 +24,7 @@ contentful:
 shopify:
   language: NL
 ---
-### PRE ORDER - 250 Vegan capsules
+### 250 Vegan capsules
 
 Supplementen rechtstreeks uit de natuur in vegan capsules. Goed voor lichaam en geest. 100% puur en afkomstige uit één van de schoonste plekken op aarde. Onze supplementen zijn vrij van dierenleed en ontbossing.
 
@@ -32,7 +32,7 @@ Supplementen rechtstreeks uit de natuur in vegan capsules. Goed voor lichaam en 
 
 ><p style="text-align: center; font-family:papyrus">De kruiden uit onze vegan capsules zijn bewezen effectief middels klinisch onderzoek. Met andere woorden, onze supplementen zijn veilig, doeltreffend en geproduceerd zonder complex chemisch proces.</p>
 
-### PRE ORDER - Giftset 750 Vegan Capsules
+### Giftset 750 Vegan Capsules
 
 [[shopifyCollection 269467386022 buttonDestination=modal]]
 

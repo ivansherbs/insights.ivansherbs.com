@@ -24,23 +24,23 @@ contentful:
 shopify:
   language: NL
 ---
-### PRE ORDER - Matcha 200 gram
+### Matcha 200 gram
 
 Matcha bestaat uit kruiden in poedervorm. Matcha is hierdoor méér dan alleen matcha thee. Ooit matcha gecombineerd met drank of voeding...?
 
 [[shopifyCollection 269233684646 buttonDestination=modal]]
 
-### PRE ORDER - Upgrade
+### Upgrade
 
 Maak uw keuze compleet met Ivan's Upgrade: Matcha accessoires...
 
 [[shopifyCollection 6821349163174 buttonDestination=modal]]
 
-### PRE ORDER - Giftset
+### Giftset
 
 [[shopifyCollection 269467484326 buttonDestination=modal]]
 
-### PRE ORDER - 1 kg
+### 1 kg
 
 Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met warm water?
 

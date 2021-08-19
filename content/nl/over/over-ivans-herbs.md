@@ -23,8 +23,6 @@ publish:
 
 ## Introduceren kruiden uit Siberië
 
-<hr>
-
 De producten van Ivan's Herbs komen rechtstreeks uit de natuur, hebben krachtige impact op de gezondheid, algehele gemoedstoestand en zijn bewezen effectief middels klinisch onderzoek.
 
 Onze toevoerlijn van kruiden zijn een alternatief of aanvulling op medicijnen gemaakt door de zwaar vervuilde farmaceutische industrie De farmaceutische industrie wordt getypeerd door een opeenvolging van mislukkingen al zoekende naar een wondermiddel in een complexe en besloten omgeving waarbij patenten de norm zetten tot verandering.
@@ -37,8 +35,6 @@ Goed voor lichaam en geest...
 
 ## Informeren
 
-<hr>
-
 Informeren over kruiden uit Siberië als oplossing voor fysieke dan wel mentale problemen staat bij ons hoog in het vaandel. Dit streven wij na door het schrijven van artikelen over lichaam en geest.
 
 Met andere woorden, de voor- en nadelen van kruidengeneeskunde worden besproken, de bewezen voordelen van onze kruiden worden belicht of ontdek wat kruidengeeskunde kan betekenen in het dagelijks leven.
@@ -49,8 +45,6 @@ Benieuwd naar onze inzichten?
 [[contentfulImage QzIUfEuB5zxJRYozJxlCw]]
 
 ## Community building
-
-<hr>
 
 Onze waarden richten zich tevens op samenwerkingsverbanden die worden gevormd met zogenaamde Siberische ecodorpen.
 
