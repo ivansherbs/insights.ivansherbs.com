@@ -20,7 +20,7 @@ Welkom op de Frequently Asked Questions pagina van Ivan’s Herbs. Bij vragen ov
                         <div class="card shadow">
                             <div class="card-header" id="heading_1">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Hoe krijg ik korting?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Hoe krijg ik korting?</button>
                                 </h5>
                             </div>
                             <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
@@ -36,7 +36,7 @@ Welkom op de Frequently Asked Questions pagina van Ivan’s Herbs. Bij vragen ov
                         <div class="card shadow">
                             <div class="card-header" id="heading_5">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Wat is de minimale bestelwaarde?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Wat is de minimale bestelwaarde?</button>
                                 </h5>
                             </div>
                             <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">
@@ -48,7 +48,7 @@ Welkom op de Frequently Asked Questions pagina van Ivan’s Herbs. Bij vragen ov
                         <div class="card shadow">
                             <div class="card-header" id="heading_2">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Welke betaalmethode accepteren jullie?</button></h5>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Welke betaalmethode accepteren jullie?</button></h5>
                             </div>
                             <div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
@@ -60,7 +60,7 @@ Welkom op de Frequently Asked Questions pagina van Ivan’s Herbs. Bij vragen ov
                         <div class="card shadow">
                             <div class="card-header" id="heading_3">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Gratis verzending?
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Gratis verzending?
                                     </button></h5>
                             </div>
                             <div id="collapse_3" class="collapse" aria-labelledby="heading_3" data-parent="#faqAccordion" style="">
@@ -77,7 +77,7 @@ Welkom op de Frequently Asked Questions pagina van Ivan’s Herbs. Bij vragen ov
                         <div class="card shadow">
                             <div class="card-header" id="heading_6">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Hoe snel ontvang ik mijn pre order?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Hoe snel ontvang ik mijn pre order?</button>
                                 </h5>
                             </div>
                             <div id="collapse_6" class="collapse" aria-labelledby="heading_6" data-parent="#faqAccordion" style="">
@@ -89,7 +89,7 @@ Welkom op de Frequently Asked Questions pagina van Ivan’s Herbs. Bij vragen ov
                         <div class="card shadow">
                             <div class="card-header" id="heading_7">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_7" aria-expanded="false" aria-controls="collapse_7">Wat gebeurt er als er te weinig animo is voor een pre order?</button></h5>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_7" aria-expanded="false" aria-controls="collapse_7">Wat gebeurt er als er te weinig animo is voor een pre order?</button></h5>
                             </div>
                             <div id="collapse_7" class="collapse" aria-labelledby="heading_7" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">

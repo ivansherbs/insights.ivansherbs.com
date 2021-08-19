@@ -6,7 +6,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_1">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is het immuunsysteem?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is het immuunsysteem?</button>
                                 </h5>
                             </div>
                             <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
@@ -18,7 +18,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_2">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Wanneer spreek je van een zwak immuunsysteem?
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Wanneer spreek je van een zwak immuunsysteem?
                                     </button>
                                 </h5>
                             </div>
@@ -32,7 +32,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_3">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Wanneer krijg je last van een zwak immuunsysteem?
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Wanneer krijg je last van een zwak immuunsysteem?
                                     </button>
                                 </h5>
                             </div>
@@ -45,7 +45,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_4">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Welk effect heeft het gebruik van medicijnen op een zwak immuunsysteem?
                                     </button>
                                 </h5>
                             </div>
@@ -58,7 +58,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_5">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Waarom Ivan Chai?
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Waarom Ivan Chai?
                                     </button>
                                 </h5>
                             </div>

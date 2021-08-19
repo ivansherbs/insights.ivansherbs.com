@@ -6,7 +6,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_1">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is een luchtweginfectie?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is een luchtweginfectie?</button>
                                 </h5>
                             </div>
                             <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
@@ -18,7 +18,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_2">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Wanneer krijg je last van een luchtweginfectie?
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Wanneer krijg je last van een luchtweginfectie?
                                     </button>
                                 </h5>
                             </div>
@@ -32,7 +32,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_3">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Wat vergroot de kans op een luchtweginfecties?
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Wat vergroot de kans op een luchtweginfecties?
                                     </button>
                                 </h5>
                             </div>
@@ -45,7 +45,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_4">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Welke medicijnen zijn van invloed op een verkoudheid of griep?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Welke medicijnen zijn van invloed op een verkoudheid of griep?</button>
                                 </h5>
                             </div>
                             <div id="collapse_4" class="collapse" aria-labelledby="heading_4" data-parent="#faqAccordion" style="">
@@ -57,7 +57,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_5">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Welk effect heeft het gebruik van medicijnen op luchtweginfecties?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Welk effect heeft het gebruik van medicijnen op luchtweginfecties?</button>
                                 </h5>
                             </div>
                             <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">
@@ -69,7 +69,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_6">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Waardoor vergroot ik de kans op een luchtweginfectie?
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Waardoor vergroot ik de kans op een luchtweginfectie?
                                     </button>
                                 </h5>
                             </div>
@@ -82,7 +82,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_7">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_7" aria-expanded="false" aria-controls="collapse_7">Statistieken en pseudokroep?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_7" aria-expanded="false" aria-controls="collapse_7">Statistieken en pseudokroep?</button>
                                 </h5>
                             </div>
                             <div id="collapse_7" class="collapse" aria-labelledby="heading_7" data-parent="#faqAccordion" style="">
@@ -94,7 +94,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_8">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_8" aria-expanded="false" aria-controls="collapse_8">Zijn er tips voor het drinken van Ivan Chai met kinderen</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_8" aria-expanded="false" aria-controls="collapse_8">Zijn er tips voor het drinken van Ivan Chai met kinderen</button>
                                 </h5>
                             </div>
                             <div id="collapse_8" class="collapse" aria-labelledby="heading_8" data-parent="#faqAccordion" style="">
@@ -106,7 +106,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_8">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_8" aria-expanded="false" aria-controls="collapse_8">Waarom Ivan Chai?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_8" aria-expanded="false" aria-controls="collapse_8">Waarom Ivan Chai?</button>
                                 </h5>
                             </div>
                             <div id="collapse_8" class="collapse" aria-labelledby="heading_8" data-parent="#faqAccordion" style="">
