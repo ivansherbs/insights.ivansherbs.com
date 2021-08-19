@@ -31,19 +31,19 @@ contentful:
 shopify:
   language: NL
 ---
-### Royaltea Giftset
+### PRE ORDER - Royaltea Giftset
 
 [[shopifyCollection 268072419494 buttonDestination=modal]]
 
-### Etherische oliën
+### PRE ORDER - Etherische oliën
 
 [[shopifyCollection 269467320486 buttonDestination=modal]]
 
-### Supplementen
+### PRE ORDER - Supplementen
 
 [[shopifyCollection 269467386022 buttonDestination=modal]]
 
-### Matcha
+### PRE ORDER - Matcha
 
 [[shopifyCollection 269467484326 buttonDestination=modal]]
 
