@@ -5,7 +5,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_1">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is een blaasontsteking?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is een blaasontsteking?</button>
                                 </h5>
                             </div>
                             <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
@@ -17,7 +17,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_2">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Hebben zowel mannen als vrouwen last van dit probleem?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Hebben zowel mannen als vrouwen last van dit probleem?</button>
                                 </h5>
                             </div>
                             <div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#faqAccordion" style="">
@@ -29,7 +29,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_3">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Waarom is dit probleem van invloed op de kwaliteit van het leven?</button>
+                                  <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Waarom is dit probleem van invloed op de kwaliteit van het leven?</button>
                                 </h5>
                             </div>
                             <div id="collapse_3" class="collapse" aria-labelledby="heading_3" data-parent="#faqAccordion" style="">
@@ -41,7 +41,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_4">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Komt een blaasontsteking dan alleen door seks?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Komt een blaasontsteking dan alleen door seks?</button>
                                 </h5>
                             </div>
                             <div id="collapse_4" class="collapse" aria-labelledby="heading_4" data-parent="#faqAccordion" style="">
@@ -53,7 +53,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_5">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Hoe komen ongewenste bacteriën in je lichaam?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Hoe komen ongewenste bacteriën in je lichaam?</button>
                                 </h5>
                             </div>
                             <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">
@@ -65,7 +65,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_6">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Zijn er bepaalde risicofactoren?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Zijn er bepaalde risicofactoren?</button>
                                 </h5>
                             </div>
                             <div id="collapse_6" class="collapse" aria-labelledby="heading_6" data-parent="#faqAccordion" style="">
@@ -76,8 +76,7 @@
                             <div class="card shadow">
                             <div class="card-header" id="heading_6">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Waarom Ivan Chai?
-                                    </button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">Waarom Ivan Chai?</button>
                                 </h5>
                             </div>
                             <div id="collapse_6" class="collapse" aria-labelledby="heading_6" data-parent="#faqAccordion" style="">

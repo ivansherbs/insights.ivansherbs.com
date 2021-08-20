@@ -6,7 +6,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_1">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is een tandvleesontsteking?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is een tandvleesontsteking?</button>
                                 </h5>
                             </div>
                             <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
@@ -18,8 +18,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_2">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Wat zijn de symptomen van een tandvleesontsteking?
-                                    </button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Wat zijn de symptomen van een tandvleesontsteking?</button>
                                 </h5>
                             </div>
                             <div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#faqAccordion" style="">
@@ -31,7 +30,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_3">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Welke medicijnen vergroten de kans op een infectie ( met ontstoken tandvlees tot gevolg)?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Welke medicijnen vergroten de kans op een infectie ( met ontstoken tandvlees tot gevolg)?</button>
                                 </h5>
                             </div>
                             <div id="collapse_3" class="collapse" aria-labelledby="heading_3" data-parent="#faqAccordion" style="">
@@ -43,8 +42,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_4">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Waardoor vergroot ik de kans op ontstoken tandvlees?
-                                    </button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Waardoor vergroot ik de kans op ontstoken tandvlees?</button>
                                 </h5>
                             </div>
                             <div id="collapse_4" class="collapse" aria-labelledby="heading_4" data-parent="#faqAccordion" style="">
@@ -56,8 +54,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_5">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Waarom Ivan Chai?
-                                    </button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Waarom Ivan Chai?</button>
                                 </h5>
                             </div>
                             <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">

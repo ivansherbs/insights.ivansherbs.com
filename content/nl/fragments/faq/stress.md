@@ -6,7 +6,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_1">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is stress?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">Wat is stress?</button>
                                 </h5>
                             </div>
                             <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion" style="">
@@ -18,7 +18,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_2">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Hoe ontstaat stress?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">Hoe ontstaat stress?</button>
                                 </h5>
                             </div>
                             <div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#faqAccordion" style="">
@@ -30,8 +30,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_3">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Wat zijn de oorzaken van stress?
-                                    </button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Wat zijn de oorzaken van stress?</button>
                                 </h5>
                             </div>
                             <div id="collapse_3" class="collapse" aria-labelledby="heading_3" data-parent="#faqAccordion" style="">
@@ -43,8 +42,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_4">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?
-                                    </button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">Wat kan er gebeuren wanneer je té lang met veel stress rondloopt?</button>
                                 </h5>
                             </div>
                             <div id="collapse_4" class="collapse" aria-labelledby="heading_4" data-parent="#faqAccordion" style="">
@@ -56,13 +54,12 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_5">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Waarom Ivan Chai?</button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">Waarom Ivan Chai?</button>
                                 </h5>
                             </div>
                             <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara; text-align:center">✔ Ivan Chai vermindert de kans op stress<br><br>Ivan Chai heeft een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek ondersteund deze kalmerende werking. De kalmerende werking heeft namelijk effect op je centrale zenuwstelsel.
-                                    </p>
+                                    <p style="font-family:candara; text-align:center">✔ Ivan Chai vermindert de kans op stress<br><br>Ivan Chai heeft een kalmerende werking. Het staat in de traditionele volksgeneeskunde al jaren bekend als mild kalmerend middel. Hedendaags onderzoek ondersteund deze kalmerende werking. De kalmerende werking heeft namelijk effect op je centrale zenuwstelsel.</p>
                                 </div>
                             </div>
                         </div>
