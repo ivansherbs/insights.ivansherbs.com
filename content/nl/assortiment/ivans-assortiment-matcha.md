@@ -78,7 +78,7 @@ Ervaring opgedaan met het veelvuldig gebruik van matcha naast het combineren met
                     </div>
                 <div class="col-lg-4 col-md-6 col-12 count-up">
                     <div class="fact-box text-center aos-init aos-animate" style="background-image: url(assets/img/eco7-4.jpg); background-color:white" data-aos="fade-up" data-aos-delay="150">
-                        <a href="/nl/assortiment/ivans-assortiment-etherische-olien"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/dEvkgc7HH6nQSdpg9wGLl/6eac7e29feae751e0dd3f12b10858d59/essential_oil.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="padding:1px; border: 0px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc;-moz-border-radius:15px;-webkit-border-radius:15px;Border-radius:15px;></a>
+                        <a href="/nl/assortiment/ivans-assortiment-etherische-olien"><img src="https://images.ctfassets.net/lyvtxhzy9zgr/dEvkgc7HH6nQSdpg9wGLl/6eac7e29feae751e0dd3f12b10858d59/essential_oil.jpg?w=1900&h=700&fit=fill" class="img-fluid" alt="" style="padding:1px; border: 0px solid #fff;-moz-box-shadow: 0px 6px 5px #ccc;-webkit-box-shadow: 0px 6px 5px #ccc;box-shadow: 0px 6px 5px #ccc;-moz-border-radius:15px;-webkit-border-radius:15px;Border-radius:15px;"></a>
                             <div class="space-25"></div>
                         <a href="/nl/assortiment/ivans-assortiment-etherische-olien" style="font-family:monad ; margin: auto">ETHERISCHE OLIËN</a>
                             <div class="space-25"></div>
