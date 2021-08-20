@@ -39,8 +39,7 @@ Drink Ivan Chai als alternatief of aanvulling op medicijnen uit de farmaceutisch
                         <div class="card shadow">
                             <div class="card-header" id="heading_3">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?
-                                    </button></h5>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">Wanneer mijn klachten zijn verholpen, kan ik stoppen met het drinken van Ivan Chai?</button></h5>
                             </div>
                             <div id="collapse_3" class="collapse" aria-labelledby="heading_3" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">

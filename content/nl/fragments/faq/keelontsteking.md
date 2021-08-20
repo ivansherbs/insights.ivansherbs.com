@@ -23,8 +23,7 @@
                             </div>
                             <div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#faqAccordion" style="">
                                 <div class="card-body" style="background-color: #75adcf; color: white">
-                                    <p style="font-family:candara; text-align:center">Een keelontsteking krijg je meestal door een infectie met een virus. Schimmels en bacteriën kunnen ook een infectie veroorzaken.<br><br>Een infectie loop je op wanneer je weerstand laag is. Hiervoor maak je jezelf kwetsbaarder wanneer je bijvoorbeeld alcohol drinkt, rookt, stress ervaart of je stem overmatig gebruikt.
-                                    </p>
+                                    <p style="font-family:candara; text-align:center">Een keelontsteking krijg je meestal door een infectie met een virus. Schimmels en bacteriën kunnen ook een infectie veroorzaken.<br><br>Een infectie loop je op wanneer je weerstand laag is. Hiervoor maak je jezelf kwetsbaarder wanneer je bijvoorbeeld alcohol drinkt, rookt, stress ervaart of je stem overmatig gebruikt.</p>
                                 </div>
                             </div>
                         </div>
@@ -55,8 +54,7 @@
                         <div class="card shadow">
                             <div class="card-header" id="heading_5">
                                 <h5 style="font-family:papyrus; text-align:center" class="mb-0">
-                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">En wat als ik toch antibiotica wil gebruiken?
-                                    </button>
+                                    <button style="white-space:break-spaces" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">En wat als ik toch antibiotica wil gebruiken?</button>
                                 </h5>
                             </div>
                             <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion" style="">
