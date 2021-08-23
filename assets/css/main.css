@@ -43,7 +43,7 @@
     01. START GENERAL STYLE
 ------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Candara:300,400,700,900&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;0,900;1,400;1,600;1,900&family=Oswald&display=swap');
 
 @font-face {
     font-family: Monad;
@@ -51,7 +51,7 @@
 }
 
 body {
-    font-family: Candara;
+    font-family: alegreya, oswald, sans-serif;
     font-size: 16px;
     position: relative;
     overflow-x: hidden;
