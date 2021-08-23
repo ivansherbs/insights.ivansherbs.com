@@ -2024,7 +2024,7 @@ aside.sidebar .tags ul li {
 
 .single-blog-page .blog-box .blog-details {
     padding: 0 15px;
-    font-family: candara;
+    font-family: alegreya;
 }
 
 .single-blog-page .blog-box .blog-details h2 {
@@ -2055,7 +2055,7 @@ aside.sidebar .tags ul li {
     font-weight: 400;
     margin-top: 30px;
     margin-bottom: 30px;
-    font-family: candara;
+    font-family: alegreya;
     text-align: start;
 }
 
@@ -2081,7 +2081,7 @@ aside.sidebar .tags ul li {
 .single-blog-page .blog-box .blog-details pre {
     padding: 30px 30px;
     background: #EEE;
-    font-family: candara;
+    font-family: alegreya;
 }
 
 .single-blog-page .blog-box .blog-details blockquote p {
@@ -2113,7 +2113,7 @@ aside.sidebar .tags ul li {
         margin-top: 20px;
         margin-bottom: 20px;
         text-align: start;
-        font-family: candara;
+        font-family: alegreya;
     }
 
     .single-blog-page .blog-box .blog-details > ul {
