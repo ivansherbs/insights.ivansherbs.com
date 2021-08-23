@@ -50,7 +50,7 @@ shopify:
                 <div class="space-15"></div>
                     <h1 style="font-family:monad;margin-top:30px"><a href="/nl/assortiment/ivans-assortiment-kruidenthee/">5 HEERLIJKE SMAKEN</a></h1>
                         <div class="space-20"></div>
-                        <h5 style="font-family:candara; margin-bottom:30px; text-align: justify;">Ontdek welke kruiden wij gebruiken voor onze verschillende Siberische kruidentheeën. Iedere smaak biedt meerdere voordelen goed voor lichaam en geest.</h5>
+                        <h5 style="font-family:alegreya; margin-bottom:30px; text-align: justify;">Ontdek welke kruiden wij gebruiken voor onze verschillende Siberische kruidentheeën. Iedere smaak biedt meerdere voordelen goed voor lichaam en geest.</h5>
                         <div class="space-15"><a href="/nl/assortiment/ivans-assortiment-kruidenthee/" target="_blank" class="btn btn-primary shadow btn-colord btn-theme" style="font-family:monad; color:white">
                         <span>LEES MEER...</span></a><hr>
                         <div class="space-15">
@@ -61,8 +61,8 @@ shopify:
             <h3 style="font-family:monad;margin-top:30px">
             <a href="/nl/artikel/kruidengeneeskunde/1-kruiden-uit-siberie-als-medicijn-zonder-bijwerkingen/">KRUIDEN UIT SIBERIË ALS MEDICIJN ZONDER BIJWERKINGEN</a></h3>
             </div>
-                <div class="col"><span style="font-family:candara; margin-bottom:30px; color: #8f8a72">KRUIDENGENEESKUNDE </span>
-                    <span style="font-family: candara; font-size:larger; text-align: justify;">Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel...</span></div>
+                <div class="col"><span style="font-family:alegreya; margin-bottom:30px; color: #8f8a72">KRUIDENGENEESKUNDE </span>
+                    <span style="font-family: alegreya; font-size:larger; text-align: justify;">Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel...</span></div>
                     <div class="space-25"></div>
                     <a href="/nl/artikel/kruidengeneeskunde/1-kruiden-uit-siberie-als-medicijn-zonder-bijwerkingen/" target="_blank" class="btn btn-primary shadow btn-colord btn-theme" style="font-family:monad; color:white">
                         <span>LEES MEER...</span></a>
@@ -109,7 +109,7 @@ shopify:
                 <div class="space-15"></div>
                     <h1 style="font-family:monad;margin-top:30px"><a href="/nl/assortiment/ivans-assortiment-kruidenthee/">5 HEERLIJKE SMAKEN</a></h1>
                         <div class="space-20"></div>
-                        <h5 style="font-family:candara; margin-bottom:30px; text-align: justify;"><span style="font-family:candara; margin-bottom:30px; color: #8f8a72">KRUIDENTHEE </span>Ontdek welke kruiden wij gebruiken voor onze verschillende Siberische kruidentheeën.</h5>
+                        <h5 style="font-family:alegreya; margin-bottom:30px; text-align: justify;"><span style="font-family:alegreya; margin-bottom:30px; color: #8f8a72">KRUIDENTHEE </span>Ontdek welke kruiden wij gebruiken voor onze verschillende Siberische kruidentheeën.</h5>
                         <div class="space-15"><a href="/nl/assortiment/ivans-assortiment-kruidenthee/" target="_blank" class="btn btn-primary shadow btn-colord btn-theme" style="font-family:monad; color:white">
                         <span>LEES MEER...</span></a><hr>
                         <div class="space-15">
@@ -129,8 +129,8 @@ shopify:
             </a></div><a>
   </a><div style="text-align:center;" class="col-sm-6"><a>
             </a><h3 style="font-family:monad;margin-top:30px; text-align: left; padding:15px; width: 600px"><a></a><a href="/nl/artikel/kruidengeneeskunde/1-kruidenthee-uit-siberie-als-medicijn-zonder-bijwerkingen/">KRUIDENTHEE UIT SIBERIË ALS MEDICIJN ZONDER BIJWERKINGEN</a></h3>
-                <div class="col" style="text-align:left; width: 700px"><span style="font-family:candara; margin-bottom:30px; color: #8f8a72">KRUIDENGENEESKUNDE </span>
-                    <span style="font-family: candara; font-size:larger;">Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel...</span></div>
+                <div class="col" style="text-align:left; width: 700px"><span style="font-family:alegreya; margin-bottom:30px; color: #8f8a72">KRUIDENGENEESKUNDE </span>
+                    <span style="font-family: alegreya; font-size:larger;">Kruiden rechtstreeks uit de natuur zijn vergelijkbaar met medicijnen uit de farmaceutische industrie. Van alle goedgekeurde medicijnen van de afgelopen 30 jaar is 50% direct of indirect afkomstig uit kruiden. Het gebruik van kruiden met geneeskrachtige werking rechtstreeks uit de natuur heeft één groot voordeel...</span></div>
                     <div class="space-25"></div>
                     <a href="/nl/artikel/kruidengeneeskunde/1-kruidenthee-uit-siberie-als-medicijn-zonder-bijwerkingen/" target="_blank" class="btn btn-primary shadow btn-colord btn-theme" style="font-family:monad; color:white">
                         <span>LEES MEER...</span></a>

@@ -43,7 +43,7 @@
     01. START GENERAL STYLE
 ------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Candara:300,400,700,900&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;0,900;1,400;1,600;1,900&family=Oswald&display=swap');
 
 @font-face {
     font-family: Monad;
@@ -51,7 +51,7 @@
 }
 
 body {
-    font-family: Candara;
+    font-family: alegreya, oswald, sans-serif;
     font-size: 16px;
     position: relative;
     overflow-x: hidden;
@@ -2024,7 +2024,7 @@ aside.sidebar .tags ul li {
 
 .single-blog-page .blog-box .blog-details {
     padding: 0 15px;
-    font-family: candara;
+    font-family: alegreya;
 }
 
 .single-blog-page .blog-box .blog-details h2 {
@@ -2055,7 +2055,7 @@ aside.sidebar .tags ul li {
     font-weight: 400;
     margin-top: 30px;
     margin-bottom: 30px;
-    font-family: candara;
+    font-family: alegreya;
     text-align: start;
 }
 
@@ -2081,7 +2081,7 @@ aside.sidebar .tags ul li {
 .single-blog-page .blog-box .blog-details pre {
     padding: 30px 30px;
     background: #EEE;
-    font-family: candara;
+    font-family: alegreya;
 }
 
 .single-blog-page .blog-box .blog-details blockquote p {
@@ -2113,7 +2113,7 @@ aside.sidebar .tags ul li {
         margin-top: 20px;
         margin-bottom: 20px;
         text-align: start;
-        font-family: candara;
+        font-family: alegreya;
     }
 
     .single-blog-page .blog-box .blog-details > ul {
