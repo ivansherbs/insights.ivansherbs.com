@@ -139,3 +139,24 @@ shopify:
                 </div>
           </section>
 
+
+
+
+BUTTONS GEKLEURD
+
+<nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://vc.ivansherbs.com"><span class="btn btn-primary shadow btn-theme" style="background-color:#3c83b8;padding: 5px;margin: 2px; border-radius:0px">Startpagina</span></a></li>
+          <li class="breadcrumb-item"><a href="https://insights.ivansherbs.com/nl/"><span class="btn btn-primary shadow btn-theme" style="background-color:#3c83b8;padding: 5px;margin: 2px; border-radius:0px">Alle artikelen</span></a></li>
+          <li class="breadcrumb-item active" aria-current="page"><span class="btn btn-primary shadow btn-theme" style="background-color:#75adcf;padding: 5px;margin: 2px; border-radius:0px">DE OORSPRONG VAN IVAN CHAI</span></li>
+        </ol>
+      </nav>
+
+
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="https://vc.ivansherbs.com"><span style="color:#3c83b8;"><U>Startpagina</U></span></a></li>
+          <li class="breadcrumb-item"><a href="https://insights.ivansherbs.com/nl/"><span style="color:#3c83b8;"><U>Alle artikelen</U></span></a></li>
+          <li class="breadcrumb-item active" aria-current="page"><span style="color:#75adcf;">DE OORSPRONG VAN IVAN CHAI</span></li>
+        </ol>
+      </nav>
