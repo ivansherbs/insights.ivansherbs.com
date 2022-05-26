@@ -102,6 +102,4 @@ For more information about our privacy practices, if you have questions, or if y
 
 Ivan's Herbs<br>
 [Re: Privacy Compliance Officer]<br>
-Korte Noorderweg 27G
-1221 NA Hilversum
 the Netherlands<br>

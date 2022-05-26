@@ -160,3 +160,20 @@ BUTTONS GEKLEURD
           <li class="breadcrumb-item active" aria-current="page"><span style="color:#75adcf;">DE OORSPRONG VAN IVAN CHAI</span></li>
         </ol>
       </nav>
+
+
+<ul class="nav justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#top">Trending</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#top3">Top 3</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#Collectie artikelen">Collectie artikelen</a>
+  </li>
+<li class="nav-item">
+    <a class="nav-link" href="#trefwoorden">Trefwoorden</a>
+  </li>
+
+</ul>
